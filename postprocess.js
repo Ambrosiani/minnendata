@@ -16,7 +16,7 @@ function GetSortOrder(prop){
 }
 
 // Step 1: Read the downloaded_filename JSON
-const filename = Deno.args[0] // Same name as downloaded_filename `const filename = 'btc-price.json';`
+const filename = Deno.args[0] // Same name as downloaded_filename
 const json = await readJSON(filename)
 console.log(json)
 
@@ -30,4 +30,4 @@ const newFilename = `eftervaccinet-postprocessed.json` // name of a new file to 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2))
 console.log("Wrote a post process file")
 
-// await removeFile(filename)
+await removeFile('./eftervaccinet.json')
