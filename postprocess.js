@@ -29,4 +29,4 @@ const newFilename = `eftervaccinet-postprocessed.json` // name of a new file to 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2))
 console.log("Wrote a post process file")
 
-removeFile(filename)
+// removeFile(filename)
