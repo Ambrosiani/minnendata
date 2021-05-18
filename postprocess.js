@@ -2,7 +2,7 @@
 
 // Helper library written for useful postprocessing tasks with Flat Data
 // Has helper functions for manipulating csv, json, excel, zip, and image files
-import { readJSON, writeJSON, removeFile } from 'https://deno.land/x/flat@0.0.9/mod.ts' 
+import { readJSON, removeFile } from 'https://deno.land/x/flat@0.0.9/mod.ts' 
 
 function GetSortOrder(prop){
    return function(a,b){
@@ -27,6 +27,8 @@ const sortedArray = array.sort( GetSortOrder("id"));
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `eftervaccinet-postprocessed.json` // name of a new file to be saved
 await writeJSON(newFilename, sortedArray, { spaces: 2 }) // create a new JSON file
+
+await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2))
 console.log("Wrote a post process file")
 
 // await removeFile(filename)
