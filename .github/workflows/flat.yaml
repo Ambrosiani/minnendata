@@ -6,7 +6,7 @@ on:
       - .github/workflows/flat.yml # Only run a new workflow every time this file (flat.yaml) file changes
   workflow_dispatch: # Required even though this is currently empty
   schedule:
-    - cron: '*/20 * * * *' # Run this workflow every 5 minutes
+    - cron: '*/20 * * * *' # Run this workflow every 20 minutes
 
 jobs:
   scheduled:
@@ -24,6 +24,6 @@ jobs:
       - name: Fetch data 
         uses: githubocto/flat@v2
         with:
-          http_url: https://minnen.se/api/response/by_geo?topic_id=eftervaccinet # The data to fetch every 5 minutes
-          downloaded_filename: eftervaccinet.json # The http_url gets saved and renamed in our repository as btc-price.json
+          http_url: https://minnen.se/api/response/by_geo?topic_id=eftervaccinet # The data to fetch every 20 minutes
+          downloaded_filename: eftervaccinet.json # The http_url gets saved and renamed in our repository
           postprocess: postprocess.js # A postprocessing javascript or typescript file
