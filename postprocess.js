@@ -26,5 +26,7 @@ const sortedArray = array.sort( GetSortOrder("id"));
 
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `eftervaccinet-postprocessed.json` // name of a new file to be saved
-await writeJSON(newFilename, sortedArray) // create a new JSON file with just the Bitcoin price
+await writeJSON(newFilename, sortedArray, { spaces: 2 }) // create a new JSON file
 console.log("Wrote a post process file")
+
+await removeFile(filename)
