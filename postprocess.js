@@ -29,4 +29,4 @@ const newFilename = `eftervaccinet-postprocessed.json` // name of a new file to 
 await writeJSON(newFilename, sortedArray, { spaces: 2 }) // create a new JSON file
 console.log("Wrote a post process file")
 
-await removeFile(filename)
+// await removeFile(filename)
