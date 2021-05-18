@@ -22,7 +22,7 @@ console.log(json)
 
 const array = json["responses"];
 
-sortedArray = array.sort( GetSortOrder("id"));
+const sortedArray = array.sort( GetSortOrder("id"));
 
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `eftervaccinet-postprocessed.json` // name of a new file to be saved
