@@ -21,7 +21,15 @@ const json = await readJSON(filename)
 
 const array = json["responses"];
 
-const sortedArray = array.sort( GetSortOrder("id"));
+var sortedArray = array.sort( GetSortOrder("id"));
+
+sortedArray.forEach(function(response){
+  if (response.hasOwnProperty('dms_url')) {
+      let url = new URL(response.dms_url);
+      let newURL = 'https://dms01.dimu.org'+url.pathname;
+    response['dms_url'] = newURL;
+  }
+});
 
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = `eftervaccinet-postprocessed.json` // name of a new file to be saved
@@ -29,4 +37,4 @@ const newFilename = `eftervaccinet-postprocessed.json` // name of a new file to 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2))
 console.log("Wrote a post process file")
 
-// removeFile(filename)
+removeFile(filename)
