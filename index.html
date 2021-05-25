@@ -15,7 +15,7 @@
 <script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>
 </head>
 <body>
-<div class="grid">
+<div class="grid" id="masonrydiv">
     <div><img src="https://source.unsplash.com/t3DHojIo-08" alt=""></div>
     <div><img src="https://source.unsplash.com/Imc-IoZDMXc" alt=""></div>
     <div><img src="https://source.unsplash.com/SOZWHqeXcPQ" alt=""></div>
@@ -24,11 +24,22 @@
 </div>
 
 <script>
+	var masonrydiv = document.getElementById("masonrydiv");
 	fetch("./eftervaccinet-postprocessed.json")
 .then(response => {
    return response.json();
 })
-.then(data => console.log(data));
+.then(data => 
+	data.forEach(function(response){
+  if (response.hasOwnProperty('dms_url')) {
+  	var responseImg = document.createElement("img");
+  	responseImg.src = response.dms_url;
+  	var responseDiv = document.createElement("div");
+  	responseDiv.appendChild(responseImg);
+  	masonrydiv.appendChild(responseDiv);
+  }
+})
+);
         FlexMasonry.init('.grid');
 </script>
 </html>
