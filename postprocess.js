@@ -32,18 +32,9 @@ var indexhtml = '<!DOCTYPE html>\n\
     <meta charset="utf-8">\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
     <title>Återföreningen – livet efter vaccinet</title>\n\
-    <style type="text/css">\n\
-      img {\n\
-          display: block;\n\
-          height: auto;\n\
-          max-width: 100%;\n\
-      }\n\
-      .inner {\n\
-          padding: 2px;\n\
-      }\n\
-    </style>\n\
-<link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">\n\
-<script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>\n\
+    <link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">\n\
+    <link rel="stylesheet" href="style.css">\n\
+    <script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>\n\
 </head>\n\
 <body>\n\
 <div class="grid">';

@@ -1,0 +1,13 @@
+a {
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+div.inner {
+    padding: 10px;
+}
