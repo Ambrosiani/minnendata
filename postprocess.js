@@ -38,6 +38,9 @@ var indexhtml = '<!DOCTYPE html>\n\
           height: auto;\n\
           max-width: 100%;\n\
       }\n\
+      .inner {\n\
+          padding: 2px;\n\
+      }\n\
     </style>\n\
 <link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">\n\
 <script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>\n\
@@ -51,7 +54,7 @@ sortedArray.forEach(function(response){
     let newURL = 'https://dms01.dimu.org'+url.pathname;
     response['dms_url'] = newURL;
     responsesWithImages++;
-    var imgstring = '<div><img src="'+response.dms_url+'"></div>\n';
+    var imgstring = '<div><div class="inner"><a href="' + response.url + '"><img src="' + response.dms_url + '"><br/>' + response.slogan + '</a></div></div>\n';
     indexhtml += imgstring;
   }
   if (response.latitude !== null) {
@@ -66,11 +69,11 @@ stats["responsesWithImages"] = responsesWithImages;
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = 'eftervaccinet-postprocessed.json';
 
-indexhtml += '</div>\
-\
-<script>\
-    FlexMasonry.init(".grid");\
-</script>\
+indexhtml += '</div>\n\
+\n\
+<script>\n\
+    FlexMasonry.init(".grid");\n\
+</script>\n\
 </html>';
 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2));
