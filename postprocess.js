@@ -26,23 +26,23 @@ var sortedArray = array.sort( GetSortOrder("id"));
 var responsesWithImages = 0;
 var responsesWithCoordinates = 0;
 var stats = {};
-var indexhtml = '<!DOCTYPE html>\
-<html lang="sv">\
-<head>\
-    <meta charset="utf-8">\
-    <meta name="viewport" content="width=device-width, initial-scale=1">\
-    <title>Återföreningen – livet efter vaccinet</title>\
-    <style type="text/css">\
-      img {\
-          display: block;\
-          height: auto;\
-          max-width: 100%;\
-      }\
-    </style>\
-<link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">\
-<script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>\
-</head>\
-<body>\
+var indexhtml = '<!DOCTYPE html>\n\
+<html lang="sv">\n\
+<head>\n\
+    <meta charset="utf-8">\n\
+    <meta name="viewport" content="width=device-width, initial-scale=1">\n\
+    <title>Återföreningen – livet efter vaccinet</title>\n\
+    <style type="text/css">\n\
+      img {\n\
+          display: block;\n\
+          height: auto;\n\
+          max-width: 100%;\n\
+      }\n\
+    </style>\n\
+<link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">\n\
+<script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>\n\
+</head>\n\
+<body>\n\
 <div class="grid">';
 
 sortedArray.forEach(function(response){
@@ -51,8 +51,7 @@ sortedArray.forEach(function(response){
     let newURL = 'https://dms01.dimu.org'+url.pathname;
     response['dms_url'] = newURL;
     responsesWithImages++;
-    var imgstring = '<div><img src="'+response.dms_url+'></div>\
-    ';
+    var imgstring = '<div><img src="'+response.dms_url+'"></div>\n';
     indexhtml += imgstring;
   }
   if (response.latitude !== null) {
