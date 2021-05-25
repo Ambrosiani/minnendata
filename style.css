@@ -8,6 +8,8 @@ img {
     height: auto;
     max-width: 100%;
 }
-div.inner {
+.inner {
+    border: 1px solid grey;
+    margin: 2px;
     padding: 10px;
 }
