@@ -25,7 +25,7 @@ var sortedArray = array.sort( GetSortOrder("id"));
 
 var responsesWithImages = 0;
 var responsesWithCoordinates = 0;
-var stats = {"Responses":0,"Responses with coordinates":0, "Responses with images":0}
+var stats = {}
 
 sortedArray.forEach(function(response){
   if (response.hasOwnProperty('dms_url')) {
