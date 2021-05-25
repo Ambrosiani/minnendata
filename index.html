@@ -20,8 +20,7 @@
 
 <script>
 	var masonrydiv = document.getElementById("masonrydiv");
-
-	await fetch("./eftervaccinet-postprocessed.json")
+	fetch("./eftervaccinet-postprocessed.json")
 .then(response => {
    return response.json();
 })
@@ -36,6 +35,6 @@
   }
 })
 );
-FlexMasonry.init('.grid');
+        FlexMasonry.init('.grid');
 </script>
 </html>
