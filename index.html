@@ -7,34 +7,18 @@
     <style type="text/css">
     	img {
         	display: block;
-        	max-width: 100%;
         	height: auto;
+          max-width: 100%;
     	}
     </style>
 <link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">
 <script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>
 </head>
 <body>
-<div class="grid" id="masonrydiv">
+<div class="grid">
 </div>
 
 <script>
-	var masonrydiv = document.getElementById("masonrydiv");
-	fetch("./eftervaccinet-postprocessed.json")
-.then(response => {
-   return response.json();
-})
-.then(data => 
-	data.forEach(function(response){
-  if (response.hasOwnProperty('dms_url')) {
-  	var responseImg = document.createElement("img");
-  	responseImg.src = response.dms_url;
-  	var responseDiv = document.createElement("div");
-  	responseDiv.appendChild(responseImg);
-  	masonrydiv.appendChild(responseDiv);
-  }
-})
-);
-        FlexMasonry.init('.grid');
+    FlexMasonry.init('.grid');
 </script>
 </html>
