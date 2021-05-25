@@ -34,7 +34,7 @@ sortedArray.forEach(function(response){
     response['dms_url'] = newURL;
     responsesWithImages++;
   }
-  if (response.hasOwnProperty('latitude')) {
+  if (response.latitude !== null) {
     responsesWithCoordinates++;
   }
 });
