@@ -2,7 +2,7 @@
 
 // Helper library written for useful postprocessing tasks with Flat Data
 // Has helper functions for manipulating csv, json, excel, zip, and image files
-import { readJSON, removeFile } from 'https://deno.land/x/flat@0.0.9/mod.ts' 
+import { readJSON, removeFile } from 'https://deno.land/x/flat/mod.ts' 
 
 function GetSortOrder(prop){
    return function(a,b){
