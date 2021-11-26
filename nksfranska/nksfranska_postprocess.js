@@ -70,7 +70,17 @@ sortedArray.forEach(function(item){
   delete item.ready_for_approval;
   delete item.user_id;
 
-  indexhtml += '<div><h2>' + item.archive_code + '</h2><p>';
+  indexhtml += '<div><h2>' + item.archive_code + '</h2><p>Inlämnad av ' + item.contributor.display_name;
+
+  if (item.hasOwnProperty('contributor.place')) {
+    indexhtml += ', ' + item.contributor.place;
+  }
+
+  if (item.hasOwnProperty('contributor.birth_year')) {
+    indexhtml += ', född ' + item.contributor.birth_year;
+  }
+
+  indexhtml += '</p><p>';
   
   if (item.hasOwnProperty('image_dms_id')) {
     let media_url = new URL('https://dms01.dimu.org/image/'+item.image_dms_id);
@@ -78,7 +88,7 @@ sortedArray.forEach(function(item){
     var imgstring = '<img src="' + media_url + '">';
     indexhtml += imgstring;
     if (item.hasOwnProperty('values')) {
-      indexhtml += '<br/>';
+      indexhtml += '</p><p>';
     }
   }
   if (item.hasOwnProperty('values')) {
