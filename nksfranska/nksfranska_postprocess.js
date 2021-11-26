@@ -107,7 +107,7 @@ const newFilename = 'nksfranska/nksfranska_postprocessed.json';
 indexhtml += '</div>\n\
 \n\
 <script>\n\
-    FlexMasonry.init(".grid");\n\
+    FlexMasonry.init(".grid", {breakpointCols: {"min-width: 1500px": 4,"min-width: 1200px": 3,"min-width: 992px": 2,"min-width: 768px": 2,"min-width: 576px": 1}});\n\
 </script>\n\
 </html>';
 
