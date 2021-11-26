@@ -20,6 +20,7 @@ body {
     font-size: 20px;
     font-family: "Lab Grotesque Web", sans-serif;
     line-height: 1.6;
+    margin: 0;
 }
 a {
     color: black;
@@ -31,13 +32,18 @@ img {
     max-width: 100%;
 }
 .inner {
-    border-bottom: 1px solid black;
-    margin: 10px;
-    padding: 20px 40px;
+
 }
 
 h2 {
     font-family: "Caslon Ionic Web Regular", sans-serif;
     font-size: 36px;
+    margin-top: 0px;
 }
 
+.flexmasonry-item {
+    margin: 10px;
+    padding: 20px 40px;
+    border-bottom: 1px solid black;
+    padding-bottom: 80px;
+}
