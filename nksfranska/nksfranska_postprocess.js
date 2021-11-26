@@ -25,7 +25,7 @@ function GetAllResults(json){
    while (count < totalCount) {
     offset = offset + 10;
     url = url + '&offset=' + offset;
-    var json_next = await readJSONFromURL(url);
+    var json_next = readJSONFromURL(url);
     for (var i = json_next["items"].length - 1; i >= 0; i--) {
       json["items"].push(json_next["items"][i])
     }
@@ -37,7 +37,7 @@ function GetAllResults(json){
 
 // Step 1: Read the downloaded_filename JSON
 const filename = Deno.args[0] // Same name as downloaded_filename
-var json = await readJSON(filename)
+var json = await readJSON(filename);
 
 json = GetAllResults(json);
 
