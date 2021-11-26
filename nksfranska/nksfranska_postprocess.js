@@ -4,7 +4,6 @@
 // Has helper functions for manipulating csv, json, excel, zip, and image files
 import { readJSON, readJSONFromURL } from 'https://deno.land/x/flat@0.0.10/src/json.ts'
 import { removeFile } from 'https://deno.land/x/flat@0.0.10/src/remove.ts'
-import * as core from 'https://github.com/actions/toolkit/blob/main/packages/core/src/core.ts';
 
 function GetSortOrder(prop){
    return function(a,b){
@@ -26,9 +25,9 @@ function GetAllResults(json){
    while (count < totalCount) {
     offset = offset + 10;
     url = url + '&offset=' + offset;
-    core.info(url);
+    console.log(url);
     var json_next = readJSONFromURL(url);
-    core.info(json_next);
+    console.log(json_next);
     for (var i = json_next["items"].length - 1; i >= 0; i--) {
       json["items"].push(json_next["items"][i])
     }
