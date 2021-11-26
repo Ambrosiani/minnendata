@@ -71,27 +71,31 @@ sortedArray.forEach(function(item){
   delete item.open_for_student_edit;
   delete item.ready_for_approval;
   delete item.user_id;
-
-  /*
-  if (response.hasOwnProperty('dms_url')) {
-    let url = new URL(response.dms_url);
-    let newURL = 'https://dms01.dimu.org'+url.pathname;
-    response['dms_url'] = newURL;
+  
+  if (item.hasOwnProperty('image_dms_id')) {
+    let media_url = new URL('https://dms01.dimu.org/image/'+'item.dms_id');
     responsesWithImages++;
-    var imgstring = '<div><div class="inner"><a href="' + response.url + '"><img src="' + response.dms_url + '"><br/>' + response.slogan + '</a></div></div>\n';
+    var imgstring = '<div><div class="inner"><a href="' + item.presentation_url + '"><img src="' + media_url + '">';
     indexhtml += imgstring;
+    if (item.hasOwnProperty('values')) {
+      indexhtml += '<br/>';
+    }
   }
-  if (response.latitude !== null) {
+  if (item.hasOwnProperty('values')) {
+    indexhtml += item['values'][0]['display_value'];
+  }
+
+  if (item.hasOwnProperty('latitude')) {
     responsesWithCoordinates++;
   }
-  */
+  indexhtml += '</a></div></div>\n';
 
 });
 
 
 stats["Responses"] = array.length
-//stats["responsesWithCoordinates"] = responsesWithCoordinates;
-//stats["responsesWithImages"] = responsesWithImages;
+stats["responsesWithCoordinates"] = responsesWithCoordinates;
+stats["responsesWithImages"] = responsesWithImages;
 
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = 'nksfranska/nksfranska_postprocessed.json';
