@@ -26,7 +26,7 @@ function GetAllResults(json){
     offset = offset + 10;
     url = url + '&offset=' + offset;
     console.log(url);
-    var json_next = readJSONFromURL(url);
+    const json_next = await readJSON(url);
     console.log(json_next);
     for (var i = json_next["items"].length - 1; i >= 0; i--) {
       json["items"].push(json_next["items"][i])
