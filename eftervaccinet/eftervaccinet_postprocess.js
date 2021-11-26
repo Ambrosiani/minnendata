@@ -20,9 +20,9 @@ function GetSortOrder(prop){
 const filename = Deno.args[0] // Same name as downloaded_filename
 const json = await readJSON(filename)
 
-const array = json["items"];
+const array = json["responses"];
 
-var sortedArray = array.sort( GetSortOrder("presentation_url"));
+var sortedArray = array.sort( GetSortOrder("id"));
 
 var responsesWithImages = 0;
 var responsesWithCoordinates = 0;
@@ -40,7 +40,6 @@ var indexhtml = '<!DOCTYPE html>\n\
 <body>\n\
 <div class="grid">';
 
-/*
 sortedArray.forEach(function(response){
   if (response.hasOwnProperty('dms_url')) {
     let url = new URL(response.dms_url);
@@ -54,14 +53,13 @@ sortedArray.forEach(function(response){
     responsesWithCoordinates++;
   }
 });
-*/
 
 stats["Responses"] = array.length
-//stats["responsesWithCoordinates"] = responsesWithCoordinates;
-//stats["responsesWithImages"] = responsesWithImages;
+stats["responsesWithCoordinates"] = responsesWithCoordinates;
+stats["responsesWithImages"] = responsesWithImages;
 
 // Step 3. Write a new JSON file with our filtered data
-const newFilename = 'nksfranska_postprocessed.json';
+const newFilename = 'eftervaccinet/eftervaccinet_postprocessed.json';
 
 indexhtml += '</div>\n\
 \n\
@@ -71,8 +69,8 @@ indexhtml += '</div>\n\
 </html>';
 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2));
-await Deno.writeTextFile('stats_nksfranska.json', JSON.stringify(stats, null, 2));
-await Deno.writeTextFile('nksfranska.html', indexhtml);
+await Deno.writeTextFile('eftervaccinet/eftervaccinet_stats.json', JSON.stringify(stats, null, 2));
+await Deno.writeTextFile('eftervaccinet/index.html', indexhtml);
 console.log("Wrote a post process file");
 
 removeFile(filename);
