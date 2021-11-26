@@ -26,19 +26,20 @@ function GetAllResults(json){
 const filename = Deno.args[0] // Same name as downloaded_filename
 var json = await readJSON(filename);
 
-var count = json["count"];
+var base_count = json["count"];
 var totalCount = json["total_count"];
-var url = 'http://api.minnen.se/api/responses?topic=393bb4f9-8f9a-4700-aea9-b1faab41545a';
+var base_url = 'http://api.minnen.se/api/responses?topic=393bb4f9-8f9a-4700-aea9-b1faab41545a';
 var offset = 0;
+var count = base_count;
 
 while (count < totalCount) {
   offset = offset + 10;
-  url = url + '&offset=' + offset;
+  url = base_url + '&offset=' + offset;
   const json_next = await readJSONFromURL(url);
   for (var i = json_next["items"].length - 1; i >= 0; i--) {
-    json["items"].push(json_next["items"][i])
+    json["items"].push(json_next["items"][i]);
   }
-  count = json["count"];
+  count = count + json_next["items"].length;
 }
 
 const array = json["items"];
