@@ -4,7 +4,7 @@
 // Has helper functions for manipulating csv, json, excel, zip, and image files
 import { readJSON, readJSONFromURL } from 'https://deno.land/x/flat@0.0.10/src/json.ts'
 import { removeFile } from 'https://deno.land/x/flat@0.0.10/src/remove.ts'
-import * as core from '@actions/core';
+import * as core from 'https://github.com/actions/toolkit/blob/main/packages/core/src/core.ts';
 
 function GetSortOrder(prop){
    return function(a,b){
