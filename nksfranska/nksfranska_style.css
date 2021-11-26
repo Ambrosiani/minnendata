@@ -31,9 +31,6 @@ img {
     height: auto;
     max-width: 100%;
 }
-.inner {
-
-}
 
 h2 {
     font-family: "Caslon Ionic Web Regular", sans-serif;
@@ -42,7 +39,8 @@ h2 {
 }
 
 .grid div {
-    margin: 20px 40px;
+    margin: 20px auto;
     border-bottom: 1px solid black;
     padding-bottom: 80px;
+    max-width: 40rem;
 }
