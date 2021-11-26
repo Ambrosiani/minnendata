@@ -34,7 +34,7 @@ var count = base_count;
 
 while (count < totalCount) {
   offset = offset + 10;
-  url = base_url + '&offset=' + offset;
+  var url = base_url + '&offset=' + offset;
   const json_next = await readJSONFromURL(url);
   for (var i = json_next["items"].length - 1; i >= 0; i--) {
     json["items"].push(json_next["items"][i]);
