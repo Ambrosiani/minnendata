@@ -16,9 +16,28 @@ function GetSortOrder(prop){
    }
 }
 
+function GetAllResults(json){
+   var count = json["count"];
+   var totalCount = json["total_count"];
+   var url = 'http://api.minnen.se/api/responses?topic=393bb4f9-8f9a-4700-aea9-b1faab41545a';
+   var offset = 0;
+
+   while (count < totalCount) {
+    offset = offset + 10;
+    url = url . '&offset=' . offset;
+    var json_next = readJSONFromURL(url): JSON 
+    for (var i = json_next["items"].length - 1; i >= 0; i--) {
+      json["items"].push(json_next["items"][i])
+    }
+    count = json["count"];
+   }
+}
+
 // Step 1: Read the downloaded_filename JSON
 const filename = Deno.args[0] // Same name as downloaded_filename
-const json = await readJSON(filename)
+var json = await readJSON(filename)
+
+json = GetAllResults(json);
 
 const array = json["items"];
 
