@@ -25,7 +25,9 @@ function GetAllResults(json){
    while (count < totalCount) {
     offset = offset + 10;
     url = url + '&offset=' + offset;
+    core.info(url);
     var json_next = readJSONFromURL(url);
+    core.info(json_next);
     for (var i = json_next["items"].length - 1; i >= 0; i--) {
       json["items"].push(json_next["items"][i])
     }
