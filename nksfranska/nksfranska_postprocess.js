@@ -62,8 +62,17 @@ var indexhtml = '<!DOCTYPE html>\n\
 <body>\n\
 <div class="grid">';
 
-/*
-sortedArray.forEach(function(response){
+
+sortedArray.forEach(function(item){
+  delete item.comment_count;
+  delete item.hits;
+  delete item.imported;
+  delete item.likes;
+  delete item.open_for_student_edit;
+  delete item.ready_for_approval;
+  delete item.user_id;
+
+  /*
   if (response.hasOwnProperty('dms_url')) {
     let url = new URL(response.dms_url);
     let newURL = 'https://dms01.dimu.org'+url.pathname;
@@ -75,8 +84,10 @@ sortedArray.forEach(function(response){
   if (response.latitude !== null) {
     responsesWithCoordinates++;
   }
+  */
+
 });
-*/
+
 
 stats["Responses"] = array.length
 //stats["responsesWithCoordinates"] = responsesWithCoordinates;
