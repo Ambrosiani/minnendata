@@ -84,7 +84,9 @@ sortedArray.forEach(function(item){
     }
   }
   if (item.hasOwnProperty('values')) {
-    indexhtml += item['values'][0]['display_value'];
+    var answer = item['values'][0]['display_value'];
+    answer = answer.replace(/(?:\r\n|\r|\n)/g, '<br/>');
+    indexhtml += answer;
   }
 
   if (item.hasOwnProperty('latitude')) {
