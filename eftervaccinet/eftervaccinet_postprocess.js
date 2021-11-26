@@ -34,7 +34,7 @@ var indexhtml = '<!DOCTYPE html>\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
     <title>Återföreningen – livet efter vaccinet</title>\n\
     <link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">\n\
-    <link rel="stylesheet" href="style.css">\n\
+    <link rel="stylesheet" href="../style.css">\n\
     <script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>\n\
 </head>\n\
 <body>\n\
