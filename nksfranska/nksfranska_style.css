@@ -39,8 +39,8 @@ h2 {
 }
 
 .grid div {
-    margin: 20px auto;
+    margin: 40px auto;
     border-bottom: 1px solid black;
-    padding-bottom: 80px;
+    padding-bottom: 40px;
     max-width: 40rem;
 }
