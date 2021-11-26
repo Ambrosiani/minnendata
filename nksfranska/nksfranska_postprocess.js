@@ -55,9 +55,7 @@ var indexhtml = '<!DOCTYPE html>\n\
     <meta charset="utf-8">\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
     <title>NKs Franska damskrädderi</title>\n\
-    <link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">\n\
     <link rel="stylesheet" href="nksfranska_style.css">\n\
-    <script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>\n\
 </head>\n\
 <body>\n\
 <div class="grid">';
@@ -105,10 +103,6 @@ stats["responsesWithImages"] = responsesWithImages;
 const newFilename = 'nksfranska/nksfranska_postprocessed.json';
 
 indexhtml += '</div>\n\
-\n\
-<script>\n\
-    FlexMasonry.init(".grid", {breakpointCols: {"min-width: 1500px": 3,"min-width: 1200px": 2,"min-width: 992px": 2,"min-width: 768px": 1,"min-width: 576px": 1}});\n\
-</script>\n\
 </html>';
 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2));
