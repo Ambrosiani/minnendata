@@ -1,6 +1,24 @@
+@font-face {font-family: "Lab Grotesque Web";
+  src: url("fonts/5ffb14c9ea41286ce553095f37596444.eot"); /* IE9*/
+  src: url("fonts/5ffb14c9ea41286ce553095f37596444.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("fonts/5ffb14c9ea41286ce553095f37596444.woff2") format("woff2"), /* chrome、firefox */
+  url("fonts/5ffb14c9ea41286ce553095f37596444.woff") format("woff"), /* chrome、firefox */
+  url("fonts/5ffb14c9ea41286ce553095f37596444.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("fonts/5ffb14c9ea41286ce553095f37596444.svg#Lab Grotesque Web") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "Caslon Ionic Web Regular";
+  src: url("fonts/312bc9a47884bcb79a743e8cc6c357cf.eot"); /* IE9*/
+  src: url("fonts/312bc9a47884bcb79a743e8cc6c357cf.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("fonts/312bc9a47884bcb79a743e8cc6c357cf.woff2") format("woff2"), /* chrome、firefox */
+  url("fonts/312bc9a47884bcb79a743e8cc6c357cf.woff") format("woff"), /* chrome、firefox */
+  url("fonts/312bc9a47884bcb79a743e8cc6c357cf.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("fonts/312bc9a47884bcb79a743e8cc6c357cf.svg#Caslon Ionic Web Regular") format("svg"); /* iOS 4.1- */
+}
+
 body {
     font-size: 20px;
-    font-family: serif;
+    font-family: "Lab Grotesque Web", sans-serif;
     line-height: 1.6;
 }
 a {
@@ -13,7 +31,13 @@ img {
     max-width: 100%;
 }
 .inner {
-    border: 1px solid grey;
+    border-bottom: 1px solid black;
     margin: 10px;
     padding: 20px 40px;
 }
+
+h2 {
+    font-family: "Caslon Ionic Web Regular", sans-serif;
+    font-size: 36px;
+}
+
