@@ -41,7 +41,7 @@ h2 {
     margin-top: 0px;
 }
 
-.flexmasonry-item {
+.grid div {
     margin: 20px 40px;
     border-bottom: 1px solid black;
     padding-bottom: 80px;
