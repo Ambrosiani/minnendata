@@ -53,7 +53,7 @@ var indexhtml = '<!DOCTYPE html>\n\
 <head>\n\
     <meta charset="utf-8">\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
-    <title>Återföreningen – livet efter vaccinet</title>\n\
+    <title>NKs Franska damskrädderi</title>\n\
     <link rel="stylesheet" href="https://unpkg.com/flexmasonry/dist/flexmasonry.css">\n\
     <link rel="stylesheet" href="../style.css">\n\
     <script src="https://unpkg.com/flexmasonry/dist/flexmasonry.js"></script>\n\
