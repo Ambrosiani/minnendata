@@ -31,6 +31,8 @@ function GetAllResults(json){
     }
     count = json["count"];
    }
+
+   return json;
 }
 
 // Step 1: Read the downloaded_filename JSON
