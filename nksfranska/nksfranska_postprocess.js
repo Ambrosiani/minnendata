@@ -71,11 +71,13 @@ sortedArray.forEach(function(item){
   delete item.open_for_student_edit;
   delete item.ready_for_approval;
   delete item.user_id;
+
+  indexhtml += '<div><div class="inner"><a href="' + item.presentation_url + '">';
   
   if (item.hasOwnProperty('image_dms_id')) {
     let media_url = new URL('https://dms01.dimu.org/image/'+item.dms_id);
     responsesWithImages++;
-    var imgstring = '<div><div class="inner"><a href="' + item.presentation_url + '"><img src="' + media_url + '">';
+    var imgstring = '<img src="' + media_url + '">';
     indexhtml += imgstring;
     if (item.hasOwnProperty('values')) {
       indexhtml += '<br/>';
