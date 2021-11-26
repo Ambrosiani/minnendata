@@ -72,7 +72,7 @@ sortedArray.forEach(function(item){
   delete item.ready_for_approval;
   delete item.user_id;
 
-  indexhtml += '<div><h2>' + item.archive_code + '</h2><div class="inner"><a href="' + item.presentation_url + '">';
+  indexhtml += '<div><h2>' + item.archive_code + '</h2><div class="inner"><p>';
   
   if (item.hasOwnProperty('image_dms_id')) {
     let media_url = new URL('https://dms01.dimu.org/image/'+item.image_dms_id);
@@ -92,7 +92,7 @@ sortedArray.forEach(function(item){
   if (item.hasOwnProperty('latitude')) {
     responsesWithCoordinates++;
   }
-  indexhtml += '</a></div></div>\n';
+  indexhtml += '</p></div></div>\n';
 
 });
 
