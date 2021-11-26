@@ -70,13 +70,13 @@ sortedArray.forEach(function(item){
   delete item.ready_for_approval;
   delete item.user_id;
 
-  indexhtml += '<div><h2>' + item.archive_code + '</h2><p>Inlämnad av ' + item.contributor.display_name;
+  indexhtml += '<div><h2>' + item.archive_code + '</h2><p>Inlämnad av <b>' + item.contributor.display_name + '</b>';
 
-  if (item.hasOwnProperty('contributor.place')) {
+  if (item.contributor.hasOwnProperty('place')) {
     indexhtml += ', ' + item.contributor.place;
   }
 
-  if (item.hasOwnProperty('contributor.birth_year')) {
+  if (item.contributor.hasOwnProperty('birth_year')) {
     indexhtml += ', född ' + item.contributor.birth_year;
   }
 
