@@ -52,14 +52,14 @@ div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, 
 }
 
 .swiper-slide {
-    background-color: #333;
+    background-color: #999;
 }
 
 .swiper-slide p {
     background-color: #fff;
     padding: 20px 0;
     margin: 0 0 10px 0;
-    color: #999;
+    color: #333;
 }
 
 .swiper-button-next, .swiper-button-prev {
@@ -68,5 +68,14 @@ div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, 
 
 audio {
     width: 100%;
-    height: 40px;
+}
+
+p.audio {
+    margin: 0;
+}
+
+p.caption {
+    padding: 20px 0;
+    margin: 0;
+    color: #333;
 }
