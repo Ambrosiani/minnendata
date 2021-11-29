@@ -1,27 +1,27 @@
 [
   {
-    "archive_code": "M4/00019",
+    "archive_code": "M4/00017",
     "contributor": {
-      "display_name": "Ronnie Granath"
+      "display_name": "Jane Wikström"
     },
-    "created": "Thu, 28 Oct 2021 20:49:24 GMT",
-    "hits": 56,
-    "image_dms_id": "013AjNvnZa72",
+    "created": "Sun, 17 Oct 2021 16:08:18 GMT",
+    "hits": 226,
+    "image_dms_id": "013AitqX7q2k",
     "license": "CC BY",
     "media": [
       {
-        "created": "Thu, 28 Oct 2021 11:45:20 GMT",
-        "description": "Hemma hos min mamma Elsa Granath f. Olsson samlades \"flickorna\" som de kallade sig själva. Denna gång var det den 19/6 1944.rna\" ibland",
-        "dms_id": "013AjNvnZa72",
-        "image_height": 4000,
-        "image_ratio": 0.75,
-        "image_width": 3000,
-        "license": "CC0",
+        "created": "Sun, 17 Oct 2021 12:02:42 GMT",
+        "description": "Affisch från utställning 2014",
+        "dms_id": "013AitqX7q2k",
+        "image_height": 2149,
+        "image_ratio": 0.812936249418334,
+        "image_width": 1747,
+        "license": "CC BY",
         "mime_type": "image/jpeg",
-        "modified": "Thu, 28 Oct 2021 11:45:20 GMT",
-        "name": "inbound9056455634315042869.jpg",
+        "modified": "Sun, 17 Oct 2021 12:02:42 GMT",
+        "name": "F5CD91F9-01C8-41AE-9915-428EB9225A06.jpeg",
         "order_by_number": 1,
-        "owner": "Ronnie Granath",
+        "owner": "Blandat",
         "topic_item": {
           "label": "",
           "label_i18n": {
@@ -31,21 +31,21 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "image",
-        "uuid": "464cdcb7-3170-48af-bd78-6ee9e4e58fb8"
+        "uuid": "3655848b-a4f5-415e-954c-eddb048e64a7"
       },
       {
-        "created": "Thu, 28 Oct 2021 11:59:49 GMT",
-        "description": "Flickorna hos mamma juni 1944",
-        "dms_id": "013AjNvnZa79",
-        "image_height": 4000,
+        "created": "Sun, 17 Oct 2021 12:02:44 GMT",
+        "description": "Betyg från mitt första jobb.",
+        "dms_id": "013AitqX7q2m",
+        "image_height": 4032,
         "image_ratio": 0.75,
-        "image_width": 3000,
-        "license": "CC0",
+        "image_width": 3024,
+        "license": "CC BY",
         "mime_type": "image/jpeg",
-        "modified": "Thu, 28 Oct 2021 11:59:49 GMT",
-        "name": "inbound7184682052418483097.jpg",
+        "modified": "Sun, 17 Oct 2021 12:02:44 GMT",
+        "name": "EDC622F1-1F19-4248-8644-E7F1D270A786.jpeg",
         "order_by_number": 2,
-        "owner": "Ronnie Granath",
+        "owner": "Eget foto",
         "topic_item": {
           "label": "",
           "label_i18n": {
@@ -55,11 +55,11 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "image",
-        "uuid": "de8af506-7605-4b79-ad63-9e1f9457accc"
+        "uuid": "046749d2-e0bc-43de-abef-e960e865568e"
       }
     ],
-    "modified": "Thu, 28 Oct 2021 20:49:24 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17385",
+    "modified": "Sun, 17 Oct 2021 16:08:18 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17361",
     "published": true,
     "submitted": false,
     "topic": {
@@ -69,48 +69,12 @@
       },
       "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
     },
-    "uuid": "97236744-1f29-4476-b735-2439df159fe9"
-  },
-  {
-    "archive_code": "M4/00016",
-    "contributor": {
-      "display_name": "Beata Kärrberg"
-    },
-    "created": "Sun, 17 Oct 2021 09:59:59 GMT",
-    "hits": 78,
-    "license": "CC BY",
-    "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17360",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "c1fb8f91-01e5-415e-9a02-29d8087e9d31",
+    "uuid": "272bc367-210a-4f67-b1f0-1d9ac8c2f5d3",
     "values": [
       {
-        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "display_value": "Hej, jag heter Beata Kärrberg svärdotter till Ulla Hultman, inför uppropet att bidra till utställningen NKs Fransk på Nordiska Museet lämnade jag in två dräkter en svart siden-sammet dräkt med fina kantband på jackan - den kom med på utställningen. Den andra dräkten en ljust sandfärgad dräkt med två kjolar - tyvärr kom den inte med på utställningen.\nJag har inga egna minnen av NKs Franska. Min svärmor sydde även aftonklänningar på NKs Franska. I början på 70-talet fick jag ett antal klänningar av henne, fantastiskt vackra aftonklänningar bl. a en svart sidensammet klänning med djup urringning och släp. Tyvärr hade vi inbrott i vårt källarförråd i början på 90-talet och alla aftonklänningar försvann tillsammans med en resväska och fyra vinterdäck.\nDen svarta dräkten bar jag på 70-talet, det var ju innan retro blev riktigt modernt och började värderas högt på auktionerna. Den ljusa dräkten lät min svärmor sy upp (1948) inför en resa till USA, där mina svärföräldrar skulle besöka släktingar som utvandrat ca 1910. Jag kände inte familjen då, men har förstått att detta var en stor och viktig händelse i familjen.\nBåda dräkterna finns fortfarande på museet, den svarta utställd och den sandfärgade i ngt förråd för plagg som kan hämtas. Har tyvärr inga bilder på plaggen i datorn.\nMed vänlig hälsning.\n\nBeata Kärrberg",
-        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "topic_item": {
-          "label": "Berätta gärna om ett plagg från damskrädderiet.",
-          "label_i18n": {
-            "sv": "Berätta gärna om ett plagg från damskrädderiet."
-          },
-          "type": "Textarea",
-          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "786cbfb6-4180-4d29-b7ba-8baa8a0e491f"
-      },
-      {
-        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "display_value": "",
-        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "created": "Sun, 17 Oct 2021 16:08:18 GMT",
+        "display_value": "Hej.\nJag har ett lite udda minne från ”Franskan”:\nNär jag som 15-åring slutade skolan fick jag via platsannons i DN anställning som springflicka hos Astrid Sampe på NKs Textilkammare.\nGanska ofta fick jag ”springa” upp till ”Franskan” och överlämna Astrids Chanel, el. något annat av hennes unika plagg som behövde tillsyn, till Palle Wikström som då var chef där.\nMinns att jag då tyckte det var så kul att vi hade samma efternamn och har många gånger sen dess fått frågan om vi var släkt. \nMin titel förvandlades så småningom till assistent och detta var början på min karriär som modedesigner…\nVänliga hälsningar \nJane Wikström",
+        "modified": "Sun, 17 Oct 2021 16:08:18 GMT",
         "topic_item": {
           "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
           "label_i18n": {
@@ -120,21 +84,122 @@
           "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "0f6a510b-2e7c-40fe-9e25-59e9fd606b2c"
+        "uuid": "7b5ff3ac-0a92-4b18-a488-46c95f3c14f1"
       }
     ]
   },
   {
-    "archive_code": "M4/00020",
+    "archive_code": "M4/00003",
     "contributor": {
-      "display_name": "Ann Mari Hjorth"
+      "display_name": "Madeleine",
+      "gender": "woman",
+      "uuid": "67aa64eb-46ba-4dba-b663-962779ffda19"
     },
     "coordinates": "",
-    "created": "Sun, 07 Nov 2021 16:10:48 GMT",
-    "hits": 85,
+    "created": "Thu, 09 Sep 2021 16:54:33 GMT",
+    "hits": 201,
+    "image_dms_id": "0138ZQA6ziSo",
     "license": "CC BY",
-    "modified": "Sun, 07 Nov 2021 16:32:20 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17397",
+    "media": [
+      {
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSn",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med flor.jpg",
+        "order_by_number": 1,
+        "owner": "Woodruffs presentfoto",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "734bb8ec-9efb-4faf-95fc-967012f5c06f"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSo",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med fjäderhatt.jpg",
+        "order_by_number": 2,
+        "owner": "Ateljé Uggla",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "ebc21e73-612e-48ac-8239-ac16d54841b9"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSp",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med handskar.jpg",
+        "order_by_number": 3,
+        "owner": "Aftonbladet/ Gunnar Södergren",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "0725cbda-5425-4bc5-acbe-1ad332d0f90b"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:40 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSm",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:40 GMT",
+        "name": "dam med kappa.jpg",
+        "order_by_number": 4,
+        "owner": "Okänd",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "b1d23fb6-f956-4221-bf74-6168212a1397"
+      }
+    ],
+    "modified": "Fri, 10 Sep 2021 08:43:57 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17260",
     "published": true,
     "submitted": false,
     "title": "",
@@ -148,12 +213,12 @@
       },
       "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
     },
-    "uuid": "c9580a73-d8a3-473d-b401-c38916e56037",
+    "uuid": "63818c77-37a1-4eff-a385-147234af3aac",
     "values": [
       {
-        "created": "Sun, 07 Nov 2021 16:10:48 GMT",
-        "display_value": "Var nyligen och såg utställningen på Nordiska muséet, en riktig nostalgitripp.\n \nSänder här ett foto från mitt bröllop 27 mars 1959 på Gyldene Freden i Stockholm. Det föreställer min far arkitekt SAR Ragnar Hjorth och min mor Märta född Friestedt. \nHon var klädd i en kungsblå chiffongklädning från NK:s Franska. Jag har kvar klädningen i min ägo i sin originalkartong från NK.\n \nMärta Friestedt var kusin med Pelle Lundgren och sydde mycket hos honom genom åren. Främst aftonkläder men även kappor och dräkter.\n \nJag sålde de flesta aftonklädningarna 1980 eller -81 till en firma i Uppsala som hyrde ut aftonkläder till studentskor   Det var fyra i svart :\n                             En tyllöverklädning med stora puffärmar och vid kjol - 30-tal\n                             Ett slankt fodral, bararmad, i siden georgette 30-tal med brett skärp,\n                             en i tjockt ripssiden med stor krage - 40-tal,\n                             en sydd volanger hela klädningen med slank/rak silhuett.\nSka söka om jag har något foto som jag kan kopiera åt er om ni är intresserade.\n \nMvh\nAnn Mari Hjorth\n \nLjuskärrsvägen 13,\n133 31 Saltsjöbaden",
-        "modified": "Sun, 07 Nov 2021 16:10:48 GMT",
+        "created": "Thu, 09 Sep 2021 16:54:33 GMT",
+        "display_value": "Min mamma Kim Söderlund arbetade hela sitt liv inom modevärlden. Bland annat var hon mannekäng vid NK:s franska damskrädderi. \n\nMamma berättade att alla mannekänger hade en stor väska som rymde allt de kunde tänkas behöva: handskar; mörka och ljusa, långa och korta, skor; enkla sidenpumps, ett vitt skynke för att skydda kläderna då de drogs över huvudet, smink, väskor, halsband, örhängen, diverse kedjor och skärp, extra strumpor. Väskan stod alltid packad och innehållet såg de till att hålla fräscht. Mamma var mycket noga med att vara \"tipp-topp\" i både hår och humör när kläderna till de stora visningarna skulle utprovas. Hon mindes också att sammanhållningen mellan mannekängerna var mycket god.",
+        "modified": "Thu, 09 Sep 2021 16:54:33 GMT",
         "topic_item": {
           "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
           "label_i18n": {
@@ -163,12 +228,581 @@
           "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "cf4f445e-3118-48dd-903c-4dae1d02ca36"
+        "uuid": "9e1aa20d-33be-423b-8cb0-e80fffc2a174"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00006",
+    "contributor": {
+      "display_name": "Inga-Britt Ahlenius"
+    },
+    "created": "Sun, 12 Sep 2021 19:09:39 GMT",
+    "hits": 188,
+    "license": "CC BY",
+    "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17270",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "03b8fe18-1511-4e18-b4a7-39283bf41ea5",
+    "values": [
+      {
+        "created": "Sun, 12 Sep 2021 19:09:39 GMT",
+        "display_value": "Jag letade inte efter något speciellt, kanske en lornjett i stället för läsglasögonen, ett smycke… Men där längst in och högst upp på väggen i second-hand butiken så hängde den - en aftonkappa i midnattsblå matt siden-crepe, fodrad och med tungt fall, sydda veck  på överdelen, små klädda knappar, så vacker! Det här är i början av 90-talet, jag hade blivit utnämnd till generaldirektör och det hade kommit inbjudningar till middag på slottet, till Nobelfesten, jag behövde något vackert! Och under ett par decennier fick kappan en andra glansperiod och blev i alla sammanhang ett mycket beundrat plagg. Först senare upptäckte jag att det fanns en etikett i kappan som berättade att den beställts 1938 till en fru Wilhelm F… och jag funderade mycket över vad som varit Kappans första glansperiod. Hon som fått den beställd till sig måste ha varit en mycket reslig dam - trots mina höga klackar måste jag försiktigt tråckla upp den ca 15cm för att den inte skulle släpa i marken. Vem var hon och på vilka baler och fester hade hon burit kappan?\nInga-Britt Ahlenius",
+        "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "279371a0-0449-4f34-b048-33efecf5ac35"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00009",
+    "contributor": {
+      "birth_year": 1928,
+      "display_name": "Astrid Palm",
+      "gender": "woman",
+      "place": "Spånga",
+      "uuid": "655cd7de-3c99-47c5-bc91-42d866a0915d"
+    },
+    "coordinates": "",
+    "created": "Wed, 15 Sep 2021 07:39:45 GMT",
+    "hits": 178,
+    "image_dms_id": "013AhtPopuKU",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 15 Sep 2021 07:36:43 GMT",
+        "dms_id": "013AhtPopuKT",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:36:43 GMT",
+        "name": "Nordiska museet - Vasamuseet 5.mp3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "42a742f6-9121-49ad-a3d9-dc29ce668bd3"
       },
       {
-        "created": "Sun, 07 Nov 2021 16:10:48 GMT",
-        "display_value": "",
-        "modified": "Sun, 07 Nov 2021 16:32:20 GMT",
+        "created": "Wed, 15 Sep 2021 07:39:12 GMT",
+        "description": "Astrid Palm, sömmerska på NK:s Franska damskrädderi.",
+        "dms_id": "013AhtPopuKU",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 15 Sep 2021 07:39:12 GMT",
+        "name": "IMG_1966.JPG",
+        "order_by_number": 1,
+        "owner": "Jörgen Löwenfeldt",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "c76db185-0038-4478-81eb-8421e3b1f856"
+      },
+      {
+        "created": "Wed, 15 Sep 2021 07:40:15 GMT",
+        "dms_id": "013AhtPopuKV",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:40:15 GMT",
+        "name": "Nordiska museet - Vasamuseet 4 (kopia).mp3",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd"
+      }
+    ],
+    "modified": "Wed, 15 Sep 2021 07:40:28 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17274",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "3f5eabd9-7bee-40bf-913f-5911dff249e9",
+    "values": [
+      {
+        "created": "Wed, 15 Sep 2021 07:39:45 GMT",
+        "display_value": "Inspelat och berättat vid Nordiska museets premiärvisning av utställningen om NK:s Franska damskrädderi, 14 september 2021.\n\nAstrid Palm, född Ling, arbetade som sömmerska vid skrädderiet under sju år. Även hennes tvillingsyster Svea arbetade på skrädderiet. De kallades internt för \"lingarna\".\n\nSjälv har hon inga plagg från NK:s Franska hemma:\n– De var bara för kunderna, berättar hon.",
+        "modified": "Wed, 15 Sep 2021 07:39:45 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "941fc172-ff93-426a-9087-35ea6c914813"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00011",
+    "contributor": {
+      "display_name": "carinjelbring@hotmail.com"
+    },
+    "created": "Sun, 26 Sep 2021 12:54:49 GMT",
+    "hits": 163,
+    "license": "CC BY",
+    "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17282",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "f4d65c31-4d0b-47c3-ba93-3a08b4b5a998",
+    "values": [
+      {
+        "created": "Sun, 26 Sep 2021 12:54:49 GMT",
+        "display_value": "Min pappa jobbade på NKs franska damskrädderi som chef.\nJag var ofta uppe och hälsade på.\nSömmerskorna sydde fina kläder till mig av stuvbitar. Varje skolavslutning sydde de upp något fint till mig.\nJag har träffat många av mannekängerna men även Astrid Sampe Viola Gråsten mfl. Jag har fina modetecknigar av VG samt tavla av AS.\nÄven en del tyger har jag kvar.\nMånga fina minnen har jag av NK.\nMVH Carin Jelbring(Nemvill)",
+        "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "de9d4497-f8f3-4ae6-bade-d36f4105feb9"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00013",
+    "contributor": {
+      "display_name": "Anne Winterhagen"
+    },
+    "created": "Wed, 06 Oct 2021 18:55:06 GMT",
+    "hits": 161,
+    "image_dms_id": "013AitcTX9xp",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 06 Oct 2021 18:47:52 GMT",
+        "description": "Väska hittad i en antikaffär.",
+        "dms_id": "013AitcTX9xp",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 06 Oct 2021 18:47:52 GMT",
+        "name": "29640BAD-9435-454B-9D55-962CDED18A09.jpeg",
+        "order_by_number": 1,
+        "owner": "Anne Winterhagen",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "2fea14aa-4500-4939-a3ab-eea98e06918e"
+      },
+      {
+        "created": "Wed, 06 Oct 2021 18:49:57 GMT",
+        "description": "Stämpel på insidan av väskan",
+        "dms_id": "013AitcTX9xq",
+        "image_height": 991,
+        "image_ratio": 0.835519677093845,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 06 Oct 2021 18:49:57 GMT",
+        "name": "4F74523D-9146-47A7-A24B-1B5C2E7FC75C.jpeg",
+        "order_by_number": 2,
+        "owner": "Anne Winterhagen",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "9218af85-f730-43ba-b3e2-011ac03727fa"
+      }
+    ],
+    "modified": "Wed, 06 Oct 2021 18:55:06 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17304",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "1663b7f8-5980-4278-9f02-19436d2a8f21",
+    "values": [
+      {
+        "created": "Wed, 06 Oct 2021 18:55:06 GMT",
+        "display_value": "Hittade denna väska i en antikaffär. Blev förvånad över stämpeln att NK haft ett samarbete med Frankrike men inser med anledningen av er utställningen att det kanske inte var helt omöjligt. Vill gärna veta mer om väskan. \n\nMed vänlig hälsning, Anne Winterhagen",
+        "modified": "Wed, 06 Oct 2021 18:55:06 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "886121df-78f3-44ea-b137-21521edb1643"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00008",
+    "contributor": {
+      "birth_year": 1936,
+      "display_name": "Torun Hegardt",
+      "gender": "woman",
+      "place": "Djursholm",
+      "uuid": "25a76ef1-d698-4b33-8c20-6e887d5295c2"
+    },
+    "coordinates": "",
+    "created": "Wed, 15 Sep 2021 07:16:33 GMT",
+    "hits": 156,
+    "image_dms_id": "0138ZQioCDxS",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 15 Sep 2021 07:20:45 GMT",
+        "dms_id": "013AhtPopuKS",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:20:45 GMT",
+        "name": "Torun Hegardt.mp3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd"
+      },
+      {
+        "created": "Wed, 15 Sep 2021 07:19:21 GMT",
+        "description": "Torun Hegardt",
+        "dms_id": "013AhtPopuKR",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 15 Sep 2021 07:19:21 GMT",
+        "name": "IMG_1965.JPG",
+        "order_by_number": 1,
+        "owner": "Jörgen Löwenfeldt",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "cc1198bb-ac4a-4e5d-b9f5-5a3d6fb192d2"
+      }
+    ],
+    "modified": "Wed, 15 Sep 2021 07:21:25 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17273",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "592b940c-4a09-422d-bb0a-d4ae4041b846",
+    "values": [
+      {
+        "created": "Wed, 15 Sep 2021 07:16:33 GMT",
+        "display_value": "Inspelat och berättat vid Nordiska museets premiärvisning av utställningen om NK:s Franska damskrädderi, 14 september 2021. Om en dans med Christian Dior.\n\n\"Det var hemma hos våra föräldrar när vår pappa var ansvarig för damsidan på NK:s verksamhet. Han älskade Frankrike och var en stor kulturälskare. Då ordnade han en fransk modevecka med lite skulpturer och gobelänger.  Då var det en speciell modevecka och då kom Christian Dior över. De runt honom talade om att han var väldigt blyg och försynt. Då bjöd mina gästfria föräldrar hem honom på familjemiddag med en eller två unga direktörer med. Jag var väl 17 och (syster) Marianne 13.  Då säger en av direktörerna: Nu ska vi dansa. Då satte direktörerna på lite dansmusik och då bjöd monsieur Dior upp först mamma och dansade med henne och sedan mig i min hemsydda ylleklänning och sen Marianne. Sen kom ett sex sidor långt tackbrev för denna underbara familjekväll och det har jag i mitt bankfack. Ganska härligt.\n\nJag minns ju Kurt Jacobsson (chef för NK:s Franska damskrädderi). Jag jobbade på sommaren på NK:s kundtjänst två eller tre somrar och några jular. Då minns jag ju mycket väl Kurt Jakobsson himself. En förtjusande man. Lite rundnätt om jag minns rätt.\"",
+        "modified": "Wed, 15 Sep 2021 07:21:25 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "1a5dd10a-7cc2-4c35-993a-8bae94f14c71"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00012",
+    "contributor": {
+      "display_name": "Vivi-Ann"
+    },
+    "created": "Wed, 29 Sep 2021 15:13:09 GMT",
+    "hits": 153,
+    "license": "CC BY",
+    "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17285",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "53bf5163-0c8a-4e04-9407-fd9b51e260bd",
+    "values": [
+      {
+        "created": "Wed, 29 Sep 2021 15:13:09 GMT",
+        "display_value": "Kring 54,55 var jag elev på NK. De hade elevskola på den tiden. Jag fick ” arbeta” i Modellbutiken. Ett mellanting mellan konfektion och NK s franska. Jag ansågs lämplig att visa butikens kläder i Bobergs matsal och i varuhuset👗🧥 och när någon av mannekängerna saknades i Franska skrädderiet fick jag hoppa in även där🧍‍♀️. Hade turen att ha dåtidens stjärnmannekänger Erika Sundt, Haide Göransson mfl som läromästare😀Tyvärr har jag inga foton från den tiden. 😟. Skall bli trevligt att se utställningen🥰",
+        "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "bb00d41c-b495-446d-8779-8bdf60940e4b"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00007",
+    "contributor": {
+      "display_name": "Marianne",
+      "gender": "woman",
+      "uuid": "718ad0e7-f576-42d3-b655-931030d1c8d7"
+    },
+    "created": "Mon, 13 Sep 2021 12:11:28 GMT",
+    "hits": 150,
+    "license": "CC BY",
+    "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17271",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "0c4825a9-2013-4a9b-959e-b45cfdbea818",
+    "values": [
+      {
+        "created": "Mon, 13 Sep 2021 12:11:28 GMT",
+        "display_value": "1957 var Christian Dior på besök i Stockholm, där han bland annat besökte NKs franska. Min pappa var anställd på NK och fick i uppdrag att anordna en tillställning för Dior. Därför kom Christian Dior att vara hedersgäst i mitt föräldrahem till en middag. Mamma var ytterst nervös, hade anlitat en kokfru, som vi väl kände, och vi var noga med att inte berätta vem den celebra gästen var. Till middagen serverades ripa till huvudrätt och hjortron till dessert. Efter middagen var det en glad man i Diors entourage som satte på en skiva med lite dansant musik. Dior bjöd upp mamma, därefter min syster ca 18 år och sist mig, 13 år, iklädd en hemsydd skotskrutig klänning och ballerinaskor. Oförglömligt och beskrivet i en modetidning,   ” Eva” 1957.",
+        "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "e56a99f0-8075-47d3-8b78-d087c97bee99"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00018",
+    "contributor": {
+      "display_name": "Monica Rågby",
+      "gender": "woman",
+      "uuid": "9954d392-fb3f-49a5-bf64-046dc3251917"
+    },
+    "coordinates": "",
+    "created": "Fri, 22 Oct 2021 10:06:26 GMT",
+    "hits": 150,
+    "image_dms_id": "013Aiu4UmDet",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 22 Oct 2021 09:53:09 GMT",
+        "dms_id": "013Aiu4UmDet",
+        "license": "CC0",
+        "mime_type": "video/mp4",
+        "modified": "Fri, 22 Oct 2021 09:53:09 GMT",
+        "name": "Monica_textad_sv.mp4",
+        "order_by_number": 1,
+        "owner": "Nordiska museet",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "video",
+        "uuid": "8efcc35e-b068-4248-a1db-2e0e6b2a4ea3"
+      }
+    ],
+    "modified": "Fri, 22 Oct 2021 10:07:31 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17374",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "594cddc2-5e68-4ec1-8a31-32f6f69689c3",
+    "values": [
+      {
+        "created": "Fri, 22 Oct 2021 10:07:31 GMT",
+        "display_value": "Monica Rågby, mannekäng för NK:s Franska damskrädderi. Filmen är inspelad till utställningen Nordens Paris.",
+        "modified": "Fri, 22 Oct 2021 10:07:31 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "91949638-32e1-4fa1-b26b-6e9b0419510c"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00002",
+    "contributor": {
+      "display_name": "Anonym"
+    },
+    "created": "Wed, 08 Sep 2021 09:35:41 GMT",
+    "hits": 142,
+    "license": "CC BY",
+    "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17240",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "4b948e17-e8bf-411c-9ba3-7b5eb6cd13f7",
+    "values": [
+      {
+        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "display_value": "Den 1 april 1966 skulle jag resa till London för att förenas med min man som uppehöll en tjänst som specialattaché vid svenska ambassaden. Underbara kollegor och chefer hade gjort att jag kunde lägga min yrkesverksamhet på is några år och tillbringa dem tillsammans med min man och vår lilla son i London. Oemotståndligt!\n\nMen det var ett problem, garderoben. I mitt jobb hade jag kavaj och kjol, rejält och praktiskt men inte så passande för det liv som väntade i London. När NK annonserade om utförsäljning av färdiga plagg från Franska Damskrädderiet inför nedläggningen, stod jag bland de första utanför dörrarna. När de öppnades tog jag sats och sprang uppför trapporna. Skrädderiet låg högt upp i huset och jag räknade med ett försprång medan de finare kunderna tog hissarna.\n\nNär jag öppnade dörren till skrädderiet såg jag det genast, Plagget! Men detta var på kontanthanteringens tid och jag hade inte tillräckligt med pengar. Men jag hade en postsparbanksbok och 1966 fanns det ett litet postkontor på NK:s bottenvåning. Jag lyckades övertala en mycket motvillig expedit att hålla Plagget en stund .”Men inte mer än fem minuter ”,sade hon strängt.\n\nJag tog sats igen och sprang trapporna till bottenvåningen. Det var ingen kö på posten, jag fick mina pengar och sprang tillbaka till skrädderiet. Plagget fanns kvar, jag betalade och gick glad hem.",
+        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "0c2436bf-04c3-459d-89d5-20c6ab1321a9"
+      },
+      {
+        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "display_value": "När jag efter nära 4 år återvände till Sverige var Plagget långtifrån slut.",
+        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "topic_item": {
+          "label": "Om plagget finns kvar, bär det några spår av de tillfällen då det har använts?",
+          "label_i18n": {
+            "sv": "Om plagget finns kvar, bär det några spår av de tillfällen då det har använts?"
+          },
+          "type": "Textarea",
+          "uuid": "de8f9d9f-ee7c-48b0-aca2-5f1e9498ca71"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "7b9a7196-71af-4b9c-82d6-b8d99c1b601d"
+      },
+      {
+        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "display_value": "Plagget var en Chanel-kopia, en ärmlös klänning med tillhörande kappa i brunrosa, mjuk, litet lös tweed, kantad med svart siden. Kappan hade svart sidenfoder. Jag provade, det passade perfekt. Plagget visade sig bli den stöttepelare jag anat. Det passade till allt. Med eller utan kappa kunde jag ha det vid luncher och mottagningar, teaterbesök och tom vid témottagning i drottningens trädgård.",
+        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
         "topic_item": {
           "label": "Berätta gärna om ett plagg från damskrädderiet.",
           "label_i18n": {
@@ -178,7 +812,121 @@
           "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "a23acae4-4026-4985-8240-f5d899a144c5"
+        "uuid": "b531cd0f-6fa7-46b9-a504-516651d29f11"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00001",
+    "contributor": {
+      "display_name": "Hélène Sommerfelt"
+    },
+    "created": "Tue, 07 Sep 2021 13:03:15 GMT",
+    "hits": 120,
+    "license": "CC BY",
+    "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17239",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "8882ac6d-d418-4533-8889-612f0b4cfdb4",
+    "values": [
+      {
+        "created": "Tue, 07 Sep 2021 13:03:15 GMT",
+        "display_value": "Min farmor var springflicka på NK’s Franska på 30-talet, hon har berättat mycket om alla fantastiska tyger och att hon varit på många adresser och lämnat fina klänningar. Oftast blev hon hänvisad till köksingången, så var det då.\nEn berättelse som jag tänker på varje gång jag tappar en knappnål, är att springflickorna sopade golvet och la allt damm i en hink, en gång om året, gick flickorna upp på taket och silade dammet och återvann alla knappnålar.\nEn annan tid -så gjorde man då\nMin farmor hette Gulli Rosén, var född 1922 Är osäker på hur länge hon var där och under vilken tid, vet att hon var väldigt ung Men det måste ha varit under åren 1936-1938 \n\nHélène Sommerfelt",
+        "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "05989dc2-879d-4b86-9d8b-c11978c41c64"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00015",
+    "contributor": {
+      "display_name": "Lolita Ray"
+    },
+    "created": "Tue, 12 Oct 2021 18:14:57 GMT",
+    "hits": 119,
+    "license": "CC BY",
+    "modified": "Tue, 12 Oct 2021 18:14:57 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17323",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "1fef9e25-d423-4c9f-9b6c-65269c7c5a9a",
+    "values": [
+      {
+        "created": "Tue, 12 Oct 2021 18:14:57 GMT",
+        "display_value": "Hej!\nBlev ombedd att lämna minne då min mammas farmors kappa från NK:s franska lämnades in då ni sökte plagg inför bok och utställning. Själv vet jag inte så mycket mer än att min mammas farmor som var född på 1870-talet var en flitig kund. Hon hette Hilma Maria Josefina Schultz och bodde vid tiden för skrädderiets öppnande på Bellmansgatan 6 i Stockholm. Hon beställde såväl dräkter och som ytterplagg och klänningar från skrädderiet. Hon var en speciell person som samlade på allt och sedan överlät alla fantastiska kläder och övriga samlingar till min mormor Frideborg Schultz. Alltså till sin svärdotter. Klädsamlingen lämnades så småningom till Malmköpings museum som sedan uppgått i Sörmlands museum där jag tror att en stor del av klädsamlingen ännu finns bevarad. Bland annat såg jag en fantastisk byxdress som var med i TV-programmet Bytt är bytt för några år sedan. Den var sydd på NK:s Franska. Kappan som är fortfarande är utlånad till museet är det enda jag själv har kvar från hennes klädsamling. Plus lite blusar som är uppsydda på annat håll.",
+        "modified": "Tue, 12 Oct 2021 18:14:57 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "6017cdc5-1998-41e4-b23c-ea6717408669"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00004",
+    "contributor": {
+      "display_name": "Marika Norling"
+    },
+    "created": "Sat, 11 Sep 2021 02:26:25 GMT",
+    "hits": 115,
+    "license": "CC BY",
+    "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17265",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "9acea489-409f-40e9-a0e9-1db72e9b97bc",
+    "values": [
+      {
+        "created": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "display_value": "Om Pelle Lundgrens karriär:\nVår farmor Ingrid Norling, storasyster till Pelle Lundgren, berättade för många år sedan att Pelle hade lungproblem som barn. Han kunde inte springa omkring och leka utomhus som andra barn, så han blev inomhus och började sy dock kläder!\n\nMarika Norling, Peder Norling, Anki Larsdotter",
+        "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "825b785c-4279-4f6f-9dc3-ecd46f06a5d4"
       }
     ]
   },
@@ -349,17 +1097,22 @@
     ]
   },
   {
-    "archive_code": "M4/00004",
+    "archive_code": "M4/00020",
     "contributor": {
-      "display_name": "Marika Norling"
+      "display_name": "Ann Mari Hjorth"
     },
-    "created": "Sat, 11 Sep 2021 02:26:25 GMT",
-    "hits": 115,
+    "coordinates": "",
+    "created": "Sun, 07 Nov 2021 16:10:48 GMT",
+    "hits": 85,
     "license": "CC BY",
-    "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17265",
+    "modified": "Sun, 07 Nov 2021 16:32:20 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17397",
     "published": true,
     "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
     "topic": {
       "name": "NK:s Franska damskrädderi – bidra med dina minnen",
       "name_i18n": {
@@ -367,12 +1120,12 @@
       },
       "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
     },
-    "uuid": "9acea489-409f-40e9-a0e9-1db72e9b97bc",
+    "uuid": "c9580a73-d8a3-473d-b401-c38916e56037",
     "values": [
       {
-        "created": "Sat, 11 Sep 2021 02:26:25 GMT",
-        "display_value": "Om Pelle Lundgrens karriär:\nVår farmor Ingrid Norling, storasyster till Pelle Lundgren, berättade för många år sedan att Pelle hade lungproblem som barn. Han kunde inte springa omkring och leka utomhus som andra barn, så han blev inomhus och började sy dock kläder!\n\nMarika Norling, Peder Norling, Anki Larsdotter",
-        "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "created": "Sun, 07 Nov 2021 16:10:48 GMT",
+        "display_value": "Var nyligen och såg utställningen på Nordiska muséet, en riktig nostalgitripp.\n \nSänder här ett foto från mitt bröllop 27 mars 1959 på Gyldene Freden i Stockholm. Det föreställer min far arkitekt SAR Ragnar Hjorth och min mor Märta född Friestedt. \nHon var klädd i en kungsblå chiffongklädning från NK:s Franska. Jag har kvar klädningen i min ägo i sin originalkartong från NK.\n \nMärta Friestedt var kusin med Pelle Lundgren och sydde mycket hos honom genom åren. Främst aftonkläder men även kappor och dräkter.\n \nJag sålde de flesta aftonklädningarna 1980 eller -81 till en firma i Uppsala som hyrde ut aftonkläder till studentskor   Det var fyra i svart :\n                             En tyllöverklädning med stora puffärmar och vid kjol - 30-tal\n                             Ett slankt fodral, bararmad, i siden georgette 30-tal med brett skärp,\n                             en i tjockt ripssiden med stor krage - 40-tal,\n                             en sydd volanger hela klädningen med slank/rak silhuett.\nSka söka om jag har något foto som jag kan kopiera åt er om ni är intresserade.\n \nMvh\nAnn Mari Hjorth\n \nLjuskärrsvägen 13,\n133 31 Saltsjöbaden",
+        "modified": "Sun, 07 Nov 2021 16:10:48 GMT",
         "topic_item": {
           "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
           "label_i18n": {
@@ -382,141 +1135,12 @@
           "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "825b785c-4279-4f6f-9dc3-ecd46f06a5d4"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00015",
-    "contributor": {
-      "display_name": "Lolita Ray"
-    },
-    "created": "Tue, 12 Oct 2021 18:14:57 GMT",
-    "hits": 119,
-    "license": "CC BY",
-    "modified": "Tue, 12 Oct 2021 18:14:57 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17323",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "1fef9e25-d423-4c9f-9b6c-65269c7c5a9a",
-    "values": [
-      {
-        "created": "Tue, 12 Oct 2021 18:14:57 GMT",
-        "display_value": "Hej!\nBlev ombedd att lämna minne då min mammas farmors kappa från NK:s franska lämnades in då ni sökte plagg inför bok och utställning. Själv vet jag inte så mycket mer än att min mammas farmor som var född på 1870-talet var en flitig kund. Hon hette Hilma Maria Josefina Schultz och bodde vid tiden för skrädderiets öppnande på Bellmansgatan 6 i Stockholm. Hon beställde såväl dräkter och som ytterplagg och klänningar från skrädderiet. Hon var en speciell person som samlade på allt och sedan överlät alla fantastiska kläder och övriga samlingar till min mormor Frideborg Schultz. Alltså till sin svärdotter. Klädsamlingen lämnades så småningom till Malmköpings museum som sedan uppgått i Sörmlands museum där jag tror att en stor del av klädsamlingen ännu finns bevarad. Bland annat såg jag en fantastisk byxdress som var med i TV-programmet Bytt är bytt för några år sedan. Den var sydd på NK:s Franska. Kappan som är fortfarande är utlånad till museet är det enda jag själv har kvar från hennes klädsamling. Plus lite blusar som är uppsydda på annat håll.",
-        "modified": "Tue, 12 Oct 2021 18:14:57 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "6017cdc5-1998-41e4-b23c-ea6717408669"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00001",
-    "contributor": {
-      "display_name": "Hélène Sommerfelt"
-    },
-    "created": "Tue, 07 Sep 2021 13:03:15 GMT",
-    "hits": 120,
-    "license": "CC BY",
-    "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17239",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "8882ac6d-d418-4533-8889-612f0b4cfdb4",
-    "values": [
-      {
-        "created": "Tue, 07 Sep 2021 13:03:15 GMT",
-        "display_value": "Min farmor var springflicka på NK’s Franska på 30-talet, hon har berättat mycket om alla fantastiska tyger och att hon varit på många adresser och lämnat fina klänningar. Oftast blev hon hänvisad till köksingången, så var det då.\nEn berättelse som jag tänker på varje gång jag tappar en knappnål, är att springflickorna sopade golvet och la allt damm i en hink, en gång om året, gick flickorna upp på taket och silade dammet och återvann alla knappnålar.\nEn annan tid -så gjorde man då\nMin farmor hette Gulli Rosén, var född 1922 Är osäker på hur länge hon var där och under vilken tid, vet att hon var väldigt ung Men det måste ha varit under åren 1936-1938 \n\nHélène Sommerfelt",
-        "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "05989dc2-879d-4b86-9d8b-c11978c41c64"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00002",
-    "contributor": {
-      "display_name": "Anonym"
-    },
-    "created": "Wed, 08 Sep 2021 09:35:41 GMT",
-    "hits": 142,
-    "license": "CC BY",
-    "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17240",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "4b948e17-e8bf-411c-9ba3-7b5eb6cd13f7",
-    "values": [
-      {
-        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
-        "display_value": "Den 1 april 1966 skulle jag resa till London för att förenas med min man som uppehöll en tjänst som specialattaché vid svenska ambassaden. Underbara kollegor och chefer hade gjort att jag kunde lägga min yrkesverksamhet på is några år och tillbringa dem tillsammans med min man och vår lilla son i London. Oemotståndligt!\n\nMen det var ett problem, garderoben. I mitt jobb hade jag kavaj och kjol, rejält och praktiskt men inte så passande för det liv som väntade i London. När NK annonserade om utförsäljning av färdiga plagg från Franska Damskrädderiet inför nedläggningen, stod jag bland de första utanför dörrarna. När de öppnades tog jag sats och sprang uppför trapporna. Skrädderiet låg högt upp i huset och jag räknade med ett försprång medan de finare kunderna tog hissarna.\n\nNär jag öppnade dörren till skrädderiet såg jag det genast, Plagget! Men detta var på kontanthanteringens tid och jag hade inte tillräckligt med pengar. Men jag hade en postsparbanksbok och 1966 fanns det ett litet postkontor på NK:s bottenvåning. Jag lyckades övertala en mycket motvillig expedit att hålla Plagget en stund .”Men inte mer än fem minuter ”,sade hon strängt.\n\nJag tog sats igen och sprang trapporna till bottenvåningen. Det var ingen kö på posten, jag fick mina pengar och sprang tillbaka till skrädderiet. Plagget fanns kvar, jag betalade och gick glad hem.",
-        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "0c2436bf-04c3-459d-89d5-20c6ab1321a9"
+        "uuid": "cf4f445e-3118-48dd-903c-4dae1d02ca36"
       },
       {
-        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
-        "display_value": "När jag efter nära 4 år återvände till Sverige var Plagget långtifrån slut.",
-        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
-        "topic_item": {
-          "label": "Om plagget finns kvar, bär det några spår av de tillfällen då det har använts?",
-          "label_i18n": {
-            "sv": "Om plagget finns kvar, bär det några spår av de tillfällen då det har använts?"
-          },
-          "type": "Textarea",
-          "uuid": "de8f9d9f-ee7c-48b0-aca2-5f1e9498ca71"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "7b9a7196-71af-4b9c-82d6-b8d99c1b601d"
-      },
-      {
-        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
-        "display_value": "Plagget var en Chanel-kopia, en ärmlös klänning med tillhörande kappa i brunrosa, mjuk, litet lös tweed, kantad med svart siden. Kappan hade svart sidenfoder. Jag provade, det passade perfekt. Plagget visade sig bli den stöttepelare jag anat. Det passade till allt. Med eller utan kappa kunde jag ha det vid luncher och mottagningar, teaterbesök och tom vid témottagning i drottningens trädgård.",
-        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "created": "Sun, 07 Nov 2021 16:10:48 GMT",
+        "display_value": "",
+        "modified": "Sun, 07 Nov 2021 16:32:20 GMT",
         "topic_item": {
           "label": "Berätta gärna om ett plagg från damskrädderiet.",
           "label_i18n": {
@@ -526,203 +1150,86 @@
           "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "b531cd0f-6fa7-46b9-a504-516651d29f11"
+        "uuid": "a23acae4-4026-4985-8240-f5d899a144c5"
       }
     ]
   },
   {
-    "archive_code": "M4/00018",
+    "archive_code": "M4/00016",
     "contributor": {
-      "display_name": "Monica Rågby",
-      "gender": "woman",
-      "uuid": "9954d392-fb3f-49a5-bf64-046dc3251917"
+      "display_name": "Beata Kärrberg"
     },
-    "coordinates": "",
-    "created": "Fri, 22 Oct 2021 10:06:26 GMT",
-    "hits": 150,
-    "image_dms_id": "013Aiu4UmDet",
+    "created": "Sun, 17 Oct 2021 09:59:59 GMT",
+    "hits": 78,
+    "license": "CC BY",
+    "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17360",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "c1fb8f91-01e5-415e-9a02-29d8087e9d31",
+    "values": [
+      {
+        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "display_value": "Hej, jag heter Beata Kärrberg svärdotter till Ulla Hultman, inför uppropet att bidra till utställningen NKs Fransk på Nordiska Museet lämnade jag in två dräkter en svart siden-sammet dräkt med fina kantband på jackan - den kom med på utställningen. Den andra dräkten en ljust sandfärgad dräkt med två kjolar - tyvärr kom den inte med på utställningen.\nJag har inga egna minnen av NKs Franska. Min svärmor sydde även aftonklänningar på NKs Franska. I början på 70-talet fick jag ett antal klänningar av henne, fantastiskt vackra aftonklänningar bl. a en svart sidensammet klänning med djup urringning och släp. Tyvärr hade vi inbrott i vårt källarförråd i början på 90-talet och alla aftonklänningar försvann tillsammans med en resväska och fyra vinterdäck.\nDen svarta dräkten bar jag på 70-talet, det var ju innan retro blev riktigt modernt och började värderas högt på auktionerna. Den ljusa dräkten lät min svärmor sy upp (1948) inför en resa till USA, där mina svärföräldrar skulle besöka släktingar som utvandrat ca 1910. Jag kände inte familjen då, men har förstått att detta var en stor och viktig händelse i familjen.\nBåda dräkterna finns fortfarande på museet, den svarta utställd och den sandfärgade i ngt förråd för plagg som kan hämtas. Har tyvärr inga bilder på plaggen i datorn.\nMed vänlig hälsning.\n\nBeata Kärrberg",
+        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "topic_item": {
+          "label": "Berätta gärna om ett plagg från damskrädderiet.",
+          "label_i18n": {
+            "sv": "Berätta gärna om ett plagg från damskrädderiet."
+          },
+          "type": "Textarea",
+          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "786cbfb6-4180-4d29-b7ba-8baa8a0e491f"
+      },
+      {
+        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "display_value": "",
+        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "0f6a510b-2e7c-40fe-9e25-59e9fd606b2c"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00019",
+    "contributor": {
+      "display_name": "Ronnie Granath"
+    },
+    "created": "Thu, 28 Oct 2021 20:49:24 GMT",
+    "hits": 57,
+    "image_dms_id": "013AjNvnZa72",
     "license": "CC BY",
     "media": [
       {
-        "created": "Fri, 22 Oct 2021 09:53:09 GMT",
-        "dms_id": "013Aiu4UmDet",
-        "license": "CC0",
-        "mime_type": "video/mp4",
-        "modified": "Fri, 22 Oct 2021 09:53:09 GMT",
-        "name": "Monica_textad_sv.mp4",
-        "order_by_number": 1,
-        "owner": "Nordiska museet",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "video",
-        "uuid": "8efcc35e-b068-4248-a1db-2e0e6b2a4ea3"
-      }
-    ],
-    "modified": "Fri, 22 Oct 2021 10:07:31 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17374",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "594cddc2-5e68-4ec1-8a31-32f6f69689c3",
-    "values": [
-      {
-        "created": "Fri, 22 Oct 2021 10:07:31 GMT",
-        "display_value": "Monica Rågby, mannekäng för NK:s Franska damskrädderi. Filmen är inspelad till utställningen Nordens Paris.",
-        "modified": "Fri, 22 Oct 2021 10:07:31 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "91949638-32e1-4fa1-b26b-6e9b0419510c"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00007",
-    "contributor": {
-      "display_name": "Marianne",
-      "gender": "woman",
-      "uuid": "718ad0e7-f576-42d3-b655-931030d1c8d7"
-    },
-    "created": "Mon, 13 Sep 2021 12:11:28 GMT",
-    "hits": 150,
-    "license": "CC BY",
-    "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17271",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "0c4825a9-2013-4a9b-959e-b45cfdbea818",
-    "values": [
-      {
-        "created": "Mon, 13 Sep 2021 12:11:28 GMT",
-        "display_value": "1957 var Christian Dior på besök i Stockholm, där han bland annat besökte NKs franska. Min pappa var anställd på NK och fick i uppdrag att anordna en tillställning för Dior. Därför kom Christian Dior att vara hedersgäst i mitt föräldrahem till en middag. Mamma var ytterst nervös, hade anlitat en kokfru, som vi väl kände, och vi var noga med att inte berätta vem den celebra gästen var. Till middagen serverades ripa till huvudrätt och hjortron till dessert. Efter middagen var det en glad man i Diors entourage som satte på en skiva med lite dansant musik. Dior bjöd upp mamma, därefter min syster ca 18 år och sist mig, 13 år, iklädd en hemsydd skotskrutig klänning och ballerinaskor. Oförglömligt och beskrivet i en modetidning,   ” Eva” 1957.",
-        "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "e56a99f0-8075-47d3-8b78-d087c97bee99"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00012",
-    "contributor": {
-      "display_name": "Vivi-Ann"
-    },
-    "created": "Wed, 29 Sep 2021 15:13:09 GMT",
-    "hits": 153,
-    "license": "CC BY",
-    "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17285",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "53bf5163-0c8a-4e04-9407-fd9b51e260bd",
-    "values": [
-      {
-        "created": "Wed, 29 Sep 2021 15:13:09 GMT",
-        "display_value": "Kring 54,55 var jag elev på NK. De hade elevskola på den tiden. Jag fick ” arbeta” i Modellbutiken. Ett mellanting mellan konfektion och NK s franska. Jag ansågs lämplig att visa butikens kläder i Bobergs matsal och i varuhuset👗🧥 och när någon av mannekängerna saknades i Franska skrädderiet fick jag hoppa in även där🧍‍♀️. Hade turen att ha dåtidens stjärnmannekänger Erika Sundt, Haide Göransson mfl som läromästare😀Tyvärr har jag inga foton från den tiden. 😟. Skall bli trevligt att se utställningen🥰",
-        "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "bb00d41c-b495-446d-8779-8bdf60940e4b"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00008",
-    "contributor": {
-      "birth_year": 1936,
-      "display_name": "Torun Hegardt",
-      "gender": "woman",
-      "place": "Djursholm",
-      "uuid": "25a76ef1-d698-4b33-8c20-6e887d5295c2"
-    },
-    "coordinates": "",
-    "created": "Wed, 15 Sep 2021 07:16:33 GMT",
-    "hits": 156,
-    "image_dms_id": "0138ZQioCDxS",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Wed, 15 Sep 2021 07:20:45 GMT",
-        "dms_id": "013AhtPopuKS",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Wed, 15 Sep 2021 07:20:45 GMT",
-        "name": "Torun Hegardt.mp3",
-        "order_by_number": 1,
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "audio",
-        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd"
-      },
-      {
-        "created": "Wed, 15 Sep 2021 07:19:21 GMT",
-        "description": "Torun Hegardt",
-        "dms_id": "013AhtPopuKR",
-        "image_height": 4032,
+        "created": "Thu, 28 Oct 2021 11:45:20 GMT",
+        "description": "Hemma hos min mamma Elsa Granath f. Olsson samlades \"flickorna\" som de kallade sig själva. Denna gång var det den 19/6 1944.rna\" ibland",
+        "dms_id": "013AjNvnZa72",
+        "image_height": 4000,
         "image_ratio": 0.75,
-        "image_width": 3024,
+        "image_width": 3000,
         "license": "CC0",
         "mime_type": "image/jpeg",
-        "modified": "Wed, 15 Sep 2021 07:19:21 GMT",
-        "name": "IMG_1965.JPG",
+        "modified": "Thu, 28 Oct 2021 11:45:20 GMT",
+        "name": "inbound9056455634315042869.jpg",
         "order_by_number": 1,
-        "owner": "Jörgen Löwenfeldt",
+        "owner": "Ronnie Granath",
         "topic_item": {
           "label": "",
           "label_i18n": {
@@ -732,90 +1239,21 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "image",
-        "uuid": "cc1198bb-ac4a-4e5d-b9f5-5a3d6fb192d2"
-      }
-    ],
-    "modified": "Wed, 15 Sep 2021 07:21:25 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17273",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+        "uuid": "464cdcb7-3170-48af-bd78-6ee9e4e58fb8"
       },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "592b940c-4a09-422d-bb0a-d4ae4041b846",
-    "values": [
       {
-        "created": "Wed, 15 Sep 2021 07:16:33 GMT",
-        "display_value": "Inspelat och berättat vid Nordiska museets premiärvisning av utställningen om NK:s Franska damskrädderi, 14 september 2021. Om en dans med Christian Dior.\n\n\"Det var hemma hos våra föräldrar när vår pappa var ansvarig för damsidan på NK:s verksamhet. Han älskade Frankrike och var en stor kulturälskare. Då ordnade han en fransk modevecka med lite skulpturer och gobelänger.  Då var det en speciell modevecka och då kom Christian Dior över. De runt honom talade om att han var väldigt blyg och försynt. Då bjöd mina gästfria föräldrar hem honom på familjemiddag med en eller två unga direktörer med. Jag var väl 17 och (syster) Marianne 13.  Då säger en av direktörerna: Nu ska vi dansa. Då satte direktörerna på lite dansmusik och då bjöd monsieur Dior upp först mamma och dansade med henne och sedan mig i min hemsydda ylleklänning och sen Marianne. Sen kom ett sex sidor långt tackbrev för denna underbara familjekväll och det har jag i mitt bankfack. Ganska härligt.\n\nJag minns ju Kurt Jacobsson (chef för NK:s Franska damskrädderi). Jag jobbade på sommaren på NK:s kundtjänst två eller tre somrar och några jular. Då minns jag ju mycket väl Kurt Jakobsson himself. En förtjusande man. Lite rundnätt om jag minns rätt.\"",
-        "modified": "Wed, 15 Sep 2021 07:21:25 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "1a5dd10a-7cc2-4c35-993a-8bae94f14c71"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00013",
-    "contributor": {
-      "display_name": "Anne Winterhagen"
-    },
-    "created": "Wed, 06 Oct 2021 18:55:06 GMT",
-    "hits": 161,
-    "image_dms_id": "013AitcTX9xp",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Wed, 06 Oct 2021 18:47:52 GMT",
-        "description": "Väska hittad i en antikaffär.",
-        "dms_id": "013AitcTX9xp",
-        "image_height": 4032,
+        "created": "Thu, 28 Oct 2021 11:59:49 GMT",
+        "description": "Flickorna hos mamma juni 1944",
+        "dms_id": "013AjNvnZa79",
+        "image_height": 4000,
         "image_ratio": 0.75,
-        "image_width": 3024,
+        "image_width": 3000,
         "license": "CC0",
         "mime_type": "image/jpeg",
-        "modified": "Wed, 06 Oct 2021 18:47:52 GMT",
-        "name": "29640BAD-9435-454B-9D55-962CDED18A09.jpeg",
-        "order_by_number": 1,
-        "owner": "Anne Winterhagen",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "2fea14aa-4500-4939-a3ab-eea98e06918e"
-      },
-      {
-        "created": "Wed, 06 Oct 2021 18:49:57 GMT",
-        "description": "Stämpel på insidan av väskan",
-        "dms_id": "013AitcTX9xq",
-        "image_height": 991,
-        "image_ratio": 0.835519677093845,
-        "image_width": 828,
-        "license": "CC0",
-        "mime_type": "image/jpeg",
-        "modified": "Wed, 06 Oct 2021 18:49:57 GMT",
-        "name": "4F74523D-9146-47A7-A24B-1B5C2E7FC75C.jpeg",
+        "modified": "Thu, 28 Oct 2021 11:59:49 GMT",
+        "name": "inbound7184682052418483097.jpg",
         "order_by_number": 2,
-        "owner": "Anne Winterhagen",
+        "owner": "Ronnie Granath",
         "topic_item": {
           "label": "",
           "label_i18n": {
@@ -825,11 +1263,11 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "image",
-        "uuid": "9218af85-f730-43ba-b3e2-011ac03727fa"
+        "uuid": "de8af506-7605-4b79-ad63-9e1f9457accc"
       }
     ],
-    "modified": "Wed, 06 Oct 2021 18:55:06 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17304",
+    "modified": "Thu, 28 Oct 2021 20:49:24 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17385",
     "published": true,
     "submitted": false,
     "topic": {
@@ -839,444 +1277,6 @@
       },
       "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
     },
-    "uuid": "1663b7f8-5980-4278-9f02-19436d2a8f21",
-    "values": [
-      {
-        "created": "Wed, 06 Oct 2021 18:55:06 GMT",
-        "display_value": "Hittade denna väska i en antikaffär. Blev förvånad över stämpeln att NK haft ett samarbete med Frankrike men inser med anledningen av er utställningen att det kanske inte var helt omöjligt. Vill gärna veta mer om väskan. \n\nMed vänlig hälsning, Anne Winterhagen",
-        "modified": "Wed, 06 Oct 2021 18:55:06 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "886121df-78f3-44ea-b137-21521edb1643"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00011",
-    "contributor": {
-      "display_name": "carinjelbring@hotmail.com"
-    },
-    "created": "Sun, 26 Sep 2021 12:54:49 GMT",
-    "hits": 163,
-    "license": "CC BY",
-    "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17282",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "f4d65c31-4d0b-47c3-ba93-3a08b4b5a998",
-    "values": [
-      {
-        "created": "Sun, 26 Sep 2021 12:54:49 GMT",
-        "display_value": "Min pappa jobbade på NKs franska damskrädderi som chef.\nJag var ofta uppe och hälsade på.\nSömmerskorna sydde fina kläder till mig av stuvbitar. Varje skolavslutning sydde de upp något fint till mig.\nJag har träffat många av mannekängerna men även Astrid Sampe Viola Gråsten mfl. Jag har fina modetecknigar av VG samt tavla av AS.\nÄven en del tyger har jag kvar.\nMånga fina minnen har jag av NK.\nMVH Carin Jelbring(Nemvill)",
-        "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "de9d4497-f8f3-4ae6-bade-d36f4105feb9"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00009",
-    "contributor": {
-      "birth_year": 1928,
-      "display_name": "Astrid Palm",
-      "gender": "woman",
-      "place": "Spånga",
-      "uuid": "655cd7de-3c99-47c5-bc91-42d866a0915d"
-    },
-    "coordinates": "",
-    "created": "Wed, 15 Sep 2021 07:39:45 GMT",
-    "hits": 178,
-    "image_dms_id": "013AhtPopuKU",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Wed, 15 Sep 2021 07:36:43 GMT",
-        "dms_id": "013AhtPopuKT",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Wed, 15 Sep 2021 07:36:43 GMT",
-        "name": "Nordiska museet - Vasamuseet 5.mp3",
-        "order_by_number": 1,
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "audio",
-        "uuid": "42a742f6-9121-49ad-a3d9-dc29ce668bd3"
-      },
-      {
-        "created": "Wed, 15 Sep 2021 07:39:12 GMT",
-        "description": "Astrid Palm, sömmerska på NK:s Franska damskrädderi.",
-        "dms_id": "013AhtPopuKU",
-        "image_height": 4032,
-        "image_ratio": 0.75,
-        "image_width": 3024,
-        "license": "CC0",
-        "mime_type": "image/jpeg",
-        "modified": "Wed, 15 Sep 2021 07:39:12 GMT",
-        "name": "IMG_1966.JPG",
-        "order_by_number": 1,
-        "owner": "Jörgen Löwenfeldt",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "c76db185-0038-4478-81eb-8421e3b1f856"
-      },
-      {
-        "created": "Wed, 15 Sep 2021 07:40:15 GMT",
-        "dms_id": "013AhtPopuKV",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Wed, 15 Sep 2021 07:40:15 GMT",
-        "name": "Nordiska museet - Vasamuseet 4 (kopia).mp3",
-        "order_by_number": 2,
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "audio",
-        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd"
-      }
-    ],
-    "modified": "Wed, 15 Sep 2021 07:40:28 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17274",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "3f5eabd9-7bee-40bf-913f-5911dff249e9",
-    "values": [
-      {
-        "created": "Wed, 15 Sep 2021 07:39:45 GMT",
-        "display_value": "Inspelat och berättat vid Nordiska museets premiärvisning av utställningen om NK:s Franska damskrädderi, 14 september 2021.\n\nAstrid Palm, född Ling, arbetade som sömmerska vid skrädderiet under sju år. Även hennes tvillingsyster Svea arbetade på skrädderiet. De kallades internt för \"lingarna\".\n\nSjälv har hon inga plagg från NK:s Franska hemma:\n– De var bara för kunderna, berättar hon.",
-        "modified": "Wed, 15 Sep 2021 07:39:45 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "941fc172-ff93-426a-9087-35ea6c914813"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00006",
-    "contributor": {
-      "display_name": "Inga-Britt Ahlenius"
-    },
-    "created": "Sun, 12 Sep 2021 19:09:39 GMT",
-    "hits": 188,
-    "license": "CC BY",
-    "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17270",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "03b8fe18-1511-4e18-b4a7-39283bf41ea5",
-    "values": [
-      {
-        "created": "Sun, 12 Sep 2021 19:09:39 GMT",
-        "display_value": "Jag letade inte efter något speciellt, kanske en lornjett i stället för läsglasögonen, ett smycke… Men där längst in och högst upp på väggen i second-hand butiken så hängde den - en aftonkappa i midnattsblå matt siden-crepe, fodrad och med tungt fall, sydda veck  på överdelen, små klädda knappar, så vacker! Det här är i början av 90-talet, jag hade blivit utnämnd till generaldirektör och det hade kommit inbjudningar till middag på slottet, till Nobelfesten, jag behövde något vackert! Och under ett par decennier fick kappan en andra glansperiod och blev i alla sammanhang ett mycket beundrat plagg. Först senare upptäckte jag att det fanns en etikett i kappan som berättade att den beställts 1938 till en fru Wilhelm F… och jag funderade mycket över vad som varit Kappans första glansperiod. Hon som fått den beställd till sig måste ha varit en mycket reslig dam - trots mina höga klackar måste jag försiktigt tråckla upp den ca 15cm för att den inte skulle släpa i marken. Vem var hon och på vilka baler och fester hade hon burit kappan?\nInga-Britt Ahlenius",
-        "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "279371a0-0449-4f34-b048-33efecf5ac35"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00003",
-    "contributor": {
-      "display_name": "Madeleine",
-      "gender": "woman",
-      "uuid": "67aa64eb-46ba-4dba-b663-962779ffda19"
-    },
-    "coordinates": "",
-    "created": "Thu, 09 Sep 2021 16:54:33 GMT",
-    "hits": 201,
-    "image_dms_id": "0138ZQA6ziSo",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSn",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "name": "dam med flor.jpg",
-        "order_by_number": 1,
-        "owner": "Woodruffs presentfoto",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "734bb8ec-9efb-4faf-95fc-967012f5c06f"
-      },
-      {
-        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSo",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "name": "dam med fjäderhatt.jpg",
-        "order_by_number": 2,
-        "owner": "Ateljé Uggla",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "ebc21e73-612e-48ac-8239-ac16d54841b9"
-      },
-      {
-        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSp",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "name": "dam med handskar.jpg",
-        "order_by_number": 3,
-        "owner": "Aftonbladet/ Gunnar Södergren",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "0725cbda-5425-4bc5-acbe-1ad332d0f90b"
-      },
-      {
-        "created": "Thu, 09 Sep 2021 16:20:40 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSm",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:40 GMT",
-        "name": "dam med kappa.jpg",
-        "order_by_number": 4,
-        "owner": "Okänd",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "b1d23fb6-f956-4221-bf74-6168212a1397"
-      }
-    ],
-    "modified": "Fri, 10 Sep 2021 08:43:57 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17260",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "63818c77-37a1-4eff-a385-147234af3aac",
-    "values": [
-      {
-        "created": "Thu, 09 Sep 2021 16:54:33 GMT",
-        "display_value": "Min mamma Kim Söderlund arbetade hela sitt liv inom modevärlden. Bland annat var hon mannekäng vid NK:s franska damskrädderi. \n\nMamma berättade att alla mannekänger hade en stor väska som rymde allt de kunde tänkas behöva: handskar; mörka och ljusa, långa och korta, skor; enkla sidenpumps, ett vitt skynke för att skydda kläderna då de drogs över huvudet, smink, väskor, halsband, örhängen, diverse kedjor och skärp, extra strumpor. Väskan stod alltid packad och innehållet såg de till att hålla fräscht. Mamma var mycket noga med att vara \"tipp-topp\" i både hår och humör när kläderna till de stora visningarna skulle utprovas. Hon mindes också att sammanhållningen mellan mannekängerna var mycket god.",
-        "modified": "Thu, 09 Sep 2021 16:54:33 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "9e1aa20d-33be-423b-8cb0-e80fffc2a174"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00017",
-    "contributor": {
-      "display_name": "Jane Wikström"
-    },
-    "created": "Sun, 17 Oct 2021 16:08:18 GMT",
-    "hits": 226,
-    "image_dms_id": "013AitqX7q2k",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Sun, 17 Oct 2021 12:02:42 GMT",
-        "description": "Affisch från utställning 2014",
-        "dms_id": "013AitqX7q2k",
-        "image_height": 2149,
-        "image_ratio": 0.812936249418334,
-        "image_width": 1747,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Sun, 17 Oct 2021 12:02:42 GMT",
-        "name": "F5CD91F9-01C8-41AE-9915-428EB9225A06.jpeg",
-        "order_by_number": 1,
-        "owner": "Blandat",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "3655848b-a4f5-415e-954c-eddb048e64a7"
-      },
-      {
-        "created": "Sun, 17 Oct 2021 12:02:44 GMT",
-        "description": "Betyg från mitt första jobb.",
-        "dms_id": "013AitqX7q2m",
-        "image_height": 4032,
-        "image_ratio": 0.75,
-        "image_width": 3024,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Sun, 17 Oct 2021 12:02:44 GMT",
-        "name": "EDC622F1-1F19-4248-8644-E7F1D270A786.jpeg",
-        "order_by_number": 2,
-        "owner": "Eget foto",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "046749d2-e0bc-43de-abef-e960e865568e"
-      }
-    ],
-    "modified": "Sun, 17 Oct 2021 16:08:18 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17361",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "272bc367-210a-4f67-b1f0-1d9ac8c2f5d3",
-    "values": [
-      {
-        "created": "Sun, 17 Oct 2021 16:08:18 GMT",
-        "display_value": "Hej.\nJag har ett lite udda minne från ”Franskan”:\nNär jag som 15-åring slutade skolan fick jag via platsannons i DN anställning som springflicka hos Astrid Sampe på NKs Textilkammare.\nGanska ofta fick jag ”springa” upp till ”Franskan” och överlämna Astrids Chanel, el. något annat av hennes unika plagg som behövde tillsyn, till Palle Wikström som då var chef där.\nMinns att jag då tyckte det var så kul att vi hade samma efternamn och har många gånger sen dess fått frågan om vi var släkt. \nMin titel förvandlades så småningom till assistent och detta var början på min karriär som modedesigner…\nVänliga hälsningar \nJane Wikström",
-        "modified": "Sun, 17 Oct 2021 16:08:18 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "7b5ff3ac-0a92-4b18-a488-46c95f3c14f1"
-      }
-    ]
+    "uuid": "97236744-1f29-4476-b735-2439df159fe9"
   }
 ]
