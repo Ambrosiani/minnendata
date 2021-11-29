@@ -44,7 +44,7 @@ while (count < totalCount) {
 
 const array = json["items"];
 
-var sortedArray = array.sort( GetSortOrder("hits"));
+var sortedArray = array.sort( GetSortOrder("hits")).reverse();
 
 var responsesWithImages = 0;
 var responsesWithCoordinates = 0;
