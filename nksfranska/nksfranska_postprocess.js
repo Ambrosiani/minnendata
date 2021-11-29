@@ -87,6 +87,7 @@ sortedArray.forEach(function(item){
     var imageCount = 0;
     var imageHtml = '';
     var audioHtml = '';
+    item.media = item.media.sort( GetSortOrder("order_by_number"));
     item.media.forEach(function(mediaItem){
       if(mediaItem.mime_type == 'image/jpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/image/' + mediaItem.dms_id);
@@ -109,13 +110,16 @@ sortedArray.forEach(function(item){
         indexHtml += '<div class="swiper-button-prev"></div>\n\
         <div class="swiper-button-next"></div>';
       }
-      imageHtml += '</div>' + audioHtml;
+      indexHtml += '</div>';
     }
+
+    indexHtml += audioHtml;
 
     if (item.hasOwnProperty('values')) {
       indexHtml += '</p><p>';
     }
   }
+
   if (item.hasOwnProperty('values')) {
     var answer = item['values'][0]['display_value'];
     answer = answer.replace(/(?:\r\n|\r|\n)/g, '<br/>');
