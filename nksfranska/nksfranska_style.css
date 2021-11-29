@@ -32,13 +32,13 @@ img {
     max-width: 100%;
 }
 
-h2 {
+h1, h2 {
     font-family: "Caslon Ionic Web Regular", sans-serif;
     font-size: 36px;
     margin-top: 0px;
 }
 
-.grid div {
+.grid div, .ingress {
     margin: 40px auto;
     border-bottom: 1px solid black;
     padding: 0 20px 40px 20px;
@@ -93,4 +93,5 @@ html {
 .qr {
     width: 150px;
     height: 150px;
+    float: right;
 }
