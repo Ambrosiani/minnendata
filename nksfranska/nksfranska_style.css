@@ -58,7 +58,7 @@ div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, 
 .swiper-slide p {
     background-color: #fff;
     padding: 20px 0;
-    margin: 0;
+    margin: 0 0 10px 0;
     color: #999;
 }
 
