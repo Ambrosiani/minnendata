@@ -45,8 +45,23 @@ h2 {
     max-width: 40rem;
 }
 
-div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, div.swiper-slide, .swiper-slide img {
+div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, div.swiper-slide, div.swiper-pagination, .swiper-slide img {
     border-bottom: none;
     padding: 0;
     margin: 0 auto;
+}
+
+.swiper-slide img {
+    background-color: #333;
+}
+
+.swiper-slide p {
+    background-color: #fff;
+    padding: 20px 0;
+    margin: 0;
+    color: #333;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: #fff;
 }
