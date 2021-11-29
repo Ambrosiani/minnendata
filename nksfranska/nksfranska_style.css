@@ -50,13 +50,6 @@ h1 {
     border-bottom: 1px solid black;
 }
 
-.ingress {
-    border: none;
-    margin: 0 auto;
-    padding: 0 0 20px 0;
-    border-bottom: 1px solid black;
-}
-
 div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, div.swiper-slide, div.swiper-pagination, .swiper-slide img {
     border-bottom: none;
     padding: 0;
@@ -95,8 +88,10 @@ p.caption {
 
 .navbar {
     position: sticky;
-    margin: 20px;
-    top: 20px;
+    padding: 10px;
+    top: 0px;
+    z-index: 2;
+    background-color: #fff;
 }
 
 .navbar a::before {
@@ -116,4 +111,10 @@ html {
 .delta {
     display: flex;
     align-items: center;
+}
+
+@media (max-width: 600px) {
+    .delta {
+        display: none;
+    }
 }
