@@ -95,3 +95,7 @@ html {
     height: 150px;
     float: right;
 }
+
+.navbar {
+    margin: 20px;
+}
