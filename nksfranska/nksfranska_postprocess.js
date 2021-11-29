@@ -56,8 +56,7 @@ var indexHtml = '<!DOCTYPE html>\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
     <title>NKs Franska damskrädderi</title>\n\
     <link rel="stylesheet" href="nksfranska_style.css">\n\
-    <link rel="stylesheet" href="https://unpkg.com/@glidejs/glide/dist/css/glide.core.min.css">\n\
-    <link rel="stylesheet" href="https://unpkg.com/@glidejs/glide/dist/css/glide.theme.min.css">\n\
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">\n\
 </head>\n\
 <body>\n\
 <div class="grid">';
@@ -91,20 +90,17 @@ sortedArray.forEach(function(item){
       if(mediaItem.mime_type == 'image/jpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/image/' + mediaItem.dms_id);
         imageCount++;
-        imageHtml += '<li class="glide__slide"><img src="' + mediaUrl + '" /><br/>' + mediaItem.license + ' ' + mediaItem.owner + '</li>';
+        imageHtml += '<div class="swiper-slide"><img src="' + mediaUrl + '" /><br/>' + mediaItem.license + ' ' + mediaItem.owner + '</div>';
       }
     });
 
     responsesWithImages++;
     if (imageCount > 0) {
-      indexHtml += '<div class="glide">\n\
-      <div class="glide__track" data-glide-el="track">\n\
-        <ul class="glide__slides">' + imageHtml + '</ul>\n\
-      </div>\n\
-      <div class="glide__arrows" data-glide-el="controls">\n\
-        <button class="glide__arrow glide__arrow--left" data-glide-dir="<">prev</button>\n\
-        <button class="glide__arrow glide__arrow--right" data-glide-dir=">">next</button>\n\
-      </div>\n\
+      indexHtml += '<div class="swiper">\n\
+      <div class="swiper-wrapper">\n\
+      ' + imageHtml + '</div>\n\
+        <div class="swiper-button-prev"></div>\n\
+        <div class="swiper-button-next"></div>\n\
       </div>';
     }
 
@@ -134,9 +130,14 @@ stats["responsesWithImages"] = responsesWithImages;
 const newFilename = 'nksfranska/nksfranska_postprocessed.json';
 
 indexHtml += '</div>\n\
-<script src="https://unpkg.com/@glidejs/glide/dist/glide.min.js"></script>\n\
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>\n\
     <script>\n\
-      new Glide(".glide").mount()\n\
+      const swiper = new Swiper(".swiper", {\n\
+        navigation: {\n\
+          nextEl: ".swiper-button-next",\n\
+          prevEl: ".swiper-button-prev",\n\
+        }\n\
+      }\n\
     </script>\n\
 </html>';
 
