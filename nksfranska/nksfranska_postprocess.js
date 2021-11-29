@@ -94,7 +94,7 @@ sortedArray.forEach(function(item){
       if(mediaItem.mime_type == 'image/jpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/image/' + mediaItem.dms_id);
         imageCount++;
-        imageHtml += '<li class="glide__slide"><img src="' + mediaUrl + '" /></li>';
+        imageHtml += '<li class="glide__slide"><img src="' + mediaUrl + '" /><br/>' + mediaItem.license + ' ' + mediaItem.owner + '</li>';
       }
     });
 
