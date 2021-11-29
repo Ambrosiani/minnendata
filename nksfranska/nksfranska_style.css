@@ -44,3 +44,8 @@ h2 {
     padding: 0 20px 40px 20px;
     max-width: 40rem;
 }
+
+div.glide {
+    border-bottom: none;
+    padding: 0;
+}
