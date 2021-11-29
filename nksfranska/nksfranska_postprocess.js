@@ -44,7 +44,7 @@ while (count < totalCount) {
 
 const array = json["items"];
 
-var sortedArray = array.sort( GetSortOrder("presentation_url"));
+var sortedArray = array.sort( GetSortOrder("hits"));
 
 var responsesWithImages = 0;
 var responsesWithCoordinates = 0;
@@ -64,7 +64,6 @@ var indexHtml = '<!DOCTYPE html>\n\
 
 sortedArray.forEach(function(item){
   delete item.comment_count;
-  delete item.hits;
   delete item.imported;
   delete item.likes;
   delete item.open_for_student_edit;
