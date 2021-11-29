@@ -116,42 +116,18 @@
     "license": "CC BY",
     "media": [
       {
-        "created": "Thu, 09 Sep 2021 16:20:40 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSm",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:40 GMT",
-        "name": "dam med kappa.jpg",
-        "order_by_number": 4,
-        "owner": "Okänd",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "b1d23fb6-f956-4221-bf74-6168212a1397"
-      },
-      {
         "created": "Thu, 09 Sep 2021 16:20:39 GMT",
         "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSp",
+        "dms_id": "0138ZQA6ziSn",
         "image_height": 1440,
         "image_ratio": 0.75,
         "image_width": 1080,
         "license": "CC BY",
         "mime_type": "image/jpeg",
         "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "name": "dam med handskar.jpg",
-        "order_by_number": 3,
-        "owner": "Aftonbladet/ Gunnar Södergren",
+        "name": "dam med flor.jpg",
+        "order_by_number": 1,
+        "owner": "Woodruffs presentfoto",
         "topic_item": {
           "label": "",
           "label_i18n": {
@@ -161,7 +137,7 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "image",
-        "uuid": "0725cbda-5425-4bc5-acbe-1ad332d0f90b"
+        "uuid": "734bb8ec-9efb-4faf-95fc-967012f5c06f"
       },
       {
         "created": "Thu, 09 Sep 2021 16:20:39 GMT",
@@ -190,16 +166,16 @@
       {
         "created": "Thu, 09 Sep 2021 16:20:39 GMT",
         "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSn",
+        "dms_id": "0138ZQA6ziSp",
         "image_height": 1440,
         "image_ratio": 0.75,
         "image_width": 1080,
         "license": "CC BY",
         "mime_type": "image/jpeg",
         "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "name": "dam med flor.jpg",
-        "order_by_number": 1,
-        "owner": "Woodruffs presentfoto",
+        "name": "dam med handskar.jpg",
+        "order_by_number": 3,
+        "owner": "Aftonbladet/ Gunnar Södergren",
         "topic_item": {
           "label": "",
           "label_i18n": {
@@ -209,7 +185,31 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "image",
-        "uuid": "734bb8ec-9efb-4faf-95fc-967012f5c06f"
+        "uuid": "0725cbda-5425-4bc5-acbe-1ad332d0f90b"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:40 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSm",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:40 GMT",
+        "name": "dam med kappa.jpg",
+        "order_by_number": 4,
+        "owner": "Okänd",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "b1d23fb6-f956-4221-bf74-6168212a1397"
       }
     ],
     "modified": "Fri, 10 Sep 2021 08:43:57 GMT",
@@ -466,25 +466,6 @@
     "license": "CC BY",
     "media": [
       {
-        "created": "Wed, 15 Sep 2021 07:40:15 GMT",
-        "dms_id": "013AhtPopuKV",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Wed, 15 Sep 2021 07:40:15 GMT",
-        "name": "Nordiska museet - Vasamuseet 4 (kopia).mp3",
-        "order_by_number": 2,
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "audio",
-        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd"
-      },
-      {
         "created": "Wed, 15 Sep 2021 07:36:43 GMT",
         "dms_id": "013AhtPopuKT",
         "license": "CC0",
@@ -526,6 +507,25 @@
         },
         "type": "image",
         "uuid": "c76db185-0038-4478-81eb-8421e3b1f856"
+      },
+      {
+        "created": "Wed, 15 Sep 2021 07:40:15 GMT",
+        "dms_id": "013AhtPopuKV",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:40:15 GMT",
+        "name": "Nordiska museet - Vasamuseet 4 (kopia).mp3",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd"
       }
     ],
     "modified": "Wed, 15 Sep 2021 07:40:28 GMT",
@@ -758,6 +758,30 @@
         "uuid": "3e17ad61-0eae-4c39-b19d-3dd6c9f3d69c"
       },
       {
+        "created": "Mon, 11 Oct 2021 15:09:31 GMT",
+        "description": "Etikett Franska Damskrädderiet",
+        "dms_id": "013AitqLjFFH",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Mon, 11 Oct 2021 15:09:31 GMT",
+        "name": "713EC839-4CDD-40D0-839C-68F19C45FAEC.jpeg",
+        "order_by_number": 2,
+        "owner": "Suzanne Flink",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "8c556322-3bb3-4611-b35d-55a797efa168"
+      },
+      {
         "created": "Mon, 11 Oct 2021 15:09:26 GMT",
         "description": "Klänning 1950-tal",
         "dms_id": "013AitqLjFFF",
@@ -803,30 +827,6 @@
         },
         "type": "image",
         "uuid": "32d10913-ab6c-4dcf-bca3-c7d2d696eb12"
-      },
-      {
-        "created": "Mon, 11 Oct 2021 15:09:31 GMT",
-        "description": "Etikett Franska Damskrädderiet",
-        "dms_id": "013AitqLjFFH",
-        "image_height": 4032,
-        "image_ratio": 0.75,
-        "image_width": 3024,
-        "license": "CC0",
-        "mime_type": "image/jpeg",
-        "modified": "Mon, 11 Oct 2021 15:09:31 GMT",
-        "name": "713EC839-4CDD-40D0-839C-68F19C45FAEC.jpeg",
-        "order_by_number": 2,
-        "owner": "Suzanne Flink",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "8c556322-3bb3-4611-b35d-55a797efa168"
       }
     ],
     "modified": "Mon, 11 Oct 2021 15:23:51 GMT",
