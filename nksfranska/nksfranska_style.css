@@ -64,7 +64,7 @@ div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, 
 
 .swiper-button-next, .swiper-button-prev {
     color: #fff !important;
-    top: calc(50% - 63px);
+    top: calc(50% - 63px) !important;
 }
 
 audio, video {
