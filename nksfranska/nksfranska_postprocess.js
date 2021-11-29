@@ -92,14 +92,13 @@ sortedArray.forEach(function(item){
     var imageHtml = '';
     item.media.forEach(function(mediaItem){
       if(mediaItem.mime_type == 'image/jpeg') {
-        let media_url = new URL('https://dms01.dimu.org/image/'+mediaItem.dms_id);
+        let mediaUrl = new URL('https://dms01.dimu.org/image/' + mediaItem.dms_id);
         imageCount++;
-        imageHtml += '<li class="glide__slide"><img src="' + media_url + '" /></li>'
+        imageHtml += '<li class="glide__slide"><img src="' + mediaUrl + '" /></li>';
       }
     });
 
     responsesWithImages++;
-    var imgstring = '<img src="' + media_url + '">';
     if (imageCount > 0) {
       indexHtml += '<div class="glide"><div class="glide__track" data-glide-el="track"><ul class="glide__slides">' + imageHtml + '</ul></div></div>';
     }
