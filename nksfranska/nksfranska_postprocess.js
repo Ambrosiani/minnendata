@@ -90,7 +90,7 @@ sortedArray.forEach(function(item){
       if(mediaItem.mime_type == 'image/jpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/image/' + mediaItem.dms_id);
         imageCount++;
-        imageHtml += '<div class="swiper-slide"><img src="' + mediaUrl + '" /><br/>' + mediaItem.license + ' ' + mediaItem.owner + '</div>';
+        imageHtml += '<div class="swiper-slide"><img src="' + mediaUrl + '" /><p>Foto: ' + mediaItem.owner + ', ' + mediaItem.license + '</p></div>';
       }
     });
 
