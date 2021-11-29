@@ -86,11 +86,16 @@ sortedArray.forEach(function(item){
   if (item.hasOwnProperty('media')) {
     var imageCount = 0;
     var imageHtml = '';
+    var audioHtml = '';
     item.media.forEach(function(mediaItem){
       if(mediaItem.mime_type == 'image/jpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/image/' + mediaItem.dms_id);
         imageCount++;
         imageHtml += '<div class="swiper-slide"><img src="' + mediaUrl + '" /><p>Foto: ' + mediaItem.owner + ', ' + mediaItem.license + '</p></div>';
+      }
+      if(mediaItem.mime_type == 'audio/mpeg') {
+        let mediaUrl = new URL('https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.mp3?mmid=' + mediaItem.dms_id + '&amp;a=None');
+        audioHtml += '<p><audio controls=""><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p>';
       }
     });
 
@@ -102,7 +107,7 @@ sortedArray.forEach(function(item){
         <div class="swiper-pagination"></div>\n\
         <div class="swiper-button-prev"></div>\n\
         <div class="swiper-button-next"></div>\n\
-      </div>';
+      </div>' + audioHtml;
     }
 
     if (item.hasOwnProperty('values')) {
