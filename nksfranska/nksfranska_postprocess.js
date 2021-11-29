@@ -97,7 +97,15 @@ sortedArray.forEach(function(item){
 
     responsesWithImages++;
     if (imageCount > 0) {
-      indexHtml += '<div class="glide"><div class="glide__track" data-glide-el="track"><ul class="glide__slides">' + imageHtml + '</ul></div></div>';
+      indexHtml += '<div class="glide">\n\
+      <div class="glide__track" data-glide-el="track">\n\
+        <ul class="glide__slides">' + imageHtml + '</ul>\n\
+      </div>\n\
+      <div class="glide__arrows" data-glide-el="controls">\n\
+        <button class="glide__arrow glide__arrow--left" data-glide-dir="<">prev</button>\n\
+        <button class="glide__arrow glide__arrow--right" data-glide-dir=">">next</button>\n\
+      </div>\n\
+      </div>';
     }
 
     if (item.hasOwnProperty('values')) {
