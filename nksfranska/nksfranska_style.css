@@ -80,3 +80,17 @@ p.caption {
     margin: 0;
     color: #555;
 }
+
+.navbar {
+    position: sticky;
+    top: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.qr {
+    width: 150px;
+    height: 150px;
+}
