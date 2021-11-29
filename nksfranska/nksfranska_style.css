@@ -89,7 +89,8 @@ p.caption {
 
 .navbar {
     position: sticky;
-    top: 0;
+    margin: 20px;
+    top: 20px;
 }
 
 html {
@@ -100,8 +101,4 @@ html {
     width: 150px;
     height: 150px;
     float: right;
-}
-
-.navbar {
-    margin: 20px;
 }
