@@ -96,7 +96,7 @@ sortedArray.forEach(function(item){
       }
       if(mediaItem.mime_type == 'audio/mpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.mp3?mmid=' + mediaItem.dms_id + '&amp;a=None');
-        audioHtml += '<p><audio controls=""><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p><p>Inspelning: ' + mediaItem.license + '</p>';
+        audioHtml += '<p class="audio"><audio controls=""><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p><p class="caption">Inspelning: ' + mediaItem.license + '</p>';
       }
     });
 
