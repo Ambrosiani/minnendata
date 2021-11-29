@@ -137,7 +137,7 @@ indexHtml += '</div>\n\
           nextEl: ".swiper-button-next",\n\
           prevEl: ".swiper-button-prev",\n\
         }\n\
-      }\n\
+      });\n\
     </script>\n\
 </html>';
 
