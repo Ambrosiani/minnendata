@@ -57,10 +57,7 @@ var indexHtml = '<!DOCTYPE html>\n\
     <title>NKs Franska damskrädderi</title>\n\
     <link rel="stylesheet" href="nksfranska_style.css">\n\
     <link rel="stylesheet" href="https://unpkg.com/@glidejs/glide/dist/css/glide.core.min.css">\n\
-    <script src="https://unpkg.com/@glidejs/glide/dist/glide.min.js"></script>\n\
-    <script>\n\
-      new Glide(".glide").mount()\n\
-    </script>\n\
+    <link rel="stylesheet" href="https://unpkg.com/@glidejs/glide/dist/css/glide.theme.min.css">\n\
 </head>\n\
 <body>\n\
 <div class="grid">';
@@ -129,6 +126,10 @@ stats["responsesWithImages"] = responsesWithImages;
 const newFilename = 'nksfranska/nksfranska_postprocessed.json';
 
 indexHtml += '</div>\n\
+<script src="https://unpkg.com/@glidejs/glide/dist/glide.min.js"></script>\n\
+    <script>\n\
+      new Glide(".glide").mount()\n\
+    </script>\n\
 </html>';
 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2));
