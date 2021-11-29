@@ -95,7 +95,7 @@ sortedArray.forEach(function(item){
       }
       if(mediaItem.mime_type == 'audio/mpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.mp3?mmid=' + mediaItem.dms_id + '&amp;a=None');
-        audioHtml += '<p><audio controls=""><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p><p>' + mediaItem.license + '</p>';
+        audioHtml += '<p><audio controls=""><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p><p>Inspelning: ' + mediaItem.license + '</p>';
       }
     });
 
@@ -104,10 +104,12 @@ sortedArray.forEach(function(item){
       indexHtml += '<div class="swiper">\n\
       <div class="swiper-wrapper">\n\
       ' + imageHtml + '</div>\n\
-        <div class="swiper-pagination"></div>\n\
-        <div class="swiper-button-prev"></div>\n\
-        <div class="swiper-button-next"></div>\n\
-      </div>' + audioHtml;
+        <div class="swiper-pagination"></div>';
+      if (imageCount > 1) {
+        indexHtml += '<div class="swiper-button-prev"></div>\n\
+        <div class="swiper-button-next"></div>';
+      }
+      imageHtml += '</div>' + audioHtml;
     }
 
     if (item.hasOwnProperty('values')) {
