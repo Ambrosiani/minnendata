@@ -51,7 +51,7 @@ div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, 
     margin: 0 auto;
 }
 
-.swiper-slide img {
+.swiper-slide {
     background-color: #333;
 }
 
@@ -63,5 +63,5 @@ div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, 
 }
 
 .swiper-button-next, .swiper-button-prev {
-    color: #fff;
+    color: #fff !important;
 }
