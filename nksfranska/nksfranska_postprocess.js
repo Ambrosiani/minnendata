@@ -65,7 +65,7 @@ var indexHtml = '<!DOCTYPE html>\n\
 <p>Tillhör du de som hade förmånen att besöka eller arbeta vid damskrädderiet? Har du hört andra berätta om exklusiva modevisningar och oförglömliga klänningar? Finns det fortfarande kvar någon unik skapelse från skrädderiet i din garderob?</p>\n\
 <p>Varmt välkommen att bidra till Nordiska museets insamling med dina bilder och berättelser! Dina minnen blir en del av historien om NK:s Franska damskrädderi som sparas för framtida generationer.</p>\n\
 <p>Här nedanför kan du ta del av de inlämnade bidragen.</p>\n\
-<p><img class="qr" src="images/Minnen_NKs_Franska.png" />För att själv delta, besök <b>Minnen.se/tema/nksfranska</b> genom att skanna QR-koden med din telefon.</p></div>\n\
+<div class="delta"><p>För att själv delta, besök <b>Minnen.se/tema/nksfranska</b> genom att skanna QR-koden med din telefon.</p><img class="qr" src="images/Minnen_NKs_Franska.png" /></div></div>\n\
 <p class="navbar"><a href="#top">Gå till början av sidan</a></p>\n\
 <div class="grid">';
 
