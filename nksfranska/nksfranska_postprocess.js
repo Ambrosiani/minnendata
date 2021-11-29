@@ -66,7 +66,7 @@ var indexHtml = '<!DOCTYPE html>\n\
 <p>Varmt välkommen att bidra till Nordiska museets insamling med dina bilder och berättelser! Dina minnen blir en del av historien om NK:s Franska damskrädderi som sparas för framtida generationer.</p>\n\
 <p>Här nedanför kan du ta del av de inlämnade bidragen.</p>\n\
 <p><img class="qr" src="images/Minnen_NKs_Franska.png" />För att själv delta, besök <b>Minnen.se/tema/nksfranska</b> genom att skanna QR-koden med din telefon.</p></div>\n\
-<p class="navbar"><a href="#top">Jump to top of page</a></p>\n\
+<p class="navbar"><a href="#top">Gå till början av sidan</a></p>\n\
 <div class="grid">';
 
 
