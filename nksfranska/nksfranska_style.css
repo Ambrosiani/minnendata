@@ -99,6 +99,10 @@ p.caption {
     top: 20px;
 }
 
+.navbar a::before {
+  content: "⬆";
+}
+
 html {
     scroll-behavior: smooth;
 }
