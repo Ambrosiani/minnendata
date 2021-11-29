@@ -100,7 +100,7 @@ p.caption {
 }
 
 .navbar a::before {
-  content: "⬆";
+  content: "⬆ ";
 }
 
 html {
