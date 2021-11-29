@@ -62,10 +62,10 @@ var indexHtml = '<!DOCTYPE html>\n\
 <a id="top"></a>\n\
 <div class="ingress">\n\
 <h1>NK:s Franska damskrädderi – bidra med dina minnen</h1>\n\
-<p><img class="qr" src="images/Minnen_NKs_Franska.png" />Tillhör du de som hade förmånen att besöka eller arbeta vid damskrädderiet? Har du hört andra berätta om exklusiva modevisningar och oförglömliga klänningar? Finns det fortfarande kvar någon unik skapelse från skrädderiet i din garderob?</p>\n\
+<p>Tillhör du de som hade förmånen att besöka eller arbeta vid damskrädderiet? Har du hört andra berätta om exklusiva modevisningar och oförglömliga klänningar? Finns det fortfarande kvar någon unik skapelse från skrädderiet i din garderob?</p>\n\
 <p>Varmt välkommen att bidra till Nordiska museets insamling med dina bilder och berättelser! Dina minnen blir en del av historien om NK:s Franska damskrädderi som sparas för framtida generationer.</p>\n\
 <p>Här nedanför kan du ta del av de inlämnade bidragen.</p>\n\
-<p>För att själv delta, besök <b>Minnen.se/tema/nksfranska</b> genom att skanna QR-koden med din telefon.</p></div>\n\
+<p><img class="qr" src="images/Minnen_NKs_Franska.png" />För att själv delta, besök <b>Minnen.se/tema/nksfranska</b> genom att skanna QR-koden med din telefon.</p></div>\n\
 <p class="navbar"><a href="#top">Jump to top of page</a></p>\n\
 <div class="grid">';
 
