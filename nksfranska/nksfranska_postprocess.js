@@ -49,13 +49,18 @@ var sortedArray = array.sort( GetSortOrder("presentation_url"));
 var responsesWithImages = 0;
 var responsesWithCoordinates = 0;
 var stats = {};
-var indexhtml = '<!DOCTYPE html>\n\
+var indexHtml = '<!DOCTYPE html>\n\
 <html lang="sv">\n\
 <head>\n\
     <meta charset="utf-8">\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
     <title>NKs Franska damskrädderi</title>\n\
     <link rel="stylesheet" href="nksfranska_style.css">\n\
+    <link rel="stylesheet" href="https://unpkg.com/@glidejs/glide/dist/css/glide.core.min.css">\n\
+    <script src="https://unpkg.com/@glidejs/glide/dist/glide.min.js"></script>\n\
+    <script>\n\
+      new Glide(".glide").mount()\n\
+    </script>\n\
 </head>\n\
 <body>\n\
 <div class="grid">';
@@ -70,37 +75,49 @@ sortedArray.forEach(function(item){
   delete item.ready_for_approval;
   delete item.user_id;
 
-  indexhtml += '<div><h2>' + item.archive_code + '</h2><p>Inlämnad av <b>' + item.contributor.display_name + '</b>';
+  indexHtml += '<div><h2>' + item.archive_code + '</h2><p>Inlämnad av <b>' + item.contributor.display_name + '</b>';
 
   if (item.contributor.hasOwnProperty('place')) {
-    indexhtml += ', ' + item.contributor.place;
+    indexHtml += ', ' + item.contributor.place;
   }
 
   if (item.contributor.hasOwnProperty('birth_year')) {
-    indexhtml += ', född ' + item.contributor.birth_year;
+    indexHtml += ', född ' + item.contributor.birth_year;
   }
 
-  indexhtml += '</p><p>';
+  indexHtml += '</p><p>';
   
-  if (item.hasOwnProperty('image_dms_id')) {
-    let media_url = new URL('https://dms01.dimu.org/image/'+item.image_dms_id);
+  if (item.hasOwnProperty('media')) {
+    var imageCount = 0;
+    var imageHtml = '';
+    item.media.forEach(function(mediaItem){
+      if(mediaItem.mime_type == 'image/jpeg') {
+        let media_url = new URL('https://dms01.dimu.org/image/'+mediaItem.dms_id);
+        imageCount++;
+        imageHtml += '<li class="glide__slide"><img src="' + media_url + '" /></li>'
+      }
+    });
+
     responsesWithImages++;
     var imgstring = '<img src="' + media_url + '">';
-    indexhtml += imgstring;
+    if (imageCount > 0) {
+      indexHtml += '<div class="glide"><div class="glide__track" data-glide-el="track"><ul class="glide__slides">' + imageHtml + '</ul></div></div>';
+    }
+
     if (item.hasOwnProperty('values')) {
-      indexhtml += '</p><p>';
+      indexHtml += '</p><p>';
     }
   }
   if (item.hasOwnProperty('values')) {
     var answer = item['values'][0]['display_value'];
     answer = answer.replace(/(?:\r\n|\r|\n)/g, '<br/>');
-    indexhtml += answer;
+    indexHtml += answer;
   }
 
   if (item.hasOwnProperty('latitude')) {
     responsesWithCoordinates++;
   }
-  indexhtml += '</p></div>\n';
+  indexHtml += '</p></div>\n';
 
 });
 
@@ -112,12 +129,12 @@ stats["responsesWithImages"] = responsesWithImages;
 // Step 3. Write a new JSON file with our filtered data
 const newFilename = 'nksfranska/nksfranska_postprocessed.json';
 
-indexhtml += '</div>\n\
+indexHtml += '</div>\n\
 </html>';
 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2));
 await Deno.writeTextFile('nksfranska/nksfranska_stats.json', JSON.stringify(stats, null, 2));
-await Deno.writeTextFile('nksfranska/index.html', indexhtml);
+await Deno.writeTextFile('nksfranska/index.html', indexHtml);
 console.log("Wrote a post process file");
 
 removeFile(filename);
