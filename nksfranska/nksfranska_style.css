@@ -45,7 +45,7 @@ h2 {
     max-width: 40rem;
 }
 
-div.swiper {
+div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, div.swiper-slide {
     border-bottom: none;
     padding: 0;
 }
