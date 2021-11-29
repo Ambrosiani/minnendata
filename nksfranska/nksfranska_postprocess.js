@@ -99,6 +99,7 @@ sortedArray.forEach(function(item){
       indexHtml += '<div class="swiper">\n\
       <div class="swiper-wrapper">\n\
       ' + imageHtml + '</div>\n\
+        <div class="swiper-pagination"></div>\n\
         <div class="swiper-button-prev"></div>\n\
         <div class="swiper-button-next"></div>\n\
       </div>';
@@ -133,6 +134,10 @@ indexHtml += '</div>\n\
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>\n\
     <script>\n\
       const swiper = new Swiper(".swiper", {\n\
+        loop: true,\n\
+        pagination: {\n\
+          el: "swiper-pagination",\n\
+        },\n\
         navigation: {\n\
           nextEl: ".swiper-button-next",\n\
           prevEl: ".swiper-button-prev",\n\
