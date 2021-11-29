@@ -137,6 +137,7 @@ indexHtml += '</div>\n\
         loop: true,\n\
         pagination: {\n\
           el: "swiper-pagination",\n\
+          type: "bullets"\n\
         },\n\
         navigation: {\n\
           nextEl: ".swiper-button-next",\n\
