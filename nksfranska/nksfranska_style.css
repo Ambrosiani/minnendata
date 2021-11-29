@@ -45,12 +45,17 @@ h1 {
 
 .grid div, .ingress {
     margin: 40px auto;
-    padding: 0 20px 40px 20px;
     max-width: 40rem;
 }
 
 .grid div {
     border-bottom: 1px solid black;
+    padding: 0 20px 40px 20px;
+}
+
+.ingress {
+    padding: 40px 20px 20px;
+    margin: 0 auto;
 }
 
 div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, div.swiper-slide, div.swiper-pagination, .swiper-slide img {
