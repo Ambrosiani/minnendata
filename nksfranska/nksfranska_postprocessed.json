@@ -5,7 +5,7 @@
       "display_name": "Jane Wikström"
     },
     "created": "Sun, 17 Oct 2021 16:08:18 GMT",
-    "hits": 229,
+    "hits": 230,
     "image_dms_id": "013AitqX7q2k",
     "license": "CC BY",
     "media": [
@@ -421,6 +421,95 @@
     ]
   },
   {
+    "archive_code": "M4/00013",
+    "contributor": {
+      "display_name": "Anne Winterhagen"
+    },
+    "created": "Wed, 06 Oct 2021 18:55:06 GMT",
+    "hits": 162,
+    "image_dms_id": "013AitcTX9xp",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 06 Oct 2021 18:47:52 GMT",
+        "description": "Väska hittad i en antikaffär.",
+        "dms_id": "013AitcTX9xp",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 06 Oct 2021 18:47:52 GMT",
+        "name": "29640BAD-9435-454B-9D55-962CDED18A09.jpeg",
+        "order_by_number": 1,
+        "owner": "Anne Winterhagen",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "2fea14aa-4500-4939-a3ab-eea98e06918e"
+      },
+      {
+        "created": "Wed, 06 Oct 2021 18:49:57 GMT",
+        "description": "Stämpel på insidan av väskan",
+        "dms_id": "013AitcTX9xq",
+        "image_height": 991,
+        "image_ratio": 0.835519677093845,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 06 Oct 2021 18:49:57 GMT",
+        "name": "4F74523D-9146-47A7-A24B-1B5C2E7FC75C.jpeg",
+        "order_by_number": 2,
+        "owner": "Anne Winterhagen",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "9218af85-f730-43ba-b3e2-011ac03727fa"
+      }
+    ],
+    "modified": "Wed, 06 Oct 2021 18:55:06 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17304",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "1663b7f8-5980-4278-9f02-19436d2a8f21",
+    "values": [
+      {
+        "created": "Wed, 06 Oct 2021 18:55:06 GMT",
+        "display_value": "Hittade denna väska i en antikaffär. Blev förvånad över stämpeln att NK haft ett samarbete med Frankrike men inser med anledningen av er utställningen att det kanske inte var helt omöjligt. Vill gärna veta mer om väskan. \n\nMed vänlig hälsning, Anne Winterhagen",
+        "modified": "Wed, 06 Oct 2021 18:55:06 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "886121df-78f3-44ea-b137-21521edb1643"
+      }
+    ]
+  },
+  {
     "archive_code": "M4/00008",
     "contributor": {
       "birth_year": 1936,
@@ -510,95 +599,6 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "1a5dd10a-7cc2-4c35-993a-8bae94f14c71"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00013",
-    "contributor": {
-      "display_name": "Anne Winterhagen"
-    },
-    "created": "Wed, 06 Oct 2021 18:55:06 GMT",
-    "hits": 161,
-    "image_dms_id": "013AitcTX9xp",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Wed, 06 Oct 2021 18:47:52 GMT",
-        "description": "Väska hittad i en antikaffär.",
-        "dms_id": "013AitcTX9xp",
-        "image_height": 4032,
-        "image_ratio": 0.75,
-        "image_width": 3024,
-        "license": "CC0",
-        "mime_type": "image/jpeg",
-        "modified": "Wed, 06 Oct 2021 18:47:52 GMT",
-        "name": "29640BAD-9435-454B-9D55-962CDED18A09.jpeg",
-        "order_by_number": 1,
-        "owner": "Anne Winterhagen",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "2fea14aa-4500-4939-a3ab-eea98e06918e"
-      },
-      {
-        "created": "Wed, 06 Oct 2021 18:49:57 GMT",
-        "description": "Stämpel på insidan av väskan",
-        "dms_id": "013AitcTX9xq",
-        "image_height": 991,
-        "image_ratio": 0.835519677093845,
-        "image_width": 828,
-        "license": "CC0",
-        "mime_type": "image/jpeg",
-        "modified": "Wed, 06 Oct 2021 18:49:57 GMT",
-        "name": "4F74523D-9146-47A7-A24B-1B5C2E7FC75C.jpeg",
-        "order_by_number": 2,
-        "owner": "Anne Winterhagen",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "9218af85-f730-43ba-b3e2-011ac03727fa"
-      }
-    ],
-    "modified": "Wed, 06 Oct 2021 18:55:06 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17304",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "1663b7f8-5980-4278-9f02-19436d2a8f21",
-    "values": [
-      {
-        "created": "Wed, 06 Oct 2021 18:55:06 GMT",
-        "display_value": "Hittade denna väska i en antikaffär. Blev förvånad över stämpeln att NK haft ett samarbete med Frankrike men inser med anledningen av er utställningen att det kanske inte var helt omöjligt. Vill gärna veta mer om väskan. \n\nMed vänlig hälsning, Anne Winterhagen",
-        "modified": "Wed, 06 Oct 2021 18:55:06 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "886121df-78f3-44ea-b137-21521edb1643"
       }
     ]
   },
@@ -936,7 +936,7 @@
       "display_name": "Vintageentusiast"
     },
     "created": "Mon, 11 Oct 2021 15:23:51 GMT",
-    "hits": 93,
+    "hits": 94,
     "image_dms_id": "013AitqLjFFE",
     "license": "CC BY",
     "media": [
