@@ -55,7 +55,7 @@ var indexHtml = '<!DOCTYPE html>\n\
     <meta charset="utf-8">\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
     <title>NKs Franska damskrädderi</title>\n\
-    <link rel="stylesheet" href="nksfranska_style.css">\n\
+    <link rel="stylesheet" href="vi_style.css">\n\
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">\n\
 </head>\n\
 <body>\n\
@@ -157,7 +157,7 @@ stats["responsesWithCoordinates"] = responsesWithCoordinates;
 stats["responsesWithImages"] = responsesWithImages;
 
 // Step 3. Write a new JSON file with our filtered data
-const newFilename = 'nksfranska/nksfranska_postprocessed.json';
+const newFilename = 'vi/vi_postprocessed.json';
 
 indexHtml += '</div>\n\
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>\n\
@@ -177,8 +177,8 @@ indexHtml += '</div>\n\
 </html>';
 
 await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2));
-await Deno.writeTextFile('nksfranska/nksfranska_stats.json', JSON.stringify(stats, null, 2));
-await Deno.writeTextFile('nksfranska/index.html', indexHtml);
+await Deno.writeTextFile('vi/vi_stats.json', JSON.stringify(stats, null, 2));
+await Deno.writeTextFile('vi/index.html', indexHtml);
 console.log("Wrote a post process file");
 
 removeFile(filename);
