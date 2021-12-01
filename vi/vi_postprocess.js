@@ -95,6 +95,7 @@ sortedArray.forEach(function(item){
     var imageHtml = '';
     var audioHtml = '';
     var videoHtml = '';
+    var docxHtml = '';
     item.media = item.media.sort( GetSortOrder("order_by_number"));
     item.media.forEach(function(mediaItem){
       if(mediaItem.mime_type == 'image/jpeg') {
@@ -114,6 +115,9 @@ sortedArray.forEach(function(item){
           <source type="video/webm" src="https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.webm?mmid=' + mediaItem.dms_id + '">\n\
         </video></p>';
       }
+      if(mediaItem.mime_type == 'application/vnd.openxmlformats-officedocument.wordprocessingml.document') {
+        docxHtml += '<p>[Dokumentlänk]</p>';
+      }
     });
 
     if (imageCount > 0) {
@@ -130,6 +134,8 @@ sortedArray.forEach(function(item){
     }
 
     indexHtml += videoHtml;
+
+    indexHtml += docxHtml;
 
     indexHtml += audioHtml;
 
