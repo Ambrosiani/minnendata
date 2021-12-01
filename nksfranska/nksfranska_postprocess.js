@@ -72,6 +72,7 @@ var indexHtml = '<!DOCTYPE html>\n\
 
 sortedArray.forEach(function(item){
   delete item.comment_count;
+  delete item.hits;
   delete item.imported;
   delete item.likes;
   delete item.open_for_student_edit;
