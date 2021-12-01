@@ -1,0 +1,1061 @@
+{
+  "count": 10, 
+  "items": [
+    {
+      "archive_code": "M5/00010", 
+      "comment_count": 0, 
+      "contributor": {
+        "display_name": "Ella"
+      }, 
+      "created": "Mon, 22 Nov 2021 07:58:59 GMT", 
+      "hits": 33, 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Mon, 22 Nov 2021 07:53:15 GMT", 
+          "dms_id": "013AjPVUkQ3T", 
+          "license": "CC0", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Mon, 22 Nov 2021 07:53:15 GMT", 
+          "name": "Min levnadsber\u00e4ttelse 2021 ny version Minnen.docx", 
+          "order_by_number": 1, 
+          "owner": "Ella", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "cdbd7ded-bb9a-4fa8-80bb-1c765077de5e"
+        }
+      ], 
+      "modified": "Mon, 22 Nov 2021 07:58:59 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17466", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6464, 
+      "uuid": "7f9300b0-4c3d-41ac-a67c-ba14ecf3a779", 
+      "values": [
+        {
+          "created": "Mon, 22 Nov 2021 07:58:59 GMT", 
+          "display_value": "Katowice, Warszawa, Uppsala, Stockholm", 
+          "modified": "Mon, 22 Nov 2021 07:58:59 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "uuid": "cc402e1e-2697-4c4e-abdb-8430d59aed65"
+        }, 
+        {
+          "created": "Mon, 22 Nov 2021 07:58:59 GMT", 
+          "display_value": "Maj 1971", 
+          "modified": "Mon, 22 Nov 2021 07:58:59 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "uuid": "454bd675-bcdb-4dbc-ba26-f495916a15a7"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00009", 
+      "comment_count": 0, 
+      "contributor": {
+        "birth_year": 1947, 
+        "display_name": "Richard Lerner", 
+        "gender": "man", 
+        "place": "Stockholm", 
+        "uuid": "52ddce6c-9bbc-4ef4-9b42-f57c3974bf0c"
+      }, 
+      "coordinates": "", 
+      "created": "Tue, 02 Nov 2021 15:42:18 GMT", 
+      "hits": 97, 
+      "image_dms_id": "013AjP3H655r", 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Tue, 02 Nov 2021 15:37:54 GMT", 
+          "description": "Levnadsber\u00e4ttelse Richard Lerner", 
+          "dms_id": "013AjP3H655q", 
+          "license": "CC BY-NC", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Tue, 02 Nov 2021 15:37:54 GMT", 
+          "name": "Levnadsber\u00e4ttelse Richard Lerner.docx", 
+          "order_by_number": 1, 
+          "owner": "Richard Lerner", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "6e290db1-f3e2-4ba5-9787-ca9c4ad38ac3"
+        }, 
+        {
+          "created": "Tue, 02 Nov 2021 15:39:34 GMT", 
+          "description": "Richard Lerner", 
+          "dms_id": "013AjP3H655r", 
+          "image_height": 1886.0, 
+          "image_ratio": 0.721102863202545, 
+          "image_width": 1360.0, 
+          "license": "CC0", 
+          "mime_type": "image/jpeg", 
+          "modified": "Tue, 02 Nov 2021 15:39:34 GMT", 
+          "name": "DSC_0023.JPG", 
+          "order_by_number": 1, 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "image", 
+          "uuid": "88ec01a0-ddce-42f3-8d10-9c3073c0264f"
+        }, 
+        {
+          "created": "Tue, 02 Nov 2021 15:39:42 GMT", 
+          "description": "Richard Lerner", 
+          "dms_id": "013AjP3H655s", 
+          "image_height": 2833.0, 
+          "image_ratio": 0.811154253441581, 
+          "image_width": 2298.0, 
+          "license": "CC0", 
+          "mime_type": "image/jpeg", 
+          "modified": "Tue, 02 Nov 2021 15:39:42 GMT", 
+          "name": "DSCPDC_0002_BURST20211025145459117_COVER.JPG", 
+          "order_by_number": 2, 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "image", 
+          "uuid": "5c152efc-7323-40cc-a007-62cb196e1d5e"
+        }
+      ], 
+      "modified": "Tue, 02 Nov 2021 15:45:24 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17390", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "title": "", 
+      "title_i18n": {
+        "sv": ""
+      }, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6321, 
+      "uuid": "d66db740-f827-4713-bd5b-15ab3c14f51f", 
+      "values": [
+        {
+          "created": "Tue, 02 Nov 2021 15:42:18 GMT", 
+          "display_value": "Richard Lerner\nF\u00f6dd 1947\nBor i Stockholm\nTidigare bott: Lodz (Polen), Moheda (Sm\u00e5land), Uppsala, Malm\u00f6, Lund\nKom till Sverige 8 april 1971\n\nJag f\u00f6ddes 1947 och v\u00e4xte upp i en stor l\u00e4genhet i centrala Lodz. Lodz var d\u00e5 Polens andra st\u00f6rsta stad. Under 1800-talet utvecklades Lodz fr\u00e5n ett litet samh\u00e4lle till att bli en av de mest betydelsefulla textilindustrist\u00e4derna i Europa. De stora textilindustriimperierna uppbyggda av tyska och judiska familjer fanns inte kvar efter 2:a v\u00e4rldskriget och industrin h\u00f6ll p\u00e5 att f\u00f6rlora sin betydelse men fabrikerna stod kvar under hela min uppv\u00e4xt. Utrustade med maskiner fr\u00e5n slutet p\u00e5 1800-talet pyrde de ut svart r\u00f6k som lade sig som en hinna \u00f6ver staden och f\u00e4rgade allting gr\u00e5tt. N\u00e4r jag under \u00f6vre ton\u00e5ren b\u00f6rjade bry mig om mitt utseende beh\u00f6vde jag alltid byta skjorta innan jag gick ut efter skolan f\u00f6r att slippa de svarta r\u00e4nderna p\u00e5 manschetterna och kragen. Trots att Lodz storhetstid som industristad var f\u00f6rbi gjorde stadens geografiska n\u00e4rhet till Warszawa (som n\u00e4stan totalf\u00f6rst\u00f6rdes under krigets slutskede) att den i m\u00e5nga avseenden fungerade som landets centrum. H\u00e4r bosatte sig ocks\u00e5 m\u00e5nga Warszawabor och bland dessa de av min fars familj som \u00f6verlevde kriget. Detta var en av orsakerna varf\u00f6r mina f\u00f6r\u00e4ldrar och farf\u00f6r\u00e4ldrar kom hit n\u00e4r de \u00e5terv\u00e4nde fr\u00e5n Sovjetunionen c:a 1946. De bodde f\u00f6rst p\u00e5 ett annat st\u00e4lle i Lodz och flyttade till 1:a majgatan i slutet av 40-talet.\nL\u00e4genheten bestod av sex rum, varav tre var riktiga paradrum. Vi var \u00e5tta personer som bodde d\u00e4r: f\u00f6rutom mig och mina f\u00f6r\u00e4ldrar, mina farf\u00f6r\u00e4ldrar och min faster Anna (Hanka) med sin man Henryk och deras son Piotr som f\u00f6ddes knappt ett dygn efter mig. I den stora matsalen kunde upp till 18 personer sitta vid stora bjudningar. Min familj lyckades r\u00e4dda en del av familjef\u00f6rm\u00f6genheten undan kriget och ans\u00e5gs sannolikt vara f\u00f6rm\u00f6gen med d\u00e5tidens m\u00e5tt m\u00e4tt. I Lodz \u00e4gde familjen ett apotek och en liten kemisk fabrik (Henryk var kemist) fram till tv\u00e5ngsf\u00f6rstatligandet i b\u00f6rjan av 50-talet. Vi hade haft ett hembitr\u00e4de s\u00e5 l\u00e4nge jag minns och under de f\u00f6rsta \u00e5ren p\u00e5 1:a majgatan \u00e4ven en kokerska. \nMin farfar drabbades av stroke n\u00e4r jag var fyra \u00e5r gammal. Han v\u00e5rdades i hemmet och dog efter en kort tid. Han blev begraven p\u00e5 judiska begravningsplatsen. D\u00e4r kom ocks\u00e5 min farmor att begravas 17 \u00e5r senare. Varken jag eller Piotr deltog i farfars begravning f\u00f6r att vi ans\u00e5gs vara f\u00f6r sm\u00e5. \nMin far ber\u00e4ttade s\u00e4llan och og\u00e4rna om det f\u00f6rflutna men hans syster Hanka pratade desto mer om det. F\u00f6r henne verkade uppv\u00e4xt\u00e5ren i f\u00f6r\u00e4ldrahemmet vara den lyckligaste tiden i livet och antog sm\u00e5tt sagolika proportioner. Hon brukade ber\u00e4tta om det varje g\u00e5ng vi pratades vid. Vid n\u00e5got tillf\u00e4lle r\u00e5dde min fru, Nina, henne att skriva ner dessa minnen. Detta resulterade i ett manuskript. N\u00e4r Hanka skulle fylla 90 \u00e5r 2007 tog jag mig an manuskriptet och gav ut det i form av en bok som blev Hankas f\u00f6delsedagspresent. \nI sina memoarer ber\u00e4ttade Hanka om sin familj och sin uppv\u00e4xt i Kazimierz Dolny, en liten pittoresk stad i syd\u00f6stra Polen. Dit kom min farfar med sin fru och sin nyf\u00f6dda son (min far, Aleksander \u2013 Olek som f\u00f6ddes 1913) fr\u00e5n Czestochowa f\u00f6r att \u00f6ppna apotek. Min farmors familj bodde i Czestochowa, d\u00e4r min farmors far sysslade med tillverkning av mineralvatten. Min farmor hade fem systrar och tv\u00e5 br\u00f6der. Br\u00f6derna hittade alltid p\u00e5 massa hyss och st\u00e4llde till bekymmer f\u00f6r sin far. Min farfar h\u00e4rstammade fr\u00e5n Zamosc och var allts\u00e5 apotekare. Efter 1:a v\u00e4rldskrigets utbrott tog min farfar sin familj in\u00e5t Ryssland (Kazimierz Dolny l\u00e5g inom det ryska imperiet). De hamnade i Kimry, utanf\u00f6r Moskva d\u00e4r min faster f\u00f6ddes 1917. Efter kriget flyttade familjen tillbaka till Kazimierz Dolny. Farfar byggde ett hus vid torget d\u00e4r familjen bodde ovanf\u00f6r apoteket. Under mellankrigstiden var den lilla staden p\u00e5 modet. Warszawas konstfack hade d\u00e4r sina friluftsm\u00e5leril\u00e4ger och dess rektor, Kazimierz Pruszkowski, byggde sig ett hus och kom dit i sitt eget lilla flygplan. Till staden drogs artister, f\u00f6rfattare, sk\u00e5despelare och politiker. Mina farf\u00f6r\u00e4ldrar blev v\u00e4nner med m\u00e5nga av dem och min farfar gav ofta ekonomiskt st\u00f6d till unga artister. Min far \u00e4rvde tydligen m\u00e5nga drag efter sina morbr\u00f6der och min farfar fick flera g\u00e5nger ingripa f\u00f6r att r\u00e4dda honom fr\u00e5n tr\u00e5kiga konsekvenser av hans bus. Till slut gick min far ut gymnasiet och b\u00f6rjade l\u00e4sa farmaci vid Warszawas universitet. D\u00e4r tr\u00e4ffade han min mor.\nMin mor, Irena, f\u00f6ddes i Warszawa 1913. Hon hade en \u00e4ldre bror, Nikodem. Min morfar var fastighetsf\u00f6rvaltare och f\u00f6rvaltade det hus som familjen bodde i och som \u00e4gdes av min mormors familj. Nikodem dr\u00f6mde om att bli l\u00e4kare men lyckades inte att komma in p\u00e5 l\u00e4karutbildningen trots upprepade f\u00f6rs\u00f6k (sannolikt p.g.a. numerus clausus). Under tiden avslutade han en juristutbildning. Tydligen var det inte lika sv\u00e5rt att studera till apotekare och min mor blev f\u00e4rdig redan 1936 och b\u00f6rjade arbeta som assistent vid professor Ludwik Hirszfelds institution. \nN\u00e4r 2:a v\u00e4rldskriget br\u00f6t ut blev min far inkallad. N\u00e4r det blev klart att Tysklands seger var n\u00e4ra f\u00f6rest\u00e5ende flydde min farfar med farmor och min faster \u00f6sterut. De kom till Kovel i Ukraina. Dit kom min far efter demobiliseringen. \u00c4ven min mor kom till Kovel. Hennes familj stannade i Warszawa. I Kovel tr\u00e4ffade min faster sin blivande man. Fr\u00e5n Ukraina vandrade familjen vidare in i Sovjetunionen och kom till slut till Samarkand i Uzbekistan. D\u00e4r tillbringade de resten av kriget. Min far arbetade p\u00e5 ett sjukhusapotek. Mina f\u00f6r\u00e4ldrar gifte sig i Samarkand.\nEfter kriget kom s\u00e5ledes mina f\u00f6r\u00e4ldrar, farf\u00f6r\u00e4ldrar och faster med sin man till Lodz d\u00e4r det bodde tv\u00e5 av min farmors systrar. Ytterligare en \u00f6verlevde kriget och bodde i Warszawa. Det fanns ocks\u00e5 n\u00e5gra kusiner. Ur min mors n\u00e4rmaste familj \u00f6verlevde ingen. I Polen levde en avl\u00e4gsen kusin och hon hade tv\u00e5 kusiner i USA och en i Israel.\nI mitt hem pratades det inte om det judiska. B\u00e5de mina och Piotrs f\u00f6r\u00e4ldrar bytte till polskt klingande efternamn. Vi hette Lechowicz. Mina farf\u00f6r\u00e4ldrar hette dock fortfarande Lichtson. Ingen av mina f\u00f6r\u00e4ldrar kunde jiddisch. Vi uppr\u00e4tth\u00f6ll inga judiska traditioner hemma. Vi firade jul, men inte p\u00e5sk. Medvetande om att vi var annorlunda \u00e4n andra fanns n\u00e5gonstans men det var djupt nedgr\u00e4vt. F\u00f6rsta g\u00e5ngen som jag blev varse om min judiskhet var n\u00e4r jag gick i tredje klass. I oktober 1956 blev det arbetarprotester i flera st\u00e4der och en av regimens eftergifter var att det blev kristendomsundervisning i grundskolan. P\u00e5 f\u00f6rsta kristendomslektionen beordrade l\u00e4raren att judar skulle l\u00e4mna klassrummet. Vi var tv\u00e5 eller tre personer som reste sig och gick ut. Under f\u00f6ljande \u00e5r h\u00e4nde det n\u00e5gon g\u00e5ng att en av mina klasskamrater kallade mig jude n\u00e4r vi var ensamma. Jag upplevde det dock aldrig som en f\u00f6rol\u00e4mpning f\u00f6r att han sa det med viss \u00f6mhet i r\u00f6sten.\nJag hade faktiskt inte upplevt n\u00e5gra andra antisemitiska yttringar \u00e4nda till 1967, allts\u00e5 tills jag var 20 \u00e5r gammal. Jag l\u00e4ste medicin i Lodz och k\u00e4nde mig som alla andra. Min far var apotekschef p\u00e5 ett stort milit\u00e4rsjukhus i Lodz. Han hade \u00f6verstel\u00f6jtnantsgrad trots att han inte var med i partiet. Min mor hade sedan flera \u00e5r varit sjukpension\u00e4r p\u00e5 grund av sv\u00e5r multipel skleros. Under sommarlovet detta \u00e5r tillbringade jag tv\u00e5 veckor med min flickv\u00e4n och nuvarande hustru vid polska \u00d6stersj\u00f6kusten. N\u00e4r vi anl\u00e4nde med t\u00e5get till Lodz blev vi h\u00e4mtade p\u00e5 stationen av min far. D\u00e5 ber\u00e4ttade han att han f\u00e5tt sparken. \nMin far var en person med en stor umg\u00e4ngeskrets. Han hade m\u00e5nga v\u00e4nner p\u00e5 viktiga positioner och d\u00e4rf\u00f6r kunde han under kort tid ordna tillst\u00e5nd f\u00f6r att \u00f6ppna egen verksamhet. I hans funktion som chef f\u00f6r ett sjukhusapotek ingick ansvaret f\u00f6r best\u00e4llningar och lagerh\u00e5llning av diverse medicinsk utrustning. Han visste vad som det var brist p\u00e5 och beslutade att b\u00f6rja producera enklare medicinska utrustningsdetaljer.\nJag deltog inte p\u00e5 n\u00e5got aktivt s\u00e4tt i h\u00e4ndelserna i mars 1968. Den antisemitiska kampanjen d\u00e4refter var v\u00e4mjelig men detta med min far hade redan h\u00e4nt och jag blev personligen inte drabbad. Jag blev faktiskt bel\u00f6nad med s.k. vetenskapligt stipendium som delades ut f\u00f6r goda studieresultat med start fr\u00e5n h\u00f6stterminen 1968. Ingen antisemitism drabbade mig direkt. Det var ledsamt att flera av mina v\u00e4nner best\u00e4mde sig att l\u00e4mna Polen men jag hade inte ens en tanke p\u00e5 att g\u00f6ra det. \nOtrevligheter f\u00f6r min del b\u00f6rjade f\u00f6rst v\u00e5ren n\u00e4sta \u00e5r. D\u00e5 skulle man s\u00f6ka utl\u00e4ndsk praktik inom ramar f\u00f6r studentutbyte. Dessa praktikplatser var mycket attraktiva f\u00f6r det var en av de f\u00e5 chanserna att kunna resa till v\u00e4st. F\u00f6r att s\u00f6ka skulle man ha goda studieresultat och bli godk\u00e4nd i ett spr\u00e5kprov. F\u00f6r s\u00e4kerhets skull s\u00e5g jag till att f\u00e5 godk\u00e4nt i engelska, men ocks\u00e5 tyska och franska. Sedan ans\u00f6kte jag om praktik i Storbritannien. Men jag fick inte resa. Motiveringen blev att jag inte kunde representera den genomsnittliga polska studenten. Denna f\u00f6rklaring l\u00e4mnade partisekreteraren vid universitetsledningens sammantr\u00e4de och min far fick veta detta av n\u00e5gon som satt vid sammantr\u00e4det. Mina v\u00e4nner i studentf\u00f6reningen blev s\u00e5 uppr\u00f6rda \u00f6ver att jag inte fick n\u00e5gon praktikplats att man lyckades ordna en s\u00e5dan \u00e5t mig centralt i Warszawa (det fanns tydligen ett antal platser som inte gick via de enskilda universiteten).\nSedan b\u00f6rjan av min studietid hade jag varit verksam i studentf\u00f6reningen. V\u00e5ren 1969 var det val till de olika lokala delarna av verksamheten. Jag var f\u00f6reslagen till att leda den verksamhet som hj\u00e4lpte utl\u00e4ndska studenter. Strax f\u00f6re sammantr\u00e4det kom k\u00e5rordf\u00f6randen fram till mig. Han var mycket uppr\u00f6rd och sa med darrande r\u00f6st till mig att jag inte kunde kandidera och att jag visste varf\u00f6r. Under sammantr\u00e4det ville ingen av delegaterna kandidera till denna post f\u00f6r att alla visste att den var vikt \u00e5t mig. Man fick avbryta m\u00f6tet och under pausen ut\u00f6vade partisekreteraren starka p\u00e5tryckningar p\u00e5 en sista\u00e5rsstudent. Hon hotades med att inte f\u00e5 jobb om hon inte gick med p\u00e5 att kandidera. S\u00e5 hon blev tvungen att acceptera att st\u00e4lla upp f\u00f6r att bli vald.\nJag genomf\u00f6rde min praktik i Schweiz (p\u00e5 Inselspital i Bern) under september 1969. Studie\u00e5ret b\u00f6rjade 1 oktober och till min f\u00f6rv\u00e5ning var jag inte med p\u00e5 listan \u00f6ver studenterna. Detta r\u00e4ttades till r\u00e4tt s\u00e5 snabbt. Det var dock droppen och jag blev till slut \u00f6vertygad om att jag m\u00e5ste l\u00e4mna Polen.\nSom det har nog framg\u00e5tt k\u00e4nde jag inte n\u00e5gra starkare judiska band. Jag ville inte \u00e5ka till Israel. I Europa fanns egentligen bara tv\u00e5 alternativ: Danmark och Sverige. Jag valde Sverige f\u00f6r att en av mina v\u00e4nner och min fasters familj redan var d\u00e4r sedan n\u00e5got \u00e5r tillbaka. Det sades ocks\u00e5 att Danmark beviljade inresetillst\u00e5nd till alla i min situation som ville \u00e5ka dit medan Sverige pr\u00f6vade varje ans\u00f6kan individuellt. Det som verkade mindre tillg\u00e4ngligt blev mer lockande. Min v\u00e4n som redan var i Sverige informerade mig att om jag hade godk\u00e4nt i alla prekliniska \u00e4mnen i Polen skulle jag kunna tillgodor\u00e4kna ett studie\u00e5r i Sverige. Jag tenterade det sista prekliniska \u00e4mnet i slutet av januari 1970 och ans\u00f6kte om utresa i februari. Jag visste inte d\u00e5 att man skulle strypa utresetillst\u00e5nden i slutet av 1969. S\u00e5 det blev avslag. Avslaget motiverades med en paragraf som lydde: \u201ds\u00e4rskilda sociala sk\u00e4l\u201d. De sociala sk\u00e4len skulle vara att mina f\u00f6r\u00e4ldrar l\u00e4mnades i Polen. Mina f\u00f6r\u00e4ldrar hade en v\u00e4lfungerande social tillvaro, de beh\u00e4rskade inte fr\u00e4mmande spr\u00e5k och min mor var sv\u00e5rt r\u00f6relsehandikappad, varf\u00f6r vi tidigare hade beslutat att jag ensam skulle ans\u00f6ka om utresa. Nu ans\u00f6kte de ist\u00e4llet tillsammans med mig men vi fick avslag alla tre. Motiveringen av mitt avslag var densamma som tidigare men mina f\u00f6r\u00e4ldrars var \u201ds\u00e4rskilda statssk\u00e4l\u201d. Detta f\u00f6rklarades med att min far som tidigare milit\u00e4r kunde besitta kunskap om viktiga milit\u00e4ra hemligheter. Och sedan fortsatte den h\u00e4r karusellen: vi l\u00e4mnade nya ans\u00f6kningar och fick st\u00e4ndigt nya avslag \u00e4nda tills mars 1971 d\u00e5 vi pl\u00f6tsligt fick utresetillst\u00e5nd alla tre. Vi l\u00e4mnade Polen 8 april 1971.\nVi reste med bil och kom in i Sverige i Ystad. D\u00e4rifr\u00e5n \u00e5kte vi till G\u00f6teborg d\u00e4r min faster med familj bodde. Det blev en r\u00f6rande \u00e5terf\u00f6rening. Det var p\u00e5sk och direkt d\u00e4refter gick vi till n\u00e4rmaste polisstation. Jag minns inte alla detaljer men det f\u00f6refaller mig att allt var redan ordnat (m\u00f6jligen var polisen varskodd av v\u00e5r familj att vi skulle komma) och vi blev h\u00e4nvisade till en flyktingf\u00f6rl\u00e4ggning i Moheda, i Sm\u00e5land. Som bilburna kunde vi bege oss dit r\u00e4tt s\u00e5 omg\u00e5ende. Vi bodde i fina och v\u00e4lutrustade stugor i en stugby, en familj i varje stuga. Helpension och fickpenning (3 kr/dag + 2 kr/skoldag om jag minns r\u00e4tt). Vi fick \u00e4ven kuponger f\u00f6r kl\u00e4dink\u00f6p. Vilken generositet! Alla vardagar blev man bussad till spr\u00e5kskolan i Alvesta. D\u00e5 jag var medicinstuderande och ans\u00f6kt om att forts\u00e4tta utbildningen i Sverige blev jag antagen till en kurs i svenska f\u00f6r l\u00e4kare som gick i Uppsala. Vi \u00e5kte till Uppsala i b\u00f6rjan p\u00e5 juni. Mina f\u00f6r\u00e4ldrar fortsatte med vanlig sfi-kurs d\u00e4r. Jag skulle f\u00e5 forts\u00e4tta mina l\u00e4karstudier och blev tilldelad en plats vid Lunds universitet med start p\u00e5 medicinkursen som gick p\u00e5 Malm\u00f6 Allm\u00e4nna Sjukhus (MAS) under f\u00f6ruts\u00e4ttning att jag blev godk\u00e4nd i svenska och engelska.\nV\u00e4l i Malm\u00f6 installerade jag mig i en personalbostad. Starten av medicinkursen var ganska stressande, inte minst f\u00f6r sk\u00e5nskan. Det var enbart tre studenter per avdelning och mina tv\u00e5 kollegor var mycket hj\u00e4lpsamma. Jag minns att de s\u00e5g till att de patienter som jag tilldelades inte talade alltf\u00f6r bred sk\u00e5nska. I Malm\u00f6 bodde en familj till en av mina studiekamrater i Lodz och de tog emot mig som familjemedlem. \nInnan jag l\u00e4mnade Polen lovade jag min f\u00e4stm\u00f6, Nina, att vi skulle f\u00f6rs\u00f6ka tr\u00e4ffas s\u00e5 fort vi kunde. Egentligen var f\u00f6rst tanken att vi skulle gifta oss och l\u00e4mna Polen tillsammans men helt pl\u00f6tsligt spreds information att man skulle vara gift i tv\u00e5 \u00e5r om det r\u00f6rde sig om s.k. bland\u00e4ktenskap (regimen h\u00f6ll f\u00f6rst\u00e5s koll p\u00e5 sina judar) f\u00f6r att f\u00e5 utresetillst\u00e5nd. S\u00e5 nu skulle vi f\u00f6rs\u00f6ka tr\u00e4ffas och vi trodde att det skulle vara l\u00e4ttast i Ungern. Jag skulle beh\u00f6va ta ledigt n\u00e5gra dagar fr\u00e5n undervisningen vilket var mycket sv\u00e5rt enligt mina kurskamrater. Till min f\u00f6rv\u00e5ning blev det inga problem n\u00e4r jag f\u00f6rklarade situationen f\u00f6r kursledaren.\nMina f\u00f6r\u00e4ldrar flyttade fr\u00e5n Uppsala till Lund under h\u00f6sten 1971 och jag flyttade in till dem. Min far fick en s.k. arkivanst\u00e4llning vid kemiinstitutionen vid Lunds universitet och min mor fick svenskt sjukbidrag. Under jullovet samma \u00e5r arbetade jag som v\u00e5rdbitr\u00e4de p\u00e5 MAS. Under p\u00e5sklovet 1972 h\u00e4lsade jag p\u00e5 en tysk l\u00e4karstuderande som jag hade l\u00e4rt k\u00e4nna under min praktik i Schweiz. Den 1 april fick jag en rundvisning av det sjukhus i Berlin som han gjorde sin praktik p\u00e5. Vi \u00e5t lunch i sjuhusmatsalen n\u00e4r jag meddelade honom att just i det \u00f6gonblick h\u00f6ll jag p\u00e5 att gifta mig. D\u00e5 jag inte kunde f\u00e5 tillst\u00e5nd att \u00e5ka till Polen kunde man skaffa ett domstolstillst\u00e5nd d\u00e4r att f\u00e5 gifta sig genom ombud. Och s\u00e5 blev det. Tydligen var 1 april det enda datum d\u00e5 folk inte ville gifta sig och det passade min f\u00e4stm\u00f6 och mig alldeles utm\u00e4rkt (det blev ett mycket lyckat \u201dsk\u00e4mt\u201d som p\u00e5g\u00e5r fortfarande). Nina avslutade sina l\u00e4karstudier p\u00e5 v\u00e5ren och kom till Sverige i juli. Vi flyttade till en studentbostad i b\u00f6rjan av terminen. H\u00f6sten 1973 var Nina klar med sfi och l\u00e4karsvenskan i Uppsala och b\u00f6rjade arbeta p\u00e5 lungkliniken i Lund. Vi umgicks med mina studiekamrater och folk i v\u00e5r \u00e5lder fr\u00e5n emigrationen -68 (\u201dmarsg\u00e4nget\u201d).\n\tJag fick mitt f\u00f6rsta underl\u00e4karvikariat p\u00e5 medicinkliniken MAS sommaren 1972. N\u00e4sta sommar arbetade jag som underl\u00e4kare p\u00e5 radioterapikliniken (onkologen) p\u00e5 samma sjukhus. \nH\u00f6sten 1973 var det dags f\u00f6r mig att s\u00f6ka AT (allm\u00e4ntj\u00e4nstg\u00f6ring). Jag tog fram det dokument som jag hade f\u00e5tt fr\u00e5n Socialstyrelsen n\u00e4r jag skulle forts\u00e4tta min l\u00e4karutbildning i Sverige. Nu uppt\u00e4ckte jag en formulering som jag inte hade uppm\u00e4rksammat tv\u00e5 \u00e5r tidigare. Den godk\u00e4nda delen av min polska utbildning motsvarade det svenska med.kand. examen som avlades efter de fyra f\u00f6rsta terminer. D\u00e5 jag b\u00f6rjade mina svenska studier med medicinkursen (termin 7) saknades det pl\u00f6tsligt ett helt \u00e5r i Socialstyrelsens skrivelse. Kontakt med Socialstyrelsen avsl\u00f6jade att man hade t\u00e4nkt sig (men inte talat om det tidigare) att jag skulle tentera av de \u00e4mnen som man l\u00e4ste under det saknade \u00e5ret. Och det hade jag nu 3 m\u00e5nader p\u00e5 mig. Det r\u00f6rde sig om 3 stora \u00e4mnen och en propedeutikkurs. \u00c5terigen blev jag trevligt \u00f6verraskad av mina l\u00e4rare. Jag fick utan vidare godk\u00e4nt propedeutikkursen. Professorn i patologi hade inga problem med att rakt av godta mitt i Polen godk\u00e4nda patologitentamen. S\u00e5 till slut blev det bara tv\u00e5 \u00e4mnen (farmakologi och mikrobiologi) kvar att tentera. \nJag b\u00f6rjade mitt AT p\u00e5 Serafen i Stockholm 1 februari 1974. Vi flyttade fr\u00e5n Lund i en hyrd minibuss. Nina var gravid i fj\u00e4rde m\u00e5naden. Vi bodde f\u00f6rst i en personalbostad i Stadshagen. Sedan tr\u00e4ffade vi n\u00e5gra personer ur \u201dmarsg\u00e4nget\u201d som hamnade i Stockholm. Flera av dem bodde i Sollentuna och d\u00e4r fanns lediga insatsl\u00e4genheter. Insatsen var l\u00e5g och vi kunde flytta in i april. V\u00e5r son, Martin, f\u00f6ddes p\u00e5 L\u00f6wenstr\u00f6mska sjukhuset 29 juni 1974. Nina arbetade p\u00e5 r\u00f6ntgenavdelningen S:t Eriks sjukhus fram till dagen f\u00f6re f\u00f6rlossningen.\nDet blev en kort f\u00f6r\u00e4ldraledighet. F\u00f6r mig n\u00e5gon vecka och f\u00f6r Nina ett halv\u00e5r. Barnpassning var sv\u00e5r att ordna och vi fick skaffa en polsk barnflicka n\u00e4r Nina \u00e5tergick i arbete i januari 1975, d\u00e5 p\u00e5 r\u00f6ntgenavdelningen p\u00e5 Karolinska. Under n\u00e5gra m\u00e5nader v\u00e5ren 1976 gick hon en kurs f\u00f6r utl\u00e4ndska l\u00e4kare i \u00d6rebro.\nVi bytte v\u00e5rt efternamn fr\u00e5n Lechowicz till Lerner 1975. Lerner var min farmors flicknamn och vi tyckte att det var l\u00e4ttare att anv\u00e4nda i Sverige \u00e4n Lichtson som var min fars ursprungliga efternamn. Jag tyckte att det var en l\u00e4ttnad att bli av med det polskt klingande Lechowicz. Jag hade b\u00f6rjat intressera mig f\u00f6r det judiska och Chaim Potok blev min favoritf\u00f6rfattare. I Polen uppfattade jag mig som polack med judiskt ursprung. Nu blev jag jude som h\u00e4rstammar fr\u00e5n Polen.\nMitt arbete gav mig en enorm tillfredst\u00e4llelse. AT b\u00f6rjade med ett halv\u00e5r av anestesi-kirurgi, d\u00e4refter f\u00f6ljde medicin. Serafens medicinklinik hade huvudsakligen en kardiologisk inriktning vilket passade mig mycket bra. Jag m\u00e5ste ha varit uppskattad f\u00f6r att jag blev betrodd med att vara jour p\u00e5 hj\u00e4rtintensiven (vilket AT-l\u00e4kare s\u00e4llan blev). Vid slutet av min medicintj\u00e4nstg\u00f6ring blev jag lovad ett vikariat efter avslutad AT som skulle intr\u00e4ffa n\u00e5got \u00e5r senare. P\u00e5 den tiden var ett underl\u00e4karvikariat den enda v\u00e4gen till arbete i Stockholm. N\u00e4r det blev dags tog jag kontakt med klinikstudieledaren f\u00f6r att f\u00e5 veta n\u00e4r jag skulle b\u00f6rja p\u00e5 Serafen igen. Han verkade mycket besv\u00e4rad n\u00e4r han talade om f\u00f6r mig att jag inte fick komma. Chefen, Gunnar Bi\u00f6rk, ville inte att jag skulle arbeta p\u00e5 hans klinik. Motiveringen var att min svenska inte var tillr\u00e4ckligt bra. Det lustiga var att Gunnar Bi\u00f6rk, som var riksdagsledamot p\u00e5 den tiden, visade sig ytterst s\u00e4llan p\u00e5 sjukhuset. Jag hade faktiskt aldrig v\u00e4xlat n\u00e5gra ord med honom. Under alla mina 50 \u00e5r i Sverige var det nog den enda personliga erfarenheten av s\u00e5dan attityd.\nJag vikarierade som distriktsl\u00e4kare i \u00c5kersberga under v\u00e5ren 1976. Under sommaren samma \u00e5r hade jag ett underl\u00e4karvikariat p\u00e5 medicinkliniken S:t Eriks sjukhus. Jag trivdes inte s\u00e4rskilt bra d\u00e4r (hade en \u00f6verl\u00e4kare som jag ans\u00e5g vara inte riktigt klok). N\u00e4r jag blev tipsad om en ledig plats p\u00e5 medicinkliniken p\u00e5 S\u00f6dersjukhuset provade jag min lycka d\u00e4r. Det har jag aldrig \u00e5ngrat. Kliniken hade en tredubbel profil: diabetes, gastroenterologi och hematologi. Jag hade i minnet mina goda erfarenheter fr\u00e5n onkologi i Malm\u00f6 och valde hematologin. Det blev en riktig fulltr\u00e4ff.\nH\u00f6sten 1977 flyttade vi fr\u00e5n l\u00e4genheten i Sollentuna till en villa i Sp\u00e5nga. V\u00e5r andra son, Mikael, f\u00f6ddes 26 mars 1978. Efter barnledigheten arbetade Nina heltid och vi hade fortfarande polska barnflickor. D\u00e5 vi pratade polska hemma kunde inte v\u00e5ra s\u00f6ner n\u00e5gon svenska. Det var fortfarande mycket sv\u00e5rt att f\u00e5 en daghemsplats. Vi blev tipsade om Hillelskolan som ocks\u00e5 hade en f\u00f6rskola. Dessutom hade man d\u00e4r en skolskjuts. B\u00e5de Martin och Mikael trivdes mycket bra p\u00e5 Hillelskolan. Det verkade inte spela n\u00e5gon st\u00f6rre roll att de inte hade n\u00e5gra judiska traditioner med sig hemifr\u00e5n. Vi flyttade fr\u00e5n Sp\u00e5nga till en l\u00e4genhet p\u00e5 \u00d6stermalm 1985.\nJag har fortsatt arbeta p\u00e5 hematologen p\u00e5 S\u00f6dersjukhuset och n\u00e4r omorganisationen av Stockholms sjukv\u00e5rd slog till flyttade jag tillsammans med verksamheten till Huddinge 1996. Jag f\u00f6rsvarade min doktorsavhandling h\u00f6sten 1993. Jag har alltid haft enbart positiva erfarenheter av mina olika arbetsplatser (m\u00f6jligen med undantag f\u00f6r S:t Erik). Arbetsklimatet p\u00e5 hematologen har varit fantastiskt b\u00e5de vad det g\u00e4llde kollegor och \u00f6vrig personal.  \nNina arbetade som \u00f6verl\u00e4kare p\u00e5 geriatriken p\u00e5 Rosenlunds sjukhus fram till mitten p\u00e5 90-talet d\u00e5 hon \u00f6ppnade en privatpraktik, Hon drabbades av stroke 2006 och kunde inte arbeta efter detta. Bland annat av denna anledning gick jag i f\u00f6rtidspension 2010 vid 63 \u00e5rs \u00e5lder, men arbetade sporadiskt under ytterligare ett par \u00e5r. \nV\u00e5ra b\u00e5da s\u00f6ner gick ut \u00d6stra Real. Martin l\u00e4ste sedan p\u00e5 l\u00e4karlinjen och Mikael provade n\u00e5gra humanistiska \u00e4mnen innan han till slut hamnade p\u00e5 biomedicin p\u00e5 Karolinska. \nVi flyttade fr\u00e5n \u00d6stermalm till Vasastan i b\u00f6rjan av 2000. Vi har 5 barnbarn\nSedan c:a 2003 har vi regelbundet bes\u00f6kt Polen och \u00e4ven skaffat oss en liten l\u00e4genhet i Warszawa. Vi var d\u00e4r i mars 2018 och upplevde vissa aspekter av 50-\u00e5rsjubileet sp\u00f6klikt lika det som h\u00e4nde 1968. Det k\u00e4ndes p\u00e5 m\u00e5nga s\u00e4tt som att cirkeln har slutits.", 
+          "modified": "Tue, 02 Nov 2021 15:42:18 GMT", 
+          "topic_item": {
+            "label": "Din levnadsber\u00e4ttelse", 
+            "label_i18n": {
+              "sv": "Din levnadsber\u00e4ttelse"
+            }, 
+            "type": "Textarea", 
+            "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "9a9e35ca-6b42-422f-84eb-31d1a2fcd48e"
+        }, 
+        {
+          "created": "Tue, 02 Nov 2021 15:42:18 GMT", 
+          "display_value": "8 april 1971", 
+          "modified": "Tue, 02 Nov 2021 15:42:18 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "ff32d4ed-ccbf-4f55-a374-9fb4ea454fcd"
+        }, 
+        {
+          "created": "Tue, 02 Nov 2021 15:42:18 GMT", 
+          "display_value": "Lodz (Polen), Moheda (Sm\u00e5land), Uppsala, Malm\u00f6, Lund", 
+          "modified": "Tue, 02 Nov 2021 15:42:18 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "76dbbfe1-7652-4660-82f3-81eca36750e6"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00008", 
+      "comment_count": 0, 
+      "contributor": {
+        "display_name": "Regina Feierberg"
+      }, 
+      "created": "Wed, 20 Oct 2021 20:47:25 GMT", 
+      "hits": 45, 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "modified": "Wed, 20 Oct 2021 20:47:25 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17371", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6402, 
+      "uuid": "36b32a79-fed0-4cc1-a8c0-4cd6a7d5323f", 
+      "values": [
+        {
+          "created": "Wed, 20 Oct 2021 20:47:25 GMT", 
+          "display_value": "Jag heter  Regina Feierberg \u00e4r f\u00f6dd 1946 i Zdunska Wola som enda barnet till Chaja och Ajzyk Celnik, b\u00e4gge \u00f6verlevande fr\u00e5n getton i Lodz och Warszawa samt koncentrationsl\u00e4ger  Ravensbruck och Auschwitz. \n\nJag v\u00e4xte upp med stark judisk identitet, dvs ett liv hemma och ett annat liv utanf\u00f6r.\n\nMina f\u00f6r\u00e4ldrar pratade jiddisch med varandra och med sina v\u00e4nner, ofta om upplevelser under kriget. \n\nSom barn var jag r\u00e4dd f\u00f6r tyska soldater .\n\nDet viktigaste var att studera. \"Det som  man har i huvudet har man alltid med sig\"\n\nJag v\u00e4xte upp i Zdunska  Wola ( ca 40000 inv\u00e5nare) d\u00e4r det efter 1956 fanns 5 judiska familjer.\nDet h\u00e4nde ofta att n\u00e5gon skrek p\u00e5 gatan att  jag borde \u00e5ka till Palestina  och i grundskolan n\u00e4r man avhandlade Hitler  eller Jesus tittade klassen p\u00e5 mig.\n\n1964 b\u00f6rjade jag l\u00e4sa medicin i Lodz s\u00e5 1969 var jag klar med 5 av 6 \u00e5rs studier. \n\nSedan 6-dagars kriget k\u00e4ndes det som att det fanns mindre och mindre luft att andas med  pga den antijudiska propagandan i media. Man undvek att lyssna p\u00e5 nyheter eller l\u00e4sa tidningar, d\u00e4r det oftast meddelades om hur m\u00e5nga stadsfiender/ sionister sparkades fr\u00e5n jobb eller universitet. \n\nSommaren 1968 arbetade jag p\u00e5 ett barnkollo som l\u00e4kare. Kunde inte f\u00f6rst\u00e5  att n\u00e4stan  ingen av personalen pratade med mig. Det visade sig sedan att chefen beordrade  detta eftersom jag var judinna. Jag f\u00f6rstod hur mitt framtida arbetsliv skulle se ut .\n\nSommaren1969 ans\u00f6kte vi (min mamma,min d\u00e5varande make och jag) om utresetillst\u00e5nd \noch en 4/11 anl\u00e4nde vi till Ystad som statsl\u00f6sa, med n\u00e5gra resv\u00e4skor och tentamensb\u00f6cker.\n\nEfter en \u00f6vernattning i anexet till  Hotellet Saltsj\u00f6bad placerades vi p\u00e5 flyktingf\u00f6rl\u00e4ggning i S\u00f6lvesborg \u010f\u00e4r vi efter ca 3 dagar b\u00f6rjade l\u00e4sa svenska. Undervisningen i svenska bestod av 4 niv\u00e5er . V\u00e5ra l\u00e4rare hade material till 2 niv\u00e5er, s\u00e5 p\u00e5 v\u00e5ren h\u00e4nde inte n\u00e5got mer. \nAv denna anledning \u00e5kte vi (mot ledningens vilja) till  Malm\u00f6s Judiska f\u00f6rsamling som hj\u00e4lpte till att skaffa l\u00e4genhet , sedan till Kursverksamhet i Lund  d\u00e4r vi fick plats f\u00f6r forts\u00e4tta studier samt hj\u00e4lp  att skaffa studiel\u00e5n.\n\nUnder  sommaren fick vi  komplettera engelska f\u00f6r betyg p\u00e5 gymnasieniv\u00e5  samt kurs i \"medicinal svenska\".\n\nP\u00e5 h\u00f6sten n\u00e4r att detta varit avklarat visade sig att det var i stort s\u00e4tt om\u00f6jligt att forts\u00e4tta l\u00e4sa medicin pga platsbrist. \n\nJag fick reda p\u00e5 vem som varit ansvarig f\u00f6r antagning p\u00e5 Socialstyrelsen s\u00e5 jag begav mig till Karolinska sjukhuset och lyckades tr\u00e4ffa den ansvarige professorn som ber\u00e4ttade att det var studentf\u00f6reningar som var oroliga att undervisningen skulle bli lidande om man placerade 28 studenter p\u00e5 6 universitet!\nDock den3/1 1971  blev vi uppringda av  Socialstyrelsen om att min make och jag skulle b\u00f6rja dagen efter  i Ume\u00e5!\n\nJag blev klar med studierna 1972 och fick svensk l\u00e4karlegitimation 1974.\nSedan blev jag specialist i barn och ungdomsmedicin och d\u00e4refter i allm\u00e4nmedicin. \nSlutade arbeta 2020 vid 74 \u00e5rs \u00e5ldern. \n\n1972 f\u00f6ddes v\u00e5r dotter  Isabella som har g\u00e5tt ut Molekul\u00e4r bioteknik p\u00e5 KTH i Uppsala d\u00e4r hon ocks\u00e5 disputerade. Isabella har arbetat efter det p\u00e5 Astra Zeneca och  sedan 6 \u00e5r bor hon med familjen (Marcus och deras 3 barn) i USA  och forts\u00e4tter med forskning. \n1976 f\u00f6ddes Artur  som efter studenten \u00e5kte till USA d\u00e4r han skaffade sig MBA examen. Redan p\u00e5 f\u00f6rsta terminen tr\u00e4ffade han sin  hustru Patty och med de  bor utanf\u00f6r  Chicago tillsammans med sin lilla dotter  Liv Hannah.\n\n\u00c4r v\u00e4ldigt tacksam Sverige som har gett oss m\u00f6jlighet till ett rikt liv i frihet.", 
+          "modified": "Wed, 20 Oct 2021 20:47:25 GMT", 
+          "topic_item": {
+            "label": "Din levnadsber\u00e4ttelse", 
+            "label_i18n": {
+              "sv": "Din levnadsber\u00e4ttelse"
+            }, 
+            "type": "Textarea", 
+            "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "d5c02f96-7187-46f9-b293-db357ca90ea9"
+        }, 
+        {
+          "created": "Wed, 20 Oct 2021 20:47:25 GMT", 
+          "display_value": "4/11 1969", 
+          "modified": "Wed, 20 Oct 2021 20:47:25 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "4c75a28c-66bf-4521-944c-522a964679f3"
+        }, 
+        {
+          "created": "Wed, 20 Oct 2021 20:47:25 GMT", 
+          "display_value": "Zdunska Wola, Lodz", 
+          "modified": "Wed, 20 Oct 2021 20:47:25 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "f9275595-ce41-4499-b68f-8ad451914fdb"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00007", 
+      "comment_count": 0, 
+      "contributor": {
+        "display_name": "Wiktor Raldow"
+      }, 
+      "created": "Thu, 14 Oct 2021 07:48:57 GMT", 
+      "hits": 115, 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Thu, 14 Oct 2021 07:39:03 GMT", 
+          "dms_id": "013AitqSfs2x", 
+          "license": "CC BY-NC", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Thu, 14 Oct 2021 07:39:03 GMT", 
+          "name": "Levnadsber\u00e4ttelse juni 2021.docx", 
+          "order_by_number": 1, 
+          "owner": "Wiktor Raldow", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "596a4047-eb21-4154-b055-cfd75cc34e87"
+        }
+      ], 
+      "modified": "Thu, 14 Oct 2021 07:48:57 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17352", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6378, 
+      "uuid": "52b958e3-cc0d-4c2c-afac-d2f4bc513d7c", 
+      "values": [
+        {
+          "created": "Thu, 14 Oct 2021 07:48:57 GMT", 
+          "display_value": "", 
+          "modified": "Thu, 14 Oct 2021 07:48:57 GMT", 
+          "topic_item": {
+            "label": "Din levnadsber\u00e4ttelse", 
+            "label_i18n": {
+              "sv": "Din levnadsber\u00e4ttelse"
+            }, 
+            "type": "Textarea", 
+            "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "e9dd8a31-3c51-4286-bbd0-d7ec40114d1b"
+        }, 
+        {
+          "created": "Thu, 14 Oct 2021 07:48:57 GMT", 
+          "display_value": "11 juni 1969", 
+          "modified": "Thu, 14 Oct 2021 07:48:57 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "0c7ac0f2-a1b2-4c80-a5bf-774ebe27b0ed"
+        }, 
+        {
+          "created": "Thu, 14 Oct 2021 07:48:57 GMT", 
+          "display_value": "Lodz", 
+          "modified": "Thu, 14 Oct 2021 07:48:57 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "940b5a95-a891-4595-bce9-5b405a62cd24"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00006", 
+      "comment_count": 0, 
+      "contributor": {
+        "display_name": "Ewa Gutniak"
+      }, 
+      "coordinates": "", 
+      "created": "Mon, 11 Oct 2021 11:16:11 GMT", 
+      "hits": 117, 
+      "image_dms_id": "013AitqLjF6P", 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Mon, 11 Oct 2021 11:44:05 GMT", 
+          "description": "Marstrand 1969", 
+          "dms_id": "013AitqLjF6P", 
+          "image_height": 2892.0, 
+          "image_ratio": 0.714384508990318, 
+          "image_width": 2066.0, 
+          "license": "CC BY-NC", 
+          "mime_type": "image/jpeg", 
+          "modified": "Mon, 11 Oct 2021 11:44:05 GMT", 
+          "name": "Marstrand portr\u00e4tt 1.jpg", 
+          "order_by_number": 1, 
+          "owner": "Mark Gutniak", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "image", 
+          "uuid": "5bdf085b-4bcc-4507-b86f-4508aa313276"
+        }, 
+        {
+          "created": "Mon, 11 Oct 2021 11:13:42 GMT", 
+          "dms_id": "013AitqLjEwh", 
+          "license": "CC BY-NC", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Mon, 11 Oct 2021 11:13:42 GMT", 
+          "name": "Levnadsber\u00e4ttelse till Nordiska museet  6 maj 2021.docx", 
+          "order_by_number": 1, 
+          "owner": "Ewa Gutniak", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "af8fea2f-8ff5-4d42-b59f-b03a87845d6e"
+        }
+      ], 
+      "modified": "Thu, 14 Oct 2021 12:21:01 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17317", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "title": "", 
+      "title_i18n": {
+        "sv": ""
+      }, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6361, 
+      "uuid": "fd88690a-a0b3-4f22-a9db-970cefd7a5f9", 
+      "values": [
+        {
+          "created": "Mon, 11 Oct 2021 11:16:11 GMT", 
+          "display_value": "8 oktober 1969", 
+          "modified": "Mon, 11 Oct 2021 11:16:11 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "fbc184b6-b3b9-42a0-99d8-d991d27a8682"
+        }, 
+        {
+          "created": "Mon, 11 Oct 2021 11:16:11 GMT", 
+          "display_value": "Warszawa", 
+          "modified": "Mon, 11 Oct 2021 11:16:11 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "80fd0afb-f487-47c4-9a1d-d6d439bccb42"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00005", 
+      "comment_count": 0, 
+      "contributor": {
+        "birth_year": 1951, 
+        "display_name": "Anna", 
+        "gender": "woman", 
+        "place": "Warszawa", 
+        "uuid": "60d60d97-d9e4-45f8-af21-9c5ce4f84c4f"
+      }, 
+      "created": "Fri, 08 Oct 2021 18:14:24 GMT", 
+      "hits": 67, 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Fri, 08 Oct 2021 18:11:48 GMT", 
+          "description": "Anna levnadsber\u00e4ttelse", 
+          "dms_id": "013AitirC4zy", 
+          "license": "CC BY-NC", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Fri, 08 Oct 2021 18:11:48 GMT", 
+          "name": "Anna levnadsber\u00e4ttelse.docx", 
+          "order_by_number": 1, 
+          "owner": "Anna", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "ab398319-6fee-4b76-acb2-fddb424938d3"
+        }
+      ], 
+      "modified": "Fri, 08 Oct 2021 18:14:24 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17310", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6321, 
+      "uuid": "0daab488-a9df-45ac-b946-d12e22d33e22", 
+      "values": [
+        {
+          "created": "Fri, 08 Oct 2021 18:14:24 GMT", 
+          "display_value": "26 januari 2021. F\u00f6rintelsedagen. Jag l\u00e4ser ber\u00e4ttelser fr\u00e5n det ockuperade Polen, m\u00f6rdandet i Ukraina, koncentrationsl\u00e4ger\u2026 Jag har lyssnat och l\u00e4st om detta otaliga g\u00e5nger tidigare. Det \u00e4r lika drabbande varje g\u00e5ng. Jag upplever det som en del av min egen historia, en oskiljaktig del av min judiska identitet. \n\nJust idag k\u00e4nns min egen resa futtig och inte v\u00e4rd att \u00e4gna sig \u00e5t. Det m\u00e5 vara viktigt f\u00f6r var och en av oss som blev tvungna att flytta fr\u00e5n Polen, det m\u00e5 vara viktigt f\u00f6r historieskrivningens skull men den f\u00f6rest\u00e4llningen bleknar i relation till vittnesm\u00e5len fr\u00e5n f\u00f6rr. \nBakgrund\nJag heter Anna, \u00e4r f\u00f6dd 1951 i Warszawa. Jag kom till Sverige 1969 med min bror och mina f\u00f6r\u00e4ldrar. Sedan dess har jag bott den mesta tiden i G\u00f6teborg. Efter spr\u00e5kstudier och ambitioner om ett yrkesliv som \u00f6vers\u00e4ttare v\u00e4cktes s\u00e5 sm\u00e5ningom mitt intresse f\u00f6r psykologi och ett arbete som psykolog och psykoterapeut. Ett val jag aldrig har \u00e5ngrat. Jag har levt i 45 \u00e5r med en italiensk man och har tv\u00e5 vuxna barn. Vi har valt att tala italienska hemma, medan mitt modersm\u00e5l polska har tr\u00e4tt i bakgrunden. Det kan t\u00e4nkas vara ett anm\u00e4rkningsv\u00e4rt val men kan f\u00f6rst\u00e5s i ljuset av mitt konfliktfyllda s\u00f6kande efter \u201datt hitta hem.\u201d\n\nJag \u00e4r uppvuxen i Warszawa men under ett \u00e5r av mitt liv, mer exakt 1956, blev Israel familjens vistelseort. Det var mina f\u00f6r\u00e4ldrars f\u00f6rs\u00f6k att skydda oss barn fr\u00e5n antisemitismen i Polen. Ett misslyckat f\u00f6rs\u00f6k dock, d\u00e5 vi \u00e5terv\u00e4nde till Warszawa. Jag har bara fragmentariska minnen men det sas i efterhand att min far inte kunde finna sig till r\u00e4tta och att han saknade sitt professionella sammanhang. Han arbetade som journalist och fick komma tillbaka till sin tidigare arbetsplats efter \u00e5terkomsten.\n\nJag minns mina f\u00f6r\u00e4ldrars tills\u00e4gelser att inte yppa ett ord om vistelsen i Israel. Jag minns att jag inte f\u00f6rstod varf\u00f6r. Jag fick inte heller n\u00e5gon f\u00f6rklaring. Det \u00e4r ett minne som har nog pr\u00e4glad min upplevelse av att vara judinna kopplad till en distinkt k\u00e4nsla av obehag. En upplevelse av att jag/vi var fel utan att f\u00f6rst\u00e5 varf\u00f6r. \n\n22 juli 2021. Det blev en l\u00e4ngre paus i mitt skrivande \u00e4n jag hade trott. Nu n\u00e4r jag tar upp det igen inser jag att det st\u00e4ndigt verkar p\u00e5g\u00e5 en inre dialog om det jag har varit med om och att jag k\u00e4nner behov att skriva om det. \n\nDet finns ytterligare tv\u00e5 \u00e5terkommande minnen som tr\u00e4nger sig p\u00e5; det ena utspelar sig i maj 1969 d\u00e5 jag h\u00f6r mina f\u00f6r\u00e4ldrar prata tyst med varandra, i tron att vi barn inte h\u00f6r, om beslutet att l\u00e4mna Polen. Det andra utspelar sig i oktober 1969 p\u00e5 t\u00e5gstationen i Warszawa, d\u00e5 vi s\u00e4tter oss p\u00e5 det t\u00e5g som ska ta oss till Sverige. Tv\u00e5 upplevelser som f\u00f6rsatte mig i k\u00e4nslor av maktl\u00f6shet och hoppl\u00f6shet.  \n\nJag fick veta av en slump, en m\u00e5nad innan studenten, att vi skulle flytta. Jag var sjutton \u00e5r och kunde inte acceptera att mina f\u00f6r\u00e4ldrar st\u00e4llde mig inf\u00f6r ett redan fattat beslut. Jag blev arg och chockad. Trots den p\u00e5g\u00e5ende antisemitiska kampanjen fanns det inte i min f\u00f6rest\u00e4llningsv\u00e4rld att just vi skulle flytta. Jag minns att jag knappt kunde t\u00e4nka mig att vi skulle kunna flytta till en annan gata. Jag kunde inte t\u00e4nka mig ett liv n\u00e5gon annanstans och utan mina v\u00e4nner. De flesta av dem var polacker och min judiska identitet var t\u00e4mligen svag. Utan form och inneh\u00e5ll. Jag fick inte n\u00e5gon hj\u00e4lp att knyta ihop de tr\u00e5dar som var n\u00f6dv\u00e4ndiga f\u00f6r f\u00f6rst\u00e5elsen av min bakgrund. Det var n\u00e5gonting som jag hade en vag aning och onda f\u00f6raningar om men som ingen pratade om. Att vi var judar var \u201den icke-fr\u00e5ga\u201d i min familj tills den antisemitiska kampanjen tog fart och samtalen hemma b\u00f6rjade pr\u00e4glas av r\u00e4dslan och utsatthet. Jag hade \u00f6nskat att mina f\u00f6r\u00e4ldrar p\u00e5 n\u00e5got s\u00e4tt kunde f\u00f6rmedla v\u00e5r judiska tillh\u00f6righet, i st\u00e4llet f\u00f6r att \u201dskydda mig\u201d genom att tiga och undvika. \n\nMin mamma ber\u00e4ttade sin \u00f6verlevnadshistoria historia f\u00f6rst i samband med budskapet om att vi skulle l\u00e4mna Polen. Hon \u00f6verlevde kriget mot alla odds medan hela hennes sl\u00e4kt blev utpl\u00e5nad. Hon hamnade tillsamman med sina f\u00f6r\u00e4ldrar i Warszawas ghetto och flydde precis innan upproret medan de inte hann fly. Min mamma lyckades g\u00f6mma sig f\u00f6rst i skogen och sedan hos en polsk kvinna som tog hand om henne i krigets slutskede. Hon var sjutton \u00e5r och helt ensam. Hon har fragmentariska minnen fr\u00e5n den tiden och det \u00e4r sv\u00e5rt f\u00f6r henne att prata om det som h\u00e4nt. D\u00e4remot pratar hon fortfarande om den polska kvinnan som r\u00e4ddade hennes liv, som blev som en mamma f\u00f6r henne och fortsatte att vara det s\u00e5 l\u00e4nge hon levde. \n\nDen h\u00e4tska antisemitiska kampanjen i Polen fick min mamma att k\u00e4nna sig som villebr\u00e5d igen. \u00d6verv\u00e4ldigad av r\u00e4dslan ville hon fly till en trygg plats. Och det var ocks\u00e5 under den perioden som hon b\u00f6rjade s\u00e4ga: \u201dVi m\u00e5ste \u00e5ka iv\u00e4g, jag \u00e4r r\u00e4dd, vi vet inte vad de kommer att g\u00f6ra med oss.\u201d Sj\u00e4lv var jag uppfylld av ilska, desperation och maktl\u00f6shet inf\u00f6r beslutet om att l\u00e4mna Polen och just d\u00e5 kunde jag inte identifiera mig med hennes k\u00e4nslor och r\u00e4dslor.\n\nMin pappa gick motvilligt med p\u00e5 att emigrera. Hans historia skilde sig fr\u00e5n min mammas. Han v\u00e4xte upp i \u00f6stra Polen, numera Ukraina. Han var kommunist och under kriget ansl\u00f6t han sig till R\u00f6da arm\u00e9n. Efter kriget flyttade han till Warszawa d\u00e4r ha s\u00e5 sm\u00e5ningom fick jobb som journalist. Att bli utsatt f\u00f6r den antisemitiska kampanjen p\u00e5 hans jobb var en f\u00f6rnedring som han aldrig kom \u00f6ver. Han trodde p\u00e5 det nya socialistiska Polen och att beh\u00f6va flytta f\u00f6r andra g\u00e5ngen innebar att ge upp allt som hade varit viktigt f\u00f6r honom. Han s\u00f6rjde sitt jobb, sin profession, sin ideologiska \u00f6vertygelse och drevs snarare av k\u00e4nslor av uppgivenhet \u00e4n r\u00e4dsla och otrygghet. Under tiden f\u00f6re avresan utkristalliserades s\u00e5 tv\u00e5 l\u00e4ger, ett best\u00e5ende av mig och min pappa, de som ville stanna, och den andra av min yngre bror och min mamma, de som ville \u00e5ka.\n\nVidden av att emigrera f\u00f6rstod jag f\u00f6rst i efterhand, n\u00e4r den f\u00f6rsta chocken och f\u00f6rvirringen hade lagt sig. Det som skedde var definitivt och utan \u00e5terv\u00e4ndo. Att vi var tvungna att avs\u00e4ga oss v\u00e5rt medborgarskap och bli statsl\u00f6sa k\u00e4ndes obegripligt och overkligt. \n\nN\u00e4r det verkligen blev tydligt att det inte fanns n\u00e5gon utv\u00e4g och det f\u00f6rsta motst\u00e5ndet lagt sig var jag nog i ett l\u00e5ngvarigt chocktillst\u00e5nd. Jag visste knappt vad jag gjorde, jag levde som i ett t\u00f6cken. R\u00e4ddningen blev att finna samh\u00f6righet med andra unga m\u00e4nniskor som gick igenom liknande erfarenheter, som ocks\u00e5 skulle emigrera. De sista m\u00e5naderna innan avresan umgicks jag mer med judiska kompisar \u00e4n vad jag hade gjort under hela mitt liv. Det var d\u00e5 som ett livsl\u00e5ngt s\u00f6kande tog sin b\u00f6rjan. S\u00f6kandet efter en tillh\u00f6righet.  Bortom skam och undvikande. Bortom den f\u00f6rnedring och kr\u00e4nkning som flytten fr\u00e5n Polen innebar. \n\nDe formalia som kr\u00e4vdes av polska myndigheter i samband med flytten var kr\u00e4nkande. M\u00e5nga m\u00e4nniskor blev trakasserade. En del av b\u00e5de mina och mina f\u00f6r\u00e4ldrars v\u00e4nner v\u00e4nde oss ryggen. Det var outh\u00e4rdligt. Samtidigt var allt jag var tvungen att skiljas fr\u00e5n lika outh\u00e4rdligt. Jag minns k\u00e4nslan av underg\u00e5ng n\u00e4r vi \u00e5kte till en soptipp med b\u00f6cker som inte vi kunde ta med oss och som skulle sl\u00e4ngas. Senare en likande k\u00e4nsla vid sj\u00e4lva avresan med alla v\u00e4nner p\u00e5 perrongen. Jag har ett vagt minne fr\u00e5n just det tillf\u00e4lle. Det \u00e4r mycket folk, m\u00e5nga har kommit f\u00f6r att vinka av, jag kan inte urskilja n\u00e5gon. Overklighetsk\u00e4nsla sk\u00f6ljer \u00f6ver mig. Sedan minns jag ingenting fram tills vi kommer till polska gr\u00e4nsen. Jag blir orolig och k\u00e4nner starkt obehag. Jag vet att man kan bli utsatt f\u00f6r repressalier och trakasserier fr\u00e5n gr\u00e4nspolisen. Men vi f\u00e5r st\u00e4mpel i v\u00e5ra statsl\u00f6sa dokument utan kommentar och \u00e5ker vidare. Dagen efter anl\u00e4nde vi till Stockholm. Allt k\u00e4ndes fr\u00e4mmande och fortsatte att g\u00f6ra det under de kommande \u00e5ren. \n \nJag visste absolut ingenting om vad som skulle h\u00e4nda n\u00e4r vi kom till Sverige. Det var helt tomt. Inf\u00f6r avresan k\u00e4nde jag mig inte nyfiken p\u00e5 det land vi skulle flytta till. Jag var f\u00f6r upptagen av att hantera f\u00f6rlusten av \u201dmitt polska liv\u201d.  I efterhand kan jag se hur den upplevelsen har pr\u00e4glat \u201dmitt svenska liv\u201d.  Fr\u00e5n f\u00f6rsta b\u00f6rjan har jag varit avvaktande och avst\u00e5ndstagande till b\u00e5de m\u00e4nniskor och f\u00f6reteelser som jag uppfattade som typiskt svenska. Jag l\u00e4ste polska b\u00f6cker och polska tidningar. Jag var upptagen med att uppr\u00e4tth\u00e5lla kontakten med mina polska v\u00e4nner och l\u00e4ngtan efter mitt hem vilket f\u00f6rst\u00e4rktes av samvaron i den polsk-judiska emigrantgruppen. Den i viss m\u00e5n p\u00e5tvingade tillh\u00f6righeten b\u00f6rjade skapas redan i k\u00f6n utanf\u00f6r ambassaden och fortsatte under t\u00e5gresan, vistelsen p\u00e5 flyktingf\u00f6rl\u00e4ggningen och spr\u00e5kkursen. Samh\u00f6righeten gav trygghet men var ocks\u00e5 begr\u00e4nsande. B\u00e5de jag och m\u00e5nga andra hoppades att det skulle finnas en annan plats p\u00e5 jorden som skulle k\u00e4nnas b\u00e4ttre, mera hemma \u00e4n Sverige. F\u00f6r min del tog flera \u00e5r innan jag kunde b\u00f6rja \u00f6ppna mig mot det liv och den plats jag befann mig p\u00e5 och b\u00f6rja knyta kontakter utanf\u00f6r den polsk-judiska gruppen. \n\nInnan dess s\u00f6kte jag mig till Israel, efter tv\u00e5 \u00e5r i Sverige. Ett land d\u00e4r jag trodde jag kunde leva ut min judiska tillh\u00f6righet. Men \u00e4ven om jag nog k\u00e4nde mig mer hemma d\u00e4r \u00e4n i Sverige valde jag \u00e4nd\u00e5 att inte flytta f\u00f6r gott. Kanske av r\u00e4dsla att beh\u00f6va bryta upp igen\u2026 kanske f\u00f6r att det inte k\u00e4ndes helt r\u00e4tt\u2026\nEfter fyra \u00e5r i Sverige gjorde jag ett nytt f\u00f6rs\u00f6k och flyttade till England. \u00c4ven d\u00e4r k\u00e4nde jag mig mer hemma \u00e4n i Sverige men kom tillbaka efter ett \u00e5r. Kanske igen av r\u00e4dsla att beh\u00f6va klara mig sj\u00e4lv\u2026 Jag b\u00f6rjade tvivla att det n\u00e5gonsin skulle k\u00e4nnas \u201dhemma\u201d p\u00e5 samma s\u00e4tt som i Polen. \nEfter sju \u00e5r i Sverige och som en nybliven svensk medborgare kunde jag bes\u00f6ka Polen f\u00f6r f\u00f6rsta g\u00e5ngen. Det var viktigt att komma tillbaka, att \u00e5terse gamla v\u00e4nner och v\u00e4lk\u00e4nda platser men det fanns ocks\u00e5 en k\u00e4nsla av obehag. Jag upplevde att den utifr\u00e5n p\u00e5klistrade definitionen av mig som judinna, den som fick mig att k\u00e4nna mig avvikande i Polen v\u00e4cktes till liv. Det var d\u00e5 jag p\u00e5 djupet f\u00f6rstod att Polen inte var mitt hem l\u00e4ngre. \n\nDe f\u00f6rsta \u00e5ren i Sverige pr\u00e4glades av saknaden av mitt tidigare liv, v\u00e4nner, spr\u00e5ket, platser. Sj\u00e4lvklarheten i vardagen. De pr\u00e4glades av os\u00e4kerhet vem jag var och vem jag ville vara. Men medan jag i Polen skamset h\u00f6ll tyst om min judiska tillh\u00f6righet kunde jag i Sverige k\u00e4nna mig fri att visa \u00f6ppet vem jag var. Jag upplevde det som en befrielse och som en uppr\u00e4ttelse. \n\nV\u00e4ndpunkten \n\nV\u00e4ndpunkten i min upplevelse av \u201datt k\u00e4nna mig hemma\u201d kom i samband med att jag flyttade in i ett kollektiv. Jag flyttade ihop med n\u00e5gra (svenska) studenter som blev mina v\u00e4nner f\u00f6r livet. I samvaro med dem f\u00f6r\u00e4ndrades s\u00e5 sm\u00e5ningom min upplevelse av utanf\u00f6rskap och avst\u00e5ndstagande mot allt det som fr\u00e5n b\u00f6rjan k\u00e4ndes fr\u00e4mmande. Umg\u00e4nget med dem gav mig utrymme att reflektera \u00f6ver min erfarenhet som flykting, judinna och m\u00e4nniska. En annan erfarenhet som blev avg\u00f6rande f\u00f6r mig under de \u00e5ren blev m\u00f6tet med amerikanska judar.  I samtalen med dem uppt\u00e4ckte jag att det fanns olika sorters judisk tillh\u00f6righet. Nu, i efterhand, kan jag f\u00f6rst\u00e5 att jag smittades av den sj\u00e4lvklarhet och stolthet i deras upplevelse av att vara judar som jag saknat. \n\nUnder den perioden i mitt liv b\u00f6rjade jag undan f\u00f6r undan fj\u00e4rma mig fr\u00e5n den polsk-judiska gruppen. Det skedde utan n\u00e5gon st\u00f6rre dramatik. N\u00e4r jag inte l\u00e4ngre upplevde den initiala k\u00e4nslan av samh\u00f6righet beh\u00f6vde jag s\u00f6ka mig vidare.  \nIdentitet\n\nUnder min uppv\u00e4xt hade det alltid p\u00e5 ett undermedvetet s\u00e4tt funnits vetskap om att jag var judinna. Att vara judinna var p\u00e5 ett diffust s\u00e4tt en upplevelse av att vara fel, annorlunda.  I andras \u00f6gon, men ocks\u00e5 i mina egna. Jag visste att andra visste och att man kunde bli uppm\u00e4rksammat som avvikande.  Jag hade ett typiskt judisk efternamn som avsl\u00f6jade min tillh\u00f6righet. N\u00e4r n\u00e4rvarolistan l\u00e4stes h\u00f6gt i klassrummet upplevde jag obehag.  Redan i f\u00f6rsta klass gjorde min l\u00e4rare sig lustig \u00f6ver mitt \u201dsv\u00e5ra\u201d efternamn och alla skrattade. Detta pratade jag inte med mina f\u00f6r\u00e4ldrar om och kunde inte dela det med mina kompisar. Jag levde inte i en judisk gemenskap och mina n\u00e4rmaste v\u00e4nner var polacker. Mina f\u00f6r\u00e4ldrar pratade aldrig om saker som r\u00f6rde det judiska. Det ordl\u00f6sa, det icke-n\u00e4mnda fick jag tidigt i mitt liv f\u00f6rh\u00e5lla mig till b\u00e4st jag kunde. Det var en tung b\u00f6rda. K\u00e4nslan av en judisk tillh\u00f6righet saknades och antisemitismen l\u00e5tsades man inte om\u2026 Den upplevelsen kunde jag s\u00e4tts ord p\u00e5 f\u00f6rst n\u00e4r jag blev tvungen att flytta fr\u00e5n Polen. \n\nJag l\u00e4ser Salomon Schulmans recension av Flykten till Marstrand d\u00e4r han beskriver sin erfarenhet av en resa i Polen 1967: Framf\u00f6r allt m\u00f6tte jag polacker som direkt reagera p\u00e5 mitt judiska f\u00f6rnamn. Det hade jag aldrig upplevt som ett kastm\u00e4rke, skriver han. Jag upplevde mitt efternamn som ett kastm\u00e4rke, ett stigma, t\u00e4nker jag medan jag l\u00e4ser hans minnen fr\u00e5n resan.\n\nJag kan se idag hur jag alltid har str\u00e4vat efter att hitta sammanhang d\u00e4r det var m\u00f6jligt att dela min upplevelse av att vara judinna med andra, sammanhang d\u00e4r jag kunnat f\u00e5 hj\u00e4lp att s\u00e4tta ord p\u00e5 mina erfarenheter. F\u00f6r mig har det varit en livsl\u00e5ng process att formulera och omformulera det som jag idag upplever som min judiska tillh\u00f6righet. Det k\u00e4nns inte l\u00e4ngre som en b\u00f6rda utan som en tillg\u00e5ng. Det finns ingen kluvenhet eller ambivalens l\u00e4ngre. Jag \u00e4r judinna, uppvuxen i Polen och k\u00e4nner mig hemma b\u00e5de i Sverige och i Italien.", 
+          "modified": "Fri, 08 Oct 2021 18:14:24 GMT", 
+          "topic_item": {
+            "label": "Din levnadsber\u00e4ttelse", 
+            "label_i18n": {
+              "sv": "Din levnadsber\u00e4ttelse"
+            }, 
+            "type": "Textarea", 
+            "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "ccbcdb62-bf51-4ba3-b4e1-11f3676b54d5"
+        }, 
+        {
+          "created": "Fri, 08 Oct 2021 18:14:24 GMT", 
+          "display_value": "Oktober 1969", 
+          "modified": "Fri, 08 Oct 2021 18:14:24 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "5e6cb741-f236-42cf-a049-68e0409c49d1"
+        }, 
+        {
+          "created": "Fri, 08 Oct 2021 18:14:24 GMT", 
+          "display_value": "Warszawa", 
+          "modified": "Fri, 08 Oct 2021 18:14:24 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "e2113cd4-7584-4584-859b-e0315c46b405"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00003", 
+      "comment_count": 0, 
+      "contributor": {
+        "display_name": "Maria Rotstein"
+      }, 
+      "coordinates": "", 
+      "created": "Wed, 29 Sep 2021 08:25:20 GMT", 
+      "hits": 286, 
+      "image_dms_id": "013AitVwUycC", 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Thu, 30 Sep 2021 07:59:01 GMT", 
+          "description": "Maria Rotstein levnadsber\u00e4ttelse", 
+          "dms_id": "013AitcHAFHM", 
+          "license": "CC BY-NC", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Thu, 30 Sep 2021 07:59:01 GMT", 
+          "name": "Maria Rotstein levnadsber\u00e4ttelse.docx", 
+          "order_by_number": 1, 
+          "owner": "Maria Rotstein", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "73a212b8-8b23-430a-9889-b2ef79e934d5"
+        }, 
+        {
+          "created": "Wed, 29 Sep 2021 08:49:01 GMT", 
+          "dms_id": "013AitVwUycC", 
+          "image_height": 580.0, 
+          "image_ratio": 0.736206896551724, 
+          "image_width": 427.0, 
+          "license": "CC BY-NC", 
+          "mime_type": "image/png", 
+          "modified": "Wed, 29 Sep 2021 08:49:01 GMT", 
+          "name": "Maria Rotstein Marsstrand 1970.png", 
+          "order_by_number": 1, 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "image", 
+          "uuid": "3a567623-24b4-42b0-9cbb-ad779b3aad5f"
+        }
+      ], 
+      "modified": "Thu, 30 Sep 2021 08:00:28 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17284", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "title": "", 
+      "title_i18n": {
+        "sv": ""
+      }, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6321, 
+      "uuid": "994159ed-250b-4f27-b24f-a57e35e0ca95", 
+      "values": [
+        {
+          "created": "Wed, 29 Sep 2021 08:25:20 GMT", 
+          "display_value": "Maria Rotstein levnadsber\u00e4ttelse\n\nMaria Rotstein, f\u00f6dd 1926\nKvinna\nG\u00f6teborg, tidigare Marstrand\n1969 ankomst till Sverige som politisk flyttning fr\u00e5n Polen Warszawa\n\nF\u00f6dd i Wien, \u00d6sterrike, b\u00e5de f\u00f6r\u00e4ldrar polska judar.\nVarf\u00f6r i Wien?\nMin far d\u00e5 endast 23 \u00e5r gammal, aktiv kommunist sedan ton\u00e5rs-\u00e5ldern, har blivit tvungen att fly Polen pga risken att bli f\u00e4ngslad. D\u00e5 polska kommunistpartiet blev f\u00f6rbjudet.\nMin mamma f\u00f6ljde med, passade p\u00e5 att studera i Wien p\u00e5 Universitetet, p\u00e5 polska universitet g\u00e4llde Numerus Clausus f\u00f6r judar.\nSom ett\u00e5ring skickades jag till mors f\u00f6r\u00e4ldrar i Lodz, Polen, men redan tv\u00e5 \u00e5r efter blev mina f\u00f6r\u00e4ldrar tvungna att l\u00e4mna \u00d6sterrike pga av det allt tilltagande nazistiska klimatet i landet.\nD\u00e5 \u00e5terstod f\u00f6r oss, endast, att s\u00f6ka oss till Sovjetunionen (SU), dit s\u00f6kte sig \u00e5tskilliga kommunister fr\u00e5n hela v\u00e4rlden, dels av politiska sk\u00e4l, dels f\u00f6r att bygga kommunismen.\nDe f\u00f6rsta tre \u00e5ren av min tidiga barndom pr\u00e4glade, i stort, mitt l\u00e5nga liv fram\u00f6ver, b\u00e5de p\u00e5 gott och ont.\n\nS\u00e5 v\u00e4l i SU hamnade vi i Moskva.\nTill att b\u00f6rja med har jag varit tillsammans med mina b\u00e5da f\u00f6r\u00e4ldrar men redan efter ett \u00e5r, n\u00e4r jag hade blivit fyra \u00e5r, skildes de, min far stannade, med sin nya fru, i Moskva, s\u00e5 kunde vi tr\u00e4ffas d\u00e5 och d\u00e5.\n\nVi bodde i en fyrarumsl\u00e4genhet, en s\u00e5 kallad gemensam l\u00e4genhet, delad av fyra familjer, under mycket primitiva f\u00f6rh\u00e5llanden, vilket i f\u00f6r sig, var helt normalt f\u00f6r de flesta ryssar i d\u00e5varande Ryssland.\nMin mor, utbildad biolog, hade som tur, bra betalda anst\u00e4llningar men samtidigt mycket tidskr\u00e4vande, inom livsmedelsindustrier; s\u00e5 blev jag l\u00e4mnad \u00e5t olika barnflickor, mestadels unga tjejer fr\u00e5n landet. N\u00e5gra f\u00f6rskolor existerade f\u00f6rmodligen inte i SU p\u00e5 den tiden.\nGrundskolan b\u00f6rjade d\u00e4r vid \u00e5tta \u00e5rs \u00e5lder, s\u00e5 blev det \u00e4ven f\u00f6r mig\nMen redan tre \u00e5r senare, \u00e5ret hade hunnit bli 1937, b\u00f6rjade jag mitt vuxna liv.\n\nF\u00f6rsta september 1937 skulle jag b\u00f6rja en ny skola, men samma morgon fanns inte mamma hemma.\nP\u00e5 en papperslapp p\u00e5 bordet har hon skrivit att hon kommer tillbaka om en vecka, att jag m\u00e5ste g\u00e5 ensam till skolan och att grannkvinnan tar hand om mig under tiden. Veckan har g\u00e5tt, mamma var fortfarande borta (vi tr\u00e4ffades igen 1947 men om detta ber\u00e4ttar jag senare, f\u00f6rst\u00e5s).  Myndigheterna l\u00e5ste upp v\u00e5r bostad, grannen kunde inte l\u00e4ngre ta hand om mig, s\u00e5 i ca tre veckor var jag heml\u00f6s, jag klarade mig tack vare kompisar och deras familjer, bosatta i samma flerfamiljshus.\nTill slut blev jag h\u00e4mtad av tv\u00e5 civilkl\u00e4dda m\u00e4n och \u00f6verl\u00e4mnad till en uppsamlingsplats avsedd f\u00f6r barnen vars f\u00f6r\u00e4ldrar m\u00f6tt samma \u00f6de som mina.\nH\u00e4r m\u00e5ste jag n\u00e4mna att \u00e4ven min far blev arresterad, dock \u00e5r 1935, dvs vid b\u00f6rjan av de \u00f6k\u00e4nda massarresteringarna av utl\u00e4ndska medborgare, men \u00e4ven ryska s\u00e5 kallade olikt\u00e4nkande.\nFr\u00e5n denna uppsamlingsplats placerades barnen, efter 2\u20133 dagar, p\u00e5 barnhemmen, spridda i hela landet.\nF\u00f6r mig blev det annorlunda, jag kunde inte f\u00f6rest\u00e4lla mig att bli skickad fr\u00e5n Moskva.\nS\u00e5 jag l\u00e5tsades, med hj\u00e4lp av diverse knep, vara sjuk. Jag stannade en l\u00e4ngre tid p\u00e5 detta boende.\nTill slut hamnade jag p\u00e5 ett r\u00e4tt s\u00e5 trevligt barnhem i en v\u00e4lsk\u00f6tt stad, ca 100 mil fr\u00e5n Moskva. 5Mil\nfr\u00e5n j\u00e4rnv\u00e4gsstationen.\n\nMen \u00e4ven d\u00e4r anv\u00e4nde jag mina knep f\u00f6r att till slut hamna p\u00e5 sjukhuset, d\u00e4r tillbringade jag ca tv\u00e5\nveckor, f\u00f6r att en kvinnlig l\u00e4kare ville adoptera mig.\nV\u00e4l tillbaka till barnhemmet \u00f6vertalade en j\u00e4mn\u00e5rig flicka, \u00e4ven hon fr\u00e5n Moskva, mig att rymma fr\u00e5n hemmet. Detta visades sig inte vara s\u00e5 sv\u00e5rt, efter ca 24 timmar med lastbil och t\u00e5g, utan ett \u00f6re p\u00e5 fickan, stannade vi p\u00e5 Moskvas gator.\nVi skildes \u00e5t, jag har aldrig, varken sett eller h\u00f6rt, av henne senare.\nJag, d\u00e4remot, \u00e5kte till v\u00e5r gamla adress med f\u00f6rhoppningen att mammas v\u00e4ninna, \u00e4ven hon en polsk judinna som bodde i samma hus med sina tv\u00e5 sm\u00e5 barn, vars man hade krigat i Spanien under tiden, i f\u00f6rhoppningen om att hon skulle kunna ta hand om mig. Det kunde hon inte, givetvis, under g\u00e4llande f\u00f6rh\u00e5llanden.\nDet dr\u00f6jde inte l\u00e4ngre \u00e4n tv\u00e5 dagar innan jag blev h\u00e4mtad av tv\u00e5, den h\u00e4r g\u00e5ngen poliser, hotad att bli \u00f6verl\u00e4mnad till anstalt f\u00f6r heml\u00f6sa barn, men slutligen hamnade jag p\u00e5 samma uppsamlingsplats som f\u00f6rr.\nDet dr\u00f6jde inte l\u00e4ngre till jag blev skickad till ett annat barnhem, belagt p\u00e5 landsbygden i ett fattigt jordbruksomr\u00e5de, 20 km fr\u00e5n j\u00e4rnv\u00e4gen.\n\nLivet d\u00e4r bestod av skolg\u00e5ngen, heml\u00e4xor, syskolan, hush\u00e5llsarbeten och dylikt.\nH\u00e4r upplevde jag min f\u00f6rsta riktiga, personliga livs chock, besvikelse, underg\u00e5ng, ensamhet.\nDet var, n\u00e4mligen, n\u00e4r jag fick h\u00f6ra att jag var judinnan, men inte en polska, vilket jag visste hemifr\u00e5n och har varit \u00f6vertygat om.\nDet enda jag visste hittills om judar i det d\u00e5varande antisemitiska Ryssland var att vara en jude \u00e4r n\u00e5got mycket d\u00e5ligt, negativt, som man borde sk\u00e4mmas f\u00f6r.\n\u00c4mnet har det aldrig pratats om hemma, i alla fall inte i min n\u00e4rvaro.\nMen h\u00e4r, i barnhemmet, fanns ingen m\u00e4nniska som kunde upplysa mig, som jag kunde fr\u00e5ga, prata med. Jag blev \u00f6verl\u00e4mnad \u00e5t mig sj\u00e4lv.\nMin v\u00e4rld gick under.\nN\u00e5 v\u00e4l. Lyckligtvis, barnen i den \u00e5ldern som jag var i vid den tiden, 11\u201312 \u00e5r gammal, g\u00e5r det fort \u00f6ver f\u00f6r, de lever vidare, grubblar inte l\u00e4nge men gl\u00f6mmer aldrig. Men detta problem, mitt problem, stannade inom mig sj\u00e4lv i hela mitt l\u00e5nga liv.\nJag har aldrig \u00e5terkommit i samtalet till det \u00e4mnet, varken med mina f\u00f6r\u00e4ldrar, mina tv\u00e5 m\u00e4n eller med mina v\u00e4nner.\n\n\u00c5ret har blivit 1939.\nF\u00f6rsta september har Hitler angripit Polen efter att tidigare slagit ner Tjeckoslovakien, Belgien, \u00d6sterrike och sedan Frankrike 1940.\n\nDen 22 juni 1941 har Tyskland anfallit Sovjetunionen.\nF\u00f6r att barnhemmet befann sig i n\u00e4rheten av den allt fortare avancerade fronten (Kursk Region) blev det tvunget, i likhet med alla offentliga institutioner och privatpersoner, att flytta \u00f6sterut i landet.\nF\u00f6r mig \u00e5terstod att v\u00e4lja mellan att, antingen forts\u00e4tta med barnhemmet till Kazachstan och b\u00f6rja arbeta d\u00e4r p\u00e5 en av fabrikerna, eller ansluta mig till en bekant, v\u00e4lst\u00e4lld rysk familj f\u00f6r att f\u00f6lja med dem eller att \u00e5terf\u00f6renas med min far.\nMin far som blev arresterad 1935 blev just satt p\u00e5 fri fot. Han lyckades att \u00f6verleva Stalins arbetsl\u00e4ger tack vare en ren slump, n\u00e4mligen hans kunskaper i skollatin, fick han arbeta i l\u00e4grets apotek i st\u00e4llet f\u00f6r i skogen.\nTrots allas p\u00e5st\u00e5enden om att det vore farligt, rent av om\u00f6jligt, f\u00f6r ett knappt femton\u00e5rigt barn att ta sig i v\u00e4g i landet under p\u00e5g\u00e5ende krig, best\u00e4mde jag mig f\u00f6r att ta den risken.\nSedan visade det sig att mina r\u00e5dgivare hade haft r\u00e4tt till viss del. Det var inte l\u00e4tt att f\u00f6rflytta sig dessa ca 200 mil, d\u00e5 inget fungerade normalt och halva befolkningen befann sig p\u00e5 flyttande fot.\nNu med facit i hand undrar jag hur jag lyckades, efter en m\u00e5nads tid, sjuk och undern\u00e4rd, stiga av taget p\u00e5 Uchta-stationen (Komi Republiken) och hamna i min fars famn.\n                                                              \nLevnadsstandarden i Uchta, liten ort, center f\u00f6r fossilbr\u00e4nsle-produktionen, i den nordligaste omr\u00e5de av Uralen, har varit primitiv men, med h\u00e4nsyn till d\u00e5varande f\u00f6rh\u00e5llanden, kunde man varken klaga eller beg\u00e4ra mera.\nHuvudsaken var att vi var tillsammans och att jag inte l\u00e4ngre var ensam.\nVi bodde i ett litet samh\u00e4lle, 12 km fr\u00e5n Uchta.\nN\u00e5gra regelbundna f\u00f6rbindelser existerade inte men det fanns skolbuss tv\u00e5 ggr om dagen. De tillf\u00e4llen n\u00e4r jag stannade l\u00e4ngre i skolan var jag tvungen att v\u00e4nda hem till fots, i m\u00f6rkret, genom sn\u00f6drivor i 25\u201330 graders kyla.\n                                     \nDessa omst\u00e4ndigheter utesl\u00f6t fullst\u00e4ndigt fritidsliv s\u00e5 som kultur eller s\u00e4llskapsliv. Det fanns, misst\u00e4nkte jag, tv\u00e5 elever i min klass av judiskt ursprung men det pratades inte om detta, i alla fall inte offentligt. \nP\u00e5 det s\u00e4ttet f\u00f6rfl\u00f6t tre gymnasium-\u00e5r, jag lyckades att ta studenten med tillr\u00e4ckligt h\u00f6ga betyg f\u00f6r att klara examen och bli antagen till medicin-studier i d\u00e5varande staden Molotov, nu gamla Perm, bel\u00e4gen i mellersta Ural-omr\u00e5det ca 50 mil fr\u00e5n v\u00e5rt hem. Staden Molotov, r\u00e4tt obetydlig\nstad f\u00f6re kriget men d\u00e5, under kriget, hade v\u00e4xt v\u00e4sentlig till f\u00f6ljd av de massiva f\u00f6rflyttningarna av fabriker, institutioner och liknande. Bland annat den k\u00e4nda Operan fr\u00e5n d\u00e5varande Leningrad.\nMitt studentliv b\u00f6rjade d\u00e4r och det har inte varit l\u00e4tt. \nAtt bo i studenthemmet, speciellt f\u00f6r f\u00f6rsta\u00e5rsstudenter, d\u00e4r jag delade rum med sex andra tjejer, ett stort bord och n\u00e5gra stolar i mitten av rummet som enda m\u00f6blemang, gemensamma kalla vattenkranar ute i korridoren. Ut \u00f6ver detta en halvsv\u00e4lt-n\u00e4ring, strikt ransonerade livsmedel, ofta obefintliga i aff\u00e4rerna.\n\u00c4ven h\u00e4r fanns det bland kollegor ett par personer med judisk bakgrund men jag kom aldrig i n\u00e4rmare kontakt med dem. \n\nSkol\u00e5ret slutade i juni, en m\u00e5nad efter andra v\u00e4rldskrigets lyckliga slut.\nJag \u00e5terv\u00e4nde till min far f\u00f6r att tillbringa lovet d\u00e4r, med avsikten att forts\u00e4tta till studier i Perm.\nMen ack, \u00f6det ville annorlunda, min far best\u00e4mde sig f\u00f6r att \u00e5terv\u00e4nda till Polen, vilket var helt naturligt, f\u00f6rst\u00e5s. F\u00f6r honom men inte f\u00f6r mig, Jag kunde inte komma ih\u00e5g landet, jag hade aldrig f\u00e5tt l\u00e4ra k\u00e4nna det.\nMen jag hade inget val. Det hade varit naturligt att jag inte kunnat stanna ensam kvar i Ryssland, ensam igen!\n\nDet tog flera l\u00e5nga m\u00e5nader att g\u00e5 igenom o\u00e4ndliga formaliteter och hinder innan vi blev f\u00e4rdiga att fara. V\u00e4l p\u00e5 t\u00e5get \u00e5kte vi inte direkt till Warszawa utan stannade i Lviv (polsk stad Lwow, annekterad av SU 1939), min fars f\u00f6delseort, d\u00e4r hans f\u00f6rf\u00e4der varit bosatta och verksamma i \u00e5tskilliga generationer.\n\nMin far hoppades att hitta, \u00e5tminstone, n\u00e5gra familjemedlemmar kvar i livet.\nTyv\u00e4rr, b\u00e5de hans f\u00f6r\u00e4ldrar, syster och sv\u00e5ger var stupade, m\u00f6rdades under den tyska ockupationen. Men, det visade sig d\u00e5 att hans 15-\u00e5rige systerson r\u00e4ddades av sin konverterade farfar, g\u00f6md under madrassen.  \nV\u00e5r lycka var enorm, pojken skulle f\u00f6lja med oss vidare, det var sj\u00e4lvklart.\n\nRedan vid f\u00f6rsta t\u00e5gstationen efter den rysk-polska gr\u00e4nsen m\u00f6ttes vi av flera utrop \u201d Judar till Palestina\u201d, \u201dDet finns ingen plats f\u00f6r Judar i Polen\u201d och liknande, detta fortsatte vid n\u00e5gra \nstationer till, tills t\u00e5get stannade i Warszawa Glowna, centralstationen i Warszawa.\nUpplevelserna under denna t\u00e5gresa blev f\u00f6r mig den andra, tyv\u00e4rr inte den sista, chocken i mitt, inte d\u00e5tills korta liv.\n                                                                  \n\n \n\n\nV\u00e4l i Warszawa hade v\u00e5r lilla familj ut\u00f6kats till fem. Min fars andra fru, hon ocks\u00e5 judinna, lyckades \u00f6verleva b\u00e5de de sovjetiska massarresteringarna samt krigets faror tack vare sina franska\nsl\u00e4ktingar i Frankrike.\n\u00c4ven hennes mor har funnits i livet i det av Hitler ockuperade Polen, g\u00f6md hos sina polska bekanta.\nS\u00e5 hade vi blivit fem, en stor familj f\u00f6r efterkrigstidens Polen och Europa.\n\nVad g\u00e4ller min sl\u00e4kt p\u00e5 min mammas sida, fick vi reda p\u00e5 att \u00e4ven d\u00e4r n\u00e4stan inga familjemedlemmar \u00f6verlevt krigets och ockupationens faror. Mammas f\u00f6r\u00e4ldrar och hennes syster med sitt ett\u00e5riga barn gasades i koncentrationsl\u00e4ger, mosters man m\u00f6rdades som partisan. Morbror med familjen, bosatta i Frankrike sedan den F\u00f6rsta V\u00e4rldskriget, \u00f6verlevde trots alla odds. En avl\u00e4gsen kusin \u00f6verlevde b\u00e5de ockupationen och upproret i Warszawas getto. Allts\u00e5 det \u00e5terstod endast spillror av en stor judisk familj. Men de avlidna lever s\u00e5 l\u00e4nge som de \u00e4r kvar m\u00e4nniskans minne. Med denna tanke har jag placerat n\u00e5gra namn av de stupade anh\u00f6riga p\u00e5 Minnesmonumentet \u201dGl\u00f6m oss inte\u201d upph\u00f6jd p\u00e5 g\u00e5rden av Judiska F\u00f6rsamlingen i G\u00f6teborg.\n\u00c5ret 1947 lyckades \u00e4ven min mamma att \u00e5terv\u00e4nda fr\u00e5n Ryssland d\u00e4r hon f\u00e4ngslades under tio l\u00e5nga \u00e5r i det v\u00e4rsta Stalin-arbetsl\u00e4gret, den \u00f6k\u00e4nda GULAG-arkipelagen, beskrivet av Solzjenitsyn i boken med samma titel. \nMin mamma \u00f6verlevde detta d\u00f6dsl\u00e4ger tack vare hennes yrke, som biolog fick hon arbeta i l\u00e4gerssjukhusets laboratorium i st\u00e4llet f\u00f6r ute, i det eviga vinterklimatet.\n\nP\u00e5 det viset, det nya livet i Polen, har blivit s\u00e5 d\u00e4r normalt, b\u00e5de f\u00f6r mig och f\u00f6r oss alla. Min kusin b\u00f6rjade skolan, jag upptog mina medicinska studier p\u00e5 Universitetet i Warszawa. \u00c5ret 1952 blev jag f\u00e4rdigutbildad med l\u00e4karlegitimation i handen och blev anst\u00e4lld p\u00e5 ett av Warszawas sjukhus, 1954 blev jag specialiserad p\u00e5 inv\u00e4rtes sjukdomar, samma \u00e5r blev jag anst\u00e4lld p\u00e5 infektionskliniken p\u00e5 universitetssjukhuset i Warszawa.\nMen redan efter ett \u00e5r fick jag tillf\u00e4lle att arbeta i ett l\u00e4karteam i Nordkorea.\n                                                                      \nDet var, n\u00e4mligen en tid n\u00e4r flera l\u00e4nder i \u00f6stblocket bl a Polen, Bulgarien, Rum\u00e4nien, Tjeckoslovakien och \u00e4ven Sverige mm, skickade sjukv\u00e5rdshj\u00e4lp till Nordkorea efter kriget.\nVad g\u00e4ller Polen skickade landet, under flera \u00e5r fram\u00f6ver, all sjukhuspersonal, fr\u00e5n chauff\u00f6rer till professorer samt all n\u00f6dv\u00e4ndig utrustning f\u00f6r att driva studentundervisningen och patientbehandlingar i, nybyggda av Polen, sjukhuslokaler.\n\nF\u00f6r mig var detta ett enast\u00e5ende tillf\u00e4lle att l\u00e4ra mig om helt andra, utomeuropeiska, sjukdomar.\nEfter 13 m\u00e5nader i Korea \u00e4r jag tillbaka till det sedvanliga arbetet p\u00e5 kliniken med undervisningen, patientbehandlingarna och forskningen.\nMen redan 1957 kom det andra tillf\u00e4lle att arbeta, den h\u00e4r g\u00e5ngen i tropiken, n\u00e4rmare sagt i\nVietnam.                                                                     \n\nEfter vietnamfranska kriget s\u00e4nde FN fredsbevarande kommissionen till Vietnam, best\u00e5ende av tre l\u00e4nder, Indien (charmen), Kanada och Polen.\nJag hade turen att arbeta d\u00e4r under 13 m\u00e5nader som personall\u00e4kare i den polska delegationen.\n\u00c4ven detta arbete l\u00e4t mig komma i kontakt, den h\u00e4r g\u00e5ngen, med tropiska sjukdomar.\n                                                               \nEfter \u00e5terkomsten hem fortsatte jag det sedvanliga arbetet p\u00e5 infektionskliniken med patienterna, utbildningen samt p\u00e5b\u00f6rjat arbete f\u00f6r min framtida doktorsavhandling, vilken resulterade positivt f\u00f6r min del, \u00e5ret 1965.\nSamma \u00e5r gifte jag mig med min man, han \u00e4r ocks\u00e5 av polsk-judiskt p\u00e5br\u00e5, icke religi\u00f6s, sk assimilerad jude.\n\nH\u00f6sten 1967 blir jag tilldelad ett \u00e5ttam\u00e5naders stipendium i Frankrike f\u00f6r forskningen inom mitt huvudomr\u00e5de - leversjukdomar som skulle i forts\u00e4ttningen leda, f\u00f6rhoppningsvis, till docenttiteln.\n\n\nDenna vistelse i Paris under 1967-68 sammantr\u00e4ffade b\u00e5de med ungdomsupproren v\u00e5ren -68 samt den antisemitiska aktionen i Polen -68.\nDen sista, givetvis, ber\u00f6rde mig mest.\nAtt vara fr\u00e5nvarande fr\u00e5n Warszawa och att inte personligen uppleva de p\u00e5g\u00e5ende h\u00e4ndelserna p\u00e5 plats upplevdes b\u00e5de som p\u00e5frestande samt obegripligt och avl\u00e4gset. Varken de franska massmediernas informationer eller andras ber\u00e4ttelser, brevv\u00e4xlingen med familjen och v\u00e4nner har inte varit tillr\u00e4ckliga f\u00f6r att ge mig en klarare bild av vad som p\u00e5g\u00e5tt i verkligheten i Polen.  \nF\u00f6rst i slutet av juni, n\u00e4r jag kom tillbaka hem, b\u00f6rjade ja s\u00e5 sm\u00e5ningom samla uppgifter och fakta g\u00e4llande den aktuella situationen.\nSom bekant hade den nya v\u00e5gen av antisemitism i Polen redan p\u00e5b\u00f6rjats ett \u00e5r tidigare, sedan mars 1967, orsakad av den politiska och diplomatiska situationen av regeringar i d\u00e5varande Sovjetunionens samt i samtliga sk satellitl\u00e4nder d\u00e4r bl.a. Polen.\nIsraels seger i sexdagarskriget 1967, ledde till att judar i diaspora upplevde en viss sympati emot vinnaren, vilket tolkades av ledarna i Sovjet-blocket som ett uttryck av sionismen.\nPolska judar betraktades av regeringen och partiet som sionister, f\u00f6rr\u00e4dare.\n \nTill f\u00f6ljd av dessa politiska st\u00e4mningar p\u00e5b\u00f6rjades, s\u00e5 gott som, massiva trakasserier i form av arresteringar och utkastningar av studenter, f\u00f6rst ur universitetet i Warszawa och sedan i andra st\u00e4der.\nD\u00e4refter gick milit\u00e4ranst\u00e4llda av judiskt p\u00e5br\u00e5 samma \u00f6de till m\u00f6tes samt anst\u00e4llda i statliga myndigheter, utbildningen.\n\nDet tog inte l\u00e5ng tid f\u00f6r regeringen att \u201derbjuda\u201d polska judar att emigrera till Israel under f\u00f6ruts\u00e4ttningen att avs\u00e4ga sig det polska medborgskapet. I st\u00e4llet fick man sk resepass, det vill s\u00e4ga\nresan \u00e5t ett h\u00e5ll utan r\u00e4tt att \u00e5terv\u00e4nda. Samtidigt \u00e5terkom i pressen, vid flera tillf\u00e4llen, slutliga terminer g\u00e4llande m\u00f6jligheten att emigrera. Det var uppenbarligen att den polska regeringen best\u00e4mt sig att bli av, med s\u00e5 m\u00e5nga som m\u00f6jligt, judar, polska judar f\u00f6r all tid fram\u00f6ver.\nFramtiden f\u00f6r judar i Polen hade blivit mycket os\u00e4ker, de vuxna skulle inte kunna forts\u00e4tta arbeta som f\u00f6rut, i v\u00e4rsta fall inte f\u00f6rv\u00e4rvsarbeta alls, och deras barn skulle inte kunna forts\u00e4tta\nsina studier och utvecklas enligt deras \u00f6nskem\u00e5l och beg\u00e5vning.\nI det slutliga skedet emigrerade ca 13000 polska judar under \u00e5ren 1968-69, d\u00e4rav 2700 till Sverige. P\u00e5 det s\u00e4ttet f\u00f6rlorade Polen m\u00e5nga h\u00f6gutbildade specialister, v\u00e4rdefull arbetskraft.\n\nVad g\u00e4llde mig och min man best\u00e4mde vi oss ocks\u00e5 f\u00f6r att l\u00e4mna Polen, landet d\u00e4r v\u00e5ra f\u00f6rf\u00e4der levt i flera hundra \u00e5r.\nVisserligen, vid den tidpunkten, beh\u00f6ll vi v\u00e5ra yrken men framtiden var mycket os\u00e4ker \u00e4ven f\u00f6r oss.\nDet var d\u00e5, tror jag, som jag upplevde f\u00f6r f\u00f6rsta g\u00e5ngen, p\u00e5 riktigt min tillh\u00f6righet till det judiska folket.\n                                                                 \nGemensamhet och solidaritet.\n\nDet tog oss flera m\u00e5naders tid att f\u00f6rbereda oss att l\u00e4mna hem, familjen, kollegor, v\u00e4nner, Warszawa, Polen.\nTill att b\u00f6rja med var man tvungen att skaffa visum till Israel, \u00e4ven om man inte t\u00e4nkt att resa dit. Dessutom, pga att det inte funnits n\u00e5gra diplomatiska f\u00f6rh\u00e5llande mellan Polen och Israel, fanns det inget konsulat i Polen. Det var det holl\u00e4ndska konsulatet som tog p\u00e5 sig att fylla i det administrativa jobbet.\n   \n\n\nVi tv\u00e5 best\u00e4mde oss att emigrera till Skandinavien f\u00f6r att inte f\u00f6r mycket avl\u00e4gsna oss fr\u00e5n Europa.\nDanmark verkade vara n\u00e4rmare till den gamla kontinenten, dessutom kr\u00e4vde inte Danmark visum, mycket sympatisk och humanit\u00e4r gest, men efter granskningen av danska spr\u00e5ket och dess uttalande best\u00e4mde vi oss f\u00f6r att s\u00f6ka visum till Sverige som just hade varit i stort behov av ett l\u00e4kartillskott. F\u00f6r att skaffa visum till Sverige var det fr\u00e5gan om n\u00e5gra veckor.\n\nTrots att polska regeringen gjorde allt f\u00f6r att s\u00e5 m\u00e5nga polska judar som m\u00f6jligt skulle l\u00e4mnat landet st\u00e4llde den lokala administrationen och myndigheterna till \u00e5tskilliga hinder och problem innan personerna i fr\u00e5ga blev godk\u00e4nda f\u00f6r att l\u00e4mna landet.\nTill exempel, har alla privata tillh\u00f6righeter, \u00e4ven i begr\u00e4nsade kvantiteter, borde n\u00e4mnas p\u00e5 en lista, varenda bok numrerades och beskrevs p\u00e5 en separat lista, och s\u00e5 vidare.\nSom f\u00f6ljd av alla dessa trakasserier tog det oss flera m\u00e5naders tid att bli klara att s\u00e4ga adj\u00f6 till mina f\u00f6r\u00e4ldrar, v\u00e4nner, arbetskamrater, grannar, bekanta och stiga p\u00e5 t\u00e5get fr\u00e5n den, k\u00e4nda i sammanhanget, j\u00e4rnv\u00e4gsstationen Warszawa Gdanska.   \nDagen d\u00e4rp\u00e5. den 14 november 1969 steg vi av i Stockholm. \u00c5ret som de flesta polska judar l\u00e4mnade landet i samband med den enast\u00e5ende antisemitiska aktionen av d\u00e5varande polska regeringen.\n\nDet tog ett par dagar f\u00f6r oss att g\u00e5 igenom \u00e5tskilliga formaliteter hos olika myndigheter innan vi kunde b\u00f6rja kursen i svenska som just d\u00e5 startade f\u00f6r ett par hundra personer, de flesta polska judar, p\u00e5 Marstrand. Den har varit avsett f\u00f6r personer med h\u00f6gutbildning, l\u00e4kare, tandl\u00e4kare, ekonomer, journalister osv och deras familjer.\nP\u00e5 det s\u00e4ttet befanns dig d\u00e5 p\u00e5 Marstrand folk i alla \u00e5ldrar, fr\u00e5n ett par \u00e5r till 70+ gamla, bortsett fr\u00e5n den lokala befolkningen, som p\u00e5 det s\u00e4ttet hade blivit minoriteten, p\u00e5 den vintriga \u00f6n.\n\nF\u00f6r mig blev kursen p\u00e5 Marstrand ett of\u00f6rgl\u00f6mligt kapitel i den mest positiva meningen.\nVi blev placerade i olika sm\u00e5 och mindre hotell, den typiska husmansmaten serverades p\u00e5 tv\u00e5 restauranger, den personliga och s\u00e4nglinnestv\u00e4tten ombes\u00f6rjdes av staten, ut\u00f6ver detta fick vi 5 kr om dagen f\u00f6r var och en. En ren lyxsemester, s\u00e5 upplevde vi tv\u00e5 det. Vi blev mantalsskrivna i Svenska kyrkan p\u00e5 \u00f6n - ett allra f\u00f6rsta steg till det svenska livet, vilken upplevelse!\nDet var inte nog med det; vi fick l\u00e4ra oss det svenska spr\u00e5ket! Kursen var upplagd i mindre grupper, beroende p\u00e5 yrken, fem dagar i veckan, fr\u00e5n 8 till 12 el 13, eftermiddagarna \u00e4gnades \u00e5t heml\u00e4xor, fritid och dyl.  Bl.a \u00e5t att knyta nya kontakter, bekantskaper, somliga varade tills \u201dd\u00f6den skilde oss \u00e5t\u201d. Min man och jag hade tillf\u00e4lle att bekanta oss med ett ungt par av \u00f6borna. Den kontakten hj\u00e4lpte oss att komma n\u00e4rmare till svenskf\u00f6dda och samtidigt att \u00f6va v\u00e5ra f\u00e4rska kunskaper i svenska. Vi var h\u00f6gst medvetna om att det svenska spr\u00e5ket var A och O f\u00f6r oss i v\u00e5rt nya liv. Det h\u00e4r sist n\u00e4mnda v\u00e4nskapen varar tills nu.\n                                                                       \nP\u00e5 Marstrand hade vi bes\u00f6k av n\u00e5gra judiska par bosatta i G\u00f6teborg, polska judar som kom till Sverige 1945, r\u00e4ddade fr\u00e5n koncentrationsl\u00e4ger av Folke Bernadottes aktion de sk Vita Bussarna. M\u00e4rkligt nog att inget, mer officiellt bes\u00f6k fr\u00e5n d\u00e5varande Mosaiska F\u00f6rsamlingen, \u00e4gde rum. Ledningen f\u00f6r f\u00f6rsamlingen betraktade v\u00e5r emigration som icke religi\u00f6sa, vilket nog st\u00e4mde i viss m\u00e5n, samt som kommunister, vilket nog inte st\u00e4mde med verkligheten, i alla fall i de flesta fall, enligt min mening.\nVi hade mycket bra l\u00e4rare, i alla fall vad g\u00e4ller i min grupp f\u00f6r l\u00e4kare.\n                                                                 \nJag m\u00e5ste n\u00e4mna en positiv upplevelse till, under vistelsen p\u00e5 Marstrand. Det g\u00e4ller sj\u00e4lva \u00f6n.\n Denna, i den vintriga, soliga, sn\u00f6t\u00e4ckta kl\u00e4dseln var helt enkelt sagolik. Jag blev f\u00f6r\u00e4lskad i denna \u00f6.\nS\u00e5 fort jag fick tillf\u00e4lle att skaffa en andelsl\u00e4genhet p\u00e5 Marstrand, gjorde jag det och beh\u00f6ll den, tillsammans med min andra man, till enorm gl\u00e4dje, under ytterligare 30 \u00e5r.\n\nI april 1970 n\u00e4rmade v\u00e5r vistelse p\u00e5 Marstrand sig sitt slut, i alla fall f\u00f6r de flesta av oss. Den sista tiden \u00e4gnades f\u00f6r att f\u00f6rbereda oss till det sj\u00e4lvst\u00e4ndiga livet i det nya landet, det vill s\u00e4ga att hitta bostaden och arbetet. F\u00f6r detta \u00e4ndam\u00e5l hade vi stor hj\u00e4lp av tre tj\u00e4nstem\u00e4n fr\u00e5n arbetsf\u00f6rmedlingen som f\u00f6ljde oss p\u00e5 plats fr\u00e5n f\u00f6rsta b\u00f6rjan.\nMin man, utbildad civilekonom med l\u00e5ng yrkeserfarenhet, var tvungen att n\u00f6ja sig med sk arkivarbetstj\u00e4nst inom G\u00f6teborgs kommun.\nVad betr\u00e4ffar mig, hade jag hittad av en ren slump, en notis i GP att det gamla infektionssjukhuset\nh\u00f6ll p\u00e5 att flytta, den 1 april 1970, till nya lokaler i \u00d6stra sjukhuset; ett tillf\u00e4lle skrivet, helt och h\u00e5llet, \u00e5t mig. Efter telefon\u00f6verenskommelse med klinikchefen tr\u00e4ffade jag personen i\nfr\u00e5gan f\u00f6r intervju - samtal. Vad kunde man f\u00f6rutse, kliniken hade inte n\u00e5gra lediga tj\u00e4nster f\u00f6r tillf\u00e4llet men klinikchefen , liberal, humanist samt, som visade sig senare, en stor Israel-v\u00e4n, skaffade en extra l\u00e4kartj\u00e4nst \u00e5t mig f\u00f6r att kunna genomg\u00e5 provtj\u00e4nstg\u00f6ringen, obligatorisk f\u00f6r att skaffa en svensk l\u00e4karlegitimation. Redan 1 maj samma \u00e5r b\u00f6rjade jag arbeta p\u00e5 Infektionssjukhuset i Gbg.\n\nVi hade tur med l\u00e4genheten i det nybyggda bostadsomr\u00e5det, intill det nya \u00d6stra sjukhuset, med omedelbar inflyttning.\n P\u00e5 det s\u00e4ttet hade det nya, v\u00e4l ordnade, svenska livet, b\u00f6rjat f\u00f6r oss endast ett halvt \u00e5r efter v\u00e5r ankomst till detta land!\n                                                              \nOt\u00e4nkbart i dagens l\u00e4ge, \u00e5ret 2021!\n\nDet nya livet i det nya landet, till att b\u00f6rja med, som visade sig s\u00e5 sm\u00e5ningom, har inte varit s\u00e5 l\u00e4tt. Allt fr\u00e5n spr\u00e5ket till, exempelvis, skatter, inkomstdeklarationen var nytt, fr\u00e4mmande. Men vi hade grunden till spr\u00e5ket bakom sig, vi hade inkomst fr\u00e5n v\u00e5ra anst\u00e4llningar och vi hade tak \u00f6ver huvuden. R\u00e4tt s\u00e5 fort har vi skaffat v\u00e5ra f\u00f6rsta kontakter och bekantskapen med lokalbefolkningen som hj\u00e4lpte oss enormt i v\u00e5ra f\u00f6rsta steg. De inf\u00f6dda svenska tr\u00e4ffade vi antingen p\u00e5 arbetsplatsen eller genom de redan bekanta fr\u00e5n tidigare, men i f\u00f6rsta hand kn\u00f6t vi kontakt med efterkrigets polska judar, n\u00e4mnda redan tidigare, r\u00e4ddade genom Folke Bernadottes vita bussar, vilka blev v\u00e5ra v\u00e4nner tills vidare; vi beh\u00f6ll bekantskapen med dem som kom samtidigt fr\u00e5n Polen till Marstrand.\n                                                                     \nLivet b\u00f6rjar att likna det sk normala.\n\n\u00c4ven s\u00e4ttet att arbeta, att ut\u00f6va arbetsmomenten, \u00e4ven f\u00f6r oss som hade l\u00e5ngvariga erfarenheter fr\u00e5n   hemlandet, var annorlunda. Det tog b\u00e5de tid och anstr\u00e4ngning att beh\u00e4rska de f\u00f6rsta sv\u00e5righeterna.\nF\u00f6r min del avslutade jag min tv\u00e5 m\u00e5naders provtj\u00e4nstg\u00f6ring redan efter en m\u00e5nads tid med Godk\u00e4nd och gick till sedvanlig underl\u00e4kare-anst\u00e4llning tills vidare. P\u00e5 det s\u00e4tet stannade jag p\u00e5 infektionskliniken i drygt fyra \u00e5r.\n                                                                      \nD\u00e5 fanns inga utsikter f\u00f6r mig, p\u00e5 den kliniken, till vidare avancering men att flytta till ett annat infektionssjukhus i regionen har inte varit aktuellt med h\u00e4nsyn till min mans arbete i G\u00f6teborg.\n\nJag beslutade mig f\u00f6r att arbeta inom den \u00f6ppna v\u00e5rden.\nP\u00e5 den tiden b\u00f6rjade den \u00f6ppna v\u00e5rden i G\u00f6teborg byggas ut, omorganiseras. Det byggdes nya lokaler, s\u00f6ktes all personal, vilket inte var s\u00e5 l\u00e4tt med h\u00e4nsyn till r\u00e5dande l\u00e4karbrist och fr\u00e5nvarande av kunskaper i \u00f6ppenv\u00e5rds-organisation.  Jag fick omedelbart chefsanst\u00e4llning p\u00e5 den allra f\u00f6rsta, sedvanliga v\u00e5rdcentralen i G\u00f6teborg. Det b\u00f6rjade en mycket sp\u00e4nnande period i mitt sj\u00e4lvst\u00e4ndiga yrkesarbete, med nya uppgifter och nya erfarenheter.\nD\u00e4r stannade jag i 17 l\u00e5nga \u00e5r, p\u00e5 samma plats, med stor oms\u00e4ttning inom personalen, med berg och dalar som det bukar vara i livet, men jag trivdes enormt bra.\n\nI mitt privata liv blev det ocks\u00e5 b\u00e5de berg och dalar.                  \n\nP\u00e5 det privata planen hade vi skaffat och beh\u00e5llit \u00e5tskilliga bekantskaper, b\u00e5de bland inf\u00f6dda svenskar, svenska judar och judar inflyttade efter andra v\u00e4rldskriget. Vi beh\u00f6ll v\u00e4nskapen med personer vi tr\u00e4ffat p\u00e5 Marstrand.\nJust, tack vare v\u00e4nskapen med judiska familjer kom jag i kontakt, f\u00f6r f\u00f6rsta g\u00e5ngen i mitt liv, med det judiska livet och dess vanor, s\u00e5 som firandet av bat- och bar mitzvor, stora judiska helger, koschermat och dylikt. Genom att delta i f\u00f6rel\u00e4sningar, organiserade av Judiska f\u00f6rsamlingen i G\u00f6teborg, som jag blev medlem i, fick jag l\u00e4ra mig en del av den judiska historien och kulturen. Ut \u00f6ver detta har mina flera resor till Israel, b\u00e5de som turist samt att umg\u00e5s med min mans kusiner, vidgat mina kunskaper i sammanhanget, bidragit till mina kunskaper om det judiska livet och till min judiska identitet.\nVad g\u00e4ller dessa tre kusiner till min man, har de kommit illegalt med sin mor p\u00e5 30-talet, till d\u00e5varande Palestina, v\u00e4xte upp d\u00e4r, utbildades och bidragit till utbyggnaden av Israel. Givetvis, \u00e4ven de judiska f\u00f6rfattare s\u00e5 som Singer, Potok, Roth, Amos Oz mm p\u00e5verkade mitt judiska jag.\nDet \u00e4r inte s\u00e5 enkelt med mitt judiska jag.\nJag har inte f\u00e5tt det med judiska uppfostran hemifr\u00e5n, tom visste jag inte ens om mitt judiska ursprung fram till tolv\u00e5rs\u00e5ldern.                                                         \n \nJag \u00e4r f\u00f6dd av judiska f\u00f6r\u00e4ldrar s\u00e5ledes \u00e4r jag judinna p\u00e5 samma s\u00e4tt som jag \u00e4r f\u00f6dd som en kvinna. Detta kan varken ifr\u00e5gasattes eller f\u00f6rnekas. Mitt judiska jag \u00e4r betyngd av min uppfostran, omgivningen, omst\u00e4ndigheterna, vilket gjorde att f\u00f6rst i vuxen \u00e5ldern kom jag i kontakt med det judiska livet.\nNu vet jag att jag \u00e4r av judiskt p\u00e5br\u00e5, att jag \u00e4r judinna, icke religi\u00f6s, med stark samh\u00f6righet och solidaritet med det judiska folket.                                                          \n                                                                    \nDet \u00e4r p\u00e5 samma s\u00e4tt jag \u00e4r \u00f6vertygat om att jag \u00e4r judinna f\u00f6r jag har \u00e4rvt mina judiska gener fr\u00e5n mina f\u00f6r\u00e4ldrar, b\u00e5da polska judar i flera generationer. Det \u00e4r p\u00e5 samma s\u00e4tt att jag vet att jag \u00e4r m\u00e4nniskan, kvinnan, att jag \u00e4r svensk medborgare osv.\nMin tillh\u00f6righet?\nJag levde i olika europeiska l\u00e4nder,\u201d jude, den evige vandraren\u201d, mitt moderland \u00e4r Polen och modersm\u00e5l \u00e4r polska. Mitt adaptiva land \u00e4r Sverige. Jag upplever mig som judinna, europ\u00e9, svensk medborgare med stor sympati och tacksamhet f\u00f6r Israel och det israeliska folket.\nVilken \u00e4r min identitet?\nMin mamma kallade mig kosmopolit. \n\nN\u00e5 v\u00e4l, det nya livet i Sverige g\u00e5r vidare.\nI 1980 miste jag min man, han dog hastigt av hj\u00e4rtinfarkt, p\u00e5 akuten, efter endast 10 \u00e5r i Sverige.\n\nSamma \u00e5r gick min mor bort i Warszawa. Tre \u00e5r senare dog min fars andra hustru. Min far levde ytterligare i sex \u00e5r.\nAtt n\u00e4rvara p\u00e5 begravningar i likhet till de tidigare bes\u00f6ken i Warszawa, i samband med f\u00f6r\u00e4ldrarnas sjukdomar, har varit en f\u00f6reteelse. Det g\u00e4llde, skriftligt eller oskriftligt, ett f\u00f6rbud f\u00f6r att \u00e5terv\u00e4nda till Polen f\u00f6r de tusentals polska judar, utsl\u00e4ngda under \u00e5ren 1968-69.  Det har h\u00e4nt att jag tillbringat timmar, n\u00e4tter p\u00e5 flygplatsen i Warszawa innan jag har blivit insl\u00e4ppt till stan.\n       \nDet blev p\u00e5 nytt en sv\u00e5r tid f\u00f6r mig med sorgen, f\u00f6rtvivlan, ensamheten, \u00f6vergivenheten, os\u00e4kerheten. Med hj\u00e4lp av v\u00e4nner, arbete och tid forts\u00e4tter man vidare.\nN\u00e5gra \u00e5r senare har jag tr\u00e4ffat min andre livskamrat, jag hade tur. Han, en n\u00e4ra sl\u00e4kting till mig, f\u00f6dd och bosatt i Paris, halv jude fr\u00e5n hans fars sida, ensam med en vuxen son.\nTill att b\u00f6rja med var vi s\u00e4rbo men efter pensioneringen 1991 har vi flyttat ihop, med dubbel bos\u00e4ttning till hans bortg\u00e5ng i Paris 2006, han ocks\u00e5 i hastig hj\u00e4rtinfarkt.\n\u00c4n en g\u00e5ng blev jag ensam med min sorg, ensamhet, \u00f6vergivenhet som med \u00e5ren upplevs \u00e4nnu\n\nmer p\u00e5frestande, l\u00e5ngvarigare \u00e4n f\u00f6rr.\n\nI dag, i denna pandemiska tid lever jag ensam, 94 \u00e5r gammal, kvar i den ursprungliga, fr\u00e5n 50 \u00e5r tillbaka, l\u00e4genheten med hemhj\u00e4lp varannan vecka; f\u00f6r \u00f6vrigt klarar jag hush\u00e5llet p\u00e5 egen hand, bl. annat tack vare bilen, kan jag handla, tr\u00e4ffa v\u00e4nner, g\u00f6ra korta utflykter.\nJag skulle inte kunna klara mig utan det enorma, b\u00e5de den fysiska och mentala, st\u00f6det av mina v\u00e4nner ur yngre generationen, barnen till mina avlidna v\u00e4nner,\nDet kulturella livet \u00e4r borttaget pga Corona, annars har jag varit en flitig bes\u00f6kare p\u00e5 Konserthuset, Stadsteatern samt biograferna.\nVad g\u00e4ller mitt sociala liv, det tackar jag den yngre generationen f\u00f6r, barnen till mina avlidna v\u00e4nner samt n\u00e5gra yngre kvinnor, som jag har tr\u00e4ffat under de sista \u00e5ren.\n\nMaria Rotstein\n \nG\u00f6teborg, maj 2021\n\n\n\n\n  .\n\n\n\n \n\n\n\n\n \n .", 
+          "modified": "Thu, 30 Sep 2021 07:56:35 GMT", 
+          "topic_item": {
+            "label": "Din levnadsber\u00e4ttelse", 
+            "label_i18n": {
+              "sv": "Din levnadsber\u00e4ttelse"
+            }, 
+            "type": "Textarea", 
+            "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "27b29aeb-8b89-4480-ac23-72325154f0d0"
+        }, 
+        {
+          "created": "Wed, 29 Sep 2021 08:25:20 GMT", 
+          "display_value": "14 november 1969", 
+          "modified": "Wed, 29 Sep 2021 08:25:20 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "0f8332d6-55c6-46fd-8c19-98b4fdea438d"
+        }, 
+        {
+          "created": "Wed, 29 Sep 2021 08:25:20 GMT", 
+          "display_value": "Wien, \u0141odz, Moskva, Warszawa", 
+          "modified": "Wed, 29 Sep 2021 08:25:20 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "cb6674c0-1577-4906-b07a-ea07917c19cc"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00001", 
+      "comment_count": 0, 
+      "contributor": {
+        "birth_year": 1946, 
+        "display_name": "Bronia Sokolow", 
+        "gender": "woman", 
+        "place": "Nacka", 
+        "uuid": "667ade5b-eb80-465e-b3d7-96e8575d8ab6"
+      }, 
+      "coordinates": "", 
+      "created": "Thu, 09 Sep 2021 09:32:27 GMT", 
+      "hits": 355, 
+      "image_dms_id": "0138ZQA6zPCB", 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Thu, 09 Sep 2021 09:52:54 GMT", 
+          "dms_id": "0138ZQA6zPCB", 
+          "image_height": 416.0, 
+          "image_ratio": 0.836538461538462, 
+          "image_width": 348.0, 
+          "license": "CC0", 
+          "mime_type": "image/png", 
+          "modified": "Thu, 09 Sep 2021 09:52:54 GMT", 
+          "name": "Levnadsber\u00e4ttelse Bronia Sokolow.png", 
+          "order_by_number": 1, 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "image", 
+          "uuid": "57581c45-0c4b-4fad-81a3-c5aaf888100c"
+        }, 
+        {
+          "created": "Thu, 09 Sep 2021 09:32:02 GMT", 
+          "dms_id": "0138ZQA6zPCA", 
+          "license": "CC0", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Thu, 09 Sep 2021 09:32:02 GMT", 
+          "name": "200118-Bronia Sokolow (uppdaterad).docx", 
+          "order_by_number": 1, 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "6c1d5b07-776a-4d7f-9736-9fb4e1cce942"
+        }
+      ], 
+      "modified": "Thu, 09 Sep 2021 09:53:08 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17242", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "title": "", 
+      "title_i18n": {
+        "sv": ""
+      }, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 936, 
+      "uuid": "c04b63a3-6b17-41b7-873c-932cc2ca7117", 
+      "values": [
+        {
+          "created": "Thu, 09 Sep 2021 09:32:27 GMT", 
+          "display_value": "Hur var din uppv\u00e4xtmilj\u00f6? \n\nJag hade en bra uppv\u00e4xtmilj\u00f6.  Jag bodde i stadsdelen Mokotow i 3 st nybyggda rosa trev\u00e5ningshus med tre portar vardera. Husen st\u00e5r faktiskt kvar. Wejnerta 22, lgh 15, tre trappor utan hiss. I Husen bodde huvudsakligen anst\u00e4llda i utrikesministeriet. M\u00e5nga pappor i husen \u00e5kte till utlandet p\u00e5 diplomatiska resor men aldrig min pappa som var en l\u00e4gre tj\u00e4nsteman. S\u00e5 sm\u00e5ningom blev pappa avskedad, kanske i slutet av femtiotalet, s\u00e5 fick han ett mindre prestigefyllt jobb. Mamma arbetade inom Press-och Bokbyr\u00e5n Ruch som personalansvarig.\n Mina f\u00f6r\u00e4ldrar jobbade v\u00e4ldigt mycket och jag liksom min bror var ganska utl\u00e4mnade \u00e5t oss sj\u00e4lva. Vi lekte mycket ute, var v\u00e4ldigt fria, de vuxnas v\u00e4rld k\u00e4ndes l\u00e5ngt borta. En lek som jag v\u00e4l kommer ih\u00e5g var krigsleken. Man g\u00f6r en rund ring p\u00e5 marken med en kniv som man ritar upp t\u00e5rtbitar i ringen. Sedan kastar man kniven mot ringen och d\u00e4r den fastnar, d\u00e4r f\u00e5r man sk\u00e4ra ur en jordbit och ut\u00f6ka p\u00e5 s\u00e5 vis sin egen jordbit. Den som har st\u00f6rst jordh\u00f6g vinner. Kanske lite brutal lek, kniven m\u00e5ste fastna med spetsen i marken. Ibland fastnade kniven p\u00e5 n\u00e5gons fot. Okej, det var ju ganska direkt efter kriget. En annan lek var att snabbt sticka kniven mellan alla handens fingrar, fram och tillbaka.  Ernest min storebror (sex \u00e5r \u00e4ldre) var den som b\u00e5de skyddade mig och best\u00e4mde. N\u00e4r mamma ropade p\u00e5 mig ville han hj\u00e4lpa till, han stack ut huvudet fr\u00e5n tredje v\u00e5ningen och ropade p\u00e5 mig. Mina kompisar brukade g\u00f6mma mig och ropa tillbaka att jag inte var d\u00e4r. I v\u00e5ra hus fanns det inga hissar, men i grannkvarteret fanns hissar, vilket var nytt och sp\u00e4nnande f\u00f6r oss. Vi sm\u00f6g dit i stora skaror och bus\u00e5kte upp och ner. En g\u00e5ng fick vi en skr\u00e4ckupplevelse n\u00e4r hissen fastnade mellan v\u00e5ningarna och vi fick sitta och v\u00e4nta p\u00e5 hj\u00e4lp, i flera timmar k\u00e4ndes de som. Jag minns att n\u00e5gon jagade oss n\u00e4r vi flydde d\u00e4rifr\u00e5n. Portvakterna var var skr\u00e4ck, dem skulle man akta sig f\u00f6r.\n\nM\u00e5nga statliga arbetsgivare erbj\u00f6d kolloverksamhet \u00e5t sina anst\u00e4lldas barn. Fr\u00e5n det att jag var tv\u00e5 \u00e5r skickade f\u00f6r\u00e4ldrarna mig p\u00e5 sommarkollo. Som det k\u00e4ndes var det kanske tre veckor, men det vet jag inte s\u00e4kert. Kan ha varit kortare, men  jag hade f\u00f6rf\u00e4rlig heml\u00e4ngtan. Jag har f\u00f6rtr\u00e4ngt mycket av det d\u00e4r, men kanske gjorde det mig ocks\u00e5 till en mer social person. N\u00e4r jag blev vuxen blev jag sj\u00e4lv kolloledare. Mamma och pappa \u00e5kte p\u00e5 sina egna semestrar anordnade av deras arbetsplatser.\n\nJag gick p\u00e5 dagis, det var stora barngrupper men jag trivdes. Ofta h\u00e4nde det att jag blev kvar ensam n\u00e4r alla andra barnen blev h\u00e4mtade. En g\u00e5ng, n\u00e4r ingen kom f\u00f6r att h\u00e4mta mig, l\u00e5ste vaktm\u00e4staren dagis och tog mig med sig hem. Jag trodde att jag skulle stanna d\u00e4r f\u00f6r alltid.  Jag satt vid middagsbordet hos vaktm\u00e4starens familj kom mamma till slut med andan i halsen. Jag vet inte om det h\u00e4nde fler g\u00e5nger. En annan uppskakande h\u00e4ndelse som jag minns var n\u00e4r dagisf\u00f6rest\u00e5ndare kallade efter mina f\u00f6r\u00e4ldrar f\u00f6r att klaga p\u00e5 mig. Hon kr\u00e4vde att jag skulle sjunga den hemska s\u00e5ngen som barnen skvallrade till henne om. D\u00e4r blev det lite dubbla budskap, den var ju f\u00f6rbjuden, s\u00e5 jag v\u00e4grade. Den l\u00e4rde min storebror mig och den b\u00f6rjade med orden \u201c Marsh marsh Hitlera niech go wezmie cholera\u201d(...m\u00e5 kolera ta honom)  En nids\u00e5ng om Hitler. Det uppr\u00f6rande var att melodin \u00e4r tagen ur polska nationals\u00e5ngen. N\u00e4r jag sedan sj\u00f6ng den hemma f\u00f6r mina f\u00f6r\u00e4ldrar blev de kanske inte glada men inte heller \u00f6verdrivet arga p\u00e5 mig vad jag minns.\n\nEfter skolan gick jag p\u00e5 fritids (i samma skollokaler, precis som barnen idag). Jag trivdes bra d\u00e4r, men n\u00e4r jag kom hem klockan fem var mamma och pappa fortfarande inte hemma. De jobbade s\u00e5 mycket. Alla mammor fick st\u00e5 i matk\u00f6er efter jobbet och kom ofta hem v\u00e4ldigt tr\u00f6tta. Jag hade inga nycklar, det var min bror som hade. Jag satt ofta i trappen och v\u00e4ntade. \nHemma hos oss k\u00f6pte min pappa alltid en s\u00e4rskild barntidning \u00e5t mig Swierszczyk (Lilla syrsan) och en rysk som hette Murzilka (den finns faktiskt kvar uppt\u00e4ckte jag just!). Jag kunde inte ryska, men han l\u00e4ste den f\u00f6r mig. Hemma hade vi ocks\u00e5 en rysk encyklopedi. Samt Krokodil, den satiriska tidningen. P\u00e5 s\u00f6ndagarna klockan tre var det barnteater p\u00e5 radio som jag \u00e4lskade.\n\nJag gick ofta till Teater Guliwer som var en marionetteater. De gav underbara f\u00f6rest\u00e4llningar. \n\n\nVilka viktiga minnen har du fr\u00e5n perioden f\u00f6re 1968? \n\nJag b\u00f6rjade studera vid Pedagogiska fakulteten i Warszawas universitet direkt efter gymnasiet 1964.  Det var b\u00e5de jobbigt pga alla tentor men ocks\u00e5 mycket roliga tider. Att vara student i Warszawa innebar mycket socialt umg\u00e4nge. M\u00e5nga av mina v\u00e4ninnor bodde i studenthem (akademik) d\u00e4r det var mycket p\u00e5vert - man bodde i ett stort rum med fem s\u00e4ngar. De levde p\u00e5 ett litet studiebidrag. Men jag hade ju mamma och pappa och kunde bo hemma. N\u00e5gra andra l\u00e4genheter f\u00f6r unga fanns inte. F\u00f6r att bli tilldelad en l\u00e4genhet fick man st\u00e5 i k\u00f6 i 20 \u00e5r. Man bodde helt enkelt hemma tills man gifte sig eller \u00e4nnu l\u00e4ngre. M\u00e5nga fick t o m bo kvar hemma efter att de hade gift sig och skaffat barn. \n\nUpptakten till regeringens antisemitiska kampanj var premi\u00e4r Gomulkas tal p\u00e5 partikongressen i juni 1967 d\u00e4r han sade att medborgare med judisk nationalitet som hyllar Israels seger i 6-dagars kriget utg\u00f6r femtekolonnare. Samma j\u00e4mf\u00f6relse som anv\u00e4ndes mot Hitlers sympatis\u00f6rer i Polen f\u00f6re kriget. Innan dess var Polens inst\u00e4llning till Israel, dikterat av Moskva, positiv, men n\u00e4r Sovjet \u00e4ndrade sin politiska inriktning och f\u00f6rd\u00f6mde Israel, var polska kommunistiska partiet tvungna att f\u00f6lja deras exempel. Talet var signalen till allomfattande aktionen mot polacker av judisk h\u00e4rkomst p\u00e5 alla arbetsplatser, skolor och institutioner. Det talades om sionister som fiender till den polska socialistiska staten. Samtidigt r\u00e5dde det bland studenter och ledande intellektuella missn\u00f6je med den \u00f6kande kontrollen \u00f6ver press, radio och TV. De \u00f6nskade reformer och st\u00f6rre yttrandefrihet. En dag h\u00f6rde jag p\u00e5 bussen ett samtal mellan tv\u00e5 unga personer: \u201dIg\u00e5r p\u00e5 teatern under f\u00f6rest\u00e4llningen Dziady (ett drama av Adama Mickiewicz) b\u00f6rjade publiken att skandera \u201dBort med ryssen!\u201d vilket var citerat fr\u00e5n den stora 18-hundratalsnationalpoeten Mickiewicz. Myndigheternas svar var att ta ner f\u00f6rest\u00e4llningen fr\u00e5n scenen. Det var upptakten till studenternas strejker. N\u00e4sta dag stod det i tidningen om det \u201cantipolska, revisionistiska\u201d upproret p\u00e5 teatern. H\u00e4ndelsen var v\u00e4ldigt oroande och efter det gick allting v\u00e4ldigt fort. Det var som en signal f\u00f6r makthavarna att p\u00e5b\u00f6rja kampanjen mot \u201cbananungdomar\u201d, dvs \" de bortsk\u00e4mda s\u00f6ner och d\u00f6ttrar till sionistiska kosmopoliter.\u201d Alla f\u00f6rstod att detta var f\u00f6rt\u00e4ckta ben\u00e4mningar p\u00e5 m\u00e4nniskor med judisk b\u00f6rd.\n\nSj\u00e4lv deltog jag aldrig i n\u00e5gra demonstrationer eller strejker (ockupationsstrejker). Jag deltog inte eftersom jag anade att jag som judinna borde ligga l\u00e5gt. Dessutom var jag i slutet av mina studier och ville absolut inte \u00e4ventyra min examen p\u00e5 n\u00e5got s\u00e4tt. P\u00e5 universitetet blev jag aldrig utsatt f\u00f6r antisemitism.   \n \n\nVad arbetade du och m\u00e4nniskor i din n\u00e4rhet med? Vilka traditioner och h\u00f6gtider firades i din barndomsmilj\u00f6? \n\nVilka spr\u00e5k talades och vilka olika gemenskaper fanns det i din uppv\u00e4xtmilj\u00f6? Vilken roll spelade religion i ditt hem? \n\nPolska men mina f\u00f6r\u00e4ldrar pratade jiddisch med varandra n\u00e4r de inte ville att vi barn skulle f\u00f6rst\u00e5. F\u00f6r\u00e4ldrarna var ateister och vi hade inga judiska traditioner i hemmet. Pappa var partimedlem, mamma var med i Bund f\u00f6re kriget (en judisk socialistisk org.) men den f\u00f6rbj\u00f6ds efter kriget, liksom alla andra partier utom den r\u00e5dande, kommunistiska partiet.\n\n\nVilka erfarenheter av antisemitism har du fr\u00e5n perioden f\u00f6re 1968? \n\nJag ska ber\u00e4tta hur det var n\u00e4r jag fick veta att jag var judinna. Det var n\u00e5gra grannar, inte i samma byggnad, utan i ett annat hus i n\u00e4rheten. Jag och deras dotter lekte, men pl\u00f6tsligt uppstod det br\u00e5k mellan oss. Hennes mamma kom ut och sk\u00e4llde ut mig. Jag sade: men varf\u00f6r kom hon till v\u00e5r g\u00e5rd? - \u201cV\u00e5r g\u00e5rd, v\u00e5r g\u00e5rd?\u201d sa mamman, - Palestina \u00e4r ert! Jag blev ledsen, gick hem och ber\u00e4ttade f\u00f6r mina f\u00f6r\u00e4ldrar. De tr\u00f6stade mig och f\u00f6rklarade att kvinnan menade att det bor judar i Palestina och att vi var judar men \u00e4ven polacker. Jag var i sex eller sju\u00e5rs\u00e5ldern. Sedan den dagen visste jag att jag var judinna. S\u00e5 sm\u00e5ningom blev jag medveten om min judiskhet d\u00e5 f\u00f6r\u00e4ldrarna, n\u00e4r de inte ville att vi barn skulle f\u00f6rst\u00e5, pratade sinsemellan jiddisch. De prenumererade ocks\u00e5 p\u00e5 en tidning p\u00e5 jiddisch Folks shtime (Folkets r\u00f6st). Det var ingenting jag pratade med mina v\u00e4ninnor om. P\u00e5 religionslektioner var jag med och p\u00e5 kollo f\u00f6ljde jag med kompisarna till kyrkan. \nI min v\u00e4rld var jag till st\u00f6rsta delen alltid i skolan eller dagkollo eller p\u00e5 fritids. F\u00f6r\u00e4ldrarna jobbade j\u00e4mt. Men vissa barn hade hemhj\u00e4lp, en del hade mammor som var hemmafruar vilket jag avundades dem. Men jag tror de flesta hade det som jag. Mina f\u00f6r\u00e4ldrar var v\u00e4ldigt entusiastiska och \u00e4lskade den nybildade folkrepubliken, de deltog g\u00e4rna i folkliga aktioner som t ex att rensa gatorna fr\u00e5n efterkrigsruiner, \u201codgruzowanie Warszawy\u201d.  Det var som en gl\u00e4djefylld utflykt f\u00f6r oss. M\u00e5nga barn fick ta hand om sig sj\u00e4lva, vi f\u00f6rv\u00e4ntades bli sj\u00e4lvst\u00e4ndiga.  Av princip firade mina f\u00f6r\u00e4ldrar inga h\u00f6gtider, inte ens f\u00f6delsedagar.\n\n\nVilka erfarenheter av F\u00f6rintelsen och andra v\u00e4rldskriget var framtr\u00e4dande i din uppv\u00e4xtmilj\u00f6?\n \nDet viskades bara om det s\u00e5 vi fick bara h\u00f6ra sk\u00e4rvor av det. Ordet \u201cjude\u201d f\u00f6rekom n\u00e4stan aldrig i offentliga sammanhang. I publikationer om f\u00f6rintelsen hette det att det var polska medborgare som blev offer i tyskarnas koncentrationsl\u00e4ger. Vid avt\u00e4ckandet av monumentet till minne av ghetto upproret i Warszawa uttrycktes i svepande termer att de man hedrar var heroiska hj\u00e4ltar som slogs och dog i striden f\u00f6r ghetto.(!) Det gavs ut n\u00e5gra album med fotografier fr\u00e5n de befriade utrotningsl\u00e4gren, d\u00e4r det sas att fascisterna m\u00f6rdade 4 miljoner \u201cpolacker samt n\u00e5gra andra nationaliteter och minoriteter\u201d. Jag minns att vi hade en s\u00e5dan bok hemma. Jag och min bror tittade i den och dess svartvita bilder med skelett och s\u00e5nt, men f\u00f6r\u00e4ldrarna tog den ifr\u00e5n oss. De tyckte inte att den var l\u00e4mplig f\u00f6r barn. N\u00e4r kriget br\u00f6t ut flydde de till Sovjet d\u00e4r de stannade till februari 1946. I Sovjet fick man inte f\u00f6rflytta sig fritt, det g\u00e4llde \u00e4ven sovjetiska medborgare. 1940 f\u00f6ddes min bror i staden Kanibadam, i asiatiska republiken Tadjikistan, jag f\u00f6ddes i Kuybyshev (idag Samara) sex \u00e5r senare. De var skilda \u00e5t under l\u00e5nga perioder, som utl\u00e4nningar hade de s\u00e4rskilda pass d\u00e4r \u00e4ven bokstaven J (Jevrej) var inst\u00e4mplat . Men var de fick kuska hit och dit, det har jag ingen aning om eller hur m\u00e5nga g\u00e5nger de tvingats f\u00f6rflytta sig under de \u00e5ren. De \u00e5terv\u00e4nde till Polen 1946 n\u00e4r jag var tre veckor gammal. Min brors f\u00f6rsta spr\u00e5k var ryska. \nDe pratade aldrig med oss barn om kriget eller om sitt liv i den sovjetiska exilen De ville bespara oss sina och sl\u00e4ktens sv\u00e5ra umb\u00e4randen. De k\u00e4nde tacksamhet gentemot den sovjetiska makten som tog emot de i deras flykt undan f\u00f6rintelsen. Judar som stannade kvar i det ockuperade Polen \u00f6verlevde inte. F\u00f6r\u00e4ldrarna ville se fram\u00e5t och delta i uppbyggnaden av ett nytt Polen. \n\n\nVilka centrala- historiska eller privata h\u00e4ndelser p\u00e5verkade ditt liv f\u00f6re 1968? \nFinns det n\u00e5got barndomsminne som \u00e4r extra viktigt f\u00f6r dig?\nDen antisemitiska kampanjen och emigrationen\nHur upplevde du den antisemitiska kampanjen 1967-1972? \nP\u00e5 vilket s\u00e4tt drabbade kampanjen dig, din familj och dina v\u00e4nner? \n\n\nDen drabbade mina f\u00f6r\u00e4ldrar och min bror f\u00f6rst och fr\u00e4mst. Pappa sa \u201cDe f\u00f6rr\u00e5dde oss\u201d. Han fick ett psykiskt sammanbrott, han br\u00f6t ihop totalt och hamnade p\u00e5 sjukhus. Gomulka hade 1967 pratat p\u00e5 fackf\u00f6renings kongress och dagen efter kom talet i tidningarna man l\u00e4ste. \nPappa l\u00e4ste Trybuna Ludu och det stod att judar var sionister, femtekolonnare, fr\u00e4mmande element. Han blev tillintetgjord. Han k\u00e4nde att det som han hela livet trodde p\u00e5 och k\u00e4mpade f\u00f6r visade sig vara l\u00f6gn.\n\nMin bror var vid den h\u00e4r tiden student vid juridiska fakulteten p\u00e5 universitetet. Samtidigt var han engagerad i Babel, en judisk ungdomsklubb d\u00e4r han innehade posten som ledare och organisat\u00f6r. Klubben som hade funnits i n\u00e5gra \u00e5r fungerade som m\u00f6tesplats f\u00f6r unga. Man bj\u00f6d in k\u00e4nda personligheter som ber\u00e4ttade om sitt arbete, p\u00e5 kv\u00e4llarna var det dans eller bridge-turneringar. Nu blev Babel f\u00f6rem\u00e5l f\u00f6r kritiska attacker fr\u00e5n makthavarna under den antisemitiska kampanjen och den st\u00e4ngdes 1968. Min bror betraktade sig som polack med judisk och polsk identitet. Han t\u00e4nkte inte ta \u00e5t sig, l\u00e5ta sig brytas ner av den mediala kampanjen. \u201cDet \u00e4r mitt land, ingen har r\u00e4tt att kalla mig f\u00f6r en fr\u00e4mling h\u00e4r!\u201d, menade han. \u201cDe f\u00e5r dra mig h\u00e4rifr\u00e5n med skottk\u00e4rra!\u201d Men en incident avgjorde han till slut gav upp: Hans n\u00e4rmaste v\u00e4n och studiekamrat fr\u00e5n juridiken Tadek sade en dag att hans \u00f6gon har \u00f6ppnats och att han har f\u00f6rst\u00e5tt vem min bror och hans gelikar \u00e4r f\u00f6r n\u00e5gra: ett fr\u00e4mmande element p\u00e5 den polska kroppen, Polens fiender. Min bror br\u00f6t fullst\u00e4ndigt ihop. Det var f\u00f6rsta g\u00e5ngen i mitt liv jag s\u00e5g min bror gr\u00e5ta. V\u00e4nnens svek blev droppen och min bror best\u00e4mde sig f\u00f6r att l\u00e4mna Polen.Vid det laget hade jag redan best\u00e4mt mig f\u00f6r att emigrera med min nyblivne man och min mamma. F\u00f6r min pappa var det aldrig aktuellt att l\u00e4mna Polen. Men till slut gjorde han ju det, han hoppade av vid ett Sverigebes\u00f6k 1972. \n\n\nN\u00e4r och varf\u00f6r togs beslutet att emigrera? \n\nF\u00f6r mig personligen var det en h\u00e4rlig tid, jag var precis klar med min utbildning, jag var nyk\u00e4r och nygift, jag och min man hade varit p\u00e5 br\u00f6llopsresa i Mazurien. Vi hade f\u00e5tt pengar fr\u00e5n min mans syster som bodde i USA till k\u00f6p av l\u00e4genhet. Men vi fick avslag p\u00e5 v\u00e5r ans\u00f6kan om l\u00e4genhetsk\u00f6p. Den officiella motiveringen till avslaget var att min man var utl\u00e4nning, han var rysk medborgare. Hans historia skulle kr\u00e4va en egen kapitel. I kort kan man s\u00e4ga att hans f\u00f6r\u00e4ldrar m\u00f6rdades i Polen vid krigets b\u00f6rjan 1939 och han evakuerades med en grupp andra f\u00f6r\u00e4ldral\u00f6sa barn till Sovjet. D\u00e4r blev han kvar i 25 \u00e5r, med nytt, ryskt namn Sokolow tills han hittades av hans syster med hj\u00e4lp av R\u00f6da Korset. N\u00e4r jag tr\u00e4ffade honom hade han varit i Polen i bara n\u00e5gra \u00e5r.\n\nOfficiellt hette det att judarna l\u00e4mnade Polen f\u00f6r Israel. Den p\u00e5hittade historien var att m\u00e5let var Israel, i verkligheten var det bara en liten del som reste dit. De flesta \u00e5kte till Sverige, Kanada och USA. \nVi l\u00e4mnade ans\u00f6kan om visum till Kanada, det tyckte vi l\u00e4t bra. Men rykten gick i alla fall om att \u00e4ven Sverige tog emot. Vi visste n\u00e4stan ingenting om Sverige, jag k\u00e4nde bara till en film om soldaten Bom med Nils Poppe. Sverige beviljade oss visum f\u00f6rst och d\u00e5 blev det s\u00e5. Vi hade inga f\u00f6rv\u00e4ntningar eller aningar om vad som v\u00e4ntade. Men vi hade inte heller n\u00e5got att f\u00f6rlora. Vi \u00e4gde ingenting utom v\u00e5r utbildning, f\u00e4rdiga studier. \n\nVi \u00e5kte t\u00e5g fr\u00e5n Warszawa i november och kom till en bl\u00e5sig Stockholm. Jag minns inte mycket fr\u00e5n resan men n\u00e5gon m\u00e5ste ha informerat oss att vi m\u00e5ste \u00e5ka till en flyktingf\u00f6rl\u00e4ggning i Lundsbrunn. Det var som att komma till en kurort. Till att b\u00f6rja med tyckte vi att allt var j\u00e4tteunderbart, vi tr\u00e4ffade 20 - 25 familjer till, landsm\u00e4n i samma situation som vi. Vi fick tre m\u00e5ltider om dagen och ett eget rum samt svenskundervisning n\u00e4stan fr\u00e5n b\u00f6rjan. Det var d\u00e4r jag fick h\u00f6ra Evert Taube f\u00f6r f\u00f6rsta g\u00e5ngen och Povel Ramel som sj\u00f6ng \"ta av dig skorna\". Vi tyckte att s\u00e5ngen var konstig och att Taube sj\u00f6ng ganska fult, medan personalen fick n\u00e5got h\u00f6gtidligt \u00f6ver sig n\u00e4r hans skivor spelades. \n\nMed tiden b\u00f6rjade vi tr\u00f6ttna p\u00e5 det passiva livet p\u00e5 f\u00f6rl\u00e4ggningen. Vi ville s\u00e4tta ig\u00e5ng med eget liv. Jag var gravid i tredje m\u00e5naden. I b\u00f6rjan trodde vi p\u00e5 vad de sagt om att saker och ting skulle ordna sig, men efter ca 3 m\u00e5nader s\u00e5 bara stack jag d\u00e4rifr\u00e5n sj\u00e4lv och anm\u00e4lde mig p\u00e5 universitetet i G\u00f6teborg till tv\u00e5\u00e5rig kurs i svenska f\u00f6r utl\u00e4ndska studenter. Jag tog studiel\u00e5n. Min tanke var bara att b\u00f6rja plugga, forts\u00e4tta studera p\u00e5 ett eller annat s\u00e4tt. Man var tvungen att ha den kursen f\u00f6rst innan jag kunde studera annat p\u00e5 universitetsniv\u00e5. Jag ville verkligen l\u00e4ra mig svenska ordentligt. Jag bodde allts\u00e5 sj\u00e4lv i G\u00f6teborg i en l\u00e5nad etta utan k\u00f6k och badrum. Min man var kvar p\u00e5 f\u00f6rl\u00e4ggningen och s\u00f6kte jobb och till slut fick han jobb i Stockholm som tekniker p\u00e5 LM Ericsson. D\u00e5 var jag gravid i sj\u00e4tte m\u00e5naden. Medan min man gick till jobbet varje morgon s\u00f6kte jag en l\u00e4genhet \u00e5t oss. Bland annat hyrde vi ett rum hos en svensk en familj. Det var mycket obekv\u00e4mt, vi fick inte anv\u00e4nda k\u00f6ket, bara badrummet. Jag tror kanske att vi stannade d\u00e4r i en vecka. D\u00e4refter bodde vi i tv\u00e5 veckor hos en avl\u00e4gsen sl\u00e4kting i Farsta, en \u00f6verlevare fr\u00e5n koncentrationsl\u00e4ger, Fela Larsson och hennes man \u00c5ke. Fela tyckte att v\u00e5ra problem var v\u00e4ldigt sm\u00e5 i j\u00e4mf\u00f6relse med hennes upplevelser i Auschwitz d\u00e4r tyskarna m\u00f6rdade hennes nyf\u00f6dda barn och hennes man. De hade ingen aning om hur vi kunde skaffa oss bostad. Jag h\u00f6rde n\u00e5gonting om att det finns n\u00e5got som heter n\u00e5got som b\u00f6rjar p\u00e5 \"social\" som kunde hj\u00e4lpa mig. S\u00e5 i telefonkatalogen hittade jag Socialstyrelsen, jag tror det var p\u00e5 Wallingatan. En tj\u00e4nsteman fr\u00e5gade vad han kunde st\u00e5 till tj\u00e4nst med och d\u00e5 sa jag att jag beh\u00f6vde en l\u00e4genhet. Vi pratade engelska. Han blev v\u00e4ldigt f\u00f6rv\u00e5nad och sa H\u00e4r har vi inga l\u00e4genheter. Men han sa \u00e4nd\u00e5, att han skulle se om han kunde g\u00f6ra n\u00e5got och bad mig att \u00e5terkomma om en vecka.  Jag kom tillbaka och d\u00e5 sa han att det fanns en ledig l\u00e4genhet i M\u00e4rsta. Jag visste bara att M\u00e4rsta l\u00e5g l\u00e5ngt bort fr\u00e5n stan s\u00e5 jag b\u00f6rjade gr\u00e5ta. Min man jobbade ju i Stockholm och jag skulle plugga p\u00e5 universitetet. D\u00e5 sa han okej, jag f\u00e5r se om jag kan hj\u00e4lpa dig. Jag skulle komma om n\u00e5gra dagar igen. Den g\u00e5ngen sa han att det fanns en l\u00e4genhet i Orminge och att det tar en halvtimme fr\u00e5n stan. Han instruerade mig om att \u00e5ka till en HSB-avdelning som fanns i Orminge p\u00e5 den tiden. Jag \u00e5kte dit och m\u00f6tte en tj\u00e4nsteman och d\u00e5 var jag gravid i sjunde m\u00e5naden. Det var varmt och han gick i sakta mak med en stor nyckelknippa med kanske 30 nycklar f\u00f6r att visa mig till l\u00e4genheten. Jag var mycket f\u00f6rv\u00e4ntansfull och gick med blicken p\u00e5 hans nyckelknippa. Till slut var vi framme. Det var som att komma till paradiset n\u00e4r han \u00f6ppnade d\u00f6rren till l\u00e4genheten! Den var delvis m\u00f6blerad, n\u00e5gon annan polsk medborgare hade bott d\u00e4r men som hastigt l\u00e4mnat den. L\u00e4genheten var p\u00e5 tre rum och k\u00f6k + en fin balkong. Vi fick l\u00e5n fr\u00e5n HSB p\u00e5 10500 kr. Tack tj\u00e4nstemannen p\u00e5 Socialstyrelsen! Vi flyttade in i maj 1970. Vi betalade av det i tio \u00e5r. Det var en oerh\u00f6rd lyx! I Polen hade vi bott fyra personer p\u00e5 45 kvm. I v\u00e5rt nya hus bodde tre polsk-judiska grannar, \u00e4ven de politiska flyktingarna. Det visade sig att det bodde minst femton olika polsk-judiska familjer i Orminge. Orminge bibliotek var fantastiskt. Och gruppen av polsk-judiska sjuttio\u00e5ringar hade det som sitt pension\u00e4rsfritids. En g\u00e5ng skrev Nacka V\u00e4rmd\u00f6 Posten en artikel om dem. Den skulle jag vilja hitta!\n\n\nVad k\u00e4nde du inf\u00f6r beslutet att emigrera? P\u00e5verkade den antisemitiska kampanjen din v\u00e4rldsuppfattning och sj\u00e4lvbild? Vilka deltog i den antisemitiska kampanjen och vilka f\u00f6rs\u00f6kte motverka den? Hur gick din migration till? \n\nJag f\u00f6dde min dotter Paulina 23 juni i Nacka sjukhus. S\u00e5 sm\u00e5ningom kom min mamma fr\u00e5n Lundsbrunn och \u00e4ven hon fick en liten etta i Orminge. Jag skrev in mig vid Stockholms universitet och fortsatte svenska studier, min man jobbade medan min mamma passade vart barn. F\u00f6r att tr\u00e4na min svenska b\u00f6rjade jag jobba med Unga \u00d6rnar som hade barnverksamhet i Orminge p\u00e5 kv\u00e4llarna, vissa helger \u00e5kte vi p\u00e5 utflykter med barnen. Jag minns Hanna H\u00f6gberg, underbar person. Andra jag minns \u00e4r Lisbeth, Margareta, Siv. De tog emot mig med \u00f6ppna armar. Jag b\u00f6rjade ocks\u00e5 arbeta som vikarie p\u00e5 barnstugor i Orminge. N\u00e4r Arbetsmarknadsutbildningen, AMU annonserade 1974 om en kurs f\u00f6r arbetsl\u00f6sa akademiker till f\u00f6rskoll\u00e4rare i Norrk\u00f6ping s\u00e5 hoppade jag p\u00e5 det. Det var en avkortat, ett\u00e5rig kurs som gav diplom till f\u00f6rskoll\u00e4rare. Vi var en grupp p\u00e5 20 unga kvinnor (det fanns tv\u00e5 killar tror jag) som bodde tillsammans i ett par l\u00e4genheter och levde en h\u00e4rlig studentliv.Det var en rolig och l\u00e4rorik tid som blev f\u00f6r mig en ink\u00f6rsport till det \u201csvenska livet\u201d som jag l\u00e4ngtade s\u00e5 mycket efter. Och jag \u00e4lskade den svenska pedagogiken som f\u00f6ddes ur den ber\u00f6mda 1968- \u00e5rs Barnstugeutredningen som s\u00e5 sm\u00e5ningom utmynnade i F\u00f6rskolelagen. Det tr\u00e5kiga var att jag fick l\u00e4mna mitt lilla barn hemma i Stockholm i veckorna. Hon gick p\u00e5 dagis, Boo-paviljongen hette det.  \n\nDen f\u00f6rsta tiden i Sverige\nHur upplevde du den f\u00f6rsta tiden i Sverige? Vad t\u00e4nkte du om Sverige, den svenska samh\u00e4llet och kulturen? Hur var mottagandet? Vad t\u00e4nkte du om landet du kommit till, dess samh\u00e4lle och kultur?\n\n\nLivet i Sverige\n\nMitt vuxna liv b\u00f6rjade i Sverige. Att bli f\u00f6r\u00e4lder efter sex m\u00e5nader i det nya landet blev en omv\u00e4lvande upplevelse. Det k\u00e4ndes som en dr\u00f6m att ha eget hem, man och barn. Jag \u00e4lskade min roll som mamma. Livet i Orminge med n\u00e4rheten till naturen som jag aldrig upplevde tidigare k\u00e4ndes som en saga. Jag ville ge min dotter det som jag sj\u00e4lv aldrig fick: en julgran, firandet av f\u00f6delsedagar och att k\u00e4nna tillh\u00f6righet till sitt land. Jag ville bli svensk och att mitt barn skulle k\u00e4nna sig svenskt. Jag och min man l\u00e4rde k\u00e4nna m\u00e5nga m\u00e4nniskor, svenskar och polacker av judisk h\u00e4rkomst. De gav oss sitt st\u00f6d och goda r\u00e5d om det svenska samh\u00e4llet. De blev v\u00e5ra k\u00e4ra v\u00e4nner. Till exempel herr Berkovitz som ofta l\u00e5nade oss pengar, k\u00e4nd bland svenska \u00f6verlevande fr\u00e5n f\u00f6rintelsen som kom med R\u00f6da bussar, David Schwartz och hans fru Sylvie, ocks\u00e5 han \u00f6verlevare fr\u00e5n F\u00f6rintelsen, sociolog och redakt\u00f6r f\u00f6r tidskriften Invandrare och Minoriteter (han hj\u00e4lpte mig skriva ans\u00f6kningar om jobb), de tidigare n\u00e4mnda Fela och \u00c5ke Larsson hos vilka vi fick bo under tv\u00e5 veckor d\u00e5 vi var heml\u00f6sa, makarna Luxemburg samt alla polsk-judiska Ormingeborna. Min man var k\u00e4nd och omtyckt av dem sistn\u00e4mnda eftersom han p\u00e5 sin fritid lagade deras trasiga, gamla elektronik apparater, oftast gratis eller f\u00f6r en symbolisk summa. Vilket jag irriterade mig p\u00e5 d\u00e5 allt det dammiga skruttet l\u00e5g l\u00e4nge utspritt p\u00e5 vardagsrumsbordet. \n\nTankar om framtiden\nMin storebror fortsatte att ut\u00f6va inflytande p\u00e5 mig fr\u00e5n USA. I sitt nya land hade han kommit i kontakt med den judiska milj\u00f6n. Varje \u00e5r kom han och h\u00e4lsade p\u00e5 mig i Stockholm. Han hade \u00e4ven m\u00e5nga kompisar h\u00e4r i Sverige. Det \u00e4r klart, det \u00e4r lite annorlunda i New York, d\u00e4r kan man vara judisk p\u00e5 lite olika vis, inte alltid religi\u00f6st, men \u00e4nd\u00e5 med judiska traditioner. Han tyckte att jag skulle ge mina barn en judisk identitet. Sj\u00e4lv hade han inga barn. Jag ignorerade hans uppmaningar och \u201cgoda r\u00e5d\u201d eftersom det k\u00e4ndes inte s\u00e5 viktigt f\u00f6r mig. Men 1979 skedde traumatiska h\u00e4ndelser som l\u00e4mnade djupa sp\u00e5r. P\u00e5 v\u00e5ren, under tragiska omst\u00e4ndigheter, dog min mamma efter en tids djup depression, sedan samma \u00e5r p\u00e5 h\u00f6sten avled hastigt min bror i en hj\u00e4rtinfarkt p\u00e5 flygplatsen i Detroit endast 39 \u00e5r gammal. Jag \u00e5kte till hans begravning. De h\u00e4r upplevelserna l\u00e4mnade mig med \u00e5ngest. Den kris som jag genomlevde d\u00e5 ledde till att jag besl\u00f6t mig f\u00f6r att skicka min dotter till Hillelskolan. Jag vet inte hur jag fick k\u00e4nnedom om skolan, men 1980 b\u00f6rjade min dotter p\u00e5 Hillel. Det var en ganska stor uppoffring, b\u00e5de ekonomiskt och det faktum att skolan l\u00e5g inne i stan och jag ville inte skicka en tio\u00e5ring ensam till stan, utan en v\u00e4n, en \u00e4ldre dam i Polen, fick bes\u00f6ka oss och bo med oss under en tid. Varje dag under kanske flera m\u00e5nader \u00e5kte hon med Paulina till skolan. Sj\u00e4lv hade jag inte tid att \u00e5ka in och ut till stan varje dag, eftersom jag jobbade. \nJag hoppades att jag skulle f\u00e5 lite gemenskap med de andra judiska mammorna, men jag upplevde mig avvisad av dem, p\u00e5 ett ganska bryskt s\u00e4tt. Det k\u00e4ndes som att de s\u00e5g ner p\u00e5 mig p\u00e5 n\u00e5got s\u00e4tt. Samtidigt tyckte jag att det var sp\u00e4nnande med alla historier som min dotter kom hem med. De religi\u00f6sa inslagen \u00f6vertygade inte mig och k\u00e4ndes fr\u00e4mmande men jag t\u00e4nkte att det vore bra om vi kunde l\u00e4ra oss de judiska traditionerna. N\u00e5gonstans f\u00f6rstod jag att min dotter uppfattade liknande signaler som jag men att det p\u00e5 det stora hela var en helt okej skolg\u00e5ng och jag visste att hon hade bra v\u00e4nner som ofta bodde \u00f6ver hos oss och hon hos dem. Hur som helst, det blev aldrig aktuellt att n\u00e5gon av mina yngre d\u00f6ttrar skulle g\u00e5 d\u00e4r senare. De gick i vanliga skolor i Orminge. Min nyfikenhet p\u00e5 det judiska var m\u00e4ttat i det avseendet. \n\nUnder mina 17 \u00e5r som f\u00f6rskoll\u00e4rare och som Ormingebo fick jag och min familj m\u00e5nga svenska v\u00e4nner bland grannar och arbetskamrater. F\u00f6r dem var vi en polsk familj och vi fick ofta svara p\u00e5 deras nyfikna fr\u00e5gor om Polen. Sj\u00e4lv k\u00e4nde jag mig som polska med judiskt p\u00e5br\u00e5 och lagade g\u00e4rna mammas matr\u00e4tter hemifr\u00e5n: oxtunga, gefilte fish, sernik (ostkaka) eller r\u00f6dbetssoppa med piroger. Samtidigt till\u00e4gnade jag mig matlagning av svenska r\u00e4tter, till exempel gravad lax, kanelbullar och k\u00f6ttbullar.\n\nJag och min familj nj\u00f6t av den svenska naturen som fanns s\u00e5 n\u00e4ra inp\u00e5 knuten, och vi blev nyfikna p\u00e5 att l\u00e4ra k\u00e4nna andra delar av Sverige. Vi reste p\u00e5 semester till Gotland, \u00d6land, V\u00e4rmland och J\u00e4mtland. 1982 k\u00f6pte vi en liten stuga med tomt p\u00e5 700 kvm bel\u00e4gen i en stugby p\u00e5 Ingar\u00f6. Den s\u00e5lde vi efter 18 \u00e5r n\u00e4r min man blev sjuk i cancer. P\u00e5 Ingar\u00f6 l\u00e4rde vi k\u00e4nna fler svenskar som vi blev v\u00e4nner med, bl a Bengt Hallberg och Gunilla Wettergren, inbitna socialdemokrater med betydande positioner i det svenska samh\u00e4llet.V\u00e5ra j\u00e4mn\u00e5riga d\u00f6ttrar blev sommarv\u00e4nner, jag och Gunilla plockade svamp tillsammans.\nEfter 17 \u00e5r som f\u00f6rskoll\u00e4rare b\u00f6rjade jag studera p\u00e5 nytt, p\u00e5 Socialh\u00f6gskolan. Jag blev f\u00e4rdig socionom 1990 och fick arbete p\u00e5 socialkontoret inom enheten Barn-och Familjeomsorgen. D\u00e4r stannade jag i 10 \u00e5r. D\u00e4refter arbetade jag som kurator i 10 \u00e5r inom Habiliteringen i Stockholm.\n\nMin identitet\n\nRiktig svensk blev jag inte. Det blir jag aldrig i andras \u00f6gon. P\u00e5 arbetsplatsen var jag alltid \u201cpolskan\u201d. Jag p\u00e5mindes och p\u00e5minns fortfarande dagligen om mitt invandrarursprung genom st\u00e4ndiga fr\u00e5gor om hur, n\u00e4r och varf\u00f6r jag kom till Sverige och om jag trivs h\u00e4r. Jag talar bra svenska men min brytning avsl\u00f6jar mig s\u00e5 fort jag \u00f6ppnar munnen. Fr\u00e5gorna \u00e4r kanske inte illa menade men de placerar mig omedelbart utanf\u00f6r, skapar \u201cvi och de\u201d l\u00e4ge. S\u00e5 f\u00f6rblir jag den eviga invandraren. Att jag \u00e4r judinna ber\u00e4ttar jag bara ibland, beroende p\u00e5 omst\u00e4ndigheterna. I det avseende k\u00e4nns det likartat som i Polen - man ligger l\u00e5gt med sin judiskhet, en regel som, enligt mig \u00e4ven de flesta svenska judar till\u00e4mpar. Antisemitisk attityd fr\u00e5n en svensk m\u00f6tte jag en g\u00e5ng p\u00e5 min arbetsplats. Det var en kollega, P\u00e4r, som kommenterade det faktum att min dotter gick i Hillelskolan: \"Judar f\u00f6rf\u00f6ljer palestinier, de \u00e4r sionister och bryr sig bara om Israel!\" En annan g\u00e5ng deklarerade min polsk-svenska v\u00e4ninna Johanna att judarna b\u00e4r sj\u00e4lva skulden f\u00f6r att m\u00e4nniskor ogillar dem, detta p\u00e5 grund av att de isolerar sig fr\u00e5n \u00f6vriga samh\u00e4lle. Hon blev inte \u00f6vertygad n\u00e4r jag r\u00e4knade upp en l\u00e5ng rad framst\u00e5ende polsk-judiska politiker, f\u00f6rfattare, musiker, vetenskapsm\u00e4n, filmare, filosofer och hj\u00e4ltar som stred f\u00f6r Polen. Det var en urgammal antisemitisk klyscha som \u00e4ndrar skepnad vid behov:  antingen \u00e4r du f\u00f6r mycket judisk och fr\u00e4mmande - eller -  f\u00f6r mycket assimilerad, d\u00e5 \u00e4r du ulv i f\u00e5rakl\u00e4der, du l\u00e5tsas att du \u00e4r som majoriteten av samh\u00e4llet, infiltrerar det, men blir snart avsl\u00f6jad som en utb\u00f6ling. Indirekt antisemitism m\u00f6tte jag inom svenska medier d\u00e4r vissa k\u00e4nda v\u00e4nsterorienterade kulturprofiler skrev om \"sionister\" och gjorde svenska judar ansvariga f\u00f6r Israels politik gentemot palestinier. P\u00e5 90-talet har jag sett min mans namn p\u00e5 den k\u00e4nde antisemiten, Ahmed Ramis, \"judelista\".\n\nDe antisemitiska r\u00f6sterna har, tyv\u00e4rr, inte tystnad. H\u00f6ger-och- v\u00e4nsterextremister samt islamister har de sista 15 \u00e5ren blivit alltmer h\u00f6gljudda och hotfulla. Media rapporterar dagligen om deras aktiviteter. Det urgamla judehatet \u00e4r h\u00f6gst n\u00e4rvarande i v\u00e5rt samh\u00e4lle.\nSj\u00e4lv betraktar jag mig som b\u00e5de polsk, svensk och judisk. Jag \u00e4lskar det polska spr\u00e5ket, litteratur, teater och det vackra landet. Jag l\u00e4ngtar till Polen och \u00e5ker dit n\u00e4stan varje \u00e5r d\u00e4r jag tr\u00e4ffar mina polska v\u00e4nner, g\u00e5r p\u00e5 konserter, bio och teaterf\u00f6rest\u00e4llningar. Jag \u00e4lskar Sverige lika mycket och l\u00e4ser svenska b\u00f6cker och konsumerar svensk kultur, jag \u00e4r en typisk kulturtant. Jag \u00e4r stolt \u00f6ver min judiska arv som jag fick efter mina f\u00f6r\u00e4ldrar. Det \u00e4r de som introducerade mig i judisk litteratur och judisk kultur (Spelman p\u00e5 taket s\u00e5g jag f\u00f6rst p\u00e5 judiska teatern i Warszawa). Jag \u00e5ker g\u00e4rna till Israel, men gillar inte Likuds ockupationspolitik. Jag \u00e4r sekul\u00e4r, r\u00f6star p\u00e5 sossar och anser att Sverige borde bli republik.\nVad g\u00e4ller mina d\u00f6ttrar Paulina, Irene och Veronica s\u00e5 \u00e4r jag \u00e4nd\u00e5 glad att de, tack vare att de f\u00f6ddes i Sverige, \u00e4r och k\u00e4nner sig riktiga svenskar. De har alla tre icke-judiska makar och partners men de \u00e4r v\u00e4l medvetna om sitt ursprung. Hur mycket judiska de vill vara l\u00e4mnar jag helt och h\u00e5llet \u00e5t dem sj\u00e4lva att best\u00e4mma.", 
+          "modified": "Thu, 09 Sep 2021 09:53:08 GMT", 
+          "topic_item": {
+            "label": "Din levnadsber\u00e4ttelse", 
+            "label_i18n": {
+              "sv": "Din levnadsber\u00e4ttelse"
+            }, 
+            "type": "Textarea", 
+            "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "82d391f0-177a-4dae-9844-5f179670a43a"
+        }, 
+        {
+          "created": "Thu, 09 Sep 2021 09:32:27 GMT", 
+          "display_value": "Warszawa, Orminge (Saltsj\u00f6-Boo)", 
+          "modified": "Thu, 09 Sep 2021 09:32:27 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "b24b4780-274c-49ec-af7f-24b95c30e49b"
+        }, 
+        {
+          "created": "Thu, 09 Sep 2021 09:32:27 GMT", 
+          "display_value": "November 1969", 
+          "modified": "Thu, 09 Sep 2021 09:32:27 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "8f9bd9b7-b274-44d3-9b25-9b2ee93ac21c"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00004", 
+      "comment_count": 0, 
+      "contributor": {
+        "birth_year": 1948, 
+        "display_name": "Jurek Gold", 
+        "gender": "man", 
+        "place": "Stockholm", 
+        "uuid": "484eee3d-509e-47c1-b630-f635a233f311"
+      }, 
+      "coordinates": "", 
+      "created": "Wed, 06 Oct 2021 10:09:46 GMT", 
+      "hits": 60, 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Wed, 06 Oct 2021 10:06:30 GMT", 
+          "description": "Jurek Gold levnadsber\u00e4ttelse", 
+          "dms_id": "013AitcTX9ja", 
+          "license": "CC BY-NC", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Wed, 06 Oct 2021 10:06:30 GMT", 
+          "name": "Levnadsber\u00e4ttelse Jurek Gold.docx", 
+          "order_by_number": 1, 
+          "owner": "Jurek Gold", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "20744cd9-cd14-4cb2-a955-55223f733e6f"
+        }
+      ], 
+      "modified": "Wed, 06 Oct 2021 10:13:48 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17303", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "title": "", 
+      "title_i18n": {
+        "sv": ""
+      }, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6321, 
+      "uuid": "fc23dc65-d33f-4725-bc34-ced5044970fd", 
+      "values": [
+        {
+          "created": "Wed, 06 Oct 2021 10:09:46 GMT", 
+          "display_value": "1. Information \nNamn: Jerzy (Jurek) Gold\nF\u00f6delse\u00e5r: 1948\nK\u00f6n: Man\nNuvarande Bostadsort: Stockholm\nTidigare bostadsorter: Katowice, Polen\nAnkomstdatum till Sverige: 1969-09-17\n\n2. Din levnadsber\u00e4ttelse\nLivet f\u00f6re den antisemitiska kampanjen och emigrationen\nMina 20 \u00e5r i Polen, min barndom och ungdoms\u00e5ren minns jag som en lycklig tid. Min far var civilingenj\u00f6r och arbetade inom gruvindustrin, mamma hade ocks\u00e5 universitetsutbildning och arbetade en tid p\u00e5 Polska Radio som spr\u00e5kvetare.\nJag var alltid medveten om min judiska identitet utan att det p\u00e5verkade mig n\u00e4mnv\u00e4rt. V\u00e5ra seder hemma var polska, spr\u00e5ket ocks\u00e5 (mamma s\u00e5g till att vi pratade bra polska). Dock hade f\u00f6r\u00e4ldrarna vissa uttryck som jag s\u00e5 sm\u00e5ningom identifierade som jiddisch.\nF\u00f6r\u00e4ldrarnas umg\u00e4ngeskrets var blandat, dels fanns rena polska grupper, mest pappas arbetskollegor eller deras fruar som mamma umgicks med, dels judiska v\u00e4nner. Dessa grupper kunde ibland blandas, vid st\u00f6rre fester.\nI min skolklass fanns en del judar, vi umgicks dock i olika grupper utan att t\u00e4nka p\u00e5 det.\nVid ett enda tillf\u00e4lle har jag blivit kallad av en klasskompis i grundskolan \u201ddin jude!\u201d. Anledningen var att han var avundsjuk f\u00f6r att jag var p\u00e5 v\u00e4g hem och han var tvungen att stanna kvar p\u00e5 en icke skolpliktig religionslektion. Det blev br\u00e5k, efter n\u00e5gra dagar fick han be mig om urs\u00e4kt utan att n\u00e5gon av oss tv\u00e5 f\u00f6rstod vikten och signifikansen av h\u00e4ndelsen, d\u00e5 \u00e5tminstone.\nReligionen har inte spelat n\u00e5gon roll, varken under min uppv\u00e4xttid eller senare. Vi blev uppfostrade hemma som ateister och s\u00e5dan \u00e4r jag \u00e4n idag. Om jag g\u00e5r till synagogan idag, p\u00e5 Yom Kipur eller av en annan anledning, g\u00f6r jag det endast f\u00f6r traditionens skull.\nDen antisemitiska kampanjen och emigrationen\nUnder sexdagarskriget i juni 1967 var jag p\u00e5 ett milit\u00e4rl\u00e4ger som en del i min milit\u00e4rutbildning under universitetstiden. Vid ett tillf\u00e4lle fick vi lyssna p\u00e5 en officiell f\u00f6rklaring om vem som \u00e4r \u201dgood guy\u201d och vem som \u00e4r \u201dbad guy\u201d i det kriget. N\u00e4r de beskrev, att det var judar som orsakade och startade kriget, k\u00e4nde jag mig lite illa till mods, men mer var det inte d\u00e5.\nEfter mars 1968 blev min pappa flyttat fr\u00e5n sin position p\u00e5 f\u00f6retaget han arbetade d\u00e5 p\u00e5 och blev placerad \u201di \u00e4ndan av korridoren\u201d.\nMina f\u00f6r\u00e4ldrar som \u00f6verlevde kriget i Sovjetunionen kom tillbaka till Polen med f\u00f6rhoppning att det skall g\u00e5 att leva p\u00e5 ett anst\u00e4ndigt s\u00e4tt i det nya systemet (utan att f\u00f6r den skull blivit kommunister). Troligen d\u00e4rf\u00f6r stannade de i Polen b\u00e5de efter 1948 och 1956, d\u00e5 st\u00f6rre delen av polska judar emigrerade.\nDet som h\u00e4nde i mars 1968 och sedan med pappas jobb, gjorde att de b\u00f6rjade t\u00e4nka om, framf\u00f6rallt upplevde de att barnen inte hade n\u00e5gon framtid i Polen.\nUnder sommaren och h\u00f6sten 1968 mognade deras tankar och de, med acceptans fr\u00e5n min syster och mig, b\u00f6rjade unders\u00f6ka m\u00f6jligheter f\u00f6r oss, barn att emigrera. Senare \u00e5terstod endast ett antal praktiska beslut:\n-\tVart ska man \u00e5ka (vilket land kan t\u00e4nka sig att ta emot oss)?\n-\tHur ska man fixa alla formalia utan att myndigheterna kallar mig till lumpen (tv\u00e5 \u00e5r)\n-\tSka jag forts\u00e4tta mina studier, eller \u00e4r det on\u00f6digt?\n-\tSka min syster avsluta sina studier och betala sedan en stor summa pengar vid utresan (45 000 zloty)?\nJag kommer ih\u00e5g att alla dessa praktiska problem k\u00e4ndes mera som ett \u00e4ventyr, samtidigt vet jag, att vid den tiden drack jag ofta mycket och blev full, n\u00e4r tillf\u00e4llen fanns, detta f\u00f6rmodligen f\u00f6r att jag k\u00e4nde frustrationen och ledsnaden \u00f6ver beslutet att emigrera\nJag brukade \u00e5ka skidor i Tatra bergen och segla i de Masuriska sj\u00f6arna. Varje g\u00e5ng jag fick f\u00f6r sista g\u00e5ngen l\u00e4mna dessa platser, k\u00e4ndes det mycket sv\u00e5rt, jag upplevde d\u00e5 att man tar ifr\u00e5n mig de mest \u00e4lskade st\u00e4llen.\nVi hade en grupp polska v\u00e4nner som gjorde mycket f\u00f6r att st\u00f6dja oss och f\u00f6rs\u00f6ka h\u00e5lla oss p\u00e5 gott hum\u00f6r. De brukade komma till oss tv\u00e5, tre g\u00e5nger per vecka, sitta, dricka och prata, visa oss den ljusa framtid som f\u00f6rhoppningsvis v\u00e4ntar oss i Sverige, och framf\u00f6rallt brist p\u00e5 den om vi skulle stanna kvar. Jag \u00e4r tacksam till de \u00e4n idag.\nVad g\u00e4ller den antisemitiska kampanjen, s\u00e5 upplevde jag den som absurd, men \u00e5 andra sidan fanns det \u00f6verhuvudtaget inget f\u00f6rtroende f\u00f6r myndigheterna, s\u00e5 varken de eller deras andra p\u00e5hitt k\u00e4ndes realistiska. \nDet \u00e4r f\u00f6rst betydlig senare, i Sverige, n\u00e4r jag mognade, som jag b\u00f6rjade f\u00f6rst\u00e5 vad var det som verkligen h\u00e4nde d\u00e5, att vi, polska medborgare, f\u00f6dda i Polen, blev helt enkelt utkastade d\u00e4rifr\u00e5n.\nS\u00e5 sm\u00e5ningom, i september 1969, ett \u00e5r efter beslutet, kunde min syster och jag s\u00e4tta oss p\u00e5 t\u00e5get fr\u00e5n Warszawa till Stockholm.\nInnan dess, n\u00e4r det mesta var ordnat f\u00f6r v\u00e5r resa, kommer jag ih\u00e5g att vi satt en g\u00e5ng tillsammans vid middagen och jag st\u00e4llde fr\u00e5gan: Och ni, vad ska ni g\u00f6ra?\nPl\u00f6tsligt ser jag, att mina f\u00f6r\u00e4ldrar verkar vara st\u00e4llda. Det h\u00e4r \u00e4r fr\u00e5gan som de aldrig sj\u00e4lva st\u00e4llde under hela \u00e5ret d\u00e5 barnens utresa stod i centrum. Mamma b\u00f6rjade stamma: vi, hm, vi b\u00f6r v\u00e4l b\u00f6rja packa och komma efter er, eller hur? Efter bekr\u00e4ftelsen fr\u00e5n pappa, blev det s\u00e5 best\u00e4md.\nDe kom till Sverige \u00e5tta m\u00e5nader senare.\nDen f\u00f6rsta tiden i Sverige\nDet f\u00f6rsta intrycket av Sverige fick jag p\u00e5 t\u00e5get mellan Malm\u00f6 och Stockholm, den 17 september 1969. Allt verkade lugnt och fridfullt, vi \u00e5kte genom skogar, d\u00e5 och d\u00e5 syntes r\u00f6da hus med vita knutar, de m\u00e4nniskor som vi s\u00e5g promenerade hellre \u00e4n sprang, det verkade vara en idyll.\nS\u00e5 sm\u00e5ningom kom vi till Stockholm, tr\u00e4ffade representanter f\u00f6r mosaiska f\u00f6rsamlingen p\u00e5 perrongen, fick 50 kronor var av de och skickades med taxi till ett hotell vid Odenplan, d\u00e4r vi stannade i tre dagar.\nEfter bes\u00f6ket p\u00e5 Arbetsf\u00f6rmedlingen fick vi t\u00e5gbiljetter till Lidk\u00f6ping, d\u00e4r vi stannade p\u00e5 en f\u00f6rl\u00e4ggning i n\u00e4stan fyra m\u00e5nader.\nH\u00e4r och d\u00e5 b\u00f6rjade det nya \u00e4ventyret: att l\u00e4ra k\u00e4nna det nya landet Sverige. Jag tror, att det \u00e4ventyret p\u00e5g\u00e5r fortfarande, trots att jag har levt h\u00e4r i mer \u00e4n 50 \u00e5r.\nJag upplevde mottagande i Sverige mycket positiv, m\u00e4nniskor b\u00e5de privat och i tj\u00e4nsten var \u00f6verv\u00e4gande v\u00e4nliga, \u00e4ven butiksbitr\u00e4den var det, till skillnad fr\u00e5n mitt gamla land.\nDet mesta var dock annorlunda, man fick v\u00e4nja sig vid hur folk fungerade och reagerade, \u00e4ven idag kan jag d\u00e5 och d\u00e5 fundera \u00f6ver vissa reaktioner av mina svenska v\u00e4nner eller bekanta.\nLivet i Sverige\n\u00c4n idag utg\u00f6r de polska judarna den st\u00f6rsta gemenskapskrets som jag ing\u00e5r i. Jag har ocks\u00e5 en grupp svenska v\u00e4nner, vi k\u00e4nner varandra i ca. 37 \u00e5r. Vi har jobbat p\u00e5 samma arbetsplats, n\u00e5gon g\u00e5ng 1983 har vi b\u00f6rjat tr\u00e4ffa och laga middagar tillsammans, nu efter all den tid, k\u00e4nns det som en grupp v\u00e4nner d\u00e4r matlagning \u00e4r bara en f\u00f6rev\u00e4ndning f\u00f6r att kunna tr\u00e4ffas.\nMitt f\u00f6rsta jobb i Sverige var att diska p\u00e5 en restaurang i Lidk\u00f6ping, samma restaurang som levererade mat till v\u00e5ran f\u00f6rl\u00e4ggning. S\u00e5 sm\u00e5ningom, i Stockholm, hade jag m\u00e5nga sommarjobb. Ofta som chauff\u00f6r, men \u00e4ven i hamnen eller p\u00e5 l\u00f6pande bandet p\u00e5 Pripps. P\u00e5 den tiden fanns det m\u00e5nga sommarjobb, det var bara att v\u00e4lja och vr\u00e4ka.\n Jag fortsatte min utbildning i Sverige, blev civilingenj\u00f6r och arbetade i m\u00e5nga \u00e5r f\u00f6rst p\u00e5 ASEA/ABB och sedan som konsult \u00e5t olika svenska ock utl\u00e4ndska bolag. Jag har gift mig (med en polsk judinna), har tv\u00e5 barn och fyra barnbarn.\nS\u00e5 sm\u00e5ningom skilde vi oss, min fru och jag, jag har en ny partner \u2013 ocks\u00e5 en polsk judinna.\nB\u00e5da mina barn har gift sig med svenskor/svenskar, mina barnbarn k\u00e4nner sig b\u00e5de svenska och judiska.\nTrots det v\u00e4nliga mottagande i Sverige k\u00e4nde jag alltid att jag var annorlunda \u00e4n svenskar. Vi var svartskallar, vi pratade inte perfekt svenska, v\u00e5ra gester och beteende var annorlunda \u00e4n majoritetens. Idag, drygt 50 \u00e5r efter att vi kom hit, och med stora invandrargrupper fr\u00e5n betydligt mera exotiska platser, har vi \u201davancerat\u201d i invandrarhierarkin och blivit betydligt b\u00e4ttre accepterade i samh\u00e4llet. \nMina svenska erfarenheter av antisemitismen \u00e4r mest indirekta, jag l\u00e4ser och ser p\u00e5 TV om det som h\u00e4nder i Malm\u00f6 eller n\u00e5gon annanstans. Men \u00e4ven direkt \u2013 om jag skall komma till synagogan p\u00e5 Yom Kipur eller h\u00e4mta barnbarnen p\u00e5 Bajit m\u00e5ste jag passera otaliga kontroller och d\u00e5 kommer f\u00f6rst\u00e5s tanken varf\u00f6r? Varf\u00f6r kan det inta vara enkelt och problemfritt att vara jude i Sverige?\nMitt f\u00f6rh\u00e5llningss\u00e4tt till Polen\u2026\nJag har l\u00e4mnat i Polen tv\u00e5 grupper av v\u00e4nner, dels de jag gick i gymnasiet med och dels en grupp v\u00e4nner fr\u00e5n universitetet, mest de vi brukade vandra i fj\u00e4llen tillsammans med. Jag hade bara sporadisk kontakt med de under de f\u00f6rsta 20 \u2013 30 \u00e5ren i Sverige, men sedan, n\u00e4r de b\u00f6rjade organisera klass- eller gruppm\u00f6ten, brukade jag komma till Polen, f\u00f6r att tr\u00e4ffa alla gamla v\u00e4nner. Med en del av de har kontakterna blivit s\u00e5 pass n\u00e4ra att vi bes\u00f6ker varandra i polska bergen eller i Stockholm. Dock varar mina resor till Polen s\u00e4llan l\u00e4ngre \u00e4n en vecka, ofta \u00e4r det bara ett f\u00f6rl\u00e4ngt veckoslut.\nN\u00e4r jag under mina t\u00e5gresor i Polen ser en ritning p\u00e5 muren av en Davidsstj\u00e4rna h\u00e4ngande i en galge, d\u00e5 vet jag, att det \u00e4r inte \u00e4r ett land f\u00f6r mig, helt oberoende av hur trevligt jag hade tillbringat tid med mina v\u00e4nner.\nSamtidigt \u00e4r mitt f\u00f6rsta spr\u00e5k polska, min kultur kommer ocks\u00e5 d\u00e4rifr\u00e5n \u2013 jag brukar s\u00e4ga att min Nalle Puh pratar polska. Jag l\u00e4ser g\u00e4rna bra polsk litteratur, Olga Tokarczuk var min favorit under de senaste 20 \u00e5ren.\nJag \u00e4r sedan ca. 40 \u00e5r tillbaka medlem i den judiska f\u00f6rsamlingen i Stockholm, mest f\u00f6r att bekr\u00e4fta min judiska identitet f\u00f6r mig sj\u00e4lv. Mitt medlemskap \u00e4r mycket passiv. Jag l\u00e4se dock g\u00e4rna Judisk kr\u00f6nika \u2013 jag tycker att det \u00e4r en mycket bra tidskrift.\nN\u00e4r barnen var sm\u00e5 bodde vi i en f\u00f6rort, det fanns d\u00e5 ingen praktisk m\u00f6jlighet att skicka barn till den judiska skolan i centrala Stockholm.\nJag har dock skickat barnen varje sommar till det judiska kollot i Gl\u00e4msta p\u00e5 V\u00e4dd\u00f6, de har f\u00e5tt m\u00e5nga v\u00e4nner d\u00e4r.\nUnder andra tider \u00e4n i \u00e5r med corona, brukar jag bjuda b\u00e5da barnfamiljer f\u00f6r att fira tillsammans Rosh Hashana, Hanukkah eller Pesach. Jag f\u00f6rs\u00f6ker d\u00e5 laga traditionsenlig mat men det religi\u00f6sa inslaget brukar begr\u00e4nsa sig till en enkel b\u00f6n.\nEn banal h\u00e4ndelse ca 8 \u2013 10 \u00e5r efter att ha kommit till Sverige, har triggat mina tankar om min identitet.\nEn h\u00f6stkv\u00e4ll v\u00e4ntade jag p\u00e5 bussen vid en h\u00e5llplats i stan. Vid h\u00e5llplatsen stod en \u00e4ldre dam, jag sa \u201dhej\u201d till henne. Hon tittade p\u00e5 mig och fr\u00e5gade sedan varifr\u00e5n jag kommer.\nEfter\u00e5t gick jag och funderade: om jag under \u00e5tta \u00e5r i Sverige inte har klarat att l\u00e4ra mig att uttala korrekt ett enkelt \u201dhej\u201d, d\u00e5 har jag ingen chans att l\u00e4ra mig spr\u00e5ket korrekt och bli \u201dsvensk\u201d.\nOk, t\u00e4nkte jag, jag \u00e4r inte l\u00e4ngre polack (det kunde jag l\u00e4sa om i min polska resedokumentet), jag kommer aldrig att bli svensk, s\u00e5 vem \u00e4r jag? V\u00e4rldsmedborgare? Nej, det l\u00e5ter alltf\u00f6r flummigt. Vad \u00e5terst\u00e5r? Ok, jude med r\u00f6tter fr\u00e5n Polen som lever i Sverige. Och s\u00e5 definierar jag mig sen dess.\nHur ser mitt liv ut idag? Bra, anser jag, om vi bortser fr\u00e5n corona. Jag \u00e4r pensionerad, lever i ett s\u00e4rbof\u00f6rh\u00e5llande. Vi har en stor v\u00e4nkrets, m\u00e5nga m\u00f6ten, teater- och konsertbes\u00f6k, vandringar i bergen p\u00e5 somrarna, skid\u00e5kning p\u00e5 vintrarna. Min s\u00e4rbo brukar vara mera bekymrad \u00f6ver alla tecken p\u00e5 v\u00e4xande antisemitism, vi brukar diskutera det livligt, kommer s\u00e4llan fram till en gemensam st\u00e5ndpunkt men forts\u00e4tter att diskutera \u00e4nd\u00e5.\nTankar om framtiden\nMina barn \u00e4r i mycket stor grad medvetna om v\u00e5rt f\u00f6rflutna i Polen, i mitt tycke fr\u00e5gar de kanske f\u00f6r lite om detaljer ur v\u00e5ra liv i Polen men jag f\u00f6rst\u00e5r de, delvis \u00e5tminstone. De \u00e4r upptagna av sina liv, arbete, barn, familj, de har inte tid att t\u00e4nka p\u00e5 det. Hoppas att jag blir n\u00e4rvarande, b\u00e5de kroppsligt och intellektuellt n\u00e4r de mognar till att vilja fr\u00e5ga mig.\nF\u00f6r mina barnbarn blir nog mitt f\u00f6rflutna snarare ett kuriosum, jag hoppas dock att de beh\u00e5ller sin judiska identitet livet ut och f\u00f6rmedlar den vidare till n\u00e4sta generationer.", 
+          "modified": "Wed, 06 Oct 2021 10:09:46 GMT", 
+          "topic_item": {
+            "label": "Din levnadsber\u00e4ttelse", 
+            "label_i18n": {
+              "sv": "Din levnadsber\u00e4ttelse"
+            }, 
+            "type": "Textarea", 
+            "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "cc2cd8fa-9239-4ce3-90bf-9e93c264d3ac"
+        }, 
+        {
+          "created": "Wed, 06 Oct 2021 10:09:46 GMT", 
+          "display_value": "1969-09-17", 
+          "modified": "Wed, 06 Oct 2021 10:09:46 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "d52ef6e5-2047-4393-b7c7-74d1cdabce09"
+        }, 
+        {
+          "created": "Wed, 06 Oct 2021 10:09:46 GMT", 
+          "display_value": "Katowice, Polen", 
+          "modified": "Wed, 06 Oct 2021 10:09:46 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "f2f5baac-b94b-4427-ba7c-daa3c5ae1218"
+        }
+      ]
+    }, 
+    {
+      "archive_code": "M5/00002", 
+      "comment_count": 0, 
+      "contributor": {
+        "display_name": "Leona Leah Rapoport"
+      }, 
+      "created": "Sun, 19 Sep 2021 13:35:29 GMT", 
+      "hits": 151, 
+      "imported": false, 
+      "license": "CC BY", 
+      "likes": 0, 
+      "media": [
+        {
+          "created": "Sun, 19 Sep 2021 13:29:10 GMT", 
+          "dms_id": "013AiPPdPXVq", 
+          "license": "CC0", 
+          "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+          "modified": "Sun, 19 Sep 2021 13:29:10 GMT", 
+          "name": "Levnadsber\u00e4ttelse reviderad.docx", 
+          "order_by_number": 1, 
+          "owner": "Leona Leah Rapoport", 
+          "topic_item": {
+            "label": "Ladda upp filer", 
+            "label_i18n": {
+              "sv": "Ladda upp filer"
+            }, 
+            "type": "Media", 
+            "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          }, 
+          "type": "document", 
+          "uuid": "b00c147a-a262-448e-bb42-decebd62b3da"
+        }
+      ], 
+      "modified": "Sun, 19 Sep 2021 13:35:29 GMT", 
+      "open_for_student_edit": false, 
+      "presentation_url": "https://minnen.se/tema/vi/17276", 
+      "published": true, 
+      "ready_for_approval": false, 
+      "submitted": false, 
+      "topic": {
+        "name": "Vi, de f\u00f6rdrivna", 
+        "name_i18n": {
+          "sv": "Vi, de f\u00f6rdrivna"
+        }, 
+        "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      }, 
+      "user_id": 6319, 
+      "uuid": "32d4c7d8-1bfe-478f-844b-29d5783f0682", 
+      "values": [
+        {
+          "created": "Sun, 19 Sep 2021 13:35:29 GMT", 
+          "display_value": "1970-07-22", 
+          "modified": "Sun, 19 Sep 2021 13:35:29 GMT", 
+          "topic_item": {
+            "label": "Ankomstdatum till Sverige:", 
+            "label_i18n": {
+              "sv": "Ankomstdatum till Sverige:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "2b7744d1-1973-4242-ac24-5206a1bff144"
+        }, 
+        {
+          "created": "Sun, 19 Sep 2021 13:35:29 GMT", 
+          "display_value": "G\u00f6teborg, T\u00e4by", 
+          "modified": "Sun, 19 Sep 2021 13:35:29 GMT", 
+          "topic_item": {
+            "label": "Tidigare bostadsorter:", 
+            "label_i18n": {
+              "sv": "Tidigare bostadsorter:"
+            }, 
+            "type": "Textarea", 
+            "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          }, 
+          "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6", 
+          "uuid": "edb9a975-3641-4244-b6a4-406b08f7624b"
+        }
+      ]
+    }
+  ], 
+  "limit": 10, 
+  "offset": 0, 
+  "total_count": 10
+}
