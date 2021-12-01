@@ -28,7 +28,7 @@ var json = await readJSON(filename);
 
 var base_count = json["count"];
 var totalCount = json["total_count"];
-var base_url = 'http://api.minnen.se/api/responses?topic=393bb4f9-8f9a-4700-aea9-b1faab41545a';
+var base_url = 'http://api.minnen.se/api/responses?topic=0f976fb0-b14b-4ef8-8bf9-84f3f07e1736';
 var offset = 0;
 var count = base_count;
 
