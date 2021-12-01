@@ -5,7 +5,6 @@
       "display_name": "Jane Wikström"
     },
     "created": "Sun, 17 Oct 2021 16:08:18 GMT",
-    "hits": 234,
     "image_dms_id": "013AitqX7q2k",
     "license": "CC BY",
     "media": [
@@ -97,7 +96,6 @@
     },
     "coordinates": "",
     "created": "Thu, 09 Sep 2021 16:54:33 GMT",
-    "hits": 201,
     "image_dms_id": "0138ZQA6ziSo",
     "license": "CC BY",
     "media": [
@@ -238,7 +236,6 @@
       "display_name": "Inga-Britt Ahlenius"
     },
     "created": "Sun, 12 Sep 2021 19:09:39 GMT",
-    "hits": 188,
     "license": "CC BY",
     "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17270",
@@ -281,7 +278,6 @@
     },
     "coordinates": "",
     "created": "Wed, 15 Sep 2021 07:39:45 GMT",
-    "hits": 180,
     "image_dms_id": "013AhtPopuKU",
     "license": "CC BY",
     "media": [
@@ -302,7 +298,8 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "audio",
-        "uuid": "42a742f6-9121-49ad-a3d9-dc29ce668bd3"
+        "uuid": "42a742f6-9121-49ad-a3d9-dc29ce668bd3",
+        "owner": "Okänd"
       },
       {
         "created": "Wed, 15 Sep 2021 07:39:12 GMT",
@@ -345,7 +342,8 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "audio",
-        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd"
+        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd",
+        "owner": "Okänd"
       }
     ],
     "modified": "Wed, 15 Sep 2021 07:40:28 GMT",
@@ -393,7 +391,6 @@
     },
     "coordinates": "",
     "created": "Wed, 15 Sep 2021 07:16:33 GMT",
-    "hits": 166,
     "image_dms_id": "0138ZQioCDxS",
     "license": "CC BY",
     "media": [
@@ -414,7 +411,8 @@
           "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
         "type": "audio",
-        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd"
+        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd",
+        "owner": "Okänd"
       },
       {
         "created": "Wed, 15 Sep 2021 07:19:21 GMT",
@@ -481,7 +479,6 @@
       "display_name": "carinjelbring@hotmail.com"
     },
     "created": "Sun, 26 Sep 2021 12:54:49 GMT",
-    "hits": 165,
     "license": "CC BY",
     "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17282",
@@ -519,7 +516,6 @@
       "display_name": "Anne Winterhagen"
     },
     "created": "Wed, 06 Oct 2021 18:55:06 GMT",
-    "hits": 162,
     "image_dms_id": "013AitcTX9xp",
     "license": "CC BY",
     "media": [
@@ -611,7 +607,6 @@
     },
     "coordinates": "",
     "created": "Fri, 22 Oct 2021 10:06:26 GMT",
-    "hits": 155,
     "image_dms_id": "013Aiu4UmDet",
     "license": "CC BY",
     "media": [
@@ -676,7 +671,6 @@
       "display_name": "Vivi-Ann"
     },
     "created": "Wed, 29 Sep 2021 15:13:09 GMT",
-    "hits": 153,
     "license": "CC BY",
     "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17285",
@@ -716,7 +710,6 @@
       "uuid": "718ad0e7-f576-42d3-b655-931030d1c8d7"
     },
     "created": "Mon, 13 Sep 2021 12:11:28 GMT",
-    "hits": 151,
     "license": "CC BY",
     "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17271",
@@ -754,7 +747,6 @@
       "display_name": "Anonym"
     },
     "created": "Wed, 08 Sep 2021 09:35:41 GMT",
-    "hits": 142,
     "license": "CC BY",
     "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17240",
@@ -822,7 +814,6 @@
       "display_name": "Hélène Sommerfelt"
     },
     "created": "Tue, 07 Sep 2021 13:03:15 GMT",
-    "hits": 121,
     "license": "CC BY",
     "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17239",
@@ -860,7 +851,6 @@
       "display_name": "Lolita Ray"
     },
     "created": "Tue, 12 Oct 2021 18:14:57 GMT",
-    "hits": 120,
     "license": "CC BY",
     "modified": "Tue, 12 Oct 2021 18:14:57 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17323",
@@ -898,7 +888,6 @@
       "display_name": "Marika Norling"
     },
     "created": "Sat, 11 Sep 2021 02:26:25 GMT",
-    "hits": 115,
     "license": "CC BY",
     "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17265",
@@ -936,7 +925,6 @@
       "display_name": "Vintageentusiast"
     },
     "created": "Mon, 11 Oct 2021 15:23:51 GMT",
-    "hits": 94,
     "image_dms_id": "013AitqLjFFE",
     "license": "CC BY",
     "media": [
@@ -1103,7 +1091,6 @@
     },
     "coordinates": "",
     "created": "Sun, 07 Nov 2021 16:10:48 GMT",
-    "hits": 88,
     "license": "CC BY",
     "modified": "Sun, 07 Nov 2021 16:32:20 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17397",
@@ -1160,7 +1147,6 @@
       "display_name": "Beata Kärrberg"
     },
     "created": "Sun, 17 Oct 2021 09:59:59 GMT",
-    "hits": 78,
     "license": "CC BY",
     "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/17360",
@@ -1213,7 +1199,6 @@
       "display_name": "Ronnie Granath"
     },
     "created": "Thu, 28 Oct 2021 20:49:24 GMT",
-    "hits": 70,
     "image_dms_id": "013AjNvnZa72",
     "license": "CC BY",
     "media": [
