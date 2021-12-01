@@ -1,0 +1,128 @@
+@font-face {font-family: "Lab Grotesque Web";
+  src: url("fonts/5ffb14c9ea41286ce553095f37596444.eot"); /* IE9*/
+  src: url("fonts/5ffb14c9ea41286ce553095f37596444.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("fonts/5ffb14c9ea41286ce553095f37596444.woff2") format("woff2"), /* chrome、firefox */
+  url("fonts/5ffb14c9ea41286ce553095f37596444.woff") format("woff"), /* chrome、firefox */
+  url("fonts/5ffb14c9ea41286ce553095f37596444.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("fonts/5ffb14c9ea41286ce553095f37596444.svg#Lab Grotesque Web") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "Caslon Ionic Web Regular";
+  src: url("fonts/312bc9a47884bcb79a743e8cc6c357cf.eot"); /* IE9*/
+  src: url("fonts/312bc9a47884bcb79a743e8cc6c357cf.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("fonts/312bc9a47884bcb79a743e8cc6c357cf.woff2") format("woff2"), /* chrome、firefox */
+  url("fonts/312bc9a47884bcb79a743e8cc6c357cf.woff") format("woff"), /* chrome、firefox */
+  url("fonts/312bc9a47884bcb79a743e8cc6c357cf.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("fonts/312bc9a47884bcb79a743e8cc6c357cf.svg#Caslon Ionic Web Regular") format("svg"); /* iOS 4.1- */
+}
+
+body {
+    font-size: 20px;
+    font-family: "Lab Grotesque Web", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+h1, h2 {
+    font-family: "Caslon Ionic Web Regular", sans-serif;
+    font-size: 36px;
+    margin-top: 0px;
+}
+
+h1 {
+    line-height: 1.2;
+}
+
+.grid div, .ingress {
+    margin: 40px auto;
+    max-width: 40rem;
+}
+
+.grid div {
+    border-bottom: 1px solid black;
+    padding: 0 20px 40px 20px;
+}
+
+.ingress {
+    padding: 40px 20px 20px;
+    margin: 0 auto;
+}
+
+div.swiper, div.swiper-button-prev, div.swiper-button-next, div.swiper-wrapper, div.swiper-slide, div.swiper-pagination, .swiper-slide img {
+    border-bottom: none;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.swiper-slide {
+    background-color: #555;
+}
+
+.swiper-slide p {
+    background-color: #fff;
+    padding: 20px 0 30px 0;
+    color: #555;
+    margin: 0;
+}
+
+.swiper-button-next, .swiper-button-prev {
+    color: #fff !important;
+    top: calc(50% - 63px) !important;
+}
+
+audio, video {
+    width: 100%;
+}
+
+p.audio {
+    margin: 0;
+}
+
+p.caption {
+    padding: 20px 0;
+    margin: 0;
+    color: #555;
+}
+
+.navbar {
+    position: sticky;
+    padding: 10px;
+    top: 0px;
+    z-index: 2;
+    background-color: #fff;
+    border-bottom: 1px solid black;
+}
+
+.navbar a::before {
+  content: "⬆ ";
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.qr {
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+
+.delta {
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 600px) {
+    .delta {
+        display: none;
+    }
+}
