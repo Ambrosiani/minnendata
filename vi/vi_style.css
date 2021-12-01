@@ -32,10 +32,14 @@ img {
     max-width: 100%;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: "Caslon Ionic Web Regular", sans-serif;
     font-size: 36px;
     margin-top: 0px;
+}
+
+h3 {
+    font-size: 20px;
 }
 
 h1 {
