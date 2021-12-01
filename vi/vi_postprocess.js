@@ -149,9 +149,10 @@ sortedArray.forEach(function(item){
     item.values.forEach(function(answer){
       let key = answer.topic_item.label_i18n.sv;
       let value = answer.display_value.replace(/(?:\r\n|\r|\n)/g, '<br/>');
+      indexHtml += '<h3>' + key + '</h3>';
+      indexHtml += '<p>' + value + '</p>';
     });
-    indexHtml += '<h3>' + key + '</h3>';
-    indexHtml += '<p>' + value + '</p>';
+    
   }
 
   if (item.hasOwnProperty('latitude')) {
