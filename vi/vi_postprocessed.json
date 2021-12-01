@@ -10,7 +10,6 @@
     },
     "coordinates": "",
     "created": "Thu, 09 Sep 2021 09:32:27 GMT",
-    "hits": 355,
     "image_dms_id": "0138ZQA6zPCB",
     "license": "CC BY",
     "media": [
@@ -127,7 +126,6 @@
     },
     "coordinates": "",
     "created": "Wed, 29 Sep 2021 08:25:20 GMT",
-    "hits": 286,
     "image_dms_id": "013AitVwUycC",
     "license": "CC BY",
     "media": [
@@ -240,77 +238,528 @@
     ]
   },
   {
-    "archive_code": "M5/00002",
+    "archive_code": "M4/00003",
     "contributor": {
-      "display_name": "Leona Leah Rapoport"
+      "display_name": "Madeleine",
+      "gender": "woman",
+      "uuid": "67aa64eb-46ba-4dba-b663-962779ffda19"
     },
-    "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-    "hits": 151,
+    "coordinates": "",
+    "created": "Thu, 09 Sep 2021 16:54:33 GMT",
+    "image_dms_id": "0138ZQA6ziSo",
     "license": "CC BY",
     "media": [
       {
-        "created": "Sun, 19 Sep 2021 13:29:10 GMT",
-        "dms_id": "013AiPPdPXVq",
-        "license": "CC0",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Sun, 19 Sep 2021 13:29:10 GMT",
-        "name": "Levnadsberättelse reviderad.docx",
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSn",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med flor.jpg",
         "order_by_number": 1,
-        "owner": "Leona Leah Rapoport",
+        "owner": "Woodruffs presentfoto",
         "topic_item": {
-          "label": "Ladda upp filer",
+          "label": "",
           "label_i18n": {
-            "sv": "Ladda upp filer"
+            "sv": ""
           },
           "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
         },
-        "type": "document",
-        "uuid": "b00c147a-a262-448e-bb42-decebd62b3da"
+        "type": "image",
+        "uuid": "734bb8ec-9efb-4faf-95fc-967012f5c06f"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSo",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med fjäderhatt.jpg",
+        "order_by_number": 2,
+        "owner": "Ateljé Uggla",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "ebc21e73-612e-48ac-8239-ac16d54841b9"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSp",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med handskar.jpg",
+        "order_by_number": 3,
+        "owner": "Aftonbladet/ Gunnar Södergren",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "0725cbda-5425-4bc5-acbe-1ad332d0f90b"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:40 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSm",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:40 GMT",
+        "name": "dam med kappa.jpg",
+        "order_by_number": 4,
+        "owner": "Okänd",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "b1d23fb6-f956-4221-bf74-6168212a1397"
       }
     ],
-    "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/17276",
+    "modified": "Fri, 10 Sep 2021 08:43:57 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17260",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "63818c77-37a1-4eff-a385-147234af3aac",
+    "values": [
+      {
+        "created": "Thu, 09 Sep 2021 16:54:33 GMT",
+        "display_value": "Min mamma Kim Söderlund arbetade hela sitt liv inom modevärlden. Bland annat var hon mannekäng vid NK:s franska damskrädderi. \n\nMamma berättade att alla mannekänger hade en stor väska som rymde allt de kunde tänkas behöva: handskar; mörka och ljusa, långa och korta, skor; enkla sidenpumps, ett vitt skynke för att skydda kläderna då de drogs över huvudet, smink, väskor, halsband, örhängen, diverse kedjor och skärp, extra strumpor. Väskan stod alltid packad och innehållet såg de till att hålla fräscht. Mamma var mycket noga med att vara \"tipp-topp\" i både hår och humör när kläderna till de stora visningarna skulle utprovas. Hon mindes också att sammanhållningen mellan mannekängerna var mycket god.",
+        "modified": "Thu, 09 Sep 2021 16:54:33 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "9e1aa20d-33be-423b-8cb0-e80fffc2a174"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00006",
+    "contributor": {
+      "display_name": "Inga-Britt Ahlenius"
+    },
+    "created": "Sun, 12 Sep 2021 19:09:39 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17270",
     "published": true,
     "submitted": false,
     "topic": {
-      "name": "Vi, de fördrivna",
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
       "name_i18n": {
-        "sv": "Vi, de fördrivna"
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
       },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
     },
-    "uuid": "32d4c7d8-1bfe-478f-844b-29d5783f0682",
+    "uuid": "03b8fe18-1511-4e18-b4a7-39283bf41ea5",
     "values": [
       {
-        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "display_value": "1970-07-22",
-        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "created": "Sun, 12 Sep 2021 19:09:39 GMT",
+        "display_value": "Jag letade inte efter något speciellt, kanske en lornjett i stället för läsglasögonen, ett smycke… Men där längst in och högst upp på väggen i second-hand butiken så hängde den - en aftonkappa i midnattsblå matt siden-crepe, fodrad och med tungt fall, sydda veck  på överdelen, små klädda knappar, så vacker! Det här är i början av 90-talet, jag hade blivit utnämnd till generaldirektör och det hade kommit inbjudningar till middag på slottet, till Nobelfesten, jag behövde något vackert! Och under ett par decennier fick kappan en andra glansperiod och blev i alla sammanhang ett mycket beundrat plagg. Först senare upptäckte jag att det fanns en etikett i kappan som berättade att den beställts 1938 till en fru Wilhelm F… och jag funderade mycket över vad som varit Kappans första glansperiod. Hon som fått den beställd till sig måste ha varit en mycket reslig dam - trots mina höga klackar måste jag försiktigt tråckla upp den ca 15cm för att den inte skulle släpa i marken. Vem var hon och på vilka baler och fester hade hon burit kappan?\nInga-Britt Ahlenius",
+        "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
         "topic_item": {
-          "label": "Ankomstdatum till Sverige:",
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
           "label_i18n": {
-            "sv": "Ankomstdatum till Sverige:"
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
           },
           "type": "Textarea",
-          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "2b7744d1-1973-4242-ac24-5206a1bff144"
+        "uuid": "279371a0-0449-4f34-b048-33efecf5ac35"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00009",
+    "contributor": {
+      "birth_year": 1928,
+      "display_name": "Astrid Palm",
+      "gender": "woman",
+      "place": "Spånga",
+      "uuid": "655cd7de-3c99-47c5-bc91-42d866a0915d"
+    },
+    "coordinates": "",
+    "created": "Wed, 15 Sep 2021 07:39:45 GMT",
+    "image_dms_id": "013AhtPopuKU",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 15 Sep 2021 07:36:43 GMT",
+        "dms_id": "013AhtPopuKT",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:36:43 GMT",
+        "name": "Nordiska museet - Vasamuseet 5.mp3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "42a742f6-9121-49ad-a3d9-dc29ce668bd3"
       },
       {
-        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "display_value": "Göteborg, Täby",
-        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "created": "Wed, 15 Sep 2021 07:39:12 GMT",
+        "description": "Astrid Palm, sömmerska på NK:s Franska damskrädderi.",
+        "dms_id": "013AhtPopuKU",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 15 Sep 2021 07:39:12 GMT",
+        "name": "IMG_1966.JPG",
+        "order_by_number": 1,
+        "owner": "Jörgen Löwenfeldt",
         "topic_item": {
-          "label": "Tidigare bostadsorter:",
+          "label": "",
           "label_i18n": {
-            "sv": "Tidigare bostadsorter:"
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "c76db185-0038-4478-81eb-8421e3b1f856"
+      },
+      {
+        "created": "Wed, 15 Sep 2021 07:40:15 GMT",
+        "dms_id": "013AhtPopuKV",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:40:15 GMT",
+        "name": "Nordiska museet - Vasamuseet 4 (kopia).mp3",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd"
+      }
+    ],
+    "modified": "Wed, 15 Sep 2021 07:40:28 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17274",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "3f5eabd9-7bee-40bf-913f-5911dff249e9",
+    "values": [
+      {
+        "created": "Wed, 15 Sep 2021 07:39:45 GMT",
+        "display_value": "Inspelat och berättat vid Nordiska museets premiärvisning av utställningen om NK:s Franska damskrädderi, 14 september 2021.\n\nAstrid Palm, född Ling, arbetade som sömmerska vid skrädderiet under sju år. Även hennes tvillingsyster Svea arbetade på skrädderiet. De kallades internt för \"lingarna\".\n\nSjälv har hon inga plagg från NK:s Franska hemma:\n– De var bara för kunderna, berättar hon.",
+        "modified": "Wed, 15 Sep 2021 07:39:45 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
           },
           "type": "Textarea",
-          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "edb9a975-3641-4244-b6a4-406b08f7624b"
+        "uuid": "941fc172-ff93-426a-9087-35ea6c914813"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00008",
+    "contributor": {
+      "birth_year": 1936,
+      "display_name": "Torun Hegardt",
+      "gender": "woman",
+      "place": "Djursholm",
+      "uuid": "25a76ef1-d698-4b33-8c20-6e887d5295c2"
+    },
+    "coordinates": "",
+    "created": "Wed, 15 Sep 2021 07:16:33 GMT",
+    "image_dms_id": "0138ZQioCDxS",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 15 Sep 2021 07:20:45 GMT",
+        "dms_id": "013AhtPopuKS",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:20:45 GMT",
+        "name": "Torun Hegardt.mp3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd"
+      },
+      {
+        "created": "Wed, 15 Sep 2021 07:19:21 GMT",
+        "description": "Torun Hegardt",
+        "dms_id": "013AhtPopuKR",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 15 Sep 2021 07:19:21 GMT",
+        "name": "IMG_1965.JPG",
+        "order_by_number": 1,
+        "owner": "Jörgen Löwenfeldt",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "cc1198bb-ac4a-4e5d-b9f5-5a3d6fb192d2"
+      }
+    ],
+    "modified": "Wed, 15 Sep 2021 07:21:25 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17273",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "592b940c-4a09-422d-bb0a-d4ae4041b846",
+    "values": [
+      {
+        "created": "Wed, 15 Sep 2021 07:16:33 GMT",
+        "display_value": "Inspelat och berättat vid Nordiska museets premiärvisning av utställningen om NK:s Franska damskrädderi, 14 september 2021. Om en dans med Christian Dior.\n\n\"Det var hemma hos våra föräldrar när vår pappa var ansvarig för damsidan på NK:s verksamhet. Han älskade Frankrike och var en stor kulturälskare. Då ordnade han en fransk modevecka med lite skulpturer och gobelänger.  Då var det en speciell modevecka och då kom Christian Dior över. De runt honom talade om att han var väldigt blyg och försynt. Då bjöd mina gästfria föräldrar hem honom på familjemiddag med en eller två unga direktörer med. Jag var väl 17 och (syster) Marianne 13.  Då säger en av direktörerna: Nu ska vi dansa. Då satte direktörerna på lite dansmusik och då bjöd monsieur Dior upp först mamma och dansade med henne och sedan mig i min hemsydda ylleklänning och sen Marianne. Sen kom ett sex sidor långt tackbrev för denna underbara familjekväll och det har jag i mitt bankfack. Ganska härligt.\n\nJag minns ju Kurt Jacobsson (chef för NK:s Franska damskrädderi). Jag jobbade på sommaren på NK:s kundtjänst två eller tre somrar och några jular. Då minns jag ju mycket väl Kurt Jakobsson himself. En förtjusande man. Lite rundnätt om jag minns rätt.\"",
+        "modified": "Wed, 15 Sep 2021 07:21:25 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "1a5dd10a-7cc2-4c35-993a-8bae94f14c71"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00007",
+    "contributor": {
+      "display_name": "Marianne",
+      "gender": "woman",
+      "uuid": "718ad0e7-f576-42d3-b655-931030d1c8d7"
+    },
+    "created": "Mon, 13 Sep 2021 12:11:28 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17271",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "0c4825a9-2013-4a9b-959e-b45cfdbea818",
+    "values": [
+      {
+        "created": "Mon, 13 Sep 2021 12:11:28 GMT",
+        "display_value": "1957 var Christian Dior på besök i Stockholm, där han bland annat besökte NKs franska. Min pappa var anställd på NK och fick i uppdrag att anordna en tillställning för Dior. Därför kom Christian Dior att vara hedersgäst i mitt föräldrahem till en middag. Mamma var ytterst nervös, hade anlitat en kokfru, som vi väl kände, och vi var noga med att inte berätta vem den celebra gästen var. Till middagen serverades ripa till huvudrätt och hjortron till dessert. Efter middagen var det en glad man i Diors entourage som satte på en skiva med lite dansant musik. Dior bjöd upp mamma, därefter min syster ca 18 år och sist mig, 13 år, iklädd en hemsydd skotskrutig klänning och ballerinaskor. Oförglömligt och beskrivet i en modetidning,   ” Eva” 1957.",
+        "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "e56a99f0-8075-47d3-8b78-d087c97bee99"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00002",
+    "contributor": {
+      "display_name": "Anonym"
+    },
+    "created": "Wed, 08 Sep 2021 09:35:41 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17240",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "4b948e17-e8bf-411c-9ba3-7b5eb6cd13f7",
+    "values": [
+      {
+        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "display_value": "Den 1 april 1966 skulle jag resa till London för att förenas med min man som uppehöll en tjänst som specialattaché vid svenska ambassaden. Underbara kollegor och chefer hade gjort att jag kunde lägga min yrkesverksamhet på is några år och tillbringa dem tillsammans med min man och vår lilla son i London. Oemotståndligt!\n\nMen det var ett problem, garderoben. I mitt jobb hade jag kavaj och kjol, rejält och praktiskt men inte så passande för det liv som väntade i London. När NK annonserade om utförsäljning av färdiga plagg från Franska Damskrädderiet inför nedläggningen, stod jag bland de första utanför dörrarna. När de öppnades tog jag sats och sprang uppför trapporna. Skrädderiet låg högt upp i huset och jag räknade med ett försprång medan de finare kunderna tog hissarna.\n\nNär jag öppnade dörren till skrädderiet såg jag det genast, Plagget! Men detta var på kontanthanteringens tid och jag hade inte tillräckligt med pengar. Men jag hade en postsparbanksbok och 1966 fanns det ett litet postkontor på NK:s bottenvåning. Jag lyckades övertala en mycket motvillig expedit att hålla Plagget en stund .”Men inte mer än fem minuter ”,sade hon strängt.\n\nJag tog sats igen och sprang trapporna till bottenvåningen. Det var ingen kö på posten, jag fick mina pengar och sprang tillbaka till skrädderiet. Plagget fanns kvar, jag betalade och gick glad hem.",
+        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "0c2436bf-04c3-459d-89d5-20c6ab1321a9"
+      },
+      {
+        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "display_value": "När jag efter nära 4 år återvände till Sverige var Plagget långtifrån slut.",
+        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "topic_item": {
+          "label": "Om plagget finns kvar, bär det några spår av de tillfällen då det har använts?",
+          "label_i18n": {
+            "sv": "Om plagget finns kvar, bär det några spår av de tillfällen då det har använts?"
+          },
+          "type": "Textarea",
+          "uuid": "de8f9d9f-ee7c-48b0-aca2-5f1e9498ca71"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "7b9a7196-71af-4b9c-82d6-b8d99c1b601d"
+      },
+      {
+        "created": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "display_value": "Plagget var en Chanel-kopia, en ärmlös klänning med tillhörande kappa i brunrosa, mjuk, litet lös tweed, kantad med svart siden. Kappan hade svart sidenfoder. Jag provade, det passade perfekt. Plagget visade sig bli den stöttepelare jag anat. Det passade till allt. Med eller utan kappa kunde jag ha det vid luncher och mottagningar, teaterbesök och tom vid témottagning i drottningens trädgård.",
+        "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
+        "topic_item": {
+          "label": "Berätta gärna om ett plagg från damskrädderiet.",
+          "label_i18n": {
+            "sv": "Berätta gärna om ett plagg från damskrädderiet."
+          },
+          "type": "Textarea",
+          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "b531cd0f-6fa7-46b9-a504-516651d29f11"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00001",
+    "contributor": {
+      "display_name": "Hélène Sommerfelt"
+    },
+    "created": "Tue, 07 Sep 2021 13:03:15 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17239",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "8882ac6d-d418-4533-8889-612f0b4cfdb4",
+    "values": [
+      {
+        "created": "Tue, 07 Sep 2021 13:03:15 GMT",
+        "display_value": "Min farmor var springflicka på NK’s Franska på 30-talet, hon har berättat mycket om alla fantastiska tyger och att hon varit på många adresser och lämnat fina klänningar. Oftast blev hon hänvisad till köksingången, så var det då.\nEn berättelse som jag tänker på varje gång jag tappar en knappnål, är att springflickorna sopade golvet och la allt damm i en hink, en gång om året, gick flickorna upp på taket och silade dammet och återvann alla knappnålar.\nEn annan tid -så gjorde man då\nMin farmor hette Gulli Rosén, var född 1922 Är osäker på hur länge hon var där och under vilken tid, vet att hon var väldigt ung Men det måste ha varit under åren 1936-1938 \n\nHélène Sommerfelt",
+        "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "05989dc2-879d-4b86-9d8b-c11978c41c64"
       }
     ]
   },
@@ -321,7 +770,6 @@
     },
     "coordinates": "",
     "created": "Mon, 11 Oct 2021 11:16:11 GMT",
-    "hits": 117,
     "image_dms_id": "013AitqLjF6P",
     "license": "CC BY",
     "media": [
@@ -420,12 +868,48 @@
     ]
   },
   {
+    "archive_code": "M4/00004",
+    "contributor": {
+      "display_name": "Marika Norling"
+    },
+    "created": "Sat, 11 Sep 2021 02:26:25 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17265",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "9acea489-409f-40e9-a0e9-1db72e9b97bc",
+    "values": [
+      {
+        "created": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "display_value": "Om Pelle Lundgrens karriär:\nVår farmor Ingrid Norling, storasyster till Pelle Lundgren, berättade för många år sedan att Pelle hade lungproblem som barn. Han kunde inte springa omkring och leka utomhus som andra barn, så han blev inomhus och började sy dock kläder!\n\nMarika Norling, Peder Norling, Anki Larsdotter",
+        "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "825b785c-4279-4f6f-9dc3-ecd46f06a5d4"
+      }
+    ]
+  },
+  {
     "archive_code": "M5/00007",
     "contributor": {
       "display_name": "Wiktor Raldow"
     },
     "created": "Thu, 14 Oct 2021 07:48:57 GMT",
-    "hits": 115,
     "license": "CC BY",
     "media": [
       {
@@ -520,7 +1004,6 @@
     },
     "coordinates": "",
     "created": "Tue, 02 Nov 2021 15:42:18 GMT",
-    "hits": 98,
     "image_dms_id": "013AjP3H655r",
     "license": "CC BY",
     "media": [
@@ -666,7 +1149,6 @@
       "uuid": "60d60d97-d9e4-45f8-af21-9c5ce4f84c4f"
     },
     "created": "Fri, 08 Oct 2021 18:14:24 GMT",
-    "hits": 67,
     "license": "CC BY",
     "media": [
       {
@@ -762,7 +1244,6 @@
     },
     "coordinates": "",
     "created": "Wed, 06 Oct 2021 10:09:46 GMT",
-    "hits": 60,
     "license": "CC BY",
     "media": [
       {
@@ -857,7 +1338,6 @@
       "display_name": "Regina Feierberg"
     },
     "created": "Wed, 20 Oct 2021 20:47:25 GMT",
-    "hits": 45,
     "license": "CC BY",
     "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
     "presentation_url": "https://minnen.se/tema/vi/17371",
@@ -925,7 +1405,6 @@
       "display_name": "Ella"
     },
     "created": "Mon, 22 Nov 2021 07:58:59 GMT",
-    "hits": 33,
     "license": "CC BY",
     "media": [
       {
@@ -989,6 +1468,67 @@
           "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
         },
         "uuid": "454bd675-bcdb-4dbc-ba26-f495916a15a7"
+      }
+    ]
+  },
+  {
+    "archive_code": "M5/00011",
+    "contributor": {
+      "display_name": "Leo Kantor",
+      "gender": "man",
+      "uuid": "3d22fd0f-aa61-4436-a8b0-dafe146631dc"
+    },
+    "created": "Wed, 01 Dec 2021 12:10:22 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 01 Dec 2021 12:08:01 GMT",
+        "description": "Berättelser skrivna om natten",
+        "dms_id": "013AjPwgLNab",
+        "license": "CC BY-NC",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Wed, 01 Dec 2021 12:08:01 GMT",
+        "name": "Berättelser skrivna om natten.docx",
+        "order_by_number": 1,
+        "owner": "Leo Kantor",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "34ababbe-1619-49fb-baea-fe91431ba60f"
+      }
+    ],
+    "modified": "Wed, 01 Dec 2021 12:10:22 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/17494",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "90b476e4-a5a5-43a2-937c-8fa837cbdb77",
+    "values": [
+      {
+        "created": "Wed, 01 Dec 2021 12:10:22 GMT",
+        "display_value": "Berättelser skrivna om natten\n\nI den lilla polska staden Strzegom i Nedre Sląsk, tidigare med det tyska namnet Striegau, fyrahundra kilometer från Warszawa, bodde det efter andra världskriget ungefär tvåhundra judiska familjer. De flesta var ditresta från Ryssland, från Sibirien och Ural. Om de inte hade hållit sig gömda i Ryssland under krigsåren skulle de knappast ha överlevt krigets fasor och den brutala antisemitism som härjade i nästan alla länder i Europa. Av de tre och en halv miljoner polska judar som levde före kriget återstod efter krigsslutet endast ungefär tvåhundra tusen. Av dessa återvände kanske sjuttiotusen till Polen, varav många medförde ryska hustrur. De slog sig ner på den mark som tidigare varit tysk, för till barndomens städer i Polen före kriget var det inte säkert att återvända. Polacker hade redan tagit över deras hus, möbler, mark och affärer. I princip varje försök att ta sig in i sitt hus var förenat med dödsfara; brutala mord på judar var vardagsmat. Pogromer ägde rum i en rad städer, varav den i Kielce då 42 judar mördades hör till de mest kända. I Kraków dödades fem judar och synagogan brändes ner. I Lublin, Rzeszów, Częstochowa, Białystok och andra städer dödade man utan anledning. I min lilla stad Strzegom var det fyra stycken som strök med. En jude dödades för att han öppnade en frisörsalong, därefter två till som for för att ta ett hus i besittning som de tillerkänts, varefter deras två barn som överlevde senare skickades till ett barnhem i Israel. En sjuk kvinna högg man ihjäl med en kniv medan hon låg och sov, trots att det inte fanns något av värde i huset. Militärpolisen grep den unge mördaren och sköt honom utan rättegång i staden som då låg i ruiner. Hennes dotter, professor i kemi i Israel, berättade historien för mig, hon har aldrig satt sin fot i Strzegom sedan dess, trots att hon brukar hålla föreläsningar i Polen.\n     Tyskarna gav sig av, man lät dem endast ta med sig en del personliga ägodelar. Bakom sig lämnade de sina hus och lägenheter, alltid välstädade, rena och med var sak på sin rätta plats, som om de hade för avsikt att snart vara tillbaka. Och vi judiska och polska barn var förstås överlyckliga över alla kvarlämnade leksaker, cyklar, kälkar och skidor som vi nu kunde leka med. I vår lägenhet på Wilhelmstrasse 31, då redan omdöpt till Feliks Dzierżyńskigatan, efter den sovjetiske chefen för säkerhetstjänsten som för övrigt var av polsk härkomst, hade man också lämnat kvar ett litet piano av märket Ed Seiler. Min mamma som var rysk judinna spelade ryska romanser på det där tyska lilla pianot. Om somrarna då våra fönster stod öppna på vid gavel stannade folk nere på gatan för att lyssna på hennes vackra pianospel. \n     Det fanns en tyska som inte lämnade Strzegom. Lusia Videra och hennes två små döttrar stannade kvar i den lilla staden eftersom deras mor inte kunde förmå sig att packa. Lusia Videra blev tokig av sorg då hon fick veta att hennes man som var tysk soldat, dödats någonstans i Ryssland i närheten av Stalingrad. Hon förlorade talförmågan, svårt stammande fick hon klara livhanken genom att städa och skura golv i polska och judiska hem, hos folk som det gått lite bättre för i livet. Året om, även på somrarna, gick hon omkring i en varmt fodrad svart kappa med pälskrage av räv. Hon skurade golv i högklackade skor och målade alltid läpparna med rött läppstift. Hennes döttrar var i vår ålder, sex och sju år gamla, och hängde alltid efter sin mamma, de vågade inte komma nära oss utan stod blyga och sorgsna och såg hur roligt vi andra, de polska och judiska barnen, hade det. Judarna kysste oss, klappade oss på huvudet, gav oss karameller och utbrast: ”Oj, vilka barn som klarat sig trots kriget.” Och runt omkring oss tornade grushögarna efter de raserade, en gång så vackra stenhusen upp sig. Staden förstördes till cirka sjuttio procent. Vi drog fram rostiga gevär ur husspillrorna och lekte krig för det mesta. Tyskarna skulle attackera och vi skjuta på dem med de där rostiga gevären som en gång hade dödat människor. Strzegom hade vid två tillfällen övergått från att vara i tyskarnas händer till att falla i ryssarnas, för det fanns en vapenfabrik i skogen inte långt därifrån och Hitler hade sitt sommarresidens där. \n     Judarna anpassade sig snabbt till den nya tillvaron. Man startade en judisk grundskola där undervisningen var på jiddisch, ordnade med lekskola, kulturhus och läkarmottagning. Några kilometer utanför staden grundade man en kibbutz. Varje kväll nere på gatan som var upplyst med gaslyktor pågick det utanför vårt hus livliga diskussioner om huruvida man skulle stanna eller emigrera till Israel, USA eller Kanada. Efter pogromen i Kielce då 42 judar dödades och den i Kraków då man dödade fem samt brände ner synagogan, dödades många judar även i andra städer. En mängd familjer började packa ihop sina saker för att lämna Polen. En dag år 1947 erhöll min far ett pass för att kunna emigrera till Israel. Mamma började gråta när hon insåg att hon aldrig mer skulle få träffa sin mor och sina två bröder i Charków som båda hade överlevt kriget. Min far lämnade tillbaka passet. Därefter grundade han tillsammans med några religiösa judar ett bönehus i bottenvåningen av vårt hus, i en tidigare något större tysk våning som stod tom. Varje lördag kom judar dit för att be och under Pesach ordnade man rent av med en ugn för att kunna grädda matzabröd.\n     Efter grundskolan skickade mina föräldrar mig till Tekniska läroverket för byggandet av flygplansmotorer i Wrócław, jag bodde där på internat och reste hem till Strzegom på helgerna. För mitt vidkommande var det en hemsk tid. Jag hade aldrig varit tekniskt lagd, men mamma sa att jag måste ta det säkra före det osäkra och skaffa mig en ordentlig utbildning eftersom ingen visste hur vårt framtida öde skulle se ut. Mina föräldrar och hela deras efterkrigsgeneration såg sin tid i Polen som någonting övergående. Nya vågor av emigranter sköljde över världen, till Israel, Kanada, USA och Australien. De europeiska länderna var extremt snåla med inresevisum, en del lyckades ta sig till Tyskland men då krävdes att de erkände sig vara av tysk härkomst och accepterade att bli tyska medborgare. För min fars del var en sådan lösning utesluten, även om han talade perfekt tyska. På internatet och på min skola med över tvåhundra elever, var jag den ende som hade judisk bakgrund. En dag kom en av de andra eleverna på skolan, han var lika lång som jag var kort, minst i klassen för att vara exakt, och sade till mig: ”Hör du lille Kantor, det kommer att gå mycket bättre för dig om du börjar kalla dig Leszek i stället.” Från den dagen har jag två förnamn, Leo (i Polen Leon) och det typiskt polska Leszek. Efter gymnasiet valde jag att studera slovensk filologi vid universitetet i Opole. Efter avslutade studier blev jag föreläsare i litteratur och i ryska vid universitetet. Studentgenerationen kom från småstäderna, tjejerna gick hela året i samma klänning. Jag var den ende på universitetet som hade originaljeans och jeansjacka, tack vare att min farbror Szlojme skickade dem till mig från Israel. Killarna bönade och bad att få gå omkring i mina kläder. I Opole grundade jag studentföreningen Trollet som är verksam än i dag samt en litterär kabaré, jag skrev låttexterna och Włodek Grecznik som var från staden Legnica skrev musiken. Han dog för några år sedan i Lund. Under det minnesvärda året 1968 fick ett tiotal lärare, akademiker och professorer sparken, av dessa var hälften av judisk härkomst. Jag och andra med mig utsattes för två timmars korsförhör om allt mellan himmel och jord och till slut fick jag höra att ”ni är entledigad på grund av hemlighållande av bakgrund”. Sent på hösten 1968 for jag i väg för att ta avsked av Strzegom. Jag satt en timmes tid på torget, gick sedan en sväng längs min gata, kastade en blick på mitt hus och reste därefter vidare till Opole där jag studerat. Jag älskade de städerna, jag hade varit lycklig där, om man nu som jude i Polen kunde sägas ha varit det. Jag gick även till universitetet men det var ingen där som kom fram till mig eller ens hälsade. Bara fru Sasowa, portvakterskan, en snäll tant som redan hade tappat alla sina tänder, frågade: ”Var ska herr Leszek nu bo då?” Jag svarade att jag inte visste än. Det första jag gjorde efter ankomsten till Sverige, innan jag ens hade hunnit packa upp mina resväskor, var att skicka henne ett vykort från Stockholm. Femtio år senare blev jag inbjuden att hålla en hedersföreläsning på mitt gamla universitet i Opole. Det var 250 studenter i salen. Det blev hurrarop och blommor. Temat jag valt för min föreläsning var: ”Om behovet av tolerans”.\n      I slutet av 1968 när min fru hade sin slutexamen på Medicinakademin i Łódź satt jag och studerade en karta över Europa för att se vilket land som låg närmast Polen. Det enda skälet därtill var att vi inte ville hamna alltför långt bort från våra föräldrar som stannade kvar i Polen. Min vackra mor dog endast 48 år gammal, i juli 1968, efter att ha sparkats från sitt arbete på grund av hennes bakgrund. Min far stannade kvar i Polen med min yngre bror.\n      Vi valde Sverige för att vara så nära som möjligt min fru Inkas föräldrar, två hårt arbetande människor märkta av slit och sjukdom. Att lämna dem åt sitt öde kändes tungt men för vår del fanns det ingen annan utväg. Alla, bokstavligen alla unga människor, gav sig av från Polen och jag lärde känna hundratals av dem i och med att jag under många år jobbade på olika sommarkollon för judiska barn och senare på olika lägervistelser för judiska studenter. En gång deltog jag i ett vinterläger för studenter i Jagniątków uppe i bergen. Efter två veckor åkte alla hem. Jag och den fine poeten Natan Tenembaum stannade ensamma kvar för att städa i lägret. Vi stod vid fönstret, snön föll. Jag frågade Natan om vi skulle emigrera eller inte, för ingen ville stanna kvar i landet. Han svarade: ”Jag kanske följer med, men jag är rädd att jag kommer att sakna den här prosaiska snön.” Ibland när snön vräkte ner slog jag honom en signal från Hägersten och frågade honom om hur han hade det med snön, om han saknade den. Han dog 2020 i Stockholm och ligger nu begravd på den judiska kyrkogården där. Han lämnade efter sig ett par diktsamlingar skrivna på polska. De har aldrig blivit översatta till svenska. \n     Svenska konsulatet svarade detta år 1968, mitt under studentrevolten i stora delar av Europa och de brutala antisemitiska utrensningarna i Polen, att de avslog vår ansökan om emigrantvisum. Då gick jag i stället till den danska ambassaden. Efter en vecka anlände ett brev: ”Vänligen bege er till ambassaden för att få era visum och glöm inte passen.” Det var de två första emigrantvisumen som utfärdades till polska judar. Sedan dröjde det inte länge förrän den svenska ambassaden hörde av sig och lät meddela att vi trots allt skulle få inresevisum till Sverige. ”Eftersom vi lider brist på tandläkare i Sverige”, tillade konsuln när jag kom för att få mitt inresevisum. Som underlag fick han två polska resehandlingar, för några riktiga pass kunde man inte få om man var jude. Papperen jag lämnade ifrån mig var så kallade ”dokument för enkel resa”. Förbudet mot att besöka Polen tvingade oss att under tjugo år i stort sett avstå från att resa dit. Visum kunde man få för på sin höjd två eller tre dagar för att vara med på någon förälders begravning. Någon fick ett fyradagarsvisum till Republiken Polen men det berodde på ett misstag. Det måste vara unikt i världshistorien att man som barn inte fick tillstånd att besöka sina döende eller svårt sjuka föräldrar.\n\nDen nionde januari 1969 befinner vi oss på järnvägsstationen i Łódź. Fru Jadzia, en bekant till mina föräldrar hade med sig ett par vantar till Inka. ”Var snäll och ta emot dem, de kommer att behövas eftersom det är så kallt”, sade hon. Min far såg jag gråta för första gången i mitt liv. Min frus föräldrar grät också. Jag fick en känsla av att det kanske var sista gången vi sågs men i mitt huvud höll jag då redan på att tänka ut hur jag skulle berätta för världen vad det var för svinaktigheter som pågick i Polen 1968, bara tjugofyra år efter det fasansfyllda krig då nittio procent av alla polska judar mördades. Jag visste redan på färjan till Sverige att mina aktiviteter inte skulle uppskattas något vidare av de polska kommunisterna. Och så blev det. Det dröjde inte länge förrän den legendariske chefen för den polska avdelningen av Radio Free Europe i München, Jan Nowak Jeziorański, for till Stockholm för att träffa mig. I Polen säger man att denne militär och journalist, näst efter den polske påven Wojtyła är det viktigaste namnet i Polens efterkrigshistoria. Han erbjöd mig arbete för Radio Free Europe i München, finansierad av USA. Jag antog erbjudandet om samarbete på villkor att det kunde ske från Sverige. Oavsett om nu Polens kommunistiska regering gillade det eller ej lyssnade uppskattningsvis ett par miljoner polacker på vad jag hade att säga sent om kvällarna. Snäll var jag inte. Vid ett tillfälle direktsände jag från världsmästerskapen i ishockey på Isstadion i Stockholm 1970. Matchen var inte vilken som helst utan den viktiga och synnerligen brutala hatmatchen mellan Tjeckoslovakien och Sovjetunionen. Efter ryssarnas aggressioner mot tjeckerna var möjligheten att ge igen i matchen av en oerhörd betydelse, inte bara för tjeckerna. \n     Till Sverige for vi med färja från Świnoujście till Ystad. I skorna hade jag gömt undan tjugofem dollar. Officiellt fick man bara ha med sig fem. Bakom oss lämnade vi landet där vi hade växt upp, skolkamrater och gråtande föräldrar. \n     Den tionde januari 1969 beträdde vi för första gången svensk jord. På den jorden har vi levt våra liv och det har varit ett bra och lyckligt sådant. Under femtiotvå år har ingen förolämpat oss, ingen har spottat på oss, ingen har bestulit oss, trots att vi är och har varit främlingar som talar med brytning och knappast kan beskyllas för att se ut som skandinaver. Min fars bönbok som trycktes i Warszawa 1920, min orden Storkorset av Republiken Polens förtjänstorden mottagen av polske presidenten 1989 samt orden för förtjänstfulla insatser för den polska kulturen, mottagen av landets kulturminister, har jag donerat till det nya museet för Förintelsen som håller på att byggas i Stockholm. Mina barnbarn Oscar, nio år gammal, Hugo, elva år gammal och Fanny, två år talar inte polska. Deras mamma, läkare i pediatrik och deras pappa, min son Mark som är född i Sverige, kommer säkert att läsa den här berättelsen för dem. Vi dricker nu svenskt kaffe som alla andra och köper lussekatter. Ibland minns vi, som i den här texten skriven om natten, hösten 2021.",
+        "modified": "Wed, 01 Dec 2021 12:10:22 GMT",
+        "topic_item": {
+          "label": "Din levnadsberättelse",
+          "label_i18n": {
+            "sv": "Din levnadsberättelse"
+          },
+          "type": "Textarea",
+          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+        },
+        "uuid": "de014df0-5f26-46cb-a035-4858d689964d"
       }
     ]
   }
