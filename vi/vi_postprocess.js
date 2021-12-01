@@ -98,6 +98,9 @@ sortedArray.forEach(function(item){
     var docxHtml = '';
     item.media = item.media.sort( GetSortOrder("order_by_number"));
     item.media.forEach(function(mediaItem){
+      if(mediaItem.owner === undefined) {
+        mediaItem.owner = 'Okänd';
+      }
       if(mediaItem.mime_type == 'image/jpeg' || mediaItem.mime_type == 'image/png') {
         let mediaUrl = new URL('https://dms01.dimu.org/image/' + mediaItem.dms_id);
         imageCount++;
@@ -105,7 +108,7 @@ sortedArray.forEach(function(item){
       }
       if(mediaItem.mime_type == 'audio/mpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.mp3?mmid=' + mediaItem.dms_id + '&amp;a=None');
-        audioHtml += '<p class="audio"><audio controls preload><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p><p class="caption">Inspelning: ' + mediaItem.license + '</p>';
+        audioHtml += '<p class="audio"><audio controls preload><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p><p class="caption">Inspelning: '+ mediaItem.owner + ', ' + mediaItem.license + '</p>';
       }
       if(mediaItem.mime_type == 'video/mp4') {
         videoHtml += '<p class="video"><video controls preload poster="https://dms01.dimu.org/image/' + mediaItem.dms_id + '">\n\
@@ -113,7 +116,7 @@ sortedArray.forEach(function(item){
           <source type="video/mp4" src="https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.mp4?mmid=' + mediaItem.dms_id + '">\n\
           <source type="video/ogg" src="https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.ogv?mmid=' + mediaItem.dms_id + '">\n\
           <source type="video/webm" src="https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.webm?mmid=' + mediaItem.dms_id + '">\n\
-        </video></p>';
+        </video></p><p class="caption">Inspelning: '+ mediaItem.owner + ', ' + mediaItem.license + '</p>';
       }
       if(mediaItem.mime_type == 'application/vnd.openxmlformats-officedocument.wordprocessingml.document') {
         docxHtml += '<p>[Dokumentlänk]</p>';
