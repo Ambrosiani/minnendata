@@ -54,16 +54,15 @@ var indexHtml = '<!DOCTYPE html>\n\
 <head>\n\
     <meta charset="utf-8">\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
-    <title>NKs Franska damskrädderi</title>\n\
+    <title>Vi, de fördrivna</title>\n\
     <link rel="stylesheet" href="vi_style.css">\n\
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">\n\
 </head>\n\
 <body>\n\
 <a id="top"></a>\n\
 <div class="ingress">\n\
-<h1>NK:s Franska damskrädderi – bidra med dina minnen</h1>\n\
-<p>Tillhör du de som hade förmånen att besöka eller arbeta vid damskrädderiet? Har du hört andra berätta om exklusiva modevisningar och oförglömliga klänningar? Finns det fortfarande kvar någon unik skapelse från skrädderiet i din garderob?</p>\n\
-<p>Varmt välkommen att bidra till Nordiska museets insamling med dina bilder och berättelser! Dina minnen blir en del av historien om NK:s Franska damskrädderi som sparas för framtida generationer.</p>\n\
+<h1>Vi, de fördrivna</h1>\n\
+<p>Under perioden 1967–1972 kom cirka 3000 flyktingar från Polen till Sverige på grund av en antisemitisk kampanj initierad av det styrande kommunistpartiet. Många var barn till Förintelseöverlevande och flera var överlevande själva. Erfarenheterna från dessa personer tillhör en unik del av det svenska kulturarvet som tas tillvara för framtiden i detta forskningsprojekt, som drivs av Södertörns högskola med Nordiska museet som samarbetspartner.</p>\n\
 <p>Här nedanför kan du ta del av de inlämnade bidragen.</p>\n\
 <div class="delta"><p>För att själv delta, besök <b>Minnen.se/tema/nksfranska</b> genom att skanna QR-koden med din telefon.</p><img class="qr" src="images/Minnen_NKs_Franska.png" /></div></div>\n\
 <p class="navbar"><a href="#top">Gå till början av sidan</a></p>\n\
