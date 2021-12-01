@@ -23,7 +23,7 @@ function GetAllResults(json){
 }
 
 // Step 1: Read the downloaded_filename JSON
-const filename = Deno.args[0] // Same name as downloaded_filename
+const filename = 'nksfranska.json' // Same name as downloaded_filename
 var json = await readJSON(filename);
 
 var base_count = json["count"];

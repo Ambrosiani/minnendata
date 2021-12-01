@@ -23,7 +23,7 @@ function GetAllResults(json){
 }
 
 // Step 1: Read the downloaded_filename JSON
-const filename = Deno.args[0] // Same name as downloaded_filename
+const filename = 'vi.json' // Same name as downloaded_filename
 var json = await readJSON(filename);
 
 var base_count = json["count"];
@@ -108,7 +108,7 @@ sortedArray.forEach(function(item){
       }
       if(mediaItem.mime_type == 'audio/mpeg') {
         let mediaUrl = new URL('https://dms01.dimu.org/multimedia/' + mediaItem.dms_id + '.mp3?mmid=' + mediaItem.dms_id + '&amp;a=None');
-        audioHtml += '<p class="audio"><audio controls preload><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p><p class="caption">Inspelning: '+ mediaItem.owner + ', ' + mediaItem.license + '</p>';
+        audioHtml += '<p class="audio"><audio controls preload><source type="audio/mpeg" src="' + mediaUrl + '"></audio></p><p class="caption">Inspelning: ' + mediaItem.owner + ', ' + mediaItem.license + '</p>';
       }
       if(mediaItem.mime_type == 'video/mp4') {
         videoHtml += '<p class="video"><video controls preload poster="https://dms01.dimu.org/image/' + mediaItem.dms_id + '">\n\
