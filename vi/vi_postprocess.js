@@ -139,9 +139,13 @@ sortedArray.forEach(function(item){
   }
 
   if (item.hasOwnProperty('values')) {
-    var answer = item['values'][0]['display_value'];
-    answer = answer.replace(/(?:\r\n|\r|\n)/g, '<br/>');
-    indexHtml += answer;
+
+    item.values.forEach(function(answer){
+      let key = answer.topic_item.label_i18n.sv;
+      let value = answer.display_value.replace(/(?:\r\n|\r|\n)/g, '<br/>');
+    });
+    indexHtml += '<h3>' + key + '</h3>';
+    indexHtml += '<p>' + value + '</p>';
   }
 
   if (item.hasOwnProperty('latitude')) {
