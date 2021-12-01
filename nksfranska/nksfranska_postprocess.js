@@ -97,7 +97,7 @@ sortedArray.forEach(function(item){
     var videoHtml = '';
     item.media = item.media.sort( GetSortOrder("order_by_number"));
     item.media.forEach(function(mediaItem){
-      if(mediaItem.mime_type == 'image/jpeg') {
+      if(mediaItem.mime_type == 'image/jpeg' || mediaItem.mime_type == 'image/png') {
         let mediaUrl = new URL('https://dms01.dimu.org/image/' + mediaItem.dms_id);
         imageCount++;
         imageHtml += '<div class="swiper-slide"><img src="' + mediaUrl + '" /><p>Foto: ' + mediaItem.owner + ', ' + mediaItem.license + '</p></div>';
