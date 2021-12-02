@@ -26,6 +26,8 @@ function GetAllResults(json){
 const filename = 'vi.json' // Same name as downloaded_filename
 var json = await readJSON(filename);
 
+removeFile(filename);
+
 var base_count = json["count"];
 var totalCount = json["total_count"];
 var base_url = 'http://api.minnen.se/api/responses?topic=0f976fb0-b14b-4ef8-8bf9-84f3f07e1736';
@@ -194,5 +196,3 @@ await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2));
 await Deno.writeTextFile('vi/vi_stats.json', JSON.stringify(stats, null, 2));
 await Deno.writeTextFile('vi/index.html', indexHtml);
 console.log("Wrote a post process file");
-
-removeFile(filename);

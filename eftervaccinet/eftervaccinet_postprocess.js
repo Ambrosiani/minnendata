@@ -20,6 +20,8 @@ function GetSortOrder(prop){
 const filename = Deno.args[0] // Same name as downloaded_filename
 const json = await readJSON(filename)
 
+removeFile(filename);
+
 const array = json["responses"];
 
 var sortedArray = array.sort( GetSortOrder("id"));
@@ -73,4 +75,4 @@ await Deno.writeTextFile('eftervaccinet/eftervaccinet_stats.json', JSON.stringif
 await Deno.writeTextFile('eftervaccinet/index.html', indexhtml);
 console.log("Wrote a post process file");
 
-removeFile(filename);
+
