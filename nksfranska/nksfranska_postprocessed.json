@@ -809,43 +809,6 @@
     ]
   },
   {
-    "archive_code": "M4/00001",
-    "contributor": {
-      "display_name": "Hélène Sommerfelt"
-    },
-    "created": "Tue, 07 Sep 2021 13:03:15 GMT",
-    "license": "CC BY",
-    "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17239",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "8882ac6d-d418-4533-8889-612f0b4cfdb4",
-    "values": [
-      {
-        "created": "Tue, 07 Sep 2021 13:03:15 GMT",
-        "display_value": "Min farmor var springflicka på NK’s Franska på 30-talet, hon har berättat mycket om alla fantastiska tyger och att hon varit på många adresser och lämnat fina klänningar. Oftast blev hon hänvisad till köksingången, så var det då.\nEn berättelse som jag tänker på varje gång jag tappar en knappnål, är att springflickorna sopade golvet och la allt damm i en hink, en gång om året, gick flickorna upp på taket och silade dammet och återvann alla knappnålar.\nEn annan tid -så gjorde man då\nMin farmor hette Gulli Rosén, var född 1922 Är osäker på hur länge hon var där och under vilken tid, vet att hon var väldigt ung Men det måste ha varit under åren 1936-1938 \n\nHélène Sommerfelt",
-        "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "05989dc2-879d-4b86-9d8b-c11978c41c64"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00015",
     "contributor": {
       "display_name": "Lolita Ray"
@@ -879,6 +842,43 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "6017cdc5-1998-41e4-b23c-ea6717408669"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00001",
+    "contributor": {
+      "display_name": "Hélène Sommerfelt"
+    },
+    "created": "Tue, 07 Sep 2021 13:03:15 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17239",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "8882ac6d-d418-4533-8889-612f0b4cfdb4",
+    "values": [
+      {
+        "created": "Tue, 07 Sep 2021 13:03:15 GMT",
+        "display_value": "Min farmor var springflicka på NK’s Franska på 30-talet, hon har berättat mycket om alla fantastiska tyger och att hon varit på många adresser och lämnat fina klänningar. Oftast blev hon hänvisad till köksingången, så var det då.\nEn berättelse som jag tänker på varje gång jag tappar en knappnål, är att springflickorna sopade golvet och la allt damm i en hink, en gång om året, gick flickorna upp på taket och silade dammet och återvann alla knappnålar.\nEn annan tid -så gjorde man då\nMin farmor hette Gulli Rosén, var född 1922 Är osäker på hur länge hon var där och under vilken tid, vet att hon var väldigt ung Men det måste ha varit under åren 1936-1938 \n\nHélène Sommerfelt",
+        "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "05989dc2-879d-4b86-9d8b-c11978c41c64"
       }
     ]
   },
