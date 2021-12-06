@@ -83,7 +83,7 @@ sortedArray.forEach(function(item){
 
   indexHtml += '<div><h2>' + item.contributor.display_name + '</h2>';
 
-  indexHtml += '</p><p>';
+  indexHtml += '<p>';
   
   if (item.hasOwnProperty('media')) {
     var imageCount = 0;
