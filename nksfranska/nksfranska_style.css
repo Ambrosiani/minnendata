@@ -93,6 +93,10 @@ p.caption {
     color: #555;
 }
 
+p.details {
+    color: #555;
+}
+
 .navbar {
     position: sticky;
     padding: 10px;
