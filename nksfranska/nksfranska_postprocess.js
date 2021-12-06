@@ -81,7 +81,7 @@ sortedArray.forEach(function(item){
   delete item.ready_for_approval;
   delete item.user_id;
 
-  indexHtml += '<div><h2>' + item.archive_code + '</h2><p>Inlämnad av <b>' + item.contributor.display_name + '</b>';
+  indexHtml += '<div><h2>' + item.contributor.display_name + '</h2>';
 
   if (item.contributor.hasOwnProperty('place')) {
     indexHtml += ', ' + item.contributor.place;
@@ -153,7 +153,11 @@ sortedArray.forEach(function(item){
   if (item.hasOwnProperty('latitude')) {
     responsesWithCoordinates++;
   }
-  indexHtml += '</p></div>\n';
+  let createdDate = new Date(item.created);
+  let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
+  indexHtml += '</p><p>Arkivkod <b>' + item.archive_code '</b>. Inlämnad av <b>' + item.contributor.display_name + '</b> ' + swedishDate + '</p></div>\n';
+
+  //  <p>Inlämnad av <b>' +  + '</b>
 
 });
 
