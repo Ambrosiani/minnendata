@@ -83,14 +83,6 @@ sortedArray.forEach(function(item){
 
   indexHtml += '<div><h2>' + item.contributor.display_name + '</h2>';
 
-  if (item.contributor.hasOwnProperty('place')) {
-    indexHtml += ', ' + item.contributor.place;
-  }
-
-  if (item.contributor.hasOwnProperty('birth_year')) {
-    indexHtml += ', född ' + item.contributor.birth_year;
-  }
-
   indexHtml += '</p><p>';
   
   if (item.hasOwnProperty('media')) {
@@ -155,7 +147,17 @@ sortedArray.forEach(function(item){
   }
   let createdDate = new Date(item.created);
   let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
-  indexHtml += '</p><p class="details">Arkivkod <b>' + item.archive_code + '</b>. Inlämnad av <b>' + item.contributor.display_name + '</b> den ' + swedishDate + '.</p></div>\n';
+  indexHtml += '</p><p class="details">Arkivkod <b>' + item.archive_code + '</b>. Inlämnad av <b>' + item.contributor.display_name;
+
+  if (item.contributor.hasOwnProperty('place')) {
+    indexHtml += ', ' + item.contributor.place;
+  }
+
+  if (item.contributor.hasOwnProperty('birth_year')) {
+    indexHtml += ', född ' + item.contributor.birth_year;
+  }
+
+  indexHtml += '</b> den ' + swedishDate + '.</p></div>\n';
 
 });
 
