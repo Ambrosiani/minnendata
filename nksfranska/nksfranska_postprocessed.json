@@ -920,63 +920,6 @@
     ]
   },
   {
-    "archive_code": "M4/00020",
-    "contributor": {
-      "display_name": "Ann Mari Hjorth"
-    },
-    "coordinates": "",
-    "created": "Sun, 07 Nov 2021 16:10:48 GMT",
-    "license": "CC BY",
-    "modified": "Sun, 07 Nov 2021 16:32:20 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17397",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "c9580a73-d8a3-473d-b401-c38916e56037",
-    "values": [
-      {
-        "created": "Sun, 07 Nov 2021 16:10:48 GMT",
-        "display_value": "Var nyligen och såg utställningen på Nordiska muséet, en riktig nostalgitripp.\n \nSänder här ett foto från mitt bröllop 27 mars 1959 på Gyldene Freden i Stockholm. Det föreställer min far arkitekt SAR Ragnar Hjorth och min mor Märta född Friestedt. \nHon var klädd i en kungsblå chiffongklädning från NK:s Franska. Jag har kvar klädningen i min ägo i sin originalkartong från NK.\n \nMärta Friestedt var kusin med Pelle Lundgren och sydde mycket hos honom genom åren. Främst aftonkläder men även kappor och dräkter.\n \nJag sålde de flesta aftonklädningarna 1980 eller -81 till en firma i Uppsala som hyrde ut aftonkläder till studentskor   Det var fyra i svart :\n                             En tyllöverklädning med stora puffärmar och vid kjol - 30-tal\n                             Ett slankt fodral, bararmad, i siden georgette 30-tal med brett skärp,\n                             en i tjockt ripssiden med stor krage - 40-tal,\n                             en sydd volanger hela klädningen med slank/rak silhuett.\nSka söka om jag har något foto som jag kan kopiera åt er om ni är intresserade.\n \nMvh\nAnn Mari Hjorth\n \nLjuskärrsvägen 13,\n133 31 Saltsjöbaden",
-        "modified": "Sun, 07 Nov 2021 16:10:48 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "cf4f445e-3118-48dd-903c-4dae1d02ca36"
-      },
-      {
-        "created": "Sun, 07 Nov 2021 16:10:48 GMT",
-        "display_value": "",
-        "modified": "Sun, 07 Nov 2021 16:32:20 GMT",
-        "topic_item": {
-          "label": "Berätta gärna om ett plagg från damskrädderiet.",
-          "label_i18n": {
-            "sv": "Berätta gärna om ett plagg från damskrädderiet."
-          },
-          "type": "Textarea",
-          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "a23acae4-4026-4985-8240-f5d899a144c5"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00014",
     "contributor": {
       "display_name": "Vintageentusiast"
