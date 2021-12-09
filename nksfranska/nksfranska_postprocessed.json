@@ -474,43 +474,6 @@
     ]
   },
   {
-    "archive_code": "M4/00011",
-    "contributor": {
-      "display_name": "carinjelbring@hotmail.com"
-    },
-    "created": "Sun, 26 Sep 2021 12:54:49 GMT",
-    "license": "CC BY",
-    "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17282",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "f4d65c31-4d0b-47c3-ba93-3a08b4b5a998",
-    "values": [
-      {
-        "created": "Sun, 26 Sep 2021 12:54:49 GMT",
-        "display_value": "Min pappa jobbade på NKs franska damskrädderi som chef.\nJag var ofta uppe och hälsade på.\nSömmerskorna sydde fina kläder till mig av stuvbitar. Varje skolavslutning sydde de upp något fint till mig.\nJag har träffat många av mannekängerna men även Astrid Sampe Viola Gråsten mfl. Jag har fina modetecknigar av VG samt tavla av AS.\nÄven en del tyger har jag kvar.\nMånga fina minnen har jag av NK.\nMVH Carin Jelbring(Nemvill)",
-        "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "de9d4497-f8f3-4ae6-bade-d36f4105feb9"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00018",
     "contributor": {
       "display_name": "Monica Rågby",
@@ -574,6 +537,43 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "91949638-32e1-4fa1-b26b-6e9b0419510c"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00011",
+    "contributor": {
+      "display_name": "carinjelbring@hotmail.com"
+    },
+    "created": "Sun, 26 Sep 2021 12:54:49 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17282",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "f4d65c31-4d0b-47c3-ba93-3a08b4b5a998",
+    "values": [
+      {
+        "created": "Sun, 26 Sep 2021 12:54:49 GMT",
+        "display_value": "Min pappa jobbade på NKs franska damskrädderi som chef.\nJag var ofta uppe och hälsade på.\nSömmerskorna sydde fina kläder till mig av stuvbitar. Varje skolavslutning sydde de upp något fint till mig.\nJag har träffat många av mannekängerna men även Astrid Sampe Viola Gråsten mfl. Jag har fina modetecknigar av VG samt tavla av AS.\nÄven en del tyger har jag kvar.\nMånga fina minnen har jag av NK.\nMVH Carin Jelbring(Nemvill)",
+        "modified": "Sun, 26 Sep 2021 12:54:49 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "de9d4497-f8f3-4ae6-bade-d36f4105feb9"
       }
     ]
   },
