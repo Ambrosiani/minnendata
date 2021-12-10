@@ -81,7 +81,7 @@ sortedArray.forEach(function(item){
   delete item.ready_for_approval;
   delete item.user_id;
 
-  indexHtml += '<div><h2>' + item.contributor.display_name + '</h2>';
+  indexHtml += '<div><h2>Berättat av ' + item.contributor.display_name + '</h2>';
 
   indexHtml += '<p>';
   
