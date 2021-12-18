@@ -231,43 +231,6 @@
     ]
   },
   {
-    "archive_code": "M4/00006",
-    "contributor": {
-      "display_name": "Inga-Britt Ahlenius"
-    },
-    "created": "Sun, 12 Sep 2021 19:09:39 GMT",
-    "license": "CC BY",
-    "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17270",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "03b8fe18-1511-4e18-b4a7-39283bf41ea5",
-    "values": [
-      {
-        "created": "Sun, 12 Sep 2021 19:09:39 GMT",
-        "display_value": "Jag letade inte efter något speciellt, kanske en lornjett i stället för läsglasögonen, ett smycke… Men där längst in och högst upp på väggen i second-hand butiken så hängde den - en aftonkappa i midnattsblå matt siden-crepe, fodrad och med tungt fall, sydda veck  på överdelen, små klädda knappar, så vacker! Det här är i början av 90-talet, jag hade blivit utnämnd till generaldirektör och det hade kommit inbjudningar till middag på slottet, till Nobelfesten, jag behövde något vackert! Och under ett par decennier fick kappan en andra glansperiod och blev i alla sammanhang ett mycket beundrat plagg. Först senare upptäckte jag att det fanns en etikett i kappan som berättade att den beställts 1938 till en fru Wilhelm F… och jag funderade mycket över vad som varit Kappans första glansperiod. Hon som fått den beställd till sig måste ha varit en mycket reslig dam - trots mina höga klackar måste jag försiktigt tråckla upp den ca 15cm för att den inte skulle släpa i marken. Vem var hon och på vilka baler och fester hade hon burit kappan?\nInga-Britt Ahlenius",
-        "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "279371a0-0449-4f34-b048-33efecf5ac35"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00018",
     "contributor": {
       "display_name": "Monica Rågby",
@@ -331,6 +294,43 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "91949638-32e1-4fa1-b26b-6e9b0419510c"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00006",
+    "contributor": {
+      "display_name": "Inga-Britt Ahlenius"
+    },
+    "created": "Sun, 12 Sep 2021 19:09:39 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17270",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "03b8fe18-1511-4e18-b4a7-39283bf41ea5",
+    "values": [
+      {
+        "created": "Sun, 12 Sep 2021 19:09:39 GMT",
+        "display_value": "Jag letade inte efter något speciellt, kanske en lornjett i stället för läsglasögonen, ett smycke… Men där längst in och högst upp på väggen i second-hand butiken så hängde den - en aftonkappa i midnattsblå matt siden-crepe, fodrad och med tungt fall, sydda veck  på överdelen, små klädda knappar, så vacker! Det här är i början av 90-talet, jag hade blivit utnämnd till generaldirektör och det hade kommit inbjudningar till middag på slottet, till Nobelfesten, jag behövde något vackert! Och under ett par decennier fick kappan en andra glansperiod och blev i alla sammanhang ett mycket beundrat plagg. Först senare upptäckte jag att det fanns en etikett i kappan som berättade att den beställts 1938 till en fru Wilhelm F… och jag funderade mycket över vad som varit Kappans första glansperiod. Hon som fått den beställd till sig måste ha varit en mycket reslig dam - trots mina höga klackar måste jag försiktigt tråckla upp den ca 15cm för att den inte skulle släpa i marken. Vem var hon och på vilka baler och fester hade hon burit kappan?\nInga-Britt Ahlenius",
+        "modified": "Sun, 12 Sep 2021 19:09:39 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "279371a0-0449-4f34-b048-33efecf5ac35"
       }
     ]
   },
