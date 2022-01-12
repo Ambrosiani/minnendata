@@ -42,7 +42,7 @@ var array = storedRecords["items"];
 
 var count = baseCount;
 var offset = baseCount;
-var newResults = {};
+var newResults = [];
 while (count < totalCount) {
   var url = baseUrl + '&offset=' + offset;
   const additionalResults = await readJSONFromURL(url);
