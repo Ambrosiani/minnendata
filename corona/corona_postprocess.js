@@ -33,7 +33,7 @@ var stats = await readJSON(statsFile);
 var storedRecords = await readJSON(storedRecordsFile);
 
 var statsCount = stats["responses"];
-var baseCount = stats;
+var baseCount = statsCount;
 const totalCount = json["total_count"];
 var baseUrl = 'https://api.minnen.se/api/responses/?topic=f5c88a3d-0acf-4cac-bf3f-91cfb098ee12&order=created';
 
@@ -41,7 +41,7 @@ var baseUrl = 'https://api.minnen.se/api/responses/?topic=f5c88a3d-0acf-4cac-bf3
 var array = storedRecords;
 
 var count = baseCount;
-var offset = baseCount;
+var offset = totalCount;
 var newResults = [];
 while (count < totalCount) {
   var url = baseUrl + '&offset=' + offset;
@@ -197,6 +197,7 @@ indexHtml += '</div>\n\
 
 await Deno.writeTextFile(newFilename, JSON.stringify(array, null, 2));
 await Deno.writeTextFile('corona/corona_stats.json', JSON.stringify(stats, null, 2));
+await Deno.writeTextFile('corona/newRecords.json', JSON.stringify(newResults, null, 2));
 await Deno.writeTextFile('corona/index.html', indexHtml);
 console.log("Wrote a post process file");
 
