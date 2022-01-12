@@ -58,8 +58,8 @@ array.concat(newResults);
 //var responsesWithImages = stats["responsesWithImages"];
 //var responsesWithCoordinates = stats["responsesWithCoordinates"];
 
-responsesWithImages = 0;
-responsesWithCoordinates = 0;
+var responsesWithImages = 0;
+var responsesWithCoordinates = 0;
 
 var stats = {};
 var indexHtml = '<!DOCTYPE html>\n\
