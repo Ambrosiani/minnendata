@@ -5,72 +5,82 @@
 import { readJSON, readJSONFromURL } from 'https://deno.land/x/flat@0.0.10/src/json.ts'
 import { removeFile } from 'https://deno.land/x/flat@0.0.10/src/remove.ts'
 
-function GetSortOrder(prop){
+function GetSortOrder(property){
    return function(a,b){
-      if( a[prop] > b[prop]){
+      if( a[property] > b[property]){
           return 1;
-      }else if( a[prop] < b[prop] ){
+      }else if( a[property] < b[property] ){
           return -1;
       }
       return 0;
    }
 }
 
-function GetAllResults(json){
-   
-
-   return json;
-}
-
-// Step 1: Read the downloaded_filename JSON
-const filename = 'corona.json' // Same name as downloaded_filename
-var json = await readJSON(filename);
-
-removeFile(filename);
-
-var base_count = json["count"];
-var totalCount = json["total_count"];
-var base_url = 'http://api.minnen.se/api/responses?topic=f5c88a3d-0acf-4cac-bf3f-91cfb098ee12';
-var offset = 0;
-var count = base_count;
-
-while (count < totalCount) {
-  offset = offset + 10;
-  var url = base_url + '&offset=' + offset;
-  const json_next = await readJSONFromURL(url);
-  for (var i = json_next["items"].length - 1; i >= 0; i--) {
-    json["items"].push(json_next["items"][i]);
+function GetNewRecords(){
+  var count = baseCount;
+  var offset = baseCount;
+  var newResults = {};
+  while (count < totalCount) {
+    var url = baseUrl + '&offset=' + offset;
+    const additionalResults = await readJSONFromURL(url);
+    for (var i = additionalResults["items"].length - 1; i >= 0; i--) {
+      newResults.push(additionalResults["items"][i]);
+    }
+    count = count + additionalResults["items"].length;
+    offset = offset + 10;
   }
-  count = count + json_next["items"].length;
+  return newResults;
 }
 
-const array = json["items"];
+// set file names
 
-var sortedArray = array.sort( GetSortOrder("hits")).reverse();
+const resultsFile = 'corona.json';
+const statsFile = 'corona/corona_stats.json';
+const storedRecordsFile = 'corona/corona_postprocessed.json';
 
-var responsesWithImages = 0;
-var responsesWithCoordinates = 0;
+
+var json = await readJSON(resultsFile);
+removeFile(resultsFile);
+
+var stats = await readJSON(statsFile);
+var storedRecords = await readJSON(storedRecordsFile);
+
+var statsCount = stats["responses"];
+var baseCount = stats;
+const totalCount = json["total_count"];
+var baseUrl = 'https://api.minnen.se/api/responses/?topic=f5c88a3d-0acf-4cac-bf3f-91cfb098ee12&order=created';
+
+
+const array = storedRecords["items"];
+array.push(GetNewRecords());
+
+//var responsesWithImages = stats["responsesWithImages"];
+//var responsesWithCoordinates = stats["responsesWithCoordinates"];
+
+responsesWithImages = 0;
+responsesWithCoordinates = 0;
+
 var stats = {};
 var indexHtml = '<!DOCTYPE html>\n\
 <html lang="sv">\n\
 <head>\n\
     <meta charset="utf-8">\n\
     <meta name="viewport" content="width=device-width, initial-scale=1">\n\
-    <title>NKs Franska damskrädderi</title>\n\
+    <title>Coronaminnen</title>\n\
     <link rel="stylesheet" href="corona_style.css">\n\
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">\n\
 </head>\n\
 <body>\n\
 <a id="top"></a>\n\
 <div class="ingress">\n\
-<h1>Corona</h1>\n\
+<h1>Coronaminnen</h1>\n\
 <p>Introtext.</p>\n\
 <div class="delta"><p>För att själv delta, besök <b>Minnen.se/tema/corona</b> genom att skanna QR-koden med din telefon.</p><img class="qr" src="images/Minnen_NKs_Franska.png" /></div></div>\n\
 <p class="navbar"><a href="#top">Gå till början av sidan</a></p>\n\
 <div class="grid">';
 
 
-sortedArray.forEach(function(item){
+array.forEach(function(item){
   delete item.comment_count;
   delete item.hits;
   delete item.imported;
@@ -160,7 +170,7 @@ sortedArray.forEach(function(item){
 });
 
 
-stats["Responses"] = array.length
+stats["responses"] = array.length;
 stats["responsesWithCoordinates"] = responsesWithCoordinates;
 stats["responsesWithImages"] = responsesWithImages;
 
