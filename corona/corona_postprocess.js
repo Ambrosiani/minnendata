@@ -16,21 +16,8 @@ function GetSortOrder(property){
    }
 }
 
-function GetNewRecords(){
-  var count = baseCount;
-  var offset = baseCount;
-  var newResults = {};
-  while (count < totalCount) {
-    var url = baseUrl + '&offset=' + offset;
-    const additionalResults = await readJSONFromURL(url);
-    for (var i = additionalResults["items"].length - 1; i >= 0; i--) {
-      newResults.push(additionalResults["items"][i]);
-    }
-    count = count + additionalResults["items"].length;
-    offset = offset + 10;
-  }
-  return newResults;
-}
+
+
 
 // set file names
 
@@ -52,7 +39,21 @@ var baseUrl = 'https://api.minnen.se/api/responses/?topic=f5c88a3d-0acf-4cac-bf3
 
 
 const array = storedRecords["items"];
-array.push(GetNewRecords());
+
+var count = baseCount;
+var offset = baseCount;
+var newResults = {};
+while (count < totalCount) {
+  var url = baseUrl + '&offset=' + offset;
+  const additionalResults = await readJSONFromURL(url);
+  for (var i = additionalResults["items"].length - 1; i >= 0; i--) {
+    newResults.push(additionalResults["items"][i]);
+  }
+  count = count + additionalResults["items"].length;
+  offset = offset + 10;
+}
+
+array.push(newResults);
 
 //var responsesWithImages = stats["responsesWithImages"];
 //var responsesWithCoordinates = stats["responsesWithCoordinates"];
