@@ -38,7 +38,7 @@ const totalCount = json["total_count"];
 var baseUrl = 'https://api.minnen.se/api/responses/?topic=f5c88a3d-0acf-4cac-bf3f-91cfb098ee12&order=created';
 
 
-const array = storedRecords["items"];
+var array = storedRecords["items"];
 
 var count = baseCount;
 var offset = baseCount;
