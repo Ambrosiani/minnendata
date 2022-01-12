@@ -195,7 +195,7 @@ indexHtml += '</div>\n\
     </script>\n\
 </html>';
 
-await Deno.writeTextFile(newFilename, JSON.stringify(sortedArray, null, 2));
+await Deno.writeTextFile(newFilename, JSON.stringify(array, null, 2));
 await Deno.writeTextFile('corona/corona_stats.json', JSON.stringify(stats, null, 2));
 await Deno.writeTextFile('corona/index.html', indexHtml);
 console.log("Wrote a post process file");
