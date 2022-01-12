@@ -1,0 +1,1167 @@
+[
+  {
+    "archive_code": "M2/04442",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "Birgitta W"
+    },
+    "created": "Sun, 02 Jan 2022 17:20:47 GMT",
+    "hits": 3,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Sun, 02 Jan 2022 17:20:47 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 59.8585638,
+      "longitude": 17.6389267
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17705",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 6163,
+    "uuid": "29e959b7-cf1e-4a68-ad97-ced14f0074f6",
+    "values": [
+      {
+        "created": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "display_value": "Så deppigt under mer 2 års tid.  Stress som varit enorm över bristen  på kontakt med nära o kära.  Sömnlöshet. Barnbarnet fyllde 2 år 30 januari 2020. Vi kunde inte ses alls förrän i augusti utomhus. I november fick jag typ1- diabetes (stressen av att inte kunna umgås var enorm). Inget gemensamt julfirande ( öppnade paketen på skype). inget besök för att fira barnbarnets 3-års  födelsedag. Inga gemensamma resor, varken vinter eller sommar.",
+        "modified": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "b3116ebc-5ac2-4474-b8f6-fbfb30874959"
+      },
+      {
+        "created": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "display_value": "1953",
+        "modified": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "a0f251b3-7a0e-4f44-9025-c31a76ddc22e"
+      },
+      {
+        "created": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "display_value": "Under 2020 handlade vi allt på nätet tom matvaror. Var ej i affärer alls. Umgicks inte. Gjorde många långa promenader i naturen. Vågade inte ta bilen till annan ort och bo över. Var ej till sommarhuset. Lagade mat till oss samt min mans 98-årige far och gav till honom över balkongen. Hälsade på mamma 92 på vårdboendet 3 ggr bakom plexiglasruta på 6 månader ( mer fick vi inte boka).",
+        "modified": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "1fd130d6-0b12-435f-8703-124f349ffd74"
+      },
+      {
+        "created": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "display_value": "Folkhälsomyndigheten har fel uppdrag för att kunna leda smittskyddsarbetet. Olika intressen inom uppdraget står i motsättning till varandra. T ex vikten av att barnen ska kunna åka på läger och spela matcher är viktigare än att rädda äldres liv.  En annan krismyndighet måste få framtida pandemiuppdrag. Presskonferenserna har förvandlats till sömniga tillställningar där samma budskap manglas ut. Journalisterna sitter o sover. Ingen orkar ställa ifrågasättande frågor, t ex Anders Tegnells dissande av munskydd. Man byter också åsikt om t ex munskyddens effektivitet utan att erkänna detta.",
+        "modified": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "9d72be8d-1995-4e3c-b298-3d1fb44c2df2"
+      },
+      {
+        "created": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "display_value": "Hoppas på ett tydligare ledarskap från politiker. De måste lyssna till smittskyddsläkare, WHO och olika experter, inte bara krypa bakom sina myndigheter. Vi måste reformera sättet Sverige styrs. De tredelade nivåerna stat, regioner och kommuner med vattentäta skott däremellan och helt fristående myndigheter fungerar inte i krissituationer. Det är för mycket stuprör. Kombinerat med att tjänstemannaskapets ansvar är avskaffat ger det ett samhälle med U.P.A ( människor utan personligt ansvar). Det är alltid någon annans bord.",
+        "modified": "Sun, 02 Jan 2022 17:20:47 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "367daa3b-b32e-4586-ae4a-184b30c9fe30"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04441",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "LM"
+    },
+    "created": "Sun, 02 Jan 2022 12:00:38 GMT",
+    "hits": 2,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Sun, 02 Jan 2022 12:00:38 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 59.8350077990513,
+      "longitude": 17.6096491293442
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17704",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 6504,
+    "uuid": "40d45aa1-77b9-4bf5-886e-3e926859ff55",
+    "values": [
+      {
+        "created": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "display_value": "Umgås inte så mycket med andra förutom min partner. Ses man med andra är det utomhus eller i luftiga glesa miljöer med avstånd.",
+        "modified": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "5d9d1483-c435-4e58-afef-adb2a65fe63c"
+      },
+      {
+        "created": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "display_value": "1967",
+        "modified": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "8f023068-7fe4-4f4b-bedf-a3299080521b"
+      },
+      {
+        "created": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "display_value": "Promenerar 3-10km per dag. Köper bara secondhand och mindre än förut. I princip endast på nätet. Nya köpvanor ger mer sparande! Aktier har gått upp 2021 så ekonmin är bra.",
+        "modified": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "43a3277f-e10b-406a-8db6-e072a3fe21c7"
+      },
+      {
+        "created": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "display_value": "Polarisering mellan människor. Näthat. Antivaxxers är egoister som endast tänker på sin egen sak.",
+        "modified": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "f89e4797-0796-4336-b645-dd0a8bc8238f"
+      },
+      {
+        "created": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "display_value": "Positivt: Bättre hygien på människors händer, mer medvetenhet mot pandemiridker o effekter. Kramar har blivit viktigare eftersom man inte delar ut den så ofta längre. \nNegativt: När det gäller människan i stort är det väldigt tydligt att vi är för många på planeten. Både ur pandemiperspektiv och ännu mer utifrån miljöeffekterna. Begränsa befolkningsökningen behöver  adresseras om vi ska klara den här planeten.",
+        "modified": "Sun, 02 Jan 2022 12:00:38 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "7e1f3704-f40b-4d89-9de0-c84fad08543c"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04440",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "Jonnie"
+    },
+    "created": "Fri, 31 Dec 2021 18:25:52 GMT",
+    "hits": 2,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Fri, 31 Dec 2021 18:25:52 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 59.6110756083973,
+      "longitude": 16.544350863186
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17692",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 6502,
+    "uuid": "4a730e31-07a6-48e7-824b-a55c4d171f63",
+    "values": [
+      {
+        "created": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "display_value": "Jag har sparat länge för att kunna åka till USA. Nu verkar det som jag äntligen skulle kunna genomföra min drömresa, men det sket sig, kan man säga. \nMånga projekt och idéer har jag fått lägga på is. Uppträdanden och shower som jag inte kunnat genomföra. Ej heller se någon underhållning live. Det är så frustrerande! Det är trist att plötsligt få friheten inskränkt och bli så begränsad. Det gynnar inte den mentala hälsan.",
+        "modified": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "2480bdf7-f698-4fe1-b528-430aff0eca18"
+      },
+      {
+        "created": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "display_value": "1984",
+        "modified": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "370baa99-cd87-4023-99cc-37aadafd89f0"
+      },
+      {
+        "created": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "display_value": "Jag näthandlar betydligt mer nu. Jag undviker butiker och andra ställen där det finns risk att många människor samlas. \nJag undviker kollektivtrafiken, åtminstone de tider då trängseln är värst. Jag tar hellre bilen. \nJag har kommit på mig själv flera gånger att jag går omvägar runt folk, och tänker på åt vilket håll det blåser när jag är ute. Strävar efter att själv alltid gå i lovart.",
+        "modified": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "8027ab90-aec1-49d0-a405-3379fff56cb9"
+      },
+      {
+        "created": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "display_value": "Jag tycker att all viktig information om pandemin ska vara gratis och tillgänglig för alla. Jag anser det är fel av nättidningarna att ha sån information som betalartiklar. Jag fattar att det ä frustrerande, men jag tycker många är nonchalanta och inte bryr sig",
+        "modified": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "80e092e2-ce20-45fe-a9f1-63e2abc90777"
+      },
+      {
+        "created": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "display_value": "Jag tror vi kommer få leva med det lång tid framöver. Kanske kommer det blekna i västvärlden, men fortsätta i länder där det är svårt att nå fram med information och vaccin.",
+        "modified": "Fri, 31 Dec 2021 18:25:52 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "580930be-6c68-42d1-81ec-5845ac18bd58"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04438",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "Daniel Jönsson"
+    },
+    "created": "Tue, 28 Dec 2021 10:36:41 GMT",
+    "hits": 2,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Tue, 28 Dec 2021 10:36:41 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 56.6732382078892,
+      "longitude": 12.8639939966612
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17687",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 6391,
+    "uuid": "b7540051-8294-4b62-9205-5f8c8dad4e6a",
+    "values": [
+      {
+        "created": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "display_value": "Jag mår bra, livet har saktat med rejält. Inser vikten av ett långsammare liv, med färre sociala interaktioner. Fokuserar på att leva i nuet så mycket som möjligt.\n\nSnart två år av att arbeta hemma och leva själv är bitvis tufft. I vissa situationer känns det som om jag lever i en värld efter covid, men så dyker den åter upp i ens närhet för att påminna mig om att fortsätta vara försiktig.",
+        "modified": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "a3f2ee16-f173-4098-b950-318933e91a9a"
+      },
+      {
+        "created": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "display_value": "1976",
+        "modified": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "cea4468d-3ae6-43ad-a061-d447078184d4"
+      },
+      {
+        "created": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "display_value": "Är mer utomhus än innan covid. Sociala tillfällen är betydligt färre.\n\nKalsongfyllan är mer legitim numera.\n\nStort socialt kontaktnät på discord istället för irl.",
+        "modified": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "743dc758-6516-4e3f-baad-11470a1d65c0"
+      },
+      {
+        "created": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "display_value": "Det går en spricka genom samhället, där jargongen blir allt hårdare. Vaccinering eller inte, statlig kontroll eller medmänsklighet, saker ställs allt mer på sin spets. Iallafall medialt.\n\nVäldigt många ensam, långtidsarbetslösa, kontrollerade, våldsutsatta mm tar illa när de osynliggörs.",
+        "modified": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "35dc454b-a87b-4334-a705-127f4ed516c7"
+      },
+      {
+        "created": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "display_value": "Förr eller senare får vi kontroll över smittan.",
+        "modified": "Tue, 28 Dec 2021 10:36:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "e13e6fc1-b737-410c-8d2e-a3f4b062c600"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04436",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "Malin"
+    },
+    "created": "Mon, 27 Dec 2021 20:46:44 GMT",
+    "hits": 2,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Mon, 27 Dec 2021 20:46:44 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 55.5549044575442,
+      "longitude": 14.3596521513835
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17685",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 6499,
+    "uuid": "67d16359-8d4f-455c-adbf-2176cbc9b95f",
+    "values": [
+      {
+        "created": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "display_value": "Fick mitt andra barn under pandemi, vilket skilde sig markant ifrån mitt första barns födsel. Min partner fick vara med vid förlossningen men sen var han tvungen att lämna mig och sin nyfödda son själva kvar på BB. Det var oerhört tufft o utmattande att inte ha sin partner hos sig de första dagarna efter förlossningen. Jag var väldigt ledsen och min partner kände att han missade viktig tid med sin nyfödde son. Det är något visst med första tiden på BB.",
+        "modified": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "815cc32d-2862-4455-a0df-6a95fd0a57ce"
+      },
+      {
+        "created": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "display_value": "1987",
+        "modified": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "32bc10d2-706d-479a-b9e7-3eb33c912c88"
+      },
+      {
+        "created": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "display_value": "Jag är mer aktsam, håller avstånd och undviker stora folksamlingar. Handlar numera väldigt mycket online för att slippa trängsel. Är jag i mataffären handlar jag alltid med shopexpress för att slippa stå i kö. På så vis har vardagen förbättrats och förenklats, speciellt som barnfamilj. Allt kan man få hem till dörren.",
+        "modified": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "1d41dd7f-9b64-4c96-8d17-6d58d2f3ea75"
+      },
+      {
+        "created": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "display_value": "Man är orolig och har först nu insett att det aldrig kommer bli ”som vanligt” igen. Inte på det viset man känner till vardagen och samhället. Jag tycker myndigheterna varit väldigt otydliga, ologiska och slöa i sina beslut och restriktioner.",
+        "modified": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "1710ddfb-a21e-4ad2-9e19-238dd0167c39"
+      },
+      {
+        "created": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "display_value": "Jag tror att vi lärt oss leva på ett helt annat sätt. Mycket online-shopping som förenklar vardagen till det positiva.",
+        "modified": "Mon, 27 Dec 2021 20:46:44 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "58f42451-cf63-47cb-b849-8cdefeabba71"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04435",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "Karin"
+    },
+    "created": "Mon, 27 Dec 2021 10:11:22 GMT",
+    "hits": 2,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Mon, 27 Dec 2021 10:11:22 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 65.584819,
+      "longitude": 22.1567026
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17684",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 6365,
+    "uuid": "4cd2cf1e-9483-4372-9d6e-db0e51395a9e",
+    "values": [
+      {
+        "created": "Mon, 27 Dec 2021 10:11:22 GMT",
+        "display_value": "3dje vågen. Vill jobba hemma för att kunna träffa 85-årig mor i jul. Nya restriktioner, försiktig och rädd. Så blir sonen sjuk. Tänker, ok vi är hemma tills vi får provsvar. Testar fredag, svar lördag, ingen corona, bra. På måndag blir jag sjuk. Hosta, feber, snuva. Då kan vi inte träffa mor som varit isolerad så länge. Ingen ork. Ingen jul. Allt blir ett grått moln av trötthet, som om en bit av livet där man behövt vila och ta igen sig, klipps ut,och ett grått tomrum kvarstår.",
+        "modified": "Mon, 27 Dec 2021 10:11:22 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "0e1a59c0-6d63-4fb3-babe-b50f1dec7440"
+      },
+      {
+        "created": "Mon, 27 Dec 2021 10:11:22 GMT",
+        "display_value": "1966",
+        "modified": "Mon, 27 Dec 2021 10:11:22 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "9462e390-af46-42dd-b2e4-4478ca21d1d8"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04433",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "joand"
+    },
+    "created": "Wed, 22 Dec 2021 15:26:52 GMT",
+    "hits": 4,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Wed, 22 Dec 2021 15:26:52 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 59.0375632155699,
+      "longitude": 15.8838389119575
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17682",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 2656,
+    "uuid": "db49de2c-0397-439d-83f7-57607c971b9a",
+    "values": [
+      {
+        "created": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "display_value": "Vi undviker att hamna i större folksamlingar det var tex 3 månader sen vi var på ett köpcenter. Alla våra inköp av dagligvaror gör vi via internet och hämtar ut vid butiken, det är något som vi har gjort sedan pandemin började. Vi drabbas ändå inte så mycket utan det handlar mest om att lägga om rutinerna. Det fungerar att göra det på landsbygden.",
+        "modified": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "cbb03768-7a96-4463-809f-0034028c2d13"
+      },
+      {
+        "created": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "display_value": "1958",
+        "modified": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "74b5c4dd-23ce-405d-b1b0-1633915d0a64"
+      },
+      {
+        "created": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "display_value": "Som tidigare nämnt så har vi lagt om våra vardagsrutiner så att man minimerar kontakt med andra mäniskor.",
+        "modified": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "44551975-fd56-4acc-b7b5-88c9b278cc49"
+      },
+      {
+        "created": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "display_value": "Det känns som avvaktande och många dubbla budskap.",
+        "modified": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "49cde3c8-ab65-4e08-8de4-ed37a23a818f"
+      },
+      {
+        "created": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "display_value": "Det känns som man får se vad som händer. Det kan ju gå hur som helst.",
+        "modified": "Wed, 22 Dec 2021 15:26:52 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "c9f87cc9-8096-4750-beb1-0b2a75819d9e"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04430",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "Anna-Johanna von Platen"
+    },
+    "created": "Sat, 18 Dec 2021 10:38:14 GMT",
+    "hits": 7,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Sat, 18 Dec 2021 10:38:14 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 60.5412991363229,
+      "longitude": 16.5697404223963
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17678",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 3534,
+    "uuid": "4bbca85e-e854-4620-9900-ea89e1a0a665",
+    "values": [
+      {
+        "created": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "display_value": "De senaste 16 åren har jag arbetat i min enskilda firma, till största delen arbetat ensam, 2/3 hemifrån och 1/3 ute hos kunderna. Pandemin gjorde mitt arbete enklare eftersom det inte var så många på arbetsplatserna jag besökte och jag kunde arbeta ostört och inte behöva ta så mycket hänsyn till deras ordinarie arbete.\n\nDen största skillnaden för mig var att jag inte kunde umgås så mycket med folk, att inte resa till vänner och släktingar och att granarna mest träffades utomhus. Det gick nästan otäckt bra. Det jag nog har saknat mest under pandemin är en partner, en stadig livskamrat. Jag är inte ett dugg intresserad av tillfälliga sexuella förbindelser och den relation jag försökte bygga upp hindrades och avslutades till viss del pga av pandemin. En liten sorg i sammanhanget var också att min dotter verkligen avskydde hemundervisningen på gymnasiet. Hon led av ensamheten och levde upp endast därför att skolan var generös nog att låta henne och några klasskamrater studera på distans men i skolans lokaler. \n\nJag mår ändå otroligt bra för egen del. Mitt liv är mycket priviligierat, mina vänner tålmodiga och kloka, mina uppdragsgivare stabila och generösa mina grannar underbara och hjälpsamma. Jag har hjälpt dem så mycket kan kunnat under pandemin och fått all hjälp jag behövt tillbaka.  Ingen i min närhet har dött pga pandemin och jag börjar betvivla att överdödligheten varit så stor som det ett tag kändes.\n\nDet lidande jag känner är för andra - även i andra länder - för dem som förlorat sin hälsa, jobbet, nära och kära, sin framtidstro och tilltron till styrande och institutioner.",
+        "modified": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "abaaaa50-5541-4539-aab5-04ea8fac4196"
+      },
+      {
+        "created": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "display_value": "1968",
+        "modified": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "4bda59d5-f18d-4ce0-96f7-48c0a73810ce"
+      },
+      {
+        "created": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "display_value": "Min vardag har förändrats väldigt lite. Jag hade redan länge planerat att resa mer i Sverige men dessa resor har blivit lite annorlunda än jag planerat eftersom många museer och sevärdheter var stängda under lång tid. Mitt förråd av förnödenheter har alltid varit stort och tänkt att försörja min familj under 3 månader (numera lever jag ensam och förrådet är nu räknat på att försörja 2 personer i 3 månader). Under lång tid bar jag andningsmask när jag var ute och handlade och alltid när jag besökte huvudstaden på jobb. Jag åkte mycket taxi och hade alltid ett stort lager tvättservetter med mig för att tvätta händer och torka av saker.  Nu har jag fortfarande andningsmasker med mig men bär dem bara om jag måste åka kollektivt. Jag frågar alltid innan jag tar någon i hand eller kramar om någon. Det är inte läge att vara spontan.",
+        "modified": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "77fcb441-b386-4a12-b495-36631f985898"
+      },
+      {
+        "created": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "display_value": "Media har verkligen dragit sitt strå till stacken och försökt undvika sensationsrubriker på andras bekostnad. Vi har alla gjort så gott vi kunnat och jag är fortfarande enormt tacksam för att ha levt i Sverige där nedstängningen var partiell och jag kunde köra bil till mina kunder runt om i landet utan att hindras av vägtullar eller avspärrningar. Jag hyrde stugor och bodde ensam, lagade min egen mat och arbetade ensam i fastigheterna och höll avstånd till mina uppdragsgivare. Att det ens var tillåtet och möjligt beror på vårt lands rätt pragmatiska inställning till pandemin. Konsekvenserna blev ändå högst kännbara för väldigt många. \n\nDet är också en av de viktigaste åtgärderna just nu - att försöka få igång samhället efter nya behov och under nya omständigheter. Bara att hålla föreningslivet, restauranger och teatrar igång har varit ett elddop och många medarbetare är utarbetade trots generösa bidrag från staten.",
+        "modified": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "5d882f47-af5b-49d4-a5b8-65f3fcd583f9"
+      },
+      {
+        "created": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "display_value": "Vi har börjat vänja oss. Vi frågar oss om vi måste tillbaka eller om vi helt enkelt skall lära oss av detta och ändra vårt beteende. Det är stort och rätt märkvärdigt. Vi behövde få upp ögonen för vår klimatpåverkan också och de minskade resorna märktes så tydligt. För många går det utmärkt att inte flyga, att inte göra många små helgresor. De som är rastlösa kanske får hitta på andra sätt att hantera sina problem. Förhoppningsvis kommer statusjakten också att förändras, det skulle avhjälpa mycket.",
+        "modified": "Sat, 18 Dec 2021 10:38:14 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "62cac514-f1d8-413c-a513-cc93079a42aa"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04429",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "Leens"
+    },
+    "created": "Sat, 18 Dec 2021 09:46:27 GMT",
+    "hits": 4,
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "modified": "Sat, 18 Dec 2021 09:46:27 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 51.2824780659482,
+      "longitude": 0.181170041486118
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17677",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 3671,
+    "uuid": "bb1a0053-e807-41e0-9448-7389eb94121e",
+    "values": [
+      {
+        "created": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "display_value": "Jag mår inte speciellt bra. Jag bor i England  med min familj och vi har haft ett antal lockdowns över de senaste två åren. Jag har faktiskt glömt hur många. För mig är det den första som är mest betydelsefull då min äldsta dotter - då 17 år - åkte rejält dit på anorexia sjukdomen. Och nästan två år senare är det fortfarande oerhört svårt. Jag har lärt mig av att njuta av de små små ögonblicken då livet ser lite ljusare ut och föröka bära med mig det ljuset så länge det går. Men det är nästan omöjligt att nå bra om ens barn inte mår bra. Min vardag är allmänt tråkigare än den brukade vara men samtidigt är jag tacksam att ha ett jobb att gå till som får mig att fokusera på något annat några timmar.",
+        "modified": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "64fa0588-aba2-4c3c-a74f-1ac90d2bbcd8"
+      },
+      {
+        "created": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "display_value": "1970",
+        "modified": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "f2227a90-1f6f-4804-b74a-d7d6202c1c8f"
+      },
+      {
+        "created": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "display_value": "Går mindre i affärer. Även om vi här använder skyddsmask. Köper mer mat mindre saker. Träffar folk mer sällan än innan covid.",
+        "modified": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "1cdbf4fc-b6eb-4653-9ea2-838c1bd50d98"
+      },
+      {
+        "created": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "display_value": "Vet inte hur det är i Sverige men här är vi alla supertrötta på en arrogant regering.",
+        "modified": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "4e5e4cc5-11c9-4fec-914e-9bfb3ed4e221"
+      },
+      {
+        "created": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "display_value": "Det ser ut som det är något vi inte kommer bli av med, coronan. Det är oerhört tungt. Och jag känner sådan sorg för mina barn och framtida generationer. Konsekvenserna verkar bli att vi umgås mindre och det tror jag är väldigt dåligt för både personer och  samhälle.",
+        "modified": "Sat, 18 Dec 2021 09:46:27 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "c0ba44d4-7b1e-4501-881d-a0f0105d70ec"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04426",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "Lena"
+    },
+    "created": "Thu, 16 Dec 2021 14:42:36 GMT",
+    "hits": 2,
+    "image_dms_id": "013Ajt387L1n",
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "media": [
+      {
+        "created": "Thu, 16 Dec 2021 14:30:51 GMT",
+        "description": "Hemmakontor",
+        "dms_id": "013Ajt387L1m",
+        "license": "CC0",
+        "mime_type": "video/mp4",
+        "modified": "Thu, 16 Dec 2021 14:30:51 GMT",
+        "name": "IMG_2964.MP4",
+        "order_by_number": 2,
+        "owner": "Lena Henriksson",
+        "topic_item": {
+          "label": "Ladda gärna upp bilder eller filmer",
+          "label_i18n": {
+            "sv": "Ladda gärna upp bilder eller filmer"
+          },
+          "type": "Media",
+          "uuid": "68c9ecf0-d470-4de8-8ae6-d930a23838a9"
+        },
+        "type": "video",
+        "uuid": "b39fea39-6949-414d-ac73-be2f27ff5c87"
+      },
+      {
+        "created": "Thu, 16 Dec 2021 14:30:43 GMT",
+        "description": "Digitalt lussefirande på hemmakontoret",
+        "dms_id": "013Ajt387L1n",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 16 Dec 2021 14:30:43 GMT",
+        "name": "CFCF2E00-C592-4AB5-A7D8-CE371249446B.jpeg",
+        "order_by_number": 1,
+        "owner": "Lena Henriksson",
+        "topic_item": {
+          "label": "Ladda gärna upp bilder eller filmer",
+          "label_i18n": {
+            "sv": "Ladda gärna upp bilder eller filmer"
+          },
+          "type": "Media",
+          "uuid": "68c9ecf0-d470-4de8-8ae6-d930a23838a9"
+        },
+        "type": "image",
+        "uuid": "a27d11ca-837d-4fb2-b2d7-0222821da6cc"
+      }
+    ],
+    "modified": "Thu, 16 Dec 2021 14:42:36 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 59.2752626,
+      "longitude": 15.2134105
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17664",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 6489,
+    "uuid": "b2cf064a-34d9-4b22-84a7-3dc4777ffec9",
+    "values": [
+      {
+        "created": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "display_value": "I December 2021 fick vi gå tillbaka o jobba hemifrån. Under hösten har vi jobbat 50% på kontoret och 50% hemifrån, En bra mix tycker jag.\nJag har under 2022 fått ett barnbarn och får lunchbesök ibland på hemmakontoret av honom o hans mamma. Väldigt uppskattat",
+        "modified": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "a952f63b-6097-404f-87bb-a80df76c1ffa"
+      },
+      {
+        "created": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "display_value": "1968",
+        "modified": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "3e0a715b-8891-468b-827e-7b5d7fbc48ff"
+      },
+      {
+        "created": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "display_value": "Jag handlar mest online. Är inte ute på AW och liknande längre. Umgås i små cirklar o gärna utomhus",
+        "modified": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "c2b8905b-6a09-4bb3-8083-94b5d6a96add"
+      },
+      {
+        "created": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "display_value": "Covid-19 har i vissa avseenden tagit fram det sämsta hos människan.\nMånga sätter sig och sina egna behov framför omsorg om medmänniskorna. Mycket hetsiga debatter om vaccin etc",
+        "modified": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "9699bfa5-72b6-490e-976c-afa9fa722b6b"
+      },
+      {
+        "created": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "display_value": "Vi kommer såklart att gå leva med viruset o handskas med det.\nVårat sätt att arbeta o umgås kommer nog förändras",
+        "modified": "Thu, 16 Dec 2021 14:42:36 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "0dc0ab1d-0039-444c-8901-f7c2df8fb6f5"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04443",
+    "comment_count": 0,
+    "contributor": {
+      "display_name": "16-åring"
+    },
+    "created": "Fri, 07 Jan 2022 13:50:41 GMT",
+    "hits": 4,
+    "image_dms_id": "013AjtNnC9WP",
+    "imported": false,
+    "license": "CC BY",
+    "likes": 0,
+    "media": [
+      {
+        "created": "Fri, 07 Jan 2022 12:21:19 GMT",
+        "description": "Vaccination mot covid-19 i Nackstrandsmässan",
+        "dms_id": "013AjtNnC9WP",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 07 Jan 2022 12:21:19 GMT",
+        "name": "IMG-9511.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda gärna upp bilder eller filmer",
+          "label_i18n": {
+            "sv": "Ladda gärna upp bilder eller filmer"
+          },
+          "type": "Media",
+          "uuid": "68c9ecf0-d470-4de8-8ae6-d930a23838a9"
+        },
+        "type": "image",
+        "uuid": "e992d1b6-2687-4efc-95f9-d7975c2a4408"
+      }
+    ],
+    "modified": "Fri, 07 Jan 2022 13:50:41 GMT",
+    "open_for_student_edit": false,
+    "position": {
+      "latitude": 59.2846118,
+      "longitude": 18.5207892
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17734",
+    "published": true,
+    "ready_for_approval": false,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "user_id": 6506,
+    "uuid": "4b04bead-0e3e-4319-b95a-3fe632edac3b",
+    "values": [
+      {
+        "created": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "display_value": "Det har varierat mycket hur min vardag har påverkats av covid-19 under dessa två år som coronaviruset hittills har härjat, beroende på olika restriktioner och rekommendationer och så vidare. Till en början, under våren 2020, påverkades jag nästan ingenting av covid-19. Jag gick då i årskurs åtta och fick fortsätta ha närundervisning som vanligt, med den enda skillnaden att vi behövde vara hemma från skolan så fort vi hade minsta lilla symptom som kunde tyda på covid-19. Däremot tänkte jag på att inte åka kollektivtrafik lika mycket och jag kommer ihåg att mina föräldrar uppmanade mig att bara träffa kompisar utomhus. Vi slutade träffa äldre släktingar och de yngre släktningar vi träffade, träffade vi alltid utomhus. Under våren 2020 började även mina föräldrar arbeta hemifrån, så det har nästan alltid varit fullt hus sedan dess. \n\nUnder sommaren 2020 var det som om alla glömde bort corona. Jag åkte på konfirmationsläger, fjällvandrade och träffade kompisar nästan som innan coronaviruset kom. Men till hösten blev läget allvarligare. Framåt höstlovet skulle vi ha prao i skolan, eftersom den blivit inställd terminen innan på grund av corona, men alla kunde inte ens få en prao-plats eftersom många arbetsplatser inte ville ta emot ungdomar. Ungdomsrådet som jag var med i började ha alla möten på distans, via Teams, och en vecka innan jullovet fick vi besked att vi skulle ha distansundervisning. Min vardag blev då väldigt annorlunda. Från att ha gått i skolan och levt mitt liv nästan som vanligt satt jag nu hemma hela dagarna med hela familjen. Distansundervisningen fortsatte en bit inpå våren 2021, men framåt sportlovet fick vi besked från skolledningen att eftersom vi gick i årskurs nio skulle vi prioriteras för närundervisning och hade inte längre någon undervisning på distans. Vi började använda munskydd på bussar när vi behövde åka någonstans och senare inpå våren fick mina föräldrar sin första dos vaccin mot covid-19. \n\nBara någon vecka innan skolstarten i augusti fick jag min första dos vaccin och jag minns att jag tänkte att det var början på någonting nytt, att pandemin snart skulle vara över. Någon gång i september hävdes alla coronarestriktioner och jag och mina vänner i samma ålder har levt nästan som vi gjorde innan covid-19 kom. Men nu på vintern har smittspridningen ökat markant och många i min närhet har drabbats av covid-19. Nu på jullovet känns det som att min egen vardag har påverkats ganska mycket, eftersom min bror har covid-19 och det innebär att ingen i familjen får röra sig utanför hemmets väggar på minst sju dagar. Det känns ganska hopplöst, som att vi aldrig kommer bli fria från det här viruset, trots att vi har vaccin nu, men det funkar inte så bra mot den nya mutationen omikron. Jag längtar tills det här är över och man kan träffa kompisar som vanligt igen och inte behöver använda munskydd och stanna hemma från skolan för minsta lilla symptom. Men tills dess är det bara att härda ut för att rädda människoliv.",
+        "modified": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "7a122a07-d537-48cd-a508-9d5ee0f845be"
+      },
+      {
+        "created": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "display_value": "2005",
+        "modified": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "0ccb1970-ecc2-4265-975f-e4b655f58744"
+      },
+      {
+        "created": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "display_value": "Mitt beteende har förändrats en del under coronapandemin. Jag kramar inte släkt när vi träffas längre, och tar inte i hand när jag träffar nya människor. Jag tänker alltid på att hålla avstånd till andra människor och blir nästan lite äcklad och rädd om jag hör någon hosta på bussen - vilket jag inte blev innan. Det är inte själva rädslan för smittan i sig som är värst för just mig, utan rädslan för att behöva vara i karantän och missa viktig undervisning, som jag är just nu. På bussen använder jag munskydd och om jag får symptom som kan tyda på covid-19 stannar jag hemma från skolan och ställer in om jag tänkt träffa exempelvis kompisar.",
+        "modified": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "4bf9e772-e496-4582-ae18-82c3ecca6d33"
+      },
+      {
+        "created": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "display_value": "Tillståndet just nu känns ganska dåligt. Det är fler smittade än någonsin och många dör, om än färre än innan vaccinet kom. Det känns ganska uppgivet, eftersom covid-19 härjat under snart två år och vi fortfarande måste ha restriktioner att anpassa oss efter som begränsar individens frihet, för att hjälpa mänskligheten. Jag önskar att verkligen att covid-19 inte fanns och tycker att restriktionerna är jobbiga, men nu när covid-19 finns förstår jag att de är nödvändiga för att rädda människoliv, och inte minst hjälpa vårdpersonalen också, som är helt överbelastade.",
+        "modified": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "e416e7ed-1de7-4ade-9180-cd0ce0214e6f"
+      },
+      {
+        "created": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "display_value": "Just nu känns det som att coronaviruset kommer fortsätta i några år framöver, men så småningom uppnår vi förhoppningsvis flockimmunitet och covid-19 kan bli som vilket annat virus som helst. Då hoppas jag att man kan återgå till livet ungefär som det var innan, men vissa förändringar som kom i och med corona kommer nog stanna kvar. Till exempel tror jag att fler kommer arbeta på distans och att man generellt kommer vara noggrannare med att hålla avstånd till andra inom till exempel kollektivtrafiken och hålla en god handhygien, eftersom man har insett hur lätt virus kan spridas, inte bara covid-19, utan även andra virus. Jag hoppas även att folk kommer resa utomlands mer sällan, som de gjort under coronapandemin, eftersom det skulle ha en positiv inverkan på miljön. Jag tror också att människor kommer handla mer online, nu när man ändå har vanan inne, men att människor samtidigt kommer vara måna om att träffa varandra i verkligheten också, eftersom man (vissa mer än andra) berövats den möjligheten under ett par år.",
+        "modified": "Fri, 07 Jan 2022 13:50:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "d7e70828-2a63-40ab-af6f-8a4b0a36b9c6"
+      }
+    ]
+  }
+]
