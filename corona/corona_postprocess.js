@@ -33,27 +33,23 @@ var stats = await readJSON(statsFile);
 var storedRecords = await readJSON(storedRecordsFile);
 
 var statsCount = stats["responses"];
-var baseCount = statsCount;
 const totalCount = json["total_count"];
-var baseUrl = 'https://api.minnen.se/api/responses/?topic=f5c88a3d-0acf-4cac-bf3f-91cfb098ee12&order=created';
+var baseUrl = 'https://api.minnen.se/api/responses/?topic=f5c88a3d-0acf-4cac-bf3f-91cfb098ee12&order=created&limit=10';
 
-
-var array = storedRecords;
-
-var count = baseCount;
+var count = statsCount;
 var offset = statsCount;
-var newResults = [];
+var newRecords = [];
 while (count < totalCount) {
   var url = baseUrl + '&offset=' + offset;
-  const additionalResults = await readJSONFromURL(url);
-  for (var i = additionalResults["items"].length - 1; i >= 0; i--) {
-    newResults.push(additionalResults["items"][i]);
+  const additionalRecords = await readJSONFromURL(url);
+  for (var i = 0; i < additionalRecords["items"].length; i++) {
+    newRecords.push(additionalRecords["items"][i]);
   }
-  count = count + additionalResults["items"].length;
+  count = count + additionalRecords["items"].length;
   offset = offset + 10;
 }
 
-array.concat(newResults);
+var totalRecords = storedRecords.concat(newRecords);
 
 //var responsesWithImages = stats["responsesWithImages"];
 //var responsesWithCoordinates = stats["responsesWithCoordinates"];
@@ -61,7 +57,6 @@ array.concat(newResults);
 var responsesWithImages = 0;
 var responsesWithCoordinates = 0;
 
-var stats = {};
 var indexHtml = '<!DOCTYPE html>\n\
 <html lang="sv">\n\
 <head>\n\
@@ -81,7 +76,7 @@ var indexHtml = '<!DOCTYPE html>\n\
 <div class="grid">';
 
 
-array.forEach(function(item){
+totalRecords.forEach(function(item){
   delete item.comment_count;
   delete item.hits;
   delete item.imported;
@@ -171,7 +166,7 @@ array.forEach(function(item){
 });
 
 
-stats["responses"] = array.length;
+stats["responses"] = totalRecords.length;
 stats["responsesWithCoordinates"] = responsesWithCoordinates;
 stats["responsesWithImages"] = responsesWithImages;
 
@@ -195,9 +190,9 @@ indexHtml += '</div>\n\
     </script>\n\
 </html>';
 
-await Deno.writeTextFile(newFilename, JSON.stringify(array, null, 2));
+await Deno.writeTextFile(newFilename, JSON.stringify(totalRecords, null, 2));
 await Deno.writeTextFile('corona/corona_stats.json', JSON.stringify(stats, null, 2));
-await Deno.writeTextFile('corona/newRecords.json', JSON.stringify(newResults, null, 2));
+await Deno.writeTextFile('corona/newRecords.json', JSON.stringify(newRecords, null, 2));
 await Deno.writeTextFile('corona/index.html', indexHtml);
 console.log("Wrote a post process file");
 
