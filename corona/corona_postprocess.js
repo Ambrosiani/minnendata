@@ -41,7 +41,7 @@ var baseUrl = 'https://api.minnen.se/api/responses/?topic=f5c88a3d-0acf-4cac-bf3
 var array = storedRecords;
 
 var count = baseCount;
-var offset = totalCount;
+var offset = statsCount;
 var newResults = [];
 while (count < totalCount) {
   var url = baseUrl + '&offset=' + offset;
