@@ -217,12 +217,11 @@ xhr.onload = function() {
             });
 
             markers.addLayer(geoJsonLayer);
+            map.addLayer(markers);
     }
     // L.geoJSON(xhr.response).addTo(map);
 };
 xhr.send();
-
-            map.addLayer(markers);
 
             L.Control.Contribute = L.Control.extend({
                 onAdd: function(map) {
@@ -243,7 +242,6 @@ xhr.send();
             }
 
             L.control.contribute({ position: 'topright'}).addTo(map);
-
             
         </script>
     </body>
