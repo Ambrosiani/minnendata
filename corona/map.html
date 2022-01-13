@@ -212,7 +212,7 @@ xhr.onload = function() {
         geoJsonLayer = L.geoJSON(xhr.response, {
                 onEachFeature: function (feature, layer) {
                     layer.bindPopup(function (layer) {
-                        return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + "</i><br/>Läs hela svaret</p>";
+                        return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
                     });
                 }
             });
@@ -221,7 +221,6 @@ xhr.onload = function() {
             map.addLayer(markers);
             map.fitBounds([[11,55],[23,69]]);
     }
-    // L.geoJSON(xhr.response).addTo(map);
 };
 xhr.send();
 
