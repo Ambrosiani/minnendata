@@ -203,6 +203,7 @@
 
                  var markers = L.markerClusterGroup();
                  var geoJsonLayer;
+                 var geoJsonLayerNO;
 
                  let xhr = new XMLHttpRequest();
                  xhr.open('GET', 'corona_geojson.json');
@@ -219,10 +220,31 @@
                         });
 
                         markers.addLayer(geoJsonLayer);
-                        map.addLayer(markers);
+
+                        let xhrNO = new XMLHttpRequest();
+                        xhrNO.open('GET', '../korona/korona_geojson.json');
+                        xhrNO.setRequestHeader('Content-Type', 'application/json');
+                        xhrNO.responseType = 'json';
+                        xhrNO.onload = function() {
+                            if (xhrNO.status == 200) {
+                                geoJsonLayerNO = L.geoJSON(xhrNO.response, {
+                                    onEachFeature: function (feature, layer) {
+                                        layer.bindPopup(function (layer) {
+                                            return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                                        });
+                                    }
+                                });
+
+                                markers.addLayer(geoJsonLayerNO);
+                            }
+                            map.addLayer(markers);
+                        };
+                        xhr.send();
                     }
                 };
                 xhr.send();
+
+
 
                 L.Control.Contribute = L.Control.extend({
                     onAdd: function(map) {
