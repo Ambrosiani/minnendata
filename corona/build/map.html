@@ -222,7 +222,7 @@
                         markers.addLayer(geoJsonLayer);
 
                         let xhrNO = new XMLHttpRequest();
-                        xhrNO.open('GET', '../korona/korona_geojson.json');
+                        xhrNO.open('GET', 'korona_geojson.json');
                         xhrNO.setRequestHeader('Content-Type', 'application/json');
                         xhrNO.responseType = 'json';
                         xhrNO.onload = function() {

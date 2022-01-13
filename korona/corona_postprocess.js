@@ -211,6 +211,7 @@ await Deno.writeTextFile('korona/corona_stats.json', JSON.stringify(stats, null,
 await Deno.writeTextFile('korona/newRecords.json', JSON.stringify(newRecords, null, 2));
 //await Deno.writeTextFile('corona/index.html', indexHtml);
 await Deno.writeTextFile('korona/korona_geojson.json', JSON.stringify(geoJson, null, 2));
+await Deno.writeTextFile('corona/build/korona_geojson.json', JSON.stringify(geoJson, null, 2));
 console.log("Wrote a post process file");
 
 
