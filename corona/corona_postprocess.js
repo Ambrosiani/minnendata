@@ -89,7 +89,7 @@ totalRecords.forEach(function(item){
     if(ingress === undefined) {
       ingress = [{"display_value":""}];
     }
-    if(ingress == []) {
+    if(ingress.length == 0) {
       ingress = [{"display_value":""}];
     }
     var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress[0].display_value, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
