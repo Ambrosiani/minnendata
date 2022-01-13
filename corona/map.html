@@ -208,7 +208,7 @@ xhr.setRequestHeader('Content-Type', 'application/json');
 xhr.responseType = 'json';
 xhr.onload = function() {
     if (xhr.status !== 200) {
-        var geoJsonLayer = L.geoJson(geoJsonData, {
+        var geoJsonLayer = L.geoJson(xhr.response, {
                 onEachFeature: function (feature, layer) {
                     layer.bindPopup(function (layer) {
                         return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + "</i><br/>Läs hela svaret</p>";
@@ -218,6 +218,7 @@ xhr.onload = function() {
 
             markers.addLayer(geoJsonLayer);
             map.addLayer(markers);
+            //console.log(xhr.response);
     }
     // L.geoJSON(xhr.response).addTo(map);
 };
