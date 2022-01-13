@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "archive_code": "M2/04449",
+    "contributor": {
+      "display_name": "Mujtaba"
+    },
+    "created": "Thu, 13 Jan 2022 12:27:13 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 13 Jan 2022 12:27:13 GMT",
+    "position": {
+      "latitude": 61.8372444766064,
+      "longitude": 15.8877488243341
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17768",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "uuid": "3de26704-4fc5-4ec0-bdf8-bed940afaf65",
+    "values": [
+      {
+        "created": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "display_value": "Jag mår både bra och inte bra, eftersom jag inte kan träffa mina släktningar lika mycket som vanligt känns det lite jobbigt.",
+        "modified": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "47eb2e8b-c152-4dd1-b167-eb73c1932927"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "display_value": "02",
+        "modified": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "ccafe623-8ec7-4c2d-9a78-c7e095152810"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "display_value": "Jag tycker att alla borde vara försiktiga för egen skull och andra också.  Alla måste håll avstånd och vara hemma när du är känner dig sjuk.",
+        "modified": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "8580d548-b0b7-4353-bb01-2ec86d620db1"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "display_value": "Myndigheter och media de gör sitt jobb och informera svenska folket om coronaviruset. Det bara allmänheten måste bete sig och lyssna på hälsomyndigheten och tar det på allvar.",
+        "modified": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "14a35974-687d-40c5-93f0-36775568a4d1"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "display_value": "Om vi( allmänheten) beter oss och tar det som allvar jag tror coronaviruset kommer försvinna, vi kommer liva som förut.",
+        "modified": "Thu, 13 Jan 2022 12:27:13 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "fab4634e-b786-49d0-b5e2-003485f1d5de"
+      }
+    ]
+  }
+]
