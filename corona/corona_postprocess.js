@@ -80,12 +80,14 @@ var indexHtml = '<!DOCTYPE html>\n\
 
 totalRecords.forEach(function(item){
 
+  let createdDate = new Date(item.created);
+  let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
+
   if (item.hasOwnProperty('position')) {
     responsesWithCoordinates++;
     //var ingress = item.values.filter(answer => answer.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
     console.log(item.values);
-    var createdDate = new Date(item.created);
-    var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": "x", "date":createdDate.toLocaleDateString('sv-SE', {month: 'long'}), "author":item.contributor.display_name }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
+    var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": "x", "date":swedishDate, "author":item.contributor.display_name }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
     geoJson.features.push(geoJsonFeature);
   }
   
@@ -159,8 +161,6 @@ totalRecords.forEach(function(item){
     indexHtml += answer;
   }
 
-  let createdDate = new Date(item.created);
-  let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
   indexHtml += '</p><p class="details">Arkivkod <b>' + item.archive_code + '</b>. Inlämnad av <b>' + item.contributor.display_name;
 
   if (item.contributor.hasOwnProperty('place')) {
