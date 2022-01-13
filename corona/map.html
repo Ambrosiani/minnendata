@@ -200,7 +200,7 @@
             var geoJsonLayer = L.geoJson(geoJsonData, {
                 onEachFeature: function (feature, layer) {
                     layer.bindPopup(function (layer) {
-                        return "<p class=\"popup\">" + layer.feature.geometry.ingress + "<br/><i>Av " + layer.feature.geometry.author + ", " + layer.feature.geometry.date + "</i><br/>Läs hela svaret</p>";
+                        return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + "</i><br/>Läs hela svaret</p>";
                     });
                 }
             });
