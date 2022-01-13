@@ -24,13 +24,15 @@ function GetSortOrder(property){
 const resultsFile = 'corona.json';
 const statsFile = 'corona/corona_stats.json';
 const storedRecordsFile = 'corona/corona_postprocessed.json';
-
+// const geoJsonFile = 'corona/corona_geojson.json';
 
 var json = await readJSON(resultsFile);
 removeFile(resultsFile);
 
 var stats = await readJSON(statsFile);
 var storedRecords = await readJSON(storedRecordsFile);
+// var geoJson = await readJSON(geoJsonFile);
+var geoJson = { "type": "FeatureCollection", "features": [] };
 
 var statsCount = stats["responses"];
 const totalCount = json["total_count"];
@@ -77,6 +79,14 @@ var indexHtml = '<!DOCTYPE html>\n\
 
 
 totalRecords.forEach(function(item){
+
+  if (item.hasOwnProperty('position')) {
+    responsesWithCoordinates++;
+    var geoJsonFeature = { "type":"Feature", "properties":{}, "geometry": { "type":"Point", "coordinates": [ item.position.longitude, item.position.latitude ] } };
+    geoJson.features.push(geoJsonFeature);
+  }
+  
+
   delete item.comment_count;
   delete item.hits;
   delete item.imported;
@@ -146,9 +156,6 @@ totalRecords.forEach(function(item){
     indexHtml += answer;
   }
 
-  if (item.hasOwnProperty('latitude')) {
-    responsesWithCoordinates++;
-  }
   let createdDate = new Date(item.created);
   let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
   indexHtml += '</p><p class="details">Arkivkod <b>' + item.archive_code + '</b>. Inlämnad av <b>' + item.contributor.display_name;
@@ -194,6 +201,7 @@ await Deno.writeTextFile(newFilename, JSON.stringify(totalRecords, null, 2));
 await Deno.writeTextFile('corona/corona_stats.json', JSON.stringify(stats, null, 2));
 await Deno.writeTextFile('corona/newRecords.json', JSON.stringify(newRecords, null, 2));
 await Deno.writeTextFile('corona/index.html', indexHtml);
+await Deno.writeTextFile('corona/corona_geojson.json', JSON.stringify(geoJson, null, 2));
 console.log("Wrote a post process file");
 
 
