@@ -184,6 +184,7 @@
 }
 
             var geoJsonData = new L.GeoJSON.AJAX("corona_geojson.json");
+            console.log(geoJsonData);
 
             var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 maxZoom: 18,
