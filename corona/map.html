@@ -196,7 +196,7 @@
 
             var map = L.map('map', {zoomControl:false})
                     .addLayer(tiles);
-                    map.fitBounds([[11,55],[23,69]]);
+                    
             var zoom = L.control.zoom({position: 'bottomleft'});
             zoom.addTo(map);
 
@@ -219,7 +219,7 @@ xhr.onload = function() {
 
             markers.addLayer(geoJsonLayer);
             map.addLayer(markers);
-            console.log(xhr.response);
+            map.fitBounds([[11,55],[23,69]]);
     }
     // L.geoJSON(xhr.response).addTo(map);
 };
