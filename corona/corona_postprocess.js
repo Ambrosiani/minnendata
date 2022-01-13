@@ -86,15 +86,22 @@ totalRecords.forEach(function(item){
   if (item.hasOwnProperty('position')) {
     responsesWithCoordinates++;
     var ingressArray = [];
+    var ageArray = [];
     if (item.hasOwnProperty('values')) {
       ingressArray = values.filter(value => value.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
+      ageArray = values.filter(value => value.topic_item.label == "Vilket år är du född?");
     }
     if(ingressArray.length == 0) {
       ingressArray = [{"display_value":""}];
     }
-    const ingress = ingressArray[0].display_value.substring(0,100) + "…";
-    var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
-    geoJson.features.push(geoJsonFeature);
+    if(ageArray.length == 0) {
+      ageArray = [{"display_value":"0"}];
+    }
+    if(parseInt(createdDate.getFullYear(), 10) - parseInt(ageArray[0].display_value, 10) > 15) {
+      const ingress = ingressArray[0].display_value.substring(0,100) + "…";
+      var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
+      geoJson.features.push(geoJsonFeature);
+    }
   }
   
 
