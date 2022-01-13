@@ -183,7 +183,7 @@
    document.getElementById('contribute').style = "display:block";
 }
 
-            var geojsonData = new L.GeoJSON.AJAX("corona_geojson.json");
+            var geoJsonData = new L.GeoJSON.AJAX("corona_geojson.json");
 
             var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 maxZoom: 18,
