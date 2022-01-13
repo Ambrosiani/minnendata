@@ -100,8 +100,8 @@ jobs:
         uses: wlixcc/SFTP-Deploy-Action@v1.0
         with:
           username: 'root'
-          server: 'vps-53420.cloudnet.se'
+          server: ${{ secrets.SERVER }}
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
           local_path: './corona/build/*'
-          remote_path: '/mnt/persist/www/showcase/public/coronaminnen'
+          remote_path: ${{ secrets.REMOTE_PATH }}
           args: '-o ConnectTimeout=5'
