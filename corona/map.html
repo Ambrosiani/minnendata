@@ -201,6 +201,7 @@
             zoom.addTo(map);
 
             var markers = L.markerClusterGroup();
+            var geoJsonLayer;
 
             let xhr = new XMLHttpRequest();
 xhr.open('GET', 'corona_geojson.json');
@@ -208,7 +209,7 @@ xhr.setRequestHeader('Content-Type', 'application/json');
 xhr.responseType = 'json';
 xhr.onload = function() {
     if (xhr.status !== 200) {
-        var geoJsonLayer = L.geoJson(xhr.response, {
+        geoJsonLayer = L.geoJSON(xhr.response, {
                 onEachFeature: function (feature, layer) {
                     layer.bindPopup(function (layer) {
                         return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + "</i><br/>Läs hela svaret</p>";
