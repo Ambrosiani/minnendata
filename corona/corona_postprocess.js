@@ -82,9 +82,10 @@ totalRecords.forEach(function(item){
 
   if (item.hasOwnProperty('position')) {
     responsesWithCoordinates++;
-    var ingress = item.values.filter(answer => answer.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
-    console.log(ingress);
-    var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": "x", "date":item.created, "author":item.contributor.display_name }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
+    //var ingress = item.values.filter(answer => answer.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
+    console.log(item.values);
+    var createdDate = new Date(item.created);
+    var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": "x", "date":createdDate.toLocaleDateString('sv-SE', {month: 'long'}), "author":item.contributor.display_name }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
     geoJson.features.push(geoJsonFeature);
   }
   
