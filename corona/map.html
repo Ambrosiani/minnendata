@@ -196,6 +196,7 @@
 
             var map = L.map('map', {zoomControl:false})
                     .addLayer(tiles);
+                    map.fitBounds([[11,55],[23,69]]);
             var zoom = L.control.zoom({position: 'bottomleft'});
             zoom.addTo(map);
 
@@ -243,7 +244,7 @@ xhr.send();
 
             L.control.contribute({ position: 'topright'}).addTo(map);
 
-            map.fitBounds([[11,55],[23,69]]);
+            
         </script>
     </body>
 </html>
