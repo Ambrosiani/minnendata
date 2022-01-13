@@ -74,6 +74,7 @@ jobs:
           downloaded_filename: corona.json # The http_url gets saved and renamed in our repository
           postprocess: corona/corona_postprocess.js # A postprocessing javascript or typescript file
   korona:
+    needs: corona
     runs-on: ubuntu-latest
     steps: # This workflow has 3 steps
       # The first step is to check out the repository so it can read the files inside of it and do other operations
@@ -89,3 +90,18 @@ jobs:
           http_url: https://api.minner.no/api/responses/?topic=9829edfb-a42d-4e39-9a30-7bdd7115c79a&limit=0 # The data to fetch every 20 minutes
           downloaded_filename: korona.json # The http_url gets saved and renamed in our repository
           postprocess: korona/corona_postprocess.js # A postprocessing javascript or typescript file
+  deploy_corona:
+    needs: korona
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: deploy file
+        uses: wlixcc/SFTP-Deploy-Action@v1.0
+        with:
+          username: 'root'
+          server: 'vps-53420.cloudnet.se'
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
+          local_path: './corona/*'
+          remote_path: '/mnt/persist/www/showcase/public/coronaminnen'
+          args: '-o ConnectTimeout=5'
