@@ -79,13 +79,13 @@ var indexHtml = '<!DOCTYPE html>\n\
 
 
 totalRecords.forEach(function(item){
-
+  const answers = item.values;
   let createdDate = new Date(item.created);
   let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
 
   if (item.hasOwnProperty('position')) {
     responsesWithCoordinates++;
-    var ingress = item["values"].filter(answer => answer.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
+    var ingress = answers.filter(answer => answer.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
     var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress.display_value, "date":swedishDate, "author":item.contributor.display_name }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
     geoJson.features.push(geoJsonFeature);
   }
