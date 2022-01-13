@@ -82,7 +82,7 @@ totalRecords.forEach(function(item){
 
   if (item.hasOwnProperty('position')) {
     responsesWithCoordinates++;
-    var geoJsonFeature = { "type":"Feature", "properties":{}, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
+    var geoJsonFeature = { "type":"Feature", "properties":{}, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ], "ingress":"x", "date":item.created, "author":item.contributor.display_name } };
     geoJson.features.push(geoJsonFeature);
   }
   
