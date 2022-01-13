@@ -85,9 +85,9 @@ totalRecords.forEach(function(item){
 
   if (item.hasOwnProperty('position')) {
     responsesWithCoordinates++;
-    var ingress = values.filter(value => value.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
-    if(ingress === undefined) {
-      ingress = [{"display_value":""}];
+    var ingress = [];
+    if (item.hasOwnProperty('values')) {
+      ingress = values.filter(value => value.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
     }
     if(ingress.length == 0) {
       ingress = [{"display_value":""}];
