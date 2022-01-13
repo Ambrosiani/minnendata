@@ -21,7 +21,7 @@
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.css" />
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.Default.css" />
         <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
-        <script src="https://unpkg.com/leaflet-ajax@2.1.0/dist/leaflet.ajax.min.js"></script>
+        
 
         <style>
             #leaflet {
@@ -183,8 +183,11 @@
    document.getElementById('contribute').style = "display:block";
 }
 
-            var geoJsonData = new L.GeoJSON.AJAX("corona_geojson.json");
-            console.log(geoJsonData);
+
+
+
+            
+
 
             var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 maxZoom: 18,
@@ -198,7 +201,13 @@
 
             var markers = L.markerClusterGroup();
 
-            var geoJsonLayer = L.geoJson(geoJsonData, {
+            let xhr = new XMLHttpRequest();
+xhr.open('GET', 'corona_geojson.json');
+xhr.setRequestHeader('Content-Type', 'application/json');
+xhr.responseType = 'json';
+xhr.onload = function() {
+    if (xhr.status !== 200) {
+        var geoJsonLayer = L.geoJson(geoJsonData, {
                 onEachFeature: function (feature, layer) {
                     layer.bindPopup(function (layer) {
                         return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + "</i><br/>Läs hela svaret</p>";
@@ -207,6 +216,10 @@
             });
 
             markers.addLayer(geoJsonLayer);
+    }
+    L.geoJSON(xhr.response).addTo(map);
+};
+xhr.send();
 
             map.addLayer(markers);
 
