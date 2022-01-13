@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "archive_code": "M2/04445",
+    "contributor": {
+      "display_name": "ines"
+    },
+    "created": "Thu, 13 Jan 2022 08:25:26 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 13 Jan 2022 08:25:26 GMT",
+    "position": {
+      "latitude": 59.328634,
+      "longitude": 14.536414
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17764",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "uuid": "0f66f2eb-0639-496f-8083-b706c8897276",
+    "values": [
+      {
+        "created": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "display_value": "jag mår bra",
+        "modified": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "6044454c-88a7-4235-a4a0-af0cbcd492d3"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "display_value": "2000",
+        "modified": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "ca5fa6ad-c99c-4d91-9e9d-a755ca5de0e5"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "display_value": "Mitt beteende är inte så mycket annorlunda från innan, utom att man måste hålla avstånd och använda skydd ibland.",
+        "modified": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "943d1574-970b-4586-b9f2-3e25a8550fa0"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "display_value": "Det är tråkigt. Man måste hålla avstånd och massor med aktiviteter blir inställda på grund av regler, så som att det inte får vara över 100 personer i en lokal. Konserter blir också inställda..",
+        "modified": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "89bf3d63-d764-4f1a-b4a6-63e0f2d49063"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "display_value": "Jag tror att corona alltid kommer att finnas kvar men att vaccinet och andra botemedel hjälper oss mycket.",
+        "modified": "Thu, 13 Jan 2022 08:25:26 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "f3da2b7d-80c6-4d9b-a684-3660655759f8"
+      }
+    ]
+  },
+  {
+    "archive_code": "M2/04447",
+    "contributor": {
+      "display_name": "josefine"
+    },
+    "created": "Thu, 13 Jan 2022 08:27:22 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 13 Jan 2022 08:27:22 GMT",
+    "position": {
+      "latitude": 59.3251553070515,
+      "longitude": 14.5019960403442
+    },
+    "presentation_url": "https://minnen.se/tema/corona/17766",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Coronaviruset i Sverige – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Coronaviruset i Sverige – berätta för framtiden"
+      },
+      "uuid": "f5c88a3d-0acf-4cac-bf3f-91cfb098ee12"
+    },
+    "uuid": "d8c8d107-6d98-4dc8-88f4-ca3ef8115f26",
+    "values": [
+      {
+        "created": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "display_value": "Jag har påverkats av distansundervisning och att jag inte till en början kunde träffa mina äldre släktingar.",
+        "modified": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "topic_item": {
+          "label": "Hur har din vardag påverkats av coronaviruset?",
+          "label_i18n": {
+            "sv": "Hur har din vardag påverkats av coronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "a0cae9b0-9a84-456c-b49c-3e8f7f4c9619"
+        },
+        "uuid": "34f564cf-b57e-406c-8ac9-8941f123eb66"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "display_value": "2005",
+        "modified": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "04572b3e-f1b1-4320-bb16-313b897f9dec"
+        },
+        "uuid": "b88279b4-1698-4b68-9c5e-97ae9bfc6688"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "display_value": "Jag är mer försiktig och tänker mer på hur nära jag går andra människor vilka jag träffar osv.",
+        "modified": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "topic_item": {
+          "label": "Hur har ditt beteende förändrats?",
+          "label_i18n": {
+            "sv": "Hur har ditt beteende förändrats?"
+          },
+          "type": "Textarea",
+          "uuid": "70070958-8fc6-4b0b-a56c-3996c5179ceb"
+        },
+        "uuid": "6ee5e29d-f0fa-4c59-862f-9bf1104d2b5f"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "display_value": "Just nu är det väldigt mycket där jag bor",
+        "modified": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "67b62f41-98a4-49c2-9bf3-711949b9ee79"
+        },
+        "uuid": "4dbb6cae-b99a-4eea-bb21-c3b713a5cbb1"
+      },
+      {
+        "created": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "display_value": "Jag tror att det kommer finnas med oss under en väldigt lång tid med kommer att påverka oss mindre",
+        "modified": "Thu, 13 Jan 2022 08:27:22 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden, kopplat till coronaviruset och dess konsekvenser?"
+          },
+          "type": "Textarea",
+          "uuid": "f7b43e29-3de5-466d-9cdc-55542407f690"
+        },
+        "uuid": "bd48efca-ce48-42cf-8ffa-2b1aa42f4a65"
+      }
+    ]
+  }
+]
