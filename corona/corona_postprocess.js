@@ -87,7 +87,10 @@ totalRecords.forEach(function(item){
     responsesWithCoordinates++;
     var ingress = values.filter(value => value.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
     if(ingress === undefined) {
-      ingress = "";
+      ingress = [{"display_value":""}];
+    }
+    if(ingress == []) {
+      ingress = [{"display_value":""}];
     }
     var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress[0].display_value, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
     geoJson.features.push(geoJsonFeature);
