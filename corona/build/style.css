@@ -91,10 +91,7 @@
 #aboutbox {
 	display: flex;
 	flex-direction: row;
-}
-
-#closeButton {
-	padding-right: 16px;
+	padding: 0 16px;
 }
 
 .closeButton {
@@ -124,17 +121,13 @@
 		flex-direction: column;
 	}
 
-	#closeButton {
-		padding: 0 16px;
-	}
-
 	.closeButton {
 		margin-top: 16px;
 		width: 100%;
 		font-size: 16px;
 	}
 
-	#contribute {
+	.contribute {
 		margin-left: 16px;
 		margin-right: 16px;
 		margin-top: 8px;
