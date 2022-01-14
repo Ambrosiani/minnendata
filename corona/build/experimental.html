@@ -23,7 +23,7 @@
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
 </head>
 <body style="margin: 0;">
-    <div id="info">
+    <div class="info">
         <div id="logos">
             <div class="logo"><a href="https://www.nordiskamuseet.se/" target="_blank"><img class="logoNM" src="images/nm.png" alt="Nordiska museet"></a></div><div class="logo"><a href="https://norskfolkemuseum.no/" target="_blank"><img class="logoNF" src="images/nfm.jpg" alt="Norsk Folkemuseum"></a></div></div>
             <div id="aboutbox">
@@ -35,9 +35,10 @@
 
                 <script type="text/javascript">
 
-                    document.getElementById('closeButton').onclick = function changeContent() {
-                     document.getElementById('info').style = "display:none";
-                     document.getElementById('contribute').style = "display:block";
+                    document.getElementByClassName('closeButton').onclick = function changeContent() {
+                     document.getElementByClassName('info').style = "display:none";
+                     document.getElementByClassName('contribute').style = "display:block";
+                     document.getElementByClassName('leaflet-control-layers').style = "display:block";
                  }
 
 

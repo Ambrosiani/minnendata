@@ -30,7 +30,7 @@
 	line-height: 30px;
 }
 
-#info {
+.info {
 	background-color: #fff;
 	width: 100vw;
 	font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
@@ -52,14 +52,14 @@
 	flex-direction: row;
 }
 
-#info h1 {
+.info h1 {
 	font-size: 24px;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding-bottom: 8px;
 }
 
-#info p {
+.info p {
 	margin: 0;
 }
 
@@ -103,7 +103,7 @@
 	height: 100%;
 }
 
-#contribute {
+.contribute, .leaflet-control-layers {
 	display: none;
 }
 
