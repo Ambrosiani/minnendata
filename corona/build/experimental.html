@@ -130,7 +130,7 @@
                 }
 
                 L.control.contribute({ position: 'topright'}).addTo(map);
-                L.control.layers(markers, Jawg_Light, tiles).addTo(map);
+                L.control.layers({"jawg":Jawg_Light, "osm":tiles}, {"markers":markers}, {"position":"topleft"}).addTo(map);
                 
 
             </script>
