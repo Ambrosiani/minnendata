@@ -140,3 +140,9 @@
 		margin-top: 8px;
 	}
 }
+
+@media screen and (min-width: 960px) {
+	.info {
+		width: 960px;
+	}
+}
