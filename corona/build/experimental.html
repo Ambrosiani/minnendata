@@ -68,7 +68,9 @@
                  var zoom = L.control.zoom({position: 'bottomleft'});
                  zoom.addTo(map);
 
-                 var markers = L.markerClusterGroup();
+                 var corona1 = L.markerClusterGroup();
+                 var corona2 = L.markerClusterGroup();
+                 var korona1 = L.markerClusterGroup();
                  var geoJsonLayer;
                  var geoJsonLayerNO;
 
@@ -86,9 +88,14 @@
                             }
                         });
 
-                        markers.addLayer(geoJsonLayer);
+                        corona1.addLayer(geoJsonLayer);
+                        map.addLayer(corona1);
+                        
+                    }
+                };
+                xhr.send();
 
-                        let xhrNO = new XMLHttpRequest();
+                let xhrNO = new XMLHttpRequest();
                         xhrNO.open('GET', 'korona_geojson.json');
                         xhrNO.setRequestHeader('Content-Type', 'application/json');
                         xhrNO.responseType = 'json';
@@ -102,16 +109,12 @@
                                     }
                                 });
 
-                                markers.addLayer(geoJsonLayerNO);
+                                korona1.addLayer(geoJsonLayerNO);
+                                map.addLayer(korona1);
                             }
-                            map.addLayer(markers);
+                            
                         };
                         xhrNO.send();
-                    }
-                };
-                xhr.send();
-
-
 
                 L.Control.Contribute = L.Control.extend({
                     onAdd: function(map) {
@@ -130,7 +133,7 @@
                 }
 
                 L.control.contribute({ position: 'topright'}).addTo(map);
-                L.control.layers({"jawg":Jawg_Light}, {"markers":markers}, {"position":"topleft"}).addTo(map);
+                L.control.layers({"jawg":Jawg_Light}, {"Corona 1":corona1, "Korona 1":korona1}, {"position":"topleft"}).addTo(map);
                 
 
             </script>
