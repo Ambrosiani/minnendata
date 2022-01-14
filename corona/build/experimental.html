@@ -35,10 +35,10 @@
 
                 <script type="text/javascript">
 
-                    document.getElementByClassName('closeButton').onclick = function changeContent() {
-                     document.getElementByClassName('info').style = "display:none";
-                     document.getElementByClassName('contribute').style = "display:block";
-                     document.getElementByClassName('leaflet-control-layers').style = "display:block";
+                    document.getElementById('closeButton').onclick = function changeContent() {
+                     document.getElementsByClassName('info').style = "display:none";
+                     document.getElementsByClassName('contribute').style = "display:block";
+                     document.getElementsByClassName('leaflet-control-layers').style = "display:block";
                  }
 
 
@@ -61,7 +61,7 @@
 });
 
                  var map = L.map('map', {zoomControl:false})
-                 .addLayer(tiles);
+                 .addLayer(Jawg_Light);
                  map.fitBounds([[55,11],[69,23]]);
 
                  var zoom = L.control.zoom({position: 'bottomleft'});
@@ -131,7 +131,7 @@
                 }
 
                 L.control.contribute({ position: 'topright'}).addTo(map);
-                L.control.layers({"jawg":Jawg_Light, "osm":tiles}, {"markers":markers}, {"position":"topleft"}).addTo(map);
+                L.control.layers({"jawg":Jawg_Light}, {"markers":markers}, {"position":"topleft"}).addTo(map);
                 
 
             </script>
