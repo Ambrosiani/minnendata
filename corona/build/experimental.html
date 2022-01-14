@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minnesinsamling om coronaviruset i Norden</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"/>
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@nordiskamuseet" />
+    <meta name="twitter:creator" content="@nordiskamuseet" />
+    <meta property="og:url" content="https://digitalt.nordiskamuseet.se/coronaminnen/" />
+    <meta property="og:title" content="Minnesinsamling om coronaviruset i Norden" />
+    <meta property="og:description" content="Kartan visar ett urval ur insamlingen Coronaviruset i Sverige som genomförs av Nordiska museet och motsvarande insamling av Norsk Folkemuseum. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret." />
+    <meta property="og:image" content="https://digitalt.nordiskamuseet.se/coronaminnen/preview.jpg" />
+    <meta property="og:image:width" content="960" />
+    <meta property="og:image:height" content="600" />
+    <meta property="og:type" content="website" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
+
+
+    <style>
+        #leaflet {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            top: 0;
+            z-index: 0;
+        }
+
+        .marker-cluster-small { background-color: rgba(222, 103, 115, .6); }
+        .marker-cluster-small div { background-color: rgba(222, 103, 115, .6); }
+        .marker-cluster-medium { background-color: rgba(222, 103, 115, .6); }
+        .marker-cluster-medium div { background-color: rgba(222, 103, 115, .6); }
+        .marker-cluster-large { background-color: rgba(213, 61, 76, .6); }
+        .marker-cluster-large div { background-color: rgba(213, 61, 76, .6); }
+        .marker-cluster { background-clip: padding-box; border-radius: 20px; }
+
+        .marker-cluster div {
+            width: 30px;
+            height: 30px;
+            margin-left: 5px;
+            margin-top: 5px;
+            text-align: center;
+            border-radius: 15px;
+            font: 12px Arial, Helvetica, sans-serif;
+            color: #fff;
+        }
+
+        .marker-cluster span {
+            line-height: 30px;
+        }
+
+        #info {
+            background-color: #fff;
+            width: 100vw;
+            font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+            padding: 16px 0;
+            z-index: 999;
+            position: absolute;
+            left: 0;
+            top: 0;
+            display: flex;
+            flex-direction: column;
+            opacity: 0.75;
+        }
+
+        #logos {
+            display: flex;
+            flex-direction: row;
+        }
+
+        #info h1 {
+            font-size: 24px;
+            margin-bottom: 0;
+            margin-top: 0;
+            padding-bottom: 8px;
+        }
+
+        #info p {
+            margin: 0;
+        }
+
+        #map {
+            width:100vw;
+            height:100vh;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        .popup {
+            font-size: 16px;
+        }
+
+        .logoNM, .logoNF {
+            height: 60px;
+        }
+
+        .logo {
+            margin-right: 16px;
+            padding-left: 16px;
+        }
+
+        #about {
+            padding-left: 16px;
+            padding-right: 16px;
+        }
+
+        #aboutbox {
+            display: flex;
+            flex-direction: row;
+        }
+
+        #closeButton {
+            padding-right: 16px;
+        }
+
+        .closeButton {
+            font-size: 20px;
+            padding: 8px;
+            height: 100%;
+        }
+
+        #contribute {
+            display: none;
+        }
+
+        @media screen and (max-width: 600px) {
+            #about {
+                padding: 0 16px;
+            }
+
+            .logo {
+                margin-right: 0;
+            }
+
+            .logoNM, .logoNF {
+                height: 40px;
+            }
+
+            #aboutbox {
+                flex-direction: column;
+            }
+
+            #closeButton {
+                padding: 0 16px;
+            }
+
+            .closeButton {
+                margin-top: 16px;
+                width: 100%;
+                font-size: 16px;
+            }
+
+            #contribute {
+                margin-left: 16px;
+                margin-right: 16px;
+                margin-top: 8px;
+            }
+        }
+    </style>
+</head>
+<body style="margin: 0;">
+    <div id="info">
+        <div id="logos">
+            <div class="logo"><a href="https://www.nordiskamuseet.se/" target="_blank"><img class="logoNM" src="images/nm.png" alt="Nordiska museet"></a></div><div class="logo"><a href="https://norskfolkemuseum.no/" target="_blank"><img class="logoNF" src="images/nfm.jpg" alt="Norsk Folkemuseum"></a></div></div>
+            <div id="aboutbox">
+                <div id="about">
+                    <h1>Minnesinsamling om coronaviruset i Norden</h1><p>Kartan visar ett urval ur insamlingen <a href="https://minnen.se/tema/corona" target="_blank">Coronaviruset i Sverige</a> som genomförs av Nordiska museet och motsvarande insamling i Norge av <a href="https://norskfolkemuseum.no/" target="_blank">Norsk Folkemuseum</a>. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret. Kartan är utvecklad av Albin Larsson och Aron Ambrosiani.</p><p>Bidra till insamlingarna: <a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a>, <a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a></p></div>
+                    <div id="closeButton"><button class="closeButton" type="button">Stäng</button></div></div>
+                </div>
+                <div id="map"></div>
+
+                <script type="text/javascript">
+
+                    document.getElementById('closeButton').onclick = function changeContent() {
+                     document.getElementById('info').style = "display:none";
+                     document.getElementById('contribute').style = "display:block";
+                 }
+
+
+
+
+
+
+
+                 var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    maxZoom: 18,
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                });
+
+                 var map = L.map('map', {zoomControl:false})
+                 .addLayer(tiles);
+                 map.fitBounds([[55,11],[69,23]]);
+
+                 var zoom = L.control.zoom({position: 'bottomleft'});
+                 zoom.addTo(map);
+
+                 var markers = L.markerClusterGroup();
+                 var geoJsonLayer;
+                 var geoJsonLayerNO;
+
+                 let xhr = new XMLHttpRequest();
+                 xhr.open('GET', 'corona_geojson.json');
+                 xhr.setRequestHeader('Content-Type', 'application/json');
+                 xhr.responseType = 'json';
+                 xhr.onload = function() {
+                    if (xhr.status == 200) {
+                        geoJsonLayer = L.geoJSON(xhr.response, {
+                            onEachFeature: function (feature, layer) {
+                                layer.bindPopup(function (layer) {
+                                    return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                                });
+                            }
+                        });
+
+                        markers.addLayer(geoJsonLayer);
+
+                        let xhrNO = new XMLHttpRequest();
+                        xhrNO.open('GET', 'korona_geojson.json');
+                        xhrNO.setRequestHeader('Content-Type', 'application/json');
+                        xhrNO.responseType = 'json';
+                        xhrNO.onload = function() {
+                            if (xhrNO.status == 200) {
+                                geoJsonLayerNO = L.geoJSON(xhrNO.response, {
+                                    onEachFeature: function (feature, layer) {
+                                        layer.bindPopup(function (layer) {
+                                            return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                                        });
+                                    }
+                                });
+
+                                markers.addLayer(geoJsonLayerNO);
+                            }
+                            map.addLayer(markers);
+                        };
+                        xhrNO.send();
+                    }
+                };
+                xhr.send();
+
+
+
+                L.Control.Contribute = L.Control.extend({
+                    onAdd: function(map) {
+                        var p = L.DomUtil.create('p');
+                        p.innerHTML = 'Bidra till insamlingarna: <a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a>, <a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a>';
+                        p.class = 'contribute';
+                        p.id = 'contribute';
+
+                        return p;
+                    },
+
+                    onRemove: function(map) {
+                    }
+                });
+
+                L.control.contribute = function(opts) {
+                    return new L.Control.Contribute(opts);
+                }
+
+                L.control.contribute({ position: 'topright'}).addTo(map);
+
+                
+
+            </script>
+        </body>
+        </html>
