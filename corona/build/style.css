@@ -1,0 +1,141 @@
+#leaflet {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	top: 0;
+	z-index: 0;
+}
+
+.marker-cluster-small { background-color: rgba(222, 103, 115, .6); }
+.marker-cluster-small div { background-color: rgba(222, 103, 115, .6); }
+.marker-cluster-medium { background-color: rgba(222, 103, 115, .6); }
+.marker-cluster-medium div { background-color: rgba(222, 103, 115, .6); }
+.marker-cluster-large { background-color: rgba(213, 61, 76, .6); }
+.marker-cluster-large div { background-color: rgba(213, 61, 76, .6); }
+.marker-cluster { background-clip: padding-box; border-radius: 20px; }
+
+.marker-cluster div {
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+	border-radius: 15px;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #fff;
+}
+
+.marker-cluster span {
+	line-height: 30px;
+}
+
+#info {
+	background-color: #fff;
+	width: 100vw;
+	font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+	padding: 16px 0;
+	z-index: 999;
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: flex;
+	flex-direction: column;
+	opacity: 1;
+	-webkit-box-shadow: 0 2px 4px -1px rgba(0,0,0,0.5); 
+	box-shadow: 0 2px 4px -1px rgba(0,0,0,0.5);	
+}
+
+#logos {
+	display: flex;
+	flex-direction: row;
+}
+
+#info h1 {
+	font-size: 24px;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 8px;
+}
+
+#info p {
+	margin: 0;
+}
+
+#map {
+	width:100vw;
+	height:100vh;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.popup {
+	font-size: 16px;
+}
+
+.logoNM, .logoNF {
+	height: 60px;
+}
+
+.logo {
+	margin-right: 16px;
+	padding-left: 16px;
+}
+
+#about {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+#aboutbox {
+	display: flex;
+	flex-direction: row;
+}
+
+#closeButton {
+	padding-right: 16px;
+}
+
+.closeButton {
+	font-size: 20px;
+	padding: 8px;
+	height: 100%;
+}
+
+#contribute {
+	display: none;
+}
+
+@media screen and (max-width: 600px) {
+	#about {
+		padding: 0 16px;
+	}
+
+	.logo {
+		margin-right: 0;
+	}
+
+	.logoNM, .logoNF {
+		height: 40px;
+	}
+
+	#aboutbox {
+		flex-direction: column;
+	}
+
+	#closeButton {
+		padding: 0 16px;
+	}
+
+	.closeButton {
+		margin-top: 16px;
+		width: 100%;
+		font-size: 16px;
+	}
+
+	#contribute {
+		margin-left: 16px;
+		margin-right: 16px;
+		margin-top: 8px;
+	}
+}
