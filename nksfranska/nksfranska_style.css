@@ -17,7 +17,7 @@
 }
 
 body {
-    font-size: 20px;
+    font-size: 24px;
     font-family: "Lab Grotesque Web", sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -53,7 +53,7 @@ h1 {
 }
 
 .ingress {
-    padding: 40px 20px 20px;
+    padding: 120px 20px 20px;
     margin: 0 auto;
 }
 
@@ -95,12 +95,13 @@ p.caption {
 
 p.details {
     color: #555;
+    font-size: 20px;
 }
 
 .navbar {
     position: sticky;
-    padding: 10px;
-    top: 0px;
+    padding: 90px 10px 10px;
+    top: 0;
     z-index: 2;
     background-color: #fff;
     border-bottom: 1px solid black;
