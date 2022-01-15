@@ -10,17 +10,14 @@
 .marker-cluster-small { background-color: rgba(222, 103, 115, .6); }
 .marker-cluster-small div { 
 	background-color: rgba(222, 103, 115, .6); 
-	border-radius: 5px;
 }
 .marker-cluster-medium { background-color: rgba(222, 103, 115, .6); }
 .marker-cluster-medium div { 
 	background-color: rgba(222, 103, 115, .6); 
-	border-radius: 10px;
 }
 .marker-cluster-large { background-color: rgba(213, 61, 76, .6); }
 .marker-cluster-large div { 
 	background-color: rgba(213, 61, 76, .6); 
-	border-radius: 15px;
 }
 .marker-cluster { background-clip: padding-box; border-radius: 20px; }
 
@@ -40,6 +37,7 @@
 	text-align: center;
 	font: 12px Arial, Helvetica, sans-serif;
 	color: #fff;
+	border-radius: 15px;
 }
 
 .marker-cluster span {
