@@ -53,16 +53,29 @@
                     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                 });
 
-                 var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.png?access-token={accessToken}', {
-    attribution: '<a href="http://jawg.io" title="Tiles Courtesy of Jawg Maps" target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-    minZoom: 0,
-    maxZoom: 22,
+                 var Stamen_Toner = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.{ext}', {
+    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     subdomains: 'abcd',
-    accessToken: 'itUYXOXCJpTuQfvb2GUIOJXJIkIK3T7hz3cocWkqJk9TkEn3KLklIw0OgXM03GTJ'
+    minZoom: 0,
+    maxZoom: 20,
+    ext: 'png'
+});var Stamen_Toner = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.{ext}', {
+    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    subdomains: 'abcd',
+    minZoom: 0,
+    maxZoom: 20,
+    ext: 'png'
+});
+var Stamen_TonerLite = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}', {
+    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    subdomains: 'abcd',
+    minZoom: 0,
+    maxZoom: 20,
+    ext: 'png'
 });
 
                  var map = L.map('map', {zoomControl:false})
-                 .addLayer(Jawg_Light);
+                 .addLayer(Stamen_TonerLite);
                  map.fitBounds([[55,11],[69,23]]);
 
                  var zoom = L.control.zoom({position: 'bottomleft'});
@@ -133,7 +146,7 @@
                 }
 
                 L.control.contribute({ position: 'topright'}).addTo(map);
-                L.control.layers({"jawg":Jawg_Light}, {"Corona 1":corona1, "Korona 1":korona1}, {"position":"topleft"}).addTo(map);
+                L.control.layers({"Standard":Stamen_TonerLite, "Hög kontrast":Stamen_Toner}, {"Corona 1":corona1, "Korona 1":korona1}, {"position":"topleft"}).addTo(map);
                 
 
             </script>
