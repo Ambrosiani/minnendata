@@ -8,12 +8,29 @@
 }
 
 .marker-cluster-small { background-color: rgba(222, 103, 115, .6); }
-.marker-cluster-small div { background-color: rgba(222, 103, 115, .6); }
+.marker-cluster-small div { 
+	background-color: rgba(222, 103, 115, .6); 
+	border-radius: 5px;
+}
 .marker-cluster-medium { background-color: rgba(222, 103, 115, .6); }
-.marker-cluster-medium div { background-color: rgba(222, 103, 115, .6); }
+.marker-cluster-medium div { 
+	background-color: rgba(222, 103, 115, .6); 
+	border-radius: 10px;
+}
 .marker-cluster-large { background-color: rgba(213, 61, 76, .6); }
-.marker-cluster-large div { background-color: rgba(213, 61, 76, .6); }
+.marker-cluster-large div { 
+	background-color: rgba(213, 61, 76, .6); 
+	border-radius: 15px;
+}
 .marker-cluster { background-clip: padding-box; border-radius: 20px; }
+
+.marker-cluster.corona1, .marker-cluster.corona1 div {
+	background-color: #ff0000;
+}
+
+.marker-cluster.corona1 div {
+	background-color: #000000;
+}
 
 .marker-cluster div {
 	width: 30px;
@@ -21,7 +38,6 @@
 	margin-left: 5px;
 	margin-top: 5px;
 	text-align: center;
-	border-radius: 15px;
 	font: 12px Arial, Helvetica, sans-serif;
 	color: #fff;
 }
