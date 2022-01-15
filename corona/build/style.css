@@ -21,12 +21,12 @@
 }
 .marker-cluster { background-clip: padding-box; border-radius: 20px; }
 
-.marker-cluster.corona1, .marker-cluster.corona1 div {
-	background-color: #ff0000;
+.marker-cluster.corona1 {
+	background-color: #cc0000;
 }
 
 .marker-cluster.corona1 div {
-	background-color: #cc0000;
+	background-color: #ff0000;
 }
 
 .marker-cluster div {
