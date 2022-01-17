@@ -28,12 +28,32 @@
       <div class="logo"><a href="https://www.nordiskamuseet.se/" target="_blank"><img class="logoNM" src="images/nm.png" alt="Nordiska museet"></a></div><div class="logo"><a href="https://norskfolkemuseum.no/" target="_blank"><img class="logoNF" src="images/nfm.jpg" alt="Norsk Folkemuseum"></a></div></div>
       <div id="aboutbox">
         <div id="about">
-          <h1>Minnesinsamling om coronaviruset i Norden</h1><p>Kartan visar ett urval ur insamlingen <a href="https://minnen.se/tema/corona" target="_blank">Coronaviruset i Sverige</a> som genomförs av Nordiska museet och motsvarande insamling i Norge av <a href="https://norskfolkemuseum.no/" target="_blank">Norsk Folkemuseum</a>. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret. Kartan är utvecklad av Albin Larsson och Aron Ambrosiani.</p><p>Bidra till insamlingarna: <a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a>, <a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a></p></div>
+          <h1>Minnesinsamling om coronaviruset i Norden</h1><p>Kartan visar publicerade minnen från insamlingen <a href="https://minnen.se/tema/corona" target="_blank">Coronaviruset i Sverige</a> som genomförs av Nordiska museet och motsvarande insamling i Norge av <a href="https://norskfolkemuseum.no/" target="_blank">Norsk Folkemuseum</a>. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret. Kartan är utvecklad av Albin Larsson och Aron Ambrosiani.</p><p>Bidra till insamlingarna: <a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a>, <a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a></p></div>
           <div><button class="closeButton" type="button">Stäng</button></div></div>
         </div>
         <div id="map"></div>
 
         <script type="text/javascript">
+
+          function createClusterMarkers(cluster, name) {
+            var childCount = cluster.getChildCount();
+
+            var c = ' marker-cluster-';
+            var size;
+            if (childCount < 10) {
+              c += 'small';
+              size = 32;
+            } else if (childCount < 100) {
+              c += 'medium';
+              size = 36;
+            } else {
+              c += 'large';
+              size: 40;
+            }
+
+            return new L.DivIcon({ html: '<div><span>' + childCount + '</span></div>', className: 'marker-cluster' + c + ' ' + name, iconSize: new L.Point(size, size) });
+          }
+
 
           document.getElementsByClassName('closeButton')[0].onclick = function changeContent() {
             console.log('click closeButton');
@@ -41,18 +61,6 @@
             document.getElementsByClassName('contribute')[0].style = "display:block";
             document.getElementsByClassName('leaflet-control-layers')[0].style = "display:block";
           }
-
-
-
-
-
-
-
-          var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 18,
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-          });
-
 
           var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.png?access-token={accessToken}', {
             attribution: '<a href="http://jawg.io" title="Tiles Courtesy of Jawg Maps" target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -69,11 +77,7 @@
           zoom.addTo(map);
 
           var corona1 = L.markerClusterGroup({
-            iconCreateFunction: function(cluster) {
-              var icon = corona1._defaultIconCreateFunction(cluster);
-              icon.options.className += ' corona1';
-              return icon;
-            }
+            iconCreateFunction: createClusterMarkers
           });
           var corona2 = L.markerClusterGroup();
           var korona1 = L.markerClusterGroup();
