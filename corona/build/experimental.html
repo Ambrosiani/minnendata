@@ -50,7 +50,7 @@
               c += 'large';
             }
 
-            return new L.DivIcon({ html: '<div><span>' + childCount + '</span></div>', className: 'marker-cluster' + c + ' ' + name, iconSize: new L.Point(size, size) });
+            return new L.DivIcon({ html: childCount, className: 'marker-cluster' + c + ' ' + name, iconSize: new L.Point(size, size) });
           }
 
 

@@ -7,49 +7,36 @@
 	z-index: 0;
 }
 
-.marker-cluster-small { background-color: rgba(222, 103, 115, .6); border-radius: 16px; }
-.marker-cluster-small div { 
-	background-color: rgba(222, 103, 115, .6);
-	width: 22px;
-	height: 22px; 
-	border-radius: 11px;
+.marker-cluster-small { 
+	background-color: rgba(222, 103, 115, .6); 
+	border-radius: 16px; 
+	line-height: 22px;
 }
-.marker-cluster-medium { background-color: rgba(222, 103, 115, .6); border-radius: 18px; }
-.marker-cluster-medium div { 
-	background-color: rgba(222, 103, 115, .6);
-	width: 26px;
-	height: 26px; 
-	border-radius: 13px;
+
+.marker-cluster-medium { 
+	background-color: rgba(222, 103, 115, .6); 
+	border-radius: 18px; 
+	line-height: 26px;
 }
-.marker-cluster-large { background-color: rgba(213, 61, 76, .6); border-radius: 20px; }
-.marker-cluster-large div { 
+
+
+.marker-cluster-large { 
 	background-color: rgba(213, 61, 76, .6); 
-	width: 30px;
-	height: 30px;
-	border-radius: 15px;
+	border-radius: 20px; 
+	line-height: 30px;
 }
-.marker-cluster { background-clip: padding-box; border-radius: 20px; }
 
 .marker-cluster.corona1 {
 	background-color: #cc0000;
 }
 
-.marker-cluster.corona1 div {
-	background-color: #ff0000;
-}
-
-.marker-cluster div {
-	
+.marker-cluster {
 	margin-left: 5px;
 	margin-top: 5px;
 	text-align: center;
 	font: 12px Arial, Helvetica, sans-serif;
 	color: #fff;
-	
-}
-
-.marker-cluster span {
-	line-height: 30px;
+	background-clip: padding-box;
 }
 
 .info {
