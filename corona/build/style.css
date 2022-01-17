@@ -7,37 +7,40 @@
 	z-index: 0;
 }
 
+.marker-cluster {
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+	vertical-align: middle;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #fff;
+	background-clip: padding-box;
+}
+
 .marker-cluster-small { 
 	background-color: rgba(222, 103, 115, .6); 
 	border-radius: 16px; 
-	line-height: 22px;
+	line-height: 32px;
 }
 
 .marker-cluster-medium { 
 	background-color: rgba(222, 103, 115, .6); 
 	border-radius: 18px; 
-	line-height: 26px;
+	line-height: 36px;
 }
 
 
 .marker-cluster-large { 
 	background-color: rgba(213, 61, 76, .6); 
 	border-radius: 20px; 
-	line-height: 30px;
+	line-height: 40px;
 }
 
 .marker-cluster.corona1 {
 	background-color: #cc0000;
 }
 
-.marker-cluster {
-	margin-left: 5px;
-	margin-top: 5px;
-	text-align: center;
-	font: 12px Arial, Helvetica, sans-serif;
-	color: #fff;
-	background-clip: padding-box;
-}
+
 
 .info {
 	background-color: #fff;
