@@ -51,8 +51,16 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	background-color: #005FAE;
 }
 
-.marker-cluster.korona1, .leaflet-interactive.korona1 {
+.marker-cluster.korona1 {
 	background-color: #C40C1D;
+}
+
+.leaflet-interactive.korona1 {
+	fill: #C40C1D;
+}
+
+.leaflet-interactive.corona1 {
+	fill: #005FAE;
 }
 
 .info {
