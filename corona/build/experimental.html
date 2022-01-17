@@ -120,7 +120,7 @@
             if (xhrNO.status == 200) {
               geoJsonLayerNO = L.geoJSON(xhrNO.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
-                  return L.circleMarker(latlng, {"className":korona1});
+                  return L.circleMarker(latlng, {className:"korona1"});
                 },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
