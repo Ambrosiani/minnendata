@@ -158,7 +158,7 @@ var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}
                 }
 
                 L.control.contribute({ position: 'topright'}).addTo(map);
-                L.control.layers({"Standard":Stamen_TonerLite, "Hög kontrast":Stamen_Toner, "Jawg":Jawg_Light}, {"Corona 1":corona1, "Korona 1":korona1}, {"position":"topleft"}).addTo(map);
+                L.control.layers({"Standard":Stamen_TonerLite, "Hög kontrast":Stamen_Toner, "Jawg":Jawg_Light}, {"Corona 1":corona1, "Korona 1":korona1}, {"position":"topleft", "collapsed":false}).addTo(map);
                 
 
             </script>
