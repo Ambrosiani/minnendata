@@ -1,166 +1,147 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Minnesinsamling om coronaviruset i Norden</title>
+  <title>Minnesinsamling om coronaviruset i Norden</title>
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="UTF-8"/>
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@nordiskamuseet" />
-    <meta name="twitter:creator" content="@nordiskamuseet" />
-    <meta property="og:url" content="https://digitalt.nordiskamuseet.se/coronaminnen/" />
-    <meta property="og:title" content="Minnesinsamling om coronaviruset i Norden" />
-    <meta property="og:description" content="Kartan visar ett urval ur insamlingen Coronaviruset i Sverige som genomförs av Nordiska museet och motsvarande insamling av Norsk Folkemuseum. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret." />
-    <meta property="og:image" content="https://digitalt.nordiskamuseet.se/coronaminnen/preview.jpg" />
-    <meta property="og:image:width" content="960" />
-    <meta property="og:image:height" content="600" />
-    <meta property="og:type" content="website" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.Default.css" />
-    <link rel="stylesheet" href="style.css" />
-    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8"/>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@nordiskamuseet" />
+  <meta name="twitter:creator" content="@nordiskamuseet" />
+  <meta property="og:url" content="https://digitalt.nordiskamuseet.se/coronaminnen/" />
+  <meta property="og:title" content="Minnesinsamling om coronaviruset i Norden" />
+  <meta property="og:description" content="Kartan visar ett urval ur insamlingen Coronaviruset i Sverige som genomförs av Nordiska museet och motsvarande insamling av Norsk Folkemuseum. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret." />
+  <meta property="og:image" content="https://digitalt.nordiskamuseet.se/coronaminnen/preview.jpg" />
+  <meta property="og:image:width" content="960" />
+  <meta property="og:image:height" content="600" />
+  <meta property="og:type" content="website" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
 </head>
 <body style="margin: 0;">
-    <div class="info">
-        <div id="logos">
-            <div class="logo"><a href="https://www.nordiskamuseet.se/" target="_blank"><img class="logoNM" src="images/nm.png" alt="Nordiska museet"></a></div><div class="logo"><a href="https://norskfolkemuseum.no/" target="_blank"><img class="logoNF" src="images/nfm.jpg" alt="Norsk Folkemuseum"></a></div></div>
-            <div id="aboutbox">
-                <div id="about">
-                    <h1>Minnesinsamling om coronaviruset i Norden</h1><p>Kartan visar ett urval ur insamlingen <a href="https://minnen.se/tema/corona" target="_blank">Coronaviruset i Sverige</a> som genomförs av Nordiska museet och motsvarande insamling i Norge av <a href="https://norskfolkemuseum.no/" target="_blank">Norsk Folkemuseum</a>. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret. Kartan är utvecklad av Albin Larsson och Aron Ambrosiani.</p><p>Bidra till insamlingarna: <a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a>, <a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a></p></div>
-                    <div><button class="closeButton" type="button">Stäng</button></div></div>
-                </div>
-                <div id="map"></div>
+  <div class="info">
+    <div id="logos">
+      <div class="logo"><a href="https://www.nordiskamuseet.se/" target="_blank"><img class="logoNM" src="images/nm.png" alt="Nordiska museet"></a></div><div class="logo"><a href="https://norskfolkemuseum.no/" target="_blank"><img class="logoNF" src="images/nfm.jpg" alt="Norsk Folkemuseum"></a></div></div>
+      <div id="aboutbox">
+        <div id="about">
+          <h1>Minnesinsamling om coronaviruset i Norden</h1><p>Kartan visar ett urval ur insamlingen <a href="https://minnen.se/tema/corona" target="_blank">Coronaviruset i Sverige</a> som genomförs av Nordiska museet och motsvarande insamling i Norge av <a href="https://norskfolkemuseum.no/" target="_blank">Norsk Folkemuseum</a>. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret. Kartan är utvecklad av Albin Larsson och Aron Ambrosiani.</p><p>Bidra till insamlingarna: <a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a>, <a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a></p></div>
+          <div><button class="closeButton" type="button">Stäng</button></div></div>
+        </div>
+        <div id="map"></div>
 
-                <script type="text/javascript">
+        <script type="text/javascript">
 
-                    document.getElementsByClassName('closeButton')[0].onclick = function changeContent() {
-                        console.log('click closeButton');
-                     document.getElementsByClassName('info')[0].style = "display:none";
-                     document.getElementsByClassName('contribute')[0].style = "display:block";
-                     document.getElementsByClassName('leaflet-control-layers')[0].style = "display:block";
-                 }
-
-
+          document.getElementsByClassName('closeButton')[0].onclick = function changeContent() {
+            console.log('click closeButton');
+            document.getElementsByClassName('info')[0].style = "display:none";
+            document.getElementsByClassName('contribute')[0].style = "display:block";
+            document.getElementsByClassName('leaflet-control-layers')[0].style = "display:block";
+          }
 
 
 
 
 
-                 var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                    maxZoom: 18,
-                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                });
 
-                 var Stamen_Toner = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.{ext}', {
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-    subdomains: 'abcd',
-    minZoom: 0,
-    maxZoom: 20,
-    ext: 'png'
-});var Stamen_Toner = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.{ext}', {
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-    subdomains: 'abcd',
-    minZoom: 0,
-    maxZoom: 20,
-    ext: 'png'
-});
-var Stamen_TonerLite = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}', {
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-    subdomains: 'abcd',
-    minZoom: 0,
-    maxZoom: 20,
-    ext: 'png'
-});
-var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.png?access-token={accessToken}', {
-    attribution: '<a href="http://jawg.io" title="Tiles Courtesy of Jawg Maps" target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-    minZoom: 0,
-    maxZoom: 22,
-    subdomains: 'abcd',
-    accessToken: 'itUYXOXCJpTuQfvb2GUIOJXJIkIK3T7hz3cocWkqJk9TkEn3KLklIw0OgXM03GTJ'});
 
-                 var map = L.map('map', {zoomControl:false})
-                 .addLayer(Jawg_Light);
-                 map.fitBounds([[55,11],[69,23]]);
+          var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          });
 
-                 var zoom = L.control.zoom({position: 'bottomleft'});
-                 zoom.addTo(map);
 
-                var corona1 = L.markerClusterGroup({
-                    iconCreateFunction: function(cluster) {
-                    var icon = corona1._defaultIconCreateFunction(cluster);
-                    icon.options.className += ' corona1';
-                    return icon;
-                    }
-                });
-                 var corona2 = L.markerClusterGroup();
-                 var korona1 = L.markerClusterGroup();
-                 var geoJsonLayer;
-                 var geoJsonLayerNO;
+          var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.png?access-token={accessToken}', {
+            attribution: '<a href="http://jawg.io" title="Tiles Courtesy of Jawg Maps" target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            minZoom: 0,
+            maxZoom: 22,
+            subdomains: 'abcd',
+            accessToken: 'itUYXOXCJpTuQfvb2GUIOJXJIkIK3T7hz3cocWkqJk9TkEn3KLklIw0OgXM03GTJ'});
 
-                 let xhr = new XMLHttpRequest();
-                 xhr.open('GET', 'corona_geojson.json');
-                 xhr.setRequestHeader('Content-Type', 'application/json');
-                 xhr.responseType = 'json';
-                 xhr.onload = function() {
-                    if (xhr.status == 200) {
-                        geoJsonLayer = L.geoJSON(xhr.response, {
-                            onEachFeature: function (feature, layer) {
-                                layer.bindPopup(function (layer) {
-                                    return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
-                                });
-                            }
-                        });
+          var map = L.map('map', {zoomControl:false})
+          .addLayer(Jawg_Light);
+          map.fitBounds([[55,11],[69,23]]);
 
-                        corona1.addLayer(geoJsonLayer);
-                        map.addLayer(corona1);
-                        
-                    }
-                };
-                xhr.send();
+          var zoom = L.control.zoom({position: 'bottomleft'});
+          zoom.addTo(map);
 
-                let xhrNO = new XMLHttpRequest();
-                        xhrNO.open('GET', 'korona_geojson.json');
-                        xhrNO.setRequestHeader('Content-Type', 'application/json');
-                        xhrNO.responseType = 'json';
-                        xhrNO.onload = function() {
-                            if (xhrNO.status == 200) {
-                                geoJsonLayerNO = L.geoJSON(xhrNO.response, {
-                                    onEachFeature: function (feature, layer) {
-                                        layer.bindPopup(function (layer) {
-                                            return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
-                                        });
-                                    }
-                                });
+          var corona1 = L.markerClusterGroup({
+            iconCreateFunction: function(cluster) {
+              var icon = corona1._defaultIconCreateFunction(cluster);
+              icon.options.className += ' corona1';
+              return icon;
+            }
+          });
+          var corona2 = L.markerClusterGroup();
+          var korona1 = L.markerClusterGroup();
+          var geoJsonLayer;
+          var geoJsonLayerNO;
 
-                                korona1.addLayer(geoJsonLayerNO);
-                                map.addLayer(korona1);
-                            }
-                            
-                        };
-                        xhrNO.send();
-
-                L.Control.Contribute = L.Control.extend({
-                    onAdd: function(map) {
-                        var p = L.DomUtil.create('p','contribute');
-                        p.innerHTML = 'Bidra till insamlingarna: <a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a>, <a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a>';
-
-                        return p;
-                    },
-
-                    onRemove: function(map) {
-                    }
-                });
-
-                L.control.contribute = function(opts) {
-                    return new L.Control.Contribute(opts);
+          let xhr = new XMLHttpRequest();
+          xhr.open('GET', 'corona_geojson.json');
+          xhr.setRequestHeader('Content-Type', 'application/json');
+          xhr.responseType = 'json';
+          xhr.onload = function() {
+            if (xhr.status == 200) {
+              geoJsonLayer = L.geoJSON(xhr.response, {
+                onEachFeature: function (feature, layer) {
+                  layer.bindPopup(function (layer) {
+                    return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                  });
                 }
+              });
 
-                L.control.contribute({ position: 'topright'}).addTo(map);
-                L.control.layers({"Standard":Stamen_TonerLite, "Hög kontrast":Stamen_Toner, "Jawg":Jawg_Light}, {"Corona 1":corona1, "Korona 1":korona1}, {"position":"topleft", "collapsed":false}).addTo(map);
-                
+              corona1.addLayer(geoJsonLayer);
+              map.addLayer(corona1);
 
-            </script>
-        </body>
-        </html>
+            }
+          };
+          xhr.send();
+
+          let xhrNO = new XMLHttpRequest();
+          xhrNO.open('GET', 'korona_geojson.json');
+          xhrNO.setRequestHeader('Content-Type', 'application/json');
+          xhrNO.responseType = 'json';
+          xhrNO.onload = function() {
+            if (xhrNO.status == 200) {
+              geoJsonLayerNO = L.geoJSON(xhrNO.response, {
+                onEachFeature: function (feature, layer) {
+                  layer.bindPopup(function (layer) {
+                    return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                  });
+                }
+              });
+
+              korona1.addLayer(geoJsonLayerNO);
+              map.addLayer(korona1);
+            }
+
+          };
+          xhrNO.send();
+
+          L.Control.Contribute = L.Control.extend({
+            onAdd: function(map) {
+              var p = L.DomUtil.create('p','contribute');
+              p.innerHTML = 'Bidra till insamlingarna: <a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a>, <a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a>';
+
+              return p;
+            },
+
+            onRemove: function(map) {
+            }
+          });
+
+          L.control.contribute = function(opts) {
+            return new L.Control.Contribute(opts);
+          }
+
+          L.control.contribute({ position: 'topright'}).addTo(map);
+          L.control.layers({ "Jawg":Jawg_Light }, { "Corona 1":corona1, "Korona 1":korona1 }, { "position":"topleft", "collapsed":false, "hadeSingleBase":true }).addTo(map);
+
+
+        </script>
+      </body>
+      </html>
