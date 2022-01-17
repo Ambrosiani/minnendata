@@ -82,7 +82,12 @@
             }
           });
           var corona2 = L.markerClusterGroup();
-          var korona1 = L.markerClusterGroup();
+          var korona1 = L.markerClusterGroup({
+            iconCreateFunction: function(cluster, name) {
+              var icon = createClusterMarkers(cluster, 'korona1');
+              return icon;
+            }
+          });
           var geoJsonLayer;
           var geoJsonLayerNO;
 
