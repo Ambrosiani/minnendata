@@ -7,6 +7,17 @@
 	z-index: 0;
 }
 
+.leaflet-container {
+font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.leaflet-interactive {
+	cursor: pointer;
+	fill: #000000;
+	fill-opacity: 1;
+	stroke-width: 0;
+}
+
 .marker-cluster {
 	margin-left: 5px;
 	margin-top: 5px;
