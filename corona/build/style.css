@@ -14,7 +14,6 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 .leaflet-interactive {
 	cursor: pointer;
 	fill: #000000;
-	fill-opacity: 1;
 	stroke-width: 0;
 }
 
@@ -57,10 +56,12 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 
 .leaflet-interactive.korona1 {
 	fill: #C40C1D;
+	fill-opacity: 1;
 }
 
 .leaflet-interactive.corona1 {
 	fill: #005FAE;
+	fill-opacity: 1;
 }
 
 .info {
