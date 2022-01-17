@@ -120,8 +120,8 @@
             if (xhrNO.status == 200) {
               geoJsonLayerNO = L.geoJSON(xhrNO.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
-                  //var icon = L.DivIcon();
-                  return L.marker(latlng);
+                  var icon = L.DivIcon();
+                  return L.marker(latlng, {"icon":icon});
                 },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
