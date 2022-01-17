@@ -37,11 +37,11 @@
 }
 
 .marker-cluster.corona1 {
-	background-color: rgb(179, 242, 150);
+	background-color: #005FAE;
 }
 
-.marker-cluster.corona2 {
-	background-color: rgb(196, 12, 29);
+.marker-cluster.korona1 {
+	background-color: #C40C1D;
 }
 
 .info {
