@@ -122,7 +122,7 @@
                 pointToLayer: function(geoJsonPoint, latlng) {
                   var icon = L.DivIcon()
                   return L.marker(latlng, {"icon":icon});
-                }
+                },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
                     return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
