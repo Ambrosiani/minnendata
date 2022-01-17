@@ -77,7 +77,10 @@
           zoom.addTo(map);
 
           var corona1 = L.markerClusterGroup({
-            iconCreateFunction: createClusterMarkers
+            iconCreateFunction: function(cluster, name) {
+              var icon = corona1.createClusterMarkers(cluster, 'corona1');
+              return icon;
+            }
           });
           var corona2 = L.markerClusterGroup();
           var korona1 = L.markerClusterGroup();
