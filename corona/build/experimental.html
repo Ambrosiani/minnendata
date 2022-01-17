@@ -39,7 +39,7 @@
             var childCount = cluster.getChildCount();
 
             var c = ' marker-cluster-';
-            var size;
+            var size = 40;
             if (childCount < 10) {
               c += 'small';
               size = 32;
@@ -48,7 +48,6 @@
               size = 36;
             } else {
               c += 'large';
-              size: 40;
             }
 
             return new L.DivIcon({ html: '<div><span>' + childCount + '</span></div>', className: 'marker-cluster' + c + ' ' + name, iconSize: new L.Point(size, size) });
