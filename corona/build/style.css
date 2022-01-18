@@ -197,10 +197,6 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	}
 }
 
-
-
-
-
 input[type="checkbox"] {
   /* Add if not using autoprefixer */
   -webkit-appearance: none;
@@ -211,27 +207,25 @@ input[type="checkbox"] {
   /* Not removed via appearance */
   margin: 0;
 
-  color: #00ff00;
   width: 1.15em;
   height: 1.15em;
-  border: 0.15em solid #000000;
-  border-radius: 0.15em;
-  transform: translateY(-0.075em);
 
+  transform: translateY(-0.075em);
   place-content: center;
+  display: grid;
 }
 
 input[type="checkbox"]::before {
   content: "";
   width: 0.65em;
   height: 0.65em;
-  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
   transform: scale(0);
   transform-origin: bottom left;
   transition: 120ms transform ease-in-out;
-  box-shadow: inset 1em 1em #000000;
+  box-shadow: inset 1em 1em #0000ff;
   /* Windows High Contrast Mode */
   background-color: #0000ff;
+  display: inline-grid;
 }
 
 input[type="checkbox"]:checked::before {
@@ -241,4 +235,28 @@ input[type="checkbox"]:checked::before {
 input[type="checkbox"]:focus {
   outline: max(2px, 0.15em) solid #ff0000;
   outline-offset: max(2px, 0.15em);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"]::before {
+	box-shadow: inset 1em 1em #ff0000;
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+	border: 0.15em solid #ff0000;
+}
+
+.leaflet-control-layers-overlays label:nth-child(2) div input[type="checkbox"]::before {
+	box-shadow: inset 1em 1em #00ff00;
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+	border: 0.15em solid #00ff00;
+}
+
+.leaflet-control-layers-overlays label:nth-child(3) div input[type="checkbox"]::before {
+	box-shadow: inset 1em 1em #0000ff;
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+	border: 0.15em solid #0000ff;
 }
