@@ -1,3 +1,9 @@
+:root {
+	--corona1-color: #005FAE;
+	--corona2-color: #8D00AE;
+	--korona1-color: #C40C1D;
+}
+
 #leaflet {
 	position: absolute;
 	bottom: 0;
@@ -47,29 +53,29 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 
 .marker-cluster.corona1 {
-	background-color: #005FAE;
+	background-color: var(--corona1-color);
 }
 
 .marker-cluster.corona2 {
-	background-color: #8D00AE;
+	background-color: var(--corona2-color);
 }
 
 .marker-cluster.korona1 {
-	background-color: #C40C1D;
+	background-color: var(--korona1-color);
 }
 
 .leaflet-interactive.corona1 {
-	fill: #005FAE;
+	fill: var(--corona1-color);
 	fill-opacity: 1;
 }
 
 .leaflet-interactive.corona2 {
-	fill: #8D00AE;
+	fill: var(--corona2-color);
 	fill-opacity: 1;
 }
 
 .leaflet-interactive.korona1 {
-	fill: #C40C1D;
+	fill: var(--korona1-color);
 	fill-opacity: 1;
 }
 
@@ -207,22 +213,21 @@ input[type="checkbox"] {
   /* Not removed via appearance */
   margin: 0;
 
-  width: 1.15em;
-  height: 1.15em;
+  width: 12px;
+  height: 12px;
 
-  transform: translateY(-0.075em);
+  transform: translateY(-3px);
   place-content: center;
-  display: grid;
+  display: inline-grid;
 }
 
 input[type="checkbox"]::before {
   content: "";
-  width: 0.65em;
-  height: 0.65em;
+  width: 8px;
+  height: 8px;
   transform: scale(0);
   transform-origin: bottom left;
   transition: 120ms transform ease-in-out;
-  /* Windows High Contrast Mode */
   display: inline-grid;
 }
 
@@ -236,25 +241,25 @@ input[type="checkbox"]:focus {
 }
 
 .leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"]::before {
-	box-shadow: inset 1em 1em #ff0000;
+	box-shadow: inset 1em 1em var(--corona1-color);
 }
 
 .leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
-	border: 0.15em solid #ff0000;
+	border: 1px solid var(--corona1-color);
 }
 
 .leaflet-control-layers-overlays label:nth-child(2) div input[type="checkbox"]::before {
-	box-shadow: inset 1em 1em #00ff00;
+	box-shadow: inset 1em 1em var(--korona1-color);
 }
 
 .leaflet-control-layers-overlays label:nth-child(2) div input[type="checkbox"] {
-	border: 0.15em solid #00ff00;
+	border: 1px solid var(--korona1-color);
 }
 
 .leaflet-control-layers-overlays label:nth-child(3) div input[type="checkbox"]::before {
-	box-shadow: inset 1em 1em #0000ff;
+	box-shadow: inset 1em 1em var(--corona2-color);
 }
 
 .leaflet-control-layers-overlays label:nth-child(3) div input[type="checkbox"] {
-	border: 0.15em solid #0000ff;
+	border: 1px solid var(--corona2-color);
 }
