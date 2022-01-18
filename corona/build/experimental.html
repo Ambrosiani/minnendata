@@ -57,7 +57,6 @@
           document.getElementsByClassName('closeButton')[0].onclick = function changeContent() {
             console.log('click closeButton');
             document.getElementsByClassName('info')[0].style = "display:none";
-            document.getElementsByClassName('contribute')[0].style = "display:block";
             document.getElementsByClassName('leaflet-control-layers')[0].style = "display:block";
             document.getElementsByClassName('leaflet-control-zoom')[0].style = "display:block";
           }
@@ -169,24 +168,13 @@
           };
           xhrNO.send();
 
-          L.Control.Contribute = L.Control.extend({
-            onAdd: function(map) {
-              var p = L.DomUtil.create('p','contribute');
-              p.innerHTML = 'Bidra till insamlingarna:<br/><a href="https://minnen.se/tema/corona/tentative" target="_blank">Coronaviruset i Sverige</a><br/><a href="https://minner.no/tema/korona/tentative" target="_blank">Koronaviruset i Norge</a>';
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Coronaviruset i Sverige (Nordiska museet) <a href="#">Bidra</a>':corona1, "Koronaviruset i Norge (Norsk Folkemuseum)":korona1, "Återföreningen – berätta om livet efter vaccinet (Nordiska museet)":corona2 }, { "position":"topleft", "hideSingleBase":true });
 
-              return p;
-            },
-
-            onRemove: function(map) {
-            }
-          });
-
-          L.control.contribute = function(opts) {
-            return new L.Control.Contribute(opts);
+          if( window.innerWidth > 600) {
+            layerControl.options.collapsed = false;
           }
 
-          L.control.contribute({ position: 'topright'}).addTo(map);
-          L.control.layers({ "Jawg":Jawg_Light }, { "Coronaviruset i Sverige (Nordiska museet)":corona1, "Koronaviruset i Norge (Norsk Folkemuseum)":korona1, "Återföreningen – berätta om livet efter vaccinet (Nordiska museet)":corona2 }, { "position":"topleft", "collapsed":false, "hideSingleBase":true }).addTo(map);
+          map.addControl(layerControl);
 
 
         </script>
