@@ -175,6 +175,10 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 		margin-right: 16px;
 		margin-top: 8px;
 	}
+
+	.contribute {
+		display: none !important;
+	}
 }
 
 @media screen and (min-width: 960px) {
