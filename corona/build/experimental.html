@@ -82,7 +82,12 @@
               return icon;
             }
           });
-          var corona2 = L.markerClusterGroup();
+          var corona2 = L.markerClusterGroup({
+            iconCreateFunction: function(cluster, name) {
+              var icon = createClusterMarkers(cluster, 'corona2');
+              return icon;
+            }
+          });
           var korona1 = L.markerClusterGroup({
             iconCreateFunction: function(cluster, name) {
               var icon = createClusterMarkers(cluster, 'korona1');
@@ -115,6 +120,30 @@
             }
           };
           xhr.send();
+
+          let xhr2 = new XMLHttpRequest();
+          xhr2.open('GET', 'corona2_geojson.json');
+          xhr2.setRequestHeader('Content-Type', 'application/json');
+          xhr2.responseType = 'json';
+          xhr2.onload = function() {
+            if (xhr2.status == 200) {
+              geoJsonLayer = L.geoJSON(xhr2.response, {
+                pointToLayer: function(geoJsonPoint, latlng) {
+                  return L.circleMarker(latlng, {className:"corona2"});
+                },
+                onEachFeature: function (feature, layer) {
+                  layer.bindPopup(function (layer) {
+                    return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                  });
+                }
+              });
+
+              corona2.addLayer(geoJsonLayer);
+              map.addLayer(corona2);
+
+            }
+          };
+          xhr2.send();
 
           let xhrNO = new XMLHttpRequest();
           xhrNO.open('GET', 'korona_geojson.json');
@@ -157,7 +186,7 @@
           }
 
           L.control.contribute({ position: 'topright'}).addTo(map);
-          L.control.layers({ "Jawg":Jawg_Light }, { "Coronaviruset i Sverige (Nordiska museet)":corona1, "Koronaviruset i Norge (Norsk Folkemuseum)":korona1 }, { "position":"topleft", "collapsed":false, "hideSingleBase":true }).addTo(map);
+          L.control.layers({ "Jawg":Jawg_Light }, { "Coronaviruset i Sverige (Nordiska museet)":corona1, "Koronaviruset i Norge (Norsk Folkemuseum)":korona1, "Återföreningen – berätta om livet efter vaccinet (Nordiska museet)":corona2 }, { "position":"topleft", "collapsed":false, "hideSingleBase":true }).addTo(map);
 
 
         </script>
