@@ -134,7 +134,7 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	height: 100%;
 }
 
-.contribute, .leaflet-control-layers {
+.contribute, .leaflet-control-layers, .leaflet-control-zoom {
 	display: none;
 }
 
@@ -171,5 +171,15 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 @media screen and (min-width: 960px) {
 	.info {
 		width: 960px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.info, .popup {
+		font-size: 14px;
+	}
+
+	.info h1 {
+		font-size: 20px;
 	}
 }
