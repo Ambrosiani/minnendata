@@ -50,17 +50,26 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	background-color: #005FAE;
 }
 
+.marker-cluster.corona2 {
+	background-color: #8D00AE;
+}
+
 .marker-cluster.korona1 {
 	background-color: #C40C1D;
 }
 
-.leaflet-interactive.korona1 {
-	fill: #C40C1D;
+.leaflet-interactive.corona1 {
+	fill: #005FAE;
 	fill-opacity: 1;
 }
 
-.leaflet-interactive.corona1 {
-	fill: #005FAE;
+.leaflet-interactive.corona2 {
+	fill: #8D00AE;
+	fill-opacity: 1;
+}
+
+.leaflet-interactive.korona1 {
+	fill: #C40C1D;
 	fill-opacity: 1;
 }
 
@@ -174,8 +183,8 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	}
 }
 
-@media screen and (max-width: 600px) {
-	.info, .popup {
+@media screen and (max-width: 360px) {
+	.info, .popup, .leaflet-container {
 		font-size: 14px;
 	}
 
