@@ -222,9 +222,7 @@ input[type="checkbox"]::before {
   transform: scale(0);
   transform-origin: bottom left;
   transition: 120ms transform ease-in-out;
-  box-shadow: inset 1em 1em #0000ff;
   /* Windows High Contrast Mode */
-  background-color: #0000ff;
   display: inline-grid;
 }
 
@@ -249,7 +247,7 @@ input[type="checkbox"]:focus {
 	box-shadow: inset 1em 1em #00ff00;
 }
 
-.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+.leaflet-control-layers-overlays label:nth-child(2) div input[type="checkbox"] {
 	border: 0.15em solid #00ff00;
 }
 
@@ -257,6 +255,6 @@ input[type="checkbox"]:focus {
 	box-shadow: inset 1em 1em #0000ff;
 }
 
-.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+.leaflet-control-layers-overlays label:nth-child(3) div input[type="checkbox"] {
 	border: 0.15em solid #0000ff;
 }
