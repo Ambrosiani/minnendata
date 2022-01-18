@@ -13,7 +13,7 @@
         "description": "Affisch från utställning 2014",
         "dms_id": "013AitqX7q2k",
         "image_height": 2149,
-        "image_ratio": 0.812936249418334,
+        "image_ratio": 0.8129362494183341,
         "image_width": 1747,
         "license": "CC BY",
         "mime_type": "image/jpeg",
@@ -462,26 +462,6 @@
     "license": "CC BY",
     "media": [
       {
-        "created": "Wed, 15 Sep 2021 07:20:45 GMT",
-        "dms_id": "013AhtPopuKS",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Wed, 15 Sep 2021 07:20:45 GMT",
-        "name": "Torun Hegardt.mp3",
-        "order_by_number": 1,
-        "owner": "Torun Hegardt intervjuas. Jörgen Löwenfeldt, Nordiska museet, ställer frågorna.",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "audio",
-        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd"
-      },
-      {
         "created": "Wed, 15 Sep 2021 07:19:21 GMT",
         "description": "Torun Hegardt",
         "dms_id": "013AhtPopuKR",
@@ -504,6 +484,26 @@
         },
         "type": "image",
         "uuid": "cc1198bb-ac4a-4e5d-b9f5-5a3d6fb192d2"
+      },
+      {
+        "created": "Wed, 15 Sep 2021 07:20:45 GMT",
+        "dms_id": "013AhtPopuKS",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:20:45 GMT",
+        "name": "Torun Hegardt.mp3",
+        "order_by_number": 1,
+        "owner": "Torun Hegardt intervjuas. Jörgen Löwenfeldt, Nordiska museet, ställer frågorna.",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd"
       }
     ],
     "modified": "Mon, 17 Jan 2022 07:33:38 GMT",
@@ -615,7 +615,7 @@
         "description": "Stämpel på insidan av väskan",
         "dms_id": "013AitcTX9xq",
         "image_height": 991,
-        "image_ratio": 0.835519677093845,
+        "image_ratio": 0.8355196770938446,
         "image_width": 828,
         "license": "CC0",
         "mime_type": "image/jpeg",
@@ -763,18 +763,18 @@
     "values": [
       {
         "created": "Wed, 08 Sep 2021 09:35:41 GMT",
-        "display_value": "Den 1 april 1966 skulle jag resa till London för att förenas med min man som uppehöll en tjänst som specialattaché vid svenska ambassaden. Underbara kollegor och chefer hade gjort att jag kunde lägga min yrkesverksamhet på is några år och tillbringa dem tillsammans med min man och vår lilla son i London. Oemotståndligt!\n\nMen det var ett problem, garderoben. I mitt jobb hade jag kavaj och kjol, rejält och praktiskt men inte så passande för det liv som väntade i London. När NK annonserade om utförsäljning av färdiga plagg från Franska Damskrädderiet inför nedläggningen, stod jag bland de första utanför dörrarna. När de öppnades tog jag sats och sprang uppför trapporna. Skrädderiet låg högt upp i huset och jag räknade med ett försprång medan de finare kunderna tog hissarna.\n\nNär jag öppnade dörren till skrädderiet såg jag det genast, Plagget! Men detta var på kontanthanteringens tid och jag hade inte tillräckligt med pengar. Men jag hade en postsparbanksbok och 1966 fanns det ett litet postkontor på NK:s bottenvåning. Jag lyckades övertala en mycket motvillig expedit att hålla Plagget en stund .”Men inte mer än fem minuter ”,sade hon strängt.\n\nJag tog sats igen och sprang trapporna till bottenvåningen. Det var ingen kö på posten, jag fick mina pengar och sprang tillbaka till skrädderiet. Plagget fanns kvar, jag betalade och gick glad hem.",
+        "display_value": "Plagget var en Chanel-kopia, en ärmlös klänning med tillhörande kappa i brunrosa, mjuk, litet lös tweed, kantad med svart siden. Kappan hade svart sidenfoder. Jag provade, det passade perfekt. Plagget visade sig bli den stöttepelare jag anat. Det passade till allt. Med eller utan kappa kunde jag ha det vid luncher och mottagningar, teaterbesök och tom vid témottagning i drottningens trädgård.",
         "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
         "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label": "Berätta gärna om ett plagg från damskrädderiet.",
           "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+            "sv": "Berätta gärna om ett plagg från damskrädderiet."
           },
           "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "0c2436bf-04c3-459d-89d5-20c6ab1321a9"
+        "uuid": "b531cd0f-6fa7-46b9-a504-516651d29f11"
       },
       {
         "created": "Wed, 08 Sep 2021 09:35:41 GMT",
@@ -793,18 +793,18 @@
       },
       {
         "created": "Wed, 08 Sep 2021 09:35:41 GMT",
-        "display_value": "Plagget var en Chanel-kopia, en ärmlös klänning med tillhörande kappa i brunrosa, mjuk, litet lös tweed, kantad med svart siden. Kappan hade svart sidenfoder. Jag provade, det passade perfekt. Plagget visade sig bli den stöttepelare jag anat. Det passade till allt. Med eller utan kappa kunde jag ha det vid luncher och mottagningar, teaterbesök och tom vid témottagning i drottningens trädgård.",
+        "display_value": "Den 1 april 1966 skulle jag resa till London för att förenas med min man som uppehöll en tjänst som specialattaché vid svenska ambassaden. Underbara kollegor och chefer hade gjort att jag kunde lägga min yrkesverksamhet på is några år och tillbringa dem tillsammans med min man och vår lilla son i London. Oemotståndligt!\n\nMen det var ett problem, garderoben. I mitt jobb hade jag kavaj och kjol, rejält och praktiskt men inte så passande för det liv som väntade i London. När NK annonserade om utförsäljning av färdiga plagg från Franska Damskrädderiet inför nedläggningen, stod jag bland de första utanför dörrarna. När de öppnades tog jag sats och sprang uppför trapporna. Skrädderiet låg högt upp i huset och jag räknade med ett försprång medan de finare kunderna tog hissarna.\n\nNär jag öppnade dörren till skrädderiet såg jag det genast, Plagget! Men detta var på kontanthanteringens tid och jag hade inte tillräckligt med pengar. Men jag hade en postsparbanksbok och 1966 fanns det ett litet postkontor på NK:s bottenvåning. Jag lyckades övertala en mycket motvillig expedit att hålla Plagget en stund .”Men inte mer än fem minuter ”,sade hon strängt.\n\nJag tog sats igen och sprang trapporna till bottenvåningen. Det var ingen kö på posten, jag fick mina pengar och sprang tillbaka till skrädderiet. Plagget fanns kvar, jag betalade och gick glad hem.",
         "modified": "Wed, 08 Sep 2021 09:35:41 GMT",
         "topic_item": {
-          "label": "Berätta gärna om ett plagg från damskrädderiet.",
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
           "label_i18n": {
-            "sv": "Berätta gärna om ett plagg från damskrädderiet."
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
           },
           "type": "Textarea",
-          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "b531cd0f-6fa7-46b9-a504-516651d29f11"
+        "uuid": "0c2436bf-04c3-459d-89d5-20c6ab1321a9"
       }
     ]
   },
@@ -1110,18 +1110,18 @@
     "values": [
       {
         "created": "Mon, 11 Oct 2021 15:23:51 GMT",
-        "display_value": "",
+        "display_value": "Denna 50-talsklänning köpte jag 2019 i en vintagebutik i Malmö. Vet inget om dess historia eller vem som ägt den tidigare. Fantastiskt plagg i tjockt grönt siden. Till min stora lycka så sitter den som om den vore sydd till mig.",
         "modified": "Mon, 11 Oct 2021 15:23:51 GMT",
         "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label": "Berätta gärna om ett plagg från damskrädderiet.",
           "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+            "sv": "Berätta gärna om ett plagg från damskrädderiet."
           },
           "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "49a02209-7afb-43f8-8bf5-dc0b043e1a9d"
+        "uuid": "7eb645d4-7f46-4dde-9d27-46d27eae016e"
       },
       {
         "created": "Mon, 11 Oct 2021 15:23:51 GMT",
@@ -1140,18 +1140,18 @@
       },
       {
         "created": "Mon, 11 Oct 2021 15:23:51 GMT",
-        "display_value": "Denna 50-talsklänning köpte jag 2019 i en vintagebutik i Malmö. Vet inget om dess historia eller vem som ägt den tidigare. Fantastiskt plagg i tjockt grönt siden. Till min stora lycka så sitter den som om den vore sydd till mig.",
+        "display_value": "",
         "modified": "Mon, 11 Oct 2021 15:23:51 GMT",
         "topic_item": {
-          "label": "Berätta gärna om ett plagg från damskrädderiet.",
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
           "label_i18n": {
-            "sv": "Berätta gärna om ett plagg från damskrädderiet."
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
           },
           "type": "Textarea",
-          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "7eb645d4-7f46-4dde-9d27-46d27eae016e"
+        "uuid": "49a02209-7afb-43f8-8bf5-dc0b043e1a9d"
       }
     ]
   },
@@ -1177,21 +1177,6 @@
     "values": [
       {
         "created": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "display_value": "Hej, jag heter Beata Kärrberg svärdotter till Ulla Hultman, inför uppropet att bidra till utställningen NKs Fransk på Nordiska Museet lämnade jag in två dräkter en svart siden-sammet dräkt med fina kantband på jackan - den kom med på utställningen. Den andra dräkten en ljust sandfärgad dräkt med två kjolar - tyvärr kom den inte med på utställningen.\nJag har inga egna minnen av NKs Franska. Min svärmor sydde även aftonklänningar på NKs Franska. I början på 70-talet fick jag ett antal klänningar av henne, fantastiskt vackra aftonklänningar bl. a en svart sidensammet klänning med djup urringning och släp. Tyvärr hade vi inbrott i vårt källarförråd i början på 90-talet och alla aftonklänningar försvann tillsammans med en resväska och fyra vinterdäck.\nDen svarta dräkten bar jag på 70-talet, det var ju innan retro blev riktigt modernt och började värderas högt på auktionerna. Den ljusa dräkten lät min svärmor sy upp (1948) inför en resa till USA, där mina svärföräldrar skulle besöka släktingar som utvandrat ca 1910. Jag kände inte familjen då, men har förstått att detta var en stor och viktig händelse i familjen.\nBåda dräkterna finns fortfarande på museet, den svarta utställd och den sandfärgade i ngt förråd för plagg som kan hämtas. Har tyvärr inga bilder på plaggen i datorn.\nMed vänlig hälsning.\n\nBeata Kärrberg",
-        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "topic_item": {
-          "label": "Berätta gärna om ett plagg från damskrädderiet.",
-          "label_i18n": {
-            "sv": "Berätta gärna om ett plagg från damskrädderiet."
-          },
-          "type": "Textarea",
-          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "786cbfb6-4180-4d29-b7ba-8baa8a0e491f"
-      },
-      {
-        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
         "display_value": "",
         "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
         "topic_item": {
@@ -1204,6 +1189,21 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "0f6a510b-2e7c-40fe-9e25-59e9fd606b2c"
+      },
+      {
+        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "display_value": "Hej, jag heter Beata Kärrberg svärdotter till Ulla Hultman, inför uppropet att bidra till utställningen NKs Fransk på Nordiska Museet lämnade jag in två dräkter en svart siden-sammet dräkt med fina kantband på jackan - den kom med på utställningen. Den andra dräkten en ljust sandfärgad dräkt med två kjolar - tyvärr kom den inte med på utställningen.\nJag har inga egna minnen av NKs Franska. Min svärmor sydde även aftonklänningar på NKs Franska. I början på 70-talet fick jag ett antal klänningar av henne, fantastiskt vackra aftonklänningar bl. a en svart sidensammet klänning med djup urringning och släp. Tyvärr hade vi inbrott i vårt källarförråd i början på 90-talet och alla aftonklänningar försvann tillsammans med en resväska och fyra vinterdäck.\nDen svarta dräkten bar jag på 70-talet, det var ju innan retro blev riktigt modernt och började värderas högt på auktionerna. Den ljusa dräkten lät min svärmor sy upp (1948) inför en resa till USA, där mina svärföräldrar skulle besöka släktingar som utvandrat ca 1910. Jag kände inte familjen då, men har förstått att detta var en stor och viktig händelse i familjen.\nBåda dräkterna finns fortfarande på museet, den svarta utställd och den sandfärgade i ngt förråd för plagg som kan hämtas. Har tyvärr inga bilder på plaggen i datorn.\nMed vänlig hälsning.\n\nBeata Kärrberg",
+        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "topic_item": {
+          "label": "Berätta gärna om ett plagg från damskrädderiet.",
+          "label_i18n": {
+            "sv": "Berätta gärna om ett plagg från damskrädderiet."
+          },
+          "type": "Textarea",
+          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "786cbfb6-4180-4d29-b7ba-8baa8a0e491f"
       }
     ]
   },
@@ -1221,7 +1221,7 @@
         "description": "Ragnar och Märta Hjorth vid mitt bröllop på Gyldene Freden 21 mars 1959. Märta iförd aftonklänning i blå chiffong från NK:s Franska.",
         "dms_id": "013AjPwgM35t",
         "image_height": 2338,
-        "image_ratio": 0.727117194183062,
+        "image_ratio": 0.7271171941830624,
         "image_width": 1700,
         "license": "CC BY",
         "mime_type": "image/jpeg",
