@@ -132,6 +132,27 @@
     "license": "CC BY",
     "media": [
       {
+        "created": "Thu, 30 Sep 2021 07:59:01 GMT",
+        "description": "Maria Rotstein levnadsberättelse",
+        "dms_id": "013AitcHAFHM",
+        "license": "CC BY-NC",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Thu, 30 Sep 2021 07:59:01 GMT",
+        "name": "Maria Rotstein levnadsberättelse.docx",
+        "order_by_number": 1,
+        "owner": "Maria Rotstein",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "73a212b8-8b23-430a-9889-b2ef79e934d5"
+      },
+      {
         "created": "Wed, 29 Sep 2021 08:49:01 GMT",
         "dms_id": "013AitVwUycC",
         "image_height": 580,
@@ -153,27 +174,6 @@
         "type": "image",
         "uuid": "3a567623-24b4-42b0-9cbb-ad779b3aad5f",
         "owner": "Okänd"
-      },
-      {
-        "created": "Thu, 30 Sep 2021 07:59:01 GMT",
-        "description": "Maria Rotstein levnadsberättelse",
-        "dms_id": "013AitcHAFHM",
-        "license": "CC BY-NC",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Thu, 30 Sep 2021 07:59:01 GMT",
-        "name": "Maria Rotstein levnadsberättelse.docx",
-        "order_by_number": 1,
-        "owner": "Maria Rotstein",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "73a212b8-8b23-430a-9889-b2ef79e934d5"
       }
     ],
     "modified": "Thu, 30 Sep 2021 08:00:28 GMT",
@@ -325,26 +325,6 @@
     "license": "CC BY",
     "media": [
       {
-        "created": "Mon, 11 Oct 2021 11:13:42 GMT",
-        "dms_id": "013AitqLjEwh",
-        "license": "CC BY-NC",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Mon, 11 Oct 2021 11:13:42 GMT",
-        "name": "Levnadsberättelse till Nordiska museet  6 maj 2021.docx",
-        "order_by_number": 1,
-        "owner": "Ewa Gutniak",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "af8fea2f-8ff5-4d42-b59f-b03a87845d6e"
-      },
-      {
         "created": "Mon, 11 Oct 2021 11:44:05 GMT",
         "description": "Marstrand 1969",
         "dms_id": "013AitqLjF6P",
@@ -367,6 +347,26 @@
         },
         "type": "image",
         "uuid": "5bdf085b-4bcc-4507-b86f-4508aa313276"
+      },
+      {
+        "created": "Mon, 11 Oct 2021 11:13:42 GMT",
+        "dms_id": "013AitqLjEwh",
+        "license": "CC BY-NC",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Mon, 11 Oct 2021 11:13:42 GMT",
+        "name": "Levnadsberättelse till Nordiska museet  6 maj 2021.docx",
+        "order_by_number": 1,
+        "owner": "Ewa Gutniak",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "af8fea2f-8ff5-4d42-b59f-b03a87845d6e"
       }
     ],
     "modified": "Thu, 14 Oct 2021 12:21:01 GMT",
@@ -764,6 +764,26 @@
     "license": "CC BY",
     "media": [
       {
+        "created": "Tue, 07 Dec 2021 06:55:01 GMT",
+        "dms_id": "013Ajsp1c2tn",
+        "license": "CC BY-NC",
+        "mime_type": "application/msword",
+        "modified": "Tue, 07 Dec 2021 06:55:01 GMT",
+        "name": "Följebrev till min berättelse12.doc",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "3cfaf3a2-2c96-4a56-9428-2fb1346d5b9f",
+        "owner": "Okänd"
+      },
+      {
         "created": "Tue, 07 Dec 2021 07:01:10 GMT",
         "dms_id": "013Ajsp1c2to",
         "image_height": 1024,
@@ -784,26 +804,6 @@
         },
         "type": "image",
         "uuid": "57589280-0c50-4d3d-b3dc-c04e92470992",
-        "owner": "Okänd"
-      },
-      {
-        "created": "Tue, 07 Dec 2021 06:55:01 GMT",
-        "dms_id": "013Ajsp1c2tn",
-        "license": "CC BY-NC",
-        "mime_type": "application/msword",
-        "modified": "Tue, 07 Dec 2021 06:55:01 GMT",
-        "name": "Följebrev till min berättelse12.doc",
-        "order_by_number": 1,
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "3cfaf3a2-2c96-4a56-9428-2fb1346d5b9f",
         "owner": "Okänd"
       },
       {
