@@ -462,6 +462,26 @@
     "license": "CC BY",
     "media": [
       {
+        "created": "Wed, 15 Sep 2021 07:20:45 GMT",
+        "dms_id": "013AhtPopuKS",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:20:45 GMT",
+        "name": "Torun Hegardt.mp3",
+        "order_by_number": 1,
+        "owner": "Torun Hegardt intervjuas. Jörgen Löwenfeldt, Nordiska museet, ställer frågorna.",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd"
+      },
+      {
         "created": "Wed, 15 Sep 2021 07:19:21 GMT",
         "description": "Torun Hegardt",
         "dms_id": "013AhtPopuKR",
@@ -484,26 +504,6 @@
         },
         "type": "image",
         "uuid": "cc1198bb-ac4a-4e5d-b9f5-5a3d6fb192d2"
-      },
-      {
-        "created": "Wed, 15 Sep 2021 07:20:45 GMT",
-        "dms_id": "013AhtPopuKS",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Wed, 15 Sep 2021 07:20:45 GMT",
-        "name": "Torun Hegardt.mp3",
-        "order_by_number": 1,
-        "owner": "Torun Hegardt intervjuas. Jörgen Löwenfeldt, Nordiska museet, ställer frågorna.",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "audio",
-        "uuid": "b2f29649-6476-4139-a62c-4d2dc7242ffd"
       }
     ],
     "modified": "Mon, 17 Jan 2022 07:33:38 GMT",
