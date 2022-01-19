@@ -87,7 +87,7 @@ totalRecords.forEach(function(item){
     responsesWithCoordinates++;
     var ingressArray = [];
     if (item.hasOwnProperty('values')) {
-      ingressArray = values.filter(value => value.topic_item.label == "How has your daily life been affected by the corona virus?");
+      ingressArray = values.filter(value => value.topic_item.label == "Vilka tankar har eller hade du inför vaccineringen?");
     }
     if(ingressArray.length == 0) {
       ingressArray = [{"display_value":""}];
