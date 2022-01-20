@@ -26,6 +26,7 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	border-radius: 50%;
 	width: 24px;
 	height: 24px;
+	opacity: 0.9;
 }
 
 .marker-cluster {
@@ -39,15 +40,15 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 
 .marker-cluster-small { 
-	line-height: 32px;
-}
-
-.marker-cluster-medium { 
 	line-height: 36px;
 }
 
-.marker-cluster-large { 
+.marker-cluster-medium { 
 	line-height: 40px;
+}
+
+.marker-cluster-large { 
+	line-height: 44px;
 }
 
 .leaflet-interactive.corona1 {
