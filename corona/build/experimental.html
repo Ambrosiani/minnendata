@@ -129,7 +129,8 @@
             if (xhr2.status == 200) {
               geoJsonLayer = L.geoJSON(xhr2.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
-                  return L.circleMarker(latlng, {className:"corona2"});
+                  var divIcon = L.divIcon({ className: 'corona2', iconSize: null})
+                  return L.marker(latlng, {icon: divIcon});
                 },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
@@ -153,7 +154,8 @@
             if (xhrNO.status == 200) {
               geoJsonLayerNO = L.geoJSON(xhrNO.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
-                  return L.circleMarker(latlng, {className:"korona1"});
+                  var divIcon = L.divIcon({ className: 'korona1', iconSize: null})
+                  return L.marker(latlng, {icon: divIcon});
                 },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
