@@ -37248,6 +37248,38 @@
           61.837
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "mår bra…",
+        "date": "20 januari 2022",
+        "author": "Fuad",
+        "url": "https://minnen.se/tema/corona/17836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.536,
+          59.329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner att folk har tagit detta väldigt seriöst och att alla i min omgivning rekommenderar att m…",
+        "date": "20 januari 2022",
+        "author": "Micke",
+        "url": "https://minnen.se/tema/corona/17837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.502,
+          59.325
+        ]
+      }
     }
   ]
 }
