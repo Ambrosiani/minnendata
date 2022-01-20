@@ -105,7 +105,7 @@
               geoJsonLayer = L.geoJSON(xhr.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
                     var divIcon = L.divIcon({ className: 'corona1', iconSize: null})
-                  return L.marker(latlng, {icon: divIcon});
+                  return L.marker(latlng, {icon: divIcon, opacity:0.9});
                 },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
@@ -130,7 +130,7 @@
               geoJsonLayer = L.geoJSON(xhr2.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
                   var divIcon = L.divIcon({ className: 'corona2', iconSize: null})
-                  return L.marker(latlng, {icon: divIcon});
+                  return L.marker(latlng, {icon: divIcon, opacity:0.9});
                 },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
@@ -155,7 +155,7 @@
               geoJsonLayerNO = L.geoJSON(xhrNO.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
                   var divIcon = L.divIcon({ className: 'korona1', iconSize: null})
-                  return L.marker(latlng, {icon: divIcon});
+                  return L.marker(latlng, {icon: divIcon, opacity:0.9});
                 },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
