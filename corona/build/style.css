@@ -70,16 +70,19 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 
 .leaflet-interactive.corona1 {
 	fill: var(--corona1-color);
+	background-color: var(--corona1-color);
 	fill-opacity: 1;
 }
 
 .leaflet-interactive.corona2 {
 	fill: var(--corona2-color);
+	background-color: var(--corona2-color);
 	fill-opacity: 1;
 }
 
 .leaflet-interactive.korona1 {
 	fill: var(--korona1-color);
+	background-color: var(--korona1-color);
 	fill-opacity: 1;
 }
 
