@@ -104,7 +104,8 @@
             if (xhr.status == 200) {
               geoJsonLayer = L.geoJSON(xhr.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
-                  return L.circleMarker(latlng, {className:"corona1"});
+                    var divIcon = L.divIcon({ className: 'corona1'})
+                  return L.circleMarker(latlng, {icon: divIcon});
                 },
                 onEachFeature: function (feature, layer) {
                   layer.bindPopup(function (layer) {
