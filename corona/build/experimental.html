@@ -104,7 +104,7 @@
             if (xhr.status == 200) {
               geoJsonLayer = L.geoJSON(xhr.response, {
                 pointToLayer: function(geoJsonPoint, latlng) {
-                    var divIcon = L.divIcon({ className: 'corona1'})
+                    var divIcon = L.divIcon({ className: 'corona1', iconSize: null})
                   return L.marker(latlng, {icon: divIcon});
                 },
                 onEachFeature: function (feature, layer) {
