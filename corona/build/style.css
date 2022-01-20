@@ -21,11 +21,11 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	cursor: pointer;
 	fill: #000000;
 	stroke-width: 0;
-	-webkit-box-shadow: 0 2px 4px -1px rgba(0,0,0,0.8);
-	box-shadow: 0 2px 4px -1px rgba(0,0,0,0.8);
+	-webkit-box-shadow: 0 2px 6px -1px rgba(0,0,0,0.8);
+	box-shadow: 0 2px 6px -1px rgba(0,0,0,0.8);
 	border-radius: 50%;
-	width: 20px;
-	height: 20px;
+	width: 24px;
+	height: 24px;
 }
 
 .marker-cluster {
@@ -36,57 +36,30 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	font: 12px Arial, Helvetica, sans-serif;
 	color: #fff;
 	background-clip: padding-box;
-	-webkit-box-shadow: 0 2px 4px -1px rgba(0,0,0,0.8);
-	box-shadow: 0 2px 4px -1px rgba(0,0,0,0.8);
 }
 
 .marker-cluster-small { 
-	background-color: rgba(222, 103, 115, .6); 
-	border-radius: 16px; 
 	line-height: 32px;
 }
 
 .marker-cluster-medium { 
-	background-color: rgba(222, 103, 115, .6); 
-	border-radius: 18px; 
 	line-height: 36px;
 }
 
-
 .marker-cluster-large { 
-	background-color: rgba(213, 61, 76, .6); 
-	border-radius: 20px; 
 	line-height: 40px;
 }
 
-.marker-cluster.corona1 {
-	background-color: var(--corona1-color);
-}
-
-.marker-cluster.corona2 {
-	background-color: var(--corona2-color);
-}
-
-.marker-cluster.korona1 {
-	background-color: var(--korona1-color);
-}
-
 .leaflet-interactive.corona1 {
-	fill: var(--corona1-color);
 	background-color: var(--corona1-color);
-	fill-opacity: 1;
 }
 
 .leaflet-interactive.corona2 {
-	fill: var(--corona2-color);
 	background-color: var(--corona2-color);
-	fill-opacity: 1;
 }
 
 .leaflet-interactive.korona1 {
-	fill: var(--korona1-color);
 	background-color: var(--korona1-color);
-	fill-opacity: 1;
 }
 
 .info {
