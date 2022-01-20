@@ -988,73 +988,6 @@
     ]
   },
   {
-    "archive_code": "M5/00008",
-    "contributor": {
-      "display_name": "Regina Feierberg"
-    },
-    "created": "Wed, 20 Oct 2021 20:47:25 GMT",
-    "license": "CC BY",
-    "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/17371",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "36b32a79-fed0-4cc1-a8c0-4cd6a7d5323f",
-    "values": [
-      {
-        "created": "Wed, 20 Oct 2021 20:47:25 GMT",
-        "display_value": "Jag heter  Regina Feierberg är född 1946 i Zdunska Wola som enda barnet till Chaja och Ajzyk Celnik, bägge överlevande från getton i Lodz och Warszawa samt koncentrationsläger  Ravensbruck och Auschwitz. \n\nJag växte upp med stark judisk identitet, dvs ett liv hemma och ett annat liv utanför.\n\nMina föräldrar pratade jiddisch med varandra och med sina vänner, ofta om upplevelser under kriget. \n\nSom barn var jag rädd för tyska soldater .\n\nDet viktigaste var att studera. \"Det som  man har i huvudet har man alltid med sig\"\n\nJag växte upp i Zdunska  Wola ( ca 40000 invånare) där det efter 1956 fanns 5 judiska familjer.\nDet hände ofta att någon skrek på gatan att  jag borde åka till Palestina  och i grundskolan när man avhandlade Hitler  eller Jesus tittade klassen på mig.\n\n1964 började jag läsa medicin i Lodz så 1969 var jag klar med 5 av 6 års studier. \n\nSedan 6-dagars kriget kändes det som att det fanns mindre och mindre luft att andas med  pga den antijudiska propagandan i media. Man undvek att lyssna på nyheter eller läsa tidningar, där det oftast meddelades om hur många stadsfiender/ sionister sparkades från jobb eller universitet. \n\nSommaren 1968 arbetade jag på ett barnkollo som läkare. Kunde inte förstå  att nästan  ingen av personalen pratade med mig. Det visade sig sedan att chefen beordrade  detta eftersom jag var judinna. Jag förstod hur mitt framtida arbetsliv skulle se ut .\n\nSommaren1969 ansökte vi (min mamma,min dåvarande make och jag) om utresetillstånd \noch en 4/11 anlände vi till Ystad som statslösa, med några resväskor och tentamensböcker.\n\nEfter en övernattning i anexet till  Hotellet Saltsjöbad placerades vi på flyktingförläggning i Sölvesborg ďär vi efter ca 3 dagar började läsa svenska. Undervisningen i svenska bestod av 4 nivåer . Våra lärare hade material till 2 nivåer, så på våren hände inte något mer. \nAv denna anledning åkte vi (mot ledningens vilja) till  Malmös Judiska församling som hjälpte till att skaffa lägenhet , sedan till Kursverksamhet i Lund  där vi fick plats för fortsätta studier samt hjälp  att skaffa studielån.\n\nUnder  sommaren fick vi  komplettera engelska för betyg på gymnasienivå  samt kurs i \"medicinal svenska\".\n\nPå hösten när att detta varit avklarat visade sig att det var i stort sätt omöjligt att fortsätta läsa medicin pga platsbrist. \n\nJag fick reda på vem som varit ansvarig för antagning på Socialstyrelsen så jag begav mig till Karolinska sjukhuset och lyckades träffa den ansvarige professorn som berättade att det var studentföreningar som var oroliga att undervisningen skulle bli lidande om man placerade 28 studenter på 6 universitet!\nDock den3/1 1971  blev vi uppringda av  Socialstyrelsen om att min make och jag skulle börja dagen efter  i Umeå!\n\nJag blev klar med studierna 1972 och fick svensk läkarlegitimation 1974.\nSedan blev jag specialist i barn och ungdomsmedicin och därefter i allmänmedicin. \nSlutade arbeta 2020 vid 74 års åldern. \n\n1972 föddes vår dotter  Isabella som har gått ut Molekulär bioteknik på KTH i Uppsala där hon också disputerade. Isabella har arbetat efter det på Astra Zeneca och  sedan 6 år bor hon med familjen (Marcus och deras 3 barn) i USA  och fortsätter med forskning. \n1976 föddes Artur  som efter studenten åkte till USA där han skaffade sig MBA examen. Redan på första terminen träffade han sin  hustru Patty och med de  bor utanför  Chicago tillsammans med sin lilla dotter  Liv Hannah.\n\nÄr väldigt tacksam Sverige som har gett oss möjlighet till ett rikt liv i frihet.",
-        "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
-        "topic_item": {
-          "label": "Din levnadsberättelse",
-          "label_i18n": {
-            "sv": "Din levnadsberättelse"
-          },
-          "type": "Textarea",
-          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "d5c02f96-7187-46f9-b293-db357ca90ea9"
-      },
-      {
-        "created": "Wed, 20 Oct 2021 20:47:25 GMT",
-        "display_value": "4/11 1969",
-        "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
-        "topic_item": {
-          "label": "Ankomstdatum till Sverige:",
-          "label_i18n": {
-            "sv": "Ankomstdatum till Sverige:"
-          },
-          "type": "Textarea",
-          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "4c75a28c-66bf-4521-944c-522a964679f3"
-      },
-      {
-        "created": "Wed, 20 Oct 2021 20:47:25 GMT",
-        "display_value": "Zdunska Wola, Lodz",
-        "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
-        "topic_item": {
-          "label": "Tidigare bostadsorter:",
-          "label_i18n": {
-            "sv": "Tidigare bostadsorter:"
-          },
-          "type": "Textarea",
-          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "f9275595-ce41-4499-b68f-8ad451914fdb"
-      }
-    ]
-  },
-  {
     "archive_code": "M5/00013",
     "contributor": {
       "birth_year": 1948,
@@ -1145,6 +1078,73 @@
           "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
         },
         "uuid": "838dfa0e-1d5e-4dec-bf16-1e1829b23eba"
+      }
+    ]
+  },
+  {
+    "archive_code": "M5/00008",
+    "contributor": {
+      "display_name": "Regina Feierberg"
+    },
+    "created": "Wed, 20 Oct 2021 20:47:25 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/17371",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "36b32a79-fed0-4cc1-a8c0-4cd6a7d5323f",
+    "values": [
+      {
+        "created": "Wed, 20 Oct 2021 20:47:25 GMT",
+        "display_value": "Jag heter  Regina Feierberg är född 1946 i Zdunska Wola som enda barnet till Chaja och Ajzyk Celnik, bägge överlevande från getton i Lodz och Warszawa samt koncentrationsläger  Ravensbruck och Auschwitz. \n\nJag växte upp med stark judisk identitet, dvs ett liv hemma och ett annat liv utanför.\n\nMina föräldrar pratade jiddisch med varandra och med sina vänner, ofta om upplevelser under kriget. \n\nSom barn var jag rädd för tyska soldater .\n\nDet viktigaste var att studera. \"Det som  man har i huvudet har man alltid med sig\"\n\nJag växte upp i Zdunska  Wola ( ca 40000 invånare) där det efter 1956 fanns 5 judiska familjer.\nDet hände ofta att någon skrek på gatan att  jag borde åka till Palestina  och i grundskolan när man avhandlade Hitler  eller Jesus tittade klassen på mig.\n\n1964 började jag läsa medicin i Lodz så 1969 var jag klar med 5 av 6 års studier. \n\nSedan 6-dagars kriget kändes det som att det fanns mindre och mindre luft att andas med  pga den antijudiska propagandan i media. Man undvek att lyssna på nyheter eller läsa tidningar, där det oftast meddelades om hur många stadsfiender/ sionister sparkades från jobb eller universitet. \n\nSommaren 1968 arbetade jag på ett barnkollo som läkare. Kunde inte förstå  att nästan  ingen av personalen pratade med mig. Det visade sig sedan att chefen beordrade  detta eftersom jag var judinna. Jag förstod hur mitt framtida arbetsliv skulle se ut .\n\nSommaren1969 ansökte vi (min mamma,min dåvarande make och jag) om utresetillstånd \noch en 4/11 anlände vi till Ystad som statslösa, med några resväskor och tentamensböcker.\n\nEfter en övernattning i anexet till  Hotellet Saltsjöbad placerades vi på flyktingförläggning i Sölvesborg ďär vi efter ca 3 dagar började läsa svenska. Undervisningen i svenska bestod av 4 nivåer . Våra lärare hade material till 2 nivåer, så på våren hände inte något mer. \nAv denna anledning åkte vi (mot ledningens vilja) till  Malmös Judiska församling som hjälpte till att skaffa lägenhet , sedan till Kursverksamhet i Lund  där vi fick plats för fortsätta studier samt hjälp  att skaffa studielån.\n\nUnder  sommaren fick vi  komplettera engelska för betyg på gymnasienivå  samt kurs i \"medicinal svenska\".\n\nPå hösten när att detta varit avklarat visade sig att det var i stort sätt omöjligt att fortsätta läsa medicin pga platsbrist. \n\nJag fick reda på vem som varit ansvarig för antagning på Socialstyrelsen så jag begav mig till Karolinska sjukhuset och lyckades träffa den ansvarige professorn som berättade att det var studentföreningar som var oroliga att undervisningen skulle bli lidande om man placerade 28 studenter på 6 universitet!\nDock den3/1 1971  blev vi uppringda av  Socialstyrelsen om att min make och jag skulle börja dagen efter  i Umeå!\n\nJag blev klar med studierna 1972 och fick svensk läkarlegitimation 1974.\nSedan blev jag specialist i barn och ungdomsmedicin och därefter i allmänmedicin. \nSlutade arbeta 2020 vid 74 års åldern. \n\n1972 föddes vår dotter  Isabella som har gått ut Molekulär bioteknik på KTH i Uppsala där hon också disputerade. Isabella har arbetat efter det på Astra Zeneca och  sedan 6 år bor hon med familjen (Marcus och deras 3 barn) i USA  och fortsätter med forskning. \n1976 föddes Artur  som efter studenten åkte till USA där han skaffade sig MBA examen. Redan på första terminen träffade han sin  hustru Patty och med de  bor utanför  Chicago tillsammans med sin lilla dotter  Liv Hannah.\n\nÄr väldigt tacksam Sverige som har gett oss möjlighet till ett rikt liv i frihet.",
+        "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
+        "topic_item": {
+          "label": "Din levnadsberättelse",
+          "label_i18n": {
+            "sv": "Din levnadsberättelse"
+          },
+          "type": "Textarea",
+          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "d5c02f96-7187-46f9-b293-db357ca90ea9"
+      },
+      {
+        "created": "Wed, 20 Oct 2021 20:47:25 GMT",
+        "display_value": "4/11 1969",
+        "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
+        "topic_item": {
+          "label": "Ankomstdatum till Sverige:",
+          "label_i18n": {
+            "sv": "Ankomstdatum till Sverige:"
+          },
+          "type": "Textarea",
+          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "4c75a28c-66bf-4521-944c-522a964679f3"
+      },
+      {
+        "created": "Wed, 20 Oct 2021 20:47:25 GMT",
+        "display_value": "Zdunska Wola, Lodz",
+        "modified": "Wed, 20 Oct 2021 20:47:25 GMT",
+        "topic_item": {
+          "label": "Tidigare bostadsorter:",
+          "label_i18n": {
+            "sv": "Tidigare bostadsorter:"
+          },
+          "type": "Textarea",
+          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "f9275595-ce41-4499-b68f-8ad451914fdb"
       }
     ]
   },
