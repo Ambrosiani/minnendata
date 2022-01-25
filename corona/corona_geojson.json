@@ -37328,6 +37328,22 @@
           59.336
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag årpva tänker inte om coronavirus men det är inte let eftersom vi lyssnar om corona på radio och …",
+        "date": "25 januari 2022",
+        "author": "Anna",
+        "url": "https://minnen.se/tema/corona/17898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.961,
+          61.622
+        ]
+      }
     }
   ]
 }
