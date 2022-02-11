@@ -37344,6 +37344,22 @@
           61.622
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min vardag är inte så extremt annorlunda. Jag arbetar i Kriminalvården och vi ska ju fortsätta vårt …",
+        "date": "11 februari 2022",
+        "author": "Lotta",
+        "url": "https://minnen.se/tema/corona/18069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.004,
+          55.605
+        ]
+      }
     }
   ]
 }
