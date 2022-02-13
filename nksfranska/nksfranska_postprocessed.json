@@ -1271,124 +1271,6 @@
     ]
   },
   {
-    "archive_code": "M4/00024",
-    "contributor": {
-      "display_name": "Catharina Hartsö",
-      "gender": "woman",
-      "uuid": "3aaec17f-e796-4f51-8daa-7a41fc2dfcb9"
-    },
-    "coordinates": "",
-    "created": "Tue, 01 Feb 2022 08:20:43 GMT",
-    "image_dms_id": "013AkNh4EuXV",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Tue, 01 Feb 2022 08:22:02 GMT",
-        "description": "Midjeförkläde",
-        "dms_id": "013AkNh4EuXV",
-        "image_height": 720,
-        "image_ratio": 1.3333333333333333,
-        "image_width": 960,
-        "license": "CC0",
-        "mime_type": "image/png",
-        "modified": "Tue, 01 Feb 2022 08:22:02 GMT",
-        "name": "3 hjärtan midje förkläde.png",
-        "order_by_number": 1,
-        "owner": "Catharina Hartsö",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "435514c6-5634-455a-9725-66fc07894696"
-      },
-      {
-        "created": "Tue, 01 Feb 2022 08:22:10 GMT",
-        "description": "Broderat förkläde",
-        "dms_id": "013AkNh4EuXW",
-        "image_height": 720,
-        "image_ratio": 1.3333333333333333,
-        "image_width": 960,
-        "license": "CC0",
-        "mime_type": "image/png",
-        "modified": "Tue, 01 Feb 2022 08:22:10 GMT",
-        "name": "Brodyr förkläde.png",
-        "order_by_number": 2,
-        "owner": "Catharina Hartsö",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "ad68f95f-bc07-4882-9200-384060c02385"
-      },
-      {
-        "created": "Tue, 01 Feb 2022 08:22:21 GMT",
-        "description": "Serveringsförkläde",
-        "dms_id": "013AkNh4EuXX",
-        "image_height": 720,
-        "image_ratio": 1.3333333333333333,
-        "image_width": 960,
-        "license": "CC0",
-        "mime_type": "image/png",
-        "modified": "Tue, 01 Feb 2022 08:22:21 GMT",
-        "name": "serveringsförkläde.png",
-        "order_by_number": 3,
-        "owner": "Catharina Hartsö",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "7c9077c0-16c1-46bb-8fa0-848b4f94f0fa"
-      }
-    ],
-    "modified": "Tue, 01 Feb 2022 08:23:02 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17967",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "2e06ec20-a02f-41e4-8d9c-6ffe5ee69988",
-    "values": [
-      {
-        "created": "Tue, 01 Feb 2022 08:20:43 GMT",
-        "display_value": "Min moster lockades till stan som barn av min mormor för att de skulle handla på NK men detta var en gång om året en sanning med modifikation då min moster skulle tas till tandläkaren först, vilket hon inte alls gillade. Därefter bar det av till NK som plåster på såren och efter dessa tandläkarbesök brukade hon också få något som t ex barnförkläden som vi misstänker är gesällarbeten efter att ha sett utställningen. \n \nTyvärr har jag inte lyckats finna det blå förklädet med vita tunna linjer på och som har röda korsstygn – ni har detta tyg och dessa stygn uppsatta på utställningen som ett gesällarbete precis som arbetet med veck i tunn bomull som du kan se att serveringsförklädet i miniformat har.\n \nHoppas att detta kan bidra till historien om NKs Franska.\n \nMed vänlig hälsning\nCatharina Hartsö",
-        "modified": "Tue, 01 Feb 2022 08:20:43 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "uuid": "0d07f094-d0f1-46e0-adba-cc8ba25cc0cb"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00023",
     "contributor": {
       "display_name": "Ann-Christin Nyqvist",
@@ -1525,6 +1407,124 @@
           "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "uuid": "b7c56982-8a0d-4f9b-a56d-46eee5bf61c9"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00024",
+    "contributor": {
+      "display_name": "Catharina Hartsö",
+      "gender": "woman",
+      "uuid": "3aaec17f-e796-4f51-8daa-7a41fc2dfcb9"
+    },
+    "coordinates": "",
+    "created": "Tue, 01 Feb 2022 08:20:43 GMT",
+    "image_dms_id": "013AkNh4EuXV",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 01 Feb 2022 08:22:02 GMT",
+        "description": "Midjeförkläde",
+        "dms_id": "013AkNh4EuXV",
+        "image_height": 720,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 960,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 01 Feb 2022 08:22:02 GMT",
+        "name": "3 hjärtan midje förkläde.png",
+        "order_by_number": 1,
+        "owner": "Catharina Hartsö",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "435514c6-5634-455a-9725-66fc07894696"
+      },
+      {
+        "created": "Tue, 01 Feb 2022 08:22:10 GMT",
+        "description": "Broderat förkläde",
+        "dms_id": "013AkNh4EuXW",
+        "image_height": 720,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 960,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 01 Feb 2022 08:22:10 GMT",
+        "name": "Brodyr förkläde.png",
+        "order_by_number": 2,
+        "owner": "Catharina Hartsö",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "ad68f95f-bc07-4882-9200-384060c02385"
+      },
+      {
+        "created": "Tue, 01 Feb 2022 08:22:21 GMT",
+        "description": "Serveringsförkläde",
+        "dms_id": "013AkNh4EuXX",
+        "image_height": 720,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 960,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 01 Feb 2022 08:22:21 GMT",
+        "name": "serveringsförkläde.png",
+        "order_by_number": 3,
+        "owner": "Catharina Hartsö",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "7c9077c0-16c1-46bb-8fa0-848b4f94f0fa"
+      }
+    ],
+    "modified": "Tue, 01 Feb 2022 08:23:02 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17967",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "2e06ec20-a02f-41e4-8d9c-6ffe5ee69988",
+    "values": [
+      {
+        "created": "Tue, 01 Feb 2022 08:20:43 GMT",
+        "display_value": "Min moster lockades till stan som barn av min mormor för att de skulle handla på NK men detta var en gång om året en sanning med modifikation då min moster skulle tas till tandläkaren först, vilket hon inte alls gillade. Därefter bar det av till NK som plåster på såren och efter dessa tandläkarbesök brukade hon också få något som t ex barnförkläden som vi misstänker är gesällarbeten efter att ha sett utställningen. \n \nTyvärr har jag inte lyckats finna det blå förklädet med vita tunna linjer på och som har röda korsstygn – ni har detta tyg och dessa stygn uppsatta på utställningen som ett gesällarbete precis som arbetet med veck i tunn bomull som du kan se att serveringsförklädet i miniformat har.\n \nHoppas att detta kan bidra till historien om NKs Franska.\n \nMed vänlig hälsning\nCatharina Hartsö",
+        "modified": "Tue, 01 Feb 2022 08:20:43 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "uuid": "0d07f094-d0f1-46e0-adba-cc8ba25cc0cb"
       }
     ]
   }
