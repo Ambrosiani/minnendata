@@ -83,11 +83,11 @@ totalRecords.forEach(function(item){
   let createdDate = new Date(item.created);
   let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
 
-  if (item.hasOwnProperty('position')) {
+  if ('position' in item) {
     responsesWithCoordinates++;
     var ingressArray = [];
     var ageArray = [];
-    if (item.hasOwnProperty('values')) {
+    if ('values' in item) {
       ingressArray = values.filter(value => value.topic_item.label == "Hur har din vardag påverkats av coronaviruset?");
       ageArray = values.filter(value => value.topic_item.label == "Vilket år är du född?");
     }
@@ -117,7 +117,7 @@ totalRecords.forEach(function(item){
 
   indexHtml += '<p>';
   
-  if (item.hasOwnProperty('media')) {
+  if ('media' in item) {
     var imageCount = 0;
     var imageHtml = '';
     var audioHtml = '';
@@ -163,12 +163,12 @@ totalRecords.forEach(function(item){
 
     indexHtml += audioHtml;
 
-    if (item.hasOwnProperty('values')) {
+    if ('values' in item) {
       indexHtml += '</p><p>';
     }
   }
 
-  if (item.hasOwnProperty('values')) {
+  if ('values' in item) {
     var answer = item['values'][0]['display_value'];
     answer = answer.replace(/(?:\r\n|\r|\n)/g, '<br/>');
     indexHtml += answer;
@@ -176,11 +176,11 @@ totalRecords.forEach(function(item){
 
   indexHtml += '</p><p class="details">Arkivkod <b>' + item.archive_code + '</b>. Inlämnad av <b>' + item.contributor.display_name;
 
-  if (item.contributor.hasOwnProperty('place')) {
+  if ('place' in item.contributor) {
     indexHtml += ', ' + item.contributor.place;
   }
 
-  if (item.contributor.hasOwnProperty('birth_year')) {
+  if ('birth_year' in item.contributor) {
     indexHtml += ', född ' + item.contributor.birth_year;
   }
 
