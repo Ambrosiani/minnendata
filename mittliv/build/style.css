@@ -1,0 +1,238 @@
+:root {
+	--corona1-color: #005FAE;
+	--corona2-color: #8D00AE;
+	--korona1-color: #C40C1D;
+	--mittliv-color: #00FFFF;
+}
+
+#leaflet {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	top: 0;
+	z-index: 0;
+}
+
+.leaflet-container {
+font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.leaflet-interactive {
+	cursor: pointer;
+	fill: #000000;
+	stroke-width: 0;
+	-webkit-box-shadow: 0 2px 6px -1px rgba(0,0,0,0.8);
+	box-shadow: 0 2px 6px -1px rgba(0,0,0,0.8);
+	border-radius: 50%;
+	width: 24px;
+	height: 24px;
+	opacity: 0.9;
+}
+
+.marker-cluster {
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+	vertical-align: middle;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #fff;
+	background-clip: padding-box;
+}
+
+.marker-cluster-small { 
+	line-height: 36px;
+}
+
+.marker-cluster-medium { 
+	line-height: 40px;
+}
+
+.marker-cluster-large { 
+	line-height: 44px;
+}
+
+.leaflet-interactive.corona1 {
+	background-color: var(--corona1-color);
+}
+
+.leaflet-interactive.corona2 {
+	background-color: var(--corona2-color);
+}
+
+.leaflet-interactive.korona1 {
+	background-color: var(--korona1-color);
+}
+
+.leaflet-interactive.mittliv {
+	background-color: var(--mittliv-color);
+}
+
+.info {
+	background-color: #fff;
+	width: 100vw;
+	font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+	padding: 16px 0;
+	z-index: 999;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	display: flex;
+	flex-direction: column;
+	opacity: 1;
+	-webkit-box-shadow: 0 2px 4px -1px rgba(0,0,0,0.5); 
+	box-shadow: 0 2px 4px -1px rgba(0,0,0,0.5);	
+}
+
+#logos {
+	display: flex;
+	flex-direction: row;
+}
+
+.info h1 {
+	font-size: 24px;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding-bottom: 8px;
+}
+
+.info p {
+	margin: 0;
+}
+
+#map {
+	width:100vw;
+	height:100vh;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.popup {
+	font-size: 16px;
+}
+
+.logoNM, .logoNF {
+	height: 60px;
+}
+
+.logo {
+	margin-right: 16px;
+	padding-left: 16px;
+}
+
+#about {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+#aboutbox {
+	display: flex;
+	flex-direction: row;
+	padding: 0 16px;
+}
+
+.closeButton {
+	font-size: 20px;
+	padding: 8px;
+	height: 100%;
+}
+
+.contribute, .leaflet-control-layers, .leaflet-control-zoom {
+	display: none;
+}
+
+@media screen and (max-width: 600px) {
+	#about {
+		padding: 0 16px;
+	}
+
+	.logo {
+		margin-right: 0;
+	}
+
+	.logoNM, .logoNF {
+		height: 40px;
+	}
+
+	#aboutbox {
+		flex-direction: column;
+	}
+
+	.closeButton {
+		margin-top: 16px;
+		width: 100%;
+		font-size: 16px;
+	}
+
+	.contribute {
+		margin-left: 16px;
+		margin-right: 16px;
+		margin-top: 8px;
+	}
+
+	.contribute {
+		display: none !important;
+	}
+}
+
+@media screen and (min-width: 960px) {
+	.info {
+		width: 960px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.info, .popup, .leaflet-container {
+		font-size: 14px;
+	}
+
+	.info h1 {
+		font-size: 20px;
+	}
+}
+
+input[type="checkbox"] {
+  /* Add if not using autoprefixer */
+  -webkit-appearance: none;
+  /* Remove most all native input styles */
+  appearance: none;
+  /* For iOS < 15 */
+  background-color: #ffffff;
+  /* Not removed via appearance */
+  margin: 0;
+
+  width: 12px;
+  height: 12px;
+  border-radius: 0;
+  transform: translateY(-3px);
+  place-content: center;
+  display: inline-grid;
+}
+
+input[type="checkbox"]::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  transform: scale(0);
+  transform-origin: bottom left;
+  transition: 120ms transform ease-in-out;
+  display: inline-grid;
+}
+
+input[type="checkbox"]:checked::before {
+  transform: scale(1);
+}
+
+input[type="checkbox"]:focus {
+  outline: max(2px, 0.15em) solid #ff0000;
+  outline-offset: max(2px, 0.15em);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"]::before {
+	box-shadow: inset 1em 1em var(--mittliv-color);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+	border: 1px solid var(--mittliv-color);
+}
