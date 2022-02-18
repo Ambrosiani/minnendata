@@ -62,7 +62,7 @@ totalRecords.forEach(function(item){
 
   if ('school_uuid' in item) {
     if (item.school_uuid in schools) {
-      item.position = {"latitude":item.school_uuid.latitude, "longitude":item.school_uuid.longitude}
+      item.position = {"latitude":schools[item.school_uuid].latitude, "longitude":schools[item.school_uuid].longitude}
 
       responsesWithCoordinates++;
       var ingressArray = [];
