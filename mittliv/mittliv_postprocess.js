@@ -6,14 +6,14 @@ import { readJSON, readJSONFromURL } from 'https://deno.land/x/flat@0.0.10/src/j
 import { removeFile } from 'https://deno.land/x/flat@0.0.10/src/remove.ts'
 
 function GetSortOrder(property){
-   return function(a,b){
-      if( a[property] > b[property]){
-          return 1;
-      }else if( a[property] < b[property] ){
-          return -1;
-      }
-      return 0;
-   }
+ return function(a,b){
+  if( a[property] > b[property]){
+    return 1;
+  }else if( a[property] < b[property] ){
+    return -1;
+  }
+  return 0;
+}
 }
 
 // set file names
@@ -63,26 +63,25 @@ totalRecords.forEach(function(item){
   if ('school_uuid' in item) {
     if (item.school_uuid in schools) {
       item.position = {"latitude":item.school_uuid.latitude, "longitude":item.school_uuid.longitude}
-    }
 
-
-    responsesWithCoordinates++;
-    var ingressArray = [];
-    var ageArray = [];
-    if ('values' in item) {
-      ingressArray = values.filter(value => value.topic_item.label == "✏️ Berätta om en dag i ditt liv");
-      ageArray = values.filter(value => value.topic_item.label == "⏳ Hur gammal är du?");
-    }
-    if(ingressArray.length == 0) {
-      ingressArray = [{"display_value":""}];
-    }
-    if(ageArray.length == 0) {
-      ageArray = [{"display_value":"0"}];
-    }
-    if(parseInt(createdDate.getFullYear(), 10) - parseInt(ageArray[0].display_value, 10) > 15) {
-      const ingress = ingressArray[0].display_value.substring(0,100) + "…";
-      var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
-      geoJson.features.push(geoJsonFeature);
+      responsesWithCoordinates++;
+      var ingressArray = [];
+      var ageArray = [];
+      if ('values' in item) {
+        ingressArray = values.filter(value => value.topic_item.label == "✏️ Berätta om en dag i ditt liv");
+        ageArray = values.filter(value => value.topic_item.label == "⏳ Hur gammal är du?");
+      }
+      if(ingressArray.length == 0) {
+        ingressArray = [{"display_value":""}];
+      }
+      if(ageArray.length == 0) {
+        ageArray = [{"display_value":"0"}];
+      }
+      if(parseInt(createdDate.getFullYear(), 10) - parseInt(ageArray[0].display_value, 10) > 15) {
+        const ingress = ingressArray[0].display_value.substring(0,100) + "…";
+        var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(3)), parseFloat(item.position.latitude.toFixed(3)) ] } };
+        geoJson.features.push(geoJsonFeature);
+      }
     }
   }
   
