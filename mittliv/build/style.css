@@ -237,3 +237,35 @@ input[type="checkbox"]:focus {
 .leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
 	border: 1px solid var(--endagimittliv-color);
 }
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"]::before {
+	box-shadow: inset 1em 1em var(--mitthem-color);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+	border: 1px solid var(--mitthem-color);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"]::before {
+	box-shadow: inset 1em 1em var(--manniskornaimittliv-color);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+	border: 1px solid var(--manniskornaimittliv-color);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"]::before {
+	box-shadow: inset 1em 1em var(--mittliv2050-color);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+	border: 1px solid var(--mittliv2050-color);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"]::before {
+	box-shadow: inset 1em 1em var(--mittliv-1942-color);
+}
+
+.leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
+	border: 1px solid var(--mittliv-1942-color);
+}
