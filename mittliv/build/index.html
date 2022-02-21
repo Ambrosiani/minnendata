@@ -61,7 +61,45 @@
             document.getElementsByClassName('leaflet-control-zoom')[0].style = "display:block";
           }
 
-          var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.png?access-token={accessToken}', {
+          var topics = [
+          {
+           "uuid": "46463ebb-c066-4e43-beef-b00b03bea92f",
+           "title": "Mitt liv – en dag i mitt liv",
+           "slug": "endagimittliv",
+           "ingress": "✏️ Berätta om en dag i ditt liv",
+           "age": "🔢 Vilket år är du född?"
+         },
+         {
+           "uuid": "8f121bdb-1540-4997-b32d-3523a441de42",
+           "title": "Mitt liv – mitt hem",
+           "slug": "mitthem",
+           "ingress": "✏️ Beskriv hur livet är i ditt hem",
+           "age": "🔢 Vilket år är du född?"
+         },
+         {
+           "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834",
+           "title": "Mitt liv – människorna i mitt liv",
+           "slug": "manniskornaimittliv",
+           "ingress": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+           "age": "🔢 Vilket år är du född?"
+         },
+         {
+           "uuid": "2207b199-bb63-4067-bdd8-259339e01907",
+           "title": "Mitt liv 2050",
+           "slug": "mittliv2050",
+           "ingress": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+           "age": "🔢 Vilket år är du född?"
+         },
+         {
+           "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc",
+           "title": "En dag i mitt liv 1942",
+           "slug": "mittliv-1942",
+           "ingress": "Barnet berättar:",
+           "age": "🔢 Vilket år är du född?"
+         }
+         ];
+
+         var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.png?access-token={accessToken}', {
             attribution: '<a href="http://jawg.io" title="Tiles Courtesy of Jawg Maps" target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
             minZoom: 0,
             maxZoom: 22,
@@ -75,41 +113,47 @@
           var zoom = L.control.zoom({position: 'bottomleft'});
           zoom.addTo(map);
 
-          var mittliv = L.markerClusterGroup({
-            iconCreateFunction: function(cluster, name) {
-              var icon = createClusterMarkers(cluster, 'mittliv');
-              return icon;
-            }
-          });
+          var markerclustergroups = []
           
           var geoJsonLayer;
 
-          let xhr = new XMLHttpRequest();
-          xhr.open('GET', 'mittliv_geojson.json');
-          xhr.setRequestHeader('Content-Type', 'application/json');
-          xhr.responseType = 'json';
-          xhr.onload = function() {
-            if (xhr.status == 200) {
-              geoJsonLayer = L.geoJSON(xhr.response, {
-                pointToLayer: function(geoJsonPoint, latlng) {
-                    var divIcon = L.divIcon({ className: 'mittliv', iconSize: null})
-                  return L.marker(latlng, {icon: divIcon, opacity:0.9});
-                },
-                onEachFeature: function (feature, layer) {
-                  layer.bindPopup(function (layer) {
-                    return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
-                  });
-                }
-              });
+          for (const topic of topics) {
+            markerclustergroups[topic.slug] = L.markerClusterGroup({
+              iconCreateFunction: function(cluster, name) {
+                var icon = createClusterMarkers(cluster, topic.slug);
+                return icon;
+              }
+            });
 
-              mittliv.addLayer(geoJsonLayer);
-              map.addLayer(mittliv);
+            let xhr = new XMLHttpRequest();
+            xhr.open('GET', topic.slug + '_geojson.json');
+            xhr.setRequestHeader('Content-Type', 'application/json');
+            xhr.responseType = 'json';
+            xhr.onload = function() {
+              if (xhr.status == 200) {
+                geoJsonLayer = L.geoJSON(xhr.response, {
+                  pointToLayer: function(geoJsonPoint, latlng) {
+                    var divIcon = L.divIcon({ className: topic.slug, iconSize: null})
+                    return L.marker(latlng, {icon: divIcon, opacity:0.9});
+                  },
+                  onEachFeature: function (feature, layer) {
+                    layer.bindPopup(function (layer) {
+                      return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                    });
+                  }
+                });
 
-            }
-          };
-          xhr.send();
+                markerclustergroups[topic.slug].addLayer(geoJsonLayer);
+                map.addLayer(markerclustergroups[topic.slug]);
 
-          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Mitt liv • <a href="https://minnen.se/mittliv" target="_blank">Delta</a>':mittliv }, { "position":"topleft", "hideSingleBase":true });
+              }
+            };
+            xhr.send();
+          }
+
+          
+
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Mitt liv – en dag i mitt liv':markerclustergroups['endagimittliv'], 'Mitt liv – mitt hem':markerclustergroups['mitthem'], 'Mitt liv – människorna i mitt liv':markerclustergroups['manniskornaimittliv'], 'Mitt liv 2050':markerclustergroups['mittliv2050'], 'En dag i mitt liv 1942':markerclustergroups['mittliv-1942'] }, { "position":"topleft", "hideSingleBase":true });
 
           if( window.innerWidth > 600) {
             layerControl.options.collapsed = false;
