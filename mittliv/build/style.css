@@ -71,6 +71,7 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 
 .leaflet-interactive.mitthem {
 	background-color: var(--mitthem-color);
+	color: #000
 }
 
 .leaflet-interactive.manniskornaimittliv {
