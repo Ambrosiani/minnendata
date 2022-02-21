@@ -1,8 +1,9 @@
 :root {
-	--corona1-color: #005FAE;
-	--corona2-color: #8D00AE;
-	--korona1-color: #C40C1D;
-	--mittliv-color: #00D4D4;
+	--endagimittliv-color: #feb13f;
+	--mitthem-color: #fef63b;
+	--manniskornaimittliv-color: #4ab766;
+	--mittliv2050-color: #E481F6;
+	--mittliv-1942-color: #747474;
 }
 
 #leaflet {
@@ -64,8 +65,8 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	background-color: var(--korona1-color);
 }
 
-.leaflet-interactive.mittliv {
-	background-color: var(--mittliv-color);
+.leaflet-interactive.endagimittliv {
+	background-color: var(--endagimittliv-color);
 }
 
 .info {
@@ -230,9 +231,9 @@ input[type="checkbox"]:focus {
 }
 
 .leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"]::before {
-	box-shadow: inset 1em 1em var(--mittliv-color);
+	box-shadow: inset 1em 1em var(--endagimittliv-color);
 }
 
 .leaflet-control-layers-overlays label:nth-child(1) div input[type="checkbox"] {
-	border: 1px solid var(--mittliv-color);
+	border: 1px solid var(--endagimittliv-color);
 }
