@@ -26,7 +26,8 @@ removeFile('mittliv.json');
 var schools = await readJSON('mittliv/participating_schools.json');
 var topics = await readJSON('mittliv/topics.json');
 
-topics.forEach(function(topic) {
+for (const topic of topics) {
+
   const statsFile = 'mittliv/' + topic.slug + '_stats.json';
   const storedRecordsFile = 'mittliv/' + topic.slug + '_postprocessed.json';
   const totalCountUrl = 'https://api.minnen.se/api/responses/?topic=' + topic.uuid + '&order=created&limit=0';
@@ -60,7 +61,7 @@ topics.forEach(function(topic) {
   var responsesWithImages = 0;
   var responsesWithCoordinates = 0;
 
-  totalRecords.forEach(function(item){
+  for (const item of totalRecords) {
     const values = item.values;
     let createdDate = new Date(item.created);
     let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
@@ -113,7 +114,7 @@ topics.forEach(function(topic) {
         responsesWithImages++;
       }
     }
-  });
+  }
 
   stats["responses"] = totalRecords.length;
   stats["responsesWithCoordinates"] = responsesWithCoordinates;
@@ -128,4 +129,4 @@ topics.forEach(function(topic) {
 
   console.log("Wrote a post process file for " + topic.title);
 
-});
+}
