@@ -1,1 +1,3175 @@
-[]
+[
+  {
+    "archive_code": "00001",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 12:13:59 GMT",
+    "image_dms_id": "03349wCNCFHs",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 12:15:28 GMT",
+        "dms_id": "02349wCNCFHx",
+        "image_height": 1560,
+        "image_ratio": 1.641025641025641,
+        "image_width": 2560,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 25 Feb 2020 12:15:28 GMT",
+        "name": "IMG_9364.png",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "0ee82659-ed55-4096-8600-77269ed401a1",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:15:26 GMT",
+        "dms_id": "02349wCNCFHv",
+        "image_height": 1056,
+        "image_ratio": 1.5511363636363635,
+        "image_width": 1638,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 25 Feb 2020 12:15:26 GMT",
+        "name": "IMG_9373.png",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "2e0ce206-c0b4-4964-b626-332af8251e59",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:15:25 GMT",
+        "dms_id": "03349wCNCFHq",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:15:25 GMT",
+        "name": "IMG_9365.JPG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "323d1ebd-ddc4-4c42-866a-a5389d228625",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:15:25 GMT",
+        "dms_id": "03349wCNCFHs",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:15:25 GMT",
+        "name": "IMG_9366.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "00642242-94a6-41e5-9db0-6b390ef8f2b2",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:15:25 GMT",
+        "dms_id": "03349wCNCFHu",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:15:25 GMT",
+        "name": "IMG_9367.JPG",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "6ca9929b-35ba-4237-8cb3-3e7eab2c9a1f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:15:25 GMT",
+        "dms_id": "02349wCNCFHr",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:15:25 GMT",
+        "name": "IMG_9368.JPG",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "201b4533-0fca-4783-a545-410a06940cbe",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:15:26 GMT",
+        "dms_id": "02349wCNCFHw",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:15:26 GMT",
+        "name": "IMG_9369.JPG",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "8097d6eb-2a2b-4b14-b323-d26a69758135",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:15:26 GMT",
+        "dms_id": "03349wCNCFHt",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:15:26 GMT",
+        "name": "IMG_9374.JPG",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "2139a595-79d2-4c14-ae6d-c96883d5812a",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 03 Mar 2020 13:20:04 GMT",
+    "position": {
+      "latitude": 56.87409049999999,
+      "longitude": 13.0564543
+    },
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10601",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "dc158a66-978d-455b-b71e-12e945d651be",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 12:13:59 GMT",
+        "display_value": "<font size=6><b>\"Taklampan har mor sytt\"</b></font size>\n\nJag bor i Fröslida skolhus i Torups socken Hallands län. Affären och stationen ligga intill skolan. En väg som heter Nissastigen går förbi skolan. Mitt hem, skolan, är vitt med röda fönsterramar. Det är två ingångar, en till köket och en till vardagsrummet. Vid en reparation av bostaden år 1939 fann jag skrivet under spännpappen i taket årtalet 1903. Enligt vad jag har lyckats få reda på byggdes huset detta år.\n\n<b>Sängkammaren:</b>\nFars och mors sängar stå mellan ett tvättrum och en garderob. Min säng är mellan båda dörrarna. En sekretär står mellan fönstren. En \"puff\" står under det ena fönstret och en stor spegel finnes mellan dörren till vardagsrummet och fönstret. På golvet är det en korkmatta. Ovanpå finnes en trasmatta i ljusa färger. Möblerna äro gråflammiga till färgen. Tapeterna äro ljusa med små blommor. Taket är vitmålat med 2 cm medstrukna kanter. Taklampan har mor sytt i vitt tunt tyg med korsstygnsbroderier i glada färger. Över min säng är en läslampa utav pergament.\n\n<b>Bengt Eric skriver om sin säng, som står i sovrummet han delar med sina föräldrar:</b>\nMin säng med kuddar och nalle, som jag fick i julklapp då jag var 3 år. På väggen är en bonad som är sytt. över denna äro kort på mig samt min läslampa. På bordet synes mina friser från skidtävlingar 1942. Över elementet äro kort på far och mor.",
+        "modified": "Tue, 03 Mar 2020 13:20:04 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "059d4024-f32c-4d7c-a400-dc4849330b79"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:13:59 GMT",
+        "display_value": "<b>Bengt Eric Samuelsson</b>\n11,5 år gammal\nFröslida folkskola\nHalland\n\nBerättelsen är en del av skolinsamlingen Mitt hem från 1942, där 1742 barn runt om i Sverige skildrade sina hem och sina liv.\n<hr>",
+        "modified": "Tue, 25 Feb 2020 13:08:53 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "9b58259d-0b1c-49ec-9197-6a9aa1aa278f"
+      }
+    ]
+  },
+  {
+    "archive_code": "00002",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 12:26:56 GMT",
+    "image_dms_id": "02349wCNCFHy",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 12:25:41 GMT",
+        "dms_id": "02349wCNCFHy",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:41 GMT",
+        "name": "IMG_9329.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "2a56f039-6e5d-4e68-a255-fea1091ad633",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:41 GMT",
+        "dms_id": "03349wCNCFHz",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:41 GMT",
+        "name": "IMG_9330.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "2ceae47a-a0ac-41ec-af85-d36e18c66cbd",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:26:01 GMT",
+        "dms_id": "03349wCPdCi3",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:26:01 GMT",
+        "name": "IMG_9331.JPG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "9ac263ff-af57-4d89-9a65-02f16125e3dd",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "dms_id": "02349wCPdCde",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "name": "IMG_9332.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "96d5bff6-108d-4d62-adfc-a01f4b1737c3",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:26:01 GMT",
+        "dms_id": "03349wCPdCi1",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:26:01 GMT",
+        "name": "IMG_9333.JPG",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "539ea3ae-d1ca-401b-aeca-8d4da4575da9",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:55 GMT",
+        "dms_id": "02349wCPdChv",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:55 GMT",
+        "name": "IMG_9334.JPG",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "77ab3b4e-6171-461d-8dfd-ab6aa9d78c2e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:56 GMT",
+        "dms_id": "03349wCPdChu",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:56 GMT",
+        "name": "IMG_9339.JPG",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "7372c432-7bb3-43a3-ad57-1aac20974474",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:54 GMT",
+        "dms_id": "03349wCPdChx",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:54 GMT",
+        "name": "IMG_9340.JPG",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "c52ec8f4-2293-4862-bfb6-30e676118263",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "dms_id": "02349wCPdCdd",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "name": "IMG_9341.JPG",
+        "order_by_number": 9,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "51a88d6f-16b0-4d78-8891-87aedcfa6e22",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:56 GMT",
+        "dms_id": "02349wCPdChz",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:56 GMT",
+        "name": "IMG_9342.JPG",
+        "order_by_number": 10,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "cc021b72-f688-42b3-812d-16da2eaa0fbc",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:26:00 GMT",
+        "dms_id": "02349wCPdCi2",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:26:00 GMT",
+        "name": "IMG_9343.JPG",
+        "order_by_number": 11,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "917e5d86-32af-4298-9c29-fc2b1a714ef1",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:42 GMT",
+        "dms_id": "02349wCNCFNF",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:42 GMT",
+        "name": "IMG_9344.JPG",
+        "order_by_number": 12,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "edfe79a2-db3d-411a-a258-4bf079c8f323",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "dms_id": "03349wCNCFNQ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "name": "IMG_9345.JPG",
+        "order_by_number": 13,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "dda47272-68a9-432c-a973-3a77d0b88c82",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:49 GMT",
+        "dms_id": "03349wCNCFNN",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:49 GMT",
+        "name": "IMG_9346.JPG",
+        "order_by_number": 14,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "29c9e277-c141-41a2-8b6f-026cefba2f9f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:52 GMT",
+        "dms_id": "02349wCPdCdX",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:52 GMT",
+        "name": "IMG_9347.JPG",
+        "order_by_number": 15,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "ff79c64f-d974-4d98-8454-d9ca80703e14",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:43 GMT",
+        "dms_id": "02349wCNCFNG",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:43 GMT",
+        "name": "IMG_9348.JPG",
+        "order_by_number": 16,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "b481f711-41bd-4c95-aae9-bb4b6f2ab0c4",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:51 GMT",
+        "dms_id": "03349wCPdCda",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:51 GMT",
+        "name": "IMG_9355.JPG",
+        "order_by_number": 17,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "825f5255-7437-4eaa-9c67-bb9a6055d337",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:48 GMT",
+        "dms_id": "02349wCNCFNK",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:48 GMT",
+        "name": "IMG_9356.JPG",
+        "order_by_number": 18,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "322f7ea5-c035-407d-9cd7-696fa46c7fda",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:52 GMT",
+        "dms_id": "03349wCPdCdZ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:52 GMT",
+        "name": "IMG_9357.JPG",
+        "order_by_number": 19,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "d7c344b9-c2dc-4014-bc7c-e309847e6e3a",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:49 GMT",
+        "dms_id": "02349wCNCFNL",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:49 GMT",
+        "name": "IMG_9358.JPG",
+        "order_by_number": 20,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "fa20042b-6d9c-4176-bb45-0365939399e0",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:48 GMT",
+        "dms_id": "02349wCPdCdY",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:48 GMT",
+        "name": "IMG_9359.JPG",
+        "order_by_number": 21,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "684ae1e6-9be8-49a0-860c-8069aba2cd78",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:49 GMT",
+        "dms_id": "03349wCPdCdV",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:49 GMT",
+        "name": "IMG_9360.JPG",
+        "order_by_number": 22,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "61fab76b-9ac8-48d0-af0a-f889b70d5e1d",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:49 GMT",
+        "dms_id": "03349wCNCFNJ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:49 GMT",
+        "name": "IMG_9361.JPG",
+        "order_by_number": 23,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "4d9423c6-3e52-4225-9a22-f87d3074bf45",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:51 GMT",
+        "dms_id": "02349wCNCFNP",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:51 GMT",
+        "name": "IMG_9362.JPG",
+        "order_by_number": 24,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "3b3b5411-a9ce-4c19-9cd7-1705014304a4",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "dms_id": "03349wCPdCdW",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "name": "IMG_9363.JPG",
+        "order_by_number": 25,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "52863054-a856-4260-a136-86c56a8f550e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:47 GMT",
+        "dms_id": "02349wCNCFNM",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:47 GMT",
+        "name": "IMG_9364.JPG",
+        "order_by_number": 26,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "5679b162-be55-4dc5-8b55-d49fcfbdc9fb",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "dms_id": "03349wCPdCdc",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:53 GMT",
+        "name": "IMG_9375.JPG",
+        "order_by_number": 27,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "d3e4259a-402c-4691-92a8-6bf1a7abd47a",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:51 GMT",
+        "dms_id": "02349wCPdCdb",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:51 GMT",
+        "name": "IMG_9376.JPG",
+        "order_by_number": 28,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "87af3c02-8547-46ae-8de8-b10b7321c46f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:47 GMT",
+        "dms_id": "03349wCNCFNH",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:47 GMT",
+        "name": "IMG_9378.JPG",
+        "order_by_number": 29,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "abbf0b30-4d60-484e-8944-58ce63f403e0",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:56 GMT",
+        "dms_id": "02349wCPdChy",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:56 GMT",
+        "name": "IMG_9379.JPG",
+        "order_by_number": 30,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "529c8429-a54f-428d-93a6-a09fc6ab0dc8",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:25:55 GMT",
+        "dms_id": "02349wCPdChw",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:25:55 GMT",
+        "name": "IMG_9380.JPG",
+        "order_by_number": 31,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "4103da48-c7f4-4d94-a377-529234911857",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 03 Mar 2020 14:10:22 GMT",
+    "position": {
+      "latitude": 61.02787179999999,
+      "longitude": 14.4472247
+    },
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10602",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "8db17145-d392-4983-afc9-f4adc76bfcf4",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 12:26:56 GMT",
+        "display_value": "<font size=6><b>\"Vi har nyss köpt en elektrisk tvättmaskin\"</b></font size>\n\nMitt namn är Olof Börje Nääs. Jag är född år 1933 och går i femte klassen i Långlets folkskola, där min pappa är lärare. Vi bor i skolhuset. Långlet ligger i Nora socken, Kopparbergs län. Huset är timrat och har brädslagna väggar. Det är rödmålat med vitgula knutar och har tegeltak. Grunden är av sten. Skolhuset byggdes år 1904.\n...\n\nGolvet i tvättstugan är av cement. Där står en stor tvättbassäng. Den är så stor att man kan bada i den, om man vill. Vi har nyss köpt en elektrisk tvättmaskin. Den står mitt på golvet bredvid panmuren. Tvättmaskinen är emaljerad och kostade 525 kr. Mamma är mycket glad åt den. Pannmuren är invändigt klädd med koppar.\n...\n\nFrån mitt hem är det fin utsikt över Österdalälven. Dit är det 700 m. Nordväst om skolan ligger byn Långlet. Landsvägen Mora-Älvdalen går förbi skolan. Till Mora är det 6 km. Skog och åkrar ligger så vackert omkring skolan. Jag trivs så bra i mitt vackra hem.",
+        "modified": "Tue, 03 Mar 2020 14:10:22 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "222ac5e8-43f2-477d-887e-60cddce1beb5"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:26:56 GMT",
+        "display_value": "<b>Börje Nääs</b>\n9 år gammal\nLånglets folkskola\nMora, Dalarna\n\nBerättelsen är en del av skolinsamlingen Mitt hem från 1942, där 1742 barn runt om i Sverige skildrade sina hem och sina liv.\n<hr>",
+        "modified": "Tue, 25 Feb 2020 13:07:51 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "8317e118-2098-4299-a5be-635f5183aef1"
+      }
+    ]
+  },
+  {
+    "archive_code": "00003",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 12:46:09 GMT",
+    "image_dms_id": "03349wCPdCi4",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 12:43:12 GMT",
+        "dms_id": "03349wCPdCnK",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:12 GMT",
+        "name": "IMG_9272.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "984154e3-1633-44d8-ad69-103de74b18b8",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:42:58 GMT",
+        "dms_id": "03349wCPdCi4",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:42:58 GMT",
+        "name": "IMG_9273.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "984f47ff-97ff-4b8f-b796-0b6cdb0a2c55",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:13 GMT",
+        "dms_id": "02349wCPdCrk",
+        "image_height": 1520,
+        "image_ratio": 0.8013157894736842,
+        "image_width": 1218,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 25 Feb 2020 12:43:13 GMT",
+        "name": "IMG_9295.png",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "20366d17-8ddd-440a-a0ed-df3d6d5da367",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:13 GMT",
+        "dms_id": "03349wCPdCnM",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:13 GMT",
+        "name": "IMG_9279.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "d0b1a521-6bf2-4af2-8260-cf294d7f29e3",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:11 GMT",
+        "dms_id": "03349wCPdCnN",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:11 GMT",
+        "name": "IMG_9281.JPG",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "33e5467c-e290-47d2-b954-b7de0e3dba2a",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:20 GMT",
+        "dms_id": "02349wCPdCnR",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:20 GMT",
+        "name": "IMG_9282.JPG",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "232f84e5-ead9-4151-b993-f2ff04ba81d6",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:23 GMT",
+        "dms_id": "02349wCPdCnU",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:23 GMT",
+        "name": "IMG_9283.JPG",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "829a3b86-e103-4013-ba39-6d9284cd3cbe",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:16 GMT",
+        "dms_id": "03349wCPdCnT",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:16 GMT",
+        "name": "IMG_9284.JPG",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "35769804-2879-4af8-9243-fff23526b6cd",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:14 GMT",
+        "dms_id": "02349wCPdCnS",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:14 GMT",
+        "name": "IMG_9285.JPG",
+        "order_by_number": 9,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "8a6a1e55-17e8-4157-8b07-0054cefba19a",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:24 GMT",
+        "dms_id": "02349wCPdCrm",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:24 GMT",
+        "name": "IMG_9286.JPG",
+        "order_by_number": 10,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "5fc5843a-2152-446a-a8d9-fed6bfdbc3a2",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:15 GMT",
+        "dms_id": "02349wCPdCnP",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:15 GMT",
+        "name": "IMG_9287.JPG",
+        "order_by_number": 11,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "cab0cdd0-5726-4fcc-b098-945ce20f9f1e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:13 GMT",
+        "dms_id": "03349wCPdCnQ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:13 GMT",
+        "name": "IMG_9288.JPG",
+        "order_by_number": 12,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "75c7ec8f-fc31-41b9-a192-06576def690e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:12 GMT",
+        "dms_id": "02349wCPdCrn",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:12 GMT",
+        "name": "IMG_9289.JPG",
+        "order_by_number": 13,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "c105bd8c-23c3-4165-98e6-8713807d557c",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:14 GMT",
+        "dms_id": "02349wCPdCrp",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:14 GMT",
+        "name": "IMG_9290.JPG",
+        "order_by_number": 14,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "c40b9b8e-8eb4-4937-8b4f-7c853f5830da",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:17 GMT",
+        "dms_id": "03349wCPdCrr",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:17 GMT",
+        "name": "IMG_9291.JPG",
+        "order_by_number": 15,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "6aac8005-ea9e-4108-9603-a07c0a1e0c3b",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:24 GMT",
+        "dms_id": "03349wCPdCro",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:24 GMT",
+        "name": "IMG_9292.JPG",
+        "order_by_number": 16,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "3114f51b-e351-437b-82a0-f3b2758a59c7",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:15 GMT",
+        "dms_id": "02349wCPdCrq",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:15 GMT",
+        "name": "IMG_9293.JPG",
+        "order_by_number": 17,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "9d61176f-e690-4517-be4c-8c75d94cd241",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:43:17 GMT",
+        "dms_id": "03349wCPdCrj",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:43:17 GMT",
+        "name": "IMG_9294.JPG",
+        "order_by_number": 18,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "89b7f928-6e75-4186-b4aa-aea5c68fe575",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 25 Feb 2020 13:06:46 GMT",
+    "position": {
+      "latitude": 59.9151401,
+      "longitude": 12.7902651
+    },
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10603",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "49884e05-5328-4bf4-a7fe-5d66a7710962",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 12:46:09 GMT",
+        "display_value": "<b>Gertrud Andersson</b>\n13 år gammal\nÄngens skola, Gräsmark\nVärmland\n\nBerättelsen är en del av skolinsamlingen Mitt hem från 1942, där 1742 barn runt om i Sverige skildrade sina hem och sina liv.",
+        "modified": "Tue, 25 Feb 2020 13:06:46 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "7ae67f89-80ab-44af-a5d1-9e0f6cdc7aff"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:46:09 GMT",
+        "display_value": "Mitt hem ligger i en by, som heter Ängen, i Gräsmarks socken. Min mamma är folkskolärarinna i Ängen. Min pappa är död. Jag har två syskon som heter Holger och Ingrid. Holger är 18 år, Ingrid är 20 år och mamma är 49 år. Mamma heter Ruth Andersson. Själv heter jag Gertrud och är 13 år.\n...\n\nNu har pappa varit död i två år, mina två äldre syskon äro borta i skolan. Jag går i sjunde klassen för mamma, som är lärarinna. Därtill har vi en finsk flicka på 12 år, som varit här ett år. Vi har blivit så goda vänner. Vi båda hjälpas åt att sköta ett hushållslamm, som nu i höst blivit inackorderad i en gammal ladugård.  Om kvällarna förnöjer vi oss med att spela och sjunga. När mina syskon är hemma så spelar Ingrid piano, Holger flöjt och jag fiol ibland, och så sjunger vi allihopa. Jag spelar också ibland på pianot. Böcker ur skolbiblioteket läser vi, och det är roligt, och mamma är med i en läsecirkel. Så kommer ibland kusiner och kamrater på besök och då roar vi oss med folk- och sällskapslekar, uppföra små pjäser, och ha så trevligt.",
+        "modified": "Tue, 25 Feb 2020 13:06:46 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "91be2d66-5be1-46fb-b357-9d3663b83a73"
+      }
+    ]
+  },
+  {
+    "archive_code": "00004",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 12:54:30 GMT",
+    "image_dms_id": "03349wCPdCrs",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 12:54:01 GMT",
+        "dms_id": "03349wCPdCrs",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:01 GMT",
+        "name": "IMG_9297.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "26282f33-44d9-40da-a3c3-382ce7f7fedc",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:03 GMT",
+        "dms_id": "02349wCPdCrt",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:03 GMT",
+        "name": "IMG_9298.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "77dd2e5f-f397-474f-b34b-ea3bb9d1f709",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "dms_id": "03349wCPdD1d",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "name": "IMG_9304.JPG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "821fe97d-038d-419c-871a-31c43aed3d16",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "dms_id": "02349wCPdD1c",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "name": "IMG_9305.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "41ff0469-49ba-4f3b-bd9f-a8d604737b10",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "dms_id": "02349wCPdD1b",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "name": "IMG_9306.JPG",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "3a5cf3eb-e21f-4b2a-a2aa-a8f38337b42b",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:03 GMT",
+        "dms_id": "03349wCPdCwB",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:03 GMT",
+        "name": "IMG_9307.JPG",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "fb1f485d-8c17-486a-9a15-90b5287b5d54",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "dms_id": "03349wCPdCwF",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "name": "IMG_9309.JPG",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "036c64a8-bfd1-4f04-a37a-90cbff9c8bf4",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:07 GMT",
+        "dms_id": "03349wCPdD1Z",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:07 GMT",
+        "name": "IMG_9310.JPG",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "3772c46c-b766-4dd9-9be0-b3e6d154bb2a",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:03 GMT",
+        "dms_id": "02349wCPdCw9",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:03 GMT",
+        "name": "IMG_9311.JPG",
+        "order_by_number": 9,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "45a95508-2265-48f0-b974-45ddafb0bcf6",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:07 GMT",
+        "dms_id": "02349wCPdCwG",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:07 GMT",
+        "name": "IMG_9312.JPG",
+        "order_by_number": 10,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "e8c19012-60a4-4d1f-aa42-5d2cb84cb5d3",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "dms_id": "03349wCPdCwC",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "name": "IMG_9313.JPG",
+        "order_by_number": 11,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "4f9d32b8-5368-47a3-a0af-a193853e7f3a",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:07 GMT",
+        "dms_id": "03349wCPdCwD",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:07 GMT",
+        "name": "IMG_9314.JPG",
+        "order_by_number": 12,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "2dd343a2-34da-488b-99b5-3f8073b2604a",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:08 GMT",
+        "dms_id": "03349wCPdCwA",
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:08 GMT",
+        "name": "IMG_9315.JPG",
+        "order_by_number": 13,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "f9893903-8cfe-4b7b-9fde-f3efe3c58b0c",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:07 GMT",
+        "dms_id": "03349wCPdCwH",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:07 GMT",
+        "name": "IMG_9316.JPG",
+        "order_by_number": 14,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "3baa49ad-ae6e-47f1-92b7-7c084cf8b38b",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:09 GMT",
+        "dms_id": "02349wCPdCwJ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:09 GMT",
+        "name": "IMG_9317.JPG",
+        "order_by_number": 15,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "be646394-c062-4ef2-ab86-6d399189ceaf",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "dms_id": "02349wCPdCwE",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:06 GMT",
+        "name": "IMG_9318.JPG",
+        "order_by_number": 16,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "0164e591-853a-41ef-a579-a8822aa2c2c5",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:09 GMT",
+        "dms_id": "02349wCPdD1a",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 12:54:09 GMT",
+        "name": "IMG_9319.JPG",
+        "order_by_number": 17,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "02de0461-b586-40c1-af74-679357da4157",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 25 Feb 2020 13:12:47 GMT",
+    "position": {
+      "latitude": 59.9151401,
+      "longitude": 12.7902651
+    },
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10604",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "37791c40-53b9-4da1-96f2-70c3d995d45a",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 13:00:57 GMT",
+        "display_value": "<font size=5><b>\"Jag får inte läsa på läxan förrän på kvällen\"</b></font size>",
+        "modified": "Tue, 25 Feb 2020 13:00:57 GMT",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Textarea",
+          "uuid": "49476ec2-d5b8-4766-8bdf-ce312c7a558a"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "f39906f0-17f7-49d7-83af-e3765813999d"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:30 GMT",
+        "display_value": "<font size=6><b>\"Jag får inte läsa på läxan förrän på kvällen\"</b></font size>\n\nJag heter Ingrid Hagberg är 13 år och går i 7:e klass. Min pappa heter Emanuel Hagberg och är 49 år, min mamma heter Margareta Hagberg och är 39 år. Min äldsta bror heter Ingmar. Han är 15 år. Min syster Signe är 11 år gammal. Min yngste bror heter Gunnar och är 6 år. Min far är jordbrukare.\n\nMitt hem ligger i en vacker bygd. Ingen sjö finns i närheten, men skogar är det gott om. Vi har 4 km till närmaste landsväg. 2,5 mil till järnvägsstationen. Till kyrkan har vi 10 km. Vi har en bra stuga. På nedre våningen är det 2 rum och kök, på övre våningen är det 2 rum.\n...\n\nMamma sköter hushållet både vinter och sommar. När pappa och Ingmar kommer från skogen och vi kommer hem från skolan äro vi så hungriga. Vi få då oftast potatis, grönsaker och kött eller fisk till.  Min äldsta bror går i fortsättningsskolan i Uddheden och cyklar hem varje eftermiddag. När jag kommer hem från skolan måste jag hjälpa mamma med middagsdisken, bära in ved och vatten. På kvällen är jag med i ladugården och mjölkar korna. Ibland, när mamma är borta, då sköter jag ladugården själv. Jag får inte läsa på läxan förrän på kvällen.",
+        "modified": "Tue, 25 Feb 2020 13:04:32 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "027cb605-c2f3-401b-82ca-e69ac9d09a99"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 12:54:30 GMT",
+        "display_value": "<b>Ingrid Hagberg</b>\n13 år\nÄngens skola, Gräsmark\nVärmland\n\nBerättelsen är en del av skolinsamlingen Mitt hem från 1942, där 1742 barn runt om i Sverige skildrade sina hem och sina liv.\n<hr>",
+        "modified": "Tue, 25 Feb 2020 13:04:32 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "16457148-37d5-45eb-b113-ed203597809b"
+      }
+    ]
+  },
+  {
+    "archive_code": "00005",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 13:22:48 GMT",
+    "image_dms_id": "02349wCPdD61",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 13:22:00 GMT",
+        "dms_id": "03349wCPdD5y",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:22:00 GMT",
+        "name": "IMG_9401.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "9b1d4630-af67-48ee-b074-73f8e2f1485f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:22:00 GMT",
+        "dms_id": "02349wCPdD5z",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:22:00 GMT",
+        "name": "IMG_9402.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "7d0a009a-093d-49db-9bbf-ccf42d09731c",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:22:00 GMT",
+        "dms_id": "02349wCPdD61",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:22:00 GMT",
+        "name": "IMG_9403.JPG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "b9290e5a-8887-441a-a0ad-e03ffb19d26b",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:22:00 GMT",
+        "dms_id": "03349wCPdD62",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:22:00 GMT",
+        "name": "IMG_9404.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "38980366-eb94-450b-bc8a-4fa620910e79",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 03 Mar 2020 14:07:38 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10605",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "27ef4f0f-33f1-4c37-9e21-1ec7226807c1",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 13:22:48 GMT",
+        "display_value": "<font size=6><b>När jag och far arbeta i skogen</b></font size>\n\nPå morgonen klockan 6 hade pappa och jag forat hästen. Har hade brått att laga till matsäcken och frukosten. Vi åt gröt och mjölk till frukost. Nu gick pappa ned och selade hästen och jag tog ryggsäcken på mig. Vi hade med havre och hackelse åt vår häst. Nu är klockan 7, så nu måste vi fara till skogen. Vår väg till skogen är omkring 2 km lång. Nu är vi komna till skogen och Bläsen går sakta uppför de stora bäckarna. Nu börjar pappa och jag lässa kolvedsresen på grejorna.\n\nVi hjälps åt att lägga på de största klumparna. Vi far tre och fyra res i lasset. Det går så fort utför backarna så Bläsen får småspringa. När vi kommer ner får vi lägga kolveden i en lång el som är en meter hög. När vi har kört nio lass sätt vi oss att äta middag. Pappa har tänt upp en stor eld, så vi får värma oss. Pappa tar fram fornisten, så hästen också får äta matsäck. Jag skall tala om, att det smakade gott med en smörgås vid middagen. När vi har ätit middag, börjar vi arbeta igen. När vi har kört 4 lass börjar Bläsen bli trött, men vi har bestämt att vi ska köra 15 lass. Ibland hugger pappa vägar, så jag får köra hästen själv.  Det syns mycket väl på Bläsen, när det är hemdags, då springer han med full fart. När vi är hemkomna på gården tar pappa Bläsen från grejorna och ställer in honom i stallet. Jag går efter ett stårt fång hö som hästen får.\n\nNär vi kommer in till mamma har hon en stor brasa tänd, så vi inte skall frysa. Vi får rotmos, när vi kommer hem. Det smakade mycket gott. Vi är trötta både pappa och jag efter dagens arbete.",
+        "modified": "Tue, 03 Mar 2020 14:07:38 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "edb2a2d0-0b6d-4a99-bfb1-1e0e1bc6699a"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:22:48 GMT",
+        "display_value": "<b>Stig Månsson</b>\n12 år\nKlass 5\nOrt okänd\n\nBerättelsen är en del av skolinsamlingen Mitt hem från 1942, där 1742 barn runt om i Sverige skildrade sina hem och sina liv.\n<hr>",
+        "modified": "Tue, 25 Feb 2020 13:22:48 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "b70a6265-4996-4eed-a40e-2b2ac9286062"
+      }
+    ]
+  },
+  {
+    "archive_code": "00006",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 13:28:00 GMT",
+    "image_dms_id": "02349wCPdD65",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 13:27:22 GMT",
+        "dms_id": "03349wCPdDAU",
+        "image_height": 1564,
+        "image_ratio": 1.2570332480818414,
+        "image_width": 1966,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 25 Feb 2020 13:27:22 GMT",
+        "name": "IMG_9405.png",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "b5b6dea5-31ce-4c10-90ee-4db7bf3fa985",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:21 GMT",
+        "dms_id": "03349wCPdDAR",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:21 GMT",
+        "name": "IMG_9406.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "b5b9daa4-8f8c-499f-a07e-0da2b39fb9b1",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:21 GMT",
+        "dms_id": "03349wCPdDAS",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:21 GMT",
+        "name": "IMG_9407.JPG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "e11ae97e-ac02-4455-bdd8-7372f35d6c31",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "dms_id": "02349wCPdD66",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "name": "IMG_9410.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "5cb8ea47-0dd6-48ae-bb5a-7417c0c9a6ce",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "dms_id": "03349wCPdD68",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "name": "IMG_9411.JPG",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "dd8fbcd0-76d3-4e60-8f58-668281f30cbf",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "dms_id": "03349wCPdDAQ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "name": "IMG_9412.JPG",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "7d9ca661-5de6-45b1-a1e4-5786ea330c27",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "dms_id": "02349wCPdD65",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "name": "IMG_9413.JPG",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "75bbe373-a676-4fdf-acca-5999ee77e40f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:21 GMT",
+        "dms_id": "03349wCPdDAT",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:21 GMT",
+        "name": "IMG_9414.JPG",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "f60188a9-7e14-4eae-b5cb-3e602fde486e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "dms_id": "02349wCPdDAP",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "name": "IMG_9415.JPG",
+        "order_by_number": 9,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "18e5729f-038a-44a9-a60e-2c9c44ab551b",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "dms_id": "02349wCPdD67",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:27:20 GMT",
+        "name": "IMG_9416.JPG",
+        "order_by_number": 10,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "1cf2d95b-33ca-4b89-b598-2d99fa8eac35",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 25 Feb 2020 13:29:22 GMT",
+    "position": {
+      "latitude": 56.5849054,
+      "longitude": 15.4451252
+    },
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10606",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "de1d2c28-0fc7-48cd-be01-b9a198b407d4",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 13:28:00 GMT",
+        "display_value": "<b>Solvig Nilsson</b>\n12 år gammal\nLida, Långasjö\nSmåland\n\nBerättelsen är en del av skolinsamlingen Mitt hem från 1942, där 1742 barn runt om i Sverige skildrade sina hem och sina liv.",
+        "modified": "Tue, 25 Feb 2020 13:29:22 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "4dd06d83-5b4c-405e-8857-2b57470366c2"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:28:00 GMT",
+        "display_value": "<b><font size=6>Ibland far man till kyrkan, annars lyssnar man till gudstjänsten i radion</font size></b>\n\nVardagens arbete börjar i allmänhet för de stora klockan halv sex. De går då ut och sköter djuren, mjölkar och skickar mjölken till mejeriet. Omkring halv åtta äter vi frukost. Efter frukosten lyssnar vi till morgonandakten och dagsnyheter. Sedan förflyter dagen under arbete, som tillhör de olika årstiderna. Klockan 12 äter vi middag, då försummas aldrig radion. Klockan 3 dricker vi eftermiddagskaffe. Kvällsvarden ätes klockan 7. Är det bråd tid, som vid vårarbetet och skörden, blir den senare. Kvällarna tillbringas med läsning och att lyssna på radion. Så är vanligen den jämna ordningen om vardagarna med undantag för familjemedlemmarnas födelse- och namnsdagar, vilka högtidligen firas.\n\nPå lördagarna bakas kaffebröd och tårta till söndagen och görs förberedelse till söndagsmaten. Man städar och lägger på rena dukar och sätter in nya blommor. Vi slutar arbetet lite tidigare än vanligt på lördagarna, så att man skall kunna känna sig fri och kunna njuta av helgdagsfriden.  På söndagsmorgonen får man sova lite längre än om vardagarna. Då har man nystädat och fint överallt. Så stiger man upp och tager på sig helgdagskläderna. Ibland far man till kyrkan, annars lyssnar man till gudstjänsten i radion. Då har vi alltid elvakaffe. Middagen äter vi klockan 2 om söndagen. Då får vi våra favoriträtter eller något extra gott. Efter middagen är vi ute på cykelturer, promenader eller leker, om vädret tillåter, annars lyssnar vi på radio, läser, spelar schack med mera.",
+        "modified": "Tue, 25 Feb 2020 13:29:22 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "d2c60f7f-b496-4c42-bf7c-ba2d41a544c9"
+      }
+    ]
+  },
+  {
+    "archive_code": "00007",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 13:34:14 GMT",
+    "image_dms_id": "03349wCPdDAX",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 13:32:50 GMT",
+        "dms_id": "03349wCPdDAY",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:32:50 GMT",
+        "name": "IMG_9394.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "53daa670-486d-4109-b89b-96be3ecc0250",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:32:50 GMT",
+        "dms_id": "03349wCPdDAX",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:32:50 GMT",
+        "name": "IMG_9395.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "89afa84e-f31e-4310-8481-81f647687e3f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:32:52 GMT",
+        "dms_id": "02349wCPdDEs",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:32:52 GMT",
+        "name": "IMG_9396.JPG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "cbc616a6-f354-4ade-b85d-abca1184aac5",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:32:51 GMT",
+        "dms_id": "02349wCPdDEq",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:32:51 GMT",
+        "name": "IMG_9397.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "85ffe420-bade-486a-851a-402aea6d4e77",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:32:52 GMT",
+        "dms_id": "02349wCPdDEr",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:32:52 GMT",
+        "name": "IMG_9398.JPG",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "08752813-fc73-4812-a301-7e9b2c3a7731",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:32:51 GMT",
+        "dms_id": "03349wCPdDEo",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:32:51 GMT",
+        "name": "IMG_9399.JPG",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "71a13899-6aeb-49e0-ab34-e407f5ae2391",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:32:51 GMT",
+        "dms_id": "02349wCPdDEp",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:32:51 GMT",
+        "name": "IMG_9400.JPG",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "a4867f1d-295c-4bf0-b2b4-d737e04007d2",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 03 Mar 2020 13:37:04 GMT",
+    "position": {
+      "latitude": 58.4981565,
+      "longitude": 15.071505
+    },
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10607",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "0b45bf51-1ba8-4ec8-940e-83953f3a2fdb",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 13:34:14 GMT",
+        "display_value": "<b><font size=6>\"Nästan varje kväll måste jag läsa högt för min lilla syster\"</font size></b>\n\nMitt hem ligger vid stora landsvägen mellan Motala och Skänninge. Bakom det ligger en vacker skog beväxt med tall och gran. Vi har en liten trädgård omkring stugan och där växer många sorters goda bär och frukter, såsom päron, äpplen, biggaro, sötkörskär, klarbär, brunbär, hallon, jordgubbar, vinbär och krusbär samt plommon som är mycket goda. Och på våra trädgårdsland odlar vi potatis, morötter, rödbetor, lök, palsternackor, ärter och bönor samt spenat och en del kryddväxter. På gurklisten växer det gurkor, och vid en solig vägg tomater.\n\nI uthuset har vi WC och vedbod. Där har vi också kaninerna. Vi har 42 kaniner. Jag har själv 2 kaniner. Mamma har 18 höns.  Vårt hus är gult till färgen och består av tre rum, kök. Köket har vi till matrum och när jag äter, så sitter jag vid fönstret. När jag kommer hem läser jag läxorna. Om kvällarna brukar jag åka efter mjölken. Vi läser mycket i mitt hem. Min bror Åke lånar böcker från ett bibliotek, historiska romaner och äventyrsböcker men även annan litteratur. Jag läser sagor. Nästan varje kväll måste jag läsa högt för min lilla syster. Hon är bara fem år men är mycket intresserad av att läsa och skriva.  Vi leker ofta skola. Jag är lärarinna och hon är elev, och det är mycket roligt.\n\nNär pappa och mina 3 stora syskon kommer hem klockan halv sex på kvällen äter vi middag. Sedan tvättar de sig och gör sig i ordning meadn mamma diskar. Så hör vi på radion eller läser. Mamma och mina systrar stickar och syr, och så går vi och lägger oss vid 9-tiden. Min lilla syster och jag läser aftonbönen högt och så sover vi. Kl halv sex går mamma upp och lagar frukost och matsäck åt pappa och syskonen som arbetar. De åker klockan halv sju till sina arbeten.  En kvart över sju väcker mamma mig så jag hinner bli i ordning tills jag skall åka till skolan, som börjar tjugo minuter över åtta. Så går varje dag i veckan tills söndagen. Då sover vi och vilar ut ordentligt. Vi blir lagom i ordning till klockan tio, och då går min syster och jag till söndagsskolan.",
+        "modified": "Tue, 03 Mar 2020 13:37:04 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "d5fd06ab-33de-4c0b-b2e0-85867af5ab53"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:34:14 GMT",
+        "display_value": "<b>Ulla Bengtsson</b>\nHemkullen Sjökumla, Motala\nÖstergötland\n<hr>",
+        "modified": "Tue, 03 Mar 2020 13:37:04 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "80e2f7a9-6b42-47f0-b9eb-91fe67c24554"
+      }
+    ]
+  },
+  {
+    "archive_code": "00008",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 13:39:22 GMT",
+    "image_dms_id": "03349wCPdDEt",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 13:37:56 GMT",
+        "dms_id": "03349wCPdDEt",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:37:56 GMT",
+        "name": "IMG_9382.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "2d316574-032b-4782-811d-c583558de168",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:37:57 GMT",
+        "dms_id": "02349wCPdDEv",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:37:57 GMT",
+        "name": "IMG_9384.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "567ebd5d-c2a6-4cb2-a568-4dc8e688adc8",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:37:57 GMT",
+        "dms_id": "03349wCPdDEu",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:37:57 GMT",
+        "name": "IMG_9385.JPG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "d57e310d-e70c-4547-8758-7fa57af63f06",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:37:59 GMT",
+        "dms_id": "03349wCPdDKF",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:37:59 GMT",
+        "name": "IMG_9386.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "cd7b574b-840b-49ef-82f3-af437c041381",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:37:59 GMT",
+        "dms_id": "02349wCPdDEx",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:37:59 GMT",
+        "name": "IMG_9387.JPG",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "2461d48d-09d1-4473-8b58-468e305c0025",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:38:00 GMT",
+        "dms_id": "02349wCPdDKG",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:38:00 GMT",
+        "name": "IMG_9388.JPG",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "3703650d-8ac0-4164-85aa-829bfecb7c9f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:37:58 GMT",
+        "dms_id": "03349wCPdDEw",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:37:58 GMT",
+        "name": "IMG_9389.JPG",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "756aecd3-bc49-4a51-ba92-6c287f3c8f2f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:38:00 GMT",
+        "dms_id": "02349wCPdDKH",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:38:00 GMT",
+        "name": "IMG_9390.JPG",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "80dd4d79-fae8-4f69-994c-e9863fa73bd7",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:37:59 GMT",
+        "dms_id": "02349wCPdDKD",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:37:59 GMT",
+        "name": "IMG_9391.JPG",
+        "order_by_number": 9,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "5fb88e24-bec7-4f2e-b672-1082e03743bd",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:38:00 GMT",
+        "dms_id": "03349wCPdDKE",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:38:00 GMT",
+        "name": "IMG_9392.JPG",
+        "order_by_number": 10,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "08662e38-7f94-4f44-8391-0657f014bee8",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 03 Mar 2020 13:34:33 GMT",
+    "position": {
+      "latitude": 58.5380335,
+      "longitude": 15.0470936
+    },
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10608",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "a68ebb38-1886-4827-b891-c64448ee5eb1",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 13:39:22 GMT",
+        "display_value": "<font size=6><b>\"När jag kommer hem, så äter jag middag, och sedan klär jag om mig och går opp till Larsson och hjälper dem\"</b></font size>\n\nVårt hem är rött till färgen och det ligger mycket lågt. Vi har två rum och kök. Ett av rummen har vi till sängkammare. Det rummet finns uppe på andra våningen. I det stora rummet, som finns i nedre våningen, har vi en buffé, och i den har mamma gamla saker. Hon har en kopparservis, som är så lustig.\n\nKöket använder vi till vardagsrum. Där äter vi, och där brukar jag läsa mina läxor. Jag har min plats mellan skänken och bordet och där brukar jag sitta och läsa lånböcker som vi får låna i skolan. Jag har lånat “Buffalo Bill”, ty den är så spännande. Jag har läst om när han räddade sina systrar, när de var nära att bli ihjälbitna av ett djur. Pappa sitter på andra sidan av bordet och mamma sitter på långsidan och det gör Inga-Lisa också.  På förmiddagarna brukar mamma städa i köket, sängkammaren och rummet. Jag brukar hjälpa mamma med att bära in ved, så att mamma slipper att göra det. Pappa brukar tvätta sig när han kommer hem från arbetet. Sedan läser han tidningen, tills att maten blir färdig. Vi brukar äta middag klockan tolv, när pappa och jag är hemma. Och när pappa kommer hem tidigt får vi vänta tills att maten blir färdig. När vi har ätit så brukar jag läsa litet på läxorna, och sedan går jag och lägger mig.\n\nPå mornarna brukar jag gå opp klockan kvart i sju. När jag har tagit på mig strumporna, byxorna, skjortan och skorna, så tvättar jag mig, och sedan tar jag på mig jackan och lägger ned böckerna och maten. När jag har gjort det, så äter jag frukost. Till frukost äter jag smörgås och dricker choklad. När jag har ätit så tar jag på mig kläderna och sedan går jag till skolan. Vi börjar skolan klockan tjugo minuter över åtta och slutar klockan halv två. När jag kommer hem, så äter jag middag, och sedan klär jag om mig och går opp till Larsson och hjälper dem. Jag brukar hjälpa till med att sätta upp hö, och när de kör in det, så brukar jag stå på skullen och taga emot höet. Larson har en jektor, så man får håva undan så fort man kan om man ska hinna men. När vi har slutat höet så fick jag börja med att hjälpa till att sätta upp säd. De har så mycket säd, så vi hade gör en hel vecka med att meja och sätta upp säden. Det måste ju vara vackert väder förstås. När vi kör in säden så får jag hjälpa till med att stå på logen och taga emot sädesneker. När vi tröskar, får jag kasta fram neker till verket. Vi brukar tröska i början av december. När vi har hästarna inne på vintern så gör jag i ordning i stallet. Larssons har fyra hästar.\n\nPappa hyr hos Larsson. Han arbetar inte där, utan han arbetar på järnvägen. I köket har vi en skänk och i den har mamma sitt porslin och sina dricksglas, och på nedre hyllan har hon sina andra småsaker. På skänken har radion. I kammaren har vi en soffa som är klädd med så fint tyg så. Jag brukar sitta och titta i mammas och pappas album ibland. Vi har 19 kaniner. Vi har en hanne, som är svart. Han heter Svarten, därför att han är svart. Vi har 18 höns och tuppen.",
+        "modified": "Tue, 03 Mar 2020 13:34:33 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "afe6200b-c6c5-4b0c-894f-58669bea456f"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:39:22 GMT",
+        "display_value": "<b>Roland Winell</b>\nMotala\nÖstergötland\n\nBerättelsen är en del av skolinsamlingen Mitt hem från 1942, där 1742 barn runt om i Sverige skildrade sina hem och sina liv.\n<hr>",
+        "modified": "Tue, 03 Mar 2020 13:34:33 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "0bcc4830-b5be-4373-af4b-b46912e9bb4f"
+      }
+    ]
+  },
+  {
+    "archive_code": "00009",
+    "contributor": {
+      "display_name": "Nordiska museet"
+    },
+    "coordinates": "",
+    "created": "Tue, 25 Feb 2020 13:44:12 GMT",
+    "image_dms_id": "02349wCPdY7S",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "dms_id": "03349wCPdY7T",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "name": "IMG_9320.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "840199ac-3cc3-452e-a54c-af0894c7b956",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:43:39 GMT",
+        "dms_id": "02349wCPdY7S",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:39 GMT",
+        "name": "IMG_9321.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "ef70dd29-8d74-49f6-b0cf-f378db20c2ed",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "dms_id": "03349wCPdY7Z",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "name": "IMG_9322.JPG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "48624cff-974f-4553-a6a4-d39573458d85",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "dms_id": "03349wCPdY7U",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "name": "IMG_9323.JPG",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "a980f923-5114-4062-b90e-e8e36cfda5bc",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "dms_id": "02349wCPdY7V",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "name": "IMG_9324.JPG",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "a412a5e5-5aeb-42f1-ab54-02efba89321b",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "dms_id": "02349wCPdY7W",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "name": "IMG_9325.JPG",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "5c095c21-dc1e-4089-95b5-16bdd743998f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "dms_id": "02349wCPdY7Y",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:40 GMT",
+        "name": "IMG_9326.JPG",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "4ce538a1-ee81-4a8b-94a9-6fc95eecb769",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:43:41 GMT",
+        "dms_id": "03349wCPdY7a",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:41 GMT",
+        "name": "IMG_9328.JPG",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "0431e35e-a62e-4050-b2e4-f2d07a8d042e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:43:41 GMT",
+        "dms_id": "02349wCPdY7X",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 25 Feb 2020 13:43:41 GMT",
+        "name": "IMG_9329.JPG",
+        "order_by_number": 9,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "a082d963-c3cd-4263-acfe-3921698d7242"
+        },
+        "type": "image",
+        "uuid": "96f0cf64-d1e4-484f-b71b-eb8ac76188ad",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Tue, 03 Mar 2020 13:26:22 GMT",
+    "position": {
+      "latitude": 59.83333299999999,
+      "longitude": 12.8
+    },
+    "presentation_url": "https://minnen.se/tema/mittliv-1942/10609",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "En dag i mitt liv 1942",
+      "name_i18n": {
+        "sv": "En dag i mitt liv 1942"
+      },
+      "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc"
+    },
+    "uuid": "e5cf8358-015d-4e04-ac3b-18e86380de38",
+    "values": [
+      {
+        "created": "Tue, 25 Feb 2020 13:44:12 GMT",
+        "display_value": "<font size=6><b>\"I vår slutar jag skolan, och sedan får jag också hjälpa mamma\"</b></font size>\n\nMitt hem heter S:a Lungstorp och ligger i Lungsunds socken i Värmland. Huset är rödmålat och har vita knutar. Verandan vetter mot söder. Strax nedanför ligger en liten vacker insjö, där det blommar näckrosor om sommaren, och där åker jag skridskor om vintern. Sjön heter Lilla Lungen. Stora majestätiska granar ge skydd mot de bistra nordanvindarna. Huset har två våningar. I nedre våningen är det två rum och kök. I övre våningen finns bara ett rum, som användes till sovrum. Vatten- och slaskledningar finnas inte, ej heller värmeledning. I köket eldar vi i en stor vedspis. I köket har vi också ett bord som pappa har gjort, på kontoret står två fåtöljer och ett bord, som mamma fick på sin 50-årsdag.\n\nBok- och linneskåpet har en morbror till mig gjort. Min pappa är jordbrukare samt fjärdingsman, han har nu skött den tjänsten i femton år. Gården, som är en av de äldsta i Lungsund, tillhör Uddeholms AB. Min farmor föddes på gården den 23 maj 1856 och bodde där, tills hon den 21 augusti 1941 avled. Min fader föddes den 9 april 1888 och har hela sitt liv bott på gården. Redan före min farmoders födelse bodde hennes föräldrar där, men hur länge är icke bekant. Själva boningshuset brann ned till grunden år 1901, och blev då uppbygt på ett ställe en bit ifrån.  Bolaget som en gång döpte gårdarna för skogens skulle, intresserar sig föga för jordbruk. Vår gård blev separerad 1939, och under de fyrtio åren hade bara små separationer företagits. Det vore förstås bättre att pappa ägde gården, så att han fick betala allting själv, som skulle göras, så sluppe bolaget.\n\nBolaget har erbjudit pappa att köpa gården. Men de begär ett allt för högt pris för den, och därtill så lämnar bolaget så ytterst litet skogsmark, att det ej tillnärmelsevis räcker till bränsle. En del av skogsmarken är därtill bara impediment.  Vi ha sex kor, gris, höns och en häst. På vintern bär min bror timmer och träkol i skogarna. Pappa har mycket att göra som fjärdingsman. Mamma och min äldre syster måste därför sköta både hem och ladugård. I vår slutar jag skolan, och sedan får jag också hjälpa mamma.",
+        "modified": "Tue, 03 Mar 2020 13:26:22 GMT",
+        "topic_item": {
+          "label": "Barnet berättar:",
+          "label_i18n": {
+            "sv": "Barnet berättar:"
+          },
+          "type": "Textarea",
+          "uuid": "355da832-ec50-41eb-b847-b876d7e14797"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "edab60ec-2f2a-4eda-9a85-5cf32df3a6fd"
+      },
+      {
+        "created": "Tue, 25 Feb 2020 13:44:12 GMT",
+        "display_value": "<b>Birgit Fredriksson</b>\n12 år gammal\nBjurbäckens skola, Storfors\nVärmland\n\nBerättelsen är en del av skolinsamlingen Mitt hem från 1942, där 1742 barn runt om i Sverige skildrade sina hem och sina liv.\n<hr>",
+        "modified": "Tue, 25 Feb 2020 13:44:12 GMT",
+        "topic_item": {
+          "label": "Berättat av:",
+          "label_i18n": {
+            "sv": "Berättat av:"
+          },
+          "type": "Textarea",
+          "uuid": "2a6aeb2c-0c43-4197-9ff7-312b9991a4d5"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "f7ded694-528c-46cb-b43f-989fd1a09405"
+      }
+    ]
+  }
+]
