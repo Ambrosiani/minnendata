@@ -74,8 +74,8 @@ for (const topic of topics) {
         var ingressArray = [];
         var ageArray = [];
         if ('values' in item) {
-          ingressArray = values.filter(value => value.topic_item.label == "✏️ Berätta om en dag i ditt liv");
-          ageArray = values.filter(value => value.topic_item.label == "⏳ Hur gammal är du?");
+          ingressArray = values.filter(value => value.topic_item.label == topic.ingress);
+          ageArray = values.filter(value => value.topic_item.label == topic.age);
         }
         if(ingressArray.length == 0) {
           ingressArray = [{"display_value":""}];
