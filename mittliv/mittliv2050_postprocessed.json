@@ -12619,5 +12619,61 @@
         "uuid": "a6487bed-d326-489f-8a4d-52e9b6827e2b"
       }
     ]
+  },
+  {
+    "archive_code": "M1:4/00324",
+    "contributor": {
+      "display_name": "Isaac"
+    },
+    "created": "Wed, 23 Feb 2022 10:23:32 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 10:23:32 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18332",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "27c24039-8ca2-4f6b-a010-541042dddcd0",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 10:23:32 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 23 Feb 2022 10:23:32 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "7be63cd9-583b-4cf8-87ca-79234f01133a"
+      },
+      {
+        "created": "Wed, 23 Feb 2022 10:23:32 GMT",
+        "display_value": "Jag tror att världen kommer se mycket mer teknisk ut och att vi kommer att ha många nya uppfinningar. Jag tror även att koldioxidutsläppen kommer att ha minskat rejält. Dock tror jag inte att det kommer att finnas flygande bilar och sådant, men bilarna kanske kommer vara snabbar och mer miljövänliga. \n\nJag tror att mitt liv kommer se ut på det sättet att jag har en familj, ett eget hus och ett jobb. Jag tror nog inte att jag kommer att vara känd eller rik. Men jag kommer nog ha ungefär lika mycket pengar som snittat eller kanske lite under. Jag tror att jag kommer bo i en lägenhet eller i ett radhus. Jag tror att jag kommer jobba på någon form av kontor.",
+        "modified": "Wed, 23 Feb 2022 10:23:32 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "418a7139-13c7-4e01-ae4d-2208c49d36ba"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
   }
 ]

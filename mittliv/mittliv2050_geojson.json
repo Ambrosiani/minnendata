@@ -2320,6 +2320,22 @@
           64.161508
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att världen kommer se mycket mer teknisk ut och att vi kommer att ha många nya uppfinningar…",
+        "date": "23 februari 2022",
+        "author": "Isaac",
+        "url": "https://minnen.se/tema/mittliv2050/18332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }
