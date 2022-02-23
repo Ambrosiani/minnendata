@@ -15842,5 +15842,147 @@
       "latitude": 59.335045,
       "longitude": 18.289735
     }
+  },
+  {
+    "archive_code": "M1:3/00399",
+    "contributor": {
+      "display_name": "Hanna"
+    },
+    "created": "Wed, 23 Feb 2022 11:34:14 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:34:14 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18362",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "f77ce3cb-7fdb-4eef-9833-526625185de6",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:34:14 GMT",
+        "display_value": "2007",
+        "modified": "Wed, 23 Feb 2022 11:34:14 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "f102e848-646d-4bcb-8e4f-98d69c7d0737"
+      },
+      {
+        "created": "Wed, 23 Feb 2022 11:34:14 GMT",
+        "display_value": "Detta är tre viktiga personer i mitt liv:\n\nMamma: Min mamma är 49 år. Hon jobbar som specialpedagog och är utbildad i både svenska, idrott, musik, matematik och NO, så båda vi två lever ett skolliv. Det är skönt, eftersom hon kan hjälpa mig att plugga och har lov samtidigt som jag. Min mamma är, såklart enligt mig, den bästa och viktigaste personen i mitt liv. Hon gillar att läsa och göra tikva, som är en typ av yoga. Annars har hon fantasi, lekfullhet och nyfikenhet som ett litet barn. Vi har väldigt roligt tillsammans och eftersom jag inte har några syskon så är hon också som min vän och syster. Vi skrattar väldigt mycket, men hon har även hjälp mig igenom väldigt tuffa saker som anorexi, panikångest, ångest och en förfärlig stress över prov och skolan. Därför är det självklart att jag har med min fantastiska mamma.\n\nMorfar: Nu kommer något mer oväntat, nämligen min morfar. Så vad är det som får honom att platsa på den här listan? För det första hans personlighet. Min morfar har den bästa humorn och är en riktig skämtare. Men han är även väldigt förstående och lätt att prata med. Jag trodde aldrig att en 71-årig gubbe skulle bli en av de jag pratade mest om min psykiska ohälsa med. Vi båda spelar fiol, vilket totalt sex personer i min släkt gör. Jag kan inte säga att han är den bästa fiolspelaren, men han är väldigt bra på att hjälpa mig att bli bättre och lära ut. Morfar har väldigt mycket spring i benen och gör alltid något. Han gillar att jobba i trädgården, snickra, mecka med bilen, springa, åka skidor, cykla, göra korsord, läsa, baka, laga mat och mycket mer. Så som ni hör är inte min morfar en helt vanlig gammal gubbe.\n\nMin kusin Tyra: Tyra är min två år yngre kusin från Dalarna. Hon är väldigt speciell för mig, men självklart älskar jag alla mina kusiner. Som sagt har jag inga syskon, så när jag fick en liten tjejkusin var det precis som att ha fått en lillasyster. Efter en enorm saknad av ett syskon av hela min familj, kunde jag ta rollen som storasyster. Vi har hållit ihop hela tiden och lekt med varandra. Jag har bilder när jag är liten och leker sjuksköterska åt henne eller sitter med henne i mitt knä. Jag känner en brydd och beskyddande roll över henne och gör allt för att hon inte ska gå igenom samma saker som jag har gått igenom. Till exempel är jag väldigt tydlig med att förklara att betygen inte alls spelar någon som helst roll i sexan, för att hon inte ska gå igenom samma starka ångest som jag. Även hon spelar fiol och älskar att läsa. Syns ett mönster i min släkt? Tyra är besatt av Harry Potter och en rolig fakta är att hon har läst böckerna nio gånger! Sedan tycker hon även om bakning mycket och jag är helt säker på att hon kommer kunna få en fantastisk framtid i nästan vilken karriär som helst.",
+        "modified": "Wed, 23 Feb 2022 11:34:14 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "a88119d8-0794-428a-bd6f-aa867f00098f"
+      }
+    ]
+  },
+  {
+    "archive_code": "M1:3/00401",
+    "contributor": {
+      "display_name": "Sam"
+    },
+    "created": "Wed, 23 Feb 2022 11:36:46 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:36:46 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18365",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "61bb49ac-5752-41d4-87a5-d61a57c1f014",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:36:46 GMT",
+        "display_value": "2007",
+        "modified": "Wed, 23 Feb 2022 11:36:46 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "106d8297-5c16-4dc0-a7f4-3197b1cdebee"
+      },
+      {
+        "created": "Wed, 23 Feb 2022 11:36:46 GMT",
+        "display_value": "De tre personerna jag har valt är mina föräldrar och mina två kompisar Alfred och Elliot.\n\nMina föräldrar betyder väldigt mycket för mig eftersom att de är liksom mitt hem, det är där jag hör hemma. Utan mina föräldrar skulle jag såklart inte klara mig. Så mina föräldrar är ett väldigt stor del av mitt liv liksom. \n\nMina kompisar Elliot och Alfred (jag har massa fler men jag kunde bara välja två) är väldigt viktiga för mig eftersom att det är dem jag umgås med generellt. Man hänger med fler i skolan men på fritiden är det oftast vi som umgås både på internet och i verkligheten. De betyder mycket för mig eftersom de gör mig till den personen jag är när jag inte är hemma. De influerar mig med deras humor, beteende osv.\n\nJag bor ju med min familj så vi gör ju alla möjliga saker tillsammans. Äter mat, kollar på film osv... Men med mina kompisar däremot så gör jag andra saker som man gör i ett kompisgäng. Vi brukar hänga med varandra utomhus på sommaren, umgås på ett annat sätt liksom. Man har en roll hemma men en annan roll när man är med kompisar.",
+        "modified": "Wed, 23 Feb 2022 11:36:46 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "cb193238-f074-4843-b736-31d12813de29"
+      }
+    ]
+  },
+  {
+    "archive_code": "M1:3/00403",
+    "contributor": {
+      "display_name": "Filippa"
+    },
+    "created": "Wed, 23 Feb 2022 11:39:46 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:39:46 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18369",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "0f29cf71-9461-4675-8bf7-33638ad32c8a",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:39:46 GMT",
+        "display_value": "Tre viktiga personer i mitt liv\n\nMin syster är viktig för mig för att hon alltid finns där när jag behöver henne. Vi har mycket gemensamt och vi har alltid roligt tillsammans, hon är min bästa vän. \n\nMin mormor och jag har alltid varit jättenära varandra och hon känner mig väldigt bra. Det är alltid roligt att vara med henne. \n\nMin pappa är en viktig person för mig eftersom han förstår mig och jag kan prata med honom om det är något.",
+        "modified": "Wed, 23 Feb 2022 11:39:46 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "58aac828-90a4-460c-80cf-460ffe0e677a"
+      }
+    ]
   }
 ]

@@ -12675,5 +12675,199 @@
       "latitude": 59.335045,
       "longitude": 18.289735
     }
+  },
+  {
+    "archive_code": "M1:4/00326",
+    "contributor": {
+      "display_name": "Hanna"
+    },
+    "created": "Wed, 23 Feb 2022 11:32:20 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:32:20 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18361",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "d75143d1-dcf8-4919-bb35-78955cdd5e94",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:32:20 GMT",
+        "display_value": "2007",
+        "modified": "Wed, 23 Feb 2022 11:32:20 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "e1d4e55c-41ea-4390-aff7-f9fb7de89cbe"
+      },
+      {
+        "created": "Wed, 23 Feb 2022 11:32:20 GMT",
+        "display_value": "Jag vaknar upp av en väckningssignal i mitt chip. Folk har små chip som sensorer som går att placera på sidan av huvudet. Sedan visas en typ av VR skärm som man styr med hjärnan. Detta är väldigt modern teknik, då mobiltelefoner tog för mycket plats och inte var tillräckligt praktiska längre. Det var Apple som först lanserade dessa, sedan gick det ett tag men nu är det inte så många som endast har en mobiltelefon. När jag vaknade startade jag alarmen i mina två barns chip och hela familjen gick ut i köket för att äta frukost. Vi åt bröd med ett veganskt substitut till köttpålägg. Substitutet ersätter nästan allt kött och tillverkas i ett laboratorium. Efter miljösituationen blev sämre så gjordes äkta kött betydligt dyrare och mindre i utbud och ersattes istället med detta. \n          När vi ätit upp borstade vi tänderna och gjorde iordning oss för dagen. Mode är något som är väldigt hett. Det är extrema kläder i färg, form och stil och hår i alla möjliga uppsättningar och färger samt mycket smink och stora lösögonfransar. Förr skulle detta nog klassas som modelstil eller galenskap, men nu är det de flestas vardag. \n              Efter det tog jag kollektivtrafiken till jobbet. Nästan ingen har bilar längre som drivs av bensin eller diesel, utan alla har mer miljövänliga alternativ. Denna stora omställning var något som vände världen upp och ner när staten bestämde sig att bensinmackar inte längre fick sälja bensin och diesel.\n             Jag kom fram till min arbetsplats och började jobba. Jobbet inom politiken har varit mycket händelserikt och svårt på sistone och allt har effektiviserats med fler dataskärmar och mycket onlinemöten och andra online event som går att delta i samtidigt. Mycket sändningar från oss politiker pågår ständigt och sänds ut till alla människors chip där de har tillgång till all världens information. Vi är även ständigt kameraövervakade inom min arbetsbransch. Att upprätthålla demokratin har varit en svår kamp under de senaste åren, men med glädje kan jag säga att vi har lyckats! Just nu har vi vår tredje kvinnliga statsminister som styr landet, men partierna och valsystemet har förändrats en del sedan jag gick i skolan. Till exempel är Sverige numera en positiv parlamentarism, vilket innebär stora förändringar i val av budget med mera. Betygssystemet har även förändrats, då en väldigt tydlig koppling till och stigning av psykisk ohälsa och självmordsstatistiken kunde visas.\n                   Efter min jobbdag tog jag kollektivtrafiken hem. Min man gjorde detsamma och barnen hade redan kommit hem med en av de gratis självkörande taxibilarna som skolan har tillgång till. Jag tvingar ut dem att göra något nästan varje dag istället för att bara vara uppkopplade på sina chip. Jag vet att de måste se till att njuta av varenda sekund av deras barndom och ungdom, och jag som mamma måste göra detsamma innan de får egna liv och familjer. Men träning och de moderna träningscyklarna är väldigt populärt. De nya motionscyklarna har en skärm framför sig som gör att en film, video eller ett spel kan spelas upp samtidigt, i förutsättning att man fortsätter cykla. Det har gjort träning roligare och gett många motivationen. Men jag kommer aldrig låta mina barn få en ätstörning. De är väldigt vanliga, och jag har lovat mig själv över min döda kropp att jag ska skydda dem från att bli sjuka. Min man stöttar mig också i det och vet hur mycket ämnet betyder för mig.\n            Min man överraskade oss när middagen levererades. Det blev fyllda paprikor, en klassiker från när jag var liten. Beställning av mat är väldigt vanligt och det är få som faktiskt alltid lagar maten själva som de gjorde när jag var ung. Vi åt tillsammans och barnen berättade vad de hade gjort i skolan. Sedan började min man prata med dem och berätta roliga historier och i stunderna, som då, när vi skrattar så vi kiknar är jag säker på att jag har den bästa familjen. \n                     När vi var klara och barnen hade pluggat uppe i sina rum var det dags för mig att lägga mig. Jag la mig i sängen tillsammans med min make och tittade på vår väldiga bokhylla. Böcker av papper har hållit sig kvar, vilket jag är otroligt tacksam över. För på andra hyllan framför alla andra stod mina egna. Jag kämpar flitigt med bokskrivandet och har hållt på med det enda sedan jag var 14 år gammal. Men självklart är den mesta läsningen mer eller mindre digital. Jag ställde sedan in mitt chip på min vanliga väckningstid och somnade. 2050, vilket år.",
+        "modified": "Wed, 23 Feb 2022 11:32:20 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "3c6c8e11-698d-4875-be2a-a00bd606ec95"
+      }
+    ]
+  },
+  {
+    "archive_code": "M1:4/00328",
+    "contributor": {
+      "display_name": "Sam"
+    },
+    "created": "Wed, 23 Feb 2022 11:36:10 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:36:10 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18364",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "e75dca58-2396-4f99-92f2-af3cc43e9819",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:36:10 GMT",
+        "display_value": "2007",
+        "modified": "Wed, 23 Feb 2022 11:36:10 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "bbe509ac-9934-4b59-bac9-57240aca3f0b"
+      },
+      {
+        "created": "Wed, 23 Feb 2022 11:36:10 GMT",
+        "display_value": "Mitt liv 2050 \n\nJag vaknar på en vanlig vardag 2050.  Jag är går upp på morgonen och ser utsikten från Beverly hills.  Jag arbetar med investering och är min egna chef.  Jag tar min flygande bil  och flyger runt lite och landar hos en polare.  Jag arbetar därifrån och när jag vill sluta arbeta  för dagen gör jag det, så då hoppar jag och min polare in i min bil igen och flyger och gör vad vi vill. Sedan på kvällen flyger jag hem igen och går och lägger mig.\n\nJag tror att världen kommer ha flygande bilar, att den första människan har satt sin fot på Mars.  Jag tror att utvecklingen har kommit väldigt långt och att Elon Musk har kommit med nya världsrevolutionerande uppfinningar som gör det väldigt enkelt för oss människor att leva.\n\nJag tror att maten 2050 kommer vara ganska likadan som nu i 2022.  Mat har i alla tider varit ett fysiskt fenomen och jag tror inte att det finns genvägar för att får i sig mat (förutom närings sprutor och sånt)",
+        "modified": "Wed, 23 Feb 2022 11:36:10 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "6028887c-0daf-4dbd-950e-6611a90cbfae"
+      }
+    ]
+  },
+  {
+    "archive_code": "M1:4/00330",
+    "contributor": {
+      "display_name": "Filippa"
+    },
+    "created": "Wed, 23 Feb 2022 11:39:07 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:39:07 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18367",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "22c7b0c5-0ed8-41de-bb65-65acd6752667",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:39:07 GMT",
+        "display_value": "Mitt liv 2050\n\nJag vaknar upp i min fina lägenhet i Stockholm, klockan är runt 08.00 på morgonen. Det är en fin sommardag så jag fixar iordning mig inför att åka till jobbet. När jag har jobbat klart åker jag och äter en lunch. Sedan åker jag tillbaka till mitt jobb. Efter dagen var slut bestämmer jag mig för att åka och träna på gymmet. När jag var klar åker hem och börjar göra middag. När kvällen börjar ta slut fixar jag mig för natten och går och lägger mig för att kolla på film på min tv. \n\n2050 tror jag att corona fortfarande kommer finnas kvar men att den inte är så allvarlig och att man har vaccin eller hittar ett botemedel. Jag tror att många saker kommer att utvecklas och vi kommer komma på saker som kanske till exempel kan rädda klimatet.",
+        "modified": "Wed, 23 Feb 2022 11:39:07 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "fea6c1ab-8c4c-46fb-bc1e-258824925ee1"
+      }
+    ]
+  },
+  {
+    "archive_code": "M1:4/00332",
+    "contributor": {
+      "display_name": "Hugo"
+    },
+    "created": "Wed, 23 Feb 2022 11:40:50 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:40:50 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18370",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "002cef6c-9fbf-408a-b3d6-8bb9532ca536",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:40:50 GMT",
+        "display_value": "2007",
+        "modified": "Wed, 23 Feb 2022 11:40:50 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "995b33c1-f704-4596-9aa1-20e6b337fcb1"
+      },
+      {
+        "created": "Wed, 23 Feb 2022 11:40:50 GMT",
+        "display_value": "Klockan 7 på morgonen vaknar jag av mitt alarm och jag säger ut \"Siri, jag är vaken\", detta aktiverar min kaffe bryggare och ställer fram min färdiga frukost i yoghurt form. Efter frukost tar jag alla min 10 piller som ger mig allt jag behöver plus mer. Efter att jag har gjort mig färdig går jag till gymmet i mitt kvarter, jag gymmar ben i ungefär en timme sedan går jag hem och gör mig redo för jobbet. 08:45 går jag till kontoret och går sedan hem klockan 1 för att fortsätta mitt skift hemma. 17:00 är jag färdig med jobbet och jaggår på en promenad med mina hundar. Jag gör inget speciellt resten av dagen, jag äter, spelar, tittar på tv och håller mina hundar sällskap. Klockan 11 lägger jag mig i sängen med mina hundar och det är läggdags.",
+        "modified": "Wed, 23 Feb 2022 11:40:50 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "afe52914-e537-4d2e-b24c-732818f02e29"
+      }
+    ]
   }
 ]
