@@ -83,11 +83,9 @@ for (const topic of topics) {
         if(ageArray.length == 0) {
           ageArray = [{"display_value":"0"}];
         }
-        if(parseInt(createdDate.getFullYear(), 10) - parseInt(ageArray[0].display_value, 10) > 15) {
-          const ingress = ingressArray[0].display_value.substring(0,100) + "…";
-          var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(6)), parseFloat(item.position.latitude.toFixed(6)) ] } };
-          geoJson.features.push(geoJsonFeature);
-        }
+        const ingress = ingressArray[0].display_value.substring(0,100) + "…";
+        var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(6)), parseFloat(item.position.latitude.toFixed(6)) ] } };
+        geoJson.features.push(geoJsonFeature);
       }
     }
 
