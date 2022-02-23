@@ -4,10 +4,218 @@
     {
       "type": "Feature",
       "properties": {
+        "ingress": "Dom personerna som är viktigast för mig är mamma och pappa, för annars skulle inte jag finnas. Min l…",
+        "date": "18 maj 2020",
+        "author": "Hilma",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "1. Alva hon är min bästa vän och vi har känt varann ända sen vi var typ 0.  Det är något magiskt med…",
+        "date": "18 maj 2020",
+        "author": "Line",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "1. Min farmor Ann-Charlotte. Är väldigt viktig för mig för hon är min största förebild.\nHon är min f…",
+        "date": "18 maj 2020",
+        "author": "Thea",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "1. Malte är min, inte enda men en av mina bästa kompisar.\nHan är rolig, bra på minecraft och  ja en …",
+        "date": "18 maj 2020",
+        "author": "Harry",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma och pappa och min farmor och farfar. Dem är väldigt viktiga för mig för jag träffar mina farmo…",
+        "date": "18 maj 2020",
+        "author": "Alva ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Harry,Hugo,Elias\ndom är roliga och snela och mina bästa vener \nnär vi är med varandra leker vi och p…",
+        "date": "18 maj 2020",
+        "author": "Malte",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "de är mamma pappa Hanna och Sofia. mamma och pappa betyder mycket för mej för dom är hemma när man b…",
+        "date": "18 maj 2020",
+        "author": "Sally",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Charlie är en kompis till mig som bor någonstans i Uppsala och jag träffade henne på USS klubbholme …",
+        "date": "18 maj 2020",
+        "author": "Nora",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mathilda, Nora och Alva. De är mina bästa vänner och de gör så att jag känner mig trygg. Mathilda ha…",
+        "date": "18 maj 2020",
+        "author": "Elsa",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag ska berätta om min kompis Mathilda, min kompis Hanna och min kompis Anna.\nVi börjar med Mathilda…",
+        "date": "18 maj 2020",
+        "author": "Alva",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "ingress": "Det här är tre personer som betyder mycket för mig:\n1. Min lillasyster Selma. Selma har ett kromosom…",
         "date": "18 maj 2020",
         "author": "Lisa",
         "url": "https://minnen.se/tema/manniskornaimittliv/14300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mormor\nFör hon är viktig för mig och hon är snäll. Vi brukar titta på alla hennes porslinsgrodor och…",
+        "date": "18 maj 2020",
+        "author": "Mathilda",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I mitt liv har jag många viktiga personer men de viktigaste är min lillasyster Karin, min lillasyste…",
+        "date": "18 maj 2020",
+        "author": "Ellen ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina föräldrar. De är viktiga för att jag kan prata med de ifall jag behöver! Om de skulle finnas så…",
+        "date": "18 maj 2020",
+        "author": "Ida ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14310"
       },
       "geometry": {
         "type": "Point",
@@ -52,6 +260,326 @@
     {
       "type": "Feature",
       "properties": {
+        "ingress": "Det är min mamma, pappa och min lillasyster. Mamma är snäll och hjälpsam samma med pappa men dem kan…",
+        "date": "18 maj 2020",
+        "author": "Felicia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Felicia min kompis, Felicia ståt upp för alla och är en snäll och bra kompis. Selma är min kompis, h…",
+        "date": "18 maj 2020",
+        "author": "Alva",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Alla mina kompisar och min familj. De betyder jätte mycket.…",
+        "date": "18 maj 2020",
+        "author": "Ella ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685829,
+          59.817236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Vänner och familj betyder allt för mig. Men mina föräldrar har gjort så mycket för mig och jag älska…",
+        "date": "24 maj 2020",
+        "author": "Signe",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.202489,
+          59.311204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det finns väldigt många i mitt liv som är viktiga men jag väljer att berätta om min bästa vän, mamma…",
+        "date": "24 maj 2020",
+        "author": "Ella",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.202489,
+          59.311204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det fins många personer som är viktiga i mitt liv .Jag bäretta om 3 styckna. Det är Molly hon är min…",
+        "date": "4 juni 2020",
+        "author": "Malva",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma, pappa, Kevin, farmor, farfar, faster, fasters man och min söta kusin…",
+        "date": "4 juni 2020",
+        "author": "Wilda",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Pappa för att han lär mig och låter mig ha kul. Och min mamma för att hon lär mig. Och min bästa vän…",
+        "date": "4 juni 2020",
+        "author": "Vilma",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma,pappa,min tvilling. För att dom är min familj och dom är de mesta jag \nMin pappa heter Bur…",
+        "date": "8 juni 2020",
+        "author": "Defne",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej jag heter Nander och idag ska jag berätta om tre personer som är viktiga i mitt liv. Bara så att…",
+        "date": "8 juni 2020",
+        "author": "Nander",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma är viktig person för mej  för mamma är en snäll och omtänksam person och bryr sig om  hela fam…",
+        "date": "8 juni 2020",
+        "author": "Linus",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Idag har ska jag berätta om tre personer som är jätteviktiga för mig jag kan börja med min moster ho…",
+        "date": "8 juni 2020",
+        "author": "Lovisa",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej! jag ska berätta om min Mamma,Pappa och min lillasyster okej jag har en lillasyster som heter Bi…",
+        "date": "8 juni 2020",
+        "author": "Elliot ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Pappa, pappa  är viktig för mig för han ger mig ett bättre liv och  han hjälper mig när jag behöver …",
+        "date": "8 juni 2020",
+        "author": "Lukas ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Minna bästa kompisar.\nDom heter Axel Casper och Lukas.\nDom betyder väldigt mycket för att dom är min…",
+        "date": "8 juni 2020",
+        "author": "Zack ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "DE TRE BÄSTA!\n\nJag heter Engla och jag tänkte berätta om dem tre närmsta personerna i mitt liv. \n\nDe…",
+        "date": "8 juni 2020",
+        "author": "Engla ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Dem tre viktiga i mitt liv är min lillasyster Celine, min bästa vän Stella och min mamma. Jag valde …",
+        "date": "8 juni 2020",
+        "author": "Alicia ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag heter Lova Sjöstedt och jag hade tänkt berätta om mina tre livsviktiga personer. De personerna ä…",
+        "date": "8 juni 2020",
+        "author": "Lova ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Pappa är en av de viktigaste i mitt liv då han alltid finns där för mig och lyssnar på mig. \nHan lär…",
+        "date": "8 juni 2020",
+        "author": "Molly",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma, min pappa och min syster är tre  viktiga personer i mitt liv.\nMin mamma är bra på att lag…",
+        "date": "8 juni 2020",
+        "author": "Pontus",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "ingress": "Jag ska berätta om tre personer och dom är.... Min favorit kusin, min snällaste kompis och min lille…",
         "date": "9 juni 2020",
         "author": "Miriam",
@@ -62,6 +590,454 @@
         "coordinates": [
           18.0697,
           59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jamie,Alva och pappa.\nJamie är min mamma.\nHon är viktig för mig när jag blev mobbad på min förra sko…",
+        "date": "9 juni 2020",
+        "author": "Kaja",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Farmor är viktig för mig hon var jätte glad och snäll sen så kom ett nytt virus som spred sig snabbt…",
+        "date": "9 juni 2020",
+        "author": "Camilo",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma är viktig för mig på grund av att hon är så snäll till mig.En annan person som är viktig f…",
+        "date": "9 juni 2020",
+        "author": "Ruby",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14962"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "jag ska berätta om Min Mamma Pappa och Charlie min hund.  Min mamma heter Karolina  och hon är 43 år…",
+        "date": "9 juni 2020",
+        "author": "Nikki",
+        "url": "https://minnen.se/tema/manniskornaimittliv/14964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vill berätta om min Pappa, Mamma, Och min twilling: Defne Çèlik\n\nMina föräldrar/tvilling (som ja…",
+        "date": "11 juni 2020",
+        "author": "Aras",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "De tre viktigaste personerna i mitt liv är min mamma, pappa och lillasyster Vida Min mamma är jättes…",
+        "date": "11 juni 2020",
+        "author": "Caspian",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma och pappa och min BFF \n\nVilma: jag  och hon leaker hella Tilden.\n\nMamma: jag älskar min ma…",
+        "date": "11 juni 2020",
+        "author": "Lilly",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Viktiga människor i mitt liv\n\nEn viktig människa i mitt liv är min Farmor. Hon betyder väldigt mycke…",
+        "date": "11 juni 2020",
+        "author": "Arvid",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina viktigaste personerna I mitt liv är min pappa  för att han jobbar väldigt hårt och han vill att…",
+        "date": "11 juni 2020",
+        "author": "Victor",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej!\nNu ska jag berätta om personer som är viktiga för mig.\n\nPappa: min pappa är viktig för mig för …",
+        "date": "11 juni 2020",
+        "author": "Hilda",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En viktig person för mig är min mamma. Hon är jätte snäll och är alltid där för mig. Jag älskar min …",
+        "date": "11 juni 2020",
+        "author": "Rose",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej barn och vuxna! \nJag heter Samuel och ska berätta om viktiga människor i mitt liv.\nPerson 1: Pap…",
+        "date": "11 juni 2020",
+        "author": "Samuel",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag kan inte välja. Vi är 5 i familjen. Jag gillar mina föreldrar, bröder, mormor, morfar, farfar, f…",
+        "date": "11 juni 2020",
+        "author": "Tindra",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker om min mamma, hon är viktig för mig för att hon är alltid snäll mot mig.  När vi är tills…",
+        "date": "11 juni 2020",
+        "author": "Abigail",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "1: Min pappa som leker med mig när jag vill leka med någon. Han hjälper mig när han vet att jag behö…",
+        "date": "11 juni 2020",
+        "author": "Noé",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag heter Lykke och ska berätta om tre viktiga personer i mitt liv. En av dom är mamma.\nMamma betyde…",
+        "date": "11 juni 2020",
+        "author": "Lykke",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min Kompis Malin är en jätte bra person.Hon är alltid där för mig och hon är jätte rolig det är hon …",
+        "date": "11 juni 2020",
+        "author": "Sarah",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hem jag heter Adrian och jag ska visa mina kompisar och Vilka de är vad de betyder för mig. Och\n Vad…",
+        "date": "11 juni 2020",
+        "author": "Adrian",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0697,
+          59.323293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Där hemma träffar jag min Mamma (42), Pappa (49), Shadi (8), Melissa (10) och Mayar (3). I skolan tr…",
+        "date": "12 juni 2020",
+        "author": "Sara",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv - människor omkring mig\n\nVilka är de?\nMin familj är en av de saker som jag gillar mest och …",
+        "date": "12 juni 2020",
+        "author": "Eric",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I min familj är det min mamma Jeanette,min pappa Pierre,min syster Atilia hon gillar att hoppa själv…",
+        "date": "12 juni 2020",
+        "author": "Vince ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I mitt liv så träffar jag min mamma Aranzazu,pappa Fernando,storebror Javier och min lillasyster Ast…",
+        "date": "12 juni 2020",
+        "author": "Sofia ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "På ridningen brukar jag träffa Frida, Klara och Elin.\nPå hanbolls träningar och matcher träffar jag …",
+        "date": "12 juni 2020",
+        "author": "Ebba",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I skolan träffar jag Eric, Simon, Elias, Jonathan, Alvin och Axel, vi brukar spela king på rasterna …",
+        "date": "12 juni 2020",
+        "author": "Emil",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har en familj och det är min pappa,mamma,lillasyster och min katt.Jag cyklar till skolan.\nMin pa…",
+        "date": "12 juni 2020",
+        "author": "Jonathan",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "När jag är i skolan så träffar jag väldigt många vänner en av mina bästa vänner heter Simon och han …",
+        "date": "12 juni 2020",
+        "author": "Elias",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är min familj som är omkring mig och mina kompisar.\n \nMin pappa heter Nickolaj(42 år) , min mamm…",
+        "date": "12 juni 2020",
+        "author": "Jonathan",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I skolan träffar jag Astrid hon är 10 år snart 11. Hon är vig och ganska lång. Hennes hår är blont, …",
+        "date": "12 juni 2020",
+        "author": "Elsa",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
         ]
       }
     },
@@ -100,10 +1076,778 @@
     {
       "type": "Feature",
       "properties": {
+        "ingress": "I skolan brukar jag träffa Eric, Emil, Simon, Elias, Jonathan S och Alvin. Eric han är väldigt snäll…",
+        "date": "12 juni 2020",
+        "author": "Axel",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.935085,
+          55.525441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Abbe min kompis i Sverige.\n\nEj Abbe vi hängde varje dag,\nvi skrattade hela tiden och var så himla  b…",
+        "date": "12 juni 2020",
+        "author": "Gustav",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.62478,
+          39.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Karolina Hellman min mamma, \n\nMin mamma har hjälpt mig i hela mitt liv.\nDet är väldigt roligt att va…",
+        "date": "12 juni 2020",
+        "author": "Olle",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.62478,
+          39.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Ludvig- Min bästa kompis i Sverige.\n\nLudvig betyder  jättemycket för mig. Han är jättesnäll och han …",
+        "date": "12 juni 2020",
+        "author": "Elis",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.62478,
+          39.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Nils \nMed min kompis Nils brukar jag spela Fortnite med och vi brukar vara hemma hos varandra och ib…",
+        "date": "12 juni 2020",
+        "author": "Oscar",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.62478,
+          39.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina tre viktigaste personer är min bror, mamma och pappa. \n\nMin bror är världens bästa och ställer …",
+        "date": "15 juni 2020",
+        "author": "Julia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.997047,
+          58.541031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma, Pappa, mina syskon och alla mina kompisar från både Motala och Stockholm. Mina tjejkompisar i…",
+        "date": "15 juni 2020",
+        "author": "Matilda",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.997047,
+          58.541031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min pappa är 54 år och jobbar som ingenjör. Han är mycket snäll och rolig och har lekt mycket mig nä…",
+        "date": "15 juni 2020",
+        "author": "David",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En av de viktigaste personerna i mitt liv är min mamma och hon betyder super mycket för mig och hon …",
+        "date": "15 juni 2020",
+        "author": "Tilde",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är väldigt svår att välja just tre personer, och jag har en hund som familjemedlem som är väldig…",
+        "date": "15 juni 2020",
+        "author": "Emilia ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma, pappa och min storebror Oskar…",
+        "date": "15 juni 2020",
+        "author": "Johan",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma, pappa och min brorsa. Min mamma är viktig i mitt liv för hon lagar mat, tvättar mina kläd…",
+        "date": "15 juni 2020",
+        "author": "Noa",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma, min pappa och min lillasyster är tre viktiga personer i mitt liv.\n\nMin mamma heter Camill…",
+        "date": "15 juni 2020",
+        "author": "Elin ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma pappa och storebror.\n\nMin pappa jobbar på export musik Sweden. Han är 48 år gammal och gil…",
+        "date": "15 juni 2020",
+        "author": "Vidar",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Den första personen som är väldigt viktig i mitt liv är min pappa. Han heter Håkan och älskar att ly…",
+        "date": "15 juni 2020",
+        "author": "Theodor",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\n\nJag heter Joseph Ash och är 12 år gammal Jag bor i Köpingero som är en liten…",
+        "date": "16 juni 2020",
+        "author": "Joseph",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\n\nHej, jag är tillbaka fast nu ska jag berätta om människorna i mitt liv. Dom …",
+        "date": "16 juni 2020",
+        "author": "Ellen",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\n\nNu vill jag berätta vem som är viktiga i mitt liv och det är min underbara m…",
+        "date": "16 juni 2020",
+        "author": "Lowe",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är min Mamma Cathrine och mina två bästa kompisar Jenny och Aprilia.…",
+        "date": "16 juni 2020",
+        "author": "Elice",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Se PDF nedan…",
+        "date": "16 juni 2020",
+        "author": "Evelina",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människor i mitt liv\n\nIdag ska jag skriva om tre personer i mitt liv. Det är mina bästa vänner Mira,…",
+        "date": "16 juni 2020",
+        "author": "Maja",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma, pappa, Kevin och Kavin är i mitt liv.\nMin mamma är 30 år och heter Hozan. Min pappa är 33…",
+        "date": "16 juni 2020",
+        "author": "Karwan",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53767,
+          56.635245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Minn familj betyder allt för mig. För att när man är ledsen så stötar dom mig. Vi brukar spela säll …",
+        "date": "16 juni 2020",
+        "author": "Leon",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53767,
+          56.635245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma, min pappa och min bror.…",
+        "date": "16 juni 2020",
+        "author": "Benjamin",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53767,
+          56.635245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "mamma och pappa och min lilla bror.…",
+        "date": "16 juni 2020",
+        "author": "Abdalrahman Abdo",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53767,
+          56.635245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Pappa\n\nMin pappa är snäll han hjälper mig när jag behöver det. t.e.x han har hjälpt mig att slå reko…",
+        "date": "16 juni 2020",
+        "author": "Nova",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.62478,
+          39.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "min familj…",
+        "date": "16 juni 2020",
+        "author": "Bissan",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53767,
+          56.635245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "De viktigaste i mitt liv är min hund för han är stor och rolig och jättesöt. Sen är det Hugo och Rob…",
+        "date": "16 juni 2020",
+        "author": "Hampus",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53767,
+          56.635245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma,pappa och min lilla syster.…",
+        "date": "16 juni 2020",
+        "author": "Kian",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190734,
+          59.194519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma,pappa och min storbror. De är viktiga därför min mamma,pappa och min storbror…",
+        "date": "16 juni 2020",
+        "author": "Karim",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53767,
+          56.635245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det ör omöjligt att bara välja tre! Min släkt ,min familj och mina vänner betyder allt och lite till…",
+        "date": "16 juni 2020",
+        "author": "Josefine ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina föräldrar är jätteviktiga för mig. De tar hand om mig, hjälper mig, är snälla mot mig, de lär m…",
+        "date": "16 juni 2020",
+        "author": "Dante ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "1. Otto, min lillebror. Han är 10 (3 år yngre än mig) han är både rolig och jobbig men oftast rolig …",
+        "date": "16 juni 2020",
+        "author": "Ebba",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Alla i mitt liv, från släkt och familj till mina vänner, betyder såklart mycket för mig och är en st…",
+        "date": "16 juni 2020",
+        "author": "Olivia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.961486,
+          59.249218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv \n\n\n\nDom människor i mitt liv som betyder mycket och är nära mig är mina tre b…",
+        "date": "16 juni 2020",
+        "author": "Henrik",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina närmaste är min mamma, min pappa, min bästa kompis och min kusin. \nDom här personerna är väldig…",
+        "date": "16 juni 2020",
+        "author": "Aprilia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i Mitt liv\nJag ska skriva om tre personer i mitt liv som jag gillar väldigt mycket. Jag …",
+        "date": "16 juni 2020",
+        "author": "Hannes",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv del 3\nViktiga personer\nNu ska jag berätta om viktiga personer i mitt liv.\nMin första viktig…",
+        "date": "16 juni 2020",
+        "author": "Erik",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma heter Erika och är 39 år gammal. Min mamma är född den 16 juli år 1980. Min mamma föddes p…",
+        "date": "16 juni 2020",
+        "author": "Hanelle",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "människorna i mitt liv\nJag ska skriva om dessa tre tjejer.\n\n\n\n\nDen tjejen med röda skor som står upp…",
+        "date": "16 juni 2020",
+        "author": "Julia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människor i mitt liv.\n\nDem personerna jag ska skriva om är 1. min farfar 2. morfar 3. pappa\n\nför att…",
+        "date": "16 juni 2020",
+        "author": "Sixten",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "ingress": "…",
         "date": "16 juni 2020",
         "author": "Emil",
         "url": "https://minnen.se/tema/manniskornaimittliv/15509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\nHej jag heter Adam Nelsson och jag är 12 år och ska berätta om personer i mit…",
+        "date": "16 juni 2020",
+        "author": "Adam",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "16 juni 2020",
+        "author": "Isak",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina viktigaste människor i mitt liv är min mamma, min pappa och min bror Jonathan, även kallad Jont…",
+        "date": "16 juni 2020",
+        "author": "Josefine",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina Bästa Vänner\n\nJag ska berätta om mina bästa kompisar. Jag har många vänner men jag tänkte nämna…",
+        "date": "16 juni 2020",
+        "author": "Selma",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "De personerna jag vill skriva om och som betyder mycket för mig är Hugo, Morfar och \nMax. \n\nDen förs…",
+        "date": "16 juni 2020",
+        "author": "Otto",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\n\n\nI mitt liv finns det många som jag tycker är viktiga men jag har valt dessa…",
+        "date": "16 juni 2020",
+        "author": "Hjalmar",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Dem personerna som jag ska skriva om är min mamma Lotta, min pappa Mikael och min storebror Adrian. …",
+        "date": "16 juni 2020",
+        "author": "Algot",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15539"
       },
       "geometry": {
         "type": "Point",
@@ -126,6 +1870,918 @@
         "coordinates": [
           13.932042,
           55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv del 3\n\nDe tre viktigaste personerna i mitt liv är min lillasyster Wera, min mamma Jenny och…",
+        "date": "16 juni 2020",
+        "author": "Leo",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människor i mitt liv.\n\n\n\n\nJag ska berätta om tre personer som jag tycker mycket om i mitt liv. Den f…",
+        "date": "16 juni 2020",
+        "author": "Jenning",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\n\nDe tre viktigaste personerna i mitt liv är Selma, Maja och Nova. Det har all…",
+        "date": "16 juni 2020",
+        "author": "Mira",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Flera pesonerna i mitt liv är viktiga som vänner, släkt, familj, grannar. Jag kommer att skriva olik…",
+        "date": "16 juni 2020",
+        "author": "Huda",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\n\nMin mamma Annika betyder allt för mig för att hon hjälper mig med mitt liv h…",
+        "date": "16 juni 2020",
+        "author": "Neo ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Han heter Wilmer och är 12 år som jag. Wilmer är viktig för mig för att vi är ofta med varandra och …",
+        "date": "16 juni 2020",
+        "author": "Edvin",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932042,
+          55.456449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har väldigt många viktiga människor i mitt liv t ex är min familj väldigt viktig för mig, men de…",
+        "date": "17 juni 2020",
+        "author": "Nora",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.202489,
+          59.311204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tre viktiga personer i mitt liv, Penny, Mamma och Pappa. \n\nPenny\nPenny är min bästis. Hon betyder my…",
+        "date": "24 juni 2020",
+        "author": "Lova",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.509304,
+          59.647418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har många viktiga personer i mitt liv men jag har valt att berätta om tre av mina bästa vänner, …",
+        "date": "9 augusti 2020",
+        "author": "Matilda",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.193638,
+          55.717799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har massor med personer som är viktiga i mitt liv. Det är mina familjer och vänner. Så klart så …",
+        "date": "9 augusti 2020",
+        "author": "Sofia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.193638,
+          55.717799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min storasyster är jätteviktig för mig. Hon var typ som en bästa vän till mig även om det är 6 års s…",
+        "date": "9 augusti 2020",
+        "author": "Shainesse",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.193638,
+          55.717799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det finns väldigt många personer som är viktiga för mig. En av dem är min simkompis som heter Astrid…",
+        "date": "9 augusti 2020",
+        "author": "Hao",
+        "url": "https://minnen.se/tema/manniskornaimittliv/15818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.193638,
+          55.717799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej! jag heter lova och jag hade tänkt att berätta om några utav mina viktiga personer i mitt liv oc…",
+        "date": "15 december 2020",
+        "author": "Lova ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.811254,
+          61.13303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma - har skapat mig. Mammor är viktiga för oss barn. Vi gosar, tittar på film och shoppar. \nPappa…",
+        "date": "10 februari 2021",
+        "author": "Sophia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.093793,
+          59.43043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Eddy min bror. Han är mysig och irriterande. Han tycker om att leka med mig, bygga lego, titta på tv…",
+        "date": "10 februari 2021",
+        "author": "Chloe",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.093793,
+          59.43043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "10 februari 2021",
+        "author": "Jakob ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.093793,
+          59.43043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina föräldrar \nMin lillasyster \nHamstern…",
+        "date": "10 februari 2021",
+        "author": "Edwin",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.093793,
+          59.43043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej jag heter Malak. Jag har tre viktiga personer i mitt liv som jag ska berätta om. Den första är m…",
+        "date": "18 februari 2021",
+        "author": "Malak",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16463"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har intervjuat tre generationer i min släkt. Min mamma, min mormor och min gammelmormor.\n\nVilket…",
+        "date": "18 februari 2021",
+        "author": "Gunnar",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Intervju Mamma.\nJag: När födes du? Mamma: 1980. Jag: Var växte du upp? Mamma: I Staffanstorp. Jag: V…",
+        "date": "18 februari 2021",
+        "author": "Rasmus",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Intervjufrågor till min mamma, pappa och mormor\n\nPappas frågor\n\n1.   På vilket land var din skola?\n …",
+        "date": "18 februari 2021",
+        "author": "Yazan ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag berättar om min mamma.\nMin mamma är född 1972 och hon gillade skolan för hon tyckte det var roli…",
+        "date": "18 februari 2021",
+        "author": "Charlie",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Anders är min morfar och han är född i Hälsingland i en by som heter Mo. Han föddes 1954. Han bodde …",
+        "date": "18 februari 2021",
+        "author": "Ville",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Intervjufrågor        \n\n   1. Var föddes du/när föddes du?\n    2.Var växte upp/ hur var din uppväxt?…",
+        "date": "18 februari 2021",
+        "author": "Ava",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "MAMMA 1 Hur levde man på den tiden på den landet/staden? Då levde man mycket enklare, det var inga m…",
+        "date": "18 februari 2021",
+        "author": "Alexandar",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Nu ska jag skriva om hur det var för min pappa när han var. \n\nFörsta intervjufråga är: Hur var det i…",
+        "date": "18 februari 2021",
+        "author": "Athanasios",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har jätte många personer som är viktiga i mitt liv. Men dom som är viktigast är min släkt och mi…",
+        "date": "18 februari 2021",
+        "author": "Ruaa",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Dom 2 viktigaste personer i mitt liv är min mamma Ines och min pappa Elvin.\n\nMina intervjufrågor\n\n1.…",
+        "date": "18 februari 2021",
+        "author": "Ella",
+        "url": "https://minnen.se/tema/manniskornaimittliv/16517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022612,
+          55.603161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma min pappa och min bror. För att vi är en familj och vi gör saker tillsammans\nsom att titta…",
+        "date": "21 juni 2021",
+        "author": "Filip",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mormor heter Anette Marjeta är viktig. Hon gör bra massage och är snäll.\nMin farmor heter Inger …",
+        "date": "21 juni 2021",
+        "author": "Albin",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma och pappa är dom personer som är viktiga mig. \n\nJag och min pappa brukar åka min gummibåt …",
+        "date": "21 juni 2021",
+        "author": "David",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "mina kusiner Lilly, Elvira, och Alvar .Alvar är 10 år Lilly 8 år Elvira 6 år  jag är 9 år. vi älskar…",
+        "date": "21 juni 2021",
+        "author": "Nova-Li",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma och pappa och min kompis Nils.  \nmamma och pappa är viktiga  för  att vi kan hitta på roliga s…",
+        "date": "21 juni 2021",
+        "author": "Jack",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma och pappa är viktiga i mitt liv. Med min pappa så brukar vi åka båt jag sitter bakom i en …",
+        "date": "21 juni 2021",
+        "author": "Alexa",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "De personerna som är viktigast i mitt liv är min Mamma, Pappa och min lillebror Albin.\n Dem betyder …",
+        "date": "21 juni 2021",
+        "author": "Ella",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "min mamma, pappa och min kompis Moa är tre personer som är viktiga i mitt liv dom betyder allt för m…",
+        "date": "21 juni 2021",
+        "author": "Frida",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina syskon Ebba, Elsa, Och Melissa. Elsa har brunt hår och blåa ögon och hennes favorit färg är gul…",
+        "date": "21 juni 2021",
+        "author": "Ellen E.",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma min pappa och min storebror.\nMamma och pappa är viktiga för att annars hade jag inte funni…",
+        "date": "21 juni 2021",
+        "author": "Selma",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina två bästa vänner Lisa och Selma. Och min farmor.\nJag brukar baka, pyssla och tälja med farmor.\n…",
+        "date": "21 juni 2021",
+        "author": "Ida",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma Kristin, min pappa Thomas, min ibland jobbiga syster Olivia.\nMamma och pappa är viktiga fö…",
+        "date": "21 juni 2021",
+        "author": "Lisa",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tre viktiga personer i mitt liv är mamma, pappa och Moa. Moa är min syster hon är ofta snäll men ibl…",
+        "date": "21 juni 2021",
+        "author": "Anton",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "De personerna som är viktiga i mitt liv är mamma ,pappa och Adam de är viktiga för mig för att de ti…",
+        "date": "21 juni 2021",
+        "author": "Alice",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "1. Min pappa. 2. Min mamma. 3. Min syster Isabelle.   Vi börjar med min pappa: Min pappa kan vara st…",
+        "date": "21 juni 2021",
+        "author": "Viggo",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Dom tre personerna som är viktigaste för mig är: Min mamma pappa och min syster. Det som är så vikti…",
+        "date": "21 juni 2021",
+        "author": "Ella",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma är viktig för mig för hon gör saker med mig, Albin han kan man alltid lita på och min papp…",
+        "date": "21 juni 2021",
+        "author": "Dino",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "De personerna som är viktiga för mig är mamma och pappa. Mamma och pappa är viktiga för mig för att …",
+        "date": "21 juni 2021",
+        "author": "Aliah",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "De som är viktiga i mitt liv är min mamma, pappa och Ella.B. För jag kan spela med Ella i fall om ja…",
+        "date": "21 juni 2021",
+        "author": "Thea",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "mamma Camilla är 42 år och jobbar med att göra manualer tydliga. Hon tycker om att \npappa Mark är 46…",
+        "date": "21 juni 2021",
+        "author": "Scott",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.563427,
+          60.474016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma för att hon köper alla saker jag vill ha, hon är snäll också. \n\nPappa för att han kan man spel…",
+        "date": "10 november 2021",
+        "author": "Oliver",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.017662,
+          58.734236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "min familj först sen mina fröknar och sist mina bästa vänner…",
+        "date": "10 november 2021",
+        "author": "Samar",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.017662,
+          58.734236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma Bo för att hon städar och lagar all min mat och stötar mig i vått och torrt. Mamma Bo  är 34 å…",
+        "date": "10 november 2021",
+        "author": "Oscar W",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.017662,
+          58.734236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej jag tänkte berätta om 3 viktiga människor i mitt liv.  Först så är de min mamma för att jag älsk…",
+        "date": "10 november 2021",
+        "author": "Nora",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.017662,
+          58.734236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag börjar med min mamma hon har varit med mig hela mitt liv och hjälpt mig gå igenom saker i livet …",
+        "date": "10 november 2021",
+        "author": "Karin",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.017662,
+          58.734236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människor i mitt liv:\n\nDe tre personerna jag ska prata om är min pappa , min mamma och min kompis Sa…",
+        "date": "17 januari 2022",
+        "author": "Olivia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människor i mitt liv:\n\nDe tre personerna jag ska prata om är min pappa , min mamma och min kompis Sa…",
+        "date": "17 januari 2022",
+        "author": "Olivia",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma: Hon är min mamma och är den bästa mamman i hela världen, vi pratar, leker, tar foto tills…",
+        "date": "17 januari 2022",
+        "author": "Darcel",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I mitt liv finns det :\n-Min familj: dem gör allt för mig dem hjälper mig till och med att göra läxan…",
+        "date": "17 januari 2022",
+        "author": "Svea",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
         ]
       }
     },
@@ -180,6 +2836,38 @@
     {
       "type": "Feature",
       "properties": {
+        "ingress": "Maja:\n\nMaja är min bästa vän. Hon bor just nu i Chicago, men innan dess bodde hon i Sverige. Vi träf…",
+        "date": "17 januari 2022",
+        "author": "Viana",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "17 januari 2022",
+        "author": "Erik",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "ingress": "…",
         "date": "17 januari 2022",
         "author": "Maja ",
@@ -190,6 +2878,102 @@
         "coordinates": [
           2.062212,
           48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "17 januari 2022",
+        "author": "Sofia ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Några människor i mitt liv är min mamma, min pappa och mina syskon. Jag föddes därför min mamma mött…",
+        "date": "17 januari 2022",
+        "author": "Axel ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "17 januari 2022",
+        "author": "Alicia ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "17 januari 2022",
+        "author": "Louise",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "1: Min kommpis Gustav från Sverige. Vi brukade  spela fotboll på rasterna, och leka efter Skolan. Vi…",
+        "date": "17 januari 2022",
+        "author": "Sten ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.062212,
+          48.896339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tre Personer som är viktiga för mig är min Mamma, syster och min bästa vän. Det finns fler personer …",
+        "date": "20 januari 2022",
+        "author": "Alva-Louise",
+        "url": "https://minnen.se/tema/manniskornaimittliv/17853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.346927,
+          64.161508
         ]
       }
     }
