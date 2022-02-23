@@ -12869,5 +12869,109 @@
         "uuid": "afe52914-e537-4d2e-b24c-732818f02e29"
       }
     ]
+  },
+  {
+    "archive_code": "M1:4/00334",
+    "contributor": {
+      "display_name": "Maya"
+    },
+    "created": "Wed, 23 Feb 2022 11:44:38 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:44:38 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18373",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "4f742e30-6021-448c-8ee1-1e3eefca9bae",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:44:38 GMT",
+        "display_value": "2007",
+        "modified": "Wed, 23 Feb 2022 11:44:38 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "58870ebe-2fcb-462f-9fb0-d2cbf7c7034b"
+      },
+      {
+        "created": "Wed, 23 Feb 2022 11:44:38 GMT",
+        "display_value": "Måndagen:\n7/2\nJag vakan vid 5.00 att äta frukost.Efter det jag går till mina jobb. Efter mina jobb går jag hema och lagar mat till äta. Efter jag het äta.Efter att jag ätit går jag till min konstsudio, att arbeta på en tavla, med musik för att vi har en nya pandemisk och du måste stanna hemma efter jobbet.Men när du behöver något kan du gå till butiken. \n23:00 Jag går till at gå och sova.\n\nTisdagen:\n8/2\nJag vakan vid 6:00 för att jag har en ledig dag. Jag se om jag behövde mer färg och det gjorde jag. Så jag gjorde mig i ordning för att fixa färg och mat för natten.Människor som \njobbade i butiken byttes ut mot robotar för en vecka sedan. Det har tagit tid för dem att få allt utbytt, en del fungerar fortfarande för att ser till allt är ok med robotarna.Det tag innan jag kom hem igen. Med tur kom jag tillbaka innan alla har börjat komma hem för då tar det \nlängre tid. Jag har inte hunnit måla idag och imorgon jag här det att jobba till 20:00 så jag kan inte har tid imorgon till måla.\n\nOnsdagen:\n9/2\nJag vaknade vid fem för jah hade behövt få städat huset innan jag gick till jobbet.\nJag hade en vän som skulle komma över klockan 21:00 efter jobbet. Det var länga sedan jag såg dem. För att de hade flyttat iväg för att jobba i New York. Idag var sista dagen som de kommer att vara här innan de åker tillbka.Så jag hade frågat om de ville komma över för att prata innan de åkte tillbaka.Efter jobbet hade jag åkt och hämtat lite fika till oss. På vägen hem har jag fått ett samtal om att de inte kunde komma och arbetet behövde dem för att komma på nästa plan till New York.Så när jag kom hem hade jag ätit då jag när och målat.\n\nTorsdagen:\n10/2\nNär jag vaknade idag hade jag känt mig lite lätt i huvudet och jag var lite förkyld så jag hade behövt en ledig dag. Jag somnade lite och hade sendan ätit lunch som var nudlar för det var det lättaste jag hade hemma.Jag fick ligga kvar i sängen resten av dagen. Till kvällsmat åt jag ägg och gick sedan och sov.\n\nFredagen:\n11/2\nJag mådde lite bättre men hade stannat hemma så nästa vecka kan jag jobba hela veckan. Jag kanske måsta jobba hemma nästa  vecka för att hänga med.Jag hade målat hela dagen men någon gång hade jag gått och tittat på en flim innan jag åt kvällsmat. Det var fisk och sushiris så jag hade gjort sushi.Idag har de andra 25 personerna skikats till mars.Jag var inte en av dem men om ett år kommer de att få det att många fler skickas till mars.\n\nLördagen:\n12/2\nJag hade gjort mig i ordning för att gå till min familjs ställen för lunch, som vi hade hållit på med den sista tiden efter att vi alla hade flyttat ut, så att vi fortfarande kan vara nära varandra.Det had gått en vecka som jag inte har träffat mina föräldrar, jag hoppas att de har mått bra.På vägen dit fick jag alla en tårta att dela på. Vi pratade om vad som hände med jobbet och vad vi har gjort den här veckan.När jag kom hem och somnade var det en lång dag med att resa en timme för att komma dit och sedan tillbaka , men det var treligt att träffas. Efter att jag hade sovit hade jag gått ut för att äta middag på en ny restaurang. Maten var något som jag aldrig hade ätit innan den var så god.Jag hade åkt hem efter det och badat. \n\nSöndagen.\n13/2\nJag hade gått till affären för att jag hade målet klart och skaffat saker till en ny målningen var snyggt gjord, men det är synd att det var för någon annan, men det är bra, den här är till mig jag har tänkt på gör det ett tag, och på vägen hem hade jag fått mat och det jag behövde till huset.När jag kom hem hade jag börjat rita ut det och sedan hade jag gjort mat för natten efter jag hade lagt mig det hade tagit lång tid att få sakerna.",
+        "modified": "Wed, 23 Feb 2022 11:44:38 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d89a3f4e-0351-4cf5-8a0f-ef86362c2bc3"
+      }
+    ]
+  },
+  {
+    "archive_code": "M1:4/00336",
+    "contributor": {
+      "display_name": "Ebba"
+    },
+    "created": "Wed, 23 Feb 2022 11:49:20 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Feb 2022 11:49:20 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18378",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "823daaa9-e097-4d09-a4e3-ca4d70750b94",
+    "values": [
+      {
+        "created": "Wed, 23 Feb 2022 11:49:20 GMT",
+        "display_value": "2007",
+        "modified": "Wed, 23 Feb 2022 11:49:20 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "af009c42-0e71-4e3e-ad26-9d70b3cb45aa"
+      },
+      {
+        "created": "Wed, 23 Feb 2022 11:49:20 GMT",
+        "display_value": "Det är ett mer modernt, teknologiskt och framåt samhälle. Det är automatbilar som drivs på el, man behöver alltså inte köra med ratt utan bilen kör av sig själv eftersom bilen kan känna av vart vägen finns. Många har de nya bilarna med de lite äldre finns fortfarande kvar. Flygen är fortfarande inte riktigt helt miljövänliga med det går framåt. Man har gjort bättre tåg som är snabbare nu. Det finns många nya lägenheter som ofta är väldigt ljusa med vita stora väggar. Husen är är lite lika som förut. \nMobiltelefonerna är väldigt tunna och det finns många olika modeller precis som när jag gick i åttan. Det är bättre kameror och det finns många olika storlekar. \nJag är ledsen att behöva säga att krigen är det lika mycket av men man hoppas på att det sa sjunka. De fattiga länderna har dock börjat bygga upp ett mer modernt samhälle, men svårt är det. Många rika privatpersoner hjälper till att skänka pengar. \n\nJag heter Ebba och är nu 43 år och jobbar som designer. Jag designar kläder och har till och med ett eget företag. Jag försöker jobba mycket med att hänga med i de olika trenderna och skapar kläder till alla olika typer. Jag jobbar främst med att designa kläder till damer, herrar och barn men också lite inredning till hemmet. \n\nJag bor med min man och två barn i en villa. Men jag får ju inte glömma bort kaninen alla här i familjen hjälper till med och älskar. Men han bor i min dotters rum. Vi har två badrum, ett kök plus matsal, ett vardagsrum på mellersta våningen och ett längst upp, jag och min man delar sovrum medans barnen har varsitt. Vi har också ett gästrum. Vi har två våningar plus en källare. \n\nVi äter alltid middag tillsammans, förutom om barnen är hos någon efter skolan, och då brukar vi äta varierad mat. Vi äter ofta kött med också vegetariskt och fisk. Vi försöker äta nyttig och hälsosam mat så alla ska vara hälsosamma. Såklart äter vi skräpmat ibland, men det kan man få vara värd någon gång ibland.\n\n\nJag vaknar mellan klockan 7:30 och 7 från måndag till fredag för att åka till jobbet. Jag sätter på mig mina pyjamasbyxor direkt efter jag gått upp ur sängen. När jag har satt på mig mina kläder går jag direkt till badrummet för att tvätta mitt ansikte. Det ända jag behöver göra är att sätta på mig en ansiktsmask som djuprengör ansiktet på 10 min. Den gör att man får fin och len hud. Den tar bort finnar och rödhet i ansiktet också. Medans den sitter på går jag och äter min frukost. Yoghurt med chokladflingor. Dom är supergoda men också nyttiga, eftersom man kommit fram till ett sätt att göra sötningsmedel nyttigt. Efter jag är klar med min frukost tar jag av min ansiktsmask och börjar välja ut vilka kläder jag ska ha. När jag sedan har mina jobbkläder tar jag tabletten som rengör ens tänder. Jag går sedan och sminkar mig i mitt och min mans rum. Vid den här tiden vaknar han eftersom han också ska till jobbet. När jag är klar med att sminka mig, titta till barnen och sätta på mig ytterkläder tar jag bussen till slussen där allt bygge blev klart för ungefär 3-4 år sedan. Jag tog tunnelbanan till jobbet, men jag behöver gå en liten bit från stationen. Mitt jobb är i en stor vit byggnad med flera våningar. Min butik är längst ner och så jobbar jag och mina kollegor i kontorsdelen som ligger ovanför butiken, men det är två olika ingångar till butiken och mitt kontor. Ingången till mitt kontor är en stor glasport och direkt man kommer in finns det trappor och en svävande platta istället för hiss där man säger vilken våning man vill åka till, och när jag väl har kommit upp så säger jag hej till alla mina kollegor och börjar sedan fortsätta med mitt projekt jag började med för ett tag sedan De projektet har jag i ett par glasögon där allt är sparat. Så när jag sätter på mig dom ser jag mina mönster och modeller. Jag ritar ner på en skärm vi har på bordet, så sparas det till glassögonen. \nJag jobbar från 09:00 till 17 eller 18. På fredag och ibland på helgerna jobbar jag i butiken och då jobbar jag från 10:00 till 18:00 och på helger från 14:00 till 20:00. När jag sedan kommer hem från jobbet lagar jag middag till familjen. Det blir tacos idag eftersom det är fredag. Ibland efter jobbet får jag också hjälpa till och städa kaninburen, vilket jag gjorde idag. Efter maten sätter jag mig i soffan och frågar familjen om de vill titta på serien vi alla börjat kolla på tillsamman. Varje avsnitt är 50-55 min och detta avsnitt var 50 min. Efter det går barnen och lägger sig på sina rum och jag ligger i soffan och tittar på mobilen. När jag ser att klockan börjar närma sig 22:00 börjar jag sätta på mig nattkläder och tar min tandrengörningtablett. Jag går sedan till mitt rum och lägger mig i sängen med mitt sköna täcke som jag kan ha året om. När det är sommar svalar den ner kroppen och under vinter värmer den. Efter jag lyssnat på några kapitel av min ljudbok somnar jag. När jag lyssnar på den har sätter jag in som pyttesmå hörlurar som man kan sova med hela natten utan att dom ramlar ut, plus att man inte ens känner att dom är där. \n\nJag vaknar dagen efter klockan 10:00 lite drygt. Nu är det lördag så jag sätter på väckarklockan till barnen på 10:30 eftersom det inte är någon skola. Det kan jag göra från mobilen som är kopplad till deras rum. Jag sätter mig i soffan och sätter på teven och väntar på att resten av familjen ska vakna. Medans jag sitter i soffan så knappar jag in på mobilen att jag vill ha cappuccino eftersom mobilen är kopplad till min automatiska kaffebryggare.   \nNu när dom har vaknat så fixar dom alla frukost till sig själva. Det är väldigt lätt nu för tiden eftersom de flesta har som en mikrovågsugn eller ung som man skriver in på mobilen vad man vill ha och den fixar vad som helst, beroende på vad man har för mat hemma. Om jag vill ha en skål med gröt som jag tar idag så säger den hur nyttigt eller onyttigt det är och fixar maten mellan 2-10 minuter, beroende på hur avancerad mat det är. Hur detta fungerar är att den är kopplad till skafferi, kyl och frys och plockar där ifrån. Så handla slipper måste man fortfarande göra. När vi är klara med frukosten går vi och packar kläder för en helg i Italien, där vi har vårat landställe. Där bor vi i också i en stor villa med studsmatta på baksidan. I det huset vi har nu har vi en pool men i Italien har vi havet, vi har alltså en egen brygga på tomten.  \nNu är vi färdigpackade och ska sätta oss i bilen. Jag knappar in på skärmen längst fram i framsätet att vi ska till Italien, då kör bilen oss dit utan att vi behöver köra. Vi sover nästan hela vägen dit. Det tar 4-5 timmar beroende på trafik. \nNu när vi är framme kliver vi ut ur bilen och packar ur resväskorna. Huset här i Italien är lite lika det vi bor i i Sverige. Plus att våra mobiler är också kopplade till huset här också. När vi är klara med packningen springer vi ut och badar i havet. Vi tar också våran båt och åker in till stan med den. Den behöver vi faktiskt köra själva. Under tiden vi åker båt så byter vi om till riktiga kläder så vi inte går runt i stan med bara badkläder. I stan tar vi en shoppingrunda och köper lite kläder och smycken. För att veta att kläderna ska passa perfekt finns det olika speglar som visar plaggen på och vilken storlek man ska ha. Det gör att man nästan aldrig behöver lämna tillbaka kläder man redan har köpt. Vi går också in i min butik som finns här i Italien också. När vi är klara åker vi hem med båten och lämnar våra saker vi köpt och byter om till finare kläder. Det finns som en skärm med alla våra kläder vi har så vi kan kombinera och få fram de snyggaste vi har med alla kläder. De man valt ut åker sedan längst fram i garderoben så det blir lätt att hitta. Vi beställer redan maten på mobilerna så maten redan ska vara igång när vi kommer fram till restaurangen. \nNu är vi här och det är ungefär 10 min kvar tills maten är serverad. Vi beställer dricka direkt vi satt oss och dom kommer nästan på direkten. Nu lite senare kommer maten och vi hugger in direkt. Vi alla är riktigt hungriga för klockan är redan 19:30. Vi sitter på restaurangen i ungefär en timme för när vi var klara med maten beställer vi in efterrätt. \nNu när vi åkt hem från restaurangen har vi alla lite egentid för att bara kunna ta det lugnt. Mina barn springer ut för att hoppa studsmatta och jag och min man sitter kvar här inne och kollar teve. När barnen kommer in tar vi det alla väldigt lugnt och lägger oss sedan runt 23:00 och innan jag går och lägger mig sätter jag på väckarklockan på 10:30 som vanligt på helgerna. Jag stoppar sedan in mina lurar och somnar till ljudboken.",
+        "modified": "Wed, 23 Feb 2022 11:49:20 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "a4f1ebec-fa34-4558-ab48-c18d33badd5b"
+      }
+    ]
   }
 ]
