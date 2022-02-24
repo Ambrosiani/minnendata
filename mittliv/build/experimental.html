@@ -164,7 +164,13 @@
           if( window.innerWidth > 600) {
             layerControl.options.collapsed = false;
           }
-          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Mitt liv – en dag i mitt liv':collections['endagimittliv'], 'Mitt liv – mitt hem':collections['mitthem'], 'Mitt liv – människorna i mitt liv':collections['manniskornaimittliv'], 'Mitt liv 2050':collections['mittliv2050'], 'En dag i mitt liv 1942':collections['mittliv-1942'] }, { "position":"topleft", "hideSingleBase":true });
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, {}, { "position":"topleft", "hideSingleBase":true });
+
+          layerControl.addOverlay(collections['endagimittliv'], 'Mitt liv – en dag i mitt liv');
+          layerControl.addOverlay(collections['mitthem'], 'Mitt liv – mitt hem');
+          layerControl.addOverlay(collections['manniskornaimittliv'], 'Mitt liv – människorna i mitt liv');
+          layerControl.addOverlay(collections['mittliv2050'], 'Mitt liv 2050');
+          layerControl.addOverlay(collections['mittliv-1942'], 'Utvalda svar ur En dag i mitt liv 1942');
 
           map.addControl(layerControl);
 
