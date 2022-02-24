@@ -119,12 +119,7 @@
           
           var geoJsonLayer;
 
-          var markerclustergroup = L.markerClusterGroup({
-              iconCreateFunction: function(cluster, name) {
-                var icon = createClusterMarkers(cluster, 'mittliv');
-                return icon;
-              }
-            }).layerSupport();
+          var markerclustergroup = L.markerClusterGroup().layerSupport();
 
           markerclustergroup.addTo(map);
 
