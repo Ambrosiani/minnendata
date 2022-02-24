@@ -122,7 +122,7 @@
             });
 
           markerclustergroup.addTo(map);
-          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, {}, { "position":"topleft", "hideSingleBase":true });
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, {}, { "position":"topleft", "hideSingleBase":true, "sortLayers":true });
 
           
           for (const topic of topics) {
