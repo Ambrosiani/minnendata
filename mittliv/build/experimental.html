@@ -148,7 +148,7 @@
                 collections[topic.slug] = geoJsonLayer;
                 markerclustergroup.checkIn(collections[topic.slug]);
                 collections[topic.slug].addTo(map);
-                //layerControl.addOverlay(collections[topic.slug], topic.title)
+                layerControl.addOverlay(collections[topic.slug], topic.title)
                 // markerclustergroup.addLayer(geoJsonLayer);
                 //map.addLayer(markerclustergroups[topic.slug]);
 
@@ -159,11 +159,11 @@
 
           
           
-          layerControl.addOverlay(collections['endagimittliv'], 'Mitt liv – en dag i mitt liv');
-          layerControl.addOverlay(collections['mitthem'], 'Mitt liv – mitt hem');
-          layerControl.addOverlay(collections['manniskornaimittliv'], 'Mitt liv – människorna i mitt liv');
-          layerControl.addOverlay(collections['mittliv2050'], 'Mitt liv 2050');
-          layerControl.addOverlay(collections['mittliv-1942'], 'Utvalda svar ur En dag i mitt liv 1942');
+          //layerControl.addOverlay(collections['endagimittliv'], 'Mitt liv – en dag i mitt liv');
+          //layerControl.addOverlay(collections['mitthem'], 'Mitt liv – mitt hem');
+          //layerControl.addOverlay(collections['manniskornaimittliv'], 'Mitt liv – människorna i mitt liv');
+          //layerControl.addOverlay(collections['mittliv2050'], 'Mitt liv 2050');
+          //layerControl.addOverlay(collections['mittliv-1942'], 'Utvalda svar ur En dag i mitt liv 1942');
 
           if( window.innerWidth > 600) {
             layerControl.options.collapsed = false;
