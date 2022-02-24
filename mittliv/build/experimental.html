@@ -128,6 +128,8 @@
 
           markerclustergroup.addTo(map);
 
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, {}, { "position":"topleft", "hideSingleBase":true });
+
           for (const topic of topics) {
             
 
@@ -144,13 +146,14 @@
                   },
                   onEachFeature: function (feature, layer) {
                     layer.bindPopup(function (layer) {
-                      return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><br/>Insamling: " + topic.title + "<br/>br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                      return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><br/>Insamling: " + topic.title + "<br/><br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
                     });
                   }
                 });
                 collections[topic.slug] = geoJsonLayer;
                 markerclustergroup.checkIn(collections[topic.slug]);
                 collections[topic.slug].addTo(map);
+                layerControl.addOverlay(collections[topic.slug], topic.title)
                 // markerclustergroup.addLayer(geoJsonLayer);
                 //map.addLayer(markerclustergroups[topic.slug]);
 
@@ -158,12 +161,6 @@
             };
             xhr.send();
           }
-
-          
-
-          
-
-          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Mitt liv – en dag i mitt liv':collections['endagimittliv'], 'Mitt liv – mitt hem':collections['mitthem'], 'Mitt liv – människorna i mitt liv':collections['manniskornaimittliv'], 'Mitt liv 2050':collections['mittliv2050'], 'En dag i mitt liv 1942':collections['mittliv-1942'] }, { "position":"topleft", "hideSingleBase":true });
 
           if( window.innerWidth > 600) {
             layerControl.options.collapsed = false;
