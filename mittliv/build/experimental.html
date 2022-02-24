@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.Default.css" />
   <link rel="stylesheet" href="style.css" />
   <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
-  <script src="https://unpkg.com/leaflet.featuregroup.subgroup@1.0.2/dist//leaflet.featuregroup.subgroup.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster.layersupport@2.0.1/dist/leaflet.markercluster.layersupport.js"></script>
 </head>
 <body style="margin: 0;">
   <div class="info">
@@ -124,10 +124,8 @@
                 var icon = createClusterMarkers(cluster, 'mittliv');
                 return icon;
               }
-            });
+            }).layerSupport().addTo(map);
 
-          map.addLayer(markerclustergroup);
-          
           for (const topic of topics) {
             
 
@@ -149,6 +147,7 @@
                   }
                 });
                 collections[topic.slug] = L.featureGroup.subGroup(markerclustergroup, geoJsonLayer);
+                markerclustergroup.checkIn(collections[topic.slug]);
                 collections[topic.slug].addTo(map);
                 // markerclustergroup.addLayer(geoJsonLayer);
                 //map.addLayer(markerclustergroups[topic.slug]);
