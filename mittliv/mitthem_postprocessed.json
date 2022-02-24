@@ -59389,5 +59389,3753 @@
       "latitude": 59.335045,
       "longitude": 18.289735
     }
+  },
+  {
+    "archive_code": "M1:2/00483",
+    "contributor": {
+      "display_name": "Dahlia"
+    },
+    "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18431",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "6b700806-12d8-47c2-b069-aac624b54886",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:45:24 GMT",
+        "display_value": "Jag har ett eget rum och sover där med.",
+        "modified": "Thu, 24 Feb 2022 16:45:24 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "c6acca2b-de93-4f34-a1d8-17947058c2a0"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:24 GMT",
+        "display_value": "",
+        "modified": "Thu, 24 Feb 2022 16:45:24 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "885c70c2-43c1-4881-8ccc-454198e7566d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:24 GMT",
+        "display_value": "Jag gillar att organisera och rita, måla, och spela.",
+        "modified": "Thu, 24 Feb 2022 16:45:24 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "687b3978-4a8e-48dd-b992-5d9f4732a34b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:24 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:45:24 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "53ca282e-421f-4ec6-950d-08bd603a9d11"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "display_value": "I mitt hem bor jag Dahlia, Lillebror Julius, Mamma Ann-katrin, Pappa Johan, och katten Claus. Vi har bott där i ca 6 år innan vi flyttade dit bodde vi i en lägenhet i stan. Vi har ett kök och 3 sovrum och en toalett, vi har också ett gästrum och två vardagsrum. Jag sover i källaren och har det 3:e minsta rummet i huset. Utanför ser jag två äppelträd och en väg bakom en syrenhäck. Hemma brukar jag spela minicraft eller hoppa studsmatta. Min favoritplats är ju tv rummet för att man kan sitta i soffan och spela spel eller slappa och träna på olika saker. Reglerna är att bara får äta godis på lördagar hemma men man får äta godis om man är hos kompisar. Hemma när jag brukar äta mellis så om diskmaskinen är klar så brukar jag plocka ut allt och ställa in det på rätt plats och ställa in mina smutsiga saker.",
+        "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "887e5c72-2bb0-4475-918b-10c6c31bd8fd"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "display_value": "Jag har bott där i 8 år",
+        "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "28763339-ab91-4f29-b248-09a0d017615e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "display_value": "Jag har 13 rum i mitt hus.",
+        "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "f6ceed1d-9e9b-483a-8eda-78d6ba7e888e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "f56941dc-e56d-45a4-811c-eca1705d9035"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "display_value": "Jag får inte smygkolla på något och jag får inte äta godis på vardagar utan tillåtelse.",
+        "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "16dcf258-2afa-4eef-bd25-55d1295a5760"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "display_value": "En dålig asfalterad väg och ett stort gult hus är framför vårat hus, vi bor också välldigtnäraen motorväg.",
+        "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "67aff1c6-ce0e-434a-a5b2-d1b0eeb5d128"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "display_value": "Jag brukar ibland hjälpa till att laga mat och ibland hjälpa till att bestämma mat.",
+        "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "50684528-3d05-41fe-beea-3d2653cc4208"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "display_value": "Jag, mamma, pappa, Julius och Claus",
+        "modified": "Thu, 24 Feb 2022 16:45:23 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "143538a1-a5ff-4d18-86f6-d8d6f4ebf45d"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00485",
+    "contributor": {
+      "display_name": "Erik"
+    },
+    "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18435",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "48b56ece-5b37-46f6-bf3d-2ef4083b4050",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Jag sover i mitt rum bredvid gaming setupen på en säng. En liten trädgård vid en veranda. Jag brukar oftast spela och titta på mobilen eller på datorn. Min favoritplats är min gaming setup.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "4ca8bc9f-0741-4e2d-8573-1f04d5f7c78b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Jag bor inte inte i flera hem för att mina föräldrar inte är skilda.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "69f4da41-33be-49bb-a375-ff84300278dd"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Jag tycker om att spela och att ta det lugnt och kolla på mobilen.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "b13fee3f-993e-4794-8ae3-57da37bbbf4e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Livet i mitt hem\n \nI mitt hem bor Min mamma(Ulrica 53 år)Min pappa(Kristian 55 år)Min bror(William 19 år) och min syster men hon bor inte hemma utan i göteborg(Linnea 26 år)och Mina katter Mini och Maja. Maja är 13 år och mini är 2 år. Jag har bott i mitt hus hela mitt liv alltså nästan 12 år.\n\n På övervåningen har vi en hall där det står en spegel och ett hallbord sen har vi 6 klädhängare och ett badrum till höger när man kommer in och en garderob precis vid badrummet och till vänster är det ett arbetsrum och en säng för gäster och en garderob där också. \n\nNär man går fram så finns det en trappa åt höger men framför trappen så är det mitt matbord och vi har ett pingisbord vid matbordet där vi spelar hela tiden. Åt vänster om matbordet finns det vårt vardagsrum där vi kollar på TV och chillar.\nOch åt vänster om bordet finns vårt kök där vi lagar mat och så finns det ett torn där vi har ett bord där vi brukar bygga lego och ha gäster.\n\n Nedervåningen direkt åt vänster finns det en tvättstuga och till höger om den finns det ett badrum. Mitt rum ligger åt höger om badrummet och till höger om mitt rum står min brorsas rum. Vid hans rum finns ett mål och en soffa. Vid soffan så finns mammas och pappas rum. Det finns 8 st rum. Jag sover i mitt rum bredvid gaming setupen på en säng. En liten trädgård vid en veranda. Jag brukar oftast spela och titta på mobilen eller på datorn. Min favoritplats är min gaming setup. Inte så många regler men den viktigaste är att inte förstöra något och att sköta sig i skolan. Jag hjälper min mamma med trädgården och med pappa så fixar jag båtar",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "6db95d03-fe8e-4bf4-8998-357e7aaacb70"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Hela mitt liv så länge jag kan minnas.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "27a15153-4c84-4cd1-ae55-de3edbca5506"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "På övervåningen har vi en hall där det står en spegel och ett hallbord sen har vi 6 klädhängare och ett badrum till höger när man kommer in och en garderob precis vid badrummet och till vänster är det ett arbetsrum och en säng för gäster och en garderob där också. \n\nNär man går fram så finns det en trappa åt höger men framför trappen så är det mitt matbord och vi har ett pingisbord vid matbordet där vi spelar hela tiden. Åt vänster om matbordet finns det vårt vardagsrum där vi kollar på TV och chillar.\nOch åt vänster om bordet finns vårt kök där vi lagar mat och så finns det ett torn där vi har ett bord där vi brukar bygga lego och ha gäster.\n\n Nedervåningen direkt åt vänster finns det en tvättstuga och till höger om den finns det ett badrum. Mitt rum ligger åt höger om badrummet och till höger om mitt rum står min brorsas rum. Vid hans rum finns ett mål och en soffa. Vid soffan så finns mammas och pappas rum. Det finns 8 st rum.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "5861d936-50b9-4d72-a542-e9d05d9f7c3c"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Nej inte riktiga regler.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "ca5a3e31-dd18-4556-ab08-1de75d9e398b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Jag bor vid ett hav och jag har en stor veranda framför havet och på framsidan har jag en gräsmatta.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "b4eef534-934f-47ff-9d5d-4a47f7bd3039"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Jag hjälper oftast med köket t ex att plocka in och ur diskmaskinen.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "3ccdbb48-99fd-42e4-b08b-20b1e4ae4357"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "display_value": "Min pappa min mamma och min bror.",
+        "modified": "Thu, 24 Feb 2022 16:46:00 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "2593665b-2548-41ce-94d6-e8cb7b8a563f"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00487",
+    "contributor": {
+      "display_name": "Lina"
+    },
+    "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+    "image_dms_id": "013AkPNRPrdU",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Thu, 24 Feb 2022 10:09:36 GMT",
+        "description": "Våran nedervåning.",
+        "dms_id": "013AkPNRPrdU",
+        "image_height": 1336,
+        "image_ratio": 0.9086826347305389,
+        "image_width": 1214,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 24 Feb 2022 10:09:36 GMT",
+        "name": "IMG_9812.jpg",
+        "order_by_number": 1,
+        "owner": "Jag",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "a2f44aad-f548-4b7f-8b7d-8e57729a1507"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 10:12:22 GMT",
+        "description": "våran övervåning.",
+        "dms_id": "013AkPNRPrdW",
+        "image_height": 1325,
+        "image_ratio": 0.9894339622641509,
+        "image_width": 1311,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 24 Feb 2022 10:12:22 GMT",
+        "name": "IMG_9813.jpg",
+        "order_by_number": 1,
+        "owner": "Jag",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "77212be7-fae7-44a2-80ef-18e9f2eb8157"
+      }
+    ],
+    "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18438",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "648a9066-7e63-4144-96dd-fbdcc68c4c29",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "Jag har ett eget sovrum som jag sover i och tillbringar mesta av min tid inomhus i.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "34530fb4-5bb0-42d5-9cef-e1de047a6dbf"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "Jag gillar att laga mat, hoppa studsmatta, vara med mina djur och att pyssla.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "eb9ce4a4-2561-4738-913a-1a33f522e301"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "2d559f11-bf1d-49a4-84e5-795317f965af"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "Det är bra. På eftermiddagarna brukar alla ofta hålla på med sitt eget. Mamma brukar vara ute i trädgården och pappa brukar sitta vid datorn eller fixa lite i vårt hus. Min lilla syster brukar vara hos någon kompis eller vara i sitt rum. Jag själv brukar göra läxor eller vara hos kompisar eller vara utomhus. Vi har inte jättemycket regler hemma. Men vi har bara en timmes skärmtid. Vilket jag tycker är för lite. Men jag håller nästan aldrig det. Sedan brukar jag behöva hjälpa till att plocka ur diskmaskinen och fixa vatten och mat till alla djuren. Jag brukar även laga mat ganska ofta.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "d9e5dfa8-6cdf-4869-b906-32bb973f993b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "Jag har bott på den tomten som jag bor på nu i nio snart tio år men vi byggde ett nytt hus på samma tomt som jag har bott i i tre år.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "12c6dbce-afbf-4f55-9dbf-009d2d482ecc"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "10 st. Ett vardagsrum och ett kök som är lite som samma rum men jag räknar det som varsitt. Vi har även två badrum, ett gästrum, en tvättstuga, tre sovrum och ett arbetsrum.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "dab612ab-36b9-4114-8feb-88e283a43b7a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "27eccf54-2653-43cc-9c6e-ef5cdf51326a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "Vi får bara äta godis på fredagar och vi får en timmes skärmtid.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "45e00ecc-1820-4de3-97a5-a22329bc4319"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "Vår tomt är trekantig och vi har en gata på baksidan och framsidan av vårt hus. Vi har en väldigt stor tomt och många gamla ekar och en väldigt stor gräsmatta. Vi har även väldigt nära till havet.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "e16e0b36-0275-4b10-bfd2-d9a3cc03927e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "Jag brukar hjälpa till med diskmaskinen och att ta hand om våra djur. jag brukar även dammsuga en del av vårt hus och städa mitt rum själv.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "12631974-fe91-4d63-b150-1329aa3489fd"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "display_value": "Jag bor tillsammans med min mamma, pappa, lillasyster och alla mina djur.",
+        "modified": "Thu, 24 Feb 2022 16:47:58 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "dd5c6580-8620-4310-b6d2-ec4b5840b126"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00489",
+    "contributor": {
+      "display_name": "Ludwig"
+    },
+    "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18443",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "cf2bcfb1-18dc-4bee-b012-c4b81d4bab15",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "jag sover i mitt eget rum som ligger på övervåningen.",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "181b5bd7-b873-40b3-a641-e68225dbad15"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "jag bor bara i ett hus men vi har en liten stuga på tomten som vi brukar hyra ut för att tjäna lite extra pengar.",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "69b4d1f8-ba41-4418-8870-333b097bc95e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "Jag gillar att spela spel med min lillebror och vänner och min kusin.",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "fa23fb9e-c442-4368-ae20-d06a7fd9fbc4"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "dom som bor i mitt hem är min mamma, pappa och lillebror.  Jag har bott i mitt hus i ungefär 4 år. Det finns 8 rum i mitt hus och jag sover i mitt eget rum. Min favorit plats i mitt hus är mitt rum. Reglerna i mitt hem är att vi får inte vara uppe efter klockan 21.00 på skoldagar. Det jag ser utanför mitt fönster i mitt rum är våran parkering med plats för 2 bilar. Jag brukar hjälpa till med att diska och tvätta kläder.",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "3253f11f-7e39-424e-87ad-3576178bc4d0"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "jag har bott i mitt hem i ungefär 4 år",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "602e1500-327a-45a1-85e8-1f45bb569f3e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "8 rum.",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "f02c636b-7e2b-46bc-937b-74eb021d5de8"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "4a8e4434-af69-453f-9f7e-c834619ca2b5"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "en av reglerna vi har är att man inte får vara uppe över 21:00 på skoldagar",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "77007282-855b-421c-bdb4-aef1478a7444"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "Vi har en granne över vägen och en parkering framför vårat hus. vi har också en liten skog till vänster sida om huset.",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "91a16dfa-bfa4-4991-9692-081f64d27bb9"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "jag brukar hjälpa till med att diska och tvätta kläder",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "c5b0c6d7-4ecf-4d7d-be50-1c7a5ee8a426"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "display_value": "min mamma, pappa lillebror, och katt",
+        "modified": "Thu, 24 Feb 2022 16:49:33 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "25f927f1-d667-4632-894b-66b590265049"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00491",
+    "contributor": {
+      "display_name": "Teodor"
+    },
+    "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18446",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "bd650ea6-7ea7-4586-a571-64c586d05d67",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "Jag har ett eget rum där jag sover",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "5296ffe8-1368-4bea-bdca-3989ca9d23d2"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "Nej men jag har har andra sommar hus och vinter hus.",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "f2e7cebb-8a2e-4b25-95f5-c8a1e346fc62"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "Jag gillar att spela på min tv och va ute att spela basket och fotboll.",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "a28de2e0-2187-4020-95ba-ea0a396bde8a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "2e300532-140f-4828-830f-24742de76d70"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "Kapitel 2 Livet i mitt hem\nDe som bor i mitt hem är min lillasyster som heter Isabella och hon ska fylla 10 år och min mamma  som heter Suzana som ska fylla 40 år och min pappa som heter Tomas som ska fylla 44 år. Jag har bott i mitt hem i 7 år innan det så bodde jag på Södermalm i Stockholm. Mitt hus har färgen vit och staketen är svarta. Jag har två badrum i mitt hem och i båda badrummen så har vi en dusch, toalett och ett handfat men i ena badrummet har vi en bastu. I mina föräldrars sovrum så är det en säng och en walk in closet. Jag har ett eget rum där jag sover och det har ett skrivbord och ett air hockey och en tv och en garderob och en säng. Min syster har ett rum och det är bara ett skrivbord och en säng och en garderob och lite andra saker. I vårat vardagsrum så har vi en tv, soffa, fåtöljer och en mini basketkorg. Vi har ett gästrum med en säng men det är även ett arbetsrum där mina föräldrar jobbar ibland. Vårt kök har en köksö och massa andra saker t.e.x kylskåp, ugn, mikro och massa annat. Jag har ett matbord där jag äter men vid samma rum så har vi en soffa och en brasa. Vi har en tvättstuga med ett torkskåp och tvättmaskin och massor av skåp som vi också har i köket. Vi har också en källare där vi har massor av saker som vi inte använder. Vi har ett förråd och ett garage. Det vi har utomhus är en basketkorg, pingisbord. bollplan, fotbollsmål och en studsmatta men vi har också en bubbelpool. Det jag ser utanför mitt fönster är en massor av träd och grannens hus. \n\nDet jag brukar göra när jag är hemma är att vara utomhus men när jag är inne så kollar jag på min mobil eller tv:n men jag spelar också ganska mycket på min tv i mitt rum med mitt PS5. Min favoritplats är mitt rum för jag ligger alltid i min säng och kollar på mobilen eller sitter jag i min saccosäck och spelar. Reglerna i mitt hem är att jag inte får svära eller inte respektera mina föräldrar för om jag inte gör det så blir dem väldigt arga på mig. Jag kan fixa diskmaskinen och gå ut med soporna men jag gör faktiskt inte så mycket mer hemma förutom att dammsuga lite.",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "4b0c11b4-d2e7-423e-9998-2e8eafc7f370"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "8 år.",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "81cbe3d8-1905-4714-89db-fbfc7e17cbe0"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "12 rum",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "bf9163f0-a3f2-4f68-8c60-bb2f0f1a6de1"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "bb1d5c7a-981d-4e1e-8f3c-6b68978f340d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "Ja jag får inte spela för länge",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "94461374-6ca6-4cba-b4e1-88644c3bb833"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "Det är skog och lite hus",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "16afb27e-c93d-46b0-bdfe-259c44d8b4f3"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "Ja med disken och duka fram på mat bordet och att städa.",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "4881a93f-6015-4017-bbdc-8fa0852976a8"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "display_value": "Jag min mamma, pappa och min syster.",
+        "modified": "Thu, 24 Feb 2022 16:50:14 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "cb2c3924-0eec-46fd-970d-e4a9c4ef23e1"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00493",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18450",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "790d196e-ffab-469b-8fac-0107e548c21f",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Jag sover i min säng i mitt rum.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "edfb9cb5-8703-4a8a-b273-e7de95025fce"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Jag bor bara i ett hus.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "21184cda-679a-4341-a9a8-c97ce537836c"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Jag tycker om att rita eller kolla på någon serie.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "affa35ba-bb40-4486-95aa-4c908b61c0bd"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "d99c9881-9f9a-4f26-a513-f38567c9758b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Ja, alla håller på med sitt eget. Mamma och pappa jobbar hemma (pga covid) och vill helst inte bli störda, förhoppnings vis kan dom börja åka in till jobbet. Dom är nog lite trötta på att ha jobbat hemma i två år. Min lillasyster Linnea är ofta med någon kompis. Jag brukar väl fixa det jag har att göra i skolan annars så brukar jag väl bara ta det lugnt.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "33350417-d7ce-44b0-b8df-d44980e681c1"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Vi flyttade dit i juli 2011 då var inte Linnea född. Jag har bott på tre olika ställen. Jag bodde i en lägenhet i stan fram tills jag blev typ 1 år. Sen så sålde vi det och bodde i min farmor och farfars hus medan vi byggde mitt hus som jag bor i nu.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "dbc1a575-0de8-4987-82d0-f50dc8b5fa3b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Vårat hus har 2 våningar. Vi har ett kök, ett arbetsrum/gästrum, en tvättstuga, en hall, ett vardagsrum, en typ matsal som vi använder när vi har gäster, tre sovrum (ett är mitt, ett är Linneas och ett är mamma och pappas). Sen har vi ett rum under trappan för förvaring. Och vi har två badrum också. På nedervåningen är köket, vardagsrummet, det minsta badrummet, tvättstugan och min pappas arbetsrum. Resterande rum ligger på övervåningen.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "7db56d48-d8ca-462f-9015-9ff8ef4048ea"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "de104a83-870d-4ea4-88cf-b43386f5cc8f"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Nej, det finns det väl inte, mina föräldrar vill att jag ska läsa lite varje kväll men ibland fastnar jag och läser ända in på natten.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "ed1093c8-15c5-4a8a-b641-1b18ba084184"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Om jag står och kollar ut från mitt fönster i mitt rum så ser jag min veranda, studsmattan som står på gräsmattan, väger utanför, skogen vid vägen och stället där vi parkerar våran bil på, jag ser också våran typ friggebod där vi har cyklar och skidor och andra grejer.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "403d15ed-6028-4796-83cf-fb2c7868dc60"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Jag hjälper ärligt talat inte till så mycket hemma. Men ibland så hjälper jag till att laga middag. Men jag borde nog hjälpa till mer.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "61797bef-b647-4bf2-8953-917cac86c0db"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "display_value": "Jag, min mamma, min pappa och min lillasyster.",
+        "modified": "Thu, 24 Feb 2022 16:50:51 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "014a379f-787c-44e7-9d24-cf268b338fa6"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00495",
+    "contributor": {
+      "display_name": "Charlie"
+    },
+    "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+    "image_dms_id": "013AkPFoPisF",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 22 Feb 2022 09:36:36 GMT",
+        "description": "Det här är mitt garge",
+        "dms_id": "013AkPFoPisF",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 22 Feb 2022 09:36:36 GMT",
+        "name": "IMG_20210716_132430_01.jpg",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "1dceba26-d9a3-4286-a721-107da377790c",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18453",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "af0cf735-5026-41e2-b59b-59f0aeda4179",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "I mitt rum så har jag en säng och min stationära dator och två skärmar och kläder i min garderob. Jag sover i mitt rum och har ett eget rum.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "73b805fa-f7e8-4236-bf01-6d89057a135e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Dem som bor i mitt hem är min hund som är 3 år, min pappa som är 42 år, mamma som är 41 år, lillasyster som är 9 år och min bror som är 14 år.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "52a93ad2-45c6-4d1b-bc25-77269a14c712"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Jag tycker om att spela och att kolla på mobilen och chilla och hänga med mina kompisar.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "642f7a1d-b5aa-40d2-b30a-6bfec506904c"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "9dfc1ae7-e379-402c-b607-f85cf4c2dc41"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Dem som bor i mitt hem är min hund som är 3 år, min pappa som är 42 år, mamma som är 41 år, lillasyster som är 9 år och min bror som är 14 år. Jag har bott i mitt hem redan innan jag var 1 år. Jag har två badrum där det finns 2 duschar 2 toaletter 3 handfat och 1 badkar i det övre badrum. Jag har också ett spelrum som också är min pappas arbetsplats för han jobbar hemma. I spelrummet så har vi ett nintendo switch, ps5, ps4, min pappas dator och hans 6 skärmar och där brukar jag gilla att sitta och spela för det är mysigt. Vi har ett kök, ett vardagsrum och i vardagsrummet så har vi en tv och två soffor och en puff som min hund gillar jätte mycker, hall där vi ställer våra kläder. Vi har också ett tvättstuga där vi tvättar kläder. Där uppe har vi mitt rum, min brors rum, min lillasysters rum och mamma och pappas rum. I mitt rum så har jag en säng och min stationära dator och två skärmar och kläder i min garderob och det ser likadant ut i min brors rum förutom att han har en tv och ett ps4 också. I min lillasysters rum så har hon en säng leksaker och en garderob med kläder och min mammas och pappas rum finns det en tv, en säng och en garderob. Utanför mitt hus åt vänster så har vi ett garage med min elcykel och annat som t.ex rullband, hantverk, snö pulkor och sånt, vi har också vanliga cyklar och bara sånt som man brukar ha i sina garage. Bakom mitt hus så har vi också en pool där jag älskar att bada på sommaren med kompisar och ta kvällsdopp. På min gräsmatta åt höger så har jag min studsmatta där jag spenderar mycket av min tid på. Min studsmatta gillar alla i min familj och vi fick den faktiskt tack vare mig för att jag gick på gymnastik förut och då tänkte mamma och pappa att ifall dom ger mig en studsmatta så skulle jag kunna träna där och bli bättre.  Vi har 7 rum i vårat hus. Jag sover i mitt rum och innan jag sover brukar jag titta på mobilen lite grann. Jag har ett eget rum för min brors rum är mitt i mot och min lillasysters nära badrummet på övervåningen. När jag tittar ut för mitt fönster så ser jag alla grannhus och våran lekpark som ligger i vårt område. Jag brukar laga mat vid köket chilla och titta på film vid vardagsrummet äta vid matbordet. Spela ibland inne på spelrummet som är min pappas kontor. Jag går på toa, duschar och borstar tänderna i badrummen. I hallen så borstar jag håret. I mitt rum där jag är mest så sover jag, chillar ibland och spelar och tittar på youtube och klär på mig kläder på morgnarna. Mitt favoritrum är enkelt mitt sovrum för det är där jag spenderar mest tid och det är där jag sover, spelar på min dator och är nästan hela tiden. I mitt hem får jag bara spela 1 och en halv timme på vardagarna men innan så måste jag ha gjort mina läxor, jag får inte svära och jag måste ligga i min säng klockan 9 på kvällen. I mitt hem så plockar jag upp bajs från min hund i gräsmattan, jag tömmer diskmaskinen och ställer in i diskmaskinen, jag går ut med soporna, jag dukar fram till middagen och ger min hund mat och det sista är att jag går ut med min hund. Jag gillar mycket saker en av sakerna är marvel. Marvel är ett typ märke och dom gör och har gjort hur många kända filmer som helst och typ gjort kända figurer. Några av figurerna är t.ex spiderman som det finns jättemycket serier om jättemånga filmer, jättemånga serieböcker. Det finns leksaker gjorda av honom. En annan karaktär är green goblin den karaktären är en ond person i spider man men är väldigt känd för att i första spider man filmen som någonsin gjordes var han med. Green goblin är typ en vanlig kille som är en människa men har har typ en annan person som styr han ibland och gör så här gör jätte många dåliga saker när han egentligen är god.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "86b6e6b1-e0c8-4c91-ab69-b6ee00e560bc"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Jag har bott i mitt hem redan innan jag var 1 år.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "5c26c919-66c6-49cb-98df-498921f09b14"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Jag har två badrum där det finns 2 duschar 2 toaletter 3 handfat och 1 badkar i det övre badrum. Jag har också ett spelrum som också är min pappas arbetsplats för han jobbar hemma. I spelrummet så har vi ett nintendo switch, ps5, ps4, min pappas dator och hans 6 skärmar och där brukar jag gilla att sitta och spela för det är mysigt. Vi har ett kök, ett vardagsrum och i vardagsrummet så har vi en tv och två soffor och en puff som min hund gillar jätte mycker, hall där vi ställer våra kläder. Vi har också ett tvättstuga där vi tvättar kläder. Där uppe har vi mitt rum, min brors rum, min lillasysters rum och mamma och pappas rum. I mitt rum så har jag en säng och min stationära dator och två skärmar och kläder i min garderob och det ser likadant ut i min brors rum förutom att han har en tv och ett ps4 också. I min lillasysters rum så har hon en säng leksaker och en garderob med kläder och min mammas och pappas rum finns det en tv, en säng och en garderob.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "35af300c-59c9-4d83-bb64-3f8c8f90c8eb"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "8e9dfddb-b270-43f1-8434-44f1ac1a1158"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Ja jg får inte spela mer än 1 och en halv timme per dag. Jag måste sova runt tio och jag får vara ute till klockan 9 på vardagar.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "d944b12e-5ae8-4a39-b459-01ac291ff2a0"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Utanför mitt hus åt vänster så har vi ett garage med min elcykel och annat som t.ex rullband, hantverk, snö pulkor och sånt, vi har också vanliga cyklar och bara sånt som man brukar ha i sina garage. Bakom mitt hus så har vi också en pool där jag älskar att bada på sommaren med kompisar och ta kvällsdopp. På min gräsmatta åt höger så har jag min studsmatta där jag spenderar mycket av min tid på. Min studsmatta gillar alla i min familj och vi fick den faktiskt tack vare mig för att jag gick på gymnastik förut och då tänkte mamma och pappa att ifall dom ger mig en studsmatta så skulle jag kunna träna där och bli bättre.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "fe552340-c544-49e0-9887-e72c4a7a9cbd"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Jag brukar laga mat vid köket chilla och titta på film vid vardagsrummet äta vid matbordet. Spela ibland inne på spelrummet som är min pappas kontor. Jag går på toa, duschar och borstar tänderna i badrummen. I hallen så borstar jag håret. I mitt rum där jag är mest så sover jag, chillar ibland och spelar och tittar på youtube och klär på mig kläder på morgnarna. Mitt favoritrum är enkelt mitt sovrum för det är där jag spenderar mest tid och det är där jag sover, spelar på min dator och är nästan hela tiden. I mitt hem får jag bara spela 1 och en halv timme på vardagarna men innan så måste jag ha gjort mina läxor, jag får inte svära och jag måste ligga i min säng klockan 9 på kvällen. I mitt hem så plockar jag upp bajs från min hund i gräsmattan, jag tömmer diskmaskinen och ställer in i diskmaskinen, jag går ut med soporna, jag dukar fram till middagen och ger min hund mat och det sista är att jag går ut med min hund. Jag gillar mycket saker en av sakerna är marvel. Marvel är ett typ märke och dom gör och har gjort hur många kända filmer som helst och typ gjort kända figurer. Några av figurerna är t.ex spiderman som det finns jättemycket serier om jättemånga filmer, jättemånga serieböcker. Det finns leksaker gjorda av honom. En annan karaktär är green goblin den karaktären är en ond person i spider man men är väldigt känd för att i första spider man filmen som någonsin gjordes var han med. Green goblin är typ en vanlig kille som är en människa men har har typ en annan person som styr han ibland och gör så här gör jätte många dåliga saker när han egentligen är god.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "21335798-30a7-4c62-b6ab-7080e636099a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "display_value": "Jag, mina föräldrar, min hund och mina syskon bor i mitt hem.",
+        "modified": "Thu, 24 Feb 2022 16:51:48 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "b05de441-557d-4db0-ad5c-e9457e02a7a9"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00497",
+    "contributor": {
+      "display_name": "Love"
+    },
+    "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18458",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "fa9295f5-a65b-45ea-8dcb-8ba0f53cbd64",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "ja jag har ett eget rum där brukar jag hålla på med fotbollskort.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "58d6a275-4d6a-4e4b-ba25-9841009f50c3"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "nej bara ett men jag har flyttat från ett hus till ett anat.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "5db1372c-91dd-4d8b-8027-dadb641a60ff"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "hålla på med fotbollskort och lego.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "fe9e863a-aede-41c7-a1ea-1ecf456096af"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "0ae8bc44-051b-4e63-aaa4-a1fcf2060c7b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "Livet i mitt hem\n\nJag har Bott i mitt hus i ungefär  9 år. När jag kollar ut genom fönstret från mitt rum så ser jag hela gatan. I mitt hus så finns det två toaletter och som jag skrev lite längre upp så förstör min storebror en vägg så att nu räknas det som ett rum så då har vi 5 rum och kök. På övervåningen så har vi en balkong. I mitt hem så brukar jag antingen kolla på mobilen, spela lite tv-spel eller gå ut på gatan. Min favoritplats i hemmet är i soffan eller i mitt rum. I mitt hem så har vi regler, en av reglerna är att man alltid måste vara snäll och en annan regel är att man alltid ska lyssna på mamma och pappa.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "84883cc2-b17f-44bb-bf49-1abd2bef1718"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "I typ nio år.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "149f4109-e3ae-4514-a968-c94695f76102"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "12 rum.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "cfbb3b4a-dd61-44b8-bc46-402c847c3892"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "d6cbbb88-e9bb-43b6-9ca6-94cc502b9a23"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "det finns inte så mycket regler bara att man ska vara snäll.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "423be3a6-5267-4ba5-b215-3d9fab047ac1"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "det är ett svart och en altan.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "43db6a22-a54b-40a7-b0ad-a0646848e65e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "ja jag viker tvätt, diskar och städar.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "6397e175-d2d6-4a45-b4aa-4f8d14e24b84"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "display_value": "min mamma min pappa min storebror och jag.",
+        "modified": "Thu, 24 Feb 2022 16:53:09 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "5bc97c87-c607-4eb8-87bc-c76d177cc4d4"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00499",
+    "contributor": {
+      "display_name": "Alfred"
+    },
+    "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18460",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "2ed0a92e-95cf-4bbd-b93d-d310015b8ca0",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "Jag sover i mitt rum. Mina väggar turkosa (ljusblå), Mitt golv är träfärgat, och min säng är vit och grå.",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "948cf771-b7a3-4e8f-b12d-d9a2a2571a64"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "Jag bor inte i flera hem. Vi har en annan villa men vi hyr ut den så vi bor bara i ett hus.v",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "af118b87-b300-4535-bb14-2549dd621d0d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "Jag tycker om att titta på datorn, programmera spela fiol, titta på tv och eventuellt spela dataspel.",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "d8490713-e84c-4e8a-990b-014ee107a996"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "292d01c4-d055-4f7c-acaf-8378128f698d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "De som bor i mitt hem är min familj, min mamma, min pappa och min lillebror. Jag har bott i mitt hem sedan jag föddes (12 år). \n\nUtsidan av mitt hus är röd, och insidan är till mestadels träfärgad, men lite av mitt hus är vitt. Det finns ca 9 rum i mitt hus. Jag sover i mitt rum. Mina väggar turkosa (ljusblå), Mitt golv är träfärgat, och min säng är vit och grå. \n\nJag har en dator, en dator mus, ett tangentbord och en dataskärm i mitt rum. Min favoritplats i mitt hus är mitt rum, där kan jag koppla av, utan att någon stör mig.\n\n De reglerna som finns i mitt hem är: \nInte för mycket skärm, ca 2 till 3 timmar\nHjälpa till att plocka från matbordet\nGöra läxor innan man kollar på skärm\nJag brukar hjälpa till med att ta bort från matbordet, ta fram kaffe till mina föräldrar och ibland brukar jag dammsuga.",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "e99c7741-0dab-4f9e-940a-5350601ba0a7"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "Sedan jag var född, 2009.",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "406455b2-30cd-44d6-851d-5c9a69a3116b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "Det finns ca 9 rum i mitt hus.",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "2e509c6c-642c-4fbe-9a22-2fb018a11d4d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "c97ff6c3-4491-4266-8f6c-bc79533560fa"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "De reglerna som finns i mitt hem är: \nInte för mycket skärm, ca 2 till 3 timmar\nHjälpa till att plocka från matbordet\nGöra läxor innan man kollar på skärm",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "c7e664bd-d7d3-4a6c-b3a8-1d4bb20f4964"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "Utsidan av mitt hus är röd, och insidan är till mestadels träfärgad, men lite av mitt hus är vitt. Det finns ca 9 rum i mitt hus.",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "a7399789-f51f-45db-9b78-77bc08e802de"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "Jag brukar hjälpa till med att ta bort från matbordet, ta fram kaffe till mina föräldrar och ibland brukar jag dammsuga.",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "6df4c2b3-efa2-4fd7-beae-b3bd84ec8a82"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "display_value": "De som bor i mitt hem är min familj, min mamma, min pappa och min lillebror. Jag har bott i mitt hem sedan jag föddes (12 år).",
+        "modified": "Thu, 24 Feb 2022 16:53:27 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "d234d8f5-b2c1-4562-85f0-59d72ed97a93"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00501",
+    "contributor": {
+      "display_name": "Wilda"
+    },
+    "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18466",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "5b39b081-eac7-4717-b2d8-5b3f507e0364",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Jag har ett eget rum på övervåningen.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "ac2447da-b19e-43f2-80e6-ed8cc8c78d61"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Nej jag bor inte i flera hem.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "e7c9face-7879-438d-bcef-f641ef91c268"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Jag gillar att spela eller vara med min familj, rita eller måla.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "7ba15a56-2717-4975-84fe-152053dcc832"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "121",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "773b058b-c6aa-428b-ad90-753c3bf7d0ab"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Det huset jag bor i nu har jag bott i 9 år. I mitt hus har vi två toaletter fyra sovrum ett vardagsrum som sitter ihop med  köttet och matbordet. Vi har ett förråd och vind och ett förvaringsrum som vi har gjort om till ett datarum. Vi har även två hallar och två altaner. I mitt hem finns det tio rum men tre rum sitter ihop. Jag sover i mitt rum det ligger på övervåningen jag har utsikt ut mot lekparken. \n\nJag har ett eget rum och mina syskon har ett eget rum. Mamma och pappa har ett sovrum tillsammans. Därifrån är det utsikt till vår “ trädgård och bilvägen. Utanför mitt fönster ser jag träd vår tomt och massa andra hus och vår grannes tomt. I mitt hem brukar jag spela sjunga spela trummor och leka med min hamster, kaniner och mina syskon. Jag är även med familjen och leker eller tittar på tv eller spelar.\n\n\n\nVårt hus\nVårt hus har ett datarum med två stationära datorer. En hall och två tomter en på framsidan en på baksidan vi har ett vardagsrum som sitter ihop med köket. Vi har ett rum som det står ett matbord i. Vi har ett badrum där nere. Där uppe har vi fyra sovrum och ett badrum. \n\nMin favoritplats är datarummet, vardagsrummet, hallen där uppe för jag kan bygga lego där och mitt rum och mammas och pappas rum för jag kan spela på min padda och sitta i fönstret medans.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "ee8f0bf3-9522-4a87-80df-2a957fc5f970"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "9 år om en månad.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "6c0e454a-e6ac-49a6-856d-e5e5f4117b5a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Vi har 12 rum i vårt hus. \nDet huset jag bor i nu har jag bott i 9 år. I mitt hus har vi två toaletter fyra sovrum ett vardagsrum som sitter ihop med  köttet och matbordet. Vi har ett förråd och vind och ett förvaringsrum som vi har gjort om till ett datarum. Vi har även två hallar och två altaner. I mitt hem finns det tio rum men tre rum sitter ihop. Jag sover i mitt rum det ligger på övervåningen jag har utsikt ut mot lekparken. Jag har ett eget rum och mina syskon har ett eget rum. Mamma och pappa har ett sovrum tillsammans. Därifrån är det utsikt till vår “ trädgård och bilvägen. Utanför mitt fönster ser jag träd vår tomt och massa andra hus och vår grannes tomt. I mitt hem brukar jag spela sjunga spela trummor och leka med min hamster, och kaniner eller iblan mina syskon. Jag är även med familjen och leker eller tittar på tv eller spelar.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "2ea68e9d-a7c8-47e8-b8b9-6b06932adf52"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "fd6bc39e-750b-45fd-b751-26b92ff19919"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Nej vi har typ inga regler. Man ska bara helst inte svära eller gå in med skor efter städaren har städat.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "e3d1ba19-8a38-4dd1-80c8-0a169f1a23c8"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Det är en altan och studsmatta, på andra sidan är det en lekpark, det är även en lite väg utanför.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "be2321f8-aa53-4d0f-8b84-e54aba27e823"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Jag brukar inte göra jätte mycket mest plocka in min disk från mat bordet, ta upp in kläder. Matar mina djur och städar burarna.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "33c4b16a-d9cf-4ef5-9e24-8197bafbd269"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "display_value": "Min mamma, pappa, två lillasystrar, två kaniner och en hamster.",
+        "modified": "Thu, 24 Feb 2022 16:54:29 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "ba337924-a996-43a9-975c-ef6eb9f0d6e7"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00503",
+    "contributor": {
+      "display_name": "Alice"
+    },
+    "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+    "image_dms_id": "013AkPFoPins",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 22 Feb 2022 09:26:35 GMT",
+        "description": "Här är en bild på mitt kylskåp. Vi har precis handlat när bilden är tagen.",
+        "dms_id": "013AkPFoPins",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 22 Feb 2022 09:26:35 GMT",
+        "name": "IMG_3081.jpg",
+        "order_by_number": 1,
+        "owner": "Jag tog bilden själv.",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "c4e8daf6-ab12-44fc-804d-2f84036629d3"
+      },
+      {
+        "created": "Tue, 22 Feb 2022 09:26:39 GMT",
+        "description": "Här är en bild på mitt skafferi. Det finns knäckebröd, ris och flingor för det mesta.",
+        "dms_id": "013AkPFoPint",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 22 Feb 2022 09:26:39 GMT",
+        "name": "IMG_3082.jpg",
+        "order_by_number": 1,
+        "owner": "Jag tog bilden själv.",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "608ef324-722d-4afd-9123-909a124d1925"
+      }
+    ],
+    "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18470",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "fc2e4aa7-4072-4d27-8aa8-a3d0155b8331",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "Jag sover på övervåningen i ett eget rätt stort rum.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "6a6aba2c-3e8a-4beb-a58f-92478b665fe1"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "Ja, pappa och mamma. De är skilda. Jag är dock aldrig hos pappa så räknar mitt hem som bara mammas hus.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "687978ae-94c3-4380-99e2-4acbe3345652"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "Jag tycker om att organisera om allt i mitt rum om och om igen. Jag tycker om att kolla på tv och att baka.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "554ac8b5-85e7-4d09-9f86-f908ad307f6f"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "9d22c788-e6d4-4b7e-89e2-d116918bdb60"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "Jag bor med min mamma, hennes kille (han bor inte hos oss men är hos oss tillräckligt ofta för att det ska bli som att han bor hos oss) och min lillasyster i ett ganska stort gult hus. Vi har två våningar med en stor trädgård. Vårt hus är gult på utsidan och vitt på insidan fast vi planerar att måla om hela utsidan till vit.\n\nVi har 14 rum i vårt hus, 3 av dem är sovrum, 1 är mammas walk in closet, 1 är vår groventre, 1 är vårt förråd, 2 är badrum, 1 är vår mest använda entre och ingång till huset plus ett rum efter dörren, 1 är vårt kök, 1 är vårt tv rum, 1 är vårt vardagsrum, 1 är en extra matsal för när vi har gäster och 1 är vår tvättstuga.\n\nVi har bott i vårt hus i ungefär nio och ett halv år, innan dess bodde vi i hammarby sjöstad. Mitt rum är ganska stort. Jag bytte rum för ungefär en vecka sedan, nu har jag en 1,60 säng och röda gardiner. Jag har en vit matta under sängen och ett färgglatt täcke på sängen. Jag har en tv inne i mitt rum och under tvn är ett Ps4. Jag har ett litet skrivbord som vi snart ska byta ut. På skrivbordet står just nu massor av foton på vår förra hund som vi behövde avliva den 26 februari år 2021.\n\nJag har ett eget rum och utanför mitt fönster kan jag se vår trädgård och våran uppfart. Vi har en liten sten i mitten av vår trädgård och en bod på kanten. Vi har 3 äppelträd också och vi har en studsmatta som lutar som in åt helvete åt sidan efter att några byggarbetare flyttade på den när de skulle ge oss kommunalt vatten. På baksidan har vi en terrass med grill och soffor/fåtöljer. Vi har en pilkastningstavla och ett till äppelträd. Vi har också en dörr ut från vårat hus rakt ut på terrassen. På terrassen står också två blåa hängmattor. \n\nVi har en balkong som går ut från köket där man kan se ungefär lite mer än halva vår trädgård ifrån. Den är vit och har en lucka över sig som leder upp till våran vind där vi förvarar alla julgrejer och mammas gamla saker från när hon var barn + lite grejer från pappas släkt.\n\nJag tittar mest på tv när jag är hemma. Jag går oftast ut på promenader med mina vänner när jag har tid över så jag är inte hemma så ofta förutom när jag är med mina vänner för vi har en stor vängrupp och jag har ett stort rum/hus.\nMin favoritplats i mitt hem är mitt rum eller köket. Jag spenderar den mesta tiden av när jag är hemma i mitt rum och den överblivna tiden i köket. Jag sminkar mig såklart i badrummet och jag går på toa och så men jag gillar inte badrummet.\n\nReglerna i mitt hem är inte så många. Jag ska sova klockan tio på vardagar och 11-12 på helger, jag får inte äta något precis innan vi ska äta mat och jag måste städa mitt rum ibland. Vi har liksom inte så många regler och eftersom jag inte ser mamma så ofta så hinner vi aldrig gå igenom några regler men de jag tog upp nu är de mest självklara reglerna.\n\nJag hjälper ibland till med att laga mat och jag städar mitt rum och badrum. \nJag tycker det är kul att organisera om i mitt rum för att ibland tröttnar jag på ordningen i rummet så jag flyttar runt sakerna och samtidigt som jag flyttar runt sakerna så städar jag rummet. Det är ungefär samma sak med mitt badrum för att allt blir stökigt jättesnabbt i mitt badrum så jag måste städa det nästan varje vecka.\n\nJag blir också ofta arg på vår städare när hon städar mitt rum och badrum och bara slänger/gömmer mina saker någonstans i mitt rum där det är omöjligt att hitta dem. Mamma kan gör samma sak igen. Han proppar in mina kläder i min på tok för fulla garderob, hon slänger in alla mina smycken, hårband och allt som ligger framme i ett badrumsskåp där inget får plats och hon slänger saker från mitt rum som inte ens är skräp.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "1b288899-5615-41da-b1fa-af5b25c1b699"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "11 år.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "3db06326-cfd3-4d09-983e-8c0c8e91ce3d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "14.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "6e28cf95-4dad-4699-8324-b0b750318533"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "0d954be1-2530-4e4f-818a-857e1ea4fa2e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "Jag får inte spela musik som är olämplig på hög volym.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "a43d8abf-c5c6-411f-9230-6c9c2e80de7a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "Jag har en stor trädgård med en studsmatta.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "e2bc740f-6e31-4e41-8d6e-dc1aad385562"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "Jag hjälper till att ta bort tallrikar från matbordet efter att vi ätit.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "685e4119-7303-4a31-b3e0-591ae58b7ef8"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "display_value": "Mamma, min syster Signe och jag.",
+        "modified": "Thu, 24 Feb 2022 16:56:44 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "f79beca8-d9b1-4d45-be84-ce353ae1994d"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00505",
+    "contributor": {
+      "display_name": "Elin"
+    },
+    "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18474",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "e503946d-6e83-4847-bb74-d87ac8099e6c",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Jag har ett eget rum både hos min mamma och hos min pappa, Jag sover alltid i mitt rum.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "98cd8aed-4626-4cab-bda2-4d40434bb704"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Jag bor i två hem, Jag bor I en vit ganska stor villa med en vit dörr hemma hos pappa och hemma hos mamma bor jag i ett rött rätt så stort parhus med blå dörr. \n\nJag har 2 stycken sommarstugor båda ligger i Norrland. En som vi kallar för krog, den sommarstugan har vi på min pappas sida av släkten, den har en egen brygga, en bastu, ett stort förråd, ett dass, en lekstuga , en vedbod och sedan själva huset där vi bor. \n\nSedan har vi en sommarstuga på min mammas sida också, det kallar vi för Änge, det har ett jätte stort förråd, ett dass och själva huset där vi bor också. På sommaren när vi vill bada brukar vi gå till en strand som heter kärringbadet, det tar ungefär 15-20 minuter att gå dit.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "26eec6f5-a127-415e-bf4d-1c6b3fd4d843"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Hemma brukar jag oftast titta på film, bara titta på mobilen, göra om i mitt rum eller plugga, men det gör jag bara om jag inte är med någon kompis. Om jag har en kompis hemma brukar vi oftast vara ute, jag bor ju i parhus så längst ner på gatan finns det en lekpark och en fotbollsplan så om vi är hemma hos mig brukat vi oftast gå ner till fotbollsplanen och antingen spela fotboll eller bara hänga där eller så brukar vi vara i lekparken och gunga för det finns en stor rund gunga där. men om vi är inne hso mig så brukar vi typ titta på obilerna",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "2e57b8ff-bb56-4043-b66f-22e7fa4c7cc0"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "124",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "b66b8d1c-3443-4f32-93ce-7cf0f4d92a0b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Jag har skilda föräldrar så jag bor varannan vecka hemma hos mamma och varannan vecka hemma hos min pappa. Hemma hos min pappa bor vi i ett stort vitt hus, Det är väldigt många trappor upp till huset. Det finns ett garage och en källare. Rummen i huset är 3 sovrum, ett vardagsrum, ett kök, två badrum, en hall och en tvättstuga. Mitt rum har rosa väggar och en stor fluffig matta som täcker nästan hela golvet. Jag har en rätt så stor säng, en vit byrå, ett skrivbord och en lång garderob som täcker hela en väggen. Jag har även en dörr ut mot baksidan. \n\nHos min mamma bor jag i ett Rött parhus. Det är en väldigt liten tomt men det finns ett litet förråd vid uppfarten. Det är ett två vångs hus och det finns en hall, ett kök, tv badrum, 3 sovrum, ett vardagsrum och ett litet rum under trappan som vi använder som förråd. Mitt rum har gråa väggar en säng, ett sminkbord, en byrå där jag har mina kläder och en klädställning där jag hänger upp alla kläder som jag använder oftast. Jag är inte så jätte nöjd med mitt rum hemma hos mamma så jag ska göra om det snart.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "4a040498-c1d8-4c08-866b-27cf93910e0d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Hemma hos min pappa har jag bott hela mitt liv, med andra ord i 11 år. Hos min mamma har jag inte ens bott i ett år, vi flyttade in dit i somras så vi har bott där i ungefär 7 månader. Jag har bara flyttat en gång och det var i början av sommaren när mamma flyttade eftersom mina föräldrar hade skiljt sig runt julafton förra året.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "374faff3-1f89-4ff9-86e9-1c38c70ddac7"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Hos min pappa har vi 8 rum, 3 sovrum, 2 badrum, en tvättstuga, en hall, Ett vardagsrum och ett kök.\n\nHos min mamma har vi 10 rum, en hall, ett kök, ett vardagsrum, 2 badrum, ett litet förråd, 4 sovrum.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "06669e3a-da88-4d30-8409-622322837858"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "35127526-2244-4f1b-962e-43705cb783cc"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Helst inte godis på vardagar och om jag ska köpa godis och lite mer \"onödiga\" saker så får jag köpa dom för mina egna pengar.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "4cac4443-1051-46ae-bc95-cf4e04fb773d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Hemma hos pappa har jag en rätt så stor tomt. På baksidan finns det en altan med en uteplats, grill, lite växter och en studsmatta. Pappa bor på ett berg så det är väldigt många trappor upp dit. Hemma hos mamma har jag en väldigt liten tomt. Det finns knappt någon gräsmatta men det finns en liten uteplats på framsidan och på baksidan är den en väldigt liten altan med en kanin bur på.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "0843529a-d8cd-4eeb-a4cf-52822adff531"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Jag hjälper till med att plocka i och ur diskmaskinen och med att ta ut soporna, det är dom kraven mina föräldrar har för att jag ska få min månadspeng.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "ba6aad23-d5e6-4217-8aaf-afe02dcfa12d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "display_value": "Hemma hos min mamma bor min mamma Sara, jag, min lillebror Axel och min kanin Enzo, Enzo är en lejonhuvad kanin. Min mamma är 44 år, min lillebror är 8 år och min kanin är Bara några månader. \n\nHemma hos min pappa bor min pappa Peter, jag, min lillebror Axel, min bonus mamma Louise, mina två hundar jack och Dexter. Min pappa är 42 år, min bonus mamma är 39 år, min hund Dexter är 1 år och några veckor och Jack är 3 år och min lillebror är 8 år. \n\nMin mamma jobbar på handelsbanken inne i stan, min pappa jobbar på ett byggföretag och min bonus mamma jobbar som sångerska i ett band. Min lillebror går i 2:an på sågtorp skolan och jag går i 5:an på sågtorpskolan.",
+        "modified": "Thu, 24 Feb 2022 16:57:09 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "694849ac-73f9-4dc6-b160-bfe16a6542c9"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00507",
+    "contributor": {
+      "display_name": "Felix"
+    },
+    "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+    "image_dms_id": "013AkPFoPisE",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 22 Feb 2022 09:33:53 GMT",
+        "description": "Mitt hus en fin bild på natten.",
+        "dms_id": "013AkPFoPisE",
+        "image_height": 542,
+        "image_ratio": 0.8616236162361623,
+        "image_width": 467,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 22 Feb 2022 09:33:53 GMT",
+        "name": "Screenshot 2022-02-17 at 10.47.15.png",
+        "order_by_number": 1,
+        "owner": "Mamma",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "a0d25211-9675-4565-9d9c-8a00e337a5af"
+      },
+      {
+        "created": "Tue, 22 Feb 2022 09:45:49 GMT",
+        "description": "Mitt hus när jag hade en röd balkong",
+        "dms_id": "013AkPFoPiwa",
+        "image_height": 334,
+        "image_ratio": 1.8173652694610778,
+        "image_width": 607,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 22 Feb 2022 09:45:49 GMT",
+        "name": "Screenshot 2022-02-17 at 10.47.30.png",
+        "order_by_number": 1,
+        "owner": "Mamma",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "9aa4e024-9492-47da-8f7b-baabb3f27b34"
+      }
+    ],
+    "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18478",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "7d5f41e0-e919-4f13-b894-911eb261e107",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "Jag sover i mitt rum ja jag har eget rum ibland får jag sova i gästrummet för det är skönt.",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "29758054-754c-4ff5-bf53-5516473588ee"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "Nej bara ett",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "4d399dd9-09ad-47fd-a3c2-89549c30611c"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "Jag gillar att spela fotboll träna taekwondo, sortera fotbollskort och spela FIFA.",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "6475575b-f117-45aa-984c-67c7de15500c"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "7b288f3f-080b-4a83-aaec-c172bf17af81"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "Livet i mitt hem\nJag har bott i mitt hus sedan jag var 2 månader så jag var väldigt liten.\nUtanför mitt rum ser jag just nu ett arbete men inte så länge till dom spränger utanför mitt hus och fixar vägen men snart är det över då ser jag vårt garage och det bästa är vår gräsmatta med vår fotbollsplan.\nJag har inte så mycket regler hemma. Jag har en bastu i mitt hus det är i mitt badrum nere. Jag har ju två våningar.",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "e944a5e8-bbf4-451b-b902-719050494c2d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "I mer än 12 år från när jag var ca 2 månader.",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "897264b9-2b42-49a7-a6df-ee42191c1890"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "9 rum tror jag",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "b3b15df9-2fe6-460f-bcfd-ff27dfaa8d7b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "97a5f41b-ad39-4e98-af87-61c7fc235623"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "Jag har skärmtid på mobilen och jag får inte ha min mobil vid matbordet när jag ska äta.",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "d5f9fcd0-2e14-46d2-b53e-2fbd2ee3f6f7"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "Jag har en gräsmatta på sommaren har jag en studsmatta, jag har ett spabad och ett garage.",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "5309e9ae-cc32-4d2a-86b5-890435b1895d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "Inte så mycket men ibland kan jag göra uppdrag som är att hjälpa till hemma för att få pengar.",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "9059bee4-d304-42db-a90c-fc176c994880"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "display_value": "Min mamma, pappa, och min lillebrorsa.",
+        "modified": "Thu, 24 Feb 2022 16:58:02 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "b9b84095-fdd2-408c-9d49-c96a8b322a1b"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00509",
+    "contributor": {
+      "display_name": "Teo"
+    },
+    "created": "Thu, 24 Feb 2022 16:58:44 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:58:44 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18482",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "b0b5de56-105d-484c-b035-aaab3099012e",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "1bf106f3-705f-4e66-8209-f4dd834f64c1"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "display_value": "Livet i mitt hem\nI min familj är det jag min lillebror som heter frans och min pappa som heter Martin och min mamma som heter Ida. Jag har bott i mitt hus hela mitt liv alltså sen jag föddes. Vi har 9 rum tre sovrum och jag har det ena och frans har ett jag och mamma och pappa har ett. Sen har vi två badrum ett stort med badkar och ett litet med bara en toalett och ett handfat. Sen har vi ett kök och en matsal och vardagsrum som sitter ihop men de är ändå olika rum. Och till sist en tvättstuga. Vi har en fantastisk utsikt och en superstor altan och på baksidan av huset har vi en till altan. Våran tomt lutar väldigt mycket. På baksidan finns det en stig som går till våran studsmatta. jag och min lillebror hoppar väldigt mycket på våran studsmatta. jag sover i mitt rum har jag precis lärt mig att sova själv. Från mitt fönster ser jag utsikten och våran altan. Jag gör inte så mycket hemma för jag är inte så ofta hemma jag brukar vara hos en kompis eller cyklar men om jag är hemma så brukar jag titta på teve och då tittar jag på youtube eller MotoGP eller på cyklar. När jag är hemma så hoppar jag också mycket studsmatta. Min favoritplats är mitt rum eller vardagsrummet. Vi har inte så många regler typ den ända är att man inte ska svära. Jag hjälper till med att med att tvätta cyklar och kläder ibland så plockar jag in och ut diskmaskinen.\n Mitt rum är rätt så litet. När man kommer in genom dörren i mitt rum så har man ett skrivbord framför sig och om man kollar till höger så är min säng där och på samma vägg som dörren är så finns det en tv och några skåp.",
+        "modified": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "ecfd7bf6-fe54-4f41-bcae-a63568b4170e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "display_value": "hela mitt liv",
+        "modified": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "cefc12ea-8a38-43ab-9a53-b3e5215c1fe0"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "26845cf0-98d6-4782-872e-1dd5f14fa32b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "display_value": "vi bor som lite på ett berg och har fin utsikt.",
+        "modified": "Thu, 24 Feb 2022 16:58:44 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "065861f9-51c1-4020-98d2-5c767c556ac7"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00511",
+    "contributor": {
+      "display_name": "Vendela "
+    },
+    "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+    "image_dms_id": "013AkPFoPisD",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 22 Feb 2022 09:33:22 GMT",
+        "description": "Detta är en bild från mitt badrum.",
+        "dms_id": "013AkPFoPisD",
+        "image_height": 1498,
+        "image_ratio": 0.7510013351134847,
+        "image_width": 1125,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 22 Feb 2022 09:33:22 GMT",
+        "name": "image0 (1).jpeg",
+        "order_by_number": 1,
+        "owner": "Jag själv.",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "01182df8-7416-4ca0-867b-97852f99bdcc"
+      }
+    ],
+    "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18486",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "7c76b1d9-dbcb-4ad3-b383-d77909c5bc02",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "Det finns tre sovrum, jag och min lillasyster har varsitt sovrum. Mitt sovrum är väldigt litet. Utanför mitt fönster så ser jag vår trädgård och en grusväg. Men grusvägen är bara en liten väg för att komma till vårat hus. Mamma och pappa delar sovrum, ett ganska stort.",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "f6cbaeb3-b6b9-49e3-973e-2947f75c4412"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "Nej jag har bara ett hus där jag och hela min familj bor tillsammans.",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "710a20e0-69a9-4937-a07a-b7fdab8ba5a8"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "Mest av tiden spenderar jag i mitt rum, med min mobil. Annars är jag i vardagsrummet och kollar på TV. Men ett av mina mitt favorit ställen i huset är nog mitt sovrum för att jag kan vara själv där och det mitt egna rum liksom. Men jag gillar också min studsmatta för att där kan jag öva på nya trix och lära mig mer. Det jag oftast gör på studsmattan är att öva på gymnastik, det är en av de bästa sakerna i mitt liv!",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "68b9f1a8-0ec9-4e2f-917c-1f2fb879bfe6"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "f2e9ee75-19a9-4995-af87-d1076c053430"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "Mitt hem\n\nI mitt hus bor min familj, det är mamma, pappa, och min lillasyster Philippa. Vi har bott i det huset i 10 år. Sedan min lillasyster föddes. Innan vi bodde i det huset bodde jag och mina föräldrar i en lägenhet i stan, eller en vindsvåning för att vara exakt. Men tillbaka till huset. Mitt hus är brunt och ganska avlångt, med många stora fönster. Det är också ganska modernt på både utsidan och insidan. Inomhus är det ganska öppen planlösning. Iallafall på nedervåningen, för på ovanvåningen så ligger allas sovrum. \n\nDet finns tre sovrum, jag och min lillasyster har varsitt sovrum. Mitt sovrum är väldigt litet. Utanför mitt fönster så ser jag vår trädgård och en grusväg. Men grusvägen är bara en liten väg för att komma till vårat hus. Och mamma och pappa delar sovrum. Sedan så har vi två badrum och två vardagsrum. På nedervåningen så hade vi först bara en eldstad där nere i vardagsrummet, och en Tv där uppe. Fast sen så satte vi upp en Tv där nere också. \n\nOch ett kök. I köket så finns det en kyl, en frys och en köksö. Sedan finns det såklart också massa bänkar att laga maten på. \n\nMest av tiden spenderar jag i mitt rum, med min mobil. Annars är jag i vardagsrummet och kollar på TV. Men ett av mina mitt favorit ställen i huset är nog mitt sovrum för att jag kan vara själv där och det mitt egna rum liksom. Men jag gillar också min studsmatta för att där kan jag öva på nya trix och lära mig mer. Det jag oftast gör på studsmattan är att öva på gymnastik, det är en av de bästa sakerna i mitt liv! \n\nEn sak som gillar är att jag och min lillasyster inte har några sysslor i vårt hem. Vi behöver inte diska eller vika alla tvättade kläder. Utan vi får göra precis vad vi vill hemma. Som tex kolla på TV och göra gymnastik på studsmattan eller andra frivilliga saker som vi tycker om. Det var nästan allt om mitt hem!",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "492792e3-0068-4507-b34d-4c687e5abf91"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "I ungefär 10,5 år.",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "dbcd3922-4d16-4918-81e9-a5ddd1c728aa"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "12 rum har jag hemma hos mig. 2 badrum, 1 kök, 2 vardagsrum, 3 sovrum, 2 arbetsrum, 1 tvättstuga och 1 hall.",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "58dbd96b-baad-42cd-91df-657761053d69"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "6972dd32-153a-4c24-ae9b-5e004af24ca5"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "Vi har inte några speciella regler hemma. Men det är väl bara att jag ska bete mig bra, men mina föräldrar är inte så tränga. Så jag får göra det mesta.",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "0b8a93cc-b23f-4789-8723-386aa1bb1b70"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "Utanför mitt hem har vi våran tomt. Mamma gillar mycket att plantera så vi har en stor trädgård med alla mammas plantor hon har planterat. Vi har bara en grusväg för att komma till vårat hus. Men det är för att det är en liten väg med bara några få hus på. \n\nPå sommaren är tomten alldeles grön och färgad i alla olika färger, tack vare alla mammas blommor. Jag brukar inte hjälpa mamma att plantera för det är inte mitt favorit intresse. Men jag uppskattar att hon gör så fint i trädgården dock.",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "e3acd633-f67b-4847-8161-91457ad88f7e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "En sak som gillar är att jag och min lillasyster inte har några sysslor i vårt hem. Vi behöver inte diska eller vika alla tvättade kläder. Utan vi får göra precis vad vi vill hemma. Som tex kolla på TV och göra gymnastik på studsmattan eller andra frivilliga saker som vi tycker om.",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "ff436987-fee3-4b74-9ba4-a6d7226038e9"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "display_value": "Det är jag och min familj. Det är mamma, pappa och min lillasyster",
+        "modified": "Thu, 24 Feb 2022 16:59:15 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "9ccad0a2-e968-48ce-adc7-13f71ebedd5c"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00515",
+    "contributor": {
+      "display_name": "Ellen "
+    },
+    "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+    "image_dms_id": "013AkPFoPinp",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 22 Feb 2022 09:13:40 GMT",
+        "description": "Bild från min balkong",
+        "dms_id": "013AkPFoPinp",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 22 Feb 2022 09:13:40 GMT",
+        "name": "IMG_4185.jpeg",
+        "order_by_number": 1,
+        "owner": "Ellen",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "5f278840-c430-4fe7-841a-c6f897866908"
+      }
+    ],
+    "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18494",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "4922d495-ef93-4ed5-a725-1ff05eb37f66",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Om man går upp för trappan i hallen och svänger höger så kommer man in i mitt rum. Jag har ett eget rum men min hund är där väldigt ofta.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "e9f9695a-716a-41d6-96ff-30379717f37b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Nej, bor bara i ett hus.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "16a8f2ad-bc20-45cf-8d71-daaf3353af0a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Jag tycker om att kolla på min mobil, hänga på datorn och chatta/spela. Jag gillar också att kolla på tv och sånt, jag chillar mest alltså.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "3fc59b5d-82d9-4218-b139-a1a363cba960"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "e1a3be1c-2f9a-4ec8-a0dc-9fdca9b1d59f"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Livet i mitt hem!\nHemma hos mig bor, min mamma (42 år) min pappa (41 år) min bror (15 år) min hund (6 år) och jag 12 år.\nJag har tre våningar i mitt hus, och huset är svart.\nLängst uppe bor jag, min bror och mina föräldrar fast mina föräldrar har separata trappor, dom bor bakom vardagsrummet när man går upp trappan och jag och min bror bor i trappan över hallen.\n\nMitt hus är rätt så modernt, vi har en egen tomt vid vattnet.  Tomten är väldigt stor med väldigt mycket plats, vi har också en balkong på andra våningen. På andra våningen är det hall, badrum, vardagsrum, matrum och kök. På tredje våningen är det alla rum och ett badrum, och längst ner är en källare och tvättstuga. Jag och min bror är inte bra vänner alls, han psykiskt misshandlar mig, han är extremt taskig och gör narr av allt jag gör. \n\nMina föräldrar är coola, dom ger mig mat så det är pluspoäng. Jag skulle säga att min bror är väldigt spoiled, han har en dator som kostar asmycket men ändå så kan han inte gå ut med kotten, “jag är upptagen, är mitt i en match” är vad man hör varje gång mina föräldrar frågar om han kan gå ut med kotten. Jag säger oftast att jag kan gå ut, förutom när jag har precis kommit hem och när jag är mitt i en sak. Jag har bott här sen 2015, först bodde jag i Skogås men vi flyttade för vi hittade ett bättre hus. \n\nJag är glad att jag flytta eftersom jag har träffat några magiska människor. Mitt tak är rött, ganska basic i sverige men det är chill. Jag har ett garage som är svart, vi lägger inte in bilarna där dock eftersom min pappa har förstört hela stället med all skit saker från hans jobb. Min pappa är byggare och min mor jobbar som accounter, vet inte direkt vad hon gör men något med att ge läckor till personer som behöver det.  I min familj finns det bara en regel, diskriminera inte varandra. Också saker vi måste göra för att få månadspeng, vi måste gå ut med kotten  varannan dag och göra disken. Jag brukar få 500 i månadspeng men den här månaden fick jag 600 kr istället. Vet inte hur mycket min bror fick men troligen 1000 kr eftersom mina föräldrar verkar gilla han mer. (Dock är jag 100% bättre än han på allting.) Jag sover i min säng. Och min favoritplats är i mitt rum, utanför mitt fönster ser jag min balkong och kullen på mitt hus och längst ner ser jag  mina bryggor och vattnet.\n\nDet var allt om mitt hus, tack så mycket för att du läste! Vi ses.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "2b407104-aa3e-465b-b2bd-bbd481b1a867"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Sen 2015 har jag bott i mitt hus.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "e1735e1f-7c8c-45bb-97fa-fd7e54f30d81"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Åtta rum har jag i mitt hus.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "71e10514-0336-4c55-82de-6e8ff995d55a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "d28c048f-5f7b-4a4b-aa65-4560367a64ee"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Inte direkt några regler, mina föräldrar är väldigt fria med saker man får göra.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "32148520-552c-49f9-8706-600db7268d53"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Jag har en väldigt stor trädgård med tre slänter nedåt. Och där har jag en sjö utanför med två bryggare. Och en mini strand vid några stora stenar. Sen har vi också ett litet hus där man kan äta mat och grilla.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "59bddd40-30d5-42f4-b2f8-c72578a6e978"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Jag hjälper inte till så mycket hemma, jag brukar gå ut med min hund ibland och sånt. Och disken ibland men gör inte så mycket hemma just nu, det brukar ändras.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "4cee64ee-a5d4-4bf2-aa9e-c6cc981d30c6"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "display_value": "Min mamma Camilla, min pappa Fredrik, min bror Elias och min hund Kotten.",
+        "modified": "Thu, 24 Feb 2022 17:00:29 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "519c6e31-90d1-4e08-920d-995a32d2f4bc"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00517",
+    "contributor": {
+      "display_name": "John"
+    },
+    "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18498",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "7319560c-ae3a-4fbb-9e48-ee78a4d75ab3",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Jag her ett eget rum hos min mamma och pappa men ibland så måste jag sova i soffan.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "d9fb60cb-19b9-488b-a0f0-6eca39c93560"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Jag bor i två hem för mina föräldrar är skilda och jag bor i kummenäs med min mamma och jag bor i tollare med min pappa. Jag tycker att dom är lika bra jag trivs lite mer med min mamma för jag har levt där hela mitt liv.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "e0b958cb-e6f0-43a3-b5e6-a5039aee9f8c"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Jag brukar spela spel på datorn med mina kompisar. Och jag brukar dribbla med min basketboll.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "113c5059-4b88-4722-b73b-193363aa0e92"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "124",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "2d4fad4f-0bdf-4e05-8a62-60d9eee1b1af"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Jag vaknar i min säng oftast trött för jag somnar oftast ganska sent. Sen så slänger jag bort täcket och tar mobilen och kollar vad klockan är. Om den är mer en 7.20 så stressar jag mig men om det är t.ex kl 7 så tar jag det lugnt. Jag tar på mina svart byxor som är från junkyard som är en skateboardbutik och en t-shirt och en hoodie och mina Jordan tofflor som jag fick i present. Utan strumpor såklart. Och sedan går jag ner för trappan och öppnar kylskåpet och tar juice paketet. Sen öppnar jag frysen och tar danskt rågbröd och tar ut en macka från paketet och lägger den i rosten. Sen tar ut leverpastej och gurka smör och häller upp äpple juice och läger is i glaset. Efter det tar jag ut vaniljyoghurten och häller upp det i en skål och lägger i lite mango och granola. När jag hör macka poppa up från rosten och jag går det och tar den och lägger på brickan. Jag tar smörkniven och smörar mackan. Efter det tar jag leverpastejen paketet och brer på mackan och sist så tar jag en vass kniv och skär 3 gurkbitar. Jag brukar ta 5 tuggor av mackan och efter de så dricker jag äpple juicen. Och sen så ställer jag in glaset i diskmaskinen.\n\nJag går jag upp för trappan och går mot toaletten och tar min tandborste som är lila med en svart borste och blöter den med vatten och tar tandkrämen som märket är coolgate och så trycker jag på tuben och så kommer det tandkräm på borsten och börjar borsta i typ 2 minuter. Och när jag är klar med det så går jag och tar på min jacka och skor och mössa och tar skateboarden och väskan och säger hejdå till mamma.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "e49bc8dc-cd30-4c19-9b59-4c9ef969fec0"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Hos min mamma har jag bott i hela mitt liv och det är tretton år. Hos min pappa har jag snart bott ett helt år.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "cdffb842-4044-4dfd-a152-9edcb7a713db"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Hos mamma är det nio rum och hos pappa finns det sju rum.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "41a3e8aa-2814-432f-ae3e-df9ea00e092b"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "cb25f2bc-0c19-4623-8673-a069bc4e986e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Jag får göra ganska mycket men några regler är att man ska vara i sängen klockan tio och läsa och att man måste plocka undan matten efter sig.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "74d50c1c-3aee-44c6-85ec-22e6b648067f"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Hos mamma är det ett stort hus som två familjer bor och huset är rött med röda tak tegelstenar. Och hos pappa är det en stor lägenhet med 10 våningar och vi bor på 5 våningen. Och färgen på lägenheten är grå.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "16706848-8b87-461b-9d1f-c04c84c019ee"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Jag brukar hjälpa till med att laga mat och vika tvätten.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "0c2cb010-c22c-4d41-865a-5880eed01087"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "display_value": "Hos mamma är det jag mamma min syster och min stora syster. Min mamma är 51 år gammal och min tvilling är snart tretton som mig och min stora syster är snart arton år om 10 dagar.",
+        "modified": "Thu, 24 Feb 2022 17:00:56 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "6872ba07-baad-4eb8-8f37-e4d6aa40c003"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00519",
+    "contributor": {
+      "display_name": "Andrea"
+    },
+    "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18502",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "fc613420-591e-44c7-a916-3f89ecb56ab5",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Jag sover i mitt rum som jag har för mig själv. Jag bytte rum med mina föräldrar för ganska länge sen för att mitt förra rum inte passade mig så mycket och det var för stort. Jag är nöjd med mitt rum nu men skulle gärna vilja ha lite mer planscher på kpop grupper på väggarna.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "696f79c9-5e9a-41f6-ae77-5b5c07dfe933"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Jag har bara ett hem vilket är väldigt skönt för mig så att jag inte behöver gå mellan två hem/hus hela tiden. Mina föräldrar har alltid varit tillsammans sen jag och min syster föddes så jag tror inte att det någonsin kommer bli flera hem för mig tills jag flyttar hemifrån.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "48b04963-d447-44a2-9b53-896c3d2e25f7"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Hemma så gillar jag att umgås med min syster. Även om jag inte är så social utanför mitt hus eller mot andra så är jag det med min syster. Vi brukar göra väldigt mycket med varandra och det är roligt att vara med henne.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "fefe86fd-1a9f-428b-a61a-40fac5a2988e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "120",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "271755f5-634e-4f2a-837c-785e3be48e42"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Min familj består av mig, min mamma, min pappa, min äldre syster och mitt marsvin. Vi alla bor i samma hus. Huset är ganska stort och brunt. Det var kyckling gult innan men mina föräldrar tyckte att det var för utstickande. Jag gillade dock när det var gult för att det såg liksom glatt ut. Det såg ut som ett hus som man vill gå in i för att det verkade så hemtrevligt, vilket det var också. \n\nNu har mina föräldrar börjat bygga på en attefallare med hjälp av några byggare och den ska tydligen bli klar runt april. Jag längtar tills den blir klar så att när jag har kompisar över som ska typ sova hos mig så kan vi sova där och inte bli störda av mina föräldrar. Attefallaren ska ha allting som ett riktigt hus har. Den ska ha kök, toalett + dusch, sovrum, vardagsrum och så ska den ha ett loft vilket jag tror kan bli rätt så mysigt. Mina föräldrar hade först idéen att min farmor och hennes katt, Matza skulle flytta in där när det var klart men det vill jag inte. MIn farmor bor 6 timmar bort i varberg men jag gillar hennes hus i varberg och om hon flyttar till nacka så skulle min familj inte ha någon anledning att åka till varberg något mer.\n\nMitt hus har många rum och jag trivs bra i mitt hus. Det är inte för stort och inte för litet, helt perfekt. Jag älskar särskilt att vara på balkongen men mest när det är sommar. Vi har en stor fatboy hängmatta där som man kan ligga och slappa i om dagarna när det är varmt ute. Jag brukar oftast försöka bygga som ett tält över den så att jag kan ligga och kolla på serier utan att bli för varm.\n\nJag har bott i mitt hus i hela mitt liv. Jag vill aldrig flytta och jag tror inte att vi kommer det heller eftersom att mina föräldrar har lagt ner så mycket tid på att hjälpa till att bygga ut det och för att göra det till var det är idag. Området jag bor i är också väldigt fint och jag har nära till väldigt mycket vilket är en bonus och det gör att aldrig vilja flytta ännu mer eller hur jag nu ska förklara det.\n\nMitt rum är på övervåningen vägg i vägg med köket så jag hör alltid när min pappa spelar hög musik där. När min pappa börjar spela sådan hög musik så vet jag att det snart är dags för middag. Han lyssnar bara på musik när han lagar mat eller när han gör någonting i garaget så man vet liksom vad som händer om han nu lyssnar på musik. Jag gillar inte min pappas musiksmak så mycket. Han gillar mest syntmusik men jag gillar bara kpop/koreansk pop. Jag försökte faktiskt få min pappa att gilla några kpop grupper och det lyckades!\n\nJag har bara ett fönster i mitt rum och utanför det så kan man se mina grannars hus. Ett av mina grannars hus är svarta och det är det jag ser direkt utanför mitt fönster. Jag ser också min bod men den ser ut som att den tillhör våra grannar eftersom att den också är svartmålad. \n\nSå fort jag kommer hem från skolan så brukar jag alltid slänga mig på min säng och läsa olika onlineböcker på wattpad eller bara skrolla på tiktok. Det är sällan jag faktiskt kollar på youtube eller netflix men om jag gör det är det alltid något som hör till kpop eller korea.\n\nMin favoritplats i mitt hem är nog i badrummet på nedervåningen. Det är ett stort, vitt rum med kakelväggar och marmorgolv. Det ligger nästan under marken men vi har ett litet smalt fönster som är tonat/blurrat så att ingen ska kunna se in.\n\nVi har inga speciella regler i mitt hus. Det är ganska fritt men jag och min syster måste göra som mina föräldrar säger. Om vi inte gör som mina föräldrar säger så får vi mindre månadspeng men om vi gör som vi blir tillsagda så kan vi få höjd månadspeng. Jag får vanligtvis 1000 kr i månadspeng. Mina föräldrar för över 500 kr till mitt sparkonto och 500 kr till mitt vanliga konto som är kopplat till mitt bankkort.\n\nHemma så brukar jag hjälpa till med att städa, vika tvätt, stoppa in tvätt i tvättmaskinen och torktumlaren, städa mitt marsvins bur, laga mat, baka (det gör jag inte så ofta eftersom att min syster alltid vill göra det). Mina föräldrar vill alltid att jag ska hjälpa till med mycket mer men då försöker jag bara att förhandla om min månadspeng och då ger dem sig direkt och låter mig slippa hjälpa dem.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "85d7b4c5-582e-434e-868b-aab9f4e78b49"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Jag har bott i mitt hus i hela mitt liv men det såg inte alltid ut som det gjorde nu. Det var mindre och inte så bra med plats för en 2 barns familj.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "f1e69a30-9bf3-4a09-bfe0-4551dcc8f7ee"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Jag vet inte exakt hur många rum det finns i hemma hos mig men om jag skulle gissa så kanske runt 30-40 rum. Vi har väldigt många rum och platser i mitt hus men det känns ändå ätt så litet när man är där inne.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "e776bcb3-d1d5-46f4-941b-ed2f7a979df4"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "0505bc2d-aac9-42cf-b87c-ec5083b309e3"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Vi har inte några regler hemma. Jag tror inte jag hade följt dem ändå men det finns nog inga eller inte vad jag kommer ihåg iallafall.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "a4e25961-5566-434e-9440-b7d6c7bd6cdd"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Min tomt är stor och vi har ett väldigt stort fotbollsmål i trädgården som jag och min mamma brukar använda för att jag ska kunna träna målvakt och så att jag också ska kunna träna på skott. På uppfarten så står alltid min vita bil och min lilla husbil. Där mitt hus ligger så är det jätte många andra villor runt omkring men jag pratar aldrig med mina grannar.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "3fd0875b-156f-4617-ab81-bbd54328ae4f"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Jag hjälper inte så mycket till hemma men det är för att det inte behövs. Om mina föräldrar behöver hjälp med något så hjälper jag ju såklart dem med det.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "512c2eb2-219f-49f2-8264-0c0d33ca120e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "display_value": "Hela min familj bor i mitt hem. Mina föräldrar har aldrig skiljt sig och vad jag vet så brukar de aldrig bråka vilket jag är glad för. Jag bor med min syster som heter Rebecka, min mamma och pappa som heter Vendela och Emil och mitt marsvin som heter Buzan.",
+        "modified": "Thu, 24 Feb 2022 17:01:33 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "090eff62-513f-461e-95ef-b43263742f00"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:2/00521",
+    "contributor": {
+      "display_name": "Otto"
+    },
+    "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18506",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "26d529f7-b61d-4038-8903-db5a53105e65",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "display_value": "jag sover i mitt eget rum i min säng",
+        "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "69f43ecc-218d-4f61-b6cc-70b0e0a0e9b6"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "display_value": "jag tycker om att spela spel på tven och köra baseket eller skateboard.",
+        "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "3c17d0f4-370f-44b9-a6e2-7adc6f77d9b0"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "display_value": "Livet i mitt hem\nJag bor med min mamma och min pappa och min lillebror. Jag har bott i mitt hus i 6 år. Mitt hus har tre våningar med en ytterdörr och en altandörr och en altan. Mitt hus är träfärgat.\n\nJag har två toaletter en uppe och en nere jag har ett kök ett vardagsrum och på övervåningen finns mitt rum och min mamma och pappas rum ligger till höger om mitt och min lillebrorsas ligger till vänster. \n\nOch på vinden har min pappa en verksta som han har byggt själv. Jag sover i min vita säng i mitt rum. Utanför mitt fönster ser jag min tomt med ett fotbollsmål på och gungor i högra hörnet och en liten granskog bakom tomten.\n\n I mitt hem brukar jag vila och kolla youtube i mitt rum. Man måste tvätta händerna efter man har vart på toa eller vart ute någonstans eller hos någon kompis. Man får inte slåss hemma hos mig heller.",
+        "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "660ebdbe-1fa1-47aa-bb5a-65fd14b74a2a"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "display_value": "6-7 år",
+        "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "596c16c4-1828-447f-abf8-8ca005ce0770"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "display_value": "jag har 9 rum i mitt hem",
+        "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "958c723a-e15e-446b-8591-e529f3b1a68e"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "display_value": "jag har gräsmatta på baksidan med en skog bakom.",
+        "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "51ad0548-a288-492d-890c-f86137c3ca2c"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "display_value": "ibland så hjälper jag till med att bedda sängen eller ta undan disken.",
+        "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "398a1b0c-1238-4aec-bcac-4a165ab5bd7d"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "display_value": "min lillebor min mamma min pappa",
+        "modified": "Thu, 24 Feb 2022 17:01:56 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "6859d8bf-57aa-4849-89a7-2a5a87be2c22"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
   }
 ]
