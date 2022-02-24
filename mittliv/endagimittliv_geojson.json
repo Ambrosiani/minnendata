@@ -20368,6 +20368,22 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\n\nJag vaknar upp i min säng klockan 07:00 - 10:00 av mitt alarm på mobilen men ibland brukar …",
+        "date": "24 februari 2022",
+        "author": "Erik",
+        "url": "https://minnen.se/tema/endagimittliv/18509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }
