@@ -33,6 +33,15 @@ for (const topic of topics) {
   const totalCountUrl = 'https://api.minnen.se/api/responses/?topic=' + topic.uuid + '&order=created&limit=0';
   const baseUrl = 'https://api.minnen.se/api/responses/?topic=' + topic.uuid + '&order=created&limit=10';
 
+  var numberOfCoordinates = 0;
+
+  if (topic.make_coordinates_fuzzy) {
+    numberOfCoordinates = 3;
+  }
+  else {
+    numberOfCoordinates = 6;
+  }
+
   var stats = await readJSON(statsFile);
   var storedRecords = await readJSON(storedRecordsFile);
 
@@ -85,7 +94,7 @@ for (const topic of topics) {
           ageArray = [{"display_value":"0"}];
         }
         const ingress = ingressArray[0].display_value.substring(0,100) + "…";
-        var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(6)), parseFloat(item.position.latitude.toFixed(6)) ] } };
+        var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(numberOfCoordinates)), parseFloat(item.position.latitude.toFixed(numberOfCoordinates)) ] } };
         geoJson.features.push(geoJsonFeature);
       }
       // fetch regular coordinates if no school
