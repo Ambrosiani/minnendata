@@ -124,8 +124,9 @@
                 var icon = createClusterMarkers(cluster, 'mittliv');
                 return icon;
               }
-            }).layerSupport({});
+            });
 
+          markerclustergroup.layerSupport();
           markerclustergroup.addTo(map);
 
           for (const topic of topics) {
