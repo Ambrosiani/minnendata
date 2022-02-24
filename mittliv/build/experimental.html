@@ -55,12 +55,7 @@
           }
 
 
-          document.getElementsByClassName('closeButton')[0].onclick = function changeContent() {
-            console.log('click closeButton');
-            document.getElementsByClassName('info')[0].style = "display:none";
-            document.getElementsByClassName('leaflet-control-layers')[0].style = "display:block";
-            document.getElementsByClassName('leaflet-control-zoom')[0].style = "display:block";
-          }
+          
 
           var topics = [
           {
@@ -173,8 +168,15 @@
           if( window.innerWidth > 600) {
             layerControl.options.collapsed = false;
           }
-          
+
           map.addControl(layerControl);
+
+          document.getElementsByClassName('closeButton')[0].onclick = function changeContent() {
+            console.log('click closeButton');
+            document.getElementsByClassName('info')[0].style = "display:none";
+            document.getElementsByClassName('leaflet-control-layers')[0].style = "display:block";
+            document.getElementsByClassName('leaflet-control-zoom')[0].style = "display:block";
+          }
 
 
         </script>
