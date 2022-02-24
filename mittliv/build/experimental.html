@@ -124,7 +124,9 @@
                 var icon = createClusterMarkers(cluster, 'mittliv');
                 return icon;
               }
-            }).layerSupport().addTo(map);
+            }).layerSupport({});
+
+          markerclustergroup.addTo(map);
 
           for (const topic of topics) {
             
@@ -146,7 +148,7 @@
                     });
                   }
                 });
-                collections[topic.slug] = L.featureGroup.subGroup(markerclustergroup, geoJsonLayer);
+                collections[topic.slug] = geoJsonLayer;
                 markerclustergroup.checkIn(collections[topic.slug]);
                 collections[topic.slug].addTo(map);
                 // markerclustergroup.addLayer(geoJsonLayer);
