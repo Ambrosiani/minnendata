@@ -67,6 +67,7 @@ for (const topic of topics) {
     let swedishDate = new Intl.DateTimeFormat('sv-SE', {year: 'numeric', month: 'long', day: 'numeric'}).format(createdDate);
 
     if ('school_uuid' in item) {
+      // save school in separate list
       if (item.school_uuid in schools) {
         item.position = {"latitude":schools[item.school_uuid].latitude, "longitude":schools[item.school_uuid].longitude}
 
@@ -87,6 +88,7 @@ for (const topic of topics) {
         var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(6)), parseFloat(item.position.latitude.toFixed(6)) ] } };
         geoJson.features.push(geoJsonFeature);
       }
+      // fetch regular coordinates if no school
     }
 
     delete item.comment_count;
