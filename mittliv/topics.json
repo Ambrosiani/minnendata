@@ -4,34 +4,49 @@
    "title": "Mitt liv – en dag i mitt liv",
    "slug": "endagimittliv",
    "ingress": "✏️ Berätta om en dag i ditt liv",
-   "age": "🔢 Vilket år är du född?"
+   "age": "🔢 Vilket år är du född?",
+   "make_coordinates_fuzzy": false,
+   "show_underage_entries": true,
+   "deploy_to_folder": "mittliv"
  },
  {
    "uuid": "8f121bdb-1540-4997-b32d-3523a441de42",
    "title": "Mitt liv – mitt hem",
    "slug": "mitthem",
    "ingress": "✏️ Beskriv hur livet är i ditt hem",
-   "age": "🔢 Vilket år är du född?"
+   "age": "🔢 Vilket år är du född?",
+   "make_coordinates_fuzzy": false,
+   "show_underage_entries": true,
+   "deploy_to_folder": "mittliv"
  },
  {
    "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834",
    "title": "Mitt liv – människorna i mitt liv",
    "slug": "manniskornaimittliv",
    "ingress": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
-   "age": "🔢 Vilket år är du född?"
+   "age": "🔢 Vilket år är du född?",
+   "make_coordinates_fuzzy": false,
+   "show_underage_entries": true,
+   "deploy_to_folder": "mittliv"
  },
  {
    "uuid": "2207b199-bb63-4067-bdd8-259339e01907",
    "title": "Mitt liv 2050",
    "slug": "mittliv2050",
    "ingress": "✏️ Berätta hur du föreställer dig ditt liv 2050",
-   "age": "🔢 Vilket år är du född?"
+   "age": "🔢 Vilket år är du född?",
+   "make_coordinates_fuzzy": false,
+   "show_underage_entries": true,
+   "deploy_to_folder": "mittliv"
  },
  {
    "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc",
    "title": "Utvalda svar ur En dag i mitt liv 1942",
    "slug": "mittliv-1942",
    "ingress": "Barnet berättar:",
-   "age": "🔢 Vilket år är du född?"
+   "age": "🔢 Vilket år är du född?",
+   "make_coordinates_fuzzy": false,
+   "show_underage_entries": true,
+   "deploy_to_folder": "mittliv"
  }
 ]
