@@ -21,6 +21,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.Default.css" />
   <link rel="stylesheet" href="style.css" />
   <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
+  <script src="https://unpkg.com/leaflet.featuregroup.subgroup@1.0.2/dist//leaflet.featuregroup.subgroup.js"></script>
 </head>
 <body style="margin: 0;">
   <div class="info">
@@ -113,7 +114,8 @@
           var zoom = L.control.zoom({position: 'bottomleft'});
           zoom.addTo(map);
 
-          var markerclustergroups = []
+          var markerclustergroups = [];
+          var collections = [];
           
           var geoJsonLayer;
 
@@ -124,6 +126,8 @@
               }
             });
 
+          map.addLayer(markerclustergroup);
+          
           for (const topic of topics) {
             
 
@@ -144,8 +148,9 @@
                     });
                   }
                 });
-
-                markerclustergroup.addLayer(geoJsonLayer);
+                collections[topic.slug] = L.featureGroup.subGroup(markerclustergroup, geoJsonLayer);
+                collections[topic.slug].addTo(map);
+                // markerclustergroup.addLayer(geoJsonLayer);
                 //map.addLayer(markerclustergroups[topic.slug]);
 
               }
@@ -153,11 +158,11 @@
             xhr.send();
           }
 
-          map.addLayer(markerclustergroup);
+          
 
           
 
-          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Mitt liv – en dag i mitt liv':markerclustergroups['endagimittliv'], 'Mitt liv – mitt hem':markerclustergroups['mitthem'], 'Mitt liv – människorna i mitt liv':markerclustergroups['manniskornaimittliv'], 'Mitt liv 2050':markerclustergroups['mittliv2050'], 'En dag i mitt liv 1942':markerclustergroups['mittliv-1942'] }, { "position":"topleft", "hideSingleBase":true });
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Mitt liv – en dag i mitt liv':collections['endagimittliv'], 'Mitt liv – mitt hem':collections['mitthem'], 'Mitt liv – människorna i mitt liv':collections['manniskornaimittliv'], 'Mitt liv 2050':collections['mittliv2050'], 'En dag i mitt liv 1942':collections['mittliv-1942'] }, { "position":"topleft", "hideSingleBase":true });
 
           if( window.innerWidth > 600) {
             layerControl.options.collapsed = false;
