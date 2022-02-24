@@ -131,6 +131,11 @@
           var layerControl = L.control.layers({ "Jawg":Jawg_Light }, {}, { "position":"topleft", "hideSingleBase":true });
 
           for (const topic of topics) {
+            collections[topic.slug] = L.geoJSON();
+            layerControl.addOverlay(collections[topic.slug], topic.title)
+          }
+
+          for (const topic of topics) {
             
 
             let xhr = new XMLHttpRequest();
@@ -153,7 +158,7 @@
                 collections[topic.slug] = geoJsonLayer;
                 markerclustergroup.checkIn(collections[topic.slug]);
                 collections[topic.slug].addTo(map);
-                layerControl.addOverlay(collections[topic.slug], topic.title)
+                //layerControl.addOverlay(collections[topic.slug], topic.title)
                 // markerclustergroup.addLayer(geoJsonLayer);
                 //map.addLayer(markerclustergroups[topic.slug]);
 
