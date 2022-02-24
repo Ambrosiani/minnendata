@@ -161,9 +161,7 @@
             xhr.send();
           }
 
-          if( window.innerWidth > 600) {
-            layerControl.options.collapsed = false;
-          }
+          
           var layerControl = L.control.layers({ "Jawg":Jawg_Light }, {}, { "position":"topleft", "hideSingleBase":true });
 
           layerControl.addOverlay(collections['endagimittliv'], 'Mitt liv – en dag i mitt liv');
@@ -172,6 +170,10 @@
           layerControl.addOverlay(collections['mittliv2050'], 'Mitt liv 2050');
           layerControl.addOverlay(collections['mittliv-1942'], 'Utvalda svar ur En dag i mitt liv 1942');
 
+          if( window.innerWidth > 600) {
+            layerControl.options.collapsed = false;
+          }
+          
           map.addControl(layerControl);
 
 
