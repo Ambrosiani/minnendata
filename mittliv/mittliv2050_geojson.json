@@ -2336,6 +2336,70 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nJag tror att vi på jorden år 2050 inte kommer ha det så bra för att det kommer säkert …",
+        "date": "24 februari 2022",
+        "author": "Malte",
+        "url": "https://minnen.se/tema/mittliv2050/18413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nJag tror att jag är en båt kapten på en av Vaxholms eller Cinderellabåtarna Det ät mit…",
+        "date": "24 februari 2022",
+        "author": "Albin",
+        "url": "https://minnen.se/tema/mittliv2050/18419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "När är jag är 41 år vill jag äga ett café. Caféet ska vara känt och stort. Det ska ligga i mitten av…",
+        "date": "24 februari 2022",
+        "author": "Alice",
+        "url": "https://minnen.se/tema/mittliv2050/18422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n \nNär jag är 41 så hoppas jag att jag jobbar som lärare i en normalskola. Jag tror att…",
+        "date": "24 februari 2022",
+        "author": "Sanna",
+        "url": "https://minnen.se/tema/mittliv2050/18425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }

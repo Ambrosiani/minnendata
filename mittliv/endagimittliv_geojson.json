@@ -20016,6 +20016,54 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\nJag vaknar upp i min säng klockan 7 på morgonen för att jag hör pappa ropa att det är dags a…",
+        "date": "24 februari 2022",
+        "author": "Malte",
+        "url": "https://minnen.se/tema/endagimittliv/18416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag brukar vakna mellan 7-8 på morgonen av min klocka. Sen går jag ner till matbordet och äter ena g…",
+        "date": "24 februari 2022",
+        "author": "Albin",
+        "url": "https://minnen.se/tema/endagimittliv/18418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej jag heter Alice och  jag är 11 snart 12 och så här kan en dag se ut för mig år 2021\n\nMin dag bör…",
+        "date": "24 februari 2022",
+        "author": "Alice",
+        "url": "https://minnen.se/tema/endagimittliv/18424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }

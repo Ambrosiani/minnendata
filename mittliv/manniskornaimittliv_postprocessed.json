@@ -16192,5 +16192,229 @@
         "uuid": "4fe86442-fe60-4f0f-b5b1-8d9734664fa8"
       }
     ]
+  },
+  {
+    "archive_code": "M1:3/00413",
+    "contributor": {
+      "display_name": "Malte"
+    },
+    "created": "Thu, 24 Feb 2022 16:40:59 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:40:59 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18414",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "9b9bd571-aab4-4d72-a638-a21da5ecbca2",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:40:59 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:40:59 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "b5626ce0-e04c-4f0d-af31-eec1a003f896"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:40:59 GMT",
+        "display_value": "Mina tre människor i mitt liv är Charlie, Teodor och Sixten dom är mina tre bästa kompisar. Charlie, Teodor och Sixten betyder jättemycket för mig för att jag har känt Charlie sen första dagen på dagis. Teodor lärde jag mig att känna när vi började på skolan i F klass och sen har vi alltid varit kompisar sen dess. Sixten lärde jag mig känna när vi började i fyran för att då splittrade vi klasser och då berättade många om honom att han var en bra kompis och då blev jag Charlie och Teodor kompisar med honom. Alla dom kompisarna betyder mycket för mig för att dom ställer alltid upp för mig och alla ställer upp för alla. Det som vi brukar göra tillsammans är att spela fotboll och jag Sixten och Charlie brukar spela dataspel och så brukar vi spela padel och pingis med Teodor. Men det som vi gör mest är nog att spela fotboll. Det är det vi brukar göra tillsammans. Det är mina bästa kompisar.",
+        "modified": "Thu, 24 Feb 2022 16:40:59 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "d067a7ec-a881-472f-92ea-4d820c908679"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:3/00415",
+    "contributor": {
+      "display_name": "Albin"
+    },
+    "created": "Thu, 24 Feb 2022 16:41:47 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:41:47 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18417",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a75dbd04-26e2-4ee0-ae17-a72579c2f286",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:41:47 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:41:47 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "4e1c30bb-33ea-43ee-8c33-ea9c88928d8c"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:41:47 GMT",
+        "display_value": "Jag bor med min mamma, pappa, två lillasystrar och två hundar. Vi har bott i vårat hus i 5 år. Det är ett tvåvåningshus med solceller på taket och vi har två hus och ett som pappa håller på att bygga ett till hus till våran mormor och hennes hund hon ska sova där när hon kommer på besök vi hyr ut ett annat hus till en mamma med sitt barn. Det finns 10 rum i vårt största hus i det lilla huset som vi hyr ut har 3 rum och mormors hus har 2 rum Jag brukar sova i mitt eget rum. Utanför mitt fönster ser jag ett rött hus och granar och våran grus uppfart. Min favoritplats är hos min mormor Vi får inte spela så mycket. Min mormor mamma och pappa är jätte viktiga för mig för dem har varit med mig i hela mitt liv. De betyder jättemycket för mig för om dem inte skulle finnas så skulle jag inte funnits. Jag brukar spela pingis med min mamma och mormor och med pappa så brukar vi bygga någonting.",
+        "modified": "Thu, 24 Feb 2022 16:41:47 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "2cc00b3a-bc1b-4a46-966a-afd7e1a55a70"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:3/00417",
+    "contributor": {
+      "display_name": "Alice"
+    },
+    "created": "Thu, 24 Feb 2022 16:43:33 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:43:33 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18423",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "5dfd64f3-5209-42e0-a81c-b677d8afacf8",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:43:33 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:43:33 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "534c47ef-3a90-4ea6-ba0d-aa5ef69e9874"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:43:33 GMT",
+        "display_value": "Personerna som betyder mycket för mig är mina kompisar och min familj. I min klass är alla till sammans.  Alla mina kompisar betyder otroligt mycket för mig och om inte jag skulle ha dom s kulle mitt liv vara super tråkigt. Mina bästa kompisar är Willa,Andrea,Ellen,Elin,Clara och Alice. Det är väldigt svårt att bara välja tre efter som att jag är vän med så många. Alla är super snälla och roliga. Vi har alltid super roligt tillsammans. Min familj betyder också super mycket för mig för att dom alltid är där och dom är snälla och roliga. Vi gör roliga saker tillsammans.",
+        "modified": "Thu, 24 Feb 2022 16:43:33 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "08d8b894-79d7-4f15-94c9-d66570c8159a"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:3/00419",
+    "contributor": {
+      "display_name": "Sanna"
+    },
+    "created": "Thu, 24 Feb 2022 16:44:41 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Feb 2022 16:44:41 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18426",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "0c9b1d32-0c65-47ed-ad9f-ff27fcbf76fb",
+    "values": [
+      {
+        "created": "Thu, 24 Feb 2022 16:44:41 GMT",
+        "display_value": "2009",
+        "modified": "Thu, 24 Feb 2022 16:44:41 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "f68635c3-fd05-46ab-8ca2-89627ed9a0a1"
+      },
+      {
+        "created": "Thu, 24 Feb 2022 16:44:41 GMT",
+        "display_value": "Människor i mitt liv\nMina tre viktigaste personerna i mitt liv är Melvin som är en väldigt nära vän till mig, min kusin Emily hon är också min bästa vän och sist men inte minst en av mina allra bästa vän Vendela hon har varit min bästa vän sen F-klass. Melvin ringer jag ganska ofta och bara pratar om allt möjligt. Emily hänger jag varje gång vi har något med släkten att göra så är det hon jag är med, oftast köper vi glass och allt.",
+        "modified": "Thu, 24 Feb 2022 16:44:41 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "30a6e8e2-8667-41ad-a956-9c0a5eb917db"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
   }
 ]

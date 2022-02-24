@@ -3616,6 +3616,70 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet i mitt hem\nI mitt hem så bor Jag Malte, min pappa Peter, min mamma Pernilla och min storasyste…",
+        "date": "24 februari 2022",
+        "author": "Malte",
+        "url": "https://minnen.se/tema/mitthem/18415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är kul för att jag har roliga grejer att göra i det när jag har tråkigt…",
+        "date": "24 februari 2022",
+        "author": "Albin",
+        "url": "https://minnen.se/tema/mitthem/18420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I mitt hus har vi tre våningar. På den nedersta våningen har jag och min bror våra rum och på våning…",
+        "date": "24 februari 2022",
+        "author": "Alice",
+        "url": "https://minnen.se/tema/mitthem/18421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt hem\nJag lever i ett brun orange radhus i Nacka. Det finns 8 rum och en hall En tvättstuga, två …",
+        "date": "24 februari 2022",
+        "author": "Sanna",
+        "url": "https://minnen.se/tema/mitthem/18427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }

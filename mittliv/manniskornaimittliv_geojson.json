@@ -3152,6 +3152,70 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina tre människor i mitt liv är Charlie, Teodor och Sixten dom är mina tre bästa kompisar. Charlie,…",
+        "date": "24 februari 2022",
+        "author": "Malte",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag bor med min mamma, pappa, två lillasystrar och två hundar. Vi har bott i vårat hus i 5 år. Det ä…",
+        "date": "24 februari 2022",
+        "author": "Albin",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Personerna som betyder mycket för mig är mina kompisar och min familj. I min klass är alla till samm…",
+        "date": "24 februari 2022",
+        "author": "Alice",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människor i mitt liv\nMina tre viktigaste personerna i mitt liv är Melvin som är en väldigt nära vän …",
+        "date": "24 februari 2022",
+        "author": "Sanna",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }
