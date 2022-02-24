@@ -128,13 +128,7 @@
 
           markerclustergroup.addTo(map);
 
-          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, {}, { "position":"topleft", "hideSingleBase":true });
-
-          for (const topic of topics) {
-            collections[topic.slug] = L.geoJSON();
-            layerControl.addOverlay(collections[topic.slug], topic.title)
-          }
-
+          
           for (const topic of topics) {
             
 
@@ -170,6 +164,7 @@
           if( window.innerWidth > 600) {
             layerControl.options.collapsed = false;
           }
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Mitt liv – en dag i mitt liv':collections['endagimittliv'], 'Mitt liv – mitt hem':collections['mitthem'], 'Mitt liv – människorna i mitt liv':collections['manniskornaimittliv'], 'Mitt liv 2050':collections['mittliv2050'], 'En dag i mitt liv 1942':collections['mittliv-1942'] }, { "position":"topleft", "hideSingleBase":true });
 
           map.addControl(layerControl);
 
