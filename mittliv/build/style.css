@@ -86,6 +86,10 @@ font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 	background-color: var(--mittliv-1942-color);
 }
 
+.leaflet-interactive.mittliv {
+	background-color: var(--mittliv-1942-color);
+}
+
 
 .info {
 	background-color: #fff;
