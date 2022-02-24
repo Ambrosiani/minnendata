@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Se bidragen i insamlingen Mitt liv</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8"/>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@nordiskamuseet" />
+  <meta name="twitter:creator" content="@nordiskamuseet" />
+  <meta property="og:url" content="https://digitalt.nordiskamuseet.se/mittliv/" />
+  <meta property="og:title" content="Se bidragen i insamlingen Mitt liv" />
+  <meta property="og:description" content="Kartan visar ett urval ur insamlingen Coronaviruset i Sverige som genomförs av Nordiska museet och motsvarande insamling av Norsk Folkemuseum. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret." />
+  <meta property="og:image" content="https://digitalt.nordiskamuseet.se/coronaminnen/preview.jpg" />
+  <meta property="og:image:width" content="960" />
+  <meta property="og:image:height" content="600" />
+  <meta property="og:type" content="website" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
+</head>
+<body style="margin: 0;">
+  <div class="info">
+    <div id="logos">
+      <div class="logo"><a href="https://www.nordiskamuseet.se/" target="_blank"><img class="logoNM" src="images/nm.png" alt="Nordiska museet"></a></div><div class="logo"><a href="https://ur.se/" target="_blank"><img class="logoUR" src="images/ur.png" alt="Utbildningsradion"></a></div></div>
+      <div id="aboutbox">
+        <div id="about">
+          <h1>Se bidragen i insamlingen Mitt liv</h1><p>Kartan visar bidragen till Nordiska museets och UR:s insamling <a href="https://minnen.se/tema/endagimittliv" target="_blank">Mitt liv</a> (ej dem som bara skickats in för forskning). Varje kartpunkt är ett bidrag från en deltagande elev. Färgen på punkten markerar vilken uppgift som besvarats.</p><p>Vill du veta mer? <a href="https://minnen.se/mittliv" target="_blank">Här når du insamlingens hemsida</a>.</p></div>
+          <div><button class="closeButton" type="button">Stäng</button></div></div>
+        </div>
+        <div id="map"></div>
+
+        <script type="text/javascript">
+
+          function createClusterMarkers(cluster, name) {
+            var childCount = cluster.getChildCount();
+
+            var c = ' marker-cluster-';
+            var size = 44;
+            if (childCount < 10) {
+              c += 'small';
+              size = 36;
+            } else if (childCount < 100) {
+              c += 'medium';
+              size = 40;
+            } else {
+              c += 'large';
+            }
+
+            return new L.DivIcon({ html: childCount, className: 'marker-cluster' + c + ' ' + name, iconSize: new L.Point(size, size) });
+          }
+
+
+          document.getElementsByClassName('closeButton')[0].onclick = function changeContent() {
+            console.log('click closeButton');
+            document.getElementsByClassName('info')[0].style = "display:none";
+            document.getElementsByClassName('leaflet-control-layers')[0].style = "display:block";
+            document.getElementsByClassName('leaflet-control-zoom')[0].style = "display:block";
+          }
+
+          var topics = [
+          {
+           "uuid": "46463ebb-c066-4e43-beef-b00b03bea92f",
+           "title": "Mitt liv – en dag i mitt liv",
+           "slug": "endagimittliv",
+           "ingress": "✏️ Berätta om en dag i ditt liv",
+           "age": "🔢 Vilket år är du född?"
+         },
+         {
+           "uuid": "8f121bdb-1540-4997-b32d-3523a441de42",
+           "title": "Mitt liv – mitt hem",
+           "slug": "mitthem",
+           "ingress": "✏️ Beskriv hur livet är i ditt hem",
+           "age": "🔢 Vilket år är du född?"
+         },
+         {
+           "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834",
+           "title": "Mitt liv – människorna i mitt liv",
+           "slug": "manniskornaimittliv",
+           "ingress": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+           "age": "🔢 Vilket år är du född?"
+         },
+         {
+           "uuid": "2207b199-bb63-4067-bdd8-259339e01907",
+           "title": "Mitt liv 2050",
+           "slug": "mittliv2050",
+           "ingress": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+           "age": "🔢 Vilket år är du född?"
+         },
+         {
+           "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc",
+           "title": "En dag i mitt liv 1942",
+           "slug": "mittliv-1942",
+           "ingress": "Barnet berättar:",
+           "age": "🔢 Vilket år är du född?"
+         }
+         ];
+
+         var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.png?access-token={accessToken}', {
+            attribution: '<a href="http://jawg.io" title="Tiles Courtesy of Jawg Maps" target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            minZoom: 0,
+            maxZoom: 22,
+            subdomains: 'abcd',
+            accessToken: 'itUYXOXCJpTuQfvb2GUIOJXJIkIK3T7hz3cocWkqJk9TkEn3KLklIw0OgXM03GTJ'});
+
+          var map = L.map('map', {zoomControl:false})
+          .addLayer(Jawg_Light);
+          map.fitBounds([[55,11],[69,23]]);
+
+          var zoom = L.control.zoom({position: 'bottomleft'});
+          zoom.addTo(map);
+
+          var markerclustergroups = []
+          
+          var geoJsonLayer;
+
+          markerclustergroup = L.markerClusterGroup({
+              iconCreateFunction: function(cluster, name) {
+                var icon = createClusterMarkers(cluster, 'mittliv');
+                return icon;
+              }
+            });
+
+          for (const topic of topics) {
+            
+
+            let xhr = new XMLHttpRequest();
+            xhr.open('GET', topic.slug + '_geojson.json');
+            xhr.setRequestHeader('Content-Type', 'application/json');
+            xhr.responseType = 'json';
+            xhr.onload = function() {
+              if (xhr.status == 200) {
+                geoJsonLayer = L.geoJSON(xhr.response, {
+                  pointToLayer: function(geoJsonPoint, latlng) {
+                    var divIcon = L.divIcon({ className: topic.slug, iconSize: null})
+                    return L.marker(latlng, {icon: divIcon, opacity:0.9});
+                  },
+                  onEachFeature: function (feature, layer) {
+                    layer.bindPopup(function (layer) {
+                      return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                    });
+                  }
+                });
+
+                markerclustergroup.addLayer(geoJsonLayer);
+                //map.addLayer(markerclustergroups[topic.slug]);
+
+              }
+            };
+            xhr.send();
+          }
+
+          map.addLayer(markerclustergroups);
+
+          
+
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, { 'Mitt liv – en dag i mitt liv':markerclustergroups['endagimittliv'], 'Mitt liv – mitt hem':markerclustergroups['mitthem'], 'Mitt liv – människorna i mitt liv':markerclustergroups['manniskornaimittliv'], 'Mitt liv 2050':markerclustergroups['mittliv2050'], 'En dag i mitt liv 1942':markerclustergroups['mittliv-1942'] }, { "position":"topleft", "hideSingleBase":true });
+
+          if( window.innerWidth > 600) {
+            layerControl.options.collapsed = false;
+          }
+
+          map.addControl(layerControl);
+
+
+        </script>
+      </body>
+      </html>
