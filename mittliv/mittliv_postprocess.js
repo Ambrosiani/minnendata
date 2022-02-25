@@ -25,6 +25,7 @@ removeFile('mittliv.json');
 
 var schools = await readJSON('mittliv/participating_schools.json');
 var topics = await readJSON('mittliv/topics.json');
+var schools_without_uuid = [];
 
 for (const topic of topics) {
 
@@ -97,9 +98,11 @@ for (const topic of topics) {
         var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(numberOfCoordinates)), parseFloat(item.position.latitude.toFixed(numberOfCoordinates)) ] } };
         geoJson.features.push(geoJsonFeature);
       }
-      // fetch regular coordinates if no school
+      else {
+        schools_without_uuid.push(item.school_uuid);
+      }
     }
-
+    // fetch regular coordinates if no school
     delete item.comment_count;
     delete item.hits;
     delete item.imported;
@@ -135,6 +138,7 @@ for (const topic of topics) {
   await Deno.writeTextFile(statsFile, JSON.stringify(stats, null, 2));
   await Deno.writeTextFile('mittliv/' + topic.slug + '_geojson.json', JSON.stringify(geoJson, null, 2));
   await Deno.writeTextFile('mittliv/build/' + topic.slug + '_geojson.json', JSON.stringify(geoJson, null, 2));
+  await Deno.writeTextFile('mittliv/schools_without_uuid.json', JSON.stringify(schools_without_uuid, null, 2));
 
   console.log("Wrote a post process file for " + topic.title);
 
