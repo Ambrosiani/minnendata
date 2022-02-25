@@ -5568,6 +5568,54 @@
           57.786549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "fett tråkigt…",
+        "date": "25 februari 2022",
+        "author": "Elvira",
+        "url": "https://minnen.se/tema/mitthem/18669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet är bra i mitt hem.…",
+        "date": "25 februari 2022",
+        "author": "Clara",
+        "url": "https://minnen.se/tema/mitthem/18670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "25 februari 2022",
+        "author": "Wilma",
+        "url": "https://minnen.se/tema/mitthem/18672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
     }
   ]
 }

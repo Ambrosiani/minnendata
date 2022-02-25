@@ -4096,6 +4096,22 @@
           59.333222
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknar av mitt alarm går av 08:00 och trycker på en knapp bredvid som gör så att min sängen vänd…",
+        "date": "25 februari 2022",
+        "author": "Liam",
+        "url": "https://minnen.se/tema/mittliv2050/18673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
     }
   ]
 }

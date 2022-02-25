@@ -24336,6 +24336,22 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "På morgonen så vaknar jag vid klockan 06:00 av att mitt alarm går av eller på grund av att min mamma…",
+        "date": "25 februari 2022",
+        "author": "Liam",
+        "url": "https://minnen.se/tema/endagimittliv/18674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
     }
   ]
 }

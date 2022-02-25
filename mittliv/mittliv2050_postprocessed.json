@@ -16353,5 +16353,62 @@
       "latitude": 59.333222,
       "longitude": 18.268516
     }
+  },
+  {
+    "archive_code": "M1:4/00458",
+    "contributor": {
+      "display_name": "Liam"
+    },
+    "created": "Fri, 25 Feb 2022 15:09:06 GMT",
+    "image_dms_id": "013AjtpvqpHA",
+    "license": "CC BY",
+    "modified": "Fri, 25 Feb 2022 15:09:06 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18673",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "a9a0995d-e5d7-41ec-b544-269990dd3d3d",
+    "values": [
+      {
+        "created": "Fri, 25 Feb 2022 15:09:06 GMT",
+        "display_value": "2008",
+        "modified": "Fri, 25 Feb 2022 15:09:06 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "55777428-9113-4ee8-959e-29e8eeefee7a"
+      },
+      {
+        "created": "Fri, 25 Feb 2022 15:09:06 GMT",
+        "display_value": "Jag vaknar av mitt alarm går av 08:00 och trycker på en knapp bredvid som gör så att min sängen vänds upp och ner och under så är mitt kök. Jag trycker på en knapp och köket börjar laga frukosten av sig själv.  Medans frukosten lagas så går jag till min gaverud men framför skåpdörren så var det en platform att stå på. När jag stod på den så tog jag ut mina armar och stod som ett T och sen så sattes kläderna på automatiskt. Vid den tiden så var maten klar så jag åt upp min omelett och gick till mitt jobb jag är en ingenjör för framtida technology. Där kan människor ta in sina grejer som har gått sönder och jag fixar problemet. Företaget heter hfvs som är en akronym för här fixar vi saker. Sen efter en lång dag på jobbet så går jag hem och sover.",
+        "modified": "Fri, 25 Feb 2022 15:09:06 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "5ce5bc04-ed3a-468a-990a-6eb40009613a"
+      }
+    ],
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
   }
 ]
