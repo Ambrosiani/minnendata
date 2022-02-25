@@ -4080,6 +4080,22 @@
           57.786549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Så här tror jag att mitt liv 2050 ser ut i framtiden. På morgonen så så väcks jag av min väckarklock…",
+        "date": "25 februari 2022",
+        "author": "Christian",
+        "url": "https://minnen.se/tema/mittliv2050/18666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
     }
   ]
 }

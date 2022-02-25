@@ -16311,5 +16311,47 @@
       "latitude": 57.786549,
       "longitude": 14.261293
     }
+  },
+  {
+    "archive_code": "M1:4/00456",
+    "contributor": {
+      "display_name": "Christian"
+    },
+    "created": "Fri, 25 Feb 2022 14:19:44 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 25 Feb 2022 14:19:44 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18666",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "7c317870-e45a-42d3-9ff6-6157fc36f13b",
+    "values": [
+      {
+        "created": "Fri, 25 Feb 2022 14:19:44 GMT",
+        "display_value": "Så här tror jag att mitt liv 2050 ser ut i framtiden. På morgonen så så väcks jag av min väckarklocka kl 05:00 och börjar göra mig i ordning.  Till frukost så äter jag en avokadomacka med en kopp kaffe. Efter frukosten borstar jag tänderna och tvättar ansiktet. \n\nJag sätter mig vid mitt skrivbord och jobbar. Jag jobbar hemma eftersom jag jobbar som mäklare och som ''hobby'' så arbetar jag med cryptocurrency. Jag bor i ett modernt hus med mina två söner och min fru.",
+        "modified": "Fri, 25 Feb 2022 14:19:44 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "471294a3-970a-443b-b7c0-6e437f6d69f9"
+      }
+    ],
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
   }
 ]

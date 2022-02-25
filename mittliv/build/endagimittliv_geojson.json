@@ -24304,6 +24304,38 @@
           57.786549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt namn är Christian. \n\nJag är tretton år och jag bor nacka och såhär ser en dag ut för mig.\nJag v…",
+        "date": "25 februari 2022",
+        "author": "Christian",
+        "url": "https://minnen.se/tema/endagimittliv/18665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknar 7:30 reser huvudet och stänger av alarmet för att liga och dra sig lite till. Efter ca 10…",
+        "date": "25 februari 2022",
+        "author": "Alvin",
+        "url": "https://minnen.se/tema/endagimittliv/18667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }
