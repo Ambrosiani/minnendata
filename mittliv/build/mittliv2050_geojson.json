@@ -2324,6 +2324,822 @@
     {
       "type": "Feature",
       "properties": {
+        "ingress": "18-7-2050\n\nHej kära dagbok,\nIdag så vaknade jag kl 6.00 på morgonen och gjorde mig iordning för jobb…",
+        "date": "2 februari 2022",
+        "author": "Ellinor",
+        "url": "https://minnen.se/tema/mittliv2050/17992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej, jag heter Erik och är 14 när jag skriver det här. \n\nHej dagboken, jag skriver det här på måndag…",
+        "date": "2 februari 2022",
+        "author": "Erik",
+        "url": "https://minnen.se/tema/mittliv2050/17996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv 2050\n\n\nMin dag börjar med att jag vaknar i min gamla och sunkiga lägenhet.  Alarme…",
+        "date": "2 februari 2022",
+        "author": "Jack",
+        "url": "https://minnen.se/tema/mittliv2050/17997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nJag vaknar 06:30 i min lägenhet som ligger i Åre byn. Jag går upp ur sängen 06:45 för …",
+        "date": "2 februari 2022",
+        "author": "Johan",
+        "url": "https://minnen.se/tema/mittliv2050/17999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "2050.... Då är jag fyrtioen år gammal.  Jag tror att det har förändrats en del på den tiden. Det har…",
+        "date": "2 februari 2022",
+        "author": "Signe",
+        "url": "https://minnen.se/tema/mittliv2050/18001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att Ica kommer ha robotar och jag kommer bo i en lägenhet tror jag.  Jag tror jag kommer jo…",
+        "date": "8 februari 2022",
+        "author": "Filip",
+        "url": "https://minnen.se/tema/mittliv2050/18030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.926295,
+          59.342637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknar runt 6 på morgonen och börjar med att tvätta ansiktet i toaletten och sedan ta på mig min…",
+        "date": "10 februari 2022",
+        "author": "Meysam ",
+        "url": "https://minnen.se/tema/mittliv2050/18052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n\nÅr 2050 är jag nog runt 41 år gammal. Jag tror jag kommer att vara gift, ha två barn …",
+        "date": "14 februari 2022",
+        "author": "Oskar",
+        "url": "https://minnen.se/tema/mittliv2050/18071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "År 2050 så HOPPAS jag: \nAtt jag har familj, helst två barn, jobbar som nåt coolt ,inte nåt typ konto…",
+        "date": "16 februari 2022",
+        "author": "Irma",
+        "url": "https://minnen.se/tema/mittliv2050/18137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11334,
+          59.282083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nJag vaknar i min säng. Sängen drar mig in i ett rum där det finns en maskin som klär p…",
+        "date": "17 februari 2022",
+        "author": "Ossian",
+        "url": "https://minnen.se/tema/mittliv2050/18140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nOm 28 år så tror jag att när vi ska gå ut och handla så kommer vi ha olika länder som …",
+        "date": "17 februari 2022",
+        "author": "Emre",
+        "url": "https://minnen.se/tema/mittliv2050/18141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nJag vaknar i mitt lilla vita hus/lägenhet av att min säng börjar skaka mig. När jag är…",
+        "date": "17 februari 2022",
+        "author": "Lovis",
+        "url": "https://minnen.se/tema/mittliv2050/18142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n\n\nJag föreställer mig mitt liv 2050 som att jag bor i Växjö, nära min familj och mina …",
+        "date": "18 februari 2022",
+        "author": "Olivia",
+        "url": "https://minnen.se/tema/mittliv2050/18147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag bor i Sölvesborg med min fru och 2 barn. Jag är 41 år, min fru är 39, mitt ena barn är 7 och det…",
+        "date": "18 februari 2022",
+        "author": "Liam ",
+        "url": "https://minnen.se/tema/mittliv2050/18148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknar, det är min födelsedag jag fyller 41 år gammal. När jag vaknar får jag frukost i sängen a…",
+        "date": "18 februari 2022",
+        "author": "Charles",
+        "url": "https://minnen.se/tema/mittliv2050/18149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "2050 kommer jag vara 41 år gammal.  Jag bor i ett stort,  vitt hus med många fönster som ligger vid …",
+        "date": "18 februari 2022",
+        "author": "Ingrid",
+        "url": "https://minnen.se/tema/mittliv2050/18151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej! Mitt namn är Felicia och nu ska jag berätta om mitt liv 2050. År 2050 är jag 40 år gammal.\n\nJag…",
+        "date": "18 februari 2022",
+        "author": "Felicia",
+        "url": "https://minnen.se/tema/mittliv2050/18158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "År 2050 kommer jag att vara 41 år. När jag är 41 år tror jag att jag kommer ha flyttat ut ur växjö m…",
+        "date": "18 februari 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/mittliv2050/18160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det kommer vara mycket skillnad.Jag vaknar i morgonen och så beställer jag matvaror från mitt mobil …",
+        "date": "18 februari 2022",
+        "author": "Mohanad",
+        "url": "https://minnen.se/tema/mittliv2050/18161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag föreställer mitt liv 2050 som att jag bor kvar i Växjö,nära min familj. Att jag bra kontakt med …",
+        "date": "18 februari 2022",
+        "author": "Vanessa",
+        "url": "https://minnen.se/tema/mittliv2050/18162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Måndag 02/21-2050\n\nDagen började med att jag vaknade vid 06:00 och gick ut i köket och åt min frukos…",
+        "date": "18 februari 2022",
+        "author": "Jacob",
+        "url": "https://minnen.se/tema/mittliv2050/18163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "År 2050 år jag 42 år gammal.  Jag bor i en 300 kvadrat meters lägenhet i New York  med min fru och m…",
+        "date": "18 februari 2022",
+        "author": "Isak",
+        "url": "https://minnen.se/tema/mittliv2050/18164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n\nDet var fredag och det var dags att gå till jobbet. Jag jobbar som mäklare.  Jag är 4…",
+        "date": "18 februari 2022",
+        "author": "Annie",
+        "url": "https://minnen.se/tema/mittliv2050/18165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Måndag 04/23- 2050\n\nHej dagboken!\n\nIdag vaknade jag vid 07:00 och gick upp. I köket stod min frukost…",
+        "date": "18 februari 2022",
+        "author": "Smilla",
+        "url": "https://minnen.se/tema/mittliv2050/18166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "jag tror år 2050 tror jag att jag kommer ha 1 barn bo i ett stort hus.Det är putsatt med gråa detalj…",
+        "date": "18 februari 2022",
+        "author": "Alva",
+        "url": "https://minnen.se/tema/mittliv2050/18167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n\nHej dagboken.\n\nJag vaknar vid halv sju. Sedan går jag upp och går på toa och tvättar …",
+        "date": "18 februari 2022",
+        "author": "Edith",
+        "url": "https://minnen.se/tema/mittliv2050/18171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "21/5-2050\n\nHej dagboken idag har jag inte gjort så mycket mer än att jobbat. Jag jobbar som influenc…",
+        "date": "18 februari 2022",
+        "author": "Vilda",
+        "url": "https://minnen.se/tema/mittliv2050/18172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I framtiden så vill jag ha två barn och en man.  År 2050 så är jag 41 år.  Jag vill bli fotbollsprof…",
+        "date": "18 februari 2022",
+        "author": "Filippa",
+        "url": "https://minnen.se/tema/mittliv2050/18177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att jag kommer bo på en hästgård ute på en äng med min bästa vän Klara. Vi kommer ha tre hä…",
+        "date": "18 februari 2022",
+        "author": "Annie",
+        "url": "https://minnen.se/tema/mittliv2050/18178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har varit fotbolls proffs och jag har precis lagt av och jag var bäst i Sveriges historia och st…",
+        "date": "18 februari 2022",
+        "author": "Algot",
+        "url": "https://minnen.se/tema/mittliv2050/18183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "När det är 2050 så är jag 40 år gammal tror jag att jag kommer jobba som polis. Jag tror att jag kom…",
+        "date": "18 februari 2022",
+        "author": "Rufael",
+        "url": "https://minnen.se/tema/mittliv2050/18187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att jag kommer att vakna kl.07:00 äta frukost säga hejdå till min familj och sedan gå till …",
+        "date": "18 februari 2022",
+        "author": "Max",
+        "url": "https://minnen.se/tema/mittliv2050/18191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är 41 år och jag jobbar med att vara hockeyproffs i Växjö lakes. Och nu ska jag berätta om en va…",
+        "date": "18 februari 2022",
+        "author": "Måns ",
+        "url": "https://minnen.se/tema/mittliv2050/18192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.793127,
+          56.879139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är 40 år och har 2 barn ett som är 2-3 och ett som är 12-13. jag har antagligen en sambo som job…",
+        "date": "18 februari 2022",
+        "author": "Ebba",
+        "url": "https://minnen.se/tema/mittliv2050/18193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag lever i Canakkale i Turkiet. jag har en familj.  Jag äger en tandläkarkedja med min kusin. Jag å…",
+        "date": "18 februari 2022",
+        "author": "Kuzey",
+        "url": "https://minnen.se/tema/mittliv2050/18202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att men kan åka flygplan i rymden och att men kunde flyga till andra planeter. Och att det …",
+        "date": "18 februari 2022",
+        "author": "Lillemo",
+        "url": "https://minnen.se/tema/mittliv2050/18206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "2050 är jag 40 år.  Lever i ett hus med trädgård. I Ängelholm. Så har jag nog 1 barn som är en pojke…",
+        "date": "18 februari 2022",
+        "author": "Maja",
+        "url": "https://minnen.se/tema/mittliv2050/18208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det finns raketer som flygel till Frankrike på 20 minuter…",
+        "date": "18 februari 2022",
+        "author": "Aela",
+        "url": "https://minnen.se/tema/mittliv2050/18213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "år 2050 tror jag att jag kommer ha en man med två barn och två eller flera katter och bo i Malmö i e…",
+        "date": "18 februari 2022",
+        "author": "Freja ",
+        "url": "https://minnen.se/tema/mittliv2050/18220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att i mitt liv 2050 att jag har 2 flickor och dem heter Marry ( den största) och den yngsta…",
+        "date": "18 februari 2022",
+        "author": "Menda ",
+        "url": "https://minnen.se/tema/mittliv2050/18228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.088658,
+          56.197671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag föreställer att livet år 2050 är mer elektrisk. Folk kommer spendera mesta delen av sina liv i m…",
+        "date": "18 februari 2022",
+        "author": "Oscar",
+        "url": "https://minnen.se/tema/mittliv2050/18231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknar upp vid 07:00 eftersom mitt jobb börjar klockan 10:00. Kläder ligger vikta på armstödet b…",
+        "date": "18 februari 2022",
+        "author": "Mira",
+        "url": "https://minnen.se/tema/mittliv2050/18234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag föreställer mig att jag inte lever mera på grund av många olika faktorer som global uppvärmning,…",
+        "date": "18 februari 2022",
+        "author": "Simon",
+        "url": "https://minnen.se/tema/mittliv2050/18245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vet inte riktigt hur mitt liv kommer att se ut 2050, och jag vill liksom inte riktigt \"skryta\" e…",
+        "date": "21 februari 2022",
+        "author": "Iris",
+        "url": "https://minnen.se/tema/mittliv2050/18266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11334,
+          59.282083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att världen kommer vara ganska lik nutiden. Lite av det jag tror kommer ändras tror jag är …",
+        "date": "21 februari 2022",
+        "author": "Alma",
+        "url": "https://minnen.se/tema/mittliv2050/18274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det här är hur jag tror att jag kommer leva i 2050. Jag jobbar som arkitekt och på fritiden är jag v…",
+        "date": "21 februari 2022",
+        "author": "Erwin",
+        "url": "https://minnen.se/tema/mittliv2050/18277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mobillarmet väcker mig på morgonen.\n\nUnder min pendel till jobbet åker jag igenom delar av nya Stock…",
+        "date": "21 februari 2022",
+        "author": "Dante",
+        "url": "https://minnen.se/tema/mittliv2050/18281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050 tror jag kommer vara en stor förändring till mitt liv idag. Det är egentligen väldigt …",
+        "date": "21 februari 2022",
+        "author": "Jakob",
+        "url": "https://minnen.se/tema/mittliv2050/18283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "2050 kommer jag vara 43 år. Det är ungefär hur gamla mina föräldrar är idag. \nOm jag ska vara ärlig …",
+        "date": "21 februari 2022",
+        "author": "Gustavo",
+        "url": "https://minnen.se/tema/mittliv2050/18291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "När jag lever i 2050 kommer jag att vara 38 år, de flesta 38-åringar har redan skaffat barn och fami…",
+        "date": "21 februari 2022",
+        "author": "Brage",
+        "url": "https://minnen.se/tema/mittliv2050/18301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv år 2050 är osäkert. Jag menar, kommer jag ens vara vid liv? Ryssland har trupper vid gränse…",
+        "date": "21 februari 2022",
+        "author": "Agaton",
+        "url": "https://minnen.se/tema/mittliv2050/18303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "ingress": "Jag tror att världen kommer se mycket mer teknisk ut och att vi kommer att ha många nya uppfinningar…",
         "date": "23 februari 2022",
         "author": "Isaac",
@@ -2334,6 +3150,102 @@
         "coordinates": [
           18.289735,
           59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknar upp av en väckningssignal i mitt chip. Folk har små chip som sensorer som går att placera…",
+        "date": "23 februari 2022",
+        "author": "Hanna",
+        "url": "https://minnen.se/tema/mittliv2050/18361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050 \n\nJag vaknar på en vanlig vardag 2050.  Jag är går upp på morgonen och ser utsikten fr…",
+        "date": "23 februari 2022",
+        "author": "Sam",
+        "url": "https://minnen.se/tema/mittliv2050/18364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n\nJag vaknar upp i min fina lägenhet i Stockholm, klockan är runt 08.00 på morgonen. De…",
+        "date": "23 februari 2022",
+        "author": "Filippa",
+        "url": "https://minnen.se/tema/mittliv2050/18367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Klockan 7 på morgonen vaknar jag av mitt alarm och jag säger ut \"Siri, jag är vaken\", detta aktivera…",
+        "date": "23 februari 2022",
+        "author": "Hugo",
+        "url": "https://minnen.se/tema/mittliv2050/18370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Måndagen:\n7/2\nJag vakan vid 5.00 att äta frukost.Efter det jag går till mina jobb. Efter mina jobb g…",
+        "date": "23 februari 2022",
+        "author": "Maya",
+        "url": "https://minnen.se/tema/mittliv2050/18373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är ett mer modernt, teknologiskt och framåt samhälle. Det är automatbilar som drivs på el, man b…",
+        "date": "23 februari 2022",
+        "author": "Ebba",
+        "url": "https://minnen.se/tema/mittliv2050/18378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
         ]
       }
     },
@@ -2702,6 +3614,70 @@
         "coordinates": [
           18.289735,
           59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nJag heter Elsa i skrivande stund är jag 14 år (fyller 15 i juni) så 2050 är jag 43 år …",
+        "date": "25 februari 2022",
+        "author": "Elsa",
+        "url": "https://minnen.se/tema/mittliv2050/18532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Dagbok 28/1-2050\nIdag vaknade jag klockan 6:00 av min robot som gav mig frukost på sängen, smoothie …",
+        "date": "25 februari 2022",
+        "author": "Evelina",
+        "url": "https://minnen.se/tema/mittliv2050/18538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nI morse försov jag mig och vaknade med ett ryck. Barnen fick ta varsin smörgås i hande…",
+        "date": "25 februari 2022",
+        "author": "Elza",
+        "url": "https://minnen.se/tema/mittliv2050/18543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt 2050:\n\nÅr 2050 kommer jag vara 43 år.  Jag bor med dom jag tycker om min familj.  Jag kommer bo…",
+        "date": "25 februari 2022",
+        "author": "Jennifer",
+        "url": "https://minnen.se/tema/mittliv2050/18552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
         ]
       }
     }
