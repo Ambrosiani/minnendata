@@ -15079,5 +15079,61 @@
         "uuid": "604399df-b348-4cb8-a10c-eab5cac82b20"
       }
     ]
+  },
+  {
+    "archive_code": "M1:4/00404",
+    "contributor": {
+      "display_name": "Lilly"
+    },
+    "created": "Fri, 25 Feb 2022 11:03:13 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 25 Feb 2022 11:03:13 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18575",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "42b3ed1a-f27d-4f20-ad31-d5793b1b92e6",
+    "values": [
+      {
+        "created": "Fri, 25 Feb 2022 11:03:13 GMT",
+        "display_value": "2009",
+        "modified": "Fri, 25 Feb 2022 11:03:13 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "0639fba3-759b-4fa8-912f-dd236feeef6c"
+      },
+      {
+        "created": "Fri, 25 Feb 2022 11:03:13 GMT",
+        "display_value": "Mitt liv 2050\n\nÅr 2050 tror jag att det kommer att ha blivit en stor ändring i världen.\nAtt dom som lever 2050 kommer tycka och döma om vad vi gjorde 2021, dom kommer tänka “hur tänkte dom, varför gjorde dom inte så här.”\nDet är som när vi dömer dom som levde innan oss. Just nu lever vi under en pandemi och 2050 kanske det kommer att vara nedskrivet i historieböckerna.\n\nSå här tror jag att framtiden kommer se ut: Att dom kommer att ha byggt färdigt och kollat så flygande bilar är säker.\nAtt vi inte kommer röra på oss så mycket som vi gjort innan. Och att vi kommer använda 40% mer teknologi. Men vi får tänka på att framtiden inte är skriven i sten, och vi måste göra allt för att ta ha om vår gjort till dom efter oss.\n\nMen kanke 3% att vi kommer bo på en annan planet men vem vet.\nJag tror min framtid kommer vara typ så här, att jag kommer gifta mig med en kille och kanske ha två barn. Och bo i ett hus med en trädgår på landet eller nåt. Och jag hoppas att jag kommer lyckas med att bli skådespelare. Fast jag gillar att sjunga men tror det inte skulle vara något för mig.\n\nMen tack att du läst denna text och vad ni än tycker om 2021 så ska jag säga så här är det på min tid.",
+        "modified": "Fri, 25 Feb 2022 11:03:13 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "cb9a14e8-b269-47d0-8a08-65b770b3f1ca"
+      }
+    ],
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
   }
 ]

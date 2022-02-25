@@ -5232,6 +5232,22 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag bor i ett hus med fyra våningar källare, kök, vind, sovrummen. Vi har en ganska stor trädgård. D…",
+        "date": "25 februari 2022",
+        "author": "Lilly",
+        "url": "https://minnen.se/tema/mitthem/18577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
     }
   ]
 }

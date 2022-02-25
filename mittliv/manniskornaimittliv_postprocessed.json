@@ -18332,5 +18332,61 @@
         "uuid": "9588a743-de4b-444e-9f2b-edba76b292a4"
       }
     ]
+  },
+  {
+    "archive_code": "M1:3/00481",
+    "contributor": {
+      "display_name": "Lilly"
+    },
+    "created": "Fri, 25 Feb 2022 11:03:17 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 25 Feb 2022 11:03:17 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18576",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "6f2f036f-9bbe-4696-b619-0a20c7f66f3d",
+    "values": [
+      {
+        "created": "Fri, 25 Feb 2022 11:03:17 GMT",
+        "display_value": "2009",
+        "modified": "Fri, 25 Feb 2022 11:03:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "2cab088c-a2cf-4a56-9ce1-e6071dde814b"
+      },
+      {
+        "created": "Fri, 25 Feb 2022 11:03:17 GMT",
+        "display_value": "Nu ska jag berätta om några personer som betytt mycket för mig och betyder mycket för mig. Innan hade jag en kanin som hette Pricken men jag tror ägaren innan inte varit snälla mot Pricken och alla andra kaniner där. När vi åkte till kaninuppfödaren så gick vi in och såg massor av kaniner och så. Men vi kanske skulle ha en kanin som hette Dumbo men den var lite för rädd att sitta i knät det förstår jag helt okända personer. Men då slängde hon in Dumbo i buren och sa fy.\n\nOch då tog hon fram Pricken sen åkte vi hem med han, vi hade allt förberett så vi satt ner han på marken innanför staketet. Sen gick vi och lätt honom kolla runt lite. Men det gick inte att göra honom tam vi tog det i små steg försiktigt.\nJag satt nästan 2 timmar varje dag jag brukade i alla fall kolla till honom. Men efter ett tag sa mina föräldrar att vi skulle lämna tillbaka han för hans bästa. Men jag minns när han kröp upp i min famn en gång när det regnade så satt jag ute med honom. Tack för allt.\n\nMin familj betyder supermycket för mig, någon du alltid kan lita på. Att veta vem man ska ropa på när man är rädd.\nVi brukar ha familjekvällar gå på utflykter, åka och bada, bråka ibland.",
+        "modified": "Fri, 25 Feb 2022 11:03:17 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "c01da78d-0b83-465a-b9aa-51ff74b20313"
+      }
+    ],
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
   }
 ]

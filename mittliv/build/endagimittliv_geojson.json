@@ -23968,6 +23968,22 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag heter Lilly, är tolv år gammal och bor på Gråbogatan i Huskvarna.\nMin dag börjar med att min väc…",
+        "date": "25 februari 2022",
+        "author": "Lilly",
+        "url": "https://minnen.se/tema/endagimittliv/18578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
     }
   ]
 }

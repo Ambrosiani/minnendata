@@ -3728,6 +3728,22 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n\nÅr 2050 tror jag att det kommer att ha blivit en stor ändring i världen.\nAtt dom som …",
+        "date": "25 februari 2022",
+        "author": "Lilly",
+        "url": "https://minnen.se/tema/mittliv2050/18575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
     }
   ]
 }
