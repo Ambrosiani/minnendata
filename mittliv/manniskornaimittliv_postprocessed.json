@@ -18112,5 +18112,225 @@
       "latitude": 59.257989,
       "longitude": 18.179597
     }
+  },
+  {
+    "archive_code": "M1:3/00473",
+    "contributor": {
+      "display_name": "Sonja"
+    },
+    "created": "Fri, 25 Feb 2022 10:06:42 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 25 Feb 2022 10:06:42 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18557",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "dd1b204e-a3a3-4be6-9688-2a30d520542c",
+    "values": [
+      {
+        "created": "Fri, 25 Feb 2022 10:06:42 GMT",
+        "display_value": "2007",
+        "modified": "Fri, 25 Feb 2022 10:06:42 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "80724847-a4ea-4690-a50f-55eaf528e4ff"
+      },
+      {
+        "created": "Fri, 25 Feb 2022 10:06:42 GMT",
+        "display_value": "I mitt liv så är mina föräldrar, min storasyster kajsa och min storasyster Jessica de viktigaste personerna i mitt liv.\n\nMina föräldrar:\nMina föräldrar är väldigt viktiga i mitt liv eftersom de är dom som har uppfostrat mig och gjort mig till den jag är idag. Även för att dem bryr sig om mig. Mina föräldrar består av av mamma  Annika och pappa Johan. \n\nKajsa:\nKajsa är en viktig person i mitt liv eftersom vi har det alltid kul med varandra. Vi brukar ofta kolla film och bara hänga med varandra. Hon betyder mycket för mig eftersom jag kan alltid prata med henne om det är något. Vi brukar även sno varandras kläder och hjälpa varandra med vad vi ska ha på oss. Hon och jag brukar även åka på spontana bilresor eftersom hon precis har fått körkort.\n\nJessica:\nJessica är en viktig person för mig efterom jag kan även snacka med henne om allt. Hon är alltid så snäll och härlig mot mig. Vi brukar ofta åka och shoppa och fika med varandra. Det tråkiga är bara att hon inte bor hemma längre. Hon pluggar i en annan stad. Men hon brukar komma hem när det är lov så det är kul.",
+        "modified": "Fri, 25 Feb 2022 10:06:42 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "f642651f-dc3a-4417-b3ab-d7c1f2af6950"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:3/00475",
+    "contributor": {
+      "display_name": "Maja"
+    },
+    "created": "Fri, 25 Feb 2022 10:07:17 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 25 Feb 2022 10:07:17 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18562",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "20d6f7a8-1fb9-49f3-a2f8-9ff3f07989b6",
+    "values": [
+      {
+        "created": "Fri, 25 Feb 2022 10:07:17 GMT",
+        "display_value": "2007",
+        "modified": "Fri, 25 Feb 2022 10:07:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "50660e8c-21b5-48b9-bbe5-4516e72b5df3"
+      },
+      {
+        "created": "Fri, 25 Feb 2022 10:07:17 GMT",
+        "display_value": "Mamma\nMin mamma Theresa är en av dem viktigaste personerna i mitt liv. Hon lyckas alltid vara min vän, min förälder och mer. Om jag skulle beskriva henne med ett ord så skulle det vara kärleksfull. Hon sätter alltid andra före sig själv. Hon är den minst själviska personen jag känner och jag hoppas att jag blir som henne när jag blir stor. Vi har gått igenom mycket tillsammans. En av sakerna jag är mest tacksam över är att hon alltid har varit en god lyssnare. Hon är alltid förstående och ger dem bästa råden. Jag vet inte vad jag skulle göra utan henne i mitt liv. \n\nPappa\nPappa är en annan viktig person i mitt liv. Han är alltid där för mig och beredd på att lyssna. Jag ser upp till han otroligt mycket.  Jag tar alla hans ord till hjärtat därför att jag vet att han alltid säger rätt saker. Jag ser upp till min pappa väldigt mycket. Det sista någon skulle beskriva han som är lat. Allt han har nått är på grund av hans driv.  Jag hoppas att när jag växer upp att jag blir lik honom. \n\nWille-Min bror\nWille har alltid varit min bästa vän sen jag varit liten. Han är bara tre år äldre så det är inte så mycket skillnad mellan oss. När vi flyttade till Usa var det ännu viktigare att vi var vänner. Från början hade vi inga andra än varandra och därför blev vi så nära. Många av sakerna vi gjorde när vi kände oss ensamma var att göra filmer eller bara hålla varandra sällskap. Eftersom vi gick igenom samma saker var det alltid lättare att förstå varandra. Jag kommer för evigt vara tacksam för att han hjälpte mig klara av dem tuffa tiderna.",
+        "modified": "Fri, 25 Feb 2022 10:07:17 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "ef7036cb-b4be-4137-a6e9-8fb3815040e1"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:3/00477",
+    "contributor": {
+      "display_name": "Fabian"
+    },
+    "created": "Fri, 25 Feb 2022 10:07:57 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 25 Feb 2022 10:07:57 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18568",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "30777dbb-6312-424a-b2ce-1d65efcebcfb",
+    "values": [
+      {
+        "created": "Fri, 25 Feb 2022 10:07:57 GMT",
+        "display_value": "2007",
+        "modified": "Fri, 25 Feb 2022 10:07:57 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "877196bd-e823-4892-b44c-7378a4186634"
+      },
+      {
+        "created": "Fri, 25 Feb 2022 10:07:57 GMT",
+        "display_value": "Mina föräldrar är väldigt viktiga för mig eftersom de alltid finns där för en när man är nere och de har i snart 15 år gett mig mat, kläder, skjutsat mig och älskat mig. Jag träffar mina föräldrar nästan varje dag och vi brukar prata och bara umgås.\n\nMin bror är en väldigt viktig person för mig eftersom han visar alltid mig vägen och han finns att prata med när det behövs. Vi brukar oftast spela tv-spel eller spela någon sport tillsammans, t.ex fotboll eller padel brukar vi spela.\n\nMin farfar är en väldigt viktig person för mig eftersom han är lite av en förebild till mig eftersom han är så himla snäll och alltid är glad över de minsta sakerna i livet. Vi träffas inte så ofta nu eftersom coronaviruset men annars brukar vi bara prata eller spela kortspel.",
+        "modified": "Fri, 25 Feb 2022 10:07:57 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "1c17fa4f-424e-4cf9-a01b-4633806472f8"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:3/00479",
+    "contributor": {
+      "display_name": "Linnea"
+    },
+    "created": "Fri, 25 Feb 2022 10:08:16 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 25 Feb 2022 10:08:16 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18570",
+    "published": true,
+    "school_uuid": "91de2c33-db5f-4327-8a9f-69c575aec5b6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "0d49665a-f664-4f5a-877e-d283285d80a1",
+    "values": [
+      {
+        "created": "Fri, 25 Feb 2022 10:08:16 GMT",
+        "display_value": "2009",
+        "modified": "Fri, 25 Feb 2022 10:08:16 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "acb3d7d8-eb82-4e6f-ab14-e21e8c98e14c"
+      },
+      {
+        "created": "Fri, 25 Feb 2022 10:08:16 GMT",
+        "display_value": "1. Min mormor är viktig för mig för hon alltid funnits vid min sida o stöttat mig sen dag 1 och varit glad o gjort så jag förstått meningen med livet. hon har kämpat sig igenom så mycket o ändå står på egna ben, hon är 66år och har jobbat hela sitt liv och bor själv. hon välkomnar alltid mig o min syster o gör alltid så man mår lite bättre efter man varit med henne, jag älskar henne otroligt mycket o önskar att hon alltid kommer finnas i mitt liv.\n2. min pappa, jag hade inte en jätte bra relation med han som liten men efter åren så har jag märkt vilken bra relation vi fått under sista tiden, han får än alltid o skratta o jag ä jätte stolt över han, han säger alltid att vi alltid kan ringa oavsett vad o jag älskar han så mycket. \nvärldens bästa pappa.\n3. min Storasyster, min Stora syster är inte min riktiga syster men hon blev typ adopterad av min pappa för hennes pappa kände att han inte kunde ta ansvar över ett barn. idag är hon 19år och jag har känt henne i ungefär hela mitt liv. jag älskar henne exakt lika mycket som alla andra i min  familj. hon har alltid funnits för mig o min syster och får oss alltid att känna oss som riktiga fina människor. jag kommer ihåg när vi gjorde egen pasta med henne det såg inte alls gott ut och hennes kille tyckte inte heller det, när vi smakade var det ett ut av det godaste jag ätit det var som restaurang mat men det såg inge vidare ut. men detta var allt för mig.",
+        "modified": "Fri, 25 Feb 2022 10:08:16 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "9588a743-de4b-444e-9f2b-edba76b292a4"
+      }
+    ]
   }
 ]

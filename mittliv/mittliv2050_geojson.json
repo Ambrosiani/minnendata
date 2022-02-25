@@ -3680,6 +3680,54 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "År 2050 så har jag levt ett tag och har hunnit uppleva massa olika saker. På väggarna i min villa så…",
+        "date": "25 februari 2022",
+        "author": "Sonja",
+        "url": "https://minnen.se/tema/mittliv2050/18555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I år 2050 är jag 43 år. Jag flyttade till Usa efter jag hade jobbat några år i Sverige inom marketin…",
+        "date": "25 februari 2022",
+        "author": "Maja",
+        "url": "https://minnen.se/tema/mittliv2050/18559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "2050 tror jag att jag är ekonomiskt oberoende på grund av att jag investerat i aktier tidigt i livet…",
+        "date": "25 februari 2022",
+        "author": "Fabian",
+        "url": "https://minnen.se/tema/mittliv2050/18565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }

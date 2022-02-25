@@ -4544,6 +4544,54 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I mitt liv så är mina föräldrar, min storasyster kajsa och min storasyster Jessica de viktigaste per…",
+        "date": "25 februari 2022",
+        "author": "Sonja",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mamma\nMin mamma Theresa är en av dem viktigaste personerna i mitt liv. Hon lyckas alltid vara min vä…",
+        "date": "25 februari 2022",
+        "author": "Maja",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina föräldrar är väldigt viktiga för mig eftersom de alltid finns där för en när man är nere och de…",
+        "date": "25 februari 2022",
+        "author": "Fabian",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }

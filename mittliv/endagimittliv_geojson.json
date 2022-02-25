@@ -23920,6 +23920,54 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En vanlig skoldag i mitt liv så brukar jag vakna runt 06:30. Jag vaknar oftast av att mitt alarm rin…",
+        "date": "25 februari 2022",
+        "author": "Sonja",
+        "url": "https://minnen.se/tema/endagimittliv/18558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknar klockan 06:20 av ett ljud jag fruktar mest, mitt alarm. Jag lägger alltid min mobil på mi…",
+        "date": "25 februari 2022",
+        "author": "Maja",
+        "url": "https://minnen.se/tema/endagimittliv/18563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "När jag vaknar tar jag direkt min Apple Iphone 11 telefon och mina Apple AirPods 2 hörlurar och går …",
+        "date": "25 februari 2022",
+        "author": "Fabian",
+        "url": "https://minnen.se/tema/endagimittliv/18566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }
