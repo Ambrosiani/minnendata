@@ -23984,6 +23984,326 @@
           57.786549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej! Jag heter Elin Axelsson och jag är 12 år. Jag bor i ett hus i Lekeryd och jag går på Internatio…",
+        "date": "25 februari 2022",
+        "author": "Elin",
+        "url": "https://minnen.se/tema/endagimittliv/18581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\n\nHej! Jag heter Ayanna Chaudhry och är 12 år gammal. Jag kommer ursprungligen från Pakistan,…",
+        "date": "25 februari 2022",
+        "author": "Ayanna",
+        "url": "https://minnen.se/tema/endagimittliv/18584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag heter Henny, jag är tolv år gammal och bor i en villa i Huskvarna.\nJag vaknar runt 06:00 och vän…",
+        "date": "25 februari 2022",
+        "author": "Henny",
+        "url": "https://minnen.se/tema/endagimittliv/18595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej, jag heter Priya och är 12 år, jag är född i Sverige och bor i Jönköping. En helt vanlig dag i m…",
+        "date": "25 februari 2022",
+        "author": "Priya",
+        "url": "https://minnen.se/tema/endagimittliv/18602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej jag heter August och är elva år gammal, jag bor i Jönköping. Runt klockan sju på morgonen så väc…",
+        "date": "25 februari 2022",
+        "author": "August",
+        "url": "https://minnen.se/tema/endagimittliv/18605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag heter Molly och är tolv år. Jag bor på Ekhagen i Jönköping.\nEn helt vanlig dag i mitt liv ser ut…",
+        "date": "25 februari 2022",
+        "author": "Molly",
+        "url": "https://minnen.se/tema/endagimittliv/18608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv   \nHej, jag heter Filippa Lantos och är 12 år gammal.Jag bor i Jönköping på Lillgatan.Och j…",
+        "date": "25 februari 2022",
+        "author": "Filippa",
+        "url": "https://minnen.se/tema/endagimittliv/18612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag brukar vakna 10:00 på helgerna och ibland 12:00 och ibland 13:00. Jag väljer kläder med det jag …",
+        "date": "25 februari 2022",
+        "author": "Leo",
+        "url": "https://minnen.se/tema/endagimittliv/18615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mamma säger alltid till mig att städa mitt rum men jag glömmer alltid att göra det. Ibland hjälp…",
+        "date": "25 februari 2022",
+        "author": "Leona",
+        "url": "https://minnen.se/tema/endagimittliv/18619"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\n\nDet första jag gör när jag vaknar är att sätta på mig kläderna som jag valt dagen innan. Ja…",
+        "date": "25 februari 2022",
+        "author": "Amina",
+        "url": "https://minnen.se/tema/endagimittliv/18623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag 2021\nMin pappa eller syster väcker oftast mig när min pappa går till jobbet eller när  min s…",
+        "date": "25 februari 2022",
+        "author": "Gry",
+        "url": "https://minnen.se/tema/endagimittliv/18626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Vi säger att det är morgon och att jag fortfarande sover och det är skoldag så väcker min pappa mig …",
+        "date": "25 februari 2022",
+        "author": "Jesper",
+        "url": "https://minnen.se/tema/endagimittliv/18631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "När det är en skoldag brukar  antingen mina föräldrar väcka mig eller  så  vaknar  jag av en alarm. …",
+        "date": "25 februari 2022",
+        "author": "Wania",
+        "url": "https://minnen.se/tema/endagimittliv/18635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "När jag vaknar brukar jag först bädda min säng och klä på mig och sen äter jag frukost. Sedan borsta…",
+        "date": "25 februari 2022",
+        "author": "Kavisha",
+        "url": "https://minnen.se/tema/endagimittliv/18641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag brukar vakna vid typ kl 07:00 på vardagar men på helgen så vaknar jag oftast runt kl 9. När jag …",
+        "date": "25 februari 2022",
+        "author": "Axel",
+        "url": "https://minnen.se/tema/endagimittliv/18645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "När jag vaknar så väcker mitt alarm mig.\nSen brukar jag borsta tänderna sen äta frukost och borsta t…",
+        "date": "25 februari 2022",
+        "author": "Myrna",
+        "url": "https://minnen.se/tema/endagimittliv/18650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Allt börjar med att jag går upp ur sängen och föbereder mig för dagen.\nSen så att jag har lite eners…",
+        "date": "25 februari 2022",
+        "author": "Jennifer",
+        "url": "https://minnen.se/tema/endagimittliv/18654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Oftast på morgonen så vaknar jag 5 kvart före skolan börjar.Då sätter jag på mig kläder.Oftast en bl…",
+        "date": "25 februari 2022",
+        "author": "Axel",
+        "url": "https://minnen.se/tema/endagimittliv/18658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej, mitt namn är Amir och jag är 12 år och bor i Jönköping som ligger i småland.\n\n\n I min familj bo…",
+        "date": "25 februari 2022",
+        "author": "Amir",
+        "url": "https://minnen.se/tema/endagimittliv/18661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej mitt namn är Sabina, jag är 12 år gammal och jag bor i Jönköping. Idag ska ni få följa med på en…",
+        "date": "25 februari 2022",
+        "author": "Sabina",
+        "url": "https://minnen.se/tema/endagimittliv/18664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.261293,
+          57.786549
+        ]
+      }
     }
   ]
 }
