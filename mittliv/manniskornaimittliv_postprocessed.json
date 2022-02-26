@@ -19228,5 +19228,61 @@
       "latitude": 59.335045,
       "longitude": 18.289735
     }
+  },
+  {
+    "archive_code": "M1:3/00519",
+    "contributor": {
+      "display_name": "Minou"
+    },
+    "created": "Sat, 26 Feb 2022 07:21:18 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:21:18 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18700",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "ccd6ab4f-ff03-4c4b-b149-2b957f66f8fc",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:21:18 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:21:18 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "a18df5d3-45d2-48f5-b809-7c3058f7b0c5"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:21:18 GMT",
+        "display_value": "Jag har tre personer som är viktiga för mig vi kan börja med den första. Det är min mamma hon är en av dom viktigaste jag har i mitt liv jag älskar henne och hon älskar mig. Vi har alltid roligt tillsammans och vi gör många roliga saker tillsammans. Ja och mamma tillbringar mycket tid tillsammans vi tycker och tänker typ samma saker och vi är väldigt lika varandra i utseendet. Hon är snäll,omtänksam,rolig snygg och världens bästa mamma man kan inte tänka sig en bättre mamma hon är allt och lite till jag älskar henne to the moon and back. Min andra viktiga person är min pappa jag älskar honom och skulle inte kunna leva utan honom. Han är supersnäll och gör alltid så att man skrattar. Han är min fotbollstränare också. Det kan vara lite stressigt att ha honom som tränare för ibland känns det som om man gör fel så kommer han säga det i bilen och skrika på mig men han gör aldrig det men när jag gör fel är det som om en klump i magen. Men han är världens bästa pappa och man skulle inte kunna önska sig en bättre jag älskar honom av hela mitt hjärta. Och den sista är min storasyster Stella hon kan tycka jag är jobbig och jag kan tycka hon är jobbig. Vi bråkar med varandra men vi kommer alltid hålla ihop vi älskar varandra jättemycket och skulle inte klara oss utan varandra. Även fast vi bråkar så kommer vi alltid vara syskon. Vi har alltid roligt och skrattar jättemycket med varandra. Vi hittar på saker och försöker tillbringa så mycket tid med varandra som möjligt. Hon är 16 år ganska jobbig ålder men jag älskar henne så mycket.",
+        "modified": "Sat, 26 Feb 2022 07:21:18 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "a188349b-a975-4a92-a904-cc3fd40ce06c"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
   }
 ]

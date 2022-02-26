@@ -74230,5 +74230,47 @@
       "latitude": 59.335045,
       "longitude": 18.289735
     }
+  },
+  {
+    "archive_code": "M1:2/00643",
+    "contributor": {
+      "display_name": "Anna"
+    },
+    "created": "Sat, 26 Feb 2022 07:44:37 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:44:37 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18708",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "100344e8-c41a-4e3b-be0f-ed273a62c9e8",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:44:37 GMT",
+        "display_value": "Mitt hem\nJag bor med min bror david som är 16 år och min mamma och pappa som heter petra och niclas. Jag har bott i mitt hus i snart 13 år. Huset är stort och rött med vita detaljer. När man kommer in igenom dörren är det en vit trappa bredvid och framför vardagsrummet och köket.när man går upp för trappan ser man 4 dörrar, en tv , marsvinsbur och en soffa. andra dörren är mitt rum, när man går in där ser man en skrivbord med min dator på och bredvid min säng mitt emot min säg känner det massa prisrosetter som jag har vunnit med mina ponnysar jag har nu och mina gamla som är sålda eller döda. Min säng är 120 cm bred. på andra sidan väggen har jag en hylla med en spegel över som jag har mitt smink på. min väggar är gråa.",
+        "modified": "Sat, 26 Feb 2022 07:44:37 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "9c8690d8-aca6-490f-a8dc-6c38337a86b2"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
   }
 ]

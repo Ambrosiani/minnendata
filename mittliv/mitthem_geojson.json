@@ -5696,6 +5696,22 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt hem\nJag bor med min bror david som är 16 år och min mamma och pappa som heter petra och niclas.…",
+        "date": "26 februari 2022",
+        "author": "Anna",
+        "url": "https://minnen.se/tema/mitthem/18708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }

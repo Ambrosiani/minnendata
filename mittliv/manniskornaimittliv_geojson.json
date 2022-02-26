@@ -4848,6 +4848,22 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har tre personer som är viktiga för mig vi kan börja med den första. Det är min mamma hon är en …",
+        "date": "26 februari 2022",
+        "author": "Minou",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }
