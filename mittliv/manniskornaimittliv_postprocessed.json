@@ -19284,5 +19284,61 @@
       "latitude": 59.335045,
       "longitude": 18.289735
     }
+  },
+  {
+    "archive_code": "M1:3/00521",
+    "contributor": {
+      "display_name": "Linus"
+    },
+    "created": "Sat, 26 Feb 2022 15:29:02 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 15:29:02 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18717",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "3748bfcf-951c-4ae7-b5f0-a14798d83c62",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 15:29:02 GMT",
+        "display_value": "2007",
+        "modified": "Sat, 26 Feb 2022 15:29:02 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "6be16dab-d067-40e1-8543-b9ad0bd429e3"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 15:29:02 GMT",
+        "display_value": "Dem tre personer som är viktiga i mitt liv är min mamma Paula/pappa Fredrik, min lillebror Philip och min bästa vän Olle. Dessa personer är viktiga för mig, men av lite olika anledningar. \n\nMina föräldrar är viktiga för mig först och främst eftersom att det är dem som jag har att tacka för att jag finns, men såklart också av andra anledningar också. Det är dem som har uppfostrat mig och gjort mig till den jag är, de har alltid funnits där för mig och jag vet att dem älskar mig oavsett vad och skulle göra allt för mig. Det är med dem som jag har spenderat det mesta av mitt liv men nuförtiden blir det mindre och mindre när andra saker börjar ta större plats. Vi är tillsammans före och efter skolan och mellan alla aktiviteter. När det inte finns något som ska göras brukar vi hitta på roliga saker och åker dessutom på resor tillsammans regelbundet (innan covid-19). \n\nMin lillebror Philip betyder också väldigt mycket för mig. Så länge jag kan minnas har han funnits där och om jag ska vara helt ärlig så vet jag inte vad jag skulle göra utan honom. Visst, vi bråkar en del, men det hör ju liksom till och sanningen är att det skulle kännas väldigt tomt utan honom. \n\nEn annan person som har stor plats i mitt liv är min bästa kompis Olle. Vi lärde känna varandra för 6 år sedan och trots våra olikheter så är vi än idag väldigt bra kompisar. Vi kan också ha våra diskussioner men i slutändan så är vi fortfarande kompisar. Om han försvann skulle det definitivt att lämna ett stort tomrum.",
+        "modified": "Sat, 26 Feb 2022 15:29:02 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "5d2b9451-56cf-48de-8c8f-a3448f396e27"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
   }
 ]

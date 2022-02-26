@@ -4864,6 +4864,22 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Dem tre personer som är viktiga i mitt liv är min mamma Paula/pappa Fredrik, min lillebror Philip oc…",
+        "date": "26 februari 2022",
+        "author": "Linus",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }

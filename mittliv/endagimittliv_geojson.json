@@ -24512,6 +24512,22 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt namn är Linus Wäppling och jag går VT-2021/2022 i 8:an på stavsborgsskolan. Jag är en ljushyad,…",
+        "date": "26 februari 2022",
+        "author": "Linus",
+        "url": "https://minnen.se/tema/endagimittliv/18716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }
