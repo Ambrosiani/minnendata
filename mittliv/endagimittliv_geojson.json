@@ -24480,6 +24480,38 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\n\nHej mitt namn är Matheo jag är 12 år gammal. Jag vaknar kl 7.00 på vardagarna av att min vä…",
+        "date": "26 februari 2022",
+        "author": "Matheo",
+        "url": "https://minnen.se/tema/endagimittliv/18703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\n\nFamiljemedlemmar: Pappa Erik som är 44 år, Mamma Caroline 45 år, Storasyster Nicoline som ä…",
+        "date": "26 februari 2022",
+        "author": "Sofi",
+        "url": "https://minnen.se/tema/endagimittliv/18706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }
