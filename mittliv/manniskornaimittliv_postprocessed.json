@@ -19004,5 +19004,229 @@
       "latitude": 57.786549,
       "longitude": 14.261293
     }
+  },
+  {
+    "archive_code": "M1:3/00509",
+    "contributor": {
+      "display_name": "Max"
+    },
+    "created": "Sat, 26 Feb 2022 07:14:43 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:14:43 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18677",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "c75d6620-3545-4f30-a764-c81cf268a282",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:14:43 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:14:43 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "2f64a860-8cc7-472e-8057-e8eb9f8692c2"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:14:43 GMT",
+        "display_value": "Människorna i mitt liv\n\n\n\nDem tre människorna som betyder mest för mig är min pappa, min mamma och min syster.\n\nMin pappa är jättesnäll och jätterolig. Han stöttar mig med allt. När jag har jobbigt är han jättesnäll mot mig. Han brukar skämta med mig så att jag har roligt.\n\nMin mamma fixar mycket. Hon fixar roliga saker till mig och bokar resor och sådant till min familj.\n\nOch min syster hjälper mig med läxor, och köper till exempel godis till mig när jag är sjuk.\n\nDet är därför dem är dem tre människorna som betyder mest för mig.",
+        "modified": "Sat, 26 Feb 2022 07:14:43 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "be98cad2-c690-4ed5-9e87-60e3870ad65e"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:3/00511",
+    "contributor": {
+      "display_name": "Kerstin "
+    },
+    "created": "Sat, 26 Feb 2022 07:15:06 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:15:06 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18679",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "6d823a65-72f4-49de-9bf0-04b26c250a76",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:15:06 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:15:06 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "14fc83ee-9ee0-43f1-a6f9-4623a487aeef"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:15:06 GMT",
+        "display_value": "Människor i mitt liv \nDom som betyder mest i mitt liv är min familj och min hund och mina vänner. Varför dom betyder så mycket är att dom finns alltid där och har alltid roligt med dom. Mina vänner betyder också väldigt mycket för att dom finns också där och man har alltid roligt med dom. Det jag brukar göra med min familj är att åka någonstans och göra något tex som att äta fika som bulle och saft. Vi brukar också gå ut en långpromenad med våran hund och packa ner fika och varm choklad i en termos. Då går vi upp i en skog som ligger 5 min från vårat hus. Där älskar våran hund att vara och springa lös. Med mina vänner brukar vi åka och spela fotboll på konstgräs, cykla, bada i havet och så kan vi åka hem till någon som har pool och bada i den. Poolen brukar vara ungefär 27-30 grader det är så skönt! Vi brukar gå ner till en strand som ligger ungefär 2 min bort. Det är jätteskönt för att då kan man packa ner lite fika och sen vara där hela dan. Solen skiner så fint där.",
+        "modified": "Sat, 26 Feb 2022 07:15:06 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "094e9465-6bd6-44fd-9cc1-7479607a5c99"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:3/00513",
+    "contributor": {
+      "display_name": "Stella"
+    },
+    "created": "Sat, 26 Feb 2022 07:16:48 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:16:48 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18686",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "487d2e73-6bc3-4fcd-83a5-472e5b36cc1e",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:16:48 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:16:48 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "a3dab94a-77fe-4eaf-b3aa-4ca463f11657"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:16:48 GMT",
+        "display_value": "Om jag skulle välja tre viktiga personer i mitt liv skulle jag skriva om mamma, pappa och mormor.  Alla dom här personerna betyder väldigt mycket för mig. Mamma är väldigt omtänksam och snäll och vi kan prata om allt möjligt. Pappa är väldigt rolig, snäll, tycker om musik och rymden. Jag och pappa brukar åka på äventyr tillsammans vilket är extremt kul. En gång var vi ute med båten själva och pappa bestämde sig för att vi skulle åka innan ett oväder skulle komma, så han åkte utan att väcka mig kl 4 på morgonen. Vi hamnade såklart mitt i stormen, försökte lägga till vid en fyr som skydd men då gick vi på grund och propellern gick sönder. \nOch det var bara en av alla äventyr eller vad man ska kalla dom.\nMin mormor är nog den snällaste personen som existerar. Hon är väldigt rolig och hjälper alltid mig om jag behöver hjälp med något. Efter att morfar gick bort har jag lärt känna henne mera då hon har bott hos oss ganska mycket. Innan var hon mormor som alltid gav en godis och glass och lagade världen godaste mat. Hon är fortfarande det men hon är också en väldigt nära vän.\nJag, mamma och mormor brukar spela kort och kolla på film ibland. Oftast “En plats i solen” eller \"Antikrundan\" som mormor älskar att kolla på. Hon älskar också att läsa.",
+        "modified": "Sat, 26 Feb 2022 07:16:48 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "51d15e9d-f028-47b0-bb27-d1917ef4d6a9"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:3/00519",
+    "contributor": {
+      "display_name": "Minou"
+    },
+    "created": "Sat, 26 Feb 2022 07:21:18 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:21:18 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18700",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "ccd6ab4f-ff03-4c4b-b149-2b957f66f8fc",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:21:18 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:21:18 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "a18df5d3-45d2-48f5-b809-7c3058f7b0c5"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:21:18 GMT",
+        "display_value": "Jag har tre personer som är viktiga för mig vi kan börja med den första. Det är min mamma hon är en av dom viktigaste jag har i mitt liv jag älskar henne och hon älskar mig. Vi har alltid roligt tillsammans och vi gör många roliga saker tillsammans. Ja och mamma tillbringar mycket tid tillsammans vi tycker och tänker typ samma saker och vi är väldigt lika varandra i utseendet. Hon är snäll,omtänksam,rolig snygg och världens bästa mamma man kan inte tänka sig en bättre mamma hon är allt och lite till jag älskar henne to the moon and back. Min andra viktiga person är min pappa jag älskar honom och skulle inte kunna leva utan honom. Han är supersnäll och gör alltid så att man skrattar. Han är min fotbollstränare också. Det kan vara lite stressigt att ha honom som tränare för ibland känns det som om man gör fel så kommer han säga det i bilen och skrika på mig men han gör aldrig det men när jag gör fel är det som om en klump i magen. Men han är världens bästa pappa och man skulle inte kunna önska sig en bättre jag älskar honom av hela mitt hjärta. Och den sista är min storasyster Stella hon kan tycka jag är jobbig och jag kan tycka hon är jobbig. Vi bråkar med varandra men vi kommer alltid hålla ihop vi älskar varandra jättemycket och skulle inte klara oss utan varandra. Även fast vi bråkar så kommer vi alltid vara syskon. Vi har alltid roligt och skrattar jättemycket med varandra. Vi hittar på saker och försöker tillbringa så mycket tid med varandra som möjligt. Hon är 16 år ganska jobbig ålder men jag älskar henne så mycket.",
+        "modified": "Sat, 26 Feb 2022 07:21:18 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "a188349b-a975-4a92-a904-cc3fd40ce06c"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
   }
 ]

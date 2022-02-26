@@ -5616,6 +5616,86 @@
           59.333222
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet i mitt hem\n\nI mitt hem bor min pappa, min mamma och min syster. \n\nJag har bott i mitt hem i he…",
+        "date": "26 februari 2022",
+        "author": "Max",
+        "url": "https://minnen.se/tema/mitthem/18676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet i mitt hem\nNu ska jag berätta om mitt hem och hur jag bor:  Jag bor med min mamma Beata och mi…",
+        "date": "26 februari 2022",
+        "author": "Kerstin ",
+        "url": "https://minnen.se/tema/mitthem/18681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "26 februari 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/mitthem/18687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag bor i mitt hus och min familj. Min pappa heter Pierre och min mamma Camilla, har också en storas…",
+        "date": "26 februari 2022",
+        "author": "Minou",
+        "url": "https://minnen.se/tema/mitthem/18701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet i mitt hem\n\n\n Mina föräldrar är skilda så ena veckan är jag och min storasyster hos pappa och …",
+        "date": "26 februari 2022",
+        "author": "Sofi",
+        "url": "https://minnen.se/tema/mitthem/18705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }

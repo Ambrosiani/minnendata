@@ -24352,6 +24352,134 @@
           59.333222
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\n\nPå en vardag brukar jag gå upp klockan 7 för att hinna äta frukost, klä på mig, borsta tänd…",
+        "date": "26 februari 2022",
+        "author": "Max",
+        "url": "https://minnen.se/tema/endagimittliv/18678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\nHej jag heter Kerstin och är 12 år, jag bor i saltsjö boo och bor i ett radhus med min mamma…",
+        "date": "26 februari 2022",
+        "author": "Kerstin ",
+        "url": "https://minnen.se/tema/endagimittliv/18682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tjo. Mitt namn är Signe och jag är 12 år( fyller tretton det här året ). \n\nMin dag börjar oftast med…",
+        "date": "26 februari 2022",
+        "author": "Signe",
+        "url": "https://minnen.se/tema/endagimittliv/18683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tjo. Mitt namn är Signe och jag är 12 år( fyller tretton det här året ). \n\nMin dag börjar oftast med…",
+        "date": "26 februari 2022",
+        "author": "Signe",
+        "url": "https://minnen.se/tema/endagimittliv/18684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\n\nHej jag heter Stella och är 13 år. Jag bor i ett ganska stort hus i Vikingshill (Saltsjö-Bo…",
+        "date": "26 februari 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/endagimittliv/18688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "min dag\n\nJag vaknar upp en dag kliver ur min säng och klär på mig  kläder. Det kan vara  tex ett par…",
+        "date": "26 februari 2022",
+        "author": "Vendel",
+        "url": "https://minnen.se/tema/endagimittliv/18697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej jag heter Minou och är 12 år. Jag har en storasyster som heter Stella och en mamma och pappa som…",
+        "date": "26 februari 2022",
+        "author": "Minou",
+        "url": "https://minnen.se/tema/endagimittliv/18702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\n\nFamiljemedlemmar: Pappa Erik som är 44 år, Mamma Caroline 45 år, Storasyster Nicoline som ä…",
+        "date": "26 februari 2022",
+        "author": "Sofi",
+        "url": "https://minnen.se/tema/endagimittliv/18706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }

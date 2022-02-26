@@ -4784,6 +4784,70 @@
           57.786549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\n\n\n\nDem tre människorna som betyder mest för mig är min pappa, min mamma och m…",
+        "date": "26 februari 2022",
+        "author": "Max",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människor i mitt liv \nDom som betyder mest i mitt liv är min familj och min hund och mina vänner. Va…",
+        "date": "26 februari 2022",
+        "author": "Kerstin ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Om jag skulle välja tre viktiga personer i mitt liv skulle jag skriva om mamma, pappa och mormor.  A…",
+        "date": "26 februari 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har tre personer som är viktiga för mig vi kan börja med den första. Det är min mamma hon är en …",
+        "date": "26 februari 2022",
+        "author": "Minou",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }

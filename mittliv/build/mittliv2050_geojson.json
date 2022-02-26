@@ -4112,6 +4112,86 @@
           59.333222
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n\nJag satsar på att bli rik i framtiden. Jag satsar på att ha över en miljard när jag ä…",
+        "date": "26 februari 2022",
+        "author": "Max",
+        "url": "https://minnen.se/tema/mittliv2050/18675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nJag tror att världen inte kommer ha blivit bättre, just nu har vi ett jätte dåligt kli…",
+        "date": "26 februari 2022",
+        "author": "Kerstin ",
+        "url": "https://minnen.se/tema/mittliv2050/18680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att mitt liv 2050 kan se ut såhär:\nÅr 2050 är jag 41 år tror jag.\nVärlden skulle nog vara g…",
+        "date": "26 februari 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/mittliv2050/18685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att mitt liv kommer se bra ut jag kommer ha en bra familj och ha underbara barn eller inte …",
+        "date": "26 februari 2022",
+        "author": "Minou",
+        "url": "https://minnen.se/tema/mittliv2050/18699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n År 2050 är jag 41 år och jag tror att världen är fylld med massa prylar t.e.x som fly…",
+        "date": "26 februari 2022",
+        "author": "Sofi",
+        "url": "https://minnen.se/tema/mittliv2050/18704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.289735,
+          59.335045
+        ]
+      }
     }
   ]
 }

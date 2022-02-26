@@ -16410,5 +16410,285 @@
       "latitude": 59.333222,
       "longitude": 18.268516
     }
+  },
+  {
+    "archive_code": "M1:4/00460",
+    "contributor": {
+      "display_name": "Max"
+    },
+    "created": "Sat, 26 Feb 2022 07:14:33 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:14:33 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18675",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "f68a5203-6825-4986-ab3a-0c725858f04b",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:14:33 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:14:33 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "996e273d-1bef-40f3-b6a5-ae6794c24fed"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:14:33 GMT",
+        "display_value": "Mitt liv 2050\n\nJag satsar på att bli rik i framtiden. Jag satsar på att ha över en miljard när jag är 25 år. Så jag kanske kommer vara dollarmiljardär när det är år 2050. \n\nJag kommer bo i ett lyxigt och stort hus. Jag kommer ha landställen i andra länder också. Och jag måste också ha en privatjet. \n\nMen jag ska ge några dyra saker till mina föräldrar också. Inte för att dem inte har råd själva, men jag vill ge något extra till dem för att dem är så snälla mot mig. \n\nJag vill arbeta med att sälja en slags tandborste som jag har kommit på. Det är en bomullsboll som går på el. Så att hela munnen borstas samtidigt. För man borstar 92 dagar på att borsta tänderna hela livet, om man blir ungefär 95 år. Med den här kommer man bli mycket renare i munnen och man kommer inte borsta tänderna så länge. Det kommer jag bli rik på. Efter det vill jag bli arkitekt.",
+        "modified": "Sat, 26 Feb 2022 07:14:33 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "e36c7588-197b-4d61-b9fa-14ed86515776"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:4/00462",
+    "contributor": {
+      "display_name": "Kerstin "
+    },
+    "created": "Sat, 26 Feb 2022 07:15:09 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:15:09 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18680",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "4b9ee598-5094-46e2-8578-aeef8e87a454",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:15:09 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:15:09 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "e9d4c95b-8f13-4afa-8c5c-1b9b74981029"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:15:09 GMT",
+        "display_value": "Mitt liv 2050\nJag tror att världen inte kommer ha blivit bättre, just nu har vi ett jätte dåligt klimat och vi tar inte hand om jorden allra bästa vi kan utan vi struntar i det. Men jag tror fortfarande inte att vi kommer ha förbättrat världen 2050 utan det kommer vara likadant. Jag kommer vara vuxen och vara 41 år och kanske ha några barn, jag vill ha 2 barn och bo i ett stort hus i skåne för där är alla mina kusiner man har jätte nära till stranden och havet så kan man sola och bada hela dan. Det jag vill att jag ska jobba med är lärare i lågstadiet och vill fortsätta att spela fotboll som jag gör nu. Det mest jag kommer äta tror jag är lasange för det älskar jag och kanske mycket hämtmat som sushi och thai som jag kan gå och hämta, om vi inte orkar laga mat.",
+        "modified": "Sat, 26 Feb 2022 07:15:09 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "2d00b33b-31e7-4b8b-b181-6feb12b5c674"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:4/00464",
+    "contributor": {
+      "display_name": "Stella"
+    },
+    "created": "Sat, 26 Feb 2022 07:16:45 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:16:45 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18685",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "3bc4eea6-8bec-4d7a-a241-f9f0fd94ef47",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:16:45 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:16:45 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "7981c484-6fa1-4608-aaeb-344fdef12165"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:16:45 GMT",
+        "display_value": "Jag tror att mitt liv 2050 kan se ut såhär:\nÅr 2050 är jag 41 år tror jag.\nVärlden skulle nog vara ganska förstörd och det skulle nog inte snöa i sverige längre pga växthuseffekten (Oj, nu kanske jag lät lite arg men det var inte menat så hehe).\nFör man vet ju aldrig, folk kanske har blivit lite smartare.\n\nJag skulle tro att jag har ett jobb, eller det kan man iallafall hoppas på. Mitt jobb skulle nog ha något att göra med att skapa saker. Kanske författare, konstnär eller någon slags designer. Jag tror också att vissa jobb som finns nu inte kommer behövas år 2050 som tex modell, frisör eller personal i en affär, det kommer nog skötas av någon teknisk sak.\nJag bor nog i ett hus, antagligen med trädgård och nära till skog.\nOch jag är säkert fortfarande Vegetarian så jag äter väl vegetarisk mat. Tror inte att maten kommer förändras så mycket, kanske fler vegetarianer. Det jag tror kommer förändras i framtiden är att tekniken kommer utvecklas extremt mycket.Och vem vet, kanske har man ingen telefon längre utan ett chipp i huvudet?",
+        "modified": "Sat, 26 Feb 2022 07:16:45 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "e29220d1-8e39-4ece-bae9-52536b55c172"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:4/00468",
+    "contributor": {
+      "display_name": "Minou"
+    },
+    "created": "Sat, 26 Feb 2022 07:21:12 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:21:12 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18699",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "a8c4d4fc-7872-4001-b555-556a475cf07c",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:21:12 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:21:12 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "d9d8216b-b861-4d18-a73b-0552da7f4341"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:21:12 GMT",
+        "display_value": "Jag tror att mitt liv kommer se bra ut jag kommer ha en bra familj och ha underbara barn eller inte vi får väl se. Jag vet inte vad jag kommer jobba med men just nu vill jag bli modell. Det verkar så kul och jag älskar att ta bilder på mig själv och göra coola bilder. Jag tror att 2050 kommer vara ganska dåligt faktiskt för att jorden kommer ha massa skräp på sig och naturen kommer vara förstörd men jag hoppas jag har fel. Jag tror att det kommer finnas massa teknologi som vi inte kan föreställa oss just nu. Jag vill äta nyttigt när jag blir stor och tror att jag kommer göra det. Jag vill leva ett hälsosamt liv och må bra. Jag vill göra många saker med min familj om jag får någon. Vi ska hitta på roliga saker och inte bara ligga hemma och titta på skärmen. Jag vill att vi ska ta vara på naturen innan den försvinner. Det enda jag önskar mig är att min familj ska må bra och att jag kommer få den perfekta familjen eller ingen familj kan vara perfekt men ni fattar vad jag menar.",
+        "modified": "Sat, 26 Feb 2022 07:21:12 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "6fa790eb-28cc-461d-9d29-e482d073d8b1"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
+  },
+  {
+    "archive_code": "M1:4/00470",
+    "contributor": {
+      "display_name": "Sofi"
+    },
+    "created": "Sat, 26 Feb 2022 07:22:13 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 26 Feb 2022 07:22:13 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18704",
+    "published": true,
+    "school_uuid": "33da3e28-1294-45ff-be27-00c50d96cbbc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "868f7cde-d934-498e-a640-260ec768b798",
+    "values": [
+      {
+        "created": "Sat, 26 Feb 2022 07:22:13 GMT",
+        "display_value": "2009",
+        "modified": "Sat, 26 Feb 2022 07:22:13 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "f92ea4ba-d2fa-42e3-9033-41e241b777dd"
+      },
+      {
+        "created": "Sat, 26 Feb 2022 07:22:13 GMT",
+        "display_value": "Mitt liv 2050\n År 2050 är jag 41 år och jag tror att världen är fylld med massa prylar t.e.x som flygande bilar eller självstyrda, massa saker som kanske är otänkbara, vi kanske har google som vi har på dator nu det kanske vi har i hjärnan som om man tar in ett chip i hjärnan. Man kanske till och med kan teleportera sig till utlandet eller något så coolt. \nJag tror iallafall jag är barnmorska eller veterinär och bor i norge eller sverige, som barnmorska och veterinär har man alltid någon som behöver hjälp, jag gillar och hjälpa folk. Dessutom så är jag absolut ingen kontorsmänniska och det vet jag till och med idag.  \nNär jag blir större så ska jag vara miljövänlig så mycket som möjligt alltså  typ sopsortera t.e.x. \nJag bor i en villa som är en beige sten färg på mitt hus, som har  vackra fönster och en fin form på huset som har en ganska stor tomt och en pool med ett stort körsbärsträd. \nJag vill bo i ett mysigt område. Vi kommer äta gott, vi kommer både äta glass och godis och sånt men också nyttigt och gott som poke bowl, lasagne, sallad, frukt. Även fast jag är miljövänlig så behöver man ibland att äta kött och köttfär för att det är bra protein i köttet. \nJag vill vara i en vanlig miljön när jag är vuxen och känna m",
+        "modified": "Sat, 26 Feb 2022 07:22:13 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "90c7886c-5c4e-4e16-9c8c-a1826c1fc940"
+      }
+    ],
+    "position": {
+      "latitude": 59.335045,
+      "longitude": 18.289735
+    }
   }
 ]
