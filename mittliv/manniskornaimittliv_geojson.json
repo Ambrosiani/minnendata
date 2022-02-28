@@ -4912,6 +4912,86 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag heter Anton och tre personer som är viktiga i mitt liv är Gustav, mina föräldrar och mina kompis…",
+        "date": "28 februari 2022",
+        "author": "Anton",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag ska berätta om 3 personer som är viktiga i mitt liv. \nMina föräldrar, min bästavän och min kusin…",
+        "date": "28 februari 2022",
+        "author": "Hedda",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tre av personerna som är viktiga i mitt liv är min kompis Isak, min kompis Anton, min mamma Lisa och…",
+        "date": "28 februari 2022",
+        "author": "Edvin",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag ska berätta om 3 viktiga personer i mitt liv. \n\nDen första personen jag ska berätta om är min ma…",
+        "date": "28 februari 2022",
+        "author": "Vira",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag ska berätta om tre viktiga människor i mitt liv. \n\nDet första viktiga personen är min mamma. Hon…",
+        "date": "28 februari 2022",
+        "author": "Alisa",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }

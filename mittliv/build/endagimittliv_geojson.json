@@ -24640,6 +24640,102 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknade lite sent eftersom jag inte vaknade av mitt alarm som var ställt på 6.45. Istället vakna…",
+        "date": "28 februari 2022",
+        "author": "Anton",
+        "url": "https://minnen.se/tema/endagimittliv/18814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej! Jag heter Hedda och är 14 snart 15 år gammal. Jag bor i Stockholm tillsammans med min familj.  …",
+        "date": "28 februari 2022",
+        "author": "Hedda",
+        "url": "https://minnen.se/tema/endagimittliv/18817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej, \njag heter Edvin Grauers och är 14 år gammal. Mina föräldrar är skilda och därför bor jag i två…",
+        "date": "28 februari 2022",
+        "author": "Edvin",
+        "url": "https://minnen.se/tema/endagimittliv/18820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknade av min väckarklocka kl 06:30. Det tog ett litet tag att komma upp så gick inte upp först…",
+        "date": "28 februari 2022",
+        "author": "Vira",
+        "url": "https://minnen.se/tema/endagimittliv/18823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknade av att mitt alarm på mobilen ringde kl 06.35.  Jag orkade inte vakna det var så varmt oc…",
+        "date": "28 februari 2022",
+        "author": "Alisa",
+        "url": "https://minnen.se/tema/endagimittliv/18826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej jag heter Dawid.  Jag vaknade idag kl: 6.00. för att min klocka vaknade mig till min första skol…",
+        "date": "28 februari 2022",
+        "author": "Dawid",
+        "url": "https://minnen.se/tema/endagimittliv/18827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }

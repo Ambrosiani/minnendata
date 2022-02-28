@@ -19504,5 +19504,435 @@
         "uuid": "b9eb2f20-3e4d-4790-87b3-0223a2051eee"
       }
     ]
+  },
+  {
+    "archive_code": "M1:3/00531",
+    "contributor": {
+      "display_name": "Anton"
+    },
+    "created": "Mon, 28 Feb 2022 15:06:58 GMT",
+    "image_dms_id": "013AjtiHQ3Nx",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 21 Jan 2022 15:09:10 GMT",
+        "description": "Isak",
+        "dms_id": "013AjtiHQ3Nx",
+        "image_height": 4000,
+        "image_ratio": 0.75,
+        "image_width": 3000,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 21 Jan 2022 15:09:10 GMT",
+        "name": "IMG_20220121_083447.jpg",
+        "order_by_number": 1,
+        "owner": "Anton",
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "e1d96551-77aa-4b9a-9ed8-da0ea5d4ec68"
+      },
+      {
+        "created": "Fri, 21 Jan 2022 15:09:13 GMT",
+        "description": "Edvin",
+        "dms_id": "013AjtiHQ3TD",
+        "image_height": 4000,
+        "image_ratio": 0.75,
+        "image_width": 3000,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 21 Jan 2022 15:09:13 GMT",
+        "name": "IMG_20220121_083500.jpg",
+        "order_by_number": 1,
+        "owner": "Anton",
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "f8092101-d289-4804-a270-7d3fdc083f7e"
+      }
+    ],
+    "modified": "Mon, 28 Feb 2022 15:06:58 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18813",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "1c90c7e1-4bd3-45a4-9b2b-197ad15dd1ed",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:06:58 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:06:58 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "57ab4548-fc84-433a-bf27-e0b87c7f95b3"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:06:58 GMT",
+        "display_value": "Jag heter Anton och tre personer som är viktiga i mitt liv är Gustav, mina föräldrar och mina kompisar.\n\nGustav är min bror och han är 21 år gammal. Gustav jobbar som skidlärare. När vi är tillsammans så brukar vi mest spela en sport som tennis, innebandy eller fotboll. Vi kollar också på sport och serier tillsammans. Gustav har varit väldigt viktig för mig eftersom att han har varit en stor inspiritation för mig. Han har också lärt mig väldigt mycket om hur saker fungerar i livet och hur det kan vara i framtiden för mig. Jag tycker att det är väldigt roligt att vara med Gustav och det har blivit väldigt jobbigt när han har flyttat iväg för att jobba.\n\nMina föräldrar har varit har varit väldigt viktiga eftersom att de har uppfostrad mig och hjälpt mig med många saker. Jag och min pappa brukar att spela sporter som innebandy och göra andra aktiviteter. Pappa har också lärt mig väldigt mycket om aktie-marknaden som jag har blivit väldigt intresserad i på senaste tiden. Min mamma brukar hjälpa mig med att plugga och andra saker. Jag brukar ibland laga mat och baka tillsammans med min mamma. Vi brukar också gå på promenader och kolla på filmer på helgerna. Jag kollar ibland på formel 1 med dem men oftast ensam. \n\nMina kompisar heter Isak och Edvin. Jag har känt Isak sedan första året på dagis och Edvin sedan 4:an. Vi brukar spela dator spel och hänga med varandra. På loven brukar vi göra olika aktiviteter som att köra go-kart, åka pulka eller ha en filmkväll. Vi brukar bada nästan varje dag på sommarlovet. De är väldigt viktiga för mig eftersom att det är väldigt roligt att vara med dem. Jag känner att jag alltid kan vara med någon och blir sällan ensam. Jag gillar inte att vara ensam och eftersom att Gustav är borta så är mina kompisar extra viktiga för mig så att jag har någon att vara med.\n\nDet är tre personer som är viktiga i mitt liv.",
+        "modified": "Mon, 28 Feb 2022 15:06:58 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "6611703e-cceb-4bce-8b9d-6371325bfccc"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:3/00533",
+    "contributor": {
+      "display_name": "Hedda"
+    },
+    "created": "Mon, 28 Feb 2022 15:07:42 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 15:07:42 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18816",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "fbe1f39e-3524-444c-98f0-ec61f69399b2",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:07:42 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:07:42 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "149427fd-a9a9-446c-b781-34cef4fb5143"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:07:42 GMT",
+        "display_value": "Jag ska berätta om 3 personer som är viktiga i mitt liv. \nMina föräldrar, min bästavän och min kusin. \n\nMina föräldrar är mina största supportrar. De ställer alltid upp för mig och jag är så tacksam för allt de gör för mig och min syster. Till exempel så är de väldigt supportande i mitt sportande, jag utövar en sport ( ridning ) som kräver mycket engagemang av hela familjen för att man ska lyckas. Mina föräldrar lägger ner hela sin själ för att jag ska lyckas. \nDe stöttar alltid mig och försöker alltid få mig att må bra. De tycker om mig för den jag är och utan dem hade jag inte varit där jag är idag. Min mamma heter Marie och är 47 år och min pappa heter Magnus och är 48 år. \n\nMin bästa vän Junie är väldigt viktig för mig. Vi har alltid så himla kul och jag skrattar alltid med henne. Vi brukar göra roliga saker tillsammans, t ex så åker vi och shoppar eller äter på restaurang tillsammans. Det bästa med Junie är att hon alltid är så snäll, vi matchar ofta varandras energi vilket gör att vi kan hitta på saker som passar oss båda. \nJag och Junie träffades i fjärde klass där vi snabbt blev bra vänner. Junie och jag är lika gamla. \n\nMin kusin Olivia är en viktig person för mig. Hon är min enda kusin vilket gör att hon betyder lite extra mycket. Hon är 22 år ( alltså skiljer det 7 år mellan oss ) men det känns som att vi är lika gamla när vi pratar och är med varandra. Dock kan vi inte träffas så ofta då hon bor i Västerås och dessutom har barn och jobb, men vi träffas så ofta vi kan. \nDet vi brukar göra när vi träffas är att vi hänger tillsammans, åker och badar, fikar osv. Vi har en väldigt fin relation och jag saknar henne väldigt mycket då jag inte har träffat henne på länge.",
+        "modified": "Mon, 28 Feb 2022 15:07:42 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "bcff5c9d-e8a2-4611-b03e-36a0b50b54d2"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:3/00535",
+    "contributor": {
+      "display_name": "Edvin"
+    },
+    "created": "Mon, 28 Feb 2022 15:08:34 GMT",
+    "image_dms_id": "013AjtbtkTfD",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 19 Jan 2022 10:02:37 GMT",
+        "description": "Mamma",
+        "dms_id": "013AjtbtkTfD",
+        "image_height": 200,
+        "image_ratio": 1,
+        "image_width": 200,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 19 Jan 2022 10:02:37 GMT",
+        "name": "1523905470326.jpeg",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "6d737ec5-fe0e-41ae-82d8-07f0d6edd8c5",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Fri, 21 Jan 2022 07:31:40 GMT",
+        "description": "Isak",
+        "dms_id": "013AjtiHPhyJ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 21 Jan 2022 07:31:40 GMT",
+        "name": "IMG_3365 (1).jpg",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "f9d530d8-6663-47b1-850c-9725a645490b",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 19 Jan 2022 10:05:40 GMT",
+        "description": "Pappa",
+        "dms_id": "013AjtbtkTja",
+        "image_height": 200,
+        "image_ratio": 1,
+        "image_width": 200,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 19 Jan 2022 10:05:40 GMT",
+        "name": "1581427077875.jpeg",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "a0e9cc16-54ae-44b6-8b34-d57b2ed678f4",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Fri, 21 Jan 2022 07:31:26 GMT",
+        "description": "Anton",
+        "dms_id": "013AjtiHPhyH",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 21 Jan 2022 07:31:26 GMT",
+        "name": "IMG_3366.jpg",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "7cc46831-976b-4287-9fa5-fd993797d271",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 28 Feb 2022 15:08:34 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18819",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a5578728-0f5f-456d-9992-9446e1688c20",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:08:34 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:08:34 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "907ecdfe-6bbc-4bf9-84df-f9239db526de"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:08:34 GMT",
+        "display_value": "Tre av personerna som är viktiga i mitt liv är min kompis Isak, min kompis Anton, min mamma Lisa och min pappa Johan.  Jag kommer förklara kort varför jag tycker det. \n\nIsak:\nIsak är och har varit min vän ända sän början av fyran.  Han är skälet till att jag har den humor jag har och att jag gillar många av de saker jag gillar.  Jag hänger alltid med honom och min andra vän Anton i skolan och vi pratar eller spelar oftast tillsammans efter skoltid med.  Utan Isak och Anton skulle jag varit väldigt annorlunda \n\nAnton: \nAnton är min andra vän och jag blev vän med honom ungefär samtidigt som jag blev vän med Isak eftersom de var vänner innan och jag träffade honom efter jag blev vän med isak.  Han spelar också ofta med mig och är den \"smarta\" i vår vängrupp.  Utan hans hjälp med vissa uppgifter och stöd i skolan tror jag att jag skulle ha sämre betyg och skolan skulle vara tråkigare. \n\nPappa:\nMin pappa och mamma är skilda och bor i olika hus.  Min pappa älskar äventyr och sporter och har troligtvis väckt allt intresse jag har för sport och utomhus aktiviteter.  Det var han som lärde mig cykla när jag var 5 vilket väckte mitt intresse för mountainbike, vilket jag nu tränar varje söndag. Han gjorde också så att jag gillar vandring i fjällen och skidåkning.\n\nMamma:\nMin mamma är väldigt organiserad och bra på att hålla ordning i huset. Hon hart lärt mig att baka och laga mat vilket är en sak som jag gillar väldigt mycket. Både min mamma och pappa har alltid stöttat mig och hjälpt mig genom livet.",
+        "modified": "Mon, 28 Feb 2022 15:08:34 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "64933a98-ad3d-41bd-8bb0-307a5bad4e25"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:3/00537",
+    "contributor": {
+      "display_name": "Vira"
+    },
+    "created": "Mon, 28 Feb 2022 15:09:03 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 15:09:03 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18822",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "c346cc2b-1469-4be6-80e2-0072759c1595",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:09:03 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:09:03 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "54561b46-50b2-4632-a9b0-d8eab5ef06f9"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:09:03 GMT",
+        "display_value": "Jag ska berätta om 3 viktiga personer i mitt liv. \n\nDen första personen jag ska berätta om är min mamma Heidi, hon är 47 år gammal. Min mamma beyder massor av saker . Hon är min största stöttepelare genom livet. Hon är det varmaste personen och känner ingen som är så empatisk som henne. Min mamma är också en av dom klokaste personerna jag känner och lär mig alltid något nytt genom att ha en diskussion med henne. Mamma är en sån person som jag kan prata med om allting. Hon är också en väldigt bra lyssnare och förstår mig. Jag har också alltid roligt med henne. Mamma och jag brukar göra olika saker med varandra.  Allt i från att gå på långa promenader och prata om livet till att hon och jag åker till ett cafe och sitter och pratar och har det trevligt.\n\nDen andra personen jag ska berätta om är min pappa Tomas, han är 43 år gammal. Min pappa betyder massor av saker också. Jag skrattar alltid med han för att vi har samma humor och förstår varandra väldigt enkelt både för att vi är rätt så lika mentalt. Jag är alltid trygg när jag är med min pappa och jag vet att han alltid finns vid min sida. Han stöttar mig både i livet och på min fritid, mer speciellt min fotboll. Han är en av de mest jordnära personerna jag känner och är för snäll ibland. Han är också en av de smartaste personen jag känner. Jag och min pappa gör också roliga grejer. Åker på road trips. Lyssnar på bra musik och bara åker runt ibland. Fixar massor med saker och har det allmänt roligt bara. \n\nDen sista personen är om min bästa vän Filippa.  Jag och Filippa träffades år 2020 genom gemensamma vänner.  Sen när vi väl skulle börja i högstadiet så bara drog vi till varandra och blev bästa vänner ända sen dess. Filippa är en av dom bästa personerna jag vet. Hon är den mest omtänksamma personen och jag kan alltid vara mig själv med henne.  Hon är en väldigt bra lyssnare och gör mig till den bästa personen jag kan bli. Hon är en sån jordnära och snäll person och får mig alltid på bättre humör.  Så skulle alltså inte klara mig utan henne. Hon är också en av mina största stöttepelare och jag vet att hon skulle stötta mig i mina besöut till hundra proscent. Hon är också en av det roligaste personerna jag känner.  Jag och Filippa gör massor av roliga saker vi brukar åka och shoppa och ibland äta middagar med varandra eller bara vara hemma hos nån.\n\nDet här var en liten snabb berättelse om 3 personer som är mest betydelsefulla för mig.",
+        "modified": "Mon, 28 Feb 2022 15:09:03 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "1d665259-b5b4-4879-aa8e-4d6d4fc530cd"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:3/00539",
+    "contributor": {
+      "display_name": "Alisa"
+    },
+    "created": "Mon, 28 Feb 2022 15:10:16 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 15:10:16 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18825",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "67882447-b920-42c4-b974-1efff295bb1b",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:10:16 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:10:16 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "14f0a847-2027-40e9-80d2-51d336fe74ce"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:10:16 GMT",
+        "display_value": "Jag ska berätta om tre viktiga människor i mitt liv. \n\nDet första viktiga personen är min mamma. Hon heter Ivona och är 39år gammal. Jag och min mamma har en väldigt bra relaktion tillsammans och vi stöttar varandra i varje beslut vi tar. Jag och min mamma berättar allt till varandra, vi är som bästa vänner. När vi är med varandra så brukar vi oftast shoppa eller äta lunch tillsammans. Vår favoritresturang är vapiano. Det är en resturang som serverar pasta rätter. Vi lagar oftast också  mat tillsammans eller bakar med varandra.  Våran  favoritbakelse att baka är kanelbullar, vi båda älskar kanelbullar.  Min mamma betyder jätte mycket för att hon finns alltid där för mig.  När jag har mått som värst har alltid min mamma funnits där för mig och har hjälpt mig att må bättre. Hon har gjort det, genom att vara med mig när jag kännt mig ensam och göra saker med mig som tillexempel att shoppa med mig.  När jag har känt att ingen annan har funnits där för mig har alltid min mamma stöttat mig och funnits där för mig. Jag och min mamma brukar hjälpa varandra väldigt mycket. Min mamma brukar hjälpa mig oftast med läxor eller när jag behöver plugga till prov.  Jag brukar hjälpa min mamma genom att diska, tvätta, dammsuga och hämta mina syskon. \n\nDen andra personen som är väldigt viktig för mig är min kusin. Hon heter Lara och är 17år gammal. Det är 4 år mellan oss. Hon bor tyvärr inte i Sverige utan hon bor i Frankike. Även fast jag och Lara inte träffas ofta så är hon fortfarande min bästa vän. När vi träffar varandra så brukar vi ofta vara i Serbien eftersom att vi båda brukar vara där på sommrarna. När jag och hon träffas så brukar vi gå på långa promenader och äta glass, lyssna på musik och ta kort på varandra. Vi brukar också gå på fest , äta lunch, sover över, bada, sola och så brukar vi gå på stan tillsammans.  Vi gör inklusivt allt med varandra.  Hon betyder väldigt mycket för mig eftersom hon alltid finns där för mig. När jag har tråkigt så brukar vi alltid hitta på något med varandra.  När någon tillexempel är taskig mot mig eller säger någonting taskigt mot mig så brukar hon alltid gå fram och prata med den personen. Hon är väldigt snäll och tar hänsyn till människor som mår dåligt. Hon har också hjälpt mig när jag har mått dåligt hon har stöttat mig och gjort roliga saker med mig så jag slipper tänka på det jobbiga. Hon är en av mina bästa vänner även fast det är 4 år mellan oss. \n\n\nDen tredje personen som är viktig för mig är min syster.  Min syster heter Nora och är 12 år gammal (alltså är hon 2 år yngre än mig).  Jag och min syster har en bra relaktion, förutom när vi bråkar. När jag och min syster inte bråkar så brukar vi ha väldigt roligt med varandra. Jag och Nora har exakt samma humor som gör så att vi fungerar bra när vi är med varandra.  När vi är me varandra så brukar vi oftast åka och shoppa, gå på långa promenader eller gå på en picknick.  På våra långa promenader brukar vi gå ungefär 1-2 timmar.  När vi går på en picknik brukar vi oftast ha me något och äta. Vi brukar ha med oss vindruvor, kyckling sallad, jordgubbar, vitlöksås, choklad och bestick. I vår kycklingsallad så har vi alltid med kyckling, sallad, tomater, gurka, majs och en vitlöksås på sidan.  När jag och min syster åker och shoppar så brukar vi shoppa  i ungefär 4 timmar i sträck. Vi älskar att shoppa det är det bästa vi vet.  Min syster betyder mycket för mig för att hon får mig alltid och skratta när jag är med henne. Även fast vi bråkar mycket ibland så älskar jag henne ändå. När jag hade min värsta period i livet så hjälpte hon mig så mycket fast hon visste inte om det. Hon gjorde så jag inte kände mig ensam och att det fanns någon som brydde sig om mig.  Hon finns alltid där för mig och jag berättar allt för henne. Även fast vi är syskon och bråkar väldigt mycket så är hon forfarande min bästa vän.",
+        "modified": "Mon, 28 Feb 2022 15:10:16 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "e499f188-e13b-4f3e-8bea-7ed45c3ced1f"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
   }
 ]

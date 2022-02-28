@@ -16850,5 +16850,271 @@
         "uuid": "ecb6c5c6-efdf-4019-a2c0-050028e37c13"
       }
     ]
+  },
+  {
+    "archive_code": "M1:4/00480",
+    "contributor": {
+      "display_name": "Anton"
+    },
+    "created": "Mon, 28 Feb 2022 15:06:45 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 15:06:45 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18812",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "4a57a030-ae80-4cef-b065-d91d01d0506c",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:06:45 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:06:45 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "8340a19b-6a75-4a4d-90d1-19c9f10b994a"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:06:45 GMT",
+        "display_value": "Onsdag 19/1-2050\n\nJag vaknade av mitt alarm, gjorde mig redo och åt frukost. Min frukost var yoghurt med torkade grässhoppor som flingor. Medans jag åt kollade jag på nyheterna. Det första jag såg var att det har startats ett inbördeskrig i Kina. Den kommunistiska staten finns kvar i öst förenat med Korea som de tog över för ett par år sedan. Majoriteten av befolkningen bor dock i den andra staten sydväst om kommunistiska Kina. Det är den tredje stormakten efter Ryssland och USA som har tappat makten. I Ryssland var det uppror och Ryssland delades i små stater. I USA var det många stater som ville bryta sig loss och det tillät USA. Nu är det bara de tretton kolonierna och Florida som är kvar. Den stora stormakten nu är EU som har slagit ihop sig till ett land. Sverige valde dock inte att vara med och ingår nu i Skandinavien som har blivit ett land.\n\nEfter det åkte jag till jobbet med min självstyrande bil. Jag jobbar med att utveckla mat. Oftast brukar det att vara genom att testa med dna och andra kemikalier som gör mat som är identisk med vanlig mat förutom att det görs i ett labb och man behöver inte odla något eller slakta ett djur. Men från och med idag så har jag fått i uppdrag att utveckla sätt för maten att transporteras i det nya transportsättet utan att den blir helt förstörd. \n\nTorsdag 20/1-2050\n\nDet var en vanlig dag på jobbet. Jag åkte hem som vanligt klockan 16.00 till mitt hus i Brighton. När jag kom hem tog jag en kaffe och kollade på nyheterna. Jag såg direkt att aktie-marknaden hade kraschat med ca 7% och elpriserna hade blivit jättehöga. Det var en katastrof eftersom att allt i samhället drivs på el. Bussar, tåg, bilar, allt drivs på el. Priset blev jättehögt eftersom att många ut av vindkraftverken har slutat fungera på grund av något konstig anledning. Det är extra jobbigt för mig eftersom att mycket av mina pengar ligger i aktie-marknaden. Fast jag vet att den kommer att gå upp igen så jag är inte så orolig. \n\nEfter det så hände inget speciellt utan jag åt bara mat med min familj och sov några timmar senare.\n\nFredag 21/1-2050\n\nJag var ledig idag eftersom att man är ledig på fredag, lördag och söndagar nu för tiden. Det var en ändring som gjordes för några år sedan. Jag vaknade och såg på nyheterna. Jag såg att aktiemarknaden hade gått ner ännu mer i dag men elpriserna hade stabiliserats lite i alla fall. \nJag hade hört talats om det nya sättet att transportera varor som testas i Southhampton. Det var det närmaste stället där det testas. Det testas också i Manchester och Birmingham.  Jag gjorde mig redo och åkte dit med tåg. Det tog ca en timme. Sedan gick jag till stället där det skulle testas och där kunde jag beställa något som man vill köpa. Jag ville bara köpa något för att se hur det fungerar så jag köpte ett par skor där. Skorna skickades från Birmingham och kom dit på ca 30 minuter. Det gick mycket snabbare än vad jag förväntade mig och de var i ganska bra skick. Det nya systemet är långa tuber som har möjlighet att skicka små paket väldigt snabbt.",
+        "modified": "Mon, 28 Feb 2022 15:06:45 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d2107b5a-87ea-47a6-acb0-11024c64d12b"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:4/00482",
+    "contributor": {
+      "display_name": "Hedda"
+    },
+    "created": "Mon, 28 Feb 2022 15:07:38 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 15:07:38 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18815",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "35647400-ea95-46a2-af2a-8f01c5906ccf",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:07:38 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:07:38 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "bbd6e386-69f7-4f45-ba86-0523f52f3352"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:07:38 GMT",
+        "display_value": "MITT LIV 2050\n\nSå här tror jag mitt liv kommer se ut år 2050:\n\nTorsdag 27/1 - 2050:\nJag vaknade av mitt alarm klockan 08.00. Någon timme efter jag hade vaknat gick jag ut i köket då jag var hungrig och ville äta frukost. Mitt hembiträde Roboten Robina hade redan lagat frukost, utan Roboten Robina hade jag inte klarat av vardagen, hon städar, lagar mat, bäddar sängen och allt annat man kan tänkas behöva hjälp med. Till frukost brukar jag äta fruktsallad samt dricka ett stort glas vatten med massa is. Min man kom även och åt frukost med mig, han jobbar som högt uppsatt politiker i USA, vi bor tillsammans med våra två barn i Los Angeles. Nuförtiden ( år 2050 ) använder mänskligheten robotar till allt, jag äger 3 stycken:\nRoboten Robina, mitt trogna hembiträde som hjälper mig med allt i hemmet.\nRoboten Ronja, Ronja är min personliga designer, hon bestämmer vad jag ska ha på mig för kläder, hur jag ska vara sminkad samt hur frisyren ska se ut. \nOch sist men inte minst Roboten Rut är min chaufför, hon skjutsar mig alltid oavsett vad klockan är.\n\nNär maten var i magen gick jag in till min walk-in-closet, i min walk-in-closet bor Roboten Ronja, hon frågar mig alltid en massa frågor innan hon ska välja outfiten för dagen. Anledningen till det är för att hon väljer kläder utifrån vilket humör jag är på. Idag fick jag kostymbyxor med en blus, jag fick lockat hår och \"normalt\" smink. Sedan rörde jag mig ut mot bilen, jag sa hejdå till mina två hundvalpar och bad Roboten Rut köra mig till jobbet. Jag jobbar som skådespelare vilket jag tycket är väldigt kul, jag är med i många hollywood filmer och serier. Jag började jobba klockan 10.30, idag var det en lugn dag för mig då jag endast var med och spelade in några få scener. Efter några inspelningar träffade jag min bästa vän Junie vid min favoritrestaurang. Varje torsdag och tisdag träffas vi där för att ha det trevligt tillsammans. Junie och hennes man äger restaurangen så jag får ofta specialerbjudanden och får njuta av mycket god mat. Efter lunchen återvände jag till jobbet och jobbade i några timmar till. Klockan 16.00 stod Roboten Rut med bilen utanför mitt jobb och väntade på mig. Det är alltid så skönt att Rut är i tid. Hon körde hem mig till mitt stora fina hus, trots att det är vinter så är det väldigt varm på grund av klimatförändringarna, nu i januari är det ungefär 30 grader ute, idag var det en extremt varm dag så jag tog ett dopp i poolen. Sedan spenderade jag tiden med mina barn och våra hundar. Vid klockan 18.00 hade Roboten Robina lagat middag samt att min man hade kommit hem. Vi alla satte oss till bords och åt min favoriträtt - sushi! Efter middagen tog jag en mysig joggingrunda med en av våra hundar i solnedgången, det var så mysigt! Våra hundar är två stycken maltipoos, en blandras med pudel och malteser. När klockan var 22.00 bad jag Roboten Ronja välja en pyjamas till mig, det tog ett tag då hon är rätt petig, men efter ungefär en halvtimme hade jag en ny fin pyjamas på mig. Jag gick och tvättade ansiktet och borstade tänderna, sedan gick jag och la mig. \n\nFredag 28/1 - 2050:\nPå fredagar är jag alltid ledig, så himla skönt. Jag började dagen med en sovmorgon till klockan 10.00, sedan gick jag ner i köket där jag möttes av en stor frukostbuffé som min man hade lagat innan jobbet, så himla lyxigt. Jag ringde och pratade lite med mina föräldrar samtidigt som jag började äta frukost, vi bestämde att de skulle komma på besök lite senare. Jag njöt länge av den goda frukosten. När jag var klar gick jag till garderoben och min ena robot fick välja kläder till mig, som vanligt fick jag fina och stilrena kläder. Vid klockan 13.40 kom mina föräldrar hem till mig.  Jag mötte de vid våran stora parkering som är fylld av palmer och en stor fontän. Jag träffar mina föräldrar rätt ofta då de bor i ett hus nära mig. Vi spenderade hela tiden med att fika, mamma hade bakat en massa sötsaker. Efter ungefär 3 timmar åkte mamma och pappa hem till sig igen. Precis när jag skulle gå och lägga mig på soffan så ringde min man mig, han berättade att presidenten tyvärr gått bort och de valt att min man skulle ta över rollen som president. Jag blev så glad och visste direkt hur det skulle firas. Jag bad Roboten Rut åka och hämta mina döttrar från skolan och så ringde jag min vän Junie. Junie svarade efter bara någon signal och jag berättade de stora nyheterna. Vi bestämde att vi skulle fira med fest på hennes restaurang. \n\nNär hela familjen hade kommit hem så åkte vi direkt till festen. Det var så trevligt och det serverades mycket god mat, vi var där i flera timmar och nästan allt var perfekt. Det enda som var lite dåligt var att det befann sig väldigt många paparazzis på plats vilket störde oss alla. Runt klockan 04 kom vi hem och vi alla somnade som stockar. \n\nLördag 29/1\n\nIdag var en riktigt solig och fin dag. Jag vaknade klockan 11 av att min ena hund hoppa upp och pussade mig i ansiktet. Hade han inte väckt mig så hade jag kunnat sova flera timmar till. Precis när jag hade vaknat så hoppade min andra hund också upp i sängen. Jag gosade lite med de och sen gick jag upp. Jag såg att min man hade lagat en stor frukostbuffé och det var riktigt gott, han hade köpt massa yogurt, bakat bröd, skurit ut olika frukter och kokat kaffe. Jag satt och åt där ett tag samtidigt som jag kollade på en serie. Efter frukosten gick jag upp till garderoben och jag valde kläder för dagen, det var skönt att få välja själv vad jag ville ha på mig, min garderobs robot tar så himla lång tid på sig att välja kläder. Medans jag sminkade mig ringde jag min väninna Junie, vi bestämde att våra familjer skulle träffas på kvällen och äta middag tillsammans. När klockan var 14 gick jag in och väckte min äldsta dotter, hon är 17 och sover så himla länge. Jag väckte henne med lunch på sängen eftersom att det var lite för sent med frukost. Hon fick lite sushi. Min andra dotter som är 14 år hade redan vaknat och var med sin bästa kompis. Min man var iväg på ett möte. Till lunch åt jag också sushi, jag älskar sushi. Efter lunchen åkte jag och handlade inför middagen, robotarna är nämligen lediga på helgen så då fick jag fixa allt istället. Jag köpte en massa olika grejer. När jag kom hem började jag med att göra mig iordning. Sedan lagade jag förrätten, det blev en klassisk toast skagen. När den var klar kom gästerna hem till oss och vi åt förrätt, det var väldigt trevligt. Sedan lagade jag huvudrätten tillsammans med Junie, vi gjorde en pasta pomodoro med burrata, det blev jättegott. Våra yngsta barn lagade efterrätten och den blev faktisk bättre en förväntat, det kan ju liksom inte gå fel med marängswiss. Vi satt och hade trevligt tillsammans långt in på natten, vi bokade faktisk en spontanresa till Maldiverna också. När alla var trötta åkte de hem och resten av min familj gick och la sig, jag däremot satte mig en stund framför teven och slog på nyheterna. Jag möttes av en reporter som sa \" covid-19 är tillbaka\". Det kändes overkligt att pandemin som precis slutat återigen kommit tillbaka. Med massa tankar i huvudet gick jag och la mig.",
+        "modified": "Mon, 28 Feb 2022 15:07:38 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "8449daf4-583b-4f7e-aee8-8b60c1474b72"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:4/00484",
+    "contributor": {
+      "display_name": "Edvin"
+    },
+    "created": "Mon, 28 Feb 2022 15:08:24 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 15:08:24 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18818",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "54c3ae9d-30de-40e0-87a2-3ada245dd402",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:08:24 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:08:24 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "a23d936a-7a23-4c5a-b4c2-578775355ee5"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:08:24 GMT",
+        "display_value": "En dag ur mitt liv år 2050\n\nMåndag 29/7-2050\n\nKära dagbok, idag vaknade jag till att larmet på min Iphone 37XproM gick av. Det är skönt att äntligen inte vakna till stress och oro efter att ett till falskt bombalarm gick av. Jag märker nu att valet att migrera till Nya Zeeland efter att Ryssland tagit de baltiska länderna och stora delar av Finland varit rätt val. Här har jag hittat ett fint hus där jag kan bo med min familj, och mina föräldrar som också flyttade med har hittat ett vackert ålderdomshem nära naturen. \n\nJag söker aktivt efter jobb, men med en utbildning på ett sånt efterförfrågat område som natur preservation tror jag inte det dröjer länge tills jag får ett bra erbjudande. Jag har skickat in en ansökning till flera olika naturpreserveringsorganisationer men det jobbet jag helst skulle vilja ha är forskare och övervakare vid Fox glacier, en av de sista kvarstående glaciärer i världen.  Jobbet ligger på den andra sidan Nya Zeeland och färden dit skulle ta tre dagar med min hybrid cykel och jag skulle bo där två veckor innan jag åker hem igen. Det skulle vara en långt tid att vara borta från familjen men lönen är bra och det är långa semestrar. \n\nEfter att jag åt upp min frukost bestående av en mjölkfri smör och ost macka och kaffe klädde jag på mig mina cykelkläder. Efter cykelkläderna var på satte jag på mig mitt exoskelett, min cykelhjälm och mina cykelskor Sedan sa jag hejdå till min fru och barn och gav mig iväg. Jag var påväg till en skog som låg några tiotals mil bort. Vägen dit var bara en stig men med mitt exoskelett och hybrid cykel gick färden bara på några timmar. Innan mitt jobb börjar har jag valt att spendera min tid på att dokumentera olika växt och djur arter. Denna gång upptäckte jag inga nya arter men kunde besluta att skogen i alla fall mådde bra. \n\nEfter att ha kommit tillbaka från skogen satte jag mitt exoskelett på laddning, duschade och bytte till vanliga kläder. Därefter åt jag middag som bestod av labbtillverkat kött och potatis med sallad. Sedan gjorde jag iordning mig och gick och lade mig.",
+        "modified": "Mon, 28 Feb 2022 15:08:24 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "59cf6bd7-37e0-4c05-9264-81d41025f222"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:4/00486",
+    "contributor": {
+      "display_name": "Vira"
+    },
+    "created": "Mon, 28 Feb 2022 15:08:59 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 15:08:59 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18821",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6a20f17a-3e20-4ed9-9948-b9a81762f23b",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:08:59 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 28 Feb 2022 15:08:59 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "3fb5f72e-5caa-4e12-8782-27079abcae05"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 15:08:59 GMT",
+        "display_value": "Måndag 24/1-2050\nIdag vakande jag av min väckarklocka runt kl 8:30. Sen så kollade jag på min mobil och jag tog fram en app som styr hela huset och satte på kaffe maskinen, tänder alla lampor i huset, drar upp alla gardiner och väcker mina barn.  Mitt hus har väldigt mycket olika funktioner och\ndärmed klassificeras de hyfsat lyxigt. Jag åt en nyttig frukost helt vegetariskt. För att typ alla i hela världen har gått över till att äta vegetarisk/vegansk mat.\n\nEfter dethär så åkte jag till mitt jobb med min bil som kan sväva för att inte släppa ut lika mycket koldioxid.  Min bil är också självkörande så då kunde jag göra lite jobb medans. Jag jobbar som åklagare. Efter att jag hade jobbat ett tag tog jag en lunch med min kollegor. Vi åt på en fresh salladsbar.  På den här restaurangen var det enbart robotar som lagade och serverade maten.  Efter min jobbdag så åkte jag hem för att sedan gå ut och äta med mina vänner Filippa, Alisa och Kenan. Vi åt på en italiensk restaurang. Så jag och Filippa tog en pasta och Kenan och Alisa. Vi satt där och pratade länge och hade det roligt. Men det blev väldigt sent så vi alla kände att vi skulle åka hem och beställde en svävande taxi hem.\n\nNär jag väl kom hem så hade redan alla gått och lagt sig men huset var jätte stökigt så jag tryckte igång storstädning på min app så att olika robotar sätta hela huset och bäddade nytt . Nu ska jag gå och lägga mig.\n\nTisdag 25/1-2050\nIdag vaknade jag lite senare än vanligt för att jag hade inte så mycket på jobbet och tog en ledig dag. Så jag gjorde en ordentlig frukost till mig och min familj medans en robot dukade bordet. Jag fixade i ordning barnen och satt dom i bilen och ställde in navigationen vart skolorna låg och då körde bilden dom dit så jag slipper att köra.  Bilen går 100% på el. Efter det så gick jag för att fixa i ordning mig för att jag och min man ska åka och äta med familjekompisar på det bäst lunchstället.  Jag har en typ av skärm som visar olika outfits varje dag.  Så att det inte tar så lång tid att välja vad man ska ha på sig.\n\nVi blev upphämtade av familje kompisarna och vi åkte i en timme typ för att sedan komma till en jättefin restaurang vid kusten som hade en gammaldags känsla. Det var en av de första restaurangerna på länge som inte hade nån robot där.  Vi var där ett rätt så bra tag så den hr dagen hann vi inte hämta barnen så vi fick be bilen att åka och hämta dom. Det jag menar med ber är att jag har en app, så om jag trycker på en app och ställer in vart barnen är så kan bilen åka dit och jag har också en karta.\n\nNär vi väl kom hem så såg jag att vi behövde köpa lite mer mat så jag jag gick in på icas hemsida och beställde allt. All man kommer med en drönare 1 timme efter att man har beställt de. Det är väldigt smidigt och bra för naturen. Efter att vi ställde in all mat i kylen med hjälp av min assistent så hjälpte hon mig med att lägga barnen så att jag kunde göra lite jobb och förberedelse inför imorgon, men jag gick och la mig runt kl 22:00 för att jag skulle upp tidigt imorgon.\n\nOnsdag 26/1-2050\nIdag vaknade jag mycket tidigare för att jag skulle ut och resa. Jag och min bästa vän Filippa ska åka till maldiverna och vara där i en vecka.  Jag hade redan packat allt innan så att jag kunde åka direkt och hämta upp Filippa och sen åka till flygplatsen.  Flygplanet går mycket snabbare än vad det gjorde för i tiden och det går på 100% el.  Vi åkte första klass flygplan så vi hade egna sängar och maten var förvånansvärt bra. \n\nNär vi väl kom fram så gick vi direkt till hotellrummet för att göra oss i ordning för att sedan på stan.  Jag blev klar lite tidigare så jag gjorde lite små jobb. För att jag måste alltid jobba för att hålla upp min lön som ligger runt 100 000 kr i månaden till skillnad från förr då de var runt 30 000 kr.  Jag jobbar ju såklart också för att inte hamna efter med olika fall. När hon väl var klar så gick vi ut och kollade runt och sedan gick vi till en resturang och åt. Vi gick på en moldavisk resturang och åt jättegod mat och hade det allmänt roligt.\n\nNär vi kom tillbaka till rummet så tog vi upp lite snacks på rummet. Snacket kom upp genom en drönare. Efter de kollade vi på en film och sedan gick vi och la oss i sängarna. Men innan jag skulle sova så sa jag godnatt genom ett röstmeddelande som sedan kopplas till mina barns högtalare så att dom hör allt jag säger och sa godnatt.",
+        "modified": "Mon, 28 Feb 2022 15:08:59 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d8496996-ae6f-434d-bbb9-3e497ede90ae"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
+  },
+  {
+    "archive_code": "M1:4/00488",
+    "contributor": {
+      "display_name": "Alisa"
+    },
+    "created": "Mon, 28 Feb 2022 15:09:37 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 15:09:37 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18824",
+    "published": true,
+    "school_uuid": "d344a0fc-a90c-4931-aaf7-296eea7b88e0",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "367ae0e1-a1b4-4722-9d87-529f6529ded3",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 15:09:37 GMT",
+        "display_value": "Mitt liv år 2050. \n\nMåndag 15 Juni:\nJag vaknade av att mina barn skriker och gråter kl 06.37 på morgonen. Jag gick upp för att kolla vad som hade hänt men då hade dom redan somnat om. Jag gick tillbaka till mitt sovrum för att fortsätta sova. Jag ställde alarm på min Iphone Promax hundrafjorton på klockan nio. Alarmet ringde och det var dags att gå upp. När jag väl hade gått upp så hade min man redan åkt iväg till jobbet. Min man jobbar som advokat och heter David. \n\nSå jag gick in till mina barns rum för att väcka dom.  När jag gick in till rummet så hade mitt yngsta barn som heter Meloni redan vaknat. Hon är 9 månader gammal. Jag bärde upp henne ur sängen och åkte hissen till mitt andra barns rum för att väcka mitt äldsta barn. Mitt äldsta barn heter Max och är 3 år gammal.  När jag kom in till rummet så hade Max inte vaknat ännu. Han är verkligen så morgontrött , men tillslut så fick jag upp honom ur sängen.\n\nNär hela familjen hade vaknat så gick vi ner för att äta frukost.  Våran  assistent  hade gjort avokado mackor, ägg och oboy till mig och Max. Sedan hade hon gjort barnmat till Meloni som innehål rostade morötter, broccoli, gurka och kött. Sedan hade hon också gjort en välling  till henne. Vi åt upp våran frukost och sedan begav vi oss till våran walk in closet. Vi satt på oss våra kläder. Jag satt på mig en svart kofta, ett vitt linne och ett par blåa jeans med hål i. Eftersom att Meloni är så liten så kan hon inte klä på sig själv så jag fick göra det. Jag satte på henne en vit body, med ett par svarta jeans och ett rött hårband med en rosett på. Max valde kläder själv och satte på sig kläderna själv. Han satte på sig en grön t-shirt med minecraft tryck och ett par blåa jeans. När vi hade suttit på oss våra kläder så skulle jag ta Max till förskolan och jag och Meloni skulle till ett shoppingcentret.  Vi satt oss i vår Tesla och började bege oss mot förskolan. Det ligger ungefär 10 min ifrån vårat hus med bil.  \n\nNär vi väl var framme på förskolan så lämnade jag Max och jag och Meloni fortsatte åka mot shoppingcentret.  Vi skulle till ett shoppingcenter som heter Manhattan Mall som ligger i New York, Usa.  När vi sedan var framme så parkerade jag bilen och vi gick mot shoppingcentret. Medans jag shoppade så hade Meloni somnat i vagnen.  Vi var där i flera timmar. Jag shoppade ett par nya skor (i märket chanel), ett silver halsband, ett par silver örhängen, ett par nya svarta jeans och en mörkblå jacka.  Till Meloni köpte jag en leksak som var en docka som kunde prata, ett par nya tröjor och ett par nya strumpor. När vi hade shoppat klart så begav vi oss till bilen och började röra oss hemåt. När vi var hemma så var min man redan hemma och han hade redan hämtat Max från förskolan. Han hade lagat middag och det blev en god krämig pasta med parmesan på med ett stort glas vatten på sidan om.  \n\nNär vi hade ätit upp middagen så började Max bli trött. Meloni hade redan somnat. \nJag och Max åkte hiss upp till badrummet för att jag skulle borsta hans tänder.  Sedan så gick han och la sig. Klockan var ungefär halv tio på kvällen. Efter att både barnen gick och la sig så bestämde jag och min man för att gå och lägga oss. Vi gick och borstade tänderna sedan så gick vi och la oss. Vi kollade på våra mobiler och sen somnade vi. \n\nTisdag 16 Juni:\nJag vaknade av att solen blädde mig klockan åtta på morgonen.  Jag kollade ut genom fönstret solen sken och himlen var klarblå. Jag bestämde mig för att gå upp ur sängen för att det var så fint väder ute. Jag gick ner till köket för att ta ett äpple och ta en kopp kaffe. Barnen hade inte vaknat än och jag ville inte väcka dom än för ville ha lite ensamtid. Efter att ha druckit upp mitt kaffe så gick jag till mitt gym för att träna.  Jag körde ett ben och magpass.  \n\nNär jag hade gymmat klart så hoppade jag in i duschen. Men när jag precis skulle hoppa in i duschen så hörde jag Meloni skrika och gråta. Så jag fick sätta på mig mina kläder och gå upp till Meloni. Jag bärde upp henne ur sängen och väckte min man så han fick ta hand om henne. Efter det så fick jag äntligen duscha jag tog en lång varm dusch. \n\nEfter att jag hade duschat så gick upp till Maxs rum för att väcka honom. Han var som vanligt morgontrött och det var svårt att få upp honom i sängen. Men till slut så lyckades jag få upp honom ur sängen och då bad jag honom klä på sig. Medans han klädde på sig så gick jag till mitt sovrum och kollade på en netflix serie.\n\nEftersom att det var så fint och varmt ute så fick jag en ide att ha poolparty. Så jag bjöd mina vänner på poolparty, mina kollegor, min mans vänner och Maxs och Melonis kusiner.  Jag skickade ett sms till dom och på sms.et så stod det. \n' Välkommen till poolparty hemma hos oss klockan två idag. Vi bjuder på lunch, middag och dricka. Ta gärna med er badkläder!'. \n\nEfter att jag hade skickat sms:et så började jag fixa mig i ordning till poolpartyt. Först så valde jag ut vad jag skulle ha på mig och det fick bli en lång tajt vit klänning med ett par vita klackar till. Sedan så började jag sminka mig och locka mitt hår. Det tog ungefär en timme att fixa mig. När jag hade fixat klart mig så var det dags att fixa barnen. Jag satte på Meloni en klänning med Mickey Mouse tryck och ett par ballerinaskor. Max satte jag på ett par blåa badbyxor och över det en svart t-shirt så han inte skulle frysa.  Medans vi alla fixade oss så lagade min man all mat som behövdes till poolpartyt. \n\nKlockan blev 2 och gästerna kom. Vi började med att äta lunch vi bjöd på kycklingklubba, med grillad potatis, tzatziki, en god sallad och oxfile.När vi hade ätit upp lunchen så blev det efterrätt som efterrätt så bjöd vi på glass, fruktsallad, jordgubbstårta, chokladpudding, bullar, saft och kladdkaka. Sedan efter att vi hade ätit så smälte vi maten och sedan började poolpartyt. Vi satt på hög musik, alla badade, vi grillade middag, vuxna blev fulla och alla dansade.  Till middag grillade vi kött, potatis och majskolvar. Efter middagen så fortsatte alla danska och bada. \n\nKlockan var ungefär elva på kvällen och poolpartyt var över och alla gäster hade gått hem. Meloni och Max hade somnat för länge sen. Jag och min man gick upp till badrummet för att borsta tänderna och duscha. Efter att vi hade duschat och borstat tänderna så gick vi upp till sovrummet för att gå och lägga oss. Vi var helt slut och somnade på direkten.\n\nOnsdag 17 juni: \nJag vaknade upp av att min man och mina barn sjunger ' ja må hon leva uti hundrade år'. Jag vaknar upp helt chockad och kollade ner min mobil och såg att det stod att det var 17 juni. Jag blev chockad och insåg att jag fyllde år idag.  Jag fyllde 43 år jag kände mig så gammal. \n\nEfter att dom hade sjungit så fick jag frukost på sängen. Till frukost så fick jag en muffin, amerikanska pannkakor, toast med skinka och ost och sedan ett stort glas juice till. Medans jag åt så öppnade jag mina födelsedags presenter. Jag fick en stor bukett rosor av min man, en chanel väska, en ny iphone, ett par nya hörlurar och ett stort choklad hjärta av max. \n\nEfter att jag hade öppnat mina presenter så sa min man att han hade en överraskning som stod i trädgården och väntade på mig. Jag satte på mig min morgonrock och mina tofflor och sedan sprang ner från trappan till trädgården. När jag kom in till trädgården så ser jag att det står en helt ny Tesla som är vit och kan flyga. Jag blev jätteglad och fick glädjetårar. Jag satte mig i bilen och började köra den, den var väldigt bra. \n\nSedan efter att jag hade kört den nya bilen så sa min man att jag skulle börja fixa mig för att vi skulle gå och äta lunch hela familjen tillsammans. Så jag tog en dusch och började fixa mig.  Jag satte på mig en glittrig tajt klänning med ett par svarta klackar till. Efter att jag hade klätt på mig så började jag sminka mig och fixa mitt hår. Jag sminkade mig ganska mycket och plattade mitt hår. Sedan så var jag klar fixad.\n\nKlockan var ungefär ett och det var dags att bege sig till restaurangen. Vi gick till bilen och började bege oss mot restaurangen. När vi va vid restaurangen så gick vi och satt oss i ett bord och började beställa mat. Vi beställde oxfile med pomfritt, sallad, pasta och köttfärsås , fyra color och hamburgare. När vi hade ätit klart så började vi röra oss hemmåt.\n\nNär vi hade kommit hem så skulle jag öppna ytterdörren. När jag öppnade ytterdörren så hoppade alla mina vänner fram och skrek 'grattis'. Jag blev så chockad men ändå så glad. Dom hade dekorerat hela huset med partyprylar. Vi hängde med varandra i flera timmar hade kul, pratade och badade. Klockan blev ungefär sju och dom hade lagat middag. Vi åt min favorit måltid som var sushi. Jag åt så mycket så jag höll på att spricka. Efter att vi hade ätit middag så badade vi, dansade, pratade och hade jättemysigt med varandra hela kvällen.\n\nKlockan blev två på morgonen och mina vänner hade gått. Jag gick till sovrummet för jag orkade inte borsta tänderna jag va så himmla trött. När jag hade kommit upp till sovrummet bytte jag om till pyjamas, la mig i sängen och somnade på direkten.",
+        "modified": "Mon, 28 Feb 2022 15:09:37 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "08d85b4b-d194-4e51-9cac-fbe5b65d3678"
+      }
+    ],
+    "position": {
+      "latitude": 59.257989,
+      "longitude": 18.179597
+    }
   }
 ]

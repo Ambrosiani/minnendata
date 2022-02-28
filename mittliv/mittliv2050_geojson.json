@@ -4208,6 +4208,86 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Onsdag 19/1-2050\n\nJag vaknade av mitt alarm, gjorde mig redo och åt frukost. Min frukost var yoghurt…",
+        "date": "28 februari 2022",
+        "author": "Anton",
+        "url": "https://minnen.se/tema/mittliv2050/18812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "MITT LIV 2050\n\nSå här tror jag mitt liv kommer se ut år 2050:\n\nTorsdag 27/1 - 2050:\nJag vaknade av m…",
+        "date": "28 februari 2022",
+        "author": "Hedda",
+        "url": "https://minnen.se/tema/mittliv2050/18815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag ur mitt liv år 2050\n\nMåndag 29/7-2050\n\nKära dagbok, idag vaknade jag till att larmet på min I…",
+        "date": "28 februari 2022",
+        "author": "Edvin",
+        "url": "https://minnen.se/tema/mittliv2050/18818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Måndag 24/1-2050\nIdag vakande jag av min väckarklocka runt kl 8:30. Sen så kollade jag på min mobil …",
+        "date": "28 februari 2022",
+        "author": "Vira",
+        "url": "https://minnen.se/tema/mittliv2050/18821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv år 2050. \n\nMåndag 15 Juni:\nJag vaknade av att mina barn skriker och gråter kl 06.37 på morg…",
+        "date": "28 februari 2022",
+        "author": "Alisa",
+        "url": "https://minnen.se/tema/mittliv2050/18824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }
