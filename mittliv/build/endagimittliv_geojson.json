@@ -24528,6 +24528,22 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv \nNu ska jag berätta om en dag i mitt liv. Först vaknar jag av mig själv och ligger…",
+        "date": "28 februari 2022",
+        "author": "Gustav",
+        "url": "https://minnen.se/tema/endagimittliv/18732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
     }
   ]
 }
