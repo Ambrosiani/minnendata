@@ -24576,6 +24576,70 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag brukar vakna klockan 05:30 och jag brukar kollar på telefonen i några minuter.Efter jag har gjor…",
+        "date": "28 februari 2022",
+        "author": "Albin",
+        "url": "https://minnen.se/tema/endagimittliv/18792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En helgdag i mitt liv.    \n\nJag vaknar upp runt 6-7 av att mitt alarm ringer.\nSen bäddar jag sängen …",
+        "date": "28 februari 2022",
+        "author": "Elin",
+        "url": "https://minnen.se/tema/endagimittliv/18794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag vaknade kl 9.00 på morgonen, tog en kopp kaffe med mjölk i och började fundera på vad jag skulle…",
+        "date": "28 februari 2022",
+        "author": "Lennart",
+        "url": "https://minnen.se/tema/endagimittliv/18797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min mormor väcker mig kl 7. Jag tvättar mig och klär på mig och  sen går jag upp i köket och äter gr…",
+        "date": "28 februari 2022",
+        "author": "Liam",
+        "url": "https://minnen.se/tema/endagimittliv/18800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }

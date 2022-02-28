@@ -19340,5 +19340,117 @@
       "latitude": 59.257989,
       "longitude": 18.179597
     }
+  },
+  {
+    "archive_code": "M1:3/00523",
+    "contributor": {
+      "display_name": "Emre"
+    },
+    "created": "Mon, 28 Feb 2022 11:27:57 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 11:27:57 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18789",
+    "published": true,
+    "school_uuid": "00936943-40cd-4be9-898e-7163eb10ef09",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "24e6e32a-c6c0-4778-9465-8de7b044a407",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 11:27:57 GMT",
+        "display_value": "2010",
+        "modified": "Mon, 28 Feb 2022 11:27:57 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "88e0c696-6e10-470c-ad35-2e8980575801"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 11:27:57 GMT",
+        "display_value": "Mina betydelsefulla människor\nMin mamma och min pappa är mina favoritmänniskor i hela världen. Min mamma är bäst för hon har matat mig, bada mig och mer sedan jag föddes och hon bryr sig alltid om mig och min syster. Ifall jag har gjort något eller mår dåligt så har jag min mamma att prata med och min pappa. Min pappa har varit min bästa vän i många år och har också matat mig, han är speciell på många sätt till exempel han har lärt mig laga mat, cykla, åka skateboard, till och med lärt mig kickboxning. Han är min bästis kompis. Alfred är min bästa vän för han är rolig och snäll. Alfred och jag brukar skojbråka ganska mycket fast han är inte den bästa på det. Han är en skojare, är min kompis för han är rolig, gör roliga alla barnen skämt till exempel alla barnen sprang från kannibalen förutom Arne för han blev chili con carne och Alla barnen jagar styckmördaren utom Assar för han ligger i flera kassar.",
+        "modified": "Mon, 28 Feb 2022 11:27:57 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "28850545-c2df-4aa1-a908-b0139bcf68e4"
+      }
+    ],
+    "position": {
+      "latitude": 56.215789,
+      "longitude": 15.65883
+    }
+  },
+  {
+    "archive_code": "M1:3/00525",
+    "contributor": {
+      "display_name": "Märta"
+    },
+    "created": "Mon, 28 Feb 2022 11:37:58 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 11:37:58 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18798",
+    "published": true,
+    "school_uuid": "00936943-40cd-4be9-898e-7163eb10ef09",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "8934d8d7-60f5-410d-aae0-2988a8b03d04",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 11:37:58 GMT",
+        "display_value": "2010",
+        "modified": "Mon, 28 Feb 2022 11:37:58 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "c4f80b76-dc54-489b-ad1d-34882fd454d6"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 11:37:58 GMT",
+        "display_value": "Mina 3 viktiga personer\n                               Elin, Saga och Mamma\n\n\t\t\t\tElin\nElin är en av mina bästa vänner.\nNär vi är med varandra så brukar vi skratta och har roligt.\nHon muntrar alltid upp mig när jag är sur eller ledsen.\n\n                                          Saga\nSaga är också en av mina bästa vänner vi har känt varandra nästan hela livet.\nVi brukar oftast göra roliga saker och ha kul.\nHon gör mig altid glad.\n\n                                         Mamma\nMamma är min mamma.\nHom snäll men enligt mig lite jobbig ibland.",
+        "modified": "Mon, 28 Feb 2022 11:37:58 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "ffb79bb0-f78c-42ac-b17c-aa4223bf0c31"
+      }
+    ],
+    "position": {
+      "latitude": 56.215789,
+      "longitude": 15.65883
+    }
   }
 ]

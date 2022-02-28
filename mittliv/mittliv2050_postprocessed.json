@@ -16690,5 +16690,61 @@
       "latitude": 59.335045,
       "longitude": 18.289735
     }
+  },
+  {
+    "archive_code": "M1:4/00472",
+    "contributor": {
+      "display_name": "Måns"
+    },
+    "created": "Mon, 28 Feb 2022 11:27:47 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 11:27:47 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18788",
+    "published": true,
+    "school_uuid": "00936943-40cd-4be9-898e-7163eb10ef09",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "cedbeb58-2570-42a9-8eaa-f6dd7542df47",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 11:27:47 GMT",
+        "display_value": "2010",
+        "modified": "Mon, 28 Feb 2022 11:27:47 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "6a522e5a-8316-4e26-b84b-1dae0795080a"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 11:27:47 GMT",
+        "display_value": "Mitt liv 2050\n\nJag kommer att vara en youtuber, och vara ganska.\nkänd.\nJag kommer ha två bilar, ett hus och bo i USA.\nJag kommer att simma i olika delar av världen.\nJag kommer att leva ett bra liv.\nJag kommer att spela Genshin impact,\nJag kommer också spela det nya Five night´s at Freddy´s.",
+        "modified": "Mon, 28 Feb 2022 11:27:47 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "c0278e4f-72ab-441d-9a2d-0f67c288f63f"
+      }
+    ],
+    "position": {
+      "latitude": 56.215789,
+      "longitude": 15.65883
+    }
   }
 ]

@@ -5728,6 +5728,102 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "28 februari 2022",
+        "author": "Hilma",
+        "url": "https://minnen.se/tema/mitthem/18790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är bra.\nMen jag har en lillasyster som är sju år och är rätt så jobbig.\nDet är litet och söt.\nvä…",
+        "date": "28 februari 2022",
+        "author": "Saga",
+        "url": "https://minnen.se/tema/mitthem/18791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I mitt hem så bor  min pappa, mamma, min storebror Neo, min lillebror Milo, Loke min lillebror och j…",
+        "date": "28 februari 2022",
+        "author": "Albin",
+        "url": "https://minnen.se/tema/mitthem/18793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "På vår övervåning så har vi ett sovrum till min lillebror, ett allrum som gränsar till trappan ner, …",
+        "date": "28 februari 2022",
+        "author": "Lovis",
+        "url": "https://minnen.se/tema/mitthem/18795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet i mitt hem! \n\nVilka bor där? Min mamma bor där, Min pappa bor där, min lillebror, min lillasys…",
+        "date": "28 februari 2022",
+        "author": "Lennart",
+        "url": "https://minnen.se/tema/mitthem/18796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet i mitt hem är mycket bra och jag trivs också bra.…",
+        "date": "28 februari 2022",
+        "author": "Märta",
+        "url": "https://minnen.se/tema/mitthem/18799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }

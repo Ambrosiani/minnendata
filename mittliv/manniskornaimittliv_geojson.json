@@ -4880,6 +4880,38 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina betydelsefulla människor\nMin mamma och min pappa är mina favoritmänniskor i hela världen. Min m…",
+        "date": "28 februari 2022",
+        "author": "Emre",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina 3 viktiga personer\n                               Elin, Saga och Mamma\n\n\t\t\t\tElin\nElin är en av …",
+        "date": "28 februari 2022",
+        "author": "Märta",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }

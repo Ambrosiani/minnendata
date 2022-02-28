@@ -4192,6 +4192,22 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n\nJag kommer att vara en youtuber, och vara ganska.\nkänd.\nJag kommer ha två bilar, ett …",
+        "date": "28 februari 2022",
+        "author": "Måns",
+        "url": "https://minnen.se/tema/mittliv2050/18788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }
