@@ -5712,6 +5712,22 @@
           59.335045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "I mitt hus så har vi 4 Tv- apparater och jag har en micro fast vi har ingenstans att sätta i sladden…",
+        "date": "28 februari 2022",
+        "author": "Emre",
+        "url": "https://minnen.se/tema/mitthem/18745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }

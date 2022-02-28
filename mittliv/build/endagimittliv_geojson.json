@@ -24544,6 +24544,38 @@
           58.375799
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hej, här berättar jag om en vanlig helgdag i mitt liv.…",
+        "date": "28 februari 2022",
+        "author": "Hilma",
+        "url": "https://minnen.se/tema/endagimittliv/18746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En måndag\nJag vaknar i mitt egna rum av min elektroniska väckarklocka som börjar pipa vid 06.30 på m…",
+        "date": "28 februari 2022",
+        "author": "Märta",
+        "url": "https://minnen.se/tema/endagimittliv/18747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }
