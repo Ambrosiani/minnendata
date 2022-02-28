@@ -19452,5 +19452,57 @@
       "latitude": 56.215789,
       "longitude": 15.65883
     }
+  },
+  {
+    "archive_code": "M1:3/00529",
+    "contributor": {
+      "display_name": "Klara"
+    },
+    "created": "Mon, 28 Feb 2022 13:13:22 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 13:13:22 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18807",
+    "published": true,
+    "school_uuid": "79d09e67-ee7f-4619-a750-5d939493c88b",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "fb65f3cc-52ef-4672-b578-265570eb5fda",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 13:13:22 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 28 Feb 2022 13:13:22 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "c2aebce4-45d4-4829-b8b5-c7df06afbbd1"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 13:13:22 GMT",
+        "display_value": "Mitt liv - människorna i mitt liv \n\nDe tre människorna som är viktiga i mitt liv är: \n\nMin bästa kompis Elvira \n\nMin mamma Eva-Lena \n\nMin pappa Peter \n\nElvira är viktig för mig, eftersom hon är min bästis och vi umgås med varandra nästan varje dag. Vi kan prata om allt och när jag är ledsen/arg ibland brukar hon få mig lugn och på bra humör igen. Vi brukar leka, spela dataspel och vara utomhus. När vi inte ses brukar vi “lana” med varandra ibland. Under sommaren brukar jag ibland följa med Elvira och hennes mamma till “Notudden” som ligger i Jokkmokk eller till “Nordpoolen” som ligger i Boden för att bada.  Vi är också med i scouterna, där vi lär oss en massa saker om djur och natur m.m.  \n\nMin mamma är också viktig för mig, hon finns alltid där för mig t.ex. när jag är sjuk eller behöver hjälp med läxorna. Hon lagar väldigt god mat. Ibland går vi och fikar på stan, eller shoppar tillsammans. Hon kan vara lite tjatig, men jag älskar min bästa mamma. \n\nMin pappa är viktig, eftersom han är rolig och får mig att skratta. Utan honom skulle det bli väldigt tråkigt. Han ställer alltid upp för mig. Vi brukar bl.a. bowla och fiska ibland. Han tjatar inte lika mycket som mamma. Jag älskar min bästa och snälla pappa. \n\nPå sommarlovet brukar jag, mamma och pappa resa iväg någonstans och bo på hotell. Vi åker även till våran sommarstuga nära Vuollerim. Där är det mysigt att vara. Vi besöker också mormor och morfar, som bor i Lansjärv. Där finns det ett jättebra badställe.",
+        "modified": "Mon, 28 Feb 2022 13:13:22 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "b9eb2f20-3e4d-4790-87b3-0223a2051eee"
+      }
+    ]
   }
 ]
