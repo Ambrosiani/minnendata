@@ -17116,5 +17116,57 @@
       "latitude": 59.257989,
       "longitude": 18.179597
     }
+  },
+  {
+    "archive_code": "M1:4/00490",
+    "contributor": {
+      "display_name": "Nadia"
+    },
+    "created": "Mon, 28 Feb 2022 16:03:05 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Feb 2022 16:03:05 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18828",
+    "published": true,
+    "school_uuid": "79d09e67-ee7f-4619-a750-5d939493c88b",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "f8e7553f-ef4f-4779-8587-8db86f34f043",
+    "values": [
+      {
+        "created": "Mon, 28 Feb 2022 16:03:05 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 28 Feb 2022 16:03:05 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "9743c917-d646-4db5-b0cf-d32d4a400ad0"
+      },
+      {
+        "created": "Mon, 28 Feb 2022 16:03:05 GMT",
+        "display_value": "Mitt liv 2050 \n\nNadia \n\n \n\nÅret är 2050, världen har ändrats ända sen 2022. Jag är 40 (fyller 41 i år), jag bor med mina två katter (En Toyger och en Burma). Jag föddes i Sverige, Gällivare men jag flyttade till Umeå för att gå i skolan när jag var 18 år, sedan flyttade jag till New York vid 24. Jag bor fortfarande i New York, i en lägenhet men den är ganska stor, två sovrum, tre badrum (en av de sitter ihop med det största sovrummet), ett kök och ett stort vardagsrum som sitter ihop med köket. Jag jobbar som paleontolog i ett historiskt museum. \n\nVärlden har ändrats mycket ända sen 2022. Djur som Noshörningar, isbjörnar, hyenor och koalor (osv) har blivit utrotade. Det är mycket mer elbilar nu, Malmberget är helt borta. Jag har nästan tappat kontakten med mina föräldrar, jag är fortfarande nära med mina syskon speciellt mina systrar. Mina systrar är 47 och 43 och mina bröder är 42 och 34.",
+        "modified": "Mon, 28 Feb 2022 16:03:05 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "ff114889-3a30-4321-aa6e-9b6865be5edb"
+      }
+    ]
   }
 ]
