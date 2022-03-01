@@ -2352,6 +2352,22 @@
           62.588
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mig var det en självklarhet att vaccinera mig! Dels för att skydda andra och för mitt eget skydd.\nKä…",
+        "date": "1 mars 2022",
+        "author": "Gröndal 62",
+        "url": "https://minnen.se/tema/eftervaccinet/18859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.007,
+          59.315
+        ]
+      }
     }
   ]
 }
