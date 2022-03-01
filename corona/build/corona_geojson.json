@@ -37360,6 +37360,22 @@
           55.605
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Coronan har funnits så länge så jag har svårt att komma ihåg hur det var innan. Jag tror att viruset…",
+        "date": "1 mars 2022",
+        "author": "16 år",
+        "url": "https://minnen.se/tema/corona/18855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.989,
+          59.241
+        ]
+      }
     }
   ]
 }
