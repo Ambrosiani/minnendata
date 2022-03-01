@@ -19934,5 +19934,57 @@
       "latitude": 59.257989,
       "longitude": 18.179597
     }
+  },
+  {
+    "archive_code": "M1:3/00541",
+    "contributor": {
+      "display_name": "Matthanaphon"
+    },
+    "created": "Tue, 01 Mar 2022 08:16:04 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 01 Mar 2022 08:16:04 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18842",
+    "published": true,
+    "school_uuid": "51e47c43-63a8-439a-adfb-c91147e96344",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "248afa3c-0d4b-4751-988e-57fb96c13edc",
+    "values": [
+      {
+        "created": "Tue, 01 Mar 2022 08:16:04 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 01 Mar 2022 08:16:04 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "62817c00-cfef-419e-bc2c-2b684de1eadb"
+      },
+      {
+        "created": "Tue, 01 Mar 2022 08:16:04 GMT",
+        "display_value": "Personer som är viktig för mig är min mamma, min store bror och min bonus pappa. De är viktig för mig om jag inte de då kanske kunna inte leva.  Min mamma hon är viktig för att hon föda mig och jag älska henne jätte mycket och min bror han säger alltid att han älskar inte mig men jag vet att han skoja med mig. Min bonus pappa jag vet att han är inte ihop med mamma som förut men han hjälper min mamma att ta hand om mig och min bror. Jag vet att han älskar min familj och han hjälper min mamma med allt som hon inte förstår med det.\nHan är en värden bästa person som jag har känt i mitt 13år liv. Jag kan inte leva utan de.\nJag älskar min bror, mamma och min värden bästa pappa.",
+        "modified": "Tue, 01 Mar 2022 08:16:04 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "96404270-1082-41aa-9bd6-09fe46748fd2"
+      }
+    ]
   }
 ]
