@@ -24736,6 +24736,22 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv \n\nHej jag heter My schön!\n\nJag är tolv år jag bor med Tea, Ebba min Mamma och Papp…",
+        "date": "1 mars 2022",
+        "author": "My",
+        "url": "https://minnen.se/tema/endagimittliv/18840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }
