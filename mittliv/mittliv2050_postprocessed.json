@@ -17168,5 +17168,61 @@
         "uuid": "ff114889-3a30-4321-aa6e-9b6865be5edb"
       }
     ]
+  },
+  {
+    "archive_code": "M1:4/00492",
+    "contributor": {
+      "display_name": "Saga"
+    },
+    "created": "Wed, 02 Mar 2022 10:04:17 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 02 Mar 2022 10:04:17 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/18949",
+    "published": true,
+    "school_uuid": "00936943-40cd-4be9-898e-7163eb10ef09",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "8512c2a9-20c7-46a2-8b30-05fc7f7fd5e7",
+    "values": [
+      {
+        "created": "Wed, 02 Mar 2022 10:04:17 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 02 Mar 2022 10:04:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "22297ef5-eea3-4da1-9808-5d232609c3d2"
+      },
+      {
+        "created": "Wed, 02 Mar 2022 10:04:17 GMT",
+        "display_value": "Mitt liv 2050\nFramtiden kommer innehålla massor med dåliga saker bara för att de flesta är så lata.\nOch då kommer det komma nya grejer så att man slipper göra saker om man inte orkar.\n\nAllt som finns nu kommer att vara samma sak bara att det ser mycket modernare ut då.\nKanske att man kan sätta igång alla maskiner via mobilen.\nMed maskiner menar jag diskmaskin, tvättmaskin och ugn och massor med mer maskiner.\n\nSedan tror jag inte det kommer vara så mycket mer.\n\nSedan tror jag också att vi kommer äta nästan samma sak som vi äter idag.\nMen jag tror att det kommer att komma nya drycker,hamburgare och korvar.\nOch kanske nya grillkryddor och såser.\n\nJag tror att de flesta kommer att bo i lägenheter men det kommer också finnas några gårdar och hus.\nDet kommer väl att finnas några hus men inte lika många som det finns idag.\n\nMitt framtida liv kommer se ut med att jag bor på en gård helst i bräkne hoby för att jag tycker att bräkne hoby är så fint.\n\nPå gården kommer det finnas hästar,hundar och katter.\n\nJag vill jobba som veterinär och uppfödare för hästar.\nGården kommer vara lagom stor så att allt får plats.\nPå gården vill jag ha travbana, ridhus, paddock, skrittmaskin och coral.\nJag kommer att bo på gården och då vill jag bo i ett grått hus bredvid stallet.\n\nDetta är hur jag hoppas och tror att livet i 2050 kommer att vara.",
+        "modified": "Wed, 02 Mar 2022 10:04:17 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "767b5dc2-e29a-4d97-82ed-e23b424f63fb"
+      }
+    ],
+    "position": {
+      "latitude": 56.215789,
+      "longitude": 15.65883
+    }
   }
 ]

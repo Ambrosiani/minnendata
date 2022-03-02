@@ -5824,6 +5824,38 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag trivs för jag kan välja om jag vill sova hemma hos min mamma eller mormor och morfar.…",
+        "date": "2 mars 2022",
+        "author": "Liam",
+        "url": "https://minnen.se/tema/mitthem/18948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Vårt hus är  mörkare grått och vitt.\nPå insidan av vårt hus är det vitt och grått\n\nNär man kommer in…",
+        "date": "2 mars 2022",
+        "author": "Elin",
+        "url": "https://minnen.se/tema/mitthem/18951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }

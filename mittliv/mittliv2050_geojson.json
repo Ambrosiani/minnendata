@@ -4288,6 +4288,22 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\nFramtiden kommer innehålla massor med dåliga saker bara för att de flesta är så lata.\n…",
+        "date": "2 mars 2022",
+        "author": "Saga",
+        "url": "https://minnen.se/tema/mittliv2050/18949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }
