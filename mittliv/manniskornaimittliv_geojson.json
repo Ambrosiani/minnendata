@@ -4992,6 +4992,38 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tre viktiga personer i mitt liv\nLillebror Zackarias\nZackarias är tio år och han är en av de viktigas…",
+        "date": "2 mars 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tre viktiga personer i mitt liv\nLillebror Zackarias\nZackarias är tio år och han är en av de viktigas…",
+        "date": "2 mars 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }

@@ -5856,6 +5856,22 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet i mitt hem\nI mitt hem bor min bonus mamma Paula, min bonussyster Felicia, mina två katter som …",
+        "date": "2 mars 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/mitthem/18955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }

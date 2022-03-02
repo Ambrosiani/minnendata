@@ -24768,6 +24768,22 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv\nNär jag vaknar cirka fem så spelar jag lite på min mobil.\nOch då brukar jag spela …",
+        "date": "2 mars 2022",
+        "author": "Stella",
+        "url": "https://minnen.se/tema/endagimittliv/18953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65883,
+          56.215789
+        ]
+      }
     }
   ]
 }

@@ -76009,5 +76009,61 @@
       "latitude": 56.215789,
       "longitude": 15.65883
     }
+  },
+  {
+    "archive_code": "M1:2/00665",
+    "contributor": {
+      "display_name": "Stella"
+    },
+    "created": "Wed, 02 Mar 2022 10:09:18 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 02 Mar 2022 10:09:18 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/18955",
+    "published": true,
+    "school_uuid": "00936943-40cd-4be9-898e-7163eb10ef09",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "829e7c8b-87a2-45ef-b797-346d0180872e",
+    "values": [
+      {
+        "created": "Wed, 02 Mar 2022 10:09:18 GMT",
+        "display_value": "Livet i mitt hem\nI mitt hem bor min bonus mamma Paula, min bonussyster Felicia, mina två katter som heter Edwin och Hjördis.\n\n Jag har bott där i ett år för att jag bor i ett familjehem och min bonus mamma har bott där i sjutton år och Felicia min bonussyster har bott där i ett och ett halvt år.\n\n På övervåningen har jag och Felicia våra rum och utanför våra rum så har vi en tv och en toalett. På nedre våningen så har Paula sitt rum och utanför hennes rum så finns det en toalett och bredvid toaletten så finns det ett  kök. Utanför köket så finns det ett vardagsrum och i samma rum som vardagsrummet så har vi ett köksbord där vi äter om man går ut från vardagsrummet så är hallen där och trappan till övervåningen men källaren har jag aldrig varit i så jag vet inte hur det ser ut i källaren. Källardörren är ute bredvid uppfarten. I vårt kök så har vi ett skafferi och där har vi riskakor, olja, Musli, crunchy, crispbread, oöppnad kräm, te, pasta, mjöl, kaffe, plastpåsar, köksredskap, bra socker och konservmat/burkar.\nSnett mittemot skafferiet så har vi ett kylskåp och där finns det smör, prickig korv, pannkakor, ketchup, yoghurt, kräm, mjölk, paprika, keso hallonsylt, kött, broccoli, gurka, clementiner, morötter, sallad, äpple, alkoholfri öl som prydnad eller till gäster, mango drickyoghurt, margarin och annan massa frukt. I badrummet på nedre våningen så  har vi en dusch, ett handfat, schampo, balsam, krämer och en toalett.\nToaletten är vit med brun blandat med någon guldfärg på toaringen annars så är resten av toaletten vit.\n Och väggarna är vita och dörren är också vit.\nVåran soffa är svart och vårt matbord är brunt.\nMitt rum är mest rosa och Felicias rum är mest stökigt.\nDet finns elva rum i huset och fem rum i källaren.\nJag sover på övervåningen i mitt rum.\nJa jag har ett eget rum på övervåningen.\nDet jag ser utanför mitt fönster är vår grannes trädgård och hans  hund Sappo.\nDet jag gör i mitt hem är att jag antingen kollar på tv eller är jag på mitt rum och läser eller pysslar.\n Min favoritplats i huset är på mitt rum för att då kan jag träna tillexempel sittaps och armhävningar.\nDe regler som finns i mitt hem är att om man rapar, kommer försent hem, juger, tjaffsar mycket eller skriker på Paula så får man konsikvenser och det får man om man inte har städat klart på söndagen. Vi har också en städdag, när jag flyttade till Paula så var det städdag på söndagar men det tar så lång tid så vi måste städa på lördagar nu men om vi har lite dammsugning kvar så får vi göra det på söndagen. Det jag hjälper till med här hemma är att jag diskar varannan dag och så städar jag en gång i veckan.\nJag går också ut med soporna.",
+        "modified": "Wed, 02 Mar 2022 10:09:18 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "4ed0393e-eda5-404c-a694-7be38f2c883c"
+      },
+      {
+        "created": "Wed, 02 Mar 2022 10:09:18 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 02 Mar 2022 10:09:18 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "1d4d7309-abec-46e3-96de-a1d4078f6d56"
+      }
+    ],
+    "position": {
+      "latitude": 56.215789,
+      "longitude": 15.65883
+    }
   }
 ]

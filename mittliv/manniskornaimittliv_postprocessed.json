@@ -19986,5 +19986,117 @@
         "uuid": "96404270-1082-41aa-9bd6-09fe46748fd2"
       }
     ]
+  },
+  {
+    "archive_code": "M1:3/00543",
+    "contributor": {
+      "display_name": "Stella"
+    },
+    "created": "Wed, 02 Mar 2022 10:09:12 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 02 Mar 2022 10:09:12 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18954",
+    "published": true,
+    "school_uuid": "00936943-40cd-4be9-898e-7163eb10ef09",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "d895eadb-4561-446b-a2fe-eb4cb6eb3ac2",
+    "values": [
+      {
+        "created": "Wed, 02 Mar 2022 10:09:12 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 02 Mar 2022 10:09:12 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "edd0907d-d2e5-4ea6-970c-9ff970322b45"
+      },
+      {
+        "created": "Wed, 02 Mar 2022 10:09:12 GMT",
+        "display_value": "Tre viktiga personer i mitt liv\nLillebror Zackarias\nZackarias är tio år och han är en av de viktigaste personerna i mitt liv. Jag älskar mina andra syskon också men Zacke har jag bott med i hela mitt liv.\nZackaris och jag bodde i samma familjehem förut men nu har jag flyttat till ett annat familjehem. Det jag gillar med min lillebror är att han gillar samma saker som mig.\n\nMamma\nDen andra som också är en av de viktigaste personerna i mitt liv är min mamma.\nMin mamma kan jag prata med om allt men det kan jag inte med min pappa. Min mamma betyder väldigt mycket för mig jag vet att hon gjorde fel så att vi fick flytta men jag saknar henne jättemycket ändå.\nOavsett vad hon än har gjort så kommer hon alltid att vara min mamma.När jag är med min mamma så kan vi spela yatzy och prata om allt och vi kan ha jätte kul också.\n\nPappa\nDen sista personen är min pappa.\nMin pappa leker alltid med oss men det gör inte mamma bara ibland men det är för att hon städar väldigt mycket.\nDet som jag gillar med min pappa det är att han är snäll och bryr sig om andra.\nNär jag är med min pappa så brukar han busa med mig och då börjar jag att skratta.",
+        "modified": "Wed, 02 Mar 2022 10:09:12 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "094875fb-57ba-4d41-be77-7161809fab70"
+      }
+    ],
+    "position": {
+      "latitude": 56.215789,
+      "longitude": 15.65883
+    }
+  },
+  {
+    "archive_code": "M1:3/00545",
+    "contributor": {
+      "display_name": "Stella"
+    },
+    "created": "Wed, 02 Mar 2022 10:09:26 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 02 Mar 2022 10:09:26 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/18956",
+    "published": true,
+    "school_uuid": "00936943-40cd-4be9-898e-7163eb10ef09",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "53b252c7-3967-4afb-8fc7-8ef663fdf02b",
+    "values": [
+      {
+        "created": "Wed, 02 Mar 2022 10:09:26 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 02 Mar 2022 10:09:26 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "e6f41ce2-9649-4abc-905c-06a3e31f1551"
+      },
+      {
+        "created": "Wed, 02 Mar 2022 10:09:26 GMT",
+        "display_value": "Tre viktiga personer i mitt liv\nLillebror Zackarias\nZackarias är tio år och han är en av de viktigaste personerna i mitt liv. Jag älskar mina andra syskon också men Zacke har jag bott med i hela mitt liv.\nZackarias och jag bodde i samma familjehem förut men nu har jag flyttat till ett annat familjehem. Det jag gillar med min lillebror är att han gillar samma saker som mig.\n\nMamma\nDen andra som också är en av de viktigaste personerna i mitt liv är min mamma.\nMin mamma kan jag prata med om allt men det kan jag inte med min pappa. Min mamma betyder väldigt mycket för mig jag vet att hon gjorde fel så att vi fick flytta men jag saknar henne jättemycket ändå.\nOavsett vad hon än har gjort så kommer hon alltid att vara min mamma.När jag är med min mamma så kan vi spela yatzy och prata om allt och vi kan ha jätte kul också.\n\nPappa\nDen sista personen är min pappa.\nMin pappa leker alltid med oss men det gör inte mamma bara ibland men det är för att hon städar väldigt mycket.\nDet som jag gillar med min pappa det är att han är snäll och bryr sig om andra.\nNär jag är med min pappa så brukar han busa med mig och då börjar jag att skratta.",
+        "modified": "Wed, 02 Mar 2022 10:09:26 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "574410b0-b54b-426b-a782-cb39b85d862a"
+      }
+    ],
+    "position": {
+      "latitude": 56.215789,
+      "longitude": 15.65883
+    }
   }
 ]
