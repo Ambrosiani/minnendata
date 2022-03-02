@@ -37392,6 +37392,22 @@
           59.403
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min fru bor på ett särskilt boende i Norrköping. Från 13 mars 2020 fick jag inte träffa henne. \n\nDet…",
+        "date": "2 mars 2022",
+        "author": "Måns Hagberg",
+        "url": "https://minnen.se/tema/corona/18967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.52,
+          58.345
+        ]
+      }
     }
   ]
 }
