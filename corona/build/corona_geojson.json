@@ -37376,6 +37376,22 @@
           59.241
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Ja, oro och rädsla har präglat min vardag. Hela familjen fick Omikron och då släppte oron. Vi klarad…",
+        "date": "2 mars 2022",
+        "author": "Solros",
+        "url": "https://minnen.se/tema/corona/18947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.326,
+          59.403
+        ]
+      }
     }
   ]
 }
