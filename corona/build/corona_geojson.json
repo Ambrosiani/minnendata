@@ -37408,6 +37408,22 @@
           58.345
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "4 mars 2022",
+        "author": "Oskar",
+        "url": "https://minnen.se/tema/corona/19001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.704,
+          59.96
+        ]
+      }
     }
   ]
 }
