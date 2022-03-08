@@ -37440,6 +37440,22 @@
           59.96
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag som gymnasiestudent har fått ha undervisning på distans under halva min gymnasietid. Att gå ut p…",
+        "date": "8 mars 2022",
+        "author": "Tuva Winberg",
+        "url": "https://minnen.se/tema/corona/19058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.157,
+          58.504
+        ]
+      }
     }
   ]
 }
