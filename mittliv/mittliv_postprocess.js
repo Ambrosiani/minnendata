@@ -84,7 +84,7 @@ for (const topic of topics) {
       }
       else {
         item.hasCoordinates = false;
-        if ( !(item.school_uuid in schools_without_uuid) ) {
+        if ( !(schools_without_uuid.includes(item.school_uuid)) ) {
           schools_without_uuid.push(item.school_uuid);
           // fetch coordinates from Kulturnav instead!
         }
@@ -148,7 +148,7 @@ for (const topic of topics) {
   stats["responsesWithCoordinates"] = responsesWithCoordinates;
   stats["responsesWithImages"] = responsesWithImages;
 
-  const newFilename = 'mittliv/' + topic.slug + '_postprocessed.json';
+  const newFilename = topic.deploy_to_folder + '/' + topic.slug + '_postprocessed.json';
 
   await Deno.writeTextFile(newFilename, JSON.stringify(totalRecords, null, 2));
   await Deno.writeTextFile(statsFile, JSON.stringify(stats, null, 2));
