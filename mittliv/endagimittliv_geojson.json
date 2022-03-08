@@ -24784,6 +24784,22 @@
           56.215789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Klockan är 07:00  när mitt alarm från mobilen ringer som jag ställt sen kvällen innan. När jag gått …",
+        "date": "8 mars 2022",
+        "author": "Nova",
+        "url": "https://minnen.se/tema/endagimittliv/19059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }
