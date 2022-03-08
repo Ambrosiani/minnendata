@@ -1,4 +1,133 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "<font size=6><b>\"Taklampan har mor sytt\"</b></font size>\n\nJag bor i Fröslida skolhus i Torups socken…",
+        "date": "25 februari 2020",
+        "author": "Nordiska museet",
+        "url": "https://minnen.se/tema/mittliv-1942/10601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.056454,
+          56.87409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "<font size=6><b>\"Vi har nyss köpt en elektrisk tvättmaskin\"</b></font size>\n\nMitt namn är Olof Börje…",
+        "date": "25 februari 2020",
+        "author": "Nordiska museet",
+        "url": "https://minnen.se/tema/mittliv-1942/10602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.447225,
+          61.027872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt hem ligger i en by, som heter Ängen, i Gräsmarks socken. Min mamma är folkskolärarinna i Ängen.…",
+        "date": "25 februari 2020",
+        "author": "Nordiska museet",
+        "url": "https://minnen.se/tema/mittliv-1942/10603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.790265,
+          59.91514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "<font size=6><b>\"Jag får inte läsa på läxan förrän på kvällen\"</b></font size>\n\nJag heter Ingrid Hag…",
+        "date": "25 februari 2020",
+        "author": "Nordiska museet",
+        "url": "https://minnen.se/tema/mittliv-1942/10604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.790265,
+          59.91514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "<b><font size=6>Ibland far man till kyrkan, annars lyssnar man till gudstjänsten i radion</font size…",
+        "date": "25 februari 2020",
+        "author": "Nordiska museet",
+        "url": "https://minnen.se/tema/mittliv-1942/10606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445125,
+          56.584905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "<b><font size=6>\"Nästan varje kväll måste jag läsa högt för min lilla syster\"</font size></b>\n\nMitt …",
+        "date": "25 februari 2020",
+        "author": "Nordiska museet",
+        "url": "https://minnen.se/tema/mittliv-1942/10607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.071505,
+          58.498157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "<font size=6><b>\"När jag kommer hem, så äter jag middag, och sedan klär jag om mig och går opp till …",
+        "date": "25 februari 2020",
+        "author": "Nordiska museet",
+        "url": "https://minnen.se/tema/mittliv-1942/10608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.047094,
+          58.538033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "<font size=6><b>\"I vår slutar jag skolan, och sedan får jag också hjälpa mamma\"</b></font size>\n\nMit…",
+        "date": "25 februari 2020",
+        "author": "Nordiska museet",
+        "url": "https://minnen.se/tema/mittliv-1942/10609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8,
+          59.833333
+        ]
+      }
+    }
+  ]
 }
