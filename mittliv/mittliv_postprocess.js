@@ -20,7 +20,7 @@ function GetSortOrder(property){
 
 
 
-var json = await readJSON('mittliv.json');
+// var json = await readJSON('mittliv.json');
 removeFile('mittliv.json');
 
 var schools = await readJSON('mittliv/participating_schools.json');
@@ -29,8 +29,8 @@ var schools_without_uuid = [];
 
 for (const topic of topics) {
 
-  const statsFile = 'mittliv/' + topic.slug + '_stats.json';
-  const storedRecordsFile = 'mittliv/' + topic.slug + '_postprocessed.json';
+  const statsFile = topic.deploy_to_folder + '/' + topic.slug + '_stats.json';
+  const storedRecordsFile = topic.deploy_to_folder + '/' + topic.slug + '_postprocessed.json';
   const totalCountUrl = 'https://api.minnen.se/api/responses/?topic=' + topic.uuid + '&order=created&limit=0';
   const baseUrl = 'https://api.minnen.se/api/responses/?topic=' + topic.uuid + '&order=created&limit=10';
 
@@ -79,30 +79,46 @@ for (const topic of topics) {
     if ('school_uuid' in item) {
       // save school in separate list
       if (item.school_uuid in schools) {
+        item.hasCoordinates = true;
         item.position = {"latitude":schools[item.school_uuid].latitude, "longitude":schools[item.school_uuid].longitude}
-
-        responsesWithCoordinates++;
-        var ingressArray = [];
-        var ageArray = [];
-        if ('values' in item) {
-          ingressArray = values.filter(value => value.topic_item.label == topic.ingress);
-          ageArray = values.filter(value => value.topic_item.label == topic.age);
-        }
-        if(ingressArray.length == 0) {
-          ingressArray = [{"display_value":""}];
-        }
-        if(ageArray.length == 0) {
-          ageArray = [{"display_value":"0"}];
-        }
-        const ingress = ingressArray[0].display_value.substring(0,100) + "…";
-        var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(numberOfCoordinates)), parseFloat(item.position.latitude.toFixed(numberOfCoordinates)) ] } };
-        geoJson.features.push(geoJsonFeature);
       }
       else {
-        schools_without_uuid.push(item.school_uuid);
+        item.hasCoordinates = false;
+        if ( !(item.school_uuid in schools_without_uuid) ) {
+          schools_without_uuid.push(item.school_uuid);
+          // fetch coordinates from Kulturnav instead!
+        }
       }
     }
-    // fetch regular coordinates if no school
+    else {
+      // fetch regular coordinates if no school  
+      if ('position' in item) {
+        item.hasCoordinates = true;
+      }
+      else {
+        item.hasCoordinates = false;
+      }
+    }
+    
+    if( item.hasCoordinates ) {
+      responsesWithCoordinates++;
+      var ingressArray = [];
+      var ageArray = [];
+      if ('values' in item) {
+        ingressArray = values.filter(value => value.topic_item.label == topic.ingress);
+        ageArray = values.filter(value => value.topic_item.label == topic.age);
+      }
+      if(ingressArray.length == 0) {
+        ingressArray = [{"display_value":""}];
+      }
+      if(ageArray.length == 0) {
+        ageArray = [{"display_value":"0"}];
+      }
+      const ingress = ingressArray[0].display_value.substring(0,100) + "…";
+      var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(numberOfCoordinates)), parseFloat(item.position.latitude.toFixed(numberOfCoordinates)) ] } };
+      geoJson.features.push(geoJsonFeature);
+    }
+    
     delete item.comment_count;
     delete item.hits;
     delete item.imported;
@@ -136,9 +152,9 @@ for (const topic of topics) {
 
   await Deno.writeTextFile(newFilename, JSON.stringify(totalRecords, null, 2));
   await Deno.writeTextFile(statsFile, JSON.stringify(stats, null, 2));
-  await Deno.writeTextFile('mittliv/' + topic.slug + '_geojson.json', JSON.stringify(geoJson, null, 2));
-  await Deno.writeTextFile('mittliv/build/' + topic.slug + '_geojson.json', JSON.stringify(geoJson, null, 2));
-  await Deno.writeTextFile('mittliv/schools_without_uuid.json', JSON.stringify(schools_without_uuid, null, 2));
+  await Deno.writeTextFile(topic.deploy_to_folder + '/' + topic.slug + '_geojson.json', JSON.stringify(geoJson, null, 2));
+  await Deno.writeTextFile(topic.deploy_to_folder + '/build/' + topic.slug + '_geojson.json', JSON.stringify(geoJson, null, 2));
+  await Deno.writeTextFile(topic.deploy_to_folder + '/schools_without_uuid.json', JSON.stringify(schools_without_uuid, null, 2));
 
   console.log("Wrote a post process file for " + topic.title);
 

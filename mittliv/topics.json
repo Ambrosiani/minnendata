@@ -48,5 +48,15 @@
    "make_coordinates_fuzzy": false,
    "show_underage_entries": true,
    "deploy_to_folder": "mittliv"
+ },
+ {
+   "uuid": "3c908475-2cca-4a89-86f9-19875fdf46cc",
+   "title": "Kriget i Ukraina – berätta för framtiden",
+   "slug": "krigetiukraina",
+   "ingress": "Hur känner du kring vad som händer i Ukraina?",
+   "age": "Vilket år är du född?",
+   "make_coordinates_fuzzy": true,
+   "show_underage_entries": false,
+   "deploy_to_folder": "krigetiukraina"
  }
 ]
