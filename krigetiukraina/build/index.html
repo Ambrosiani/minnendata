@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minnesinsamling om kriget i Ukraina</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8"/>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@nordiskamuseet" />
+  <meta name="twitter:creator" content="@nordiskamuseet" />
+  <meta property="og:url" content="https://digitalt.nordiskamuseet.se/mittliv/" />
+  <meta property="og:title" content="Se bidragen i insamlingen Mitt liv" />
+  <meta property="og:description" content="Kartan visar publicerade minnen från insamlingen Kriget i Ukraina som genomförs av Nordiska museet. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret." />
+  <meta property="og:image" content="https://digitalt.nordiskamuseet.se/coronaminnen/preview.jpg" />
+  <meta property="og:image:width" content="960" />
+  <meta property="og:image:height" content="600" />
+  <meta property="og:type" content="website" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist//MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist//leaflet.markercluster-src.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster.layersupport@2.0.1/dist/leaflet.markercluster.layersupport.js"></script>
+</head>
+<body style="margin: 0;">
+  <div class="info">
+    <div id="logos">
+      <div class="logo"><a href="https://www.nordiskamuseet.se/" target="_blank"><img class="logoNM" src="images/nm.png" alt="Nordiska museet"></a></div></div>
+      <div id="aboutbox">
+        <div id="about">
+          <h1>Minnesinsamling om kriget i Ukraina</h1><p>Kartan visar publicerade minnen från insamlingen <a href="https://minnen.se/tema/krigetiukraina">Kriget i Ukraina</a> som genomförs av Nordiska museet. Varje kartpunkt är ett insamlat minne. Välj en kartpunkt för att läsa början av det insamlade minnet. Där finns också länk vidare till hela svaret.</p></div>
+          <div><button class="closeButton" type="button">Stäng</button></div></div>
+        </div>
+        <div id="map"></div>
+
+        <script type="text/javascript">
+
+          function createClusterMarkers(cluster, name) {
+            var childCount = cluster.getChildCount();
+
+            var c = ' marker-cluster-';
+            var size = 44;
+            if (childCount < 10) {
+              c += 'small';
+              size = 36;
+            } else if (childCount < 100) {
+              c += 'medium';
+              size = 40;
+            } else {
+              c += 'large';
+            }
+
+            return new L.DivIcon({ html: childCount, className: 'marker-cluster' + c + ' ' + name, iconSize: new L.Point(size, size) });
+          }
+
+
+          
+
+          var topics = [
+          {
+   "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34",
+   "title": "Kriget i Ukraina – berätta för framtiden",
+   "slug": "krigetiukraina",
+   "ingress": "Hur känner du kring vad som händer i Ukraina?",
+   "age": "Vilket år är du född?",
+   "make_coordinates_fuzzy": true,
+   "show_underage_entries": false,
+   "deploy_to_folder": "krigetiukraina"
+ }
+         ];
+
+         var Jawg_Light = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.png?access-token={accessToken}', {
+            attribution: '<a href="http://jawg.io" title="Tiles Courtesy of Jawg Maps" target="_blank">&copy; <b>Jawg</b>Maps</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            minZoom: 0,
+            maxZoom: 22,
+            subdomains: 'abcd',
+            accessToken: 'itUYXOXCJpTuQfvb2GUIOJXJIkIK3T7hz3cocWkqJk9TkEn3KLklIw0OgXM03GTJ'});
+
+          var map = L.map('map', {zoomControl:false})
+          .addLayer(Jawg_Light);
+          map.fitBounds([[55,11],[69,23]]);
+
+          var zoom = L.control.zoom({position: 'bottomleft'});
+          zoom.addTo(map);
+
+          var markerclustergroups = [];
+          var collections = [];
+          
+          var geoJsonLayer;
+
+          var markerclustergroup = L.markerClusterGroup.layerSupport({
+              iconCreateFunction: function(cluster, name) {
+                var icon = createClusterMarkers(cluster, 'mittliv');
+                return icon;
+              }
+            });
+
+          markerclustergroup.addTo(map);
+          var layerControl = L.control.layers({ "Jawg":Jawg_Light }, {}, { "position":"topleft", "hideSingleBase":true, "sortLayers":true });
+
+          
+          for (const topic of topics) {
+            
+
+            let xhr = new XMLHttpRequest();
+            xhr.open('GET', topic.slug + '_geojson.json');
+            xhr.setRequestHeader('Content-Type', 'application/json');
+            xhr.responseType = 'json';
+            xhr.onload = function() {
+              if (xhr.status == 200) {
+                geoJsonLayer = L.geoJSON(xhr.response, {
+                  pointToLayer: function(geoJsonPoint, latlng) {
+                    var divIcon = L.divIcon({ className: topic.slug, iconSize: null})
+                    return L.marker(latlng, {icon: divIcon, opacity:0.9});
+                  },
+                  onEachFeature: function (feature, layer) {
+                    layer.bindPopup(function (layer) {
+                      return "<p class=\"popup\">" + layer.feature.properties.ingress + "<br/><br/>Insamling: " + topic.title + "<br/><br/><i>Av " + layer.feature.properties.author + ", " + layer.feature.properties.date + '</i><br/><a href="' + layer.feature.properties.url + '">Läs hela svaret</a></p>';
+                    });
+                  }
+                });
+                collections[topic.slug] = geoJsonLayer;
+                markerclustergroup.checkIn(collections[topic.slug]);
+                collections[topic.slug].addTo(map);
+                layerControl.addOverlay(collections[topic.slug], topic.title)
+                // markerclustergroup.addLayer(geoJsonLayer);
+                //map.addLayer(markerclustergroups[topic.slug]);
+
+              }
+            };
+            xhr.send();
+          }
+
+          
+          
+          //layerControl.addOverlay(collections['endagimittliv'], 'Mitt liv – en dag i mitt liv');
+          //layerControl.addOverlay(collections['mitthem'], 'Mitt liv – mitt hem');
+          //layerControl.addOverlay(collections['manniskornaimittliv'], 'Mitt liv – människorna i mitt liv');
+          //layerControl.addOverlay(collections['mittliv2050'], 'Mitt liv 2050');
+          //layerControl.addOverlay(collections['mittliv-1942'], 'Utvalda svar ur En dag i mitt liv 1942');
+
+          if( window.innerWidth > 600) {
+            layerControl.options.collapsed = false;
+          }
+
+          map.addControl(layerControl);
+
+          document.getElementsByClassName('closeButton')[0].onclick = function changeContent() {
+            console.log('click closeButton');
+            document.getElementsByClassName('info')[0].style = "display:none";
+            document.getElementsByClassName('leaflet-control-layers')[0].style = "display:block";
+            document.getElementsByClassName('leaflet-control-zoom')[0].style = "display:block";
+          }
+
+
+        </script>
+      </body>
+      </html>
