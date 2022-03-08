@@ -137,3 +137,18 @@ jobs:
             local_path: './mittliv/build/*'
             remote_path: ${{ secrets.MITTLIV_REMOTE_PATH }}
             args: '-o ConnectTimeout=5'
+  deploy_krigetiukraina:
+      needs: mittliv
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v2
+        - name: deploy file
+          uses: wlixcc/SFTP-Deploy-Action@v1.0
+          with:
+            username: 'root'
+            server: ${{ secrets.SERVER }}
+            ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
+            local_path: './krigetiukraina/build/*'
+            remote_path: ${{ secrets.KRIGETIUKRAINA_REMOTE_PATH }}
+            args: '-o ConnectTimeout=5'
