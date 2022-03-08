@@ -99,7 +99,7 @@ for (const topic of topics) {
         item.hasCoordinates = false;
       }
     }
-    
+
     if( item.hasCoordinates ) {
       responsesWithCoordinates++;
       var ingressArray = [];
@@ -154,8 +154,9 @@ for (const topic of topics) {
   await Deno.writeTextFile(statsFile, JSON.stringify(stats, null, 2));
   await Deno.writeTextFile(topic.deploy_to_folder + '/' + topic.slug + '_geojson.json', JSON.stringify(geoJson, null, 2));
   await Deno.writeTextFile(topic.deploy_to_folder + '/build/' + topic.slug + '_geojson.json', JSON.stringify(geoJson, null, 2));
-  await Deno.writeTextFile(topic.deploy_to_folder + '/schools_without_uuid.json', JSON.stringify(schools_without_uuid, null, 2));
 
   console.log("Wrote a post process file for " + topic.title);
 
 }
+
+await Deno.writeTextFile('mittliv/schools_without_uuid.json', JSON.stringify(schools_without_uuid, null, 2));
