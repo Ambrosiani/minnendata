@@ -2096,6 +2096,22 @@
           59.369
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är så vansinnigt att invadera ett grannland och dessutom ett broderfolk. Och, tyvärr, som alltid…",
+        "date": "9 mars 2022",
+        "author": "Ulf Eliassom",
+        "url": "https://minnen.se/tema/krigetiukraina/19070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.141,
+          60.675
+        ]
+      }
     }
   ]
 }

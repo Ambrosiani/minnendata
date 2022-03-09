@@ -15817,5 +15817,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00206",
+    "contributor": {
+      "display_name": "Ulf Eliassom"
+    },
+    "created": "Wed, 09 Mar 2022 12:45:11 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 09 Mar 2022 12:45:11 GMT",
+    "position": {
+      "latitude": 60.6748796,
+      "longitude": 17.1412726
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19070",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "cdb8bdad-854c-48b5-9002-8967cef83f35",
+    "values": [
+      {
+        "created": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "display_value": "1954",
+        "modified": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e7cb1794-1197-459b-a1ab-e186f1d7c7cf"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "display_value": "Sverige klarar sig hyfsat bra, än så länge.\nEuropa står inför en mycket stor kraftsamling och måste stå enade, vilket jag upplever att vi gör.",
+        "modified": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f75f0b5b-e770-41c0-b56d-5e66f92b8ce9"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "display_value": "Det är så vansinnigt att invadera ett grannland och dessutom ett broderfolk. Och, tyvärr, som alltid, är det civilbefolkningen som drabbas värst.",
+        "modified": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "76a82ce2-ac25-4b50-8d36-b5e9fe53d3b4"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "display_value": "Framtiden är mycket svår att sia om. Jag hoppas verkligen att det inte eskalerar till ett världskrig.\nJag anser att vi, än så länge, inte ska gå med i NATO. Gör vi det, tillsammans med Finland, kommer Ryssland att se på oss med andra ögon. Vi kommer att ses som ett hot.",
+        "modified": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "38d2a5e2-94ac-43f0-84cf-bcb2bbaff2c5"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "display_value": "I det stora hela påverkas jag/min familj inte så mycket hittills annat än att bensin-/dieselpriset är så högt. Jag utgår från att det dagliga livet kommer att påverkas mer inom en snar framtid.",
+        "modified": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "0dd59227-cfee-4f5a-afb8-07f7303714e2"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "display_value": "Via media. Först förvåning sen stigande avsky och bestörtning.",
+        "modified": "Wed, 09 Mar 2022 12:45:11 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "8fa67cfc-4045-452b-8c1d-1a5da5537dd6"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
