@@ -15706,5 +15706,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00205",
+    "contributor": {
+      "display_name": "Jens Wigen"
+    },
+    "created": "Wed, 09 Mar 2022 06:47:50 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 09 Mar 2022 06:47:50 GMT",
+    "position": {
+      "latitude": 59.36887909999999,
+      "longitude": 18.0084334
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19068",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "4122b663-e03d-41bd-98c4-6dcc0794a8c1",
+    "values": [
+      {
+        "created": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "display_value": "1955",
+        "modified": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "f26e64d9-6a00-47dc-afac-986cd590021b"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "display_value": "Ökad risk för storkonflikt. Världens fattiga kommer att drabbas hårt av ökade kostnader för livsmedel och energi.",
+        "modified": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "a64f79e8-9bd3-4cc7-82da-427cc7758fa5"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "display_value": "Det värsta som skett i Europa under min livstid. Jag är född 1955. Det hotar oss alla på många sätt. Jag är förbannad och ledsen. Samtidigt maktlös.",
+        "modified": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "020ff297-a7b7-4178-81aa-4fa3dd23447d"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "display_value": "Vi kommer att preparera oss bättre för kriser, både som nation och individuellt.",
+        "modified": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "07fc460b-4fbf-44f5-a611-6fd63c1bdb56"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "display_value": "Vi har börjat preppa, köper fotogen, stormköp och liknande. Följer nyheter i både press och radio mycket noga. Vi har deltagit i flera demonstrationer.",
+        "modified": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "2fda6a56-caac-41f0-917d-6d56d5640b77"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "display_value": "Jag vaknade ungefär 0430 på morgonen den 24 februari och kollade på Aftonbladet.se. Sedan satte jag på SR P1.",
+        "modified": "Wed, 09 Mar 2022 06:47:50 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d9a15911-21f8-4cf3-accb-aa04bc289392"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

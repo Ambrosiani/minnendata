@@ -2080,6 +2080,22 @@
           59.627
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det värsta som skett i Europa under min livstid. Jag är född 1955. Det hotar oss alla på många sätt.…",
+        "date": "9 mars 2022",
+        "author": "Jens Wigen",
+        "url": "https://minnen.se/tema/krigetiukraina/19068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.008,
+          59.369
+        ]
+      }
     }
   ]
 }
