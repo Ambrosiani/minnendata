@@ -2048,6 +2048,22 @@
           56.016
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Kriget är inte långt ifrån oss. Det kunde varit vi, det kan bli vi. Hur klarar vi oss då? Jag tänker…",
+        "date": "9 mars 2022",
+        "author": "Elisabeth",
+        "url": "https://minnen.se/tema/krigetiukraina/19066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.319,
+          56.518
+        ]
+      }
     }
   ]
 }

@@ -15484,5 +15484,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00203",
+    "contributor": {
+      "display_name": "Elisabeth"
+    },
+    "created": "Wed, 09 Mar 2022 06:05:54 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 09 Mar 2022 06:05:54 GMT",
+    "position": {
+      "latitude": 56.51831559816364,
+      "longitude": 13.3187806949078
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19066",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "744e031d-82e4-4d59-9dbd-3e67f46a0d11",
+    "values": [
+      {
+        "created": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "display_value": "1979",
+        "modified": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "6121a3e1-2c02-4c6a-8fb9-bddd3c682ce0"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "display_value": "Sverige har inte haft krig på väldigt länge och ska inte behöva hamna i det nu heller. Känns som hela samhället är på sin vakt.",
+        "modified": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "5dcf6892-aa10-4b22-92aa-40598d6badbc"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "display_value": "Kriget är inte långt ifrån oss. Det kunde varit vi, det kan bli vi. Hur klarar vi oss då? Jag tänker inte lämna djuren och sätta mig i ett gammalt skyddsrum. Vi går i så fall ner i vår egna källare, men hur klarar man sig mot kärnvapen? Utan ström och vatten?\nKriget måste få ett stopp och någon borde komma åt Putin. Tänker på alla de som gått till gränsen och där skiljs pappor från sina fruar och barn. Hundar som springer runt och letar efter sin familj medan det skjuts. Hus som rasar och ett land som läggs till marken. Vad ska det leda till? Vad vill Putin med Kriget?",
+        "modified": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e9ed78d7-c683-4ed2-900d-0a217c2975a5"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "display_value": "Jag hoppas och tror att Putin misslyckas och världen hjälper Ukraina att bygga upp sitt land igen. \nPutin måste bort, han sänker inte bara sitt egna Ryssland utan hela världen. \nJag är tacksam för mitt liv, vi har det fantastiskt och jag kommer fortsätta njuta av livet!",
+        "modified": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "6177fce1-2331-4588-9be4-b60a39301213"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "display_value": "Oro och många tankar. Kommer Putin rikta ett kärnvapen mot oss? Arbetar på förskolan sen 18 år och första gången jag hört ett barn säga \"det kommer krig till Sverige \", vad svarar man på det?\nTänker lite när jag handlar, tar någon extra konserv, lagt några PET-flaskor vatten i frysen, kollat batterier till radion. Man har fått ett liv och det ska man få njuta av, inte fundera på att bunkra så man ska överleva ett tag I källaren, så jag tittar inte så mycket på nyheterna och går i skogen med hundarna. Lever här och nu. Gör god mat och gör saker jag tycker om.",
+        "modified": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "4f65f6d2-8545-43c8-a116-de58c42956bc"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "display_value": "Vaknade tidigt, min mammas (dog 2018) födelsedag. Slog på tv.n redan i sängen och hörde Putins tal. Förstod direkt att det var krig han menade då Putin är som han är! Kände hopplöshet, äntligen var pandemin lite under kontroll och då ska det komma en kanske ännu större katastrof.",
+        "modified": "Wed, 09 Mar 2022 06:05:54 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "482b238c-0cfe-4f1c-b31b-780cc678384c"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
