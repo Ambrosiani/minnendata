@@ -116,7 +116,15 @@ for (const topic of topics) {
       }
       const ingress = ingressArray[0].display_value.substring(0,100) + "…";
       var geoJsonFeature = { "type":"Feature", "properties":{ "ingress": ingress, "date":swedishDate, "author":item.contributor.display_name, "url":item.presentation_url }, "geometry": { "type":"Point", "coordinates": [ parseFloat(item.position.longitude.toFixed(numberOfCoordinates)), parseFloat(item.position.latitude.toFixed(numberOfCoordinates)) ] } };
-      geoJson.features.push(geoJsonFeature);
+      
+      if( !topic.show_underage_entries ) {
+        if( parseInt(createdDate.getFullYear(), 10) - parseInt(ageArray[0].display_value, 10) > 15 ) {
+          geoJson.features.push(geoJsonFeature);
+        }
+      }
+      else {
+        geoJson.features.push(geoJsonFeature);
+      }
     }
     
     delete item.comment_count;
