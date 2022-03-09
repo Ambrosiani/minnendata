@@ -15928,5 +15928,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00208",
+    "contributor": {
+      "display_name": "Karin Sandqvist"
+    },
+    "created": "Wed, 09 Mar 2022 15:45:35 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 09 Mar 2022 15:45:35 GMT",
+    "position": {
+      "latitude": 59.178177,
+      "longitude": 17.427816
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19072",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "be7d8889-d5e2-402b-a7cb-953248b73451",
+    "values": [
+      {
+        "created": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "display_value": "1985",
+        "modified": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7b0c7d08-f297-4eb6-b585-eecb48cdc1a0"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "display_value": "Jag tror att vi är brinken på en ny kollaps. En ekonomisk kollaps som det kommer att ta oss 20 - 30 år att komma ur. Konsekvenserna för den enskilde går inte att överblicka nu. Ska det bildas fattigstugor igen för ensamma pensionärer? Kanske blir det en återgång till generationsboenden där de äldre bor med sina barn.",
+        "modified": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "3b6c95bb-53e4-4341-9343-a2922e0a99cf"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "display_value": "Många känslor slåss om plats när jag tänker på kriget i Ukraina. \nUppgivenhet; varför ska detta ske precis när vi börjat komma ur pandemin. Precis när våra liv ska bli glada och lättare igen. Precis när ekonomin ska börja byggas upp.\n\nSorgsenhet som gör att man gråter och blir arg; Jag kan omöjligt förstå hur hemskt Ukrainarna har det. Hur fan kan man skjuta på folk som flyr i de humanitära korridorerna?! Hur fan kan man inte släppa in hjälpsändningar? \n\nStolt, imponerad; Världen har gått samman och i form av sanktioner och vapenleveranser tillsammans skriker \"Lägg av!\" till Ryssland. Ukrainas motstånd mot Ryssland är det modigaste och starkaste jag har sett/läst om i modern tid! Vilka fantastiska människor! Att företag som McDonalds, modekedjor och så vidare stänger ned är helt fenomenalt.\n\nEn känsla vanmakt; Jag kan inte göra något för att hjälpa medans Ukraina sakta går under. Endast skicka pengar och argumentera för ett Natomedlemskap och för ett ingripande av Nato. Samtidigt vill ingen starta ett tredje världskrig. Ukraina offras för att rädda alla andra. Varför kan inte FN skicka trupper för att hålla uppe de humanitära korridorerna?\n\nSkam; Varför gör vi andra länder inte mer? Varför nöjer vi oss med att skicka vapen och sätta, visserligern, hårda sanktioner? Ukraina offras för att rädda alla andra undan ett tredje världskrig. \n\nRädsla; Står Sverige på tur? Vad kan jag göra för att skydda mina barn?",
+        "modified": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ed95ed7c-f36b-455b-afb3-119b810bf220"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "display_value": "På något sätt tror jag ändå att kriget kommer att ta slut inom ett år. Min del, det jag kan bidra med, är att åka dit som turist och spendera massa pengar.",
+        "modified": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "48bfaacc-cf34-426d-b976-b8263bb36d8c"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "display_value": "Vi preparerar nu färdigt våra \"katastroflådor\" i enlighet med den folder som MSB skickade utför några år sedan. Vevradio och gasol till utekök är nu svårt att få tag i. Diselpriset har ökat med 5 kr på ungefär en vecka. Bensinen med 3 kr. Elpriset i mellersta och södra Sverige är helt upp åt väggarna! Tror att vårt elpris är 10 gånger högre än vanligt. Tillsammans med ökade priser för mat så börjar kassan att sina.",
+        "modified": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "bd8518da-f510-4c91-aadc-687f906f5bf6"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "display_value": "Jag satt hemma och jobbade. Tog en paus och läste nyheterna och såg då nyheten om invasionen. Det var en chock trots den senaste veckans oroliga nyheter. Den första tanken var \"Va?! krig år 2022. Det är så.... omodernt.\" Med det kom en känsla som närmast kan beskrivas som trotsig. Nej. Detta får inte hända, Ryssland med Putin i spetsen måste stoppas.",
+        "modified": "Wed, 09 Mar 2022 15:45:35 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "fd28a4d3-71fa-4eff-a69f-fbff9368c226"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

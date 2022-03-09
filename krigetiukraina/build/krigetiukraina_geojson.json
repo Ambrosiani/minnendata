@@ -2112,6 +2112,22 @@
           60.675
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Många känslor slåss om plats när jag tänker på kriget i Ukraina. \nUppgivenhet; varför ska detta ske …",
+        "date": "9 mars 2022",
+        "author": "Karin Sandqvist",
+        "url": "https://minnen.se/tema/krigetiukraina/19072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.428,
+          59.178
+        ]
+      }
     }
   ]
 }
