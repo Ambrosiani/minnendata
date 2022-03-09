@@ -15595,5 +15595,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00204",
+    "contributor": {
+      "display_name": "Manuel Pino Varas"
+    },
+    "created": "Wed, 09 Mar 2022 06:35:18 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 09 Mar 2022 06:35:18 GMT",
+    "position": {
+      "latitude": 59.62679150907942,
+      "longitude": 14.128334374999998
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19067",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "5cefed0b-d2e7-4664-9ef9-04996319d4a5",
+    "values": [
+      {
+        "created": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "display_value": "1957",
+        "modified": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "02d6ae5f-07a6-4225-8649-5cd68f3ac794"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "display_value": "Sverige verkar vara som normalt, men alla jag träffar ar rädd och orolig.",
+        "modified": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "7538e0e7-f670-46d5-a4cb-0bd0759956fc"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "display_value": "Jag känner mig orolig, rädd. Jag fattar inte att detta händer i Europa 2022, när vi har en pandemi som har tagit miljontals människor liv. Jag förstår imte varför finns så mycket farliga vapen i världen som kan förstöra vår enda hem vi har, Jorden. Rädslan är inte att styra länder .",
+        "modified": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7329254a-61a1-4b70-b375-3f4d84c85805"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "display_value": "Framtiden är osäker. Jag lever en dag i taget. Inga planer och tänker om hur ska vi överleva.  Just nu allt verkar meningslöst.",
+        "modified": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "42752c36-b3d0-4125-b4fa-b0106c5ee4ec"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "display_value": "Mim familjen mår dålig. Vår vardag är stressigt och vi jar mycket svår att hantera situationen.",
+        "modified": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "cd18f680-d259-4732-8aad-d6a32130074b"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "display_value": "Genom TV och sociala medier.",
+        "modified": "Wed, 09 Mar 2022 06:35:18 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "cff32d8d-967d-450d-a666-5332c143ea9e"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

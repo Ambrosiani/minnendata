@@ -2064,6 +2064,22 @@
           56.518
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig orolig, rädd. Jag fattar inte att detta händer i Europa 2022, när vi har en pandemi s…",
+        "date": "9 mars 2022",
+        "author": "Manuel Pino Varas",
+        "url": "https://minnen.se/tema/krigetiukraina/19067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.128,
+          59.627
+        ]
+      }
     }
   ]
 }
