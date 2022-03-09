@@ -2144,6 +2144,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Fördjävligt, onödigt. Främst för de civila i Ukraina men också för dom Ryssar som inte bett om eller…",
+        "date": "9 mars 2022",
+        "author": "Liam Hallin",
+        "url": "https://minnen.se/tema/krigetiukraina/19075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.946,
+          57.716
+        ]
+      }
     }
   ]
 }

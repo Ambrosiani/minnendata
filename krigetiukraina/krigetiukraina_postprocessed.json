@@ -16150,5 +16150,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00211",
+    "contributor": {
+      "display_name": "Liam Hallin"
+    },
+    "created": "Wed, 09 Mar 2022 20:10:22 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 09 Mar 2022 20:10:22 GMT",
+    "position": {
+      "latitude": 57.71633374522141,
+      "longitude": 12.946121661050233
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19075",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "54064e3d-5342-45ea-ac68-6af0f5022cba",
+    "values": [
+      {
+        "created": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "display_value": "1998",
+        "modified": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "aea91a24-3f3f-4309-a2ef-10fba6190f9a"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "display_value": "Känns mörkt. På alla plan och i flera länder. Inklusive i Sverige. Jag som ungdom har inte alltför stort gopp och tro till varken framtiden eller styrande.",
+        "modified": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e1c52a9d-d0c1-48eb-a261-ea5e19e9be3e"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "display_value": "Fördjävligt, onödigt. Främst för de civila i Ukraina men också för dom Ryssar som inte bett om eller stödjer dethär. Alla oskyldiga påverkas och man blir arg.",
+        "modified": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "a8372cd1-eae6-4e0c-bec2-c71a7a01a466"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "display_value": "Svårt att säga. För Ukraina, oavsett om Ryssland drar sig ur så blir det en lång och tuff väg tillbaka. För Rysslands del blir det också en lång väg tillbaka. Sjunkande handle och ekonomi kommer slå hårt mot Rysslands infrastruktur och även där blir oskyldiga drabbade. Känns som att Putin skjutit sig själv i foten lite dock.",
+        "modified": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b9a6d950-775f-47a0-b600-c62a115a0c3f"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "display_value": "Vet inte ärligt talat. Psykiskt så är det inget som påverkar ens vardag men i tankarna går ju \"är sverige näst på tur\".",
+        "modified": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "716ee5dd-c917-4a84-88b4-c75ebb5f5ecf"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "display_value": "Jag har aktivt gjort research och hängt med sedan anekteringen av Ukraina. Tyvärr för mig var det inte oväntat men man mådde genast dåligt. Främst för alla barn som förlorar sin barndom. Det får en också att uppskatta den frihet och trygghet man har här i Sverige.",
+        "modified": "Wed, 09 Mar 2022 20:10:22 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "f45d33f8-0eed-47eb-89a2-e11c09a4a133"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
