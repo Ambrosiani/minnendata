@@ -16261,5 +16261,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00212",
+    "contributor": {
+      "display_name": "Henrik Sommansson"
+    },
+    "created": "Wed, 09 Mar 2022 21:35:00 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 09 Mar 2022 21:35:00 GMT",
+    "position": {
+      "latitude": 57.03273587954705,
+      "longitude": 15.531348866872898
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19076",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "ccc2653d-6489-42be-97d6-1172d95596cf",
+    "values": [
+      {
+        "created": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "display_value": "1970",
+        "modified": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "800ba5a9-5a6d-472c-9061-4cf7f2632f58"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "display_value": "Världen blir ju egentligen mer enad än någonsin.\nLikaså Sverige eftersom en gemensam fiende sällan har varit så tydlig.",
+        "modified": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "6f7f0e22-0888-4b7e-aa09-e019d1555b56"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "display_value": "En enorm maktlöshet! Som i sin tur fåren att vilja agera.\nEtt enormt hat emot Putin och gammelryssar.\nOm någon i min närhet skulle uttrycka sympati för Putin så skulle jag inte tveka att gå till handgripligheter!",
+        "modified": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "4f094c3c-b720-4b1d-9361-aec0f91e55b5"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "display_value": "Jag vet att Ukraina kommer att vinna.\n\nBehovet av ett starkt försvar och behovet av att inte göra sig beroende av länder som Ryssland och kina är nu extremt tydligt - även om jag personligen alltid tyckt just detta.",
+        "modified": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b4a38361-e885-43f0-b176-f5e1c1cdd065"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "display_value": "Saker blir dyrare- det får man ta mitt i ett krig mellan frihet och barbari.",
+        "modified": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "61c0b002-4f53-412a-a27a-961db08ed615"
+      },
+      {
+        "created": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "display_value": "Putin , den fegaste och mest kriminelle fjant på denna jord, håller på att förstöra ett helt land, sätta säkerheten för en hel värld på spel, och detta enbart för några streck på sin karta. \n\nHan har lyckats med några saker;\n1. Ena Ukrainas folk mot Ryssland och för evigt allienera dem ifrån de gamla banden till Ryssland.\n2. Ena Europa. Ett Europa som på många sätt uppträtt splittrat genom åren har sällan varit så eniga som nu.\n3. Försatt Ryssland, Rysslands intressen och ryska folket i en isolerad, fattig, oberörbar, hatad situation.\n4. Gett Nato många nya framtida kandidatländer.\n5. Sett till att han själv kommer gå till historien som; en förstörare av Rysk framtid, som en lögnare ingen normal människa någonsin kan lita på, som en kriminell krigsförbytare, som mannen som ordnade att Rysslands enda vänner i världen blev Vitrysslands likaledes kriminella diltator, Nordkorea och nån enstaka annan diktatur, som en feg och ynklig KGB-lakej, som en barnamördare. \n\nOm Ukraina och dess folk tänker jag:\n1. Ett oerhört hjältemodigt folk som mangrant ställer upp för sitt hemland o sina landsmän!\n2. Ett land som just nu för europas krig, som trots alla odds emot sig vägrar ge upp en tum av sitt land eller sin frihet!\n3. De har trots tidigare band till öst blivit ett västland att lita på, de tänker modernt, de har en vilja att bygga en ljus framtid.\n\nI skrivande stund 2 veckor in i kriget ser det mörkt ut men med Ukrainas beslutsamhet så vet jag att de en dag kommer vinna detta krig. \nVi ska alla då hjälpas åt att bygga upp landet.\n\nSverige har fått sig en rejäl väckarklocka och med största sannolikhet kommer vi att vara med i Nato inom 10 år (förhoppningsvis tidigare)\n\nMitt tips är idag 9/3 att Putin officiellt kommer bli sjuk, sen efter en tid tvingas avgå från sin post. Efterträdaren kommer att vara stöpt i samma form men ändå kunna dra sig ur kriget. Inom en kort tid efter det kommer protesterna inne i Ryssland bli större och större, någon form av val hållas och en något liberalare ledare att väljas. Denne kommer kunna göra karriär genom att sakta öppna upp landet, han kommer bli populär eftersom den fria världen i samma takt kommer att lätta på restriktionerna. \n\n80 % av de Ukrainare som sökt skydd i andra länder kommer att återvända efter kriget och många europeer kommer ha nya vänner där som de kommer hålla vänskapsbanden starka med. \nHenke, Vetlanda",
+        "modified": "Wed, 09 Mar 2022 21:35:00 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9ea23748-67a6-4173-b3a5-bb999d8641b9"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

@@ -2160,6 +2160,22 @@
           57.716
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En enorm maktlöshet! Som i sin tur fåren att vilja agera.\nEtt enormt hat emot Putin och gammelryssar…",
+        "date": "9 mars 2022",
+        "author": "Henrik Sommansson",
+        "url": "https://minnen.se/tema/krigetiukraina/19076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.531,
+          57.033
+        ]
+      }
     }
   ]
 }
