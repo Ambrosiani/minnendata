@@ -2192,6 +2192,22 @@
           57.709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag skämdes. Jag skämdes när Ukraina invaderades och världen såg på. Jag skämdes att Ukraina ensamma…",
+        "date": "10 mars 2022",
+        "author": "Christina",
+        "url": "https://minnen.se/tema/krigetiukraina/19079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.191,
+          55.705
+        ]
+      }
     }
   ]
 }

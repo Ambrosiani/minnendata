@@ -16483,5 +16483,88 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00215",
+    "contributor": {
+      "display_name": "Christina"
+    },
+    "created": "Thu, 10 Mar 2022 07:46:11 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 10 Mar 2022 07:46:11 GMT",
+    "position": {
+      "latitude": 55.7046601,
+      "longitude": 13.1910073
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19079",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2bfceba2-d7c1-4678-a37d-a6f5ec41a8cb",
+    "values": [
+      {
+        "created": "Thu, 10 Mar 2022 07:46:11 GMT",
+        "display_value": "1993",
+        "modified": "Thu, 10 Mar 2022 07:46:11 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "d67e0287-d812-4df1-aebb-fbe06e1daa4f"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 07:46:11 GMT",
+        "display_value": "",
+        "modified": "Thu, 10 Mar 2022 07:46:11 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "b7b86213-5aa4-4e32-86b0-bfd037295175"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 07:46:11 GMT",
+        "display_value": "Jag skämdes. Jag skämdes när Ukraina invaderades och världen såg på. Jag skämdes att Ukraina ensamma fick hålla tillbaka Putin medan resten av världen inte ville bli indragna i kriget. Jag skämdes för hur Ukraina såg ut att offras för andra länders tillfälliga säkerhet och jag skämdes för hur vi ger Putin mersmak på att invadera grannländer.\n\nSedan blev jag imponerad. Imponerad av Ukrainas vilja och förmåga att försvara sig. Imponerad av Ukrainas soldater och civilbefolkning. Imponerad av Zelenskys ärliga ord till västs ledare när han skuldbelägger våra länder för att inte hjälpa mer.\n\nJag hoppas jag en dag kan bli lättad. Lättad att invasionen upphört. Lättad att Ukrainarnas liv kan återgå till det normala.  Lättad att hela Ukraina finns kvar. Lättad att en fascistiskt ledare inte lärt sig att han kan expandera sitt imperium genom anfallskrig.\n\nMen jag är orolig. Orolig för personer i Ukraina. Orolig för att Krim och östra Ukraina ska övergå till Ryssland. Orolig att läget ska normaliseras och kriget glömmas i väst efter en mandatperiod eller två. Orolig att Putin ska få det han ville och begära mer.",
+        "modified": "Thu, 10 Mar 2022 07:46:11 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6ce2d1a6-9d38-4038-ab26-1be82b2865f6"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 07:46:11 GMT",
+        "display_value": "Allt är hotat. Vårt land, vår säkerhet, våra rättigheter att existera och vara den man är, oavsett läggning, kön eller könsuttryck. En fascistiskt imperialiststat expanderar mot oss. Ändå ser livet ut som vanligt. Vi går till jobbet (eller startar upp jobbdatorn här hemma). Vi träffar kompisar. Solen skiner och fåglarna kvittrar. Det är svårt att ta in och förstå det som händer.",
+        "modified": "Thu, 10 Mar 2022 07:46:11 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "814e8d12-ea91-4a92-9b95-b7e7f1cad67c"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
