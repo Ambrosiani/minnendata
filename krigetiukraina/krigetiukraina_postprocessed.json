@@ -16566,5 +16566,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00216",
+    "contributor": {
+      "display_name": "CC"
+    },
+    "created": "Thu, 10 Mar 2022 13:38:42 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 10 Mar 2022 13:38:42 GMT",
+    "position": {
+      "latitude": 59.74325389578532,
+      "longitude": 19.05812637652032
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19080",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "38f6baa0-ba73-4d9b-8aae-aaeff0cc7899",
+    "values": [
+      {
+        "created": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "display_value": "1979",
+        "modified": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "cce29ac3-9cca-4944-a9d7-0b3fbdadc2df"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "display_value": "Det som händer är otäckt, både för samhället vi lever i och världen i stort. Vem vet vad maktgalna tokar som sitter vid makten i vissa länder, tex Putin, har för avsikter. Och vem vet vad de är beredda på att använda för vapen och tillvägagångssätt. \nJag lider med det ukrainska folket, men även med civila ryssar som inte har större skuld i detta oerhört otäcka än andra civila.",
+        "modified": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f1a17f35-edbe-4932-abbd-fcf4dde952a0"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "display_value": "Jag känner en avsky inför det som händer och hur de civila påverkas av detta fruktansvärda. Att mänskligheten inte har kommit längre. Och en vanmakt i att en ledare och att de som styr Ryssland så effektivt kan vilseleda sitt folk med desinformation. \nSamtidigt kan jag känna ett hopp och tillförsikt i att västvärlden har blivit mer enade och att EU och Nato-länderna gått ihop om sanktioner.",
+        "modified": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "41dafafa-7028-4450-9034-675f0af6c5e1"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "display_value": "Jag räds ett tredje världskrig och känner en oro för mina barns framtid. Vad är det för värld de ska växa upp i?\nJag räds att Sverige skulle attackeras.",
+        "modified": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a121d732-f234-48b7-a146-1f70f052f224"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "display_value": "Mina barn (8 och 10) år har helt plötsligt blivit väldigt nyfikna på vad som händer i världen och är törstiga för information. Vi föräldrar försöker ge dem viss information, men samtidigt skydda dem från att se på nyheter etc. Samtidigt följer vi föräldrar noga nyhetsrapporteringen. \n\nI livet här och nu har vi ännu inte påverkats så mycket. Vi har börjat se över hur vi skulle klara oss en viss tid om kriget/krisen kommer. Då vi genomlevde stormen Alfrida och dess efterdyningar är vi relativt gott rustade med det mesta, men har börjat köpa på oss nån/ett par extra påsar pasta, vetemjöl, konservburkar etc varje gång vi handlar mat. \n\nVi har beställt familjebevis från Skatteverket och bokat tid för att utfärda nya pass - utifall det värsta skulle hända och vi skulle behöva fly.\n\nVi bor på landet och har som tur är en elbil och en bensinbil, och inomhus med elbilen (och bundet elpris) har vi inte påverkats så väldigt mycket av bensinpriserna.",
+        "modified": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "1601b1ab-3d4e-404e-a861-bf9bf53bf123"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "display_value": "Jag var följt nyheterna och kände en oro för att Ryssland skulle hitta en anledning att invadera Ukraina. \nDet har påverkat mig med en känsla av ledsenhet, maktlöshet, oro, rädsla för vad det i förlängningen kan innebära för oss i Sverige.",
+        "modified": "Thu, 10 Mar 2022 13:38:42 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "5f8fe002-d295-43b2-8d07-06e552b22c3e"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
