@@ -2176,6 +2176,22 @@
           57.033
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är orolig för mina nya vuxna barns framtid och jag är orolig för den galopperande miljökraven, a…",
+        "date": "10 mars 2022",
+        "author": "Maria",
+        "url": "https://minnen.se/tema/krigetiukraina/19078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.975,
+          57.709
+        ]
+      }
     }
   ]
 }
