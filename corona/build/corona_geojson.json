@@ -37456,6 +37456,22 @@
           58.504
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är student och har studerat i drygt 3 år på Linköpings Universitet, och mitt under pandemin fick…",
+        "date": "10 mars 2022",
+        "author": "Cecilia Andersson",
+        "url": "https://minnen.se/tema/corona/19082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.621,
+          58.411
+        ]
+      }
     }
   ]
 }
