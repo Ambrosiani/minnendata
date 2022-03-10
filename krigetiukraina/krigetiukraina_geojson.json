@@ -2224,6 +2224,22 @@
           59.743
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner stor sorg och ilska över det som händer. Dels sorg över det som drabbar det fina landet U…",
+        "date": "10 mars 2022",
+        "author": "Kristian",
+        "url": "https://minnen.se/tema/krigetiukraina/19083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.663,
+          59.474
+        ]
+      }
     }
   ]
 }

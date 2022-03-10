@@ -16677,5 +16677,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00217",
+    "contributor": {
+      "display_name": "Kristian"
+    },
+    "created": "Thu, 10 Mar 2022 15:11:24 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 10 Mar 2022 15:11:24 GMT",
+    "position": {
+      "latitude": 59.474494603970925,
+      "longitude": 16.662514286017416
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19083",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d06c80d4-a8af-45fe-96cf-095c644f633f",
+    "values": [
+      {
+        "created": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "display_value": "1963",
+        "modified": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "5a4b8458-1dc7-4c1a-8077-6f94131f24a5"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "display_value": "Det ser inte bra ut för världen, och många är oroliga här också. Man har tagit många steg för att bryta med Ryssland på alla sätt, men jag hoppas att man går ännu längre.",
+        "modified": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "354855ed-e990-4ea5-9664-6dfc8537cb9b"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "display_value": "Jag känner stor sorg och ilska över det som händer. Dels sorg över det som drabbar det fina landet Ukraina som jag även har besökt. Sorg för alla dom människor som drabbas på olika sätt av detta onödiga krig. Ilska över hur putin och ryssarna kan bete sig på detta sätt. Som det känns nu kan jag aldrig förlåta dom och mitt hat mot dom bara växer.",
+        "modified": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "c14e654c-1774-4d55-858b-6388ec8fe64f"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "display_value": "Just nu är jag orolig med tanke på hur många fler som måste dö innan detta krig är över. Men jag ha ändå en förhoppning att en dag är Ukraina fritt igen och ryssland har fått betala ett högt pris för dom illdåd som dom har gjort.",
+        "modified": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "0ad825dc-85f2-4335-8a77-27c67fc958d2"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "display_value": "Jag mår dåligt varje dag och är hela tiden orolig över vad som händer nästa dag. Jag sover mycket sämre än vad jag brukar.",
+        "modified": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "10acc5f2-8f5b-426f-a553-564a448be243"
+      },
+      {
+        "created": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "display_value": "Det hade ju byggts upp en lång, så man kände väl på sig att något skulle hända. Jag hörde det på radion tidigt torsdag morgon 24 februari. Hos mig väckte det oro hur Ukraina skulle kunna klara sig mer än några dagar.",
+        "modified": "Thu, 10 Mar 2022 15:11:24 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "92cb5c71-db76-4489-a0db-83a78d78b031"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
