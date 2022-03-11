@@ -2272,6 +2272,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Förtvivlan och  sorg över att se alla flyende mödrar och barn som inte vet något om hur framtiden ko…",
+        "date": "11 mars 2022",
+        "author": "Eva Karlsson",
+        "url": "https://minnen.se/tema/krigetiukraina/19088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.975,
+          57.709
+        ]
+      }
     }
   ]
 }

@@ -17212,5 +17212,102 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00222",
+    "contributor": {
+      "display_name": "Eva Karlsson"
+    },
+    "created": "Fri, 11 Mar 2022 14:46:47 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 14:46:47 GMT",
+    "position": {
+      "latitude": 57.70887,
+      "longitude": 11.97456
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19088",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "cfcb6242-7941-47f3-af1b-cad005cfaff3",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "display_value": "1948",
+        "modified": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "48b7573d-7203-4aa7-b367-f2e8d787a1f0"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "display_value": "Tungt efter två års pandemi slängs vi in i ett ännu större elände. I allt det dystra är det  skönt att känna att vi alla i väst är så enade!\n\nBra med satsningarna på försvaret! Förvånande att höra svt:s journalister vinkla detta till att det blir synd om ungdomarna som kommer att bli tvungna göra värnplikt!",
+        "modified": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "d86b5e14-8407-497a-9a48-ed58e30fb1d2"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "display_value": "Förtvivlan och  sorg över att se alla flyende mödrar och barn som inte vet något om hur framtiden kommer att bli om den ens blir av.",
+        "modified": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "2028e5c3-8b63-4faf-a44f-3cc362dd8e65"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "display_value": "Hittills kan vi ju tack och lov leva normalt, men oron finn där hela dagen.",
+        "modified": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ff2a0237-5aee-4d8f-83ff-032783585521"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "display_value": "P1 morgonnyheter kl. 06.00 den 24 februari.",
+        "modified": "Fri, 11 Mar 2022 14:46:47 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "be481b27-8284-4a14-8327-610564d50c37"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
