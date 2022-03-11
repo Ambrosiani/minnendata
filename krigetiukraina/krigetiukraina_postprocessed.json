@@ -17975,5 +17975,74 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00229",
+    "contributor": {
+      "display_name": "Johan"
+    },
+    "created": "Fri, 11 Mar 2022 21:54:21 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 21:54:21 GMT",
+    "position": {
+      "latitude": 55.8703477,
+      "longitude": 12.8300802
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19095",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "920b09e0-1315-425e-8e7a-923e6ab58528",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 21:54:21 GMT",
+        "display_value": "1970",
+        "modified": "Fri, 11 Mar 2022 21:54:21 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "4a2ef4bf-38fd-4b96-8ec5-c4c7ed4cdc53"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 21:54:21 GMT",
+        "display_value": "Att vi bara klarade runt 75 år av fred, varför, så urbota dumt.",
+        "modified": "Fri, 11 Mar 2022 21:54:21 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "1c8bf1ad-4ed0-4d82-9686-6eb5d8204377"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 21:54:21 GMT",
+        "display_value": "Jag var på ett hotellrum i Mexico city. Den enda kanalen på engelska var CNN, plötsligt sa korrespondenten att det small och det small igen, jag såg kriget starta live från andra sidan jorden.",
+        "modified": "Fri, 11 Mar 2022 21:54:21 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "1b469c93-79ed-4423-ba30-9519481541c5"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

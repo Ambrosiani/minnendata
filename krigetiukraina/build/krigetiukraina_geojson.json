@@ -2384,6 +2384,22 @@
           58.572
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Att vi bara klarade runt 75 år av fred, varför, så urbota dumt.…",
+        "date": "11 mars 2022",
+        "author": "Johan",
+        "url": "https://minnen.se/tema/krigetiukraina/19095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83,
+          55.87
+        ]
+      }
     }
   ]
 }
