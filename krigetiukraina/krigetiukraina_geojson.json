@@ -2240,6 +2240,22 @@
           59.474
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig arg och ledsen. Så himla onödigt att bomba sönder skolor, bostadshus, kyrkor, vandrar…",
+        "date": "11 mars 2022",
+        "author": "Hanna Gotland",
+        "url": "https://minnen.se/tema/krigetiukraina/19084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.441,
+          57.527
+        ]
+      }
     }
   ]
 }

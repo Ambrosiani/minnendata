@@ -16788,5 +16788,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00218",
+    "contributor": {
+      "display_name": "Hanna Gotland"
+    },
+    "created": "Fri, 11 Mar 2022 00:33:56 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 00:33:56 GMT",
+    "position": {
+      "latitude": 57.527495676191805,
+      "longitude": 18.441257654322744
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19084",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "66700b25-0504-4e13-a7f1-88257791ec5b",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "display_value": "1969",
+        "modified": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "89c773e0-34be-40c2-89c0-5a5eb9791eb3"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "display_value": "Jag ser med en viss stolthet att hela väst, EU, forna öststater och halva världen stå enade och stark i sitt fördömande och med mod ger kraftiga sanktioner. \nVäldigt glad att Trump inte är vid makten. \n\nHar haft diskussioner med nya svenskar, en vän från Irak, som kom hit på tidigt 90-tal som 8-9-10 åring. Svenskar i mina ögon. Rätt chockad över vår diskussion då det framgår att min vän har ett stort  väst-hat på väst-förrakt och tror fullt och fast på iransk tv som endast ger Putin propaganda som nyheter. \n\nDet är mycket som är sjukt i maktspelet. \n\nHar dubbel känsla till upptrappningen av svenskt försvar. Beteende föder beteende. Lyssna på Svenska Freds o Skiljedomsföreningen, men känns ändå bra att stärka vårt försvar.",
+        "modified": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e17c3a88-7193-42ef-90c4-ff62d3ee7840"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "display_value": "Jag känner mig arg och ledsen. Så himla onödigt att bomba sönder skolor, bostadshus, kyrkor, vandrarhem, hospitals, bb-hus, kraftdammar mm.. \nJag känner mig arg att en enda mobbare kan lägga ribban för vad som är ok och normalt i ett land. Att det är ok att ljuga, förfölja och trakassera. Att inte kunna hantera opposition. Arg och ledsen. Så vansinnigt onödigt.",
+        "modified": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "0f100487-bbfa-46a5-b89a-e32303276697"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "display_value": "Framtiden är ju ett sorgligt öppet kort. \nHoppas på att något \"tar bort\" Putin och att Navalny kan få bli folkvald i Ryssland. \nTror mer att Ryssland kommer att förstöra Ukraina ännu mera sen efter kriget, fler kommer fly även när kriget är slut. \nUkrainska fyktingar kommer nog att bli vardag. Men de kommer flytta hem så fort det bara går. De älskar sitt land och sin demokrati. \n\nViktigast av allt är att strida för demokrati och yttrandefrihet. Det kommer till sin spets nu. Vi vill inte ha diktaturer i Europa.",
+        "modified": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "dd01d4e8-de5b-4718-89c0-cfe6c7c74d7b"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "display_value": "Eftersom jag har starka kopplingar till Ukraina påverkas jag mycket. Dag 1 och 2 ständig oro. Vi hade öppet hus som kriscenter för samtal. Efter 10 dagar kom ångesten och jag fick öka dosen av serotonin/noradrenalin för att komma i balans. \nJag tar väldigt illa vid mig att Kreml sprider såna lögner om allt. Blir så arg. Förljuget het är något jag starkt föraktar.",
+        "modified": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "82125385-9a49-4598-9e4c-37ebf4440890"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "display_value": "Vaknade vid 06:00 tiden och som vanligt kollade jag Facebook i telefonen. Första meddelandet i min grupp Svenskbyborna berättade om invasionen. \nJag blev chockad. Har vänner i Svenskbyn/Zmievka. Visste om hotet sen länge. Men trodde aldrig att Putin skulle gå över gränsen. \n\nDet var andra gången inom en 5års period jag hade brutalt fel i mina tankar om världsordningen. Den första gången var när Trump faktiskt blev vald. Det trodde jag aldrig skulle ske.",
+        "modified": "Fri, 11 Mar 2022 00:33:56 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "88eafa14-327f-48bd-9e6a-6ec559fa5114"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
