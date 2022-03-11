@@ -17531,5 +17531,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00225",
+    "contributor": {
+      "display_name": "Mormor"
+    },
+    "created": "Fri, 11 Mar 2022 18:18:53 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 18:18:53 GMT",
+    "position": {
+      "latitude": 58.0323039,
+      "longitude": 12.8089764
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19091",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "e02bfea5-12cf-4243-aa3a-4dbb5051a9b9",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "display_value": "1963",
+        "modified": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "96d61921-43f5-468f-9f3e-e18e6432baf4"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "display_value": "Vi är hjälplösa. Vi är så beroende av komunalt vatten och avlopp och fjärrvärme.\nDet blir lätt för Putin att ta oss \n\nVi kan inte ens handla när  han hackar coops kassa system.\nVarför har vi gjort oss så utsatta.\n\nJag är ny politiker i samhället här, Vårgårda. Det är så svårt att få något praktiskt att hända. Det pratas o pratas men ingen bestämmer något.\n\nJag har kakelugnar i min hyresrätt och grannen på botten har järnspis. Jag har 50 kvm odlingslott. Men hur ska vi få vatten?\n\nJag hoppas vi får tillbaka att folk har egna brunnar o egen panna att elda i..",
+        "modified": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "764a1354-c771-481e-a65c-baafff4ed4b4"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "display_value": "Jag drömmer att folk jag känner dör nu.\nDet är återkommande i mina drömmar att vänner dör och att vi är jagade hela tiden.\nTycker inte om att sova längre.\nJag känner att det går åt skogen nu. Det är nog början på slutet. \n\nExperterna hade sagt dagarna innan att nato och eu skulle slå ut putin, han hade inte en chans.\nJag dog lite i mitt inre när INGEN ingrep. Putin kunde bara döda folk ,massor av folk.",
+        "modified": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "3e5c448d-b25d-40c5-bd83-a9ecf4780ac6"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "display_value": "Det blir en katastrof.  Han är psykisksjuk och är som Hitler. Alltså inga gränser. \nDet kommer bli biologiska vapen, kärnkraftsverk olyckor och vatten, luft och mark kommer förorenas.\nDet kommer spridas sjukdomar. \nDet står i bibeln att 1/4 av jordens befolkning ska dö i sjukdomar och svält och krig.\n Det står att vetet ska kosta en dagslön för ett kilo och 3 kilo korn för samma pris.\nDet står att freden ska tas bort från jorden  och att alla dödar varandra.. \nJag tror detta är början på det.\nPutin ser hur svaga vi är, ser på när han dödar Ukraina. \n\nNu är han arg för embargo och att vi sände vapen, nu kommer hans ilska drabba oss. För vi är inte med i Nato",
+        "modified": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "8b383ac0-5c60-411f-bd7a-7729b57d623a"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "display_value": "Jag känner mig inte trygg längre. Jag litar inte på att någon hjälper till när Putin tar Finland och Sverige.  Han kommer ta kärnkraftsverken som han redan haft drönare över, han kommerdöda så många han kan.\nJag vågar inte planera framåt, semestrar, resor och sånt. \nJag tar sömntabletter nu",
+        "modified": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "752848e5-2145-42b4-b9db-a099d0ebdb4b"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "display_value": "Blev förlamad när jag förstod att ingen kom att hjälpa dem.. det blir en massaker och kärnkraftsverk som förstörs och biologiska vapen. \n\nPutin kommer ta Sverige med. Det var början till slutet på allt närPutin invaderade Ukraina. Nu kommer nog jorden gå under/ förstöras. \nJag läser bibeln och hört profetior om sista tiden. \nJag tänkte: \"- nu händer det\"",
+        "modified": "Fri, 11 Mar 2022 18:18:53 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "8dad0345-a39a-4a57-89b8-8d7bc34df1ad"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

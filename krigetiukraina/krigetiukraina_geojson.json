@@ -2320,6 +2320,22 @@
           56.552
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag drömmer att folk jag känner dör nu.\nDet är återkommande i mina drömmar att vänner dör och att vi…",
+        "date": "11 mars 2022",
+        "author": "Mormor",
+        "url": "https://minnen.se/tema/krigetiukraina/19091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.809,
+          58.032
+        ]
+      }
     }
   ]
 }
