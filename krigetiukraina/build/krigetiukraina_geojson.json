@@ -2336,6 +2336,22 @@
           58.032
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner en hopplöshet över vad som händer i Ukraina. Att ett land som kämpat för sin självständig…",
+        "date": "11 mars 2022",
+        "author": "Nellie",
+        "url": "https://minnen.se/tema/krigetiukraina/19092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

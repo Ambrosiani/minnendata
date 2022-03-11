@@ -17642,5 +17642,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00226",
+    "contributor": {
+      "display_name": "Nellie"
+    },
+    "created": "Fri, 11 Mar 2022 19:02:41 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 19:02:41 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19092",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "57401c3c-3da8-49f7-ba61-ab34028bb5f7",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "display_value": "1994",
+        "modified": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "ea365c53-3613-41fa-a779-1fdc45df2c0f"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "display_value": "Tillståndet i världen just nu är otroligt ostabilt i mina ögon. Inte bara i Europa utan också i andra delar av världen. Men det är kanske inte så konstigt efter två år av global pandemi, ovanpå de redan existerande konflikterna som pågått under längre tid runt om i världen. Världen i stort håller fortfarande på att återhämta sig efter att ha stått stilla under så lång tid. Och mitt i allt detta startas ännu en konflikt, ett krig, som många inte såg komma. Så allt känns ostabilt och osäkert just nu.",
+        "modified": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e838e842-57ff-469a-8199-7cbf10267736"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "display_value": "Jag känner en hopplöshet över vad som händer i Ukraina. Att ett land som kämpat för sin självständighet och sin demokrati plötsligt ser sina städer förstöras är ofattbart och otroligt sorgligt. Situationen gör mig också orolig över framtiden. Hur länge kommer det hålla på? Hur mycket kommer förstöras? Hur kommer Europa se ut efter det här? Många frågor om framtiden som snurrar i huvudet.",
+        "modified": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "64dbc566-f096-48c6-b967-3e38dc0ff278"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "display_value": "Jag tror tyvärr att det här kommer ha stor påverkan på Europa i framtiden. Det här är största krigssituationen vi har haft sedan andra världskriget och det påverkar alla länder i Europa negativt på olika sätt. Exakt hur det här kommer påverka oss i framtiden får vi se men säkert är att det politiska läget i både Ryssland och Ukraina kommer förändras dramatiskt, frågan är bara om det blir positivt eller negativt.",
+        "modified": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "7d39d8fd-8e4e-46f6-b384-6ec2c7ce2add"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "display_value": "Jag påverkas lätt av händelser som denna. Även om det inte påverkar mig direkt så ger det mig otrolig ångest att krig, fattigdom, lidande och elände pågår runt om i världen.  Jag känner mig orolig över min omvärld och framtiden av världen runt omkring mig. Jag har även vänner med ukrainska rötter och jag känner djup medkänsla för de och deras familjer, trotts att jag inte ens kan föreställa mig vad de går igenom.",
+        "modified": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "b1ce8409-7638-4990-ae68-59dffa687112"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "display_value": "Jag vaknade på morgonen 2022-02-21 till nyhetsnotiser om att Ryssland gått in i Ukraina. Jag fick direkt en dålig magkänsla. Jag hade diskuterat situationen veckan innan med två vänner, en av de med ukrainska rötter. Vi var alla övertygade om att något stort skulle hända, men hade aldrig förväntat mig att Ryssland faktiskt skulle starta ett krig. Spenderade morgonen och hela nästkommande vecka framför tv, växlande mellan olika nyhetskällor. Att något sånt här skulle hända i modern tid kändes och känns fortfarande ofattbart. Speciellt eftersom vi alla precis tagit oss ur två år av pandemi.",
+        "modified": "Fri, 11 Mar 2022 19:02:41 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "896fd71e-55b7-4bd0-b98a-9a912814bea3"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
