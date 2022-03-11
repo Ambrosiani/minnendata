@@ -2368,6 +2368,22 @@
           58.448
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Nu har det gått ett par veckor och jag är mest arg. Så många civila som dödas. Ryssarna begår så van…",
+        "date": "11 mars 2022",
+        "author": "Ann-Sofie Forsberg",
+        "url": "https://minnen.se/tema/krigetiukraina/19094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.118,
+          58.572
+        ]
+      }
     }
   ]
 }

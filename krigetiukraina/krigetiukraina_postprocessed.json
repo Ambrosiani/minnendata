@@ -17864,5 +17864,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00228",
+    "contributor": {
+      "display_name": "Ann-Sofie Forsberg"
+    },
+    "created": "Fri, 11 Mar 2022 21:39:30 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 21:39:30 GMT",
+    "position": {
+      "latitude": 58.571696917274984,
+      "longitude": 15.117573065978984
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19094",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "916401d3-dbaf-47a9-b2e5-c4e839a0380a",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "display_value": "1975",
+        "modified": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "3a4c5463-cd2e-4444-bb3e-235eb3083280"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "display_value": "Det känns som vi redan befinner oss i ett tredje världskrig. Det är kaos i världen, och som den lilla människan man är i det försöker man ändå leva som vanligt. Vi kämpar samtidigt med en pandemi som lamslagit omvärlden.. Det är mycket nu är väl en bra sammanfattning känner jag.",
+        "modified": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "fdea9f9e-b33d-4910-b336-dee500067be0"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "display_value": "Nu har det gått ett par veckor och jag är mest arg. Så många civila som dödas. Ryssarna begår så vansinnigt många krigsbrott. Jag känner också frustration över att övriga länder i Europa inte går in och hjälper mer millitärt. Samtidigt förstår jag varför de inte gör det. Men ändå.. Jag önskar de kunde sluta vara så rädda för putin. Det han och hans armé gör mot Ukraina och dess befolkning är ofattbart, och kan inte få fortgå såhär utan extrema åtgärder.",
+        "modified": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "79e0f0b2-af77-4dd8-a180-b7ac97c0b8df"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "display_value": "Jag försöker att inte tänka så mycket på framtiden. Jag vill leva här och nu. Det har förstärkts sen kriget i Ukraina startade. Men jag tror vi kommer få en förändrad världsbild överlag. När det här är över har alla mycket att jobba med. I oss själva och rent praktiskt för att hjälpa. Jag hoppas och tror på en djupare och starkare medmänsklighet än som finns idag.",
+        "modified": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "47796f85-e02d-4ef7-9b5c-f8a68d16c480"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "display_value": "Egentligen inte direkt påverkan. Bensin och matpriserna ökar. Det är väl där jag och min familj blir mest påverkade. (Men när det gäller bensinenprisets ökning beror ju det mer på våra skyhöga skatter mer än att råvarupriset på olja ökar. )\nÄn så länge är det hanterbart. \nNästa steg är ju hotet mot Sverige och hur vi kan förbereda oss kring det. Hur man än vrider o vänder på myntet så påverkar det en hel del. Men än så länge har vi inte börjat \"preppa\".",
+        "modified": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "2c1a0b1b-edfc-4b25-a283-7e709fb0b036"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "display_value": "Jag vaknade på morgonen och såg direkt nyhetsnotiser om att ryssland/putin hade invaderat Ukraina. Jag kände rädsla och maktlöshet när jag öppnade notiserna och läste. Jag som i stort sett aldrig tittar på nyheterna slog på tv:n och följde hela nyhetsprogramet. Jag var chockad och grät över det hemska som skedde så nära. Ryssen kom tillslut..",
+        "modified": "Fri, 11 Mar 2022 21:39:30 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "4f0155d3-634c-4022-aacc-4ba63469da70"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
