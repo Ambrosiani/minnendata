@@ -16899,5 +16899,318 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00221",
+    "contributor": {
+      "display_name": "Samtid"
+    },
+    "coordinates": "",
+    "created": "Fri, 11 Mar 2022 13:32:27 GMT",
+    "image_dms_id": "013AkPi9tcUG",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 11 Mar 2022 13:27:47 GMT",
+        "description": "Nybroplan",
+        "dms_id": "013AkPi9tcUH",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:47 GMT",
+        "name": "1.JPG",
+        "order_by_number": 1,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "b7c6742f-b407-437b-be27-aa43246da666"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:56 GMT",
+        "description": "Pressbyrån",
+        "dms_id": "013AkPi9tcYf",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:56 GMT",
+        "name": "8.JPG",
+        "order_by_number": 2,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "93d2e766-19d3-431f-9136-e72dbfd78ee6"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:56 GMT",
+        "description": "Norrmalmstorg 2",
+        "dms_id": "013AkPi9tcYg",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:56 GMT",
+        "name": "3.JPG",
+        "order_by_number": 3,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "07a5dfa2-f9c4-4287-8c4a-4273104c9bdb"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:47 GMT",
+        "description": "Dramaten",
+        "dms_id": "013AkPi9tcUJ",
+        "image_height": 3832,
+        "image_ratio": 0.75,
+        "image_width": 2874,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:47 GMT",
+        "name": "10.jpg",
+        "order_by_number": 4,
+        "owner": "Matilda Fredriksson",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "eb5747a5-ce9b-4c15-afb5-e63f00996010"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:46 GMT",
+        "description": "Riksdagshuset",
+        "dms_id": "013AkPi9tcUG",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:46 GMT",
+        "name": "11.jpg",
+        "order_by_number": 5,
+        "owner": "Aron Erstorp",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "50830334-2957-4221-8a8f-dddb21fd385e"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:55 GMT",
+        "description": "Norrmalmstorg 3",
+        "dms_id": "013AkPi9tcUQ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:55 GMT",
+        "name": "4.JPG",
+        "order_by_number": 6,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "5abcde4f-7f91-4718-b7e4-4e94bc7ad0ae"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:51 GMT",
+        "description": "Sergels torg",
+        "dms_id": "013AkPi9tcUK",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:51 GMT",
+        "name": "7.JPG",
+        "order_by_number": 7,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "cef70bcc-288c-4ae7-bd34-eb43a00850e6"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:55 GMT",
+        "description": "Norrmalmstorg",
+        "dms_id": "013AkPi9tcUP",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:55 GMT",
+        "name": "2.JPG",
+        "order_by_number": 8,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "31bd9133-26d9-4881-9de4-ecd8e43fb6c4"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:52 GMT",
+        "description": "Stockholm Central",
+        "dms_id": "013AkPi9tcUL",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:52 GMT",
+        "name": "9.JPG",
+        "order_by_number": 9,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "8e5061a1-9553-42af-ba4b-6428d8f1e0ed"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:55 GMT",
+        "description": "Hötorget",
+        "dms_id": "013AkPi9tcUM",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:55 GMT",
+        "name": "6.JPG",
+        "order_by_number": 10,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "a2ae02f4-9f91-47f6-a45f-99e0f120f0e5"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 13:27:54 GMT",
+        "description": "Sveavägen/Kungsgatan",
+        "dms_id": "013AkPi9tcUN",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 11 Mar 2022 13:27:54 GMT",
+        "name": "5.JPG",
+        "order_by_number": 11,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "bc7f0770-3023-4a01-a535-5790920369e2"
+      }
+    ],
+    "modified": "Fri, 11 Mar 2022 13:35:36 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19087",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "c9be94eb-926f-4934-b333-6fb9bac48088",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 13:32:27 GMT",
+        "display_value": "1979",
+        "modified": "Fri, 11 Mar 2022 13:35:36 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "aeca2dbd-d7e8-4294-8344-f91a72464c56"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

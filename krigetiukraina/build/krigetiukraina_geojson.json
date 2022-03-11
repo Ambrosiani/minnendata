@@ -2256,6 +2256,22 @@
           57.527
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "11 mars 2022",
+        "author": "Samtid",
+        "url": "https://minnen.se/tema/krigetiukraina/19087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }
