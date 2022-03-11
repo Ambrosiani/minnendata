@@ -2288,6 +2288,38 @@
           57.709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Katastrof och fasa.\nFörtvivlan inte bara för att Putin hotar hela Europa utan också f a ryssarna sjä…",
+        "date": "11 mars 2022",
+        "author": "Berit Fradera",
+        "url": "https://minnen.se/tema/krigetiukraina/19089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.695,
+          56.046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Overkligt att det skall ske 2022. En rysskledare som inte på något sätt håller sig till vedehagna ri…",
+        "date": "11 mars 2022",
+        "author": "Anna-Lisa Ternelius",
+        "url": "https://minnen.se/tema/krigetiukraina/19090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.137,
+          56.552
+        ]
+      }
     }
   ]
 }

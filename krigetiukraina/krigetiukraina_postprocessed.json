@@ -17309,5 +17309,227 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00223",
+    "contributor": {
+      "display_name": "Berit Fradera"
+    },
+    "created": "Fri, 11 Mar 2022 15:44:42 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 15:44:42 GMT",
+    "position": {
+      "latitude": 56.0464674,
+      "longitude": 12.6945121
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19089",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "7cf182d1-1a69-4e65-9118-6f307a975de7",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "display_value": "1937",
+        "modified": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "05f64689-fd65-4d99-8d08-a14d84d18db7"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "display_value": "Skåne \nÖresund \nFlyktingarna som kommer via färjorna.\nFår avvakta nu.",
+        "modified": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "75ae5407-5231-4ff8-8b2d-54bca63e397c"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "display_value": "Katastrof och fasa.\nFörtvivlan inte bara för att Putin hotar hela Europa utan också f a ryssarna själva inte vet vad som händer. Har en väninna i St. Petersburg som är helt övertygad om att moder Ryssland försvara sig helt rätt. Det går inte att föra någon som helst vettig dialog med henne.",
+        "modified": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "082afb15-f64e-4fc9-b7a7-458bd05e012e"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "display_value": "Jag är rädd att Ukraina krossas.\nHoppas att Putin förlorar.\nTänker på vad som.händer när ryssarnas världsbild rasar för 2a gången.",
+        "modified": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "db0c44e1-4fee-402d-bc3f-0e0432cf36d6"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "display_value": "Oro och upptagenhet av alla medier.Har alltid engagerat mig flyktingar från Ungernkrisen,Balkankrigen, Cilekuppen,Syrienkriget...\nKänner oro men också tillfredställelse över den enighet som finns i Eu nu.\nTänker engagera mig och min man nu på.nytti t ex Språkkafe på Råå.\nBor i Rydebäck Nordvästskåne strax söder om Helsingborg.",
+        "modified": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "27a8ba84-e5e3-486c-af02-29b2ea25a48a"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "display_value": "SVERIGES RADIO P1 TIDIGT PÅ MORGONEN 24 FEBRUARI 2022",
+        "modified": "Fri, 11 Mar 2022 15:44:42 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9be63cf0-712f-46c1-912b-d8042b817b27"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00224",
+    "contributor": {
+      "display_name": "Anna-Lisa Ternelius"
+    },
+    "created": "Fri, 11 Mar 2022 15:44:48 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 15:44:48 GMT",
+    "position": {
+      "latitude": 56.5524461,
+      "longitude": 14.1374047
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19090",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a78efd67-e034-4988-a836-6c78f4199ce7",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "display_value": "1943",
+        "modified": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "3de9f7d9-9ea0-4289-8dd9-10154012788f"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "display_value": "Ledsen över hur det ser ut och oro över vad som kommer hända i världen.  Vilken värld kommer det bli för barnbarn och ett barnbarns barn som är på väg. Tror på människans godhet med tyvärr finns det flera undantag.",
+        "modified": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "b5848d0e-c4c8-4bcc-8f21-6b182fdbdac0"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "display_value": "Overkligt att det skall ske 2022. En rysskledare som inte på något sätt håller sig till vedehagna riktlinjer i undertecknade konventioner. Stackars ukrainare som från en dag till en annan befinner sig i en katastrof. Brukar inte känna har mot någon men idag gör jag det mot en ledare och hans anhang.",
+        "modified": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "4c3be2b5-e3c6-4ecc-9f3a-20095801c621"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "display_value": "Mycket stor osäkerhet.",
+        "modified": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "ae79f038-3bd9-4383-add7-8eed3bd11277"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "display_value": "Självklart gäller det att bidra med pengar till verksamheter som jag vet på olika sätt kan göra skillnad  RK Act Svenska kyrkan, och Läkare utan gränser. Kommer se över vad jag har hemma som kan komma tillnytta särskilt för de som kommer hit.",
+        "modified": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "4b48a4d0-2e83-41b0-b5a3-4ddfebb5a145"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "display_value": "Via nyheterna som jag sen följt med viss begränsning.",
+        "modified": "Fri, 11 Mar 2022 15:44:48 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "f62a5707-2745-410e-91df-2df5f0c06541"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
