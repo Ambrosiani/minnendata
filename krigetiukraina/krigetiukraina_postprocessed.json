@@ -17753,5 +17753,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00227",
+    "contributor": {
+      "display_name": "Tom Andersson"
+    },
+    "created": "Fri, 11 Mar 2022 19:21:38 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 11 Mar 2022 19:21:38 GMT",
+    "position": {
+      "latitude": 58.44760219999999,
+      "longitude": 14.8902335
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19093",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "484fd93c-a0d8-4cb6-9825-962502800c9f",
+    "values": [
+      {
+        "created": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "display_value": "1990",
+        "modified": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "74d1f1ca-6629-4ee6-9891-edbb5f4c8e91"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "display_value": "Som jag skrev innan så har ju konflikten mellan väst och Kina/Ryssland ställt sig på sin spets. Inte det att Kina är med men systemen. Jag känner att vi västeeuropeer behöver hålla ihop mer och stärka vår makt - här spelar postkolonialism ingen roll för mig - säkerheten kommer först. Och den största säkerheten är att ha makten - där är Kina och Saudiarabien exempel på länder som vi måste stärka oss mot. Samtidigt sjuker ”interna” konflikter undan. För några veckor sedan kunde jag tycka tjeckien, polen och ungern var riktigt problematiska länder som vi hade en konflikt med men nu är allt det som bortblåst.",
+        "modified": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0b36deda-3c86-4784-b013-8b04f439d9d5"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "display_value": "Jag känner mig nog framförallt beslutsam, arg och stärkt i min europeiska identitet. Det känns också så jävligt att alla fördomar om ryssar infrias. Tyvärr får man också en annan syn på ryssar och på människor i stort. Att man direkt i kristid ser med nya ögon. Vilka kan vara fiender och vilka kan vara vänner? Jag glädjs åt att polen, ungern etc är samstämmiga med oss i deras fördömande av attacken och deras engagemang för Ukraina och mot Ryssland. Jag kan dock på samma känsla tänka att vi Europeer bara har varandra. Länder utanför Europa ser till sig själva så man kan inte lägga förtroende där - även om jag så klart blir glad över det stöd som Ukraina har även i andra delar av världen.  Jag blir irriterad när exempelvis palestinier eller Syrier bara vill peka på att vi europeer skulle vara hycklare - Sverige har tagit emot hundra tusentals människor från dessa länder och stöttat de demokratiska försöken där - Så håll käften. \nJag följer nyheterna och läser med glödande ögon - varje död rysk soldat och varje sprängd pansarvagn Inger hopp om Ukrainsk framgång. Det är ändå en urladdning av något som har växt - Ryssland och Kina som har ökat sin makt och västvärlden som har gått på nit efter nit. Nu har det ställs på sin spets - och vår ringhörna - Ukraina - står emot - därför önskar jag att vi skickade ännu mer hjälp. Framförallt militärt. Pansarskotten var bra men luftvärn och annan militär utrustning skulle också skickas. För även om vi inte kan gå in och stänga luftrummet utan risk för kärnvapenkrig kan vi skicka luftvärn så att de på marken kan försvara sig. Jag blir också väldigt arg på de som uttrycker stöd för Ryssland och dess militär - inte ryssar i gemen eller ryssar som står bakom sitt land men Svenskar och europeer som utrycker stöd - dessa förrädare - och folk som inte vill ta ställning - vilka as. Det är känslor som skrämmer mig eftersom det i en skarp situation innebär att jag förmodligen är kapabel till saker som jag aldrig skulle kunna tänka mig.",
+        "modified": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6873b56e-f057-489e-af86-024481303476"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "display_value": "Det kommer bli tuffare - men jag hoppas på att kriget blir Putins fall och ett mer sammansvetsat Europa som kan stå emot antidemokratiska länder i omvärlden",
+        "modified": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "929e963c-5108-4626-83e2-ce65bbf5b646"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "display_value": "Inte nämnvärt annat än att det tar upp väldigt mycket av min tid. Jag ingår i en internationell chattgrupp där vi dagligen pratar och delar nyheter om detta. Sedan håller jag ironiskt nog på med militärreenactment av Ryska förstavärldskriget vilket gör att många av de jag handlat utrustning av är i Ryssland, Belarus och Ukraina. I Januari gjorde jag en beställning från företaget Voin i zaporizhia. Deras produkter har alltid varit fantastiska och de har alltid varit tillmötesgående. Likaså hade de precis skaffat instagram - och lade stolt upp bilder på nöjda kunder över hela världen. Nu läger de upp bilde på hur deras kvarter bombarderas av ryssarna. Det ger mig verkligen ont i magen. En i chattgruppen har sin flickvän i Ukraina, han spelar tuff men jag märker hur orolig han är. Likaså har min bror en kompis som han har spelat online med, jag har också spelat med honom. Nu har jag sett bilder på honom i Södra Ukraina men en pansarvärnrobot på axeln. Det gör också att jag får ont i magen. Så jag försöker att skänka pengar och när jag gör det så hör jag det till militären. Flyktingar finns det många organisationer som stödjer men för att människor skall slippa bli flyktingar så behöver militären få utrustning.",
+        "modified": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "92eeb178-f430-4e41-8766-12381cb6f88b"
+      },
+      {
+        "created": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "display_value": "Detta är det jag har sämst minne av. Men jag har för mig att jag hörde det på morgonen. Mitt första intryck var inte jättestarkt utan jag tänkte att de ryska trupperna skulle gå in i Donetsk och Lushansk. Att de andra trupperörelserna var för att distrahera Ukraninarna. \nJag har för mig att jag gick upp och nyheterna stod på på tvn. Jag reagerade inte nämnvärt utan tänkte att det blir som när Ryssarna tog krim 2014. Jag och min sambo fortsatte höra på radion i bilen på väg till jobbet. Och sedan satt min kollega och hade ingång nyhetssändningar på jobbet. Jag trodde nog att de skulle kuppa sig in i Kiev på någon timme och ta Zelensky. Men det kom inte utan ju längre tiden gick desto mer insåg jag att det inte bara gällde utbrytarregionerna utan hela Ukraina. När Ukraina slog tillbaka De ryska fallskärmsjägarna från Gostomels flygplats insåg jag att det skulle bli ett riktigt krig, men också att Ukrainarna hade en chans",
+        "modified": "Fri, 11 Mar 2022 19:21:38 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "223a3f32-1980-42ad-bebb-df88bf645f8f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

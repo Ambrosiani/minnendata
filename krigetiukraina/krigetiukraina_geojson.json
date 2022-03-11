@@ -2352,6 +2352,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig nog framförallt beslutsam, arg och stärkt i min europeiska identitet. Det känns också…",
+        "date": "11 mars 2022",
+        "author": "Tom Andersson",
+        "url": "https://minnen.se/tema/krigetiukraina/19093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.89,
+          58.448
+        ]
+      }
     }
   ]
 }
