@@ -1527,5 +1527,124 @@
         "uuid": "0d07f094-d0f1-46e0-adba-cc8ba25cc0cb"
       }
     ]
+  },
+  {
+    "archive_code": "M4/00025",
+    "contributor": {
+      "display_name": "Malou Krümmel"
+    },
+    "created": "Sat, 12 Mar 2022 12:52:29 GMT",
+    "image_dms_id": "013AkPiBNwAD",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sat, 12 Mar 2022 12:46:24 GMT",
+        "description": "Jubileum Bally/NK",
+        "dms_id": "013AkPiBNwAD",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Sat, 12 Mar 2022 12:46:24 GMT",
+        "name": "C6285361-740F-477F-BDC0-F709292984B9.jpeg",
+        "order_by_number": 1,
+        "owner": "Malou",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "d094689e-e72f-4f8d-96c4-96d1b8bf5619"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 12:46:24 GMT",
+        "description": "Bally 100 år NK 50 år",
+        "dms_id": "013AkPiBNwAC",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Sat, 12 Mar 2022 12:46:24 GMT",
+        "name": "B3008D22-CCE7-4D93-A7BF-82C68B97F2C8.jpeg",
+        "order_by_number": 2,
+        "owner": "Malou",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "49816d8f-508b-4e45-8c76-14fbc15e2ccc"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 12:46:24 GMT",
+        "description": "Bally/NK jubileums sko",
+        "dms_id": "013AkPiBNwAB",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Sat, 12 Mar 2022 12:46:24 GMT",
+        "name": "CE6ECDDD-345E-4D41-B6B5-1352EDC9A121.jpeg",
+        "order_by_number": 3,
+        "owner": "Malou",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "314f42e2-aaad-48e5-a536-cab65f38a31c"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 12:46:24 GMT",
+        "description": "Ballysko",
+        "dms_id": "013AkPiBNwAE",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Sat, 12 Mar 2022 12:46:24 GMT",
+        "name": "091C1613-A0F2-4D40-BEC0-066FC8B88ACC.jpeg",
+        "order_by_number": 4,
+        "owner": "Malou",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "68d9a4f0-befc-4ab9-b7e8-650c4ead623b"
+      }
+    ],
+    "modified": "Sat, 12 Mar 2022 12:52:29 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/19099",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "231716d0-62db-4d0f-bac9-98c471b18c71"
   }
 ]
