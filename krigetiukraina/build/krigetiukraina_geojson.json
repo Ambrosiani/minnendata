@@ -2400,6 +2400,22 @@
           55.87
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig upprörd över att det ”går” att bryta mot avtal och regler....och att det är svårt att…",
+        "date": "12 mars 2022",
+        "author": "C",
+        "url": "https://minnen.se/tema/krigetiukraina/19098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.192,
+          58.588
+        ]
+      }
     }
   ]
 }

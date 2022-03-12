@@ -18044,5 +18044,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00232",
+    "contributor": {
+      "display_name": "C"
+    },
+    "created": "Sat, 12 Mar 2022 07:55:09 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 12 Mar 2022 07:55:09 GMT",
+    "position": {
+      "latitude": 58.587745,
+      "longitude": 16.192421
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19098",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "32bc471e-7b39-4466-ba0a-235dea6e3c97",
+    "values": [
+      {
+        "created": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "display_value": "1950",
+        "modified": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "4f2723f3-6f76-4770-a044-1b9aad7b3e19"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "display_value": "Jag tänker mycket....är tacksam för bra mediarapportering. Känner hela tiden att demokratin och fred måste ”segra”....men funderar också på länder som har och har haft krigstillstånd/konflikter i många år...som vi i västvärlden rapporterar ytterst lite om. Det känns helt overkligt och övermäktigt att det sker....orättvisor , svält , sjukdomar, korruption, kriminalitet, miljöförstöring....ja, det är ingen vacker bild som klarnar när man läser om tillståndet i världen........det gör att jag känner stor smärta.... och sorg!",
+        "modified": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "384cf4aa-d2ec-4113-9073-44a27c59eff7"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "display_value": "Jag känner mig upprörd över att det ”går” att bryta mot avtal och regler....och att det är svårt att ställa en ledare inför krigsrätt, det är ju grova förbrytelser mot lag/rätt mm som görs nu....att diplomati är svårt nu.....jag känner stor oro inför framtiden. Men jag följer nyheterna, hur svårt det än känns att ta in allt, jag vill veta......Har också läst en del ”historia”.... bakåt i tiden. Jag känner ju också oro för Sverige, och inser att vi har ju haft fred så länge att mycket av vårt försvar är nedmonterat, precis samma sak som upptäcktes med sjukvården när pandemin drabbade oss för två år sedan. Inga lager, ingen beredskap....\nKänns som jag nu lever i en ”ny” verklighet.......där mycket som man inte ens funderat på tidigare blir aktuellt....skyddsrum, egna förberedelser i händelse av försämrat läge....m.m \nDet som ger mig hopp är att se och ta del av alla människor som nu hjälper till....det finns även ”goda” krafter.....jag hoppas även att världens makthavare kan bidraga med att det blir fred.",
+        "modified": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7afc8073-3e95-4ba8-a84c-135aea866486"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "display_value": "Framtiden är mer diffus......jag tänker inte nu så mycket framåt , mer här och nu. \nDet beror ju på Sveriges eventuella utsatthet, om det finns eller blir mer ”hotfullt” för oss....\nDet är något som inte under mitt 72 åriga liv funnits i mina tankar.....\nMen vill försöka hålla ”hoppet” uppe....att demokrati och det ”goda” ska segra.....",
+        "modified": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b64b8ada-46bd-4d3e-ada5-21083b914759"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "display_value": "Känner att oron finns hela tiden. Det påverkar vardagen. Speciellt då vi haft en pandemi under två år som inneburit att vi inte har kunnat umgås som ”vanligt”..... det är omskakande och känns mycket sorgligt. Barnbarn, barnbarnsbarn.....ja, mycket tankar inför framtiden....vi har nog också kommit närmare på ett sätt under de två senaste åren, tydligt är att vi behöver varandra, på många olika sätt.",
+        "modified": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "8c455f70-e03b-4ab9-8c4f-bbde79b0f236"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "display_value": "Radion, kanal P1 tidigt på morgonen.....jag tänkte att det måste ju stoppas på något vis! Att det är ”galenskap”........men samtidigt fanns ju tankar om att detta är planerat sedan länge. Funderade mycket över makt, vad det är för komponenter som styr.....ord som ”dök upp” i mina tankar var...politik, ekonomi, diktatur......demokrati. Sedan kände jag ilska, sorg, oro.....och tänkte mycket på alla människor i Ukraina som nu kommer få sina liv ”raserade”, död, blod, sårade människor....kände mig mycket upprörd.....",
+        "modified": "Sat, 12 Mar 2022 07:55:09 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "eace6057-db25-4f0a-b187-d14048360358"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
