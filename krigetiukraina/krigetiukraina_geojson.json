@@ -2416,6 +2416,22 @@
           58.588
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Man bombar bb. Helt ofattbart. Det gör ont i hela kroppen. Älskar att bönderna snor bandvagnarna.\nFö…",
+        "date": "12 mars 2022",
+        "author": "Söderholm",
+        "url": "https://minnen.se/tema/krigetiukraina/19101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.84,
+          59.597
+        ]
+      }
     }
   ]
 }

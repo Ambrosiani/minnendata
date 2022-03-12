@@ -18155,5 +18155,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00234",
+    "contributor": {
+      "display_name": "Söderholm"
+    },
+    "created": "Sat, 12 Mar 2022 17:26:02 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 12 Mar 2022 17:26:02 GMT",
+    "position": {
+      "latitude": 59.597168246896466,
+      "longitude": 15.83962631221198
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19101",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "85dc39fe-b9f7-4618-bc18-4902e7b7c326",
+    "values": [
+      {
+        "created": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "display_value": "1981",
+        "modified": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "f7f5c348-f027-4e15-a870-0ed0c775a5a3"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "display_value": "Jag bor i en liten håla så vi kommer vara trygga ett tag, men jag har släkt i större städer och det är jobbigt. Jag är rädd att det är vi och Finland som står på tur innan Natoländerna gås på. Om han är dödssjuk och vill in i historieböckerna så har han ingenting att förlora.\nJag har alltid velat åka till tjernobil, men jag antar att de kommer spränga sönder det om de förlorar.",
+        "modified": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "86101d69-08d0-4d03-8dc8-e10658392f2c"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "display_value": "Man bombar bb. Helt ofattbart. Det gör ont i hela kroppen. Älskar att bönderna snor bandvagnarna.\nFörstår inte hur 2000 talet kan innehålla en kris som borde stannat i dåtidens sovjet.",
+        "modified": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "edfca41b-43f4-4057-8bfd-3bc7a2c2adcd"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "display_value": "Jag hoppas vi får fira Ukraina för att de är superhjältar. Men risken är att vi kommer vara en splittrad familj med några medlemmar kvar i ett sönderbombat land.",
+        "modified": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "ce7b61b3-6347-4103-b26e-a105dc6c0d01"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "display_value": "Mycket oro, barnen är rädda, dom vet vad terror handlar om och jag försöker följa det som händer, har skapat en fb grupp där jag delar bilder från fb för att spara till framtiden.",
+        "modified": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "1c07c464-5594-40ae-9b74-84acea1473bd"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "display_value": "Face book, läste om av vad folk delat från nyhetssidor. Det gjorde ont i själen samt att jag blev rädd för framtiden. Jag orkar inte med krig och jag vill inte att mina barn ska leva i krig, vi är överlevare från mäns våld och har tagit oss till att börja få livet att funka.",
+        "modified": "Sat, 12 Mar 2022 17:26:02 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "524a140a-dfc2-4082-ad9a-092ee97b75ab"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
