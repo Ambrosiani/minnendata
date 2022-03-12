@@ -18377,5 +18377,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00239",
+    "contributor": {
+      "display_name": "Dennis Blohm Hedlund"
+    },
+    "created": "Sat, 12 Mar 2022 21:00:58 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 12 Mar 2022 21:00:58 GMT",
+    "position": {
+      "latitude": 59.518565797666334,
+      "longitude": 17.963636443014302
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19106",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "fc5c5605-71e5-4899-97bc-28952ff00565",
+    "values": [
+      {
+        "created": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "display_value": "1991",
+        "modified": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "aaeca708-fff3-4f2d-8b25-f026233ded77"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "display_value": "Hela världen känns spänd just nu och alla känner att dom vill göra mer för att hjälpa till. Olika länders regeringar vill hjälpa till men vågar inte då det finns risk för ett fullskaligt kärnvapenkrig då Putin har höjt beredskapen i sin kärnvapen trupp.\nOm inte alla världens länder står enade mot denna tyrann så vet ingen vad som skulle kunna hända. Även folket i Ryssland måste stå emot. Det finns inte tillräckligt med poliser eller soldater för att fängsla ett helt folk.",
+        "modified": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e86f8af0-24fe-40ee-85c8-b76f116132f2"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "display_value": "Min fru är från Charkiv i Ukraina och vi har varit där, och i Kiev, många gånger tillsammans.\nVarje gång jag ser bilder på hur dom gatorna vi har varit på ser ut nu så blir jag förbannad, ledsen och förtvivlad. Hur kan någon, med en fungerande hjärna, vilja invadera detta land och dessutom rättfärdiga det med lögner om påstådda folkmord och därefter påbörja ett folkmord själv? Dom flesta, som jag själv har träffat i Charkiv, pratar ryska och resten pratar Ukrainska. En person pratar ryska och en annan person svarar på Ukrainska. Alla lever helt fredligt sinsemellan. Mina känslor är komplexa men mina tankar är enkla. När Ryssland och Putin är redo så kommer dom att söka sig vidare. Vi står alla på tur så var redo att skydda era familjer och vänner på alla sätt ni kan. Stå lika raka i ryggen när Putin kommer som alla i Ukraina har gjort så kommer deras fall att bli ett faktum. Alla länder måste stå enade i detta, annars så kommer vi alla att leva samma liv som man kan se i andra världskrigs dokumentärer. Historien talar sitt tydliga språk. Stå inte vid sidan av och låt det hända.",
+        "modified": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "30a22765-19e7-45b0-81c1-53685c5daedb"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "display_value": "Det spekuleras mycket av både sakkunniga experter och lekmän, trots det så är det ingen som faktiskt vet hur framtiden ser ut, oavsett vilket land man bor i. \nMin egen syn på framtiden är som alltid ”vi får se vad som händer”. Hur ser våran familjs framtid ut? Vi får se men fram tills dess så gör vi allt för att den ska vara så stabil och enkel som vi kan göra den. Det där med att resa runt i världen får nog vänta då dom flesta pengarna gick åt till att få hit våra släktingar.",
+        "modified": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "76571d76-ba71-40a7-91f1-bece517f97fb"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "display_value": "Min svärmor och hennes mamma tog sig hit till Sverige i sin bil hela vägen från Charkiv (östra Ukraina), hela resan, inklusive väntan vid polska gränsen (dom väntade 75 timmar), tog över en vecka. Det vill säga, bil = säng. Toalett = vartsomhelst utomhus, om man vågar. Vi lever tillsammans allihopa nu. Jag, min fru, våran dotter (2 år), min frus mamma och min frus mormor och vi får snart en dotter till. Det är underbart att vara tillsammans allihopa men när vi tänker på orsakerna till varför så blir vi ledsna allihop. Livet i stort fungerar bra. Alla hjälps åt på alla sätt vi kan och när vi kan så försöker vi donera till hjälporganisationer och vissa av oss har även ansökt som volontärer. Varje dag läser vi nått nytt om kriget och då pratar vi om det allihopa direkt för att alla ska få utlopp för sina känslor på en gång då det hjälper bäst. Kan vi så pratar vi även med kompisar och andra släktingar som fortfarande är kvar där nere. Kan det inte bara ta slut snart?",
+        "modified": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "2d2032cc-777b-475f-b03a-78d1e0f6dc77"
+      },
+      {
+        "created": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "display_value": "Den 24:e februari klockan 05:42 fick jag ett meddelande från min mamma, i chatten där jag, min fru, min mamma och min frus mamma är med. ”Läser tidningen om att det är smällar i charkiv o flyg inställt...”\nKlockan 05:43 svarar min svärmor, som bor i Charkiv i Ukraina, ”Putin förklarade krig mot Ukraina”\nJag fick kalla kårar längs ryggen, mitt hjärta stannade och min hjärna blev helt nollställd. ”vad fan skrev hon?!” Tänkte jag varje gång jag läste om meddelandet. Jag hade gått upp och börjat göra frukost innan jobbet när jag fick nyheten om Rysslands invasion i Ukraina. Efter att ha svarat: ”Olena! Packa och åk hit så snart ni kan!” Så gick jag direkt och väckte min fru och sen ringde vi till hennes mamma på en gång. Det var hemskt! Dom blev väckta i Charkiv av en bomb vid klockan 5.",
+        "modified": "Sat, 12 Mar 2022 21:00:58 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "dda386d9-fa5a-440b-a088-de87eba450e4"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

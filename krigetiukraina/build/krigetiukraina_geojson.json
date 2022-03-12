@@ -2448,6 +2448,22 @@
           55.761
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min fru är från Charkiv i Ukraina och vi har varit där, och i Kiev, många gånger tillsammans.\nVarje …",
+        "date": "12 mars 2022",
+        "author": "Dennis Blohm Hedlund",
+        "url": "https://minnen.se/tema/krigetiukraina/19106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.964,
+          59.519
+        ]
+      }
     }
   ]
 }
