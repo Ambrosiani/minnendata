@@ -2512,6 +2512,22 @@
           56.663
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det krig som utspelar sig är fruktansvärt. Rysslands krigföring är fegt och jag har inget till övers…",
+        "date": "13 mars 2022",
+        "author": "Elisabeth",
+        "url": "https://minnen.se/tema/krigetiukraina/19112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.797,
+          60.907
+        ]
+      }
     }
   ]
 }

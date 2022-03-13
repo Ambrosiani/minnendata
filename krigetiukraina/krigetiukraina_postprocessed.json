@@ -18928,5 +18928,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00245",
+    "contributor": {
+      "display_name": "Elisabeth"
+    },
+    "created": "Sun, 13 Mar 2022 10:55:30 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 10:55:30 GMT",
+    "position": {
+      "latitude": 60.907489092873746,
+      "longitude": 17.797167153930662
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19112",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "8d321c82-e03e-4d88-8b34-89191f3b30db",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "display_value": "1952",
+        "modified": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "81107d93-d8f8-426e-91d4-7356ce77e340"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "display_value": "Självklart finns det en oro bland många människor och det påverkar ju oss alla.\nAllt är osäkert och skakigt. Vi har ju inte så mycket att sätta emot Ryssland även om vi skulle vilja. Putin skulle förmodligen starta ett kärnvapenkrig om vi la oss i för mycket.",
+        "modified": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0314fb27-0e55-49dd-9d12-2e3fbd7071ff"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "display_value": "Det krig som utspelar sig är fruktansvärt. Rysslands krigföring är fegt och jag har inget till övers för Putin som skjuter på oskyldiga barn och kvinnor. Jag skulle inte tveka om jag fick chansen att sätta en kula i huvudet på honom. En oberäknelig och farlig människa. Visst kan jag känna en rädsla över att det även kan drabba Sverige.\nKan även känna med det Ryska folket som inte vill ha krig och inte förstår vad som händer\nEn önskan att man vore yngre och hade möjlighet att åka ned till gränserna för att hjälpa det de krigsdrabbade.",
+        "modified": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "355bbfcd-0790-4f2b-bf13-0799a22bc30c"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "display_value": "Framtiden är väl att se till att maktgalna människor som Putin inte borde få finnas, ett önsketänkande  och inte så realistiskt. \nTroligtvis kan allt hända och även Sverige kan råka illa ut.",
+        "modified": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d71d51e1-48fe-4321-9c22-5f5fbb41615d"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "display_value": "Vi diskuterar mycket om hur vi känner och vad vi kan göra för att hjälpa. Pengar har skickats och funderingar om det finns möjlighet att ta emot på plats\n\nVi har en idé om vad vi kan göra om vi skulle bli indragen i kriget.",
+        "modified": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "54f873e2-c74a-435a-9d18-dabc4461ad5a"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "display_value": "Genom TV nyheterna.\nJag blev nog mest Chockad och hade svårt att förstå att det hände.",
+        "modified": "Sun, 13 Mar 2022 10:55:30 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "3600bbc1-f87d-4482-8b90-5a7a36cad2a9"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
