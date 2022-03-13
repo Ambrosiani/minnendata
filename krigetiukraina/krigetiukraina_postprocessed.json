@@ -18710,5 +18710,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00243",
+    "contributor": {
+      "display_name": "Millan"
+    },
+    "created": "Sun, 13 Mar 2022 07:54:30 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 07:54:30 GMT",
+    "position": {
+      "latitude": 56.6634447,
+      "longitude": 16.356779
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19110",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b6f6af25-f184-4fa4-baf0-504498a5767c",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "display_value": "1978",
+        "modified": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7fe9a9f7-c8e0-4d99-87f1-6c7442bafd7e"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "display_value": "Jag tänker att det kan bli tredje världskriget i Europa och då få man kämpa för sitt land. \nNär man hör statsministen säga att vi inte ska gå med i Nato bli man bara arg. Vi i Sverige har inget försvar som kan skydda svenska folket och det är bara retfullt att inte gå med i Nato. \nJag är en av dem som är med i hemvärnet och vill skydda Sverige från fiender.  All hot som man får från Ryssland är inte klokt. Putin ska bara hålla käften för han ska inte bestämma över Sverige och Finland om de ska gå med i Nato. \n\nRyssland har jämt hotat Sverig och det började när man var litet barn. Man fick höra att ryssen kunde komma och ta en så jag har alltid känt ett hot av Ryssland.  Nu är det mer allvar när man är vuxen och Putin sitter i makten. \n\nOm Ryska folket kunde få bort Putin från makten skulle vara det bästa för både omvärlden och för ryska folket. Någon måste ta bort honom och han behöver inte leva här och nu. Putin är och förbli en psykopat i mina ögon.",
+        "modified": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "671330fa-e4dc-4402-9849-2ebfb1d8a231"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "display_value": "Jag satte ut Ukrainska flaggan på min sida på Facebook och hoppas att de bli befriad av omvärlden som hjälper dem. Det hemska som man få se är på Youtube. Ryska soldater skjuter ner de civila folket som inte kan försvara sig och vill komma ifrån landet. Hatet mot Ryska folket växer mer och mer för varje dag som går. Presidenten i Ukraina är verkligen tuff och vågar vara kvar och hjälpe till med att försvara sitt land och för mig är han redan en hjälte som står för rättvisa.",
+        "modified": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "42a89f2c-4bcc-4590-bc7e-017e104c400d"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "display_value": "Jag brukade planera vad jag ska göra om ett år eller två, men nu tar jag en dag i sänder. Det går inte planera längre vad man vill göra i framtiden. Allt för att Putin är vid makten och det påverkar mig mycket negativt om min framtid. \n\nVi behöver en värld som är mer fredliga mot varandra. Då skulle man känna sig mer lycklig och man behöver inte oroa sig för omvärlden längre.",
+        "modified": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "dae1a8aa-d8d0-486b-859d-c4e81265a0e0"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "display_value": "Det som påverka för mig är att jag har ett hat mot ryska folket. Det är egentligen Putin man ska hata, men hela Rysslands folk åker med på ett bananskal. Man sitter och kolla på olika nyhets kanaler på Youtube och ser bara elände och död. Som jag skrev att hatet växer för varje dag mot Putin och det ryska folket. \nJag jobbar också i hemtjänsten och där är de äldre rädda att Putin ska komma hit och börja kriga. Detta påverkar negativt för de äldre som tittar på nyheterna. \nJag försöker lugna ner de äldre, men det är för nära Sverige.",
+        "modified": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "91a7407e-66e0-4da8-b963-3987a8181d56"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "display_value": "Jag fick beskedet genom nyheter från TV-en. JG blev arg och ledsen för ukrainska folket vill leve självständig och kunna ha demokratisk ledare. Jag blev besviken och ett hat växte i mig mot ryska folket och Putin.",
+        "modified": "Sun, 13 Mar 2022 07:54:30 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "14a57020-9649-48e6-a454-9fb6b8001b89"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
