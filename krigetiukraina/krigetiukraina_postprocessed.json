@@ -18488,5 +18488,227 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00241",
+    "contributor": {
+      "display_name": "Erna"
+    },
+    "created": "Sun, 13 Mar 2022 00:26:44 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 00:26:44 GMT",
+    "position": {
+      "latitude": 60.86431710917173,
+      "longitude": 28.988861700694656
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19108",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "350b714d-5dbb-467a-9ca6-343c6f82adbb",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "display_value": "1956",
+        "modified": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "62f1a1a7-0708-4c1c-834d-2bfebec00613"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "display_value": "Farligt för alla i världen, inte bara för oss som lever i Europa.",
+        "modified": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "8102737b-44f6-45f1-82ed-8cc8a9ee2489"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "display_value": "Så onödigt och grymt att rasera det välstånd som Ukraina byggt upp under åren.",
+        "modified": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "dc65369c-c7fa-448f-a211-adc853a54a9c"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "display_value": "Vi i väst får hålla ihop och försvara demokrati och våra länders självbestämmanderätt. \n ”Släpp ingen djävul över bron”.",
+        "modified": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "78fcc451-e157-4de5-88f6-c8b9047e98c0"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "display_value": "Än så länge inte alls.",
+        "modified": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "7e5ae0de-7179-4d8f-b423-c727c8fc405c"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "display_value": "Internet. Inte nu igen.",
+        "modified": "Sun, 13 Mar 2022 00:26:44 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "ef6468ad-dbb8-4478-b96f-f8a88125372b"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00242",
+    "contributor": {
+      "display_name": "Joel Bohlander"
+    },
+    "created": "Sun, 13 Mar 2022 01:19:25 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 01:19:25 GMT",
+    "position": {
+      "latitude": 59.37124859999999,
+      "longitude": 16.5098045
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19109",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d4e27058-d104-4d82-9cc7-9415f030766a",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "display_value": "1999",
+        "modified": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "4d2e0a53-9830-4da5-8960-42ddada493f7"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "display_value": "Extremt skört. Ett felsteg nu kan ha förödande konsekvenser. Det gäller just nu att alla gör sin del inatt försöka lösa situationen på det minst blodigaste sättet de kan. Vi har inte råd med ett 3e världskrig.",
+        "modified": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "c6d46175-202a-4ed3-8a94-9a1cf38a1eab"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "display_value": "Det är både fascinerande och extremt skrämmande att ha ett krig på den här skalan i på sin egen kontinent, och så pass nära sitt eget hemland, av en nation som är kapabel att föra krig mot en.",
+        "modified": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e924afb0-e786-4bd6-9d8b-a379dd64e71d"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "display_value": "Om Ryssland tar Ukraina så blir det revolt, om denimet lyckas så blir det nog revolt. Ryssland (och specifikt Putin) har hamrat ned den sista spiken i kistan.",
+        "modified": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "80957def-1a52-454f-906d-a4588cffb4e9"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "display_value": "Inte mycket, bortsätt från stigande bensinpriser och att man inte kan beställa saker från Östeuropa nu.",
+        "modified": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "3f14b597-78f6-4a9c-b74b-f96b97846b56"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "display_value": "Via sociala medier och via vänner i Ukraina.",
+        "modified": "Sun, 13 Mar 2022 01:19:25 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "1ea9c88f-6d7d-4c50-a8ed-e990e282113d"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

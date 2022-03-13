@@ -2464,6 +2464,38 @@
           59.519
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Så onödigt och grymt att rasera det välstånd som Ukraina byggt upp under åren.…",
+        "date": "13 mars 2022",
+        "author": "Erna",
+        "url": "https://minnen.se/tema/krigetiukraina/19108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.989,
+          60.864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är både fascinerande och extremt skrämmande att ha ett krig på den här skalan i på sin egen kont…",
+        "date": "13 mars 2022",
+        "author": "Joel Bohlander",
+        "url": "https://minnen.se/tema/krigetiukraina/19109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.51,
+          59.371
+        ]
+      }
     }
   ]
 }
