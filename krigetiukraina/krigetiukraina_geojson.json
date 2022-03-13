@@ -2528,6 +2528,22 @@
           60.907
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Stor oro såklart. Hur kommer detta sluta. Hur kommer detta påverka Sverige. Kommer kärnvapen använda…",
+        "date": "13 mars 2022",
+        "author": "Viva",
+        "url": "https://minnen.se/tema/krigetiukraina/19113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

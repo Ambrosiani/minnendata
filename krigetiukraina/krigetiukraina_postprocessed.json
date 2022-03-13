@@ -19039,5 +19039,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00246",
+    "contributor": {
+      "display_name": "Viva"
+    },
+    "created": "Sun, 13 Mar 2022 12:08:49 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 12:08:49 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19113",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a5b991b1-3e29-46cb-b0ce-58d45c526f47",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "display_value": "1959",
+        "modified": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "45c9cdef-deac-4416-a0e3-177f7d7280dc"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "display_value": "Väldigt skakigt. Men jag litar på vår regering. Är tacksam att inte Trump är president i Usa.",
+        "modified": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e03556f6-b05d-4d83-aefc-439b7bb55dc2"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "display_value": "Stor oro såklart. Hur kommer detta sluta. Hur kommer detta påverka Sverige. Kommer kärnvapen användas. Vad vill Putin egentligen. Hur långt är han beredd att gå? Stackars Ukrainare.",
+        "modified": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6b185341-64a7-4aed-8321-792a721c525f"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "display_value": "Tycker synd om dom som är unga. Nu, när pandemin är lugn så skulle vi ju njuta av friheten och våren. Inte oroa oss för ett 3dje världskrig.",
+        "modified": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c5487cb4-1717-4040-9116-4390fd95e4af"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "display_value": "Försöker låta bli att läsa om det. Jag kan inte göra något och det skapar bara ännu mer oro. Stoppar huvudet i sanden nu.",
+        "modified": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ea4720c6-87d7-495a-bbf0-8475a0790c3d"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "display_value": "Via dagstidning.",
+        "modified": "Sun, 13 Mar 2022 12:08:49 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "fdb1cf7f-3e2b-4ef0-8f7e-7b31a2479888"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
