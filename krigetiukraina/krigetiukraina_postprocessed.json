@@ -19150,5 +19150,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00248",
+    "contributor": {
+      "display_name": "Jeanna Qvarnström"
+    },
+    "created": "Sun, 13 Mar 2022 13:50:18 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 13:50:18 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19115",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "e9992dd8-22e9-4ab4-b30b-6292c0373c70",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "display_value": "1947",
+        "modified": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "3dea9fa5-5266-4d0a-9fc9-d25a6e197fa3"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "display_value": "Jag tror det kan bli krig i Sverige och Finland om Rysslands resurser räcker.\nPutin är tiĺlröckligt galen och respektlös.\nDärtill paranoid. Han låtsas i alla fall tro att västländer vill skada hans land och att de måste försvara sig.\nHan är smart också, feg och djävulusisk.",
+        "modified": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "58481fc6-ebc0-4b4a-a2ca-859fa96f0451"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "display_value": "Jag lider av varje ord om detta fruktansvärda övergrepp på människors och djurs liv.\nLivet har blivit en kaosartad film\nDå det hela tiden pågår i tankarna och i mitt liv.\nHar packat en väska på hjul med viktiga saker och papper OM kriget kommer hit.\nPlanerar när och hur och var man flyr ..\nPutin har hotat särskilt Sverige flera gånger nu, på grund av Sveriges stödjande till Ukraina, med sanktioner mot Rysslands ekonomi, med skyddsvästar och pansarskott.\nPutin säger att Sverige står nu på listan över \"ovänliga länder\".\nOm vi går med i militäralliansen NATO kommer vi att drabbas av militär vedergällning. \nPutin har uppmanat Nato att inte bevilja medlemsstatus för Sverige och Finland m fl länder..\nOm så sker, svarar Ryssland på ett sätt som världen sent ska glömma.",
+        "modified": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6976fa2d-083d-4ad7-bb97-b16c1ea2ea58"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "display_value": "Flytta till säkrare plats i Sverige som internflykting!\nKanske sen vidare. Norge ...?\nEller stanna och dö?",
+        "modified": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b77ac01e-9d2e-46b6-8179-9b0c669d6e54"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "display_value": "Jag mår fysiskt illa, har känt så under några veckors tid. Flera dagar har jag inte kunnat äta.\nFörsöker tänka mig in i hur det könns att dö av bomber och granater. \nHur göra med hundar om det inte går att ta dem med i flykt? \nMåste i så faĺl hinna till ...veterinären!!!\nNär jag hör flygplan här över Sigtuna (nära Arlanda) undrar jag om det är så här stridsplan låter. \nJag ser på kartan ofta, hur ukrainska folket kan fly, hur vi i Sverige kan ...\nMina hundar märker att jag är orolig och rastlös.\nHar mardrömmar v a r j e natt.\n\nUkrainska folket är både fredligt och krigståligt, försvarar sig segt och tappert.\nMen allt oftare tänker jag \"Kasta in handduken! Sluta försvaret! Låt Ryssland ta över, för att spara liv ocJagh diskutera sen!\"\nEtt liv är mer värt än principer!\nBarnen och djuren bryr sig inte om\nprinciper!",
+        "modified": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9c58581f-da1f-4055-b512-5a7146f04b2c"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "display_value": "Jag följer nyheterna .. Situationen mellan Ryssland och Ukraina nämndes allt oftare ..När Sverige representanter och pressen tog upp det som \"allvarligt\" läste jag mer, samtidigt som det talades om \"särskild militär operation\" från Rysslands (Putins) sida, istället för invasion mot Ukraina.\nJag upplevde plötsligt att jag fick en \"snyting\", dvs som om någon slagit mig rakt över näsan. Det brände till. \nVeckorna innan det talades om någotdera, hade jag skrivit på Facebook om hur jag som barn fick höra att Ryssland kan vara farligt.\nJag förstod att man inte får \"reta Ryssland\". \nVarför jag skrev så innan invasionen, undrar jag själv.\nJag kommenterar sällan dagsnyheter på Facebook.\nVar inte då medveten om vad som skulle komma! \nIntuition?",
+        "modified": "Sun, 13 Mar 2022 13:50:18 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "5209e21e-b945-43aa-a32b-9711e4f8e62d"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
