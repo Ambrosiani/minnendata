@@ -2544,6 +2544,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är så grymt. Omvärlden gör mycket, samtidigt inte tillräckligt, för att få ett stopp på kriget. …",
+        "date": "13 mars 2022",
+        "author": "Erik",
+        "url": "https://minnen.se/tema/krigetiukraina/19119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.951,
+          64.75
+        ]
+      }
     }
   ]
 }

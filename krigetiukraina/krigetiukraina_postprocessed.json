@@ -19322,5 +19322,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00251",
+    "contributor": {
+      "display_name": "Erik"
+    },
+    "created": "Sun, 13 Mar 2022 16:13:05 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 16:13:05 GMT",
+    "position": {
+      "latitude": 64.750244,
+      "longitude": 20.950917
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19119",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "472449f0-5176-44bf-a7d5-e06fbf0622f1",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "display_value": "1972",
+        "modified": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "2e1bc0dd-a6e2-4f63-ac7c-14cae9df2afe"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "display_value": "Är en aning orolig för att vår välfärd blir sämre. Att det helt enkelt blir dyrare med allt från livsmedel till boende. Om kriget sprids ytterligare så är det riktigt illa. Och skulle kärnvapen komma till användning är det omöjligt att se vad det skulle få för konsekvenser. Även om inte Ryssland skulle utvidga kriget, finns det andra konflikter kriget kan smitta av sig på. Att någon annan passar på nu i orostider. Typ som att Vietnamkriget, Balkankriget och situationen i Afghanistan har \"runnit över\" tidigare.",
+        "modified": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "d498de84-7798-4eea-aba0-9bd5110cce31"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "display_value": "Det är så grymt. Omvärlden gör mycket, samtidigt inte tillräckligt, för att få ett stopp på kriget. Men vad ska det bli en för fred? Vad kommer ur detta?\n\nBehöver NATO gå in militärt? Som historialärare ser jag vissa likheter med tidigare krig. Och frågan är om en internationell allians av något slag behöver intervenera, tvinga Ryssland att ge sig och eventuellt begränsa landets militärt, likt Tyskland efter 1945. Men som sagt, vad kommer ur det?",
+        "modified": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6841def7-d2dd-4612-9987-10f6d64dbe75"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "display_value": "Vi står inför ett paradigmskifte. Vad som än följer på detta krig, kommer vi att påverkas så pass, att generationer efteråt utvecklar ett nytt förhållningssätt till världen. Etiskt, ekonomiskt, politiskt och ekologiskt kommer vi fram till nya synsätt och värderingar. Om det blir en tillbakagång eller utveckling framåt är svårt att säga. Jag hoppas på en utveckling till det bättre. Där demokratisering sprids, där hållbara ekonomiska lösningar finns och att ny fattigdom kan begränsas. I bästa fall.",
+        "modified": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "681ec60e-6f35-4a73-af37-aa28d1384895"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "display_value": "Just nu är det bensinpriserna. Och viss oro att allt kommer bli dyrare. Och om flyktingar kommer hit, hur kan vi hjälpa på bästa sätt? Jag är inte så orolig för att kriget kommer hit. Men det kan innebära olika begränsningar ändå. Ungefär som pandemin. Det kan bli svårt att resa utomlands. Eller ransonering av varor. Och försämrad samhällshjälp, t ex brandkår, sjukvård, polis etc, som kan få viktigare uppdrag pga kriget.",
+        "modified": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "d49ed438-6e09-452b-892e-6c029f5bb06c"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "display_value": "Det var på morgonen. Nyhetssändningarna på SVT. Det gjorde mig bedrövad. Det kändes som att kriget skulle kunna sprida sig till fler länder.",
+        "modified": "Sun, 13 Mar 2022 16:13:05 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "03a6b3f8-0d60-4ac8-950e-24e85d0388bd"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
