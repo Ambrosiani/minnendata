@@ -2560,6 +2560,22 @@
           64.75
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är chockad, på ett positivt sätt, av det ukrainska folkets motståndsvilja. Zelenskyys ledarstil …",
+        "date": "13 mars 2022",
+        "author": "Maria Månsson",
+        "url": "https://minnen.se/tema/krigetiukraina/19121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.015,
+          55.721
+        ]
+      }
     }
   ]
 }

@@ -19433,5 +19433,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00253",
+    "contributor": {
+      "display_name": "Maria Månsson"
+    },
+    "created": "Sun, 13 Mar 2022 17:32:21 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 17:32:21 GMT",
+    "position": {
+      "latitude": 55.72076837690179,
+      "longitude": 13.014992534947195
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19121",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "c1625f92-9483-4ea7-9f23-7e2106b24039",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "display_value": "1966",
+        "modified": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e2f1a3cb-4850-480e-af9d-1531a51c53d4"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "display_value": "Världen är galen, både i det lilla och i det stora. Vi har haft och har en världsomspännande pandemi, och ett inte oväsentligt antal skitskallar förnekar dess existens och/eller vägrar ta ett praktiskt taget ofarligt vaccin mot sjukdomen. Folk köper exakt vilka ovetenskapliga, råkorkade \"argument\" som helst. Det är mycket intressant att notera hur vaccinmotståndarna också i hög grad omfamnar de proryska narrativen. Det är skrämmande hur sjuka \"slutsatser\" som dras. \nEn grupp som kallar sig Freedom Fighters manar till väpnad kamp, och att alla Män ska försvara alla kvinnor, oklart mot vad. Deras uppfattning om manlighet hade varit reaktionär på neanderthalarnas tid. Ett stort antal larvpottor till kvinnor beundrar dem. Mina gamla gosedjur har mer machismo än dessa Freedumb fighters. De dönickarna skulle dö med nedsölade byxor efter tre minuter i Mariupol.",
+        "modified": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "6e09e9f6-8091-4037-ae1d-02ea7b433d65"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "display_value": "Jag är chockad, på ett positivt sätt, av det ukrainska folkets motståndsvilja. Zelenskyys ledarstil är också ett enormt positivt inslag. Det är fullt möjligt, tom troligt, att han spelar rollen som krigsledare, men det är det hans nation behöver. Om han hade flytt när USA erbjöd sig att evakuera honom hade kriget varit över nästa dag.\nDet Ryssland gör, eller, rättare, det Putin gör är vidrigt. Alldeles oavsett vilka svepskäl man angivit officiellt eller använt för att övertyga sig själv är det vidrigt. Och alla de som går i Rysslands ledband och tjafsar om ukrainska nazister är lika mycket krigsförbrytare som Putin själv.",
+        "modified": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "d5133217-2b2e-4314-bbea-b1df34f56d9c"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "display_value": "Jag har alltid haft en cynisk inställning till människosläktet, och den har fördjupats. Folk i gemen är kriminellt korkade, och blir bara dummare. Jag hoppas att mina barns generation vänder utvecklingen, vilket kommer att kräva våld.",
+        "modified": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "8a5bfeca-8805-46db-8de0-b0456e5666cc"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "display_value": "Jag påverkas inte mycket, vare sig mänskligt eller i jobbet. Mina barn, 14 och 19 år, är lite rädda, men delar mest memes. Det finns annat att bekymra sig för i deras ålder. Maken är panikslagen, letar dagligen efter nödradio och vattendunkar i butiker. Jag är tämligen övertygad om att Putin inte kommer att anfalla något annat land. Om han hade kunnat dra sig ur Ukraina utan att framstå som en krigsförbrytare och idiot samtidigt hade han gjort det.",
+        "modified": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "63c9be52-0ab7-4567-9539-313d4d0acec6"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "display_value": "Jag fick en nyhetsnotis i telefonen, från Ab eller DN, och fick en chock. Det var inte oväntat men ändå otroligt. Man gör bara inte så, attackerar en grannation utan anledning.",
+        "modified": "Sun, 13 Mar 2022 17:32:21 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "7dcdf820-0e10-4dce-b7f3-d701c9d80dba"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
