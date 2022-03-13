@@ -19257,5 +19257,70 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00250",
+    "contributor": {
+      "display_name": "Amerikanen"
+    },
+    "created": "Sun, 13 Mar 2022 15:41:51 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 15:41:51 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19118",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "808ac018-b5a5-4070-8f02-5a754e662662",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 15:41:51 GMT",
+        "display_value": "1993",
+        "modified": "Sun, 13 Mar 2022 15:41:51 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "c31a7182-b879-49b3-8531-aa65d3912f09"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 15:41:51 GMT",
+        "display_value": "Det är svårt att inte tänka på det. Samtidigt som man måste tänka på allt annat som pågår. Kommer kriget hit? Kommer Ryssland göra utfall mot oss? Är det säkrare att åka tillbaka till USA? Kanada kanske? Det finns tusen tankar på det som kan fysisk påverka  sig själv och sina närmaste, samtidigt som man känner verkligen för de som redan påverkas och flyr. Finns det någonting jag kan bidra med? Kanske när flyktingarna tar sig upp hit till den små värmländsk byn vi bor i. Som med flyktingvågen i 2015/2016. \n\nJag undrar också om det var så mina förfäder kände. Jag härstämmer från bl.a Ukrainska flyktingar. Judar som flydde undan Krimkriget för så länge sedan. Det påverkade så mycket för dom. En del till det bättre! Men samtidigt tog det bara 3 generationer i ett nytt hemland för att den gamla kulturen skulle suddas ut. Farmor var den första som föddes där. Pappa själv ville inget veta om hennes sida familjen, och jag vet fortfarande inte varför. Mer än att det är för nära Ryssland för ett barn som växte upp under kalla kriget. Vi hade jämt läxor om var våra familjer kom ifrån, väldigt vanligt i USA. Varje gång jag frågade pappa om sin sida släkten berättade han bestämt om att vi var Amerikaner och inget annat. Läraren var en idiot om de inte kunde acceptera det till svar. När jag var äldre kunde jag fråga farmor själv. Hon berättade att de kom från Kiev och Odessa, hennes mor och farföräldrar. Att det pågick en krig. Men inget mer. Var det skam? Visste hon kanske inte så mycket mer? \n\n Jag vet så mycket om farfars sida släkten i jämförelse. Hur gammalfarfar sattes på Amerikabåten, själv, vid 4års ålder för att träffa sin storebror (11) i New York. Resten av familjen skulle följa efter allt eftersom de hade råd för att komma undan den växande antisemitism. Hur gammalfarmor kom från en grannby, men att de inte träffades förräns de var båda vuxna. Hennes pappa hade dött under första världskriget, och hennes mamma gifte om sig med en mycket äldre (pensionerad) och förmögen Colonel. Med det kunde de flytta till USA och bo i ett av de finare områden. Gammal farfars familj hade etablerat ett bageri, och han brukade leverera bröd och sånt till dom. Det lät alltid så charmigt när jag var barn. Jag var själv vuxen när jag fick reda på att gammal farmor Rose hade inte bara en syster, utan 11 halvsyskon också. Men ingen i familjen vet vad de hette eller vad som har hänt någon av dem. Vi har bara en gammal svartvit bild. Det är något konstigt med att veta att man har släktingar utspridd över hela världen, utan att känna till dem alls. \n\nKommer det att vara så för de som flyr nu? Kommer de också att undra över sitt ursprung, de förhållanden som mamma, pappa, mor/farmor och mor/farfar aldrig prata om? Är det skam som håller dom tysta? Rädsla? Vilka delar av kulturen kommer kunna räddas för dom? Det är jobbigt att tillhör en kultur som man inte förstår, eller inte \"få\" tillhöra. Några av dom kommer troligtvis också flytta någon dag. Jag undrar ibland vad mina egna släktingar skulle tycka om att jag flyttade till Europa, när de riskerade allt för att fly undan den. \n\nGammalfarfar och gammalfarmor dog när jag var 6år gammal, de var 103 respektiv 98 år gammal. Jag har alltså träffat dom och räknas tydligen till 3e generationen född i USA. Men jag har aldrig någonsin känt att jag tillhör annat än \"Amerikan\". Jag är varken Ukrainsk, Ungersk, Österrikisk eller Tysk samtidigt som alla dessa (och fler) är delar i min historia. Delar av det som är jag. Känslorna är komplexa. Jag hoppas att vi kan omfamna alla dessa människor och se till att de räknas till \"svenskar\", de som vill stanna.",
+        "modified": "Sun, 13 Mar 2022 15:41:51 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "a14054a1-ab10-4f74-867f-0be53740469d"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 15:41:51 GMT",
+        "display_value": "Jag såg det via ett inlägg på Instagram, under lite slöskrollande en tidig morgon. En Ukrainska konstnär jag följer, som vanligtvis postar om sina miniatyrer, postade en film av sig själv med sin hund. I bakgrunden hörde man explosioner. Jag undrade om världen skulle ignorera det här. Likt det som hände i Krim några år sedan.",
+        "modified": "Sun, 13 Mar 2022 15:41:51 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d711e72f-3e7e-48d9-aaa1-efe06d8595ef"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
