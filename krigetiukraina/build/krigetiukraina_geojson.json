@@ -2592,6 +2592,22 @@
           62.687
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Går inte att beskriva … Har själv upplevt kriget i Finland på -40-talet! Bombplan, bomber, husrester…",
+        "date": "13 mars 2022",
+        "author": "Sirkka  Hamström",
+        "url": "https://minnen.se/tema/krigetiukraina/19124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.639,
+          59.859
+        ]
+      }
     }
   ]
 }
