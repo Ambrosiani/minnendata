@@ -2576,6 +2576,22 @@
           55.721
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har fortfarande samma känsla kvar, det blir ju bara värre.…",
+        "date": "13 mars 2022",
+        "author": "PeterssonBritt",
+        "url": "https://minnen.se/tema/krigetiukraina/19123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.392,
+          62.687
+        ]
+      }
     }
   ]
 }

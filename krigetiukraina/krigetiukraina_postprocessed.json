@@ -19544,5 +19544,223 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00254",
+    "contributor": {
+      "display_name": "Bengt Stenström"
+    },
+    "created": "Sun, 13 Mar 2022 18:13:09 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 18:13:09 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19122",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "4ac13bf5-c1f5-465f-b7bd-996f040198ed",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "display_value": "1954",
+        "modified": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "36b1ad4a-b86a-43ce-990f-1e34be4c0a3f"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "display_value": "Världen har fått sig en tankeställare om det samhälle vi lever i! Ekonomi, politik... Medmänsklighet...",
+        "modified": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ea169393-555f-4987-8058-7fa182e480eb"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "display_value": "Ett modernt samhälle mot medeltida krigsföring och stormaktsvansinne! Putin är Hitler 2.0, Breivik 2.0. Alla människor som måste fly och som dödas och skadas! Och det är som vanligt de mest utsatta i samhället som drabbas: barn, kvinnor, äldre, handikappade! Och man skjuter på allt, skolor, sjukhus, bostadsområden!\nZelensky är en sann ledare, en hjälte för sitt folk - men han står ensam!!",
+        "modified": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6745772d-d097-48be-81dc-7d7a2328d89d"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "display_value": "Med en sån galning som Putin vet man aldrig! Och det är helt andra vapen idag än tidigare! Kommer han att använda biologiska/kemiska vapen? Kärnvapen? Och efter Ukraina??? Vem tror att han slutar där??? Massor av ryska plan - Boeing etc - från Moskva/St Petersburg och andra platser till enklaven Kaliningrad - med sina kärnvapen - och åter, dag efter dag, timme efter timme!! Kolla Flightradar24. Estland, Lettland, Litauen nästa??? Finland??? Sverige??? Övriga världen???",
+        "modified": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "90292726-7fa8-48ec-b3bc-0f9b995d6434"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "display_value": "Vi påverkas av höjda priser. Oro - vad händer härnäst? Kommer vi att bli indragna i kriget?",
+        "modified": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "3d419214-086d-4eaa-b342-2263d3cec3cd"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "display_value": "Trodde inte det var sant när jag fick se det på tv!",
+        "modified": "Sun, 13 Mar 2022 18:13:09 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "b3633373-6110-49c0-85a9-ee8b2a1e7e82"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00255",
+    "contributor": {
+      "display_name": "PeterssonBritt"
+    },
+    "created": "Sun, 13 Mar 2022 18:14:24 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 18:14:24 GMT",
+    "position": {
+      "latitude": 62.68705868408848,
+      "longitude": 16.391517968749998
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19123",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "7b694325-899f-4ad8-b6e6-5c662e50af94",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "display_value": "1953",
+        "modified": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "2a10aa42-8992-4c6b-9692-8c8c16eda6ac"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "display_value": "Osäkert, oroligt, vet inte vad som väntas runt om i världen. Jobbiga känslor .. Tror inte någon önskar kärnvapenkrig då vi alla i världen blir drabbade av detta. Sverige är ett bra land att bo i. Vi ska inte vika oss för hur andra länder vill att vi ska agera. Europa reagerade kraftigt med sanktioner, mycket bra att visa sin avsky mot detta hemska krig.",
+        "modified": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "cbeb8183-887f-4c6e-9ac1-59e32b7117f0"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "display_value": "Jag har fortfarande samma känsla kvar, det blir ju bara värre.",
+        "modified": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "be7b749a-6c35-47e3-b08d-73c32cf1d478"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "display_value": "Hoppas på att unga personer får en bättre framtid, utan krig, om möjligt. Maktgalna människor ska inte få ha ledande positioner. Världen kommer att förändras men jag är osäker på hur .",
+        "modified": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "96305a52-af6b-44b5-aee0-6aa062585e7e"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "display_value": "Pratar mycket om det. Ventilerar tankar känslor inom familjen. Försöker leva som vanligt men svårt att kunna njuta av det lilla som man gjorde innan allt började.",
+        "modified": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "25c884c9-b807-4df2-ae8c-e0405ceff530"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "display_value": "Genom nyheterna på radion.blev fruktansvärt bedrövad och sorgsen. Inta ett annat fredligt land bomba hårt, ingen urskillning. Jag blev så illa berörd, fick tårar i ögonen. Tänkte på 2:a världskriget. Stora likheter där. Skrämmande. Känslan av att de civila blev slaktade utan pardon. Har mått dåligt till och från, sedan det började.",
+        "modified": "Sun, 13 Mar 2022 18:14:24 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "b1fe104e-cc04-4e3c-9403-9d84658ba1c8"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
