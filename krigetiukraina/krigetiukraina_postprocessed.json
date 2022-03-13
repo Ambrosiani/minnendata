@@ -18821,5 +18821,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00244",
+    "contributor": {
+      "display_name": "Kampfkartoffel"
+    },
+    "created": "Sun, 13 Mar 2022 09:15:06 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 13 Mar 2022 09:15:06 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19111",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "4a07f89f-3ff1-45ed-8704-e0f6452624f7",
+    "values": [
+      {
+        "created": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "display_value": "1984",
+        "modified": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "29f31ba2-fcdf-4710-b960-0d49cbe12d45"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "display_value": "Jag personligen är arg och frustrerad över folks oförstånd, det finns många som har sett att ett krig skulle komma, men politiker, massmedia (speciellt då SVT och Aftonbladet) och Putins \"nyttiga idioter\" har under flera decennier slagit ner på dessa som \"ryssofober\", \"krigsivrare\" och andra skällsord - jag är en av dem.  Sverige är totalt fredsskadat till den grad att vi inte längre kan se tecken på faror. Med tanke på hur ovilliga våra myndigheter och politiker har varit så kan jag inte låta bli att undra hur många av dem som är avlönade av Kreml.\n\nJag känner även en uppgivenhet över att folk skriker efter FN, man verkar inte förstå att det är en totalt tandlös organisation pg a Veto-rätten i säkerhetsrådet där Ryssland (som krigförande part) sitter som permanent medlem. Vilket får mig att inse att även den svenska skolan har misslyckats totalt sedan den blev kommunal - tack för den Göran Persson och sossarna.\n\nDet glädjande är dock att gemene man äntligen börjar förstå varför vi bör gå med i NATO.  Även om Kremls nyttiga idioter i form av Göran Greider och Jan Guillou (mannen som gav storhetsvansinnet ett ansikte) fortsätter sprida rena lögner och pro-rysk propaganda.\n\nI övrigt har Putin mer eller mindre enat EU och NATO genom sitt agerande, vilket i sig är bra- nu gäller det bara för våra politiker att ta sig i kragen.",
+        "modified": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "42bf4565-8062-4f8a-989a-3ecf75ce398e"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "display_value": "Kriget i Ukraina är ett krig som aldrig skulle ha fått hänt, men det har hänt med världens goda minne, vi gjorde samma misstag som världen gjorde innan Hitler gick in i Polen - för den delens skull så fortsätter världen göra samma misstag under kriget i stort - vi skickar vapen ja, men i stort tittar vi bara på. Med det sagt sa jag redan i mitten av december till en kollega att ryssen kommer få det tufft mot Ukraina - de har varit i krig sedan 2014 då ryssarna ( s.k. pro-ryska separatister) tog Krim, Luhansk och Donetsk, de har med andra ord förberett sig för krig sedan dess genom bland annat bygga upp sin armé, samövat med och tränats av västliga nationer samt andra försvarsförberedelser. \n\nI skrivandets stund påstås mer än 12000 ryska soldater fått sätta livet till och den ryska offensiven stannat av helt, ryssen sitter i skiten och Ukraina går till. Motoffensiv och mer eller mindre krossar de ryska förbanden. Men lyssnar man på public service i Sverige så är budskapet mer eller mindre att alla bör böja sig för den övermäktiga ryska björnen - man har helt skrivit in sig på en nederlagsdoktrin. Sveriges television tar in Putinister och rysslandsälskare som \"experter\" som Hirdman, vars budskap är låt Putin styra och ställa som han vill. Min spontana tanke är att det kanske är dags för SÄPO att rensa upp inom public service... Även de svenska myndigheterna och politiska partierna kanske ska ses över också.\n\nDet som händer är elände, speciellt för de civila, jag klarar själv inte av att tänka på den nivån längre eftersom det är så mycket misär och elände. Det beror på ryssens sätt att strida - om ryssen får minsta motstånd så går den direkt till attack mot civila, det har dom alltid gjort och det ser ut som att det aldrig kommer ändras, det finns liksom inget som är heligt, man bombar förskolor, barnsjukhus, sjukhus i allmänhet, bostadsområden utan någon som helst militär betydelse, man våldtar kvinnor skjuter civila på grymma sätt t ex ett äldre par som stannade för en rysk BMP2, de ryska fascisterna riktade tornet mot bilen och sköt med sin Akan mot bilen bara för skojs skull, bilen och paret blev helt söndertrasade. \n\nDet som händer kan inte beskrivas som annat än folkmord och etnisk rensning - väst tittar på. Biden, sleepy joe, ger Putin grönt kort att göra vad han vill genom att utannonsera att USA inte kommer att strida mot Ryssland i Ukraina - vi får väl se vad som händer de närmsta dagarna, skulle inte förvåna mig om Putler börjar använda kemiska vapen.",
+        "modified": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "31968ef7-03ac-482d-b176-0a189405c891"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "display_value": "En person skrev något väldigt roligt och tänkvärt om situationen: \"Det är ju ren matte. Ryssland får inte fram mat, ammo och bränsle och vill hem till mamma. Ukrainarna käkar jord, pissar fotogen har mer pansarvärn än det finns pansar att skjuta på och sjunger sånger om sina drönare. Kan bara sluta på ett sätt.....\". \nJag är väldigt säker på att Ukraina kommer gå segrande ur det här om inte Putin sätter in känvapen. Jag tror att det kommer stärka Ukraina och att de äntligen får bli medlemmar i EU, att de får tillbaks Krim och Donetsk och Luhansk.\n\nJag tror nämligen att det vi ser i det här kriget är Sovjetunionens sista ryck, Putin och hans hantlangare är uppväxta i den sovjetiska formen och har idealen och dess ambitioner med sig, efter honom finns generationer med friare ryssar - de som växt upp med tillgång till kommunikationsmedel som internet, som har drömmar om frihet och demokrati. Så jag hoppas och tror på en demokratisk utveckling i Ryssland också efter kriget - men först kommer vi nog se hela det sovjetryska korthuset rasa, kanske till och med delas upp i mindre länder.",
+        "modified": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a57ddd67-0737-4643-97dc-3b422880ca2c"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "display_value": "Jag följer kriget varje dag på flera olika sätt, har följt SVTs nedlagssändningar och kan konstatera att de far med osanning, överdrifter och beskriver allt som ett enda stort nederlag för Ukraina. Medan de andra källorna och utländsk media visar att Ryssland får storstryk av Ukraina. Kort sagt kommer jag väl få högt blodtryck pg a SVTs sändningar.  Iom att jag är aktiv inom försvarsmakten så försöker jag dra så mycket lärdomar som möjligt av kriget, men jag klarar inte längre av att tänka på de civila, utan jag måste följa kriget på \"det stora hela\" för att orka med.",
+        "modified": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "c26e9e84-cd74-46cf-85fa-ec885e86121b"
+      },
+      {
+        "created": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "display_value": "För mig kom inte kriget som någon överraskning, alla tecken på att Ryssland skulle komma att angripa ytterligare ett grannland där sedan länge.  Allra tydligast att det skulle komma att bli Ukraina igen, började det synas i slutet av november - början på december 2021 med en massiv upprustning kring de ukrainska gränserna mot Vitryssland och Ryssland - det var ungfär då våra politiker och massmedia så sakteliga började vakna upp ur sin fredsslummer. När ryssarna gick in över gränsen till Donetsk och Luhansk i samband med Rysslands ensidiga självständighetsförklaring för dessa regioner insåg jag att nu startar kriget vilken dag som helst - sagt och gjort så började ryssen fjärrbekämpa Ukrainska mål. Mina känslor kring det här var \"jaha, nu var det dags då\".",
+        "modified": "Sun, 13 Mar 2022 09:15:06 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "a0a97c4c-d652-4636-9e50-4feb3b6a6b1c"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
