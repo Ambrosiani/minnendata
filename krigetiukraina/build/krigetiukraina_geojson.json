@@ -2672,6 +2672,22 @@
           59.194
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Ledsen, arg, och orolig. Vad kommer att hända innan det här kriget är slut. Mest tänker jag på alla …",
+        "date": "14 mars 2022",
+        "author": "Jhonny Värdling",
+        "url": "https://minnen.se/tema/krigetiukraina/19135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.157,
+          65.585
+        ]
+      }
     }
   ]
 }
