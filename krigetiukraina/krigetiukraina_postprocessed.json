@@ -20095,5 +20095,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00262",
+    "contributor": {
+      "display_name": "Nestor"
+    },
+    "created": "Mon, 14 Mar 2022 12:45:52 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 12:45:52 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19132",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "238a4a62-78c3-441f-955e-e724e6e84c1f",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "display_value": "1991",
+        "modified": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "3fe2346d-f7a4-4a21-bc33-f970a92bd2b9"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "display_value": "Inte bra, men det har det inte varit under en lång tid.",
+        "modified": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "7462fbe1-9ead-4f37-85f0-2741ad4e29e2"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "display_value": "Hemskt såklart, men att folk är arga och bryr sig just nu, denna gång är selektivt och hycklande.",
+        "modified": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "a2973b85-0295-4b69-802c-059545822772"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "display_value": "Vi behöver fler alternativa medier som inte blir som en samatämmig kör varje gång ett USA affielerat land blir attackerat men som är helt tyst när USA och NATO bombar världen över jämnt. \n\nObalansen är propaganda.",
+        "modified": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "ea1c3a76-b704-4fd4-9296-3b3d26edd4c5"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "display_value": "Inte mer än andra krig, förutom den hetsen som genomförs i samhället ger en mer stress att hantera.",
+        "modified": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "703305f3-0c1a-49d1-a006-260bbdaa244e"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "display_value": "Överväldigad av media",
+        "modified": "Mon, 14 Mar 2022 12:45:52 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "826dd34e-2c46-49ee-a668-333591816de7"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
