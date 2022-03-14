@@ -20313,5 +20313,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00264",
+    "contributor": {
+      "display_name": "Ingela"
+    },
+    "created": "Mon, 14 Mar 2022 13:20:36 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 13:20:36 GMT",
+    "position": {
+      "latitude": 59.1943375,
+      "longitude": 17.7487898
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19134",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "102e0744-ebdb-45f1-abff-a31b28de8462",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "display_value": "1952",
+        "modified": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "445fa596-1bfa-4321-bc0d-bb05b5320cef"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "display_value": "Försöker att inte tänka för mycket utan följer med i media och se vad som händer. Jag hoppas att Putin tar sitt förnuft till fånga och slutar med invasionen av Ukraina.  En önskan är att alla ska få leva utan krig och elände samt att världens ledare istället samarbetar kring  frågor hur vi ska komma tillrätta med med jordens resurser och miljö.",
+        "modified": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "a3f3f34e-3996-46f3-b928-80a59bb644f4"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "display_value": "Har tänkt mycket på vara sommarbarn från Tjernobyl och våra vänner från Kiev. Tänkte  att Ukraina redan genomgått så mycket i samband med kärnkraftsverkshaveriet, strålningsskador, obrukbar mark osv så detta var det sista dom behövde. Jag hoppas att detta krig snart tar slut och att vi kraftsammlar och hjälps åt att återuppbygga Ukraina igen.  Sorg över alla döda och all förstörelse. Glad att så många hjälper till med insamlingar över hela europa till  Ukraina.",
+        "modified": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "08c930f1-6017-4945-aa9f-a51be8c6f3bf"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "display_value": "Både oro och tillförsikt. Försöker tänka positivt.",
+        "modified": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "512ffea4-3938-4cdc-bbc5-5ed28a3f7226"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "display_value": "Allt har blivit dyrare mat, bensin ,el mm men det är ett billigt pris jämfört med kriget i Ukraina. Naturligtvis är det oroligt när man inte vet hur det ska sluta. Det gäller och vara positiv och tänka framåt och samtidigt hjälpa till där man kan både ekonomiskt och praktiskt.",
+        "modified": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "810da931-9ac0-442d-93ca-090ae71843b4"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "display_value": "Har regelbunden kontakt med vänner i Polen. Vi har kontakt via WhatsApp där vi uppdaterar åt båda håll. Känner bara stor sorg över vad som nu pågår i Ukraina. Bidrar med pengar som oavkortat går till Ukraina.",
+        "modified": "Mon, 14 Mar 2022 13:20:36 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "0f290226-c325-4bdf-8c15-13fae50b30a7"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

@@ -2656,6 +2656,22 @@
           59.122
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Har tänkt mycket på vara sommarbarn från Tjernobyl och våra vänner från Kiev. Tänkte  att Ukraina re…",
+        "date": "14 mars 2022",
+        "author": "Ingela",
+        "url": "https://minnen.se/tema/krigetiukraina/19134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.749,
+          59.194
+        ]
+      }
     }
   ]
 }
