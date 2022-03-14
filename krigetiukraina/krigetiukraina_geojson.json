@@ -2736,6 +2736,22 @@
           59.438
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig hopplös, arg... det är så orättvist allt som händer i Ukraina idag i 2022.. Jag har u…",
+        "date": "14 mars 2022",
+        "author": "Saitarly Oksana",
+        "url": "https://minnen.se/tema/krigetiukraina/19139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.975,
+          59.44
+        ]
+      }
     }
   ]
 }

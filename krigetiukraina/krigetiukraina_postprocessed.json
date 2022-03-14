@@ -20868,5 +20868,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00269",
+    "contributor": {
+      "display_name": "Saitarly Oksana"
+    },
+    "created": "Mon, 14 Mar 2022 18:38:22 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 18:38:22 GMT",
+    "position": {
+      "latitude": 59.4395420703574,
+      "longitude": 17.974836679077146
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19139",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2ccbe6b7-ff98-4253-9983-12ac72696823",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "display_value": "1983",
+        "modified": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "0ba40897-54e8-4a48-8ac1-3ad86538a604"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "display_value": "Jag känner mig stolt över att jag är från Ukraina! Jag är stolt över min befolkning och president Zelensky.  Jag bor i Sverige idag och se att alla är imponerade av samma saker som jag är imponerad av.. Hur ukrainsk befolkning står emot ryssarna! Alla här i Sverige öppnar deras dörr och hjärter för de som flyr från kriget i Ukraina.. samtidigt växer hot mot ryssarna lite i hela världen.. och kanske de låter inte så fint men Jag personligen förstår varför det händer och bryr mig inte så mycket om det.. mera än hälften rysk befolkning stöter på din i hans handlingar..",
+        "modified": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f8e9df1c-ec02-4e35-b2f1-2b5d4c6c72b1"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "display_value": "Jag känner mig hopplös, arg... det är så orättvist allt som händer i Ukraina idag i 2022.. Jag har uppväxt där..mina föräldrar och två systrar med deras  familj finns kvar i Ukraina nu och vägrar att flytta därifrån.. de vill stanna där.. jag känner att jag vill vara där och hjälpa till, men jag är ensamstående mamma till en liten pojke och jag kan inte åka ditt nu.. \nJag vill tro att snart kriget är över..och Ukraina vinner.. Men än så länge så är jag bara jätterädd..",
+        "modified": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "952e1437-aa27-4079-b62c-e504a9835dac"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "display_value": "Jag är säkert på att Ukraina kommer bli en av dem mest respekterade länder i Europa så fort vi vinner mot Ryssland! Ukraina har en ljus framtid med Europa!",
+        "modified": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d209fe45-d44e-4cbb-bc50-2fcdc4f45a4c"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "display_value": "Min familj bo kvar i Ukraina och påverkas direkt av kriget. Det är jättemånga människor som flyr från öst och centrala Ukraina till västra Ukraina. Min familj bor nära Lviv.. Du är så det är många mammor med barn som kom och stannar hos mina systrar.. föräldrar.. grannar..",
+        "modified": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "69bce5c4-e5a1-45ac-b74a-7ce9d4b34aa1"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "display_value": "Jag kommer ihåg att jag vaknade det 6.30 på morgonen och fick meddelande från min kille den morgonen.. han skrev att han beklagar och då har jag förstått att Ryssland attackerade mitt land och började gråta",
+        "modified": "Mon, 14 Mar 2022 18:38:22 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "8eb25f9b-567a-45af-b4a1-0f76485b0089"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
