@@ -2640,6 +2640,22 @@
           59.512
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är oerhört ledsen och stressad. Ukraina blir förstört,  Ukrainas folk traumatiseras, folk flyr i…",
+        "date": "14 mars 2022",
+        "author": "Andreas Falk",
+        "url": "https://minnen.se/tema/krigetiukraina/19133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.097,
+          59.122
+        ]
+      }
     }
   ]
 }

@@ -20202,5 +20202,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00263",
+    "contributor": {
+      "display_name": "Andreas Falk"
+    },
+    "created": "Mon, 14 Mar 2022 12:50:13 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 12:50:13 GMT",
+    "position": {
+      "latitude": 59.1215599,
+      "longitude": 18.097336
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19133",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "181f3989-29a1-479f-96d9-86a61502754c",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "display_value": "1974",
+        "modified": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "97f0519c-7b1d-4b4f-8e3d-f9c1fac44446"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "display_value": "Vi lever plötsligt i en mycket osäker värld, där kärnvapenhotet åter igen är en hård verklighet. Protektionistiska och militärvurmande politiska krafter får medvind och i rädsla över läget börjar folk bli mer och mer benägna att ge stöd åt militär upprustning. Jag tycker att det är hemskt illa.\n\nOmtanke, medkänsla, generositet och altruism hamnar i skuggan. Öppenhet monteras ner.\n\nSamtidigt är det fantastiskt uppmuntrande att så många människor ställer utt, skickar pengar, kläder, mat, förnödenheter och även öppnar upp sina hem för de flyende. Medmenskigheten blommar,  mitt i allt.",
+        "modified": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "638ac8b3-fb5e-4c23-897b-e164acd571c0"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "display_value": "Jag är oerhört ledsen och stressad. Ukraina blir förstört,  Ukrainas folk traumatiseras, folk flyr inom landet och kvinnor och barn flyr så gott de kan utomlands, medan männen stannar kvar. Familjer splittras. Jag förstår Putins skäl, han verkar vilja återskapa ett Storryssland. Men jag förstår inte hur han tänker kring vad som händer efter att kriget bedarrat. De flesta länderna i världen vänder sig emot detta krig och stödjer Ukraina. Hade han inte kunnat ana det? Eller bryr han sig inte? Hur ska Putin kunna vara ledare för ett land som avskärs från omvärlden? Hur ska Ryssland fortleva, under vilka omständigheter ska ryska folket leva vidare?\n\nJag tänker oerhört mycket på Ukrainas folk som ny flyr runt om i Europa. Hur ska deras liv bli? Och hur kommer tillvaron för resten av världen att vara, om hotet om kärnvapen blir kvar framöver? Vi har levt länge i en förhållandevis fredlig värld. Men inte längre.",
+        "modified": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "498921bb-3918-4e35-bba1-fb47de34c224"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "display_value": "En hotfull tid präglad av rädsla och försvarsreaktioner. Militärt upprustning och en ny järnridån där kärnvapen är en reell del av hotbilden. Trots nedrustning finns enorma mängder kärnvapen kvar. Och även om de inte tas i bruk så är risken för ett nytt kallt krig, med många mycket mer högteknologiskt utvecklade militära aspekter, överhängande. Vad detta kommer att göra med människor och våra samhällen är jag orolig för.",
+        "modified": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a052c401-02f5-48b7-be56-aa82bc8e22f2"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "display_value": "Jag har mycket svårt att fokusera på vardagliga ting. Jag har varit många gånger i Västra Ukraina och tränat och instruera den japanska kampkonsten aikido och har fått många vänner där. I början oroade jag mig mest för dem, för hur de klarade sig och skulle klara sig framöver. Gradvis har min oro djupnat och vuxit, allteftersom Putins hot mot de länder som hjälper Ukraina och mot länder som Sverige som övervägt att ansöka om NATO-medlemskap. Oron har också en rot i Putins uppenbart stålsatta avsikt att driva igenom din plan till varje pris.\n\nJag är arbetslös och lever med sviterna av en lång och djup utbrändhet. Jag är skuldsatt och kan inte bidra med pengar. Jsg har funderat oerhört mycket på vad jag kan göra, hur jag kan hjälpa. Det upptar mycket av min vakna tid och jag börjar och avslutar varje dag med att lyssna på nyheterna om vad som hänt senaste timmarna, senaste natten, senaste dagen.",
+        "modified": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "f0ba817e-a143-4256-8b31-22ff1ce0243d"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "display_value": "Jag hade hört om Putins möjliga planer på en invasion en tid, så plötsligt morgonen då det hände nåddes jag av nyheter via radion. Jag satt hela förmiddagen och lyssnade på direktsändningar,  samtidigt som jag försökte nå mina vänner i Ukraina via messenger. Jag blev mycket upprörd över Putins beslut och handling och mycket orolig för mina vänner.",
+        "modified": "Mon, 14 Mar 2022 12:50:13 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "16b66423-79df-4fdb-9baf-909814acd89e"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
