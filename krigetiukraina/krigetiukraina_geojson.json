@@ -2688,6 +2688,38 @@
           65.585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Krig är alltid krig.  Jag och min familj flydde från en diktatur och var på flykt i nästan tre år.\nC…",
+        "date": "14 mars 2022",
+        "author": "Carlos De La Rosa",
+        "url": "https://minnen.se/tema/krigetiukraina/19136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.112,
+          56.198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Heder åt Ukraina som försvarar sig mot angreppet.\nJag hoppas att det hela slutar med en förändring i…",
+        "date": "14 mars 2022",
+        "author": "Lasse Blomqvist",
+        "url": "https://minnen.se/tema/krigetiukraina/19137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.394,
+          61.348
+        ]
+      }
     }
   ]
 }
