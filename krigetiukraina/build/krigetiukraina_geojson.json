@@ -2720,6 +2720,22 @@
           61.348
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det känns så fruktansvärt att att alla intressanta människor man har träffat i Ukraina förlorat sin …",
+        "date": "14 mars 2022",
+        "author": "Annika Yoko Stier",
+        "url": "https://minnen.se/tema/krigetiukraina/19138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07,
+          59.438
+        ]
+      }
     }
   ]
 }

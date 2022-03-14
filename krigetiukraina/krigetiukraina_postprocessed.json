@@ -20757,5 +20757,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00268",
+    "contributor": {
+      "display_name": "Annika Yoko Stier"
+    },
+    "created": "Mon, 14 Mar 2022 18:10:33 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 18:10:33 GMT",
+    "position": {
+      "latitude": 59.43800147859262,
+      "longitude": 18.070368831800895
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19138",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "1e1e4fb6-8af4-4424-a8a4-11536ea0986f",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "display_value": "1978",
+        "modified": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "23a04332-3074-4b7e-b8c8-b7ae40b01a2c"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "display_value": "Det är fantastiskt att se nästan hela världen gå samman i bli om fred. FN, befolkningar, kyrkövwrhuvuden, kändisar, grannar, vänner, ja alla protesterar och går samman för att hjälpa ukrainarna. Jag har aldrig sett maken till den kärlek och omtanke som nu visas av alla. Folk öppnar upp sina hem, donerar pengar och saker, ställer upp och kör flykingar dit de behöver.",
+        "modified": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e3bdcbc9-bdd9-4e0f-86a2-0b1e7176b505"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "display_value": "Det känns så fruktansvärt att att alla intressanta människor man har träffat i Ukraina förlorat sin vardag, sina släktinga och vänner för detta meningslösa krig. I denna globaliserade tid då alla nås av all världens information trodde jag aldrig att ett statsöverhuvud skulle ha mage att starta ett fullskaligt krig.",
+        "modified": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "dfe14fe1-9c49-4977-afb3-aac1d9986c21"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "display_value": "Jag tror att Europa kommer att rusta militärt, att folk kommer att bli alltmer russofobiska och rädda för krig.",
+        "modified": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "824fba1e-ca7f-4567-a3c0-5d8001cb14e1"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "display_value": "Min dotter, hennes far och jag oroar oss dagligen för släkten. Jag gråter en skvätt varje dag när jag läser tidningarna.",
+        "modified": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9fbcf1d1-ff98-4566-b520-d051b84a1dd0"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "display_value": "Jag surfade på nyheter och såg att det jag hade oroat mig för i två veckor hade skett. Jag skrev till min dotters ukrainska släkt två veckor innan invasionen att de borde fly, men ingen trodde att någonting skulle hända. Denna dag kändes det som om jag smälte genom golvet.",
+        "modified": "Mon, 14 Mar 2022 18:10:33 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "04c69563-c733-4066-b977-a51b37808a63"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
