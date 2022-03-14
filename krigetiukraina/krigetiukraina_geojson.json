@@ -2784,6 +2784,22 @@
           56.567
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är ofattbart på alla sätt: så många människor blivit inom kort slängts ut ur sina vanliga liv, b…",
+        "date": "14 mars 2022",
+        "author": "Marion",
+        "url": "https://minnen.se/tema/krigetiukraina/19142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.132,
+          57.137
+        ]
+      }
     }
   ]
 }

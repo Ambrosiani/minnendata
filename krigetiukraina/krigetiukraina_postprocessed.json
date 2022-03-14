@@ -21201,5 +21201,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00272",
+    "contributor": {
+      "display_name": "Marion"
+    },
+    "created": "Mon, 14 Mar 2022 22:17:48 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 22:17:48 GMT",
+    "position": {
+      "latitude": 57.137283983546034,
+      "longitude": 15.131675608375929
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19142",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "05d779cf-d191-4db5-9c1d-5279aabeafe7",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "display_value": "1969",
+        "modified": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "47c5f833-703c-433d-9939-30dc896901ec"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "display_value": "Sammanhalt och solidariteten är tröstande och ger mig kraft. Politikerna försöker att agera gemensamt. De flesta människor bryr sig och är engagerade, jag har svårt att förstå dem som gnäller och bara ser sina absurda vardagsproblem. Igår pratade jag t o m med någon ”putin-vän”, hon förstår att han gör så. Jag mådde illa när jag lyssnade på henne. Jag tror att Europa och världen står inför en stor utmaning, vi måste hitta ”ett gemensamt språk nu”. Det kan på lång sikt bli hur bra som helst. Om vi gör rätt…",
+        "modified": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "3331e4ac-6cd6-447b-a772-420c85b897a5"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "display_value": "Det är ofattbart på alla sätt: så många människor blivit inom kort slängts ut ur sina vanliga liv, blivit tvungna att söka skydd och fly. Hur många som har skadats eller dödats inom så pass kort tid, det är helt vansinnigt. Är vi inget värd? En enda idiot som skiter i människornas liv, som bara driver fram sin sjuka agenda kan orsaka så mycket lidande. Hur kunde det gå så här långt? I en dokumentär om förintelsen var det en som hade överlevd som sa ”Du är ansvarig för det du gör och det du säger. Men du är också ansvarig för det du låter bli att göra eller säga”. Är vi för ”toleranta” inför despoter? Blundar människan allt för länge i för det som inte går att ignorera? Toxic positivity på en livsfarlig nivå…\nDet är svårt att hålla stilla, något måste man väl göra. Vi kan inte bara sitta hemma och gnälla om bensinpriset? Vi har fortfarande ett hem, en säng att sova i. Inget flyglarm som tvingar oss att springa tinn närmsta skyddsrum. ”Tänk om vi alla bara åkte ner till Ryssland och orsakade världens största trafikkaos. Vad vill han göra? Skjuta ihjäl hela Europas bilister?” sa jag till min vän. Man kan inte bara sitta still och väntar. Efter några dagar ser och känner jag: allt fler tänker likadan och jag ser och känner plötsligt en kraft som jag inte trodde var möjligt: det växer en solidaritet med Ukraina (och med ryssar som vågar säga nej!) som ger mig hopp om att vi faktiskt har kraften att stå emot aggression och våld. Tyvärr kan vi inte förhindra den omfattande förstöring och inte heller de drabbades lidande. Men vi kan bygga en ny form av globalt samband där despoter och maktgiriga cyniker aldrig mer får plats. Det tröstar och jag vet att jag inte är galen, det är möjligt! Ångesten släpper trots allt inte riktigt. Och ibland påminner jag mig själv om att jag måste vara stark för de som inte kan just nu.\nBilderna från Ukraina gör ont, det är ofattbart hur mycket som har förstörts och hur må ga människor som lider - på grund av en enda jävla idiot. Mina föräldrar föddes i andra världskriget i Tyskland. De är gamla nu och blir konfronterad med sin gammal rädsla igen. Jag växte upp i ”kalla kriget” och trodde inte att hotet av en världskrig skulle kunna komma upp igen.",
+        "modified": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "498a78a9-9f71-4b3e-89a9-00e5930dd8e4"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "display_value": "Jag hoppas att vi lär oss denna lexa. Och jag hoppas att kriget snabbt slutar och inte sprider ut sig. Framtiden är just nu väldigt ovisst…",
+        "modified": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "1f1cd1c6-4b00-4f93-975a-22fc896d3b24"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "display_value": "Ångesten är ibland jobbigt att hantera, priserna oroar ibland - hur långt kommer det gå? Kan jag klara mig om några månader? Att se mina föräldrar hjälplösa och rädda som små barn är tungt.\nJag har lämnat in några förnödenheter och varma kläder, donerad pengar till en stor hjälporganisation. Snart hoppas jag att kunna stötta människor som flydde till Sverige. Ich jag hoppas, varje dag att vansinnet kommer sluta snart.",
+        "modified": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "336e7da5-3c3b-4f31-8088-841cd07e260d"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "display_value": "Jag hörde den första nyheten om att Putin planerade en ”militär insats i Ukraina och strax efter det rapporterades explosioner på olika orter i landet. Av någon anledning kändes det hotfull från början och dagen efter förstod jag att det handlade om ett riktigt krig och att det skulle ha stor påverkan av Ukrainas befolkning. Jag började också bli rädd då jag förstod att Putin använde en retorik och ”förklaringar” som påminde om tiden då Hitler anföll Polen vilket ledde till andra världskriget. Det var 1939, sju månader efter min pappa föddes. \nPolitikernas min när de visades i nyheterna bekräftade min känsla av rädsla. Aldrig innan har Macron sett så allvarligt gt ut som i slutet av februari och Scholz såg nästan förtvivlad ut.",
+        "modified": "Mon, 14 Mar 2022 22:17:48 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d459246a-80dc-40d5-97c1-26556939ddc6"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
