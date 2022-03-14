@@ -19984,5 +19984,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00260",
+    "contributor": {
+      "display_name": "Axelsson Anette"
+    },
+    "created": "Mon, 14 Mar 2022 07:57:10 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 07:57:10 GMT",
+    "position": {
+      "latitude": 59.5120962,
+      "longitude": 15.9945102
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19128",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "50527d40-2341-4790-bdd1-4cde4d2a25df",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "display_value": "1962",
+        "modified": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8c3502c3-cb87-41f2-83e9-4dda4c6f1a7c"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "display_value": "Ostabilt osäkert runt om i hela världen och här.",
+        "modified": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "297b6aeb-c5a9-49c0-97ec-298efe9ed01d"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "display_value": "Går inte att beskriva i ord. Att på så nära håll bevittna dessa sinnessjuka övergrepp och samtidigt veta att du inget kan göra för då riskeras hela vår planet. Finns inte ord. Putin är en värsta sortens krigsförbrytare och han ska straffas för det han gjort. Korsfäst honom på ett torg i ukraina och låt alla de som nu lidit pga honom , ta hand om honom.  Putin har förverkande sin rätt att finnas på denna planet!",
+        "modified": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "9f415c56-8a40-4409-833f-e2600b56a6bd"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "display_value": "Vi måste ta ställning till att gå med i Nato, trots att det inte känns som något jag jublar över. Putin tvingar oss till det, för vem vill väl hamna under hans regim.",
+        "modified": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a839b002-4a33-44d3-b791-2fa410813728"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "display_value": "Finns många krigsföra pojkar i min familj. Oroar mig för dem. Vi är utspridda och varje dag går jag igenom ( i mitt huvud) hur vi ska mötas och samlas vid ett ev krig.",
+        "modified": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "b19c0c95-c60d-424c-8908-cc40a478e494"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "display_value": "Det hade upplysts i media att Putin hotade Ukraina med krig. Till följd av det lyssnade jag på alla nyheter jag kom åt. När hans invasion och krig var ett faktum var det som om något gott inom mig flög sin kos. Jag blev först väldigt tom inombords , rädd och fruktansvärt arg. Mina första tankar handlade bara om hur kan vi stoppa Putin.",
+        "modified": "Mon, 14 Mar 2022 07:57:10 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "830c8563-5129-40bb-8e0b-8a0f6f1baae1"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
