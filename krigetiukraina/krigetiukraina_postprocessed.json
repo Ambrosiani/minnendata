@@ -19873,5 +19873,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00259",
+    "contributor": {
+      "display_name": "Rasmus Hjelm"
+    },
+    "created": "Mon, 14 Mar 2022 06:11:27 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 06:11:27 GMT",
+    "position": {
+      "latitude": 58.41080700000001,
+      "longitude": 15.6213727
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19127",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "644bb6ae-26bb-4b27-a007-26f062668f2d",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "display_value": "1995",
+        "modified": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "084fc5ad-aa69-4058-a310-9e2ed3709d16"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "display_value": "Mänsklighetens historia har inte tagit slut ännu. Politiskt kaos, folkvandringar, nödår, pandemier och krig är någonting som vi aldrig är helt förskonade från (om vi inte tar Star Trek till vår ledstjärna någon dag - eller om vi angrips av illasinnade utomjordingar och enas mot det yttre hotet).",
+        "modified": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0e4b6003-99be-40cf-8d79-d3dc3349dd19"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "display_value": "Det är givetvis alltid hemskt med krig. Speciellt för de civila. Men det som händer i Ukraina är bara en del av en långtgående intressekonflikt mellan Västvärlden och Ryssland+Allierade. Det har till största delen utspelat sig i Mellanöstern fram tills nu. Men ju närmre hotet om krig är, desto oroligare blir vi ju.",
+        "modified": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e54410de-a4f7-4449-86b8-caeb00d78408"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "display_value": "Om inte f.f.a Kina och Ryssland går samman i någon slags allians, så kommer det som sker i Ukraina att lägga sig ganska snart. Exakt vilka följder allt detta får är svårt att uttala sig om - men några skickliga finansmän kommer säkerligen att tjäna på allt elände. Så som oftast i krig. Fotfolket är enbart shackpjäser för detta ändamål.",
+        "modified": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a9f8d820-c153-4726-b539-6e42a309620d"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "display_value": "Vi påverkas inte ännu särskilt mycket, annat än psykiskt. Men rent ekonomiskt kan det bli kännbart tids nog.",
+        "modified": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "f9112b26-dbe1-4c94-9bda-5d07d1b02dbc"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "display_value": "Det dök upp på förstasidan av youtube. Till en början trodde jag enbart att det rörde sig om fortsatta stridigheter på de ställen som varit i konflikt sedan 2014.",
+        "modified": "Mon, 14 Mar 2022 06:11:27 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "23715f03-bac9-48c1-a30f-750c1d8cca19"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

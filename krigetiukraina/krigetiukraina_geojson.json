@@ -2608,6 +2608,22 @@
           59.859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är givetvis alltid hemskt med krig. Speciellt för de civila. Men det som händer i Ukraina är bar…",
+        "date": "14 mars 2022",
+        "author": "Rasmus Hjelm",
+        "url": "https://minnen.se/tema/krigetiukraina/19127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.621,
+          58.411
+        ]
+      }
     }
   ]
 }
