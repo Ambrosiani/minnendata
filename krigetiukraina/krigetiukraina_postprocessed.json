@@ -20979,5 +20979,227 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00270",
+    "contributor": {
+      "display_name": "En mamma"
+    },
+    "created": "Mon, 14 Mar 2022 21:21:44 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 21:21:44 GMT",
+    "position": {
+      "latitude": 57.7036372,
+      "longitude": 12.4460308
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19140",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "c0e5326c-b78b-4bf2-b4e1-c492905ca6b2",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "display_value": "1985",
+        "modified": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "1a6d3c00-7f49-4bed-bb5b-3a1589722a53"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "display_value": "Att det är ofattbart, har mänskligheten inte kommit längre? Jag är besviken på ryssarna som inte gjort sig av med Putin för längesen. Även att resten av världen har låtit honom hållas.",
+        "modified": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e1520f4a-edec-44f2-ae58-dde41d747048"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "display_value": "Mycket arg. Ledsen och sorgsen. Orolig. Det gör ont att tänka på alla dessa människor som drabbas. Barnen. Att behöva fly för sitt och sina barns liv, lämna sin man och pappan. Det påverkar mig väldigt mycket. Det sista jag gör innan jag somnar och det första jag gör när jag vaknar är att läsa nyhetsuppdateringar. Jag är så arg för att några få maktgalna och empatilösa män kan och tillåts förstöra något så enormt för så många.",
+        "modified": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "75847567-ad08-48b3-922f-13c94f0749b9"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "display_value": "Jag vet inte riktigt, tycker framtiden är väldigt svår att sia om nu. Jag är inte direkt orolig att det ska bli krig i Sverige, men å andra sidan trodde jag inte att Putin skulle invadera Ukraina heller. Så länge Sverige klarar sig utan krig kommer jag och min familj klara sig bra. Men jag oroar mig för samhället i stort, att det kommer att kosta mycket. Jag har en dotter med adhd och är redan orolig för hur det ska gå för henne i skolan, om hon kommer få rätt stöd. Nu är jag än mer orolig för det, med tanke på de stora ekonomiska utgifterna som Sverige kommer stå inför. Det är svårt att planera inför framtiden. Vi skulle precis starta upp en renovering hemma, men vågar inte riktigt det nu när vi inte vet hur det kommer bli med ev krig, räntor etc. Vågar vi boka semesterresan till Spanien i sommar? Bör vi spara pengarna istället? Kommer vi klara en eventuell kraftig räntehöjning? Jag är föräldraledig nu, jag får börja jobba igen innan räntorna höjs. Är rädd för hur Sverige ska kunna hjälpa alla. Skolan och vården som redan är eftersatta. Är rädd för att totalförsvaret innebär att ingen av oss kommer att få fly med våra barn vid händelse av krig. Ska vi fly ändå? Barnen är nummer ett, blir det krig så måste de ut. Vi har rätt nyss köpt hus och har inte mycket kontanter, kommer vi ha råd att fly? Vi skulle ju jobba upp en buffert de närmaste åren, hur blir det med det nu? Huset är ju inte värt mycket i händelse av krig, och det är i huset våra pengar sitter…",
+        "modified": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "88b80f3e-5f20-4cfa-b95d-2f80cee79337"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "display_value": "Jag har fått sämre sömn. Tänker mycket på kriget. Det påverkar mitt humör. Försöker förklara för barnen, lagom mycket, och även lugna dem. Jag försöker tänka på annat för det hjälper inte att jag gräver ner mig för mycket. Vi diskuterar vad vi kan göra för att skydda oss. Dyrare bränsle till bilen, även maten lär bli dyrare snart. Vi kommer ha råd ändå, så det är ingen jättestor oro.",
+        "modified": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "04d44776-c17b-4a5c-abc8-36e53ccc2f97"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "display_value": "Pratade med min mamma i telefon som berättade. Jag rös och trodde knappt det var sant. Även om jag länge tyckt att Putin är en maktgalen och livsfarlig idiot, hade jag inte trott att han skulle invadera Ukraina. Det känns så medeltida, Vem gör sånt 2022? Efter samtalet satte jag på SVT och nyhetssändningarna. En overklig och nästan illamående känsla, och framförallt fruktansvärt mycket ilska. Första veckan var jag påtagligt arg, arg över alla dessa människor som drabbas. Ilska över män generellt, blev nästan till och med arg på min man.",
+        "modified": "Mon, 14 Mar 2022 21:21:44 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "b3b87e77-1c36-4c05-94c4-0c083d4db858"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00271",
+    "contributor": {
+      "display_name": "Margarete"
+    },
+    "created": "Mon, 14 Mar 2022 21:27:50 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 14 Mar 2022 21:27:50 GMT",
+    "position": {
+      "latitude": 56.567212269061805,
+      "longitude": 15.895089246560316
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19141",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "73b562c1-1084-42f8-b0d6-2baf4b367752",
+    "values": [
+      {
+        "created": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "display_value": "1963",
+        "modified": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "81c450a4-bd47-40c3-b896-b1f12a137a60"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "display_value": "Osäkerhet",
+        "modified": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "16699526-7b9c-42ae-9071-33496add0ca5"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "display_value": "Svårt att beskriva då det är alla möjliga känslor som dyker upp. Arg, förtvivlad, ledsen, rädd med mera. Det enda som inte har kommit upp är panik.",
+        "modified": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "2f69daca-8571-4945-ac0a-1dfa46bfa7c3"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "display_value": "Tyvärr tror jag att Ryssland kommer överta hela Ukraina.",
+        "modified": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "e99190d7-374d-4e66-a410-8b1f1315a469"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "display_value": "Jag själv påverkas endast av nyheterna från Ukraina på alla sätt som beskrivit i frågan innan. Pappa (87) däremot mera även om han inte utåt vill vissa det.",
+        "modified": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "83413ac0-0162-40cb-aabf-738baddf3997"
+      },
+      {
+        "created": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "display_value": "Fick med det genom nyheterna i tidningen Barometern och genom tv.",
+        "modified": "Mon, 14 Mar 2022 21:27:50 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "aa508bc5-6192-4f5b-ab30-cec7aa77e052"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

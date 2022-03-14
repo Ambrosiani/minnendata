@@ -2752,6 +2752,38 @@
           59.44
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mycket arg. Ledsen och sorgsen. Orolig. Det gör ont att tänka på alla dessa människor som drabbas. B…",
+        "date": "14 mars 2022",
+        "author": "En mamma",
+        "url": "https://minnen.se/tema/krigetiukraina/19140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.446,
+          57.704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Svårt att beskriva då det är alla möjliga känslor som dyker upp. Arg, förtvivlad, ledsen, rädd med m…",
+        "date": "14 mars 2022",
+        "author": "Margarete",
+        "url": "https://minnen.se/tema/krigetiukraina/19141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.895,
+          56.567
+        ]
+      }
     }
   ]
 }
