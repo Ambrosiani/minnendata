@@ -24800,6 +24800,22 @@
           59.257989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Klockan är 07.00 och mitt alarm har ringt i en timme. Mamma skriker på mig att jag är sen och jag ut…",
+        "date": "15 mars 2022",
+        "author": "Matilda",
+        "url": "https://minnen.se/tema/endagimittliv/19144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.179597,
+          59.257989
+        ]
+      }
     }
   ]
 }
