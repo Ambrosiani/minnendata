@@ -2832,6 +2832,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det känns overkligt. Hjärnan vill inte tro på det.  Kroppen reagerar med stress och panik attack. In…",
+        "date": "15 mars 2022",
+        "author": "Anna",
+        "url": "https://minnen.se/tema/krigetiukraina/19148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.157,
+          56.029
+        ]
+      }
     }
   ]
 }

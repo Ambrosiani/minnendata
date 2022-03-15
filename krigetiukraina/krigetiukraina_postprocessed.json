@@ -21534,5 +21534,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00275",
+    "contributor": {
+      "display_name": "Anna"
+    },
+    "created": "Tue, 15 Mar 2022 14:28:47 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 15 Mar 2022 14:28:47 GMT",
+    "position": {
+      "latitude": 56.0293936,
+      "longitude": 14.1566778
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19148",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "dc66ca53-52a4-45d6-87c3-5352bc394f67",
+    "values": [
+      {
+        "created": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "display_value": "1987",
+        "modified": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "9f0f8f9e-4fef-4823-8f79-dd11aa8b6939"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "display_value": "Shock.  Hela världen skakar. Människor står framför en global katastrof.",
+        "modified": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "d2539eb6-d770-40d6-9174-b5b220bdc54d"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "display_value": "Det känns overkligt. Hjärnan vill inte tro på det.  Kroppen reagerar med stress och panik attack. Ingen bra sömn på nätterna.  Ångest.  Oro. Osäkerhet.  Ilska.",
+        "modified": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "f40cd8e4-5698-4548-a6d1-98b49eb06505"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "display_value": "Kriget har fött en stark nation som kallas Ukrainare. Fria och stolta. Starka både i kroppen och själ.  Ukraina kommer att börja sin utveckling mot det europeiska samhället efter kriget.",
+        "modified": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "ce52c284-7955-46a1-8381-7bb8d742017a"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "display_value": "Vardagen har  blivit helt annorlunda.  Det finns ingen lust att laga mat eller städa. \nJag märkte att jag har inte skrattat sen dagen kriget började. \nSläkt och vänner som är kvar i Ukraina känner oro. Man vet inte vad som kommer att hända imorgon.  Mat fornminnen från affärer. Volontärer hjälper.",
+        "modified": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "d2c15d91-f635-4938-9026-c1bc4ef814c0"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "display_value": "På morgonen den 24/2-2022 fick jag veta från nationella ukrainska tv nyheter om rysk invasion.",
+        "modified": "Tue, 15 Mar 2022 14:28:47 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "19f61cce-21e8-4e28-b7f7-72b9237d5634"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
