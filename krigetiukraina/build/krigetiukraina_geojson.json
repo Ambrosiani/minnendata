@@ -2848,6 +2848,22 @@
           56.029
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tycker varje land ska få bestämma själva hur de vill ha sin demokrati. Tycker inte andra länder ska …",
+        "date": "15 mars 2022",
+        "author": "Jan Hallbäck",
+        "url": "https://minnen.se/tema/krigetiukraina/19149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.477,
+          59.421
+        ]
+      }
     }
   ]
 }
