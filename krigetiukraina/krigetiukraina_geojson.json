@@ -2816,6 +2816,22 @@
           63.826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har följt händelseutvecklingen varje dag och skänkt pengar till hjälporganisationer. Jag känner …",
+        "date": "15 mars 2022",
+        "author": "Richard",
+        "url": "https://minnen.se/tema/krigetiukraina/19146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

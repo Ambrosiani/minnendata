@@ -21423,5 +21423,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00274",
+    "contributor": {
+      "display_name": "Richard"
+    },
+    "created": "Tue, 15 Mar 2022 13:15:49 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 15 Mar 2022 13:15:49 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19146",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a900a0e0-9a41-45ae-881a-d0a250115320",
+    "values": [
+      {
+        "created": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "display_value": "1966",
+        "modified": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "eedbdfcc-f235-440e-b14a-bbc37d76c61f"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "display_value": "Förfärligt! Det finns flera diktatoriska länder som jag är rädd ska ansluta sig till Putins krig. Jag känner att man borde hjälpa Ukraina mer i deras krigsföring samtidigt som jag är rädd för represalier från Putin. Jag beundrar ryssar som vågar protestera mot Putin men är samtidigt ledsen för att dom straffas. Jag är mkt rädd att vi dras in i kriget och skulle vilja att vi ingick i Nato så att vi slipper hamna i samma situation som Ukraina. Vi är så ängsliga i Sverige, vi lever inte i en Astrid Lindgrenvärld där alla vill oss gott.",
+        "modified": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "264dd948-5544-4dae-9d04-a865496b166d"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "display_value": "Jag har följt händelseutvecklingen varje dag och skänkt pengar till hjälporganisationer. Jag känner mig mycket påverkad och ledsen samt orolig att kriget ska sprida sig. Jag tycker det är fruktansvärt att ett land kan invadera ett annat land utan att det invaderade landet får hjälp med att försvara sig.",
+        "modified": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ddd4ed69-e2d9-4f6b-a923-76043858c907"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "display_value": "Hjälper vi Ukraina med mer krigsmateriel och/eller hjälper dom att kriga så blir det nog ett storkrig. Gör vi inte det så kommer Putin att ta över och förmodligen gå in i fler länder. Så hur man än gör känns det hopplöst.",
+        "modified": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "1d2b15d1-6757-42c9-b233-bf35c7f93a60"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "display_value": "Vi talar mycket om det och vi har köpt vev-radio och vattendunkar ifall kriget kommer hit",
+        "modified": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "fb2c2abc-ce45-4edd-8f2a-aa75e6b8217d"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "display_value": "Jag hörde på morgon-tvs nyhetssändning när jag hade vaknat",
+        "modified": "Tue, 15 Mar 2022 13:15:49 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "84344b13-745a-4504-b275-f9ac041dab04"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
