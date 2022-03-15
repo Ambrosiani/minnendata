@@ -21312,5 +21312,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00273",
+    "contributor": {
+      "display_name": "Tanya"
+    },
+    "created": "Tue, 15 Mar 2022 10:17:21 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 15 Mar 2022 10:17:21 GMT",
+    "position": {
+      "latitude": 63.8258471,
+      "longitude": 20.2630354
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19145",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "135015ae-9b45-49f4-b885-ad7c3fc0da13",
+    "values": [
+      {
+        "created": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "display_value": "1991",
+        "modified": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e11e8394-2bde-4f6d-a44b-eb77c2475db6"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "display_value": "Vår insamling har fått oerhört mycket stöd från invånarna i vår och närliggande städer.  Det är jag mycket tacksam för! När jag möter personer som kommer med påsar fyllda av mat, blöjor, osv. känner jag mig en del av familj här i Sverige.",
+        "modified": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "a74e36bd-5b14-4862-bba4-931cab43b0c6"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "display_value": "Ryssland dödar min familj. Och min familj just nu inkluderar mer än 43 miljoner människor.  Samtidigt är jag stolt över Ukraina, vilket motstånd! Har aldrig varit mer stolt över Ukraina och Ukrainska folket! Jag tror på Ukraina.",
+        "modified": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "05eeda2f-de62-4d5d-af4d-5aca961fa2e9"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "display_value": "Vi ska bygga up Ukraina igen!",
+        "modified": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "cf4eca53-20a3-4d72-89a1-a27a35fec564"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "display_value": "Det är 20 dagar sen kriget började. Jag försöker jobba men det är svårt. Svårt att inte tänka, kolla nyheterna, tänka på någonting annat än Ukraina. På kvällarna hjälper jag med insamling av förnödenheter som ska skickas till Polen/Ukraina. Att göra enkla saker som att sortera varor i insamlingen hjälper mig att överleva.",
+        "modified": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "d14f3b4e-fe14-462d-8249-e9471d770b78"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "display_value": "Den 24 februari vaknade jag av telefonsamtal från media. De ville fråga mig vad jag tycker om situation i Ukraina eftersom jag kommer från Ukraina. Först blev jag förvirrad. Varför ringer de mig? Personen som jag pratade sade ingenting om att kriget har börjat. Efter samtalet såg jag nyheter.",
+        "modified": "Tue, 15 Mar 2022 10:17:21 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "4fd629e2-87d4-4d50-b8b1-bccab0fabc9f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
