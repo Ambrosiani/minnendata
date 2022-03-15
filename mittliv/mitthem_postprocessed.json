@@ -76440,5 +76440,202 @@
       "longitude": 15.65883
     },
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M1:2/00667",
+    "contributor": {
+      "display_name": "Tesnim"
+    },
+    "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19147",
+    "published": true,
+    "school_uuid": "4b6e2134-3148-43b8-8ee2-896ed61d5a2f",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "af11d098-3e0b-4af6-aaa4-e72183e3bbd4",
+    "values": [
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Nej jag har inte eget rum jag sover på min säng",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "1c42578a-45f9-4582-8302-3ba88cd0bd4d"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Jag bor med min stora syster och min stora bror min pappa och min mamma",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "17164d7c-704b-42c9-9c11-95fc86cebc54"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Kolla på Netflix",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "050f0f20-fbe0-44cd-830a-b217ab6e089c"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "122",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "1544a435-7afb-4389-9acd-deac1583d69c"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Mitt Hem\n\nMin mamma min pappa min stora syster min stora bror vi har bott där för min min stora syster var fem år.Vi har ett kök, en toalett, två sovrum och ett vardagsrum. Det finns två rum och kök jag sover i min säng  nej, jag har inte egen rum jag ser ett Garage med ser bilar.Jag kollar på teve och på Netflix i mitt hem min favoritplats är min säng vi har två regler att man pratar inte munnen på varandra och man diskar efter man har ätit. Jag brukar hjälpa min syster med tvätta och disken.",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "825eb259-b09e-4b05-8265-dbf0409da26f"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Från min stora syster var fem år och nu är hon 21 snart",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "e2078c9d-47cd-4cd6-9751-a55e2981a4f4"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "vi har två sovrum och kök",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "df1335b4-d5a8-4e2f-a3af-1959075f50c3"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "2010",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "2694c008-40d1-4b0a-a1bb-5864ddaf5a56"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Ja, man får inte prata munnen på varandra och man diskar efter man har ätit",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "4facc3c7-17d7-4e19-8185-2d94434476ce"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Jag har en toa en vardagsrum, ett kök två rum.",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "19ac5523-a2fb-4695-a1a4-9437348142a9"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Ja, jag hjälper min syster att tvätta kläder och diska",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "263d7eb5-ba6c-4e55-85c5-72ed9424995f"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "display_value": "Jag bor med min stora syster och min stora bror min pappa och min mamma",
+        "modified": "Tue, 15 Mar 2022 13:38:25 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "817dd693-4487-46c7-8b90-031c5b452258"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 59.409672,
+      "longitude": 17.924643
+    }
   }
 ]
