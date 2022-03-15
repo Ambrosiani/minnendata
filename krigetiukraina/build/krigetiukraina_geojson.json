@@ -2864,6 +2864,22 @@
           59.421
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag följer nyheterna hela dagarna. Vaknar mitt i natten och kollar, böjer knän och ber.\nHar jag ånge…",
+        "date": "15 mars 2022",
+        "author": "Lise-Lotte Pyrén Englund",
+        "url": "https://minnen.se/tema/krigetiukraina/19150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.046,
+          57.889
+        ]
+      }
     }
   ]
 }

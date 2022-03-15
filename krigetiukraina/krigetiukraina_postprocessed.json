@@ -21756,5 +21756,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00277",
+    "contributor": {
+      "display_name": "Lise-Lotte Pyrén Englund"
+    },
+    "created": "Tue, 15 Mar 2022 18:51:26 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 15 Mar 2022 18:51:26 GMT",
+    "position": {
+      "latitude": 57.889398,
+      "longitude": 13.0459851
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19150",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "5a394411-5806-4e8f-bd0c-4e0e9864b266",
+    "values": [
+      {
+        "created": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "display_value": "1956",
+        "modified": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "a650fc9f-e818-438d-8224-2e9c0381a85d"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "display_value": "En del i min omgivning vill inte riktigt ta in det hot som finns även mot oss just nu.\nAndra tänker som jag och agerar på olika sätt.\nJag tror inte att Putin sitter overksam och ser på hur han skämmer ut sig i världen. Förberedelser för vedergällning pågår helt säkert. Vi är lite blåögda i Sverige kan jag tycka. \nDanmark har just infört gränskontroller men Sverige har inte förnyat lagen om IDkontroller och nu kan detta inte användas förrän i april. Öppen dörr med andra ord. Oroande.\nNato försöker undvika ett tredje världskrig genom att t.ex inte stänga luftrummet över Ukraina. Men kanske har kriget redan börjat och längre fram kommer vi att säga Varför stoppade vi inte Putin direkt? \nPutin…vår tids Hitler. Z eller hakkors. Samma skit.",
+        "modified": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "4a3534ee-8cf6-4bab-b58b-2101a18c5e54"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "display_value": "Jag följer nyheterna hela dagarna. Vaknar mitt i natten och kollar, böjer knän och ber.\nHar jag ångest? Är jag rädd? Nej bara heligt vred.\nTror att Sverige m.fl. får smaka på vedergällning om Putin får leva.",
+        "modified": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ddc8c8fa-3264-4642-b463-6106f1ff2736"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "display_value": "Antingen får kriget ett abrupt slut eller så smäller det. Mycket mycket lidande. \nÄr ledsen över att mitt barn och barnbarn kanske behöver uppleva detta.",
+        "modified": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "33074a74-41f0-4c82-8fe8-0fcfcea79fee"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "display_value": "Det påverkar oss förstås. Vi har försökt förbereda oss på attacker av olika slag. Mat, vatten, värme, kontanter. \nFlyktingar har nu nått vår stad och vi har anmält att vi kan hjälpa till. Önskar att jag fortsatt den ryskakurs jag började på 90-talet. Få flyktingar här kan engelska.\nVarje natt vaknar jag och går upp och ber om beskydd och mirakel.\nJag har svårt att tänka på nöjen och semestrar. Sånt känns meningslöst just nu. Tänker mycket på hur livet så snabbt förändrades i Ukraina, och att det kan vara så för oss om en vecka, en månad.",
+        "modified": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "c79a36a0-22c3-46ff-9164-57a3f2f89db7"
+      },
+      {
+        "created": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "display_value": "Jag följde hela tiden infon i SVT, TV4 och CNN om ryska truppers förberedelser. Trodde inte ett ögonblick på att detta var planerade övningar.\nNär sen invasionen hände grät jag. \nEfter gråten kom vreden. Och bönerna.",
+        "modified": "Tue, 15 Mar 2022 18:51:26 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "1db7e2b4-b219-4296-9b42-68c1b890a271"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
