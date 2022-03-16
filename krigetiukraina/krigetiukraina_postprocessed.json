@@ -22089,5 +22089,227 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00284",
+    "contributor": {
+      "display_name": "JS"
+    },
+    "created": "Wed, 16 Mar 2022 08:37:19 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 08:37:19 GMT",
+    "position": {
+      "latitude": 57.6348,
+      "longitude": 18.29484
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19157",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "f69fdfe2-8538-467a-81c5-59e669bc588a",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "display_value": "1987",
+        "modified": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "522575a5-3050-4f37-8974-d3e8b76312f4"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "display_value": "Jag lever på Gotland och det för med sig mycket ångest nu. Det är många som har börjat bunkra upp med mat och andra nödvändigheter samt har alla jodtabletter sålt slut. Detta tolkar jag som att det är många som är rädda just nu.",
+        "modified": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "974ba11b-3724-4d5d-bbfb-666b9086bfc6"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "display_value": "Jag håller mig uppdaterad så mycket jag kan. Dessa tre veckor som passerat nu har varit fyllda med ångest för vad som händer med alla i Ukraina men även rädsla om vad som kan hända här då jag bor på Gotland. Vi försöker hjälpa ukraina så mycket som möjligt. Ingen kan göra allt men alla kan göra något. Hittills har vi skickat pengar, mat från Ica maxi och även lånat ut vårt babyskydd till en främling för att han ska kunna hämta upp barn/ föräldrar från Ukraina.  Och ju mer tiden passerar desto mer kommer vi att göra.",
+        "modified": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "34518399-1ebf-446e-aae5-d0d78040c3cb"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "display_value": "Framtiden känns osäker nu. Jag har aldrig tyckt att ett NATO-medlemskap har varit aktuellt men detta har jag ändrat mig kring. Krig känns väldigt nära nu, eller åtminstone så käns det som om säkerheten runt Europa blivit lite skakig. Jag hoppas verkligen att detta slutar snart. Både för Ukraina,  oss runt omkring Europa och de människorna i Ryssland som drabbas av allt.",
+        "modified": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "65736e76-8def-4fa9-90ce-c40e30e803cc"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "display_value": "Jag påverkas mycket. Jag håller mig ständigt uppdaterad om vad som händer samtidigt som jag måste fokusera på mina universitets studier. Vi håller även på att bygga hus och detta har det blivit lite problem med då parkettgolvet från parkett kommer från Ukraina. Vi får se om vi överhuvudtaget får golvet nu. Men vi känner ändå att ett golv är ett extremt litet pris att få betala i detta elände, när det finns de som inte ens har ett hem eller sina nära och kära kvar.",
+        "modified": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "3288afda-548c-492f-b7a5-01cf6af6ee26"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "display_value": "Jag blev väckt av min sambo som berättade det för mig. Vi hade pratat mycket om detta dagarna innan så nyheten gjorde mig både ledsen och rädd.",
+        "modified": "Wed, 16 Mar 2022 08:37:19 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "8ffbd7c7-665e-40e7-950a-6f8b6b7f54f6"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00285",
+    "contributor": {
+      "display_name": "Tony Velander"
+    },
+    "created": "Wed, 16 Mar 2022 08:44:34 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 08:44:34 GMT",
+    "position": {
+      "latitude": 59.989144,
+      "longitude": 15.8166418
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19158",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "436130db-e285-41a5-8f34-077620a3cdae",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "display_value": "1963",
+        "modified": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "856d9238-a627-4a91-b8a0-903f15917479"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "display_value": "Klart är att hur allt slutat kommer det nog att förändra världen och framförallt Europa. Inte bara vår syn på Ryssland utan hela vår syn på säkerhet, med fler militära samarbeten osv.\nMan känner just nu inte så stor förhoppning på att det blir lugnt på många år framåt.",
+        "modified": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "96f8c04c-48e1-4fa5-b9ea-3c76ec71faf3"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "display_value": "Är med stor sorg jag tar del av dagliga nyheter från Ukraina. Svårt att förstå att en Person återigen kan ställa till så mycket.\nLider med människorna där borta, framför allt alla oskyldiga människor som nu får lida. Allt dödande, förstörelse osv känns så oerhört onödigt. Förstår inte att man kan ha ett sånt hat mot ett annat land.",
+        "modified": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "aeeb2f5c-916e-4360-85b7-e508627a4a7b"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "display_value": "Oro! Oro för att vi får ett nytt kallt krig igen, med hot, upprustning osv.\nTänker på barn som ska växa upp i en sån värld.. Har inget större hopp på någon ljusare framtid just nu.",
+        "modified": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "63ce9517-b749-4662-8e9a-d703606341ae"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "display_value": "Inte så mycket egentligen förutom matpriserna och skenande bensinpriser. För egen del är jag inte rädd för att kriget ska spridas till oss.  Visst tänker man mycket på Ukraina och kan inte förstå nyttan av ett krig.",
+        "modified": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "a4fb4d5d-60ad-4ae3-bcea-580ec0db858a"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "display_value": "Nåddes av nyheten via nyheterna på tv. Var med förvåning att Ryssland gått in. Alla år med kris där borta hade nog gjort mig avtrubbad och säker på att det var bara tomma hot.",
+        "modified": "Wed, 16 Mar 2022 08:44:34 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "65f6befe-a77e-4aa7-8a8d-376d213284ee"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

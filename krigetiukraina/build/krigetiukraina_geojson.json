@@ -2912,6 +2912,38 @@
           59.298
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag håller mig uppdaterad så mycket jag kan. Dessa tre veckor som passerat nu har varit fyllda med å…",
+        "date": "16 mars 2022",
+        "author": "JS",
+        "url": "https://minnen.se/tema/krigetiukraina/19157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.295,
+          57.635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Är med stor sorg jag tar del av dagliga nyheter från Ukraina. Svårt att förstå att en Person återige…",
+        "date": "16 mars 2022",
+        "author": "Tony Velander",
+        "url": "https://minnen.se/tema/krigetiukraina/19158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.817,
+          59.989
+        ]
+      }
     }
   ]
 }
