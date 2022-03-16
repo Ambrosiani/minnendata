@@ -22311,5 +22311,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00286",
+    "contributor": {
+      "display_name": "En Skogsmulle"
+    },
+    "created": "Wed, 16 Mar 2022 08:50:32 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 08:50:32 GMT",
+    "position": {
+      "latitude": 59.96026839806947,
+      "longitude": 13.185484262084959
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19159",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2ed32d10-6a85-4d39-94db-eb682bee0250",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "display_value": "1998",
+        "modified": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "88370a5b-da37-4039-a92f-ed0a787ee372"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "display_value": "Det är ju inte så konstigt att det här händer. Det har hänt så många gånger förr, och det kommer att hända åter och åter igen. För människan lär inte av sina misstag. Förr eller senare så kommer människan vara orsaken till att jorden går under. Och inte i en av form miljöförstöring. Jorden kommer gå under tack vare att de största och mäktigaste länderna har bomber av atomer.",
+        "modified": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "91f83eae-ad9a-431e-b9a1-95b4ef2bc5bb"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "display_value": "Det är rent ut sagt förjävligt. Det som nationen i öst gör är helt fruktansvärt.",
+        "modified": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "9af3e535-2a5a-469a-a32f-edd7dfa25b61"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "display_value": "Ska man tro det värsta, så är det här bara början. Jag tror inte landet i öst kommer att nöja sig med bara Ukraina.",
+        "modified": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "75fd0f22-103b-49bb-a729-44c9bc739df1"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "display_value": "Det finns alltid en oro över vad som kommer att hända här, men jag skulle inte säga att jag är livrädd. Men om allt skiter sig, då finns det resurser att ta av.",
+        "modified": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "fe7b33ed-8fe1-4b9f-a9a2-2585c9504970"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "display_value": "Jag fick redo på det genom Tv4 nyheterna. Ärligt talat så blev jag inte så förvånad. För Ryssland är Ryssland, och de har gjort liknande saker genom historien. Och jag tror inte att det var sista gången de gör såhär, tyvärr.",
+        "modified": "Wed, 16 Mar 2022 08:50:32 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "2d51198c-dc59-4673-ba6c-6789d40670b3"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

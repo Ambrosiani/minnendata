@@ -2944,6 +2944,22 @@
           59.989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är rent ut sagt förjävligt. Det som nationen i öst gör är helt fruktansvärt.…",
+        "date": "16 mars 2022",
+        "author": "En Skogsmulle",
+        "url": "https://minnen.se/tema/krigetiukraina/19159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.185,
+          59.96
+        ]
+      }
     }
   ]
 }
