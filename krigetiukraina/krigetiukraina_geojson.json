@@ -3088,6 +3088,22 @@
           56.059
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är katastrof för hela jorden.\nVi är alla i fara, och det är några män i Ryssland som är skyldiga…",
+        "date": "16 mars 2022",
+        "author": "Elisabeth R",
+        "url": "https://minnen.se/tema/krigetiukraina/19169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.918,
+          59.593
+        ]
+      }
     }
   ]
 }
