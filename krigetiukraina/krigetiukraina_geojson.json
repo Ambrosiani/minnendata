@@ -3104,6 +3104,22 @@
           59.593
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker det egentligen är ett krig mellan nato och Ryssland.  Jag tycker inte Ukraina borde försö…",
+        "date": "16 mars 2022",
+        "author": "Råttan",
+        "url": "https://minnen.se/tema/krigetiukraina/19170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.644,
+          60.128
+        ]
+      }
     }
   ]
 }

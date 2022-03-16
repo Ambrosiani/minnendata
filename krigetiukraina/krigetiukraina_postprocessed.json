@@ -23466,5 +23466,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00297",
+    "contributor": {
+      "display_name": "Råttan"
+    },
+    "created": "Wed, 16 Mar 2022 20:32:41 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 20:32:41 GMT",
+    "position": {
+      "latitude": 60.12816100000001,
+      "longitude": 18.643501
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19170",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "afe817a8-878b-4f44-b876-a9075120f43b",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "display_value": "2000",
+        "modified": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "0c3650c8-26c0-4e2d-ba97-d9765ecdb1e0"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "display_value": "Jag tycker det är intressant att USA kan komma undan med att bomba Mellanöstern för olja (oj jag menar demokrati) och fucka Sydamerika, men så fort Ryssland gör nåt ska hela världen agera med sanktioner, fördömningar mm. Världens politik är en cirkus just nu. Europa fuckar sig själv med sanktionerna mot Ryssland. Och jag fattar inte varför Sverige känner sig hotat och vill gå med i nato nu. Att gå med o nato är att göra sig själv till måltavla och bidra till krig!",
+        "modified": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f198eb6b-efee-493d-8819-25cf6d66e1fe"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "display_value": "Jag tycker det egentligen är ett krig mellan nato och Ryssland.  Jag tycker inte Ukraina borde försökt närma sig nato i huvud taget. Tycker också det är så fett dumt av deras politiker att riskera sin befolknings liv på det sättet. Känns också primitivt att offra sitt folk för lite landsmassa. Inte för den orsaken iaf. Vi människor har inte kommit långt alls i utvecklingen. Allt handlar fortfarande om revir, makt och resurser. Vi är verkligen som djur. \n\nJag tror även Europa fuckar sig själv med alla sanktionet mot Ryssland. Bland annat kommet matpriserna och bränslepriserna öka. Precis vad vi behöver efter en pandemi!\n\nMen ja, självklart är det synd om folket i Ukraina. Har själv släkt där. En av mammas kusiner har en 13- årig pojke och det har ju varit diskussioner om vem som ska ta hand om honom ifall hans föräldrar dör...",
+        "modified": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "627318bc-8adb-41c5-ae25-b94653d15eda"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "display_value": "Dåliga ekonomiska tider väntar oss. Är inte taggad alls.  Jag tror ej det är långt kvar till ännu ett världskrig, fast kanske utplånar vi oss själva med kärnvapen denna gången? Who knows?",
+        "modified": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c1e1a769-9d3d-440e-84d0-ae1cc7f11ecb"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "display_value": "Min mamma påverkas emotionellt då hon identifierar sig starkt med Ukraina och eftersom hon har släkt i Odessa. Personligen känner jag att jag mest kommer påverkas av att ekonomin kommer stagnera och gå ner...",
+        "modified": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e5a85cd1-9b83-45ee-9c37-f309df9f71f5"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "display_value": "Jag fick en notis från TV 4- appen att Ryssland hade invaderat Ukraina. Min mamma ringde mig även på eftermiddagen gråtandes då hennes familj kommer från Odessa och hon har därmed kusiner och släktingar där.",
+        "modified": "Wed, 16 Mar 2022 20:32:41 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "aaec6172-6bb2-4f7a-8851-f083ba901352"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
