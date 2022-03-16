@@ -3136,6 +3136,22 @@
           59.394
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har så svårt att förstå hur man kan tänka och tro att man kan göra så här mot ett annat land. De…",
+        "date": "16 mars 2022",
+        "author": "Karin Hamrer",
+        "url": "https://minnen.se/tema/krigetiukraina/19173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.511,
+          58.506
+        ]
+      }
     }
   ]
 }

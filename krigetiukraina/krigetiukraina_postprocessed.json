@@ -23688,5 +23688,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00300",
+    "contributor": {
+      "display_name": "Karin Hamrer"
+    },
+    "created": "Wed, 16 Mar 2022 21:16:35 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 21:16:35 GMT",
+    "position": {
+      "latitude": 58.505798587562516,
+      "longitude": 15.51099457459781
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19173",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "9fc7ed02-1b40-427e-a571-b5d19e53995c",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "display_value": "1947",
+        "modified": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7cc97228-0003-4775-8829-e59bd4a9a904"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "display_value": "Jag hoppas och tror att övriga statsmän/kvinnor är kloka nog och inte sätter igång något större.\nSverige kommer inte att ansöka till NATO nu. \nLite oroande är det med Kina men de har kanske nog med den ökande smittan av covid 19 nu och behöver koncentrera sig på det.",
+        "modified": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "4e533eb4-4bfb-4403-b795-0c6ef03e42fa"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "display_value": "Jag har så svårt att förstå hur man kan tänka och tro att man kan göra så här mot ett annat land. Det påverkar hela min vardag. Det gäller att ha något som gör att jag tänker på annat. Samtidigt kan jag fungera som jag brukar.",
+        "modified": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "a1bc0d01-b90d-4d0b-96b2-61256f48b7af"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "display_value": "Det finns inte längre några garantier för en ljus framtid.",
+        "modified": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "dccf3f7b-1dc3-4d3b-9ef8-6533a441250a"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "display_value": "Fastän mina tankar oftast rör sig omkring kriget kan jag fortfarande sova bra vilket är en gåva. Vi har ett bra liv, båda pensionärer och bra ekonomi. Vi kan leva som vi brukar.\nJag har laddat transistoradion med nya batterier och köpt hem rödsprit till stormköket. Mat har vi alltid så vi klarar oss i minst en vecka.",
+        "modified": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "d1ac0a9e-8f6f-4dc9-9e1b-17233c851d5c"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "display_value": "Varje morgon brukar jag titta på mobilen för att se om det hänt något under natten. Brukade skoja om att jag ville se om världen stod kvar. Den här morgonen gjorde jag som brukade. Men fick en chock att nu var det inget att skoja om, det var krig. Jag kunde inte säga något annat till min sambo än \" nu är det krig\".",
+        "modified": "Wed, 16 Mar 2022 21:16:35 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "85ad98da-f45b-432a-b625-d979f3e159b9"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
