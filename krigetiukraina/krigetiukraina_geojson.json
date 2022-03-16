@@ -2960,6 +2960,22 @@
           59.96
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är fruktansvärt det som händer, tycker så synd om alla som måste fly sitt land. Men ännu mer syn…",
+        "date": "16 mars 2022",
+        "author": "Sandy",
+        "url": "https://minnen.se/tema/krigetiukraina/19160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.752,
+          59.034
+        ]
+      }
     }
   ]
 }

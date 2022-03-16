@@ -22422,5 +22422,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00287",
+    "contributor": {
+      "display_name": "Sandy"
+    },
+    "created": "Wed, 16 Mar 2022 12:34:27 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 12:34:27 GMT",
+    "position": {
+      "latitude": 59.03363489999999,
+      "longitude": 16.7518899
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19160",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "f6bb26c0-9a9d-46d2-a654-41876b855a2b",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "display_value": "1978",
+        "modified": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e5c8bf58-e36f-4162-9ac9-aa91570d2bb6"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "display_value": "Sverige och hela Europa kommer få en tuff tid framöver, ju längre tid kriget kommer pågå ju ansträngdare kommer det bli i alla länder. På många fronter, ekonomiskt, stigande matpriser, avsaknad av boenden, svårt att få plats med ukrainska barn i skolor etc. Hela världen kommer lida ett tag framöver pga en jävla dåre med 70årskris eller nåt. Men frihet segrar till slut.",
+        "modified": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "c35d866c-4c79-4852-a8f9-8b4173464636"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "display_value": "Det är fruktansvärt det som händer, tycker så synd om alla som måste fly sitt land. Men ännu mer synd om dom som inte kan ta sig därifrån.  Jag trodde inte att vi skulle få uppleva ett så fruktansvärt krig 2022. Jag blir arg att omvärlden tillåter det att ske, att en enda människa kan göra som han gjort.",
+        "modified": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "cdd3a659-5065-4be7-9d85-9f53326edddf"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "display_value": "Det kommer bli märkbart ett tag framöver, ju längre kriget kommer fortgå ju mer kommer det märkas. Jag har stor förhoppning att det kommer lösa sig på ett bra sätt. Jag är lite rädd för att det ska bli svårare att få arbete, att det kommer slå ex på sjukersättning, a-kassan osv.",
+        "modified": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "36af1f15-2370-47fd-bc49-9edb04556d0d"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "display_value": "Första 2 veckorna ungefär levde jag som i ett vakuum, kändes som jaha nu är det slut. Jag börja organisera i huvudet med förnödenheter, flykt, vart vi ska ta vägen etc. Pratade mycket med mina barn som är 15år och 11år om kriget och vad som kan hända. Tex att vi måste lämna kvar våran ponny om kriget kommer och vi måste fly.  Min dotter på 15år var väldigt rädd första veckan, min son på 11år var inte lika rädd. Jag förklarade för dom att man ska inte tro på allt som man läser, fråga gärna istället för att oroa er i onödan. Men att vi har folk som jobbar ständigt och mycket med Sveriges säkerhet.  Jag sa till mina barn att lova mig att vad som än händer nu och i framtiden, så ska INGEN INTE någonsin tala om för dom vad dom ska tycka och tänka. Dom ska stå upp för sina egna fria viljor, sin egen självständighet. Både I förhållande och även utåt världen. Vi lever som vi har gjort tidigare, jag tittar på nyheterna minst 1 gång om dagen för att få en uppdatering. Vi måste leva vidare med våra liv och ta dagen som den kommer.",
+        "modified": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "18be076d-cc90-4361-b8ec-569b31c8e252"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "display_value": "Jag fick reda på att Ryssland hade gått in i ukraina via nyheterna på tv4. Först tänkte jag inte så mycket på det, men sen blev jag arg och tänkte vad fan håller Putin på med. Varför har han fått hålla på så länge med det han gjort senaste åren.",
+        "modified": "Wed, 16 Mar 2022 12:34:27 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "372538c7-ca02-4074-b784-f0f57807f922"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
