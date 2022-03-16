@@ -22911,5 +22911,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00292",
+    "contributor": {
+      "display_name": "Anna Sinnerbrandt"
+    },
+    "created": "Wed, 16 Mar 2022 18:13:04 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 18:13:04 GMT",
+    "position": {
+      "latitude": 58.757014091594996,
+      "longitude": 14.143903215317426
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19165",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "12143404-e6da-4c57-b7ef-6cb5b46208db",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "display_value": "1968",
+        "modified": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "742c426d-d4d8-480c-b7a0-3f5ea78b6e42"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "display_value": "Jag tänker att krig förekommer runt om i världen hela tiden men att folk nu fått upp ögonen mer för att det är ett land nära oss.\nKan känna sorg att det är så för alla människor lider oavsett ursprung.\nTror det kommer få stora konsekvenser under en lång tid framåt.\nMan var så utmattad efter pandemin och så kom detta som i mina ögon är än värre än Covid-19.\nInga barn skall behöva uppleva det helvete som ett krig innebär. Och det är en gåta för mig hur det kan fortgå utan att omvärlden kan stoppa det. Det skrämmer mig.\nVi kan få direktrapporter i direktsändning från krig tack vare modiga utrikeskorrespondenter. Vi har en större insikt i allt som sker nu än under t ex andra världskriget. Och ändå 2022 kan vi inte hindra en galning.",
+        "modified": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "66cb9ab8-0439-4e9c-981e-5988b41172ab"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "display_value": "Tänker på Ukrainska folket men även på den ovissa framtid mina barnbarn skall växa upp i. Vrede över att en galning kan förstöra och förgöra och att omgivningen inte kan göra någonting. Man känner sig helt maktlös.\nJag påverkas starkt av det som sker. Första veckorna följde jag alla nyhetssändningar, sov dåligt, beställde vevradio, kollade upp var närmaste skyddsrum finns hemma och vid jobbet. Mina döttrar planerar vart de skall ta vägen om Sverige blir indraget i konflikten.\nKänner mig riktigt rädd och ångestfylld.",
+        "modified": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "4772adb2-33f9-4ed1-81f9-cd07900eee80"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "display_value": "Vi kommer få det tuffare på många sätt.\nJag ber högre makter om att vi slipper krig här men följderna kommer bli kännbara i Europa under lång tid.  Alla flyktingar som inte har något att komma tillbaka till då vissa städer är jämnade med marken. Allt kommer bli dyrare. Tror att psykisk ohälsa kommer öka pga  spår efter pandemin men även de tuffare tider som väntar.",
+        "modified": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d06a1a0b-794a-4f1e-9fb5-a9b1957ff0d8"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "display_value": "Jag påverkas på så sätt att jag sover dåligt. Gråter mycket. Känner oro inför framtiden.",
+        "modified": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "90284a30-9bc1-4399-b0f7-d85fdda9f494"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "display_value": "Jag satte på tv:n tidigt på morgonen och gick för att göra mina morgonrutiner innan jobbet. Hörde reporterns allvarliga tonläge så jag satte mig för att lyssna och fick höra den hemska nyheten.\nSurrealistiskt, detta får inte hända 2022. Räckte det inte med pandemin? Blev mycket ledsen och rädd.",
+        "modified": "Wed, 16 Mar 2022 18:13:04 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "27bcd839-c7b3-4d4e-8033-bed3b39b3503"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
