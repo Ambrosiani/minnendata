@@ -23799,5 +23799,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00301",
+    "contributor": {
+      "display_name": "K"
+    },
+    "created": "Wed, 16 Mar 2022 22:25:35 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 22:25:35 GMT",
+    "position": {
+      "latitude": 55.99025719999999,
+      "longitude": 13.5957692
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19174",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "5b3e74fe-7f59-4593-94cc-1b0b58557207",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "display_value": "1993",
+        "modified": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "84c23f6c-1af4-448b-9678-1e5943c4cc69"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "display_value": "Jag tänker att världen verkligen gick ut balans. Det är mycket kännslor och stress. Jag tror inte dock att vissa människor helt förstår hur allvarlig situationen är. Många mina bekanta låtsas att inget händer. Jag tänker att politiska situationen är farlig, och med atomvapen med i spelet det verkligen blir jätte osäkert. \nDet är också så att olika länder avbildar vad som händer i Ukraina på olika sätt, så jag blir överraskad att höra från väninna från Japan att hon uppskattar att \"Zelensky springer med en automat!\". Ingen aning vad det handlar om men det låter spännande... ingen har en enad bild om vad som händer så det blir svårare att förstå varandra. Det speciellt svårt att förstå många av mina ryska bekanta, då de verkar bo i ett fantasivärld av rysk propaganda.\nJag är jättetacksam att Sverige tar emot flyktingar och många vill hjälpa till. Jag hoppas det ska fortsätta i framtiden, även om det kan vara svårt. Flyktnings trycket på vissa länder är stor, så alla länder måste vara beredda att ta emot flera.\nJag är orolig för ryssar, sanktionerna och agerande av rysk regering driver landet till mörka tider. Det gör många arga, och inte alla riktar sin ilska mot ryska regeringen, vissa förklarar allt med \"elak väst\".",
+        "modified": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f717c1fc-7349-4467-a248-d40503bd721f"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "display_value": "En stark kännslan som kommer och går var svårt att nämna i början. Det var hemsk som jag har sår i själen. Jag tänker det är sorgen. Jag sorger smärtsamt för de platserna i Ukraina som är så viktiga för mig som förstörs utan någon anledning. Jag sorger för barn som dör och för barn som försvann, som förstår inte och förtjänar inte. Jag även sorger, och det erkänner jag inte till någon, för soldater som skickades från Ryssland med utgången mat, som livet betyder ingenting. Och jag känner ilska. Jag läser ryska nyheter och blir arg av all lögn, jag är arg på människor som kommenterar hemska grejer, jag blir arg att någon kommit i en nästan sakral plats för mig och respekterar inte den. \nOch jag känner skam, att jag gör inte tillräckligt, att jag kunde ge mer, hjälpa flera, övertyga någon.",
+        "modified": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "8861b393-f413-461d-9104-d6c3dd67afb0"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "display_value": "Jag tänker inte på framtiden mycket. Jag bor månadsvis, vi får se vad som händer och försöka agera utifrån omständigheterna. Vad går det att göra annat än att göra sitt bästa? Så fort corona krisen började lugna ner, börjades kriget. Jag vet inte när jag ska se min mormor eller åka till Ukraina. Jag vet inte om våra vänner i Ukraina ska bo med oss. Jag vet inte om det blir ekonomisk kris och hyran stiger. Allt jag kan göra är att försöka vara en bra människa och hjälpa andra. Och hålla hoppet på en någorlunda okej framtid.",
+        "modified": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "9d8ece92-e6ee-433b-adc1-6fd2039e9986"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "display_value": "Den första veckan varken jag eller min mamma jobbade. Vi bara läste nyheter non-stop. Vi kunde inte somna två första nätter för att vi kännde att vi ska missa något, att vi kanske måste varna mormor för något som hon vet inte om. Efter började vi sova 2-3 timmar, vakna och läsa nyheter, och sova 2-3 timmar till. Det var även svårt att jobba för att våra vänner från Ukraina i förvirring skrev till oss att hämta dem i Polen med en bil, allt var förvirrande, så vi läste nyheter samtidigt som vi pratat i telefon, bokade biljetter osv. Nu är allt mer stabilt. Livet går vidare men det ända vi pratar om nu är kriget.",
+        "modified": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "2c564a0b-9c3f-474a-8854-15385387190e"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "display_value": "Jag vaknat på morgonen av att min mor pratar med min mormor som bor i Ukraina på telefon. Jag hörde inte vad de sa men jag direkt förstått \"kriget hade börjats\". Och jag googlade och såg nyheterna och kännde mig schokad även fast jag tänkte att jag var beredd på det. Och efter jag träffade mamma och hon sa till mig \"har du hört?!\".",
+        "modified": "Wed, 16 Mar 2022 22:25:35 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "71c88cb5-b113-48b5-8e77-e0ccfe9c24c8"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

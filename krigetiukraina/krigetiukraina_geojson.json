@@ -3152,6 +3152,22 @@
           58.506
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En stark kännslan som kommer och går var svårt att nämna i början. Det var hemsk som jag har sår i s…",
+        "date": "16 mars 2022",
+        "author": "K",
+        "url": "https://minnen.se/tema/krigetiukraina/19174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.596,
+          55.99
+        ]
+      }
     }
   ]
 }
