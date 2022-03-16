@@ -2896,6 +2896,22 @@
           59.368
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det skrämmer mig, min pappa flydde från Estland undan kriget och ryssarna. Tänker att det räcker med…",
+        "date": "16 mars 2022",
+        "author": "Eva Blomberg",
+        "url": "https://minnen.se/tema/krigetiukraina/19153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.115,
+          59.298
+        ]
+      }
     }
   ]
 }

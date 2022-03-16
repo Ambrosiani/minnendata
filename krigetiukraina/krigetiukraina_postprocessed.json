@@ -21978,5 +21978,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00280",
+    "contributor": {
+      "display_name": "Eva Blomberg"
+    },
+    "created": "Wed, 16 Mar 2022 06:44:20 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 06:44:20 GMT",
+    "position": {
+      "latitude": 59.2976504801464,
+      "longitude": 18.11539740526858
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19153",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "366605e6-7958-47d7-8637-11a30635f2fe",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "display_value": "1963",
+        "modified": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "f0f7f4df-c7c2-464e-b0af-e28199bbe9b1"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "display_value": "Jag tror att det finns en både omedveten och medvetenhet i Sverige om läget i världen men jag tror också att känslan av gemenskap och viljan att hjälpa är stor, både i Sverige, Europa och vissa delar av världen",
+        "modified": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "abed0caf-3d70-47a0-8cab-53e876ed7136"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "display_value": "Det skrämmer mig, min pappa flydde från Estland undan kriget och ryssarna. Tänker att det räcker med två generationer i min familj som flytt krig, vill inte att det ska bli fem generationer om jag, mina barn och barnbarn skulle behöva fly ett krig. Jag öppnar mitt hem för flyktingar från Ukraina, ingen ska vara utan mat, värme och kärlek.",
+        "modified": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "098b9258-3216-426e-acc6-e6d9830bf818"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "display_value": "Vi får aldrig någonsin ge upp hoppet, jag tänker att nu är Europa så enat att Ryssland, läs: Putin, kommer att backa, ge upp och ställas inför krigsrätt. Jag måste tro på framtiden för mina barn och barnbarns skull!",
+        "modified": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "29271fac-d89e-4d00-a4ea-dd91a4f3473f"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "display_value": "Påverkas av högre matpriser, vi har köpt in mat för att kunna klara en kris eller i värsta fall ett krig. Vi har tömt vårt förråd för att kunna ta med hunden om vi behöver ta skydd. Jag sover lite sämre och märker att barnen både på jobbet och hemma har en ökad oro men också en ökad kunskap om hur de eventuellt ska agera om något händer",
+        "modified": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9b386f1c-3b38-4cc1-b38c-7768b81dac9c"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "display_value": "Jag blev arg, men också rädd. Tänker på konsekvenserna för världen, Putin måste kunna stoppas, han är en maktgalen psykopat",
+        "modified": "Wed, 16 Mar 2022 06:44:20 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "740b7fcc-be61-486d-813c-039314505e88"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
