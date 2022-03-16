@@ -3184,6 +3184,22 @@
           60.622
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Vast, EU, Nato offrar Ukraina for att undvika ett 3 varldskrig. Forstaligt, men det luktar, smakar o…",
+        "date": "16 mars 2022",
+        "author": "Mattias",
+        "url": "https://minnen.se/tema/krigetiukraina/19176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.89,
+          58.448
+        ]
+      }
     }
   ]
 }

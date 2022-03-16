@@ -24021,5 +24021,60 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00303",
+    "contributor": {
+      "display_name": "Mattias"
+    },
+    "created": "Wed, 16 Mar 2022 23:06:40 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 23:06:40 GMT",
+    "position": {
+      "latitude": 58.44760219999999,
+      "longitude": 14.8902335
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19176",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "ccf2fc20-53ce-4972-af73-29dfa4233073",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 23:06:40 GMT",
+        "display_value": "1967",
+        "modified": "Wed, 16 Mar 2022 23:06:40 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "0d5f5b6f-60c1-47ce-b062-9f6f28869c88"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 23:06:40 GMT",
+        "display_value": "Vast, EU, Nato offrar Ukraina for att undvika ett 3 varldskrig. Forstaligt, men det luktar, smakar och kanns illa! Personligen har jag valdigt svart att acceptera den valda vagen. Tank om det var din stad, hem, hus, lagenhet som bombades och allt du hade var borta. Du maste fly och det som finns kvar av ditt liv, ryms I en liten, liten Vaska....",
+        "modified": "Wed, 16 Mar 2022 23:06:40 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "29cae35d-e2b0-45bd-8c40-3a74b6f69908"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
