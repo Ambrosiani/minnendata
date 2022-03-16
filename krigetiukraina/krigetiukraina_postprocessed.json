@@ -23022,5 +23022,227 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00293",
+    "contributor": {
+      "display_name": "Jonas K"
+    },
+    "created": "Wed, 16 Mar 2022 18:42:25 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 18:42:25 GMT",
+    "position": {
+      "latitude": 59.67806838415004,
+      "longitude": 16.730134158474737
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19166",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2e08c8d8-3628-4962-99ff-9e0102fecb02",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "display_value": "1976",
+        "modified": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "2904cd45-f6af-4b3c-ac73-3861d1fd27eb"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "display_value": "Världen har varit en allt mer osäker plats under mer än 20 års tid. Den är mer uppdelad. Det är mer svart och vitt. Jag hade förväntat mig ett större krig i Europa den kommande tiden på grund av hur uppdelad världen och våra samhällen har kommit att bli.",
+        "modified": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "d08be5e7-b355-4be1-be26-11fa9c999daf"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "display_value": "Det är fruktansvärt det som händer. Jag känner mig arg.",
+        "modified": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "79dfe0e0-cd6e-4db4-a23d-4b11a3ecefd2"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "display_value": "Det står och väger. Stärks diktatorn Putin och Ryssland och diktaturen Kina genom detta så kommer framtiden och världen att gå in en mycket mörk framtid.",
+        "modified": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "3c147b3a-bc6e-412e-aad5-3ef489cc9e7a"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "display_value": "Vi oroar oss för Ukraina och ukrainarna. Vi oroar oss också för ryssarna och för vad som ska ske i landet nu när det blir allt mer isolerat och slutet.",
+        "modified": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "5a745a06-2c04-472d-a980-76a1c4670b7b"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "display_value": "Genom nyhetsmedia tidigt på morgonen den 24 februari. Sveriges radio P1.",
+        "modified": "Wed, 16 Mar 2022 18:42:25 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "7a5e6a10-aa63-4dc1-bb30-5778c9b9fad1"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00294",
+    "contributor": {
+      "display_name": "Maria"
+    },
+    "created": "Wed, 16 Mar 2022 18:46:35 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 18:46:35 GMT",
+    "position": {
+      "latitude": 59.37264082731744,
+      "longitude": 18.067132941234036
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19167",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a66eb5f9-adb6-4ad7-855b-eeafd8edcb1a",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "display_value": "1994",
+        "modified": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "bf5d1a7a-778d-4afe-9368-3b2beda7e5a7"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "display_value": "Neutralitet som håller västvärlden på är ett brott. Etik och moral har lämnat dessa territorier och det som händer i Ukraina nu är följder av västvärldens misstag. Det fattar ju alla. Putin är galen men ni alla.. ni har så många resurser att avsluta kriget. Men ni är neutrala. Ni lämnar lösningen av detta problem till det ryska folket som enligt era nyheter från hösten 2021 torteras i fängelse, våldtas, utnyttjas sexuellt, mördas. Har ni glömt det så snabbt?!",
+        "modified": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "dc20a939-a57b-445b-a349-95401723732b"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "display_value": "Ursprungligen är jag  från Belarus. Jag har många vänner och släktingar både i Ukraina i Ryssland. Dessutom är jag informativt närmare till kriget än vanliga svenskar pga att det som jag ser i telegrammkanaler går inte att visa på den svenska tv:n. Fruktansvärt. Ett spädbarn utan huvudet.. Svarta kroppar nära ett attackerat hus.. svarta påsar med döda kroppar. Jag vill att kriget tar slut.  Här och nu. Allt kan lösas senare.. mänskliga liv har högre värde än territorier.",
+        "modified": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "3409593f-4acf-4c2e-956b-886909753bd5"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "display_value": "Det enda som kan rädda Ukraina idag är Putins beslut eller Putins död. \n\nMen om vi lämnar den reflexioner om hur kriget ska slutas ser jag att Ukraina återbygger allt och blir en del av EU.",
+        "modified": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "4c04f75b-327e-4ab6-9e64-394dc7ec30e3"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "display_value": "Första dagar var det helt omöjligt att inte läsa nyheterna. Jag kände ingenting. Mina känslor kom om en vecka.. jag kunde inte sluta gråta. Sen kom det beslut att göra något - att hjälpa människor, så jag är volontär nu. Det hjälper. \n\nAnnars är jag student och det blev så svårt att koncentrera mig. Att sitta still och läsa är helt omöjligt i nuläget. Jag känner skuld att jag sitter hemma, det är varmt.. Men människor i Ukraina dör.",
+        "modified": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "38f2df66-fdf9-4a2b-a81e-2e46a99b317e"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "display_value": "Jag vaknade kl.6 den 24 februari och öppnade Instagram. Min väninnas inlägg handlade om att kriget hade börjats. Jag tänkte att hon berättad om sin mardröm men tyvärr..",
+        "modified": "Wed, 16 Mar 2022 18:46:35 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "a98d3dcd-19f3-4b19-8f6f-f4c658ca9c29"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

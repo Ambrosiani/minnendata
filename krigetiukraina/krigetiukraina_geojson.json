@@ -3040,6 +3040,38 @@
           58.757
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är fruktansvärt det som händer. Jag känner mig arg.…",
+        "date": "16 mars 2022",
+        "author": "Jonas K",
+        "url": "https://minnen.se/tema/krigetiukraina/19166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.73,
+          59.678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Ursprungligen är jag  från Belarus. Jag har många vänner och släktingar både i Ukraina i Ryssland. D…",
+        "date": "16 mars 2022",
+        "author": "Maria",
+        "url": "https://minnen.se/tema/krigetiukraina/19167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.067,
+          59.373
+        ]
+      }
     }
   ]
 }
