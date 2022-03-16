@@ -21867,5 +21867,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00279",
+    "contributor": {
+      "display_name": "MiThoYou"
+    },
+    "created": "Wed, 16 Mar 2022 02:26:48 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 02:26:48 GMT",
+    "position": {
+      "latitude": 59.36786904144534,
+      "longitude": 17.85868617479519
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19152",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "24df98d3-5c0f-45d7-bd6b-af73518f9fcb",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "display_value": "1961",
+        "modified": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "9a268859-7e95-46fc-b40f-6e72b430b300"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "display_value": "Tillståndet är katastrofalt och anser övriga länder är tvungna att ta obehagliga beslut för att rädda Ukraina.Jag har  även valt att tro att vi är tvungna att agera även om det blir krig.Vi kan inte tillåta oss att bara  titta på för då är vi likadana som Putin",
+        "modified": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "72e4b28a-8379-4c14-b112-f17bfbdfe35d"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "display_value": "Jag känner att jag skäms för Sverige och andra länder som inte vågar agera.Putin bestämmer och han mördat en massa oskyldiga människor.Bombar sönder ett helt land.Ukrainas president ber om hjälp och världen folk skriver Slava Ukraina  we stand with you och skickar hjärtan och ber för folket.Yror människor det hjälper?Det är som vanligt igen vi svenska ska vara så duktiga på att ta hand om andra men vad tänker de ukrainska kvinnor och barn som kommer hit?De får hjälp med husrum mat skola men får ingen hjälp där de vill ha/behöver till sina män som strider o ukraina.Skamlig och fruktansvärt.Europa och USA sviker .Jag är beredd att stå för ett 3dje värdskrig för att hjälpa Ukraina men andra vill som vanligt visa sig duktiga i sina lugna trygga hem.Solidaritet mellan oss människor borde gå först och Ukraina har ingen att tacka för riktig hjälp.Om jag blir attackerad på min gård hade jag inte uppskattat om Mina grannar skrev på nätet Vi är på dina sida och slängt in några handhjärtan och svenska flaggor och sedan skickat några lådor med ammunition.Jag hade trott önskat och hoppats de stått utanför mitt hus med sina vapen och sagt vi hjälper dig 👋💙💛",
+        "modified": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6a95b39f-b492-430a-9c2c-fd27c0000abf"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "display_value": "Framtiden blod svår och kanske väldigt obehaglig skrämmande och dödlig men det få vi ta även om det är fruktansvärt",
+        "modified": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a76fa4e7-35aa-4224-a3ff-ec82ccd1fd54"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "display_value": "Det på verkar mig negativt då ingen hjälper Ukraina på det sätt de behöver hjälp.Mitt egna liv är inte påverkat förutom att jag försöker få ihop saker man behöver ha hemma vilket är svårt då mycket är slut",
+        "modified": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9cf27b09-9e2c-4631-975d-8c8fa9dd9bed"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "display_value": "Hörde på radion och trodde inte det var sant.Kände mig orolig för människorna där och hur är ett krig idag.Kände med alla som har husdjur eftersom jag själv inte skulle lämna dem vid krig",
+        "modified": "Wed, 16 Mar 2022 02:26:48 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "32242d8f-7c66-4e4e-840c-4eced501d769"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

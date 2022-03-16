@@ -2880,6 +2880,22 @@
           57.889
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner att jag skäms för Sverige och andra länder som inte vågar agera.Putin bestämmer och han m…",
+        "date": "16 mars 2022",
+        "author": "MiThoYou",
+        "url": "https://minnen.se/tema/krigetiukraina/19152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.859,
+          59.368
+        ]
+      }
     }
   ]
 }
