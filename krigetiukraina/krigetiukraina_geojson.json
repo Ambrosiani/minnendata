@@ -3072,6 +3072,22 @@
           59.373
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig mestadels ledsen eftersom folket utsätts för ett hemskt lidande och lever i ovisshet,…",
+        "date": "16 mars 2022",
+        "author": "Dan Erik Alf Egon Johansson",
+        "url": "https://minnen.se/tema/krigetiukraina/19168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.718,
+          56.059
+        ]
+      }
     }
   ]
 }

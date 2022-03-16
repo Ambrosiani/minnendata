@@ -23244,5 +23244,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00295",
+    "contributor": {
+      "display_name": "Dan Erik Alf Egon Johansson"
+    },
+    "created": "Wed, 16 Mar 2022 19:57:18 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 19:57:18 GMT",
+    "position": {
+      "latitude": 56.059026363718,
+      "longitude": 12.718394277820696
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19168",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "9fc4e27c-0429-4135-99fc-531e960b407e",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "display_value": "1986",
+        "modified": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8fe717fe-ba72-4be2-b836-065659aa5dc4"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "display_value": "Ryssland är en hemsk angripare och mobbare en fara föe den civiliserade världen, och Putin måste sättas på plats en gång för alla. Jag önskar honom och alla andra ansvariga för invasionen en hemsk död.",
+        "modified": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "d2cbccd2-b638-4d91-af59-1567deccd3c5"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "display_value": "Jag känner mig mestadels ledsen eftersom folket utsätts för ett hemskt lidande och lever i ovisshet, och så många oskyldiga skadas och dör. Jag känner mig även ledsen över hur ett vackert land som kommit så långt på 30 år förstörs till smulor av den ryska fascistiska angriparen. När jag ser bilder eller filmer på barn som splittras från sina fädrar som tvingas stanna kvar och strida, när de får godis vid gränsen till Polen, eller bilder på skadade barn, då skär det i mitt hjärta och jag gråter ofta när jag tänker på dem.",
+        "modified": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "650442c6-c04b-4e35-a69d-6ea8ee333454"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "display_value": "Jag hoppas att freden kommer väldigt snart, och att hela den civiliserade världen hjälper till att bygga upp Ukraina till det det en gång var, det förtjänar deras starka, självständiga folk, och att de som flytt kan återvända till en säker plats. Jag hoppad Ryssland slutar vara en angripare och att även folket där får en bättre framtid utan att behöva leva i rädsla.",
+        "modified": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "91fd9a5a-fbc6-421b-bb54-48dfc8a63e7d"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "display_value": "Man känner sig lite mer orolig när Ryssland varnar länder som skickar vapen till Ukraina och Sverige inte är med i NATO. Tankarna går ibland till funderingar som, var ska vi åka om Ryssland väljer att attackera oss? Men mestadels är det som påverkar oss priserna som går upp, bland annat på bränsle, inte bara för oss, men för den svenska ekonomin och industrin.",
+        "modified": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "081970df-505c-465d-8f03-03f4733f1326"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "display_value": "Via nyheterna.  Jag kände mig chockad, ledsen, bestört. Orolig.",
+        "modified": "Wed, 16 Mar 2022 19:57:18 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9524a4dd-b0a0-4f8d-ac9a-993fa34fd403"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
