@@ -23577,5 +23577,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00298",
+    "contributor": {
+      "display_name": "Lärare"
+    },
+    "created": "Wed, 16 Mar 2022 20:53:45 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 20:53:45 GMT",
+    "position": {
+      "latitude": 59.39354216299998,
+      "longitude": 17.904386617272223
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19171",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "e07bdbc2-334e-4b3d-9940-c5bb30b71a67",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "display_value": "1996",
+        "modified": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "1831def2-42c3-4928-a703-c5f956620150"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "display_value": "Jag tänker att vi inte är redo. Jag behöver veta vad som händer om kriget kommer hit. Har vi skyddsrum på arbetsplatsen? Vilka rutiner finns med tanke på barnen? Vad behöver jag ha hemma? Vad gör jag om det inte finns ström? Hur hittar jag till mina nära och kära? \nOch om kriget inte kommer hit gäller ändå samma sak, vi är inte redo. Hur tar vi hand om alla dessa barn som bara ska sättas i svenska skolor? Vad blir konsekvenserna av att stötta Ukraina? Vad blir konsekvenserna av att gå med i NATO? Att inte gå med? \nVad händer med andra länder som majoriteten, eller de mest inflytelserika länderna inte håller med? Hur kommer deras ekonomi påverkas? Kan man bara stänga ute ett land så länge det känns rättfärdigat? Vart går gränsen för hur mycket andra länder ska få påverka ett land politiskt?",
+        "modified": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "141d74a5-8550-4988-8e4b-fcf2f5b0892b"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "display_value": "Nu när det har gått en stund så känner jag mest oro. Jag tänker inte nödvändigtvis så jättemycket på Ukraina, då det känns så långt borta. Det är väldigt svårt att sortera mellan nyheter med viktig information, och nyheter med enbart sorgliga och fruktansvärda historier. Men jag har slutat titta på nyheter om människorna i Ukraina eftersom att jag inte längre klarar av att se alla skadade, skakade och ledsna människor. De bilder jag tänker på mest är bilderna av män som vinkar av sina familjer. Nyblivna föräldrar. Jag känner stor oro över att kriget kanske kan komma hit, över att splittras från min familj. Jag oroar mig för barnen på min arbetsplats som får information från alla möjliga olika håll hela tiden, och som inte kan avgöra vad som är sant. Jag oroar mig över att de skrämmer varandra och jag våndas över att jag inte kan ge bra svar på alla deras frågor.",
+        "modified": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "8bed658b-7f9d-4c7f-9004-12af12d8081a"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "display_value": "Jag funderar på vad som händer oavsett vad som händer med Ukraina. Även om Ryssland ger upp sina planer, vad händer med alla familjer som flytt och som kommit till Sverige? Jag blir också orolig för mina barns framtid när jag ser hur kriget diskuteras på sociala medier och barnen sinsemellan. Vad för information tar de del av och vem är det egentligen som sprider denna..?",
+        "modified": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "2d3ce475-311f-44a3-b5a7-dd3071e8e35f"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "display_value": "Jag tittar ofta på sociala medier innan jag ska sova. Mycket i mina flöden är nyheter som gör att jag har svårt att somna. Ett antal gånger har jag vaknat med panikattacker på morgonen, utan att kunna förklara varför. Oron blir helt enkelt för stor. På min arbetsplats sker många problematiska diskussioner mellan barnen som jag inte vet hur jag ska styra. Framförallt mellan elever från andra länder och elever från Ryssland. Absolut svårast är samtalen mellan eleverna där något av barnen \"hejar\" på Putin. Ofta har de mer välformulerade argument än de andra barnen som bara får sin information från tiktok. Jag vill gärna hjälpa barnen att styra och sortera sina samtal och tankar, men jag vill inte nödvändigtvis styra och bestämma vad de ska tycka är rätt och fel - framförallt inte politiskt. Och trotts att folk lider och dör, så är barnens samtal ändå politiska. Det gör det väldigt svårt att balansera. Vi har fått vägledning i hur man pratar med barnen om deras oro, med det handlar mest om att man ska låta barnens frågor styra samtalet och att man ska prata med dem om källkritik. Det hjälper absolut en del, men inte i samtalen som sker barnen emellan på lektioner och raster. Jag känner också stor skuld över att inte kunna tillrättavisa barn som kommer med felaktig information från sociala medier. Mycket av det barnen säger vet jag är fel, men jag kan inte förklara varför eftersom jag inte vet vad som är rätt. Det är otroligt svårt att sortera bland nyheterna från Ukraina - vad är faktisk information som jag behöver och vad är sorgliga verklighetsskildringar?\nJag känner också stor stress och oro över att vi på min arbetsplats ( där barnen redan pratar om kriget på ett problematiskt sätt) förbereder oss för att ta emot barn från Ukraina. Hur mycket vi en förbereder oss så kommer det inte vara tillräckligt. Och då förbereder vi inte ens de elever vi redan har på hur barnen från Ukraina kommer må eller känna.",
+        "modified": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "3b2e24e4-a2e6-4520-983f-6fcfc4188ea5"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "display_value": "Jag såg det på nyhetssidor på sociala medier. Jag var hemma från jobbet den dagen så borde egentligen inte ha haft koll på nyheterna, men jag hade det ändå. Det kändes så långt borta så när jag fick veta påverkade det inte mig så mycket. Jag tänkte mest på alla människor som bara dagarna innan stått i Ukraina och sagt att de inte förväntade sig krig. Jag funderade på hur skolan jag jobbar på hanterade diskussionerna med eleverna, då vi har många barn med invandrarbakgrund, barn från Ryssland och barn från Ukraina. Jag tänkte att det kom väldigt olägligt, dagen innan sportlovet, och att många av barnen därför skulle behöva hantera känslor, information, missinformation och skrämsel på eget håll.",
+        "modified": "Wed, 16 Mar 2022 20:53:45 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "83e14cfc-46b1-4bc2-8381-ac746731113a"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

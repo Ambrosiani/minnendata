@@ -3120,6 +3120,22 @@
           60.128
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Nu när det har gått en stund så känner jag mest oro. Jag tänker inte nödvändigtvis så jättemycket på…",
+        "date": "16 mars 2022",
+        "author": "Lärare",
+        "url": "https://minnen.se/tema/krigetiukraina/19171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.904,
+          59.394
+        ]
+      }
     }
   ]
 }
