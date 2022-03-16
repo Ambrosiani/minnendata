@@ -22689,5 +22689,227 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00290",
+    "contributor": {
+      "display_name": "Camilla Tiredal"
+    },
+    "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+    "position": {
+      "latitude": 59.04337529999999,
+      "longitude": 15.8709394
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19163",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "748f6218-f504-495d-89c5-05d653755728",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "1967",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "4661c470-962c-4974-849e-b2d4f8e53137"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Så oroligt",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e767ab89-7bfc-4cb7-8560-a728aaa88cf2"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Varför lär vi inte av historien",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "fa5a4b4e-6304-47ac-9467-32d08ab9847d"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Hoppas kriget blir kort och att hela världen hjälper till att bygga upp ett fritt Ukraina 🇺🇦",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "297d57e8-6fd2-40be-9283-8a76d5698136"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Alla mina vänner är nedstämda men alla vill hjälpa de på flykt",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ed72cd23-6779-4b02-9729-f819cd2e4188"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Kände bara en stor sorg",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "cb9364e9-82fe-4ad7-bd1f-4eb44fda9d03"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00291",
+    "contributor": {
+      "display_name": "Camilla Tiredal"
+    },
+    "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+    "position": {
+      "latitude": 59.04337529999999,
+      "longitude": 15.8709394
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19164",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "86e28845-1589-4252-954f-3dfbf7cb60e4",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "1967",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "a9150687-f305-4630-b5d1-9a82f7cf5baa"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Så oroligt",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "b0fa2c32-d5ea-4bfd-89f0-6fe878534d21"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Varför lär vi inte av historien",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "429a8b9e-60c5-4904-aee2-6343e2c239dd"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Hoppas kriget blir kort och att hela världen hjälper till att bygga upp ett fritt Ukraina 🇺🇦",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "13ec5f37-bd70-464d-97e1-1eb00911ee3a"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Alla mina vänner är nedstämda men alla vill hjälpa de på flykt",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ca41bd14-e256-4463-a43e-c6e464842e57"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "display_value": "Kände bara en stor sorg",
+        "modified": "Wed, 16 Mar 2022 15:36:34 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "f4b378ea-6f66-496d-a211-752bdef934c7"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

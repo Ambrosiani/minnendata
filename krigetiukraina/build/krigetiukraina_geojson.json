@@ -2992,6 +2992,38 @@
           59.531
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Varför lär vi inte av historien…",
+        "date": "16 mars 2022",
+        "author": "Camilla Tiredal",
+        "url": "https://minnen.se/tema/krigetiukraina/19163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.871,
+          59.043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Varför lär vi inte av historien…",
+        "date": "16 mars 2022",
+        "author": "Camilla Tiredal",
+        "url": "https://minnen.se/tema/krigetiukraina/19164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.871,
+          59.043
+        ]
+      }
     }
   ]
 }
