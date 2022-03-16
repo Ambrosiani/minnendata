@@ -3168,6 +3168,22 @@
           55.99
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Helt ärligt så är jag nog mer orolig över konsekvenserna för vad pandemin och kriget kommer att kost…",
+        "date": "16 mars 2022",
+        "author": "En stund på jorden",
+        "url": "https://minnen.se/tema/krigetiukraina/19175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.776,
+          60.622
+        ]
+      }
     }
   ]
 }

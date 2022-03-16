@@ -23910,5 +23910,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00302",
+    "contributor": {
+      "display_name": "En stund på jorden"
+    },
+    "created": "Wed, 16 Mar 2022 22:36:36 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 16 Mar 2022 22:36:36 GMT",
+    "position": {
+      "latitude": 60.621607,
+      "longitude": 16.775918
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19175",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "8bd68431-d80b-461e-969b-e10315e56ba1",
+    "values": [
+      {
+        "created": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "display_value": "1982",
+        "modified": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7dfd1425-3b4d-476e-b974-e1283307712e"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "display_value": "Vi går mot mörkare tider och borde hålla hårt i våra pengar just nu. Men det är inte slumpen, allt är uträknat...",
+        "modified": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "60b5c118-3aca-453e-ab66-ad2f283f94cc"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "display_value": "Helt ärligt så är jag nog mer orolig över konsekvenserna för vad pandemin och kriget kommer att kosta oss.\nElen, dieseln/bensin och nu maten ökar i pris för var dag och kommer att dela upp Sverige, mellanklassen försvinner och kvar blir dom extremt rika kontra dom urfattiga. Det skrämmer mig mer och kommer att ge förödande konsekvenser",
+        "modified": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "bc49ec7d-115d-46d3-a8d6-dff1f4622858"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "display_value": "Det som händer i Ukraina är inget unikt då det pågår krig dagligen i många andra länder. Men plötsligt gick det att få fram pengar och förnödenheter för på hutlösa miljonbelopp i insamlingar till Ukraina..men var finns den hjälpen för våra utsatta och hemlösa i Sverige, varför väljer man att blunda för det?",
+        "modified": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "440fad08-c785-4d50-a812-630cd66c6885"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "display_value": "Kan inte påstå att kriget i sig påverkar oss är dessutom lite kluven ,tror inte riktigt att Ukraina är så oskyldiga. Det som påverkar oss nu är dom kraftiga prishöjningarna som kommit och kommer att stegra tack vare bla kriget",
+        "modified": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "006b6bed-d2fb-4318-8d48-24ef2b8b9cd1"
+      },
+      {
+        "created": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "display_value": "Blev upplyst via sociala medier, gick inte att missa.",
+        "modified": "Wed, 16 Mar 2022 22:36:36 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d6f120ce-088f-48d5-98c8-9e42483ca8ea"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
