@@ -2976,6 +2976,22 @@
           59.034
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "16 mars 2022",
+        "author": "Al Sling",
+        "url": "https://minnen.se/tema/krigetiukraina/19161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.785,
+          59.531
+        ]
+      }
     }
   ]
 }
