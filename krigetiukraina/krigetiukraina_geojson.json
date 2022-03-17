@@ -3376,6 +3376,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är 71 år och inte upplevt andra världskriget. Att någon som Putin vänder  upp och ner på hela vå…",
+        "date": "17 mars 2022",
+        "author": "Siv Svensson",
+        "url": "https://minnen.se/tema/krigetiukraina/19199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.381,
+          58.612
+        ]
+      }
     }
   ]
 }

@@ -25481,5 +25481,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00324",
+    "contributor": {
+      "display_name": "Siv Svensson"
+    },
+    "created": "Thu, 17 Mar 2022 23:21:49 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 23:21:49 GMT",
+    "position": {
+      "latitude": 58.61201769943596,
+      "longitude": 11.381147895264574
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19199",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d05638ff-d668-4dab-ba31-000bb674de5e",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "display_value": "1950",
+        "modified": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "01acffd3-01c2-456d-b45f-55a7c2aa5976"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "display_value": "Sverige kan vara utsatt eftersom vi ligger som en buffertzon. Det känns som Baltländerna och Finland är i farozonen, och vad händer då med Sverige. Gotland är naturligtvis intresserant för Ryssland. Händer något i den regionen hotar världskrig och då tror jag det är sluet på mänskligheten. Kärnvapen är det stora hotet.",
+        "modified": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "d254dfcf-6bf3-4fc6-aa67-694d966760ec"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "display_value": "Jag är 71 år och inte upplevt andra världskriget. Att någon som Putin vänder  upp och ner på hela vår nära omvärld är något jag aldrig trodde skulle hända i mordern tid. \nHur en enda person kan förstöra vanliga människors liv är helt otroligt.\nDe flesta människor, oavsett var i världen vi bor, vill leva sina liv, utbilda sig, arbeta, få barn, umgås. Krig är primitivt. Att vi människor över huvudtaget  lägger pengar på  skydda oss mot varandra,  är oerhört sorgligt. Tänk vad de resurserna skulle kunna användas till istället.  \nMänniskan  är tyvärr sin största fiende.",
+        "modified": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "332aafe3-580d-46c2-97e2-c7c855b2264c"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "display_value": "Dystert.  Min framtidssyn är betydligt mer negativ än för bara några  månader sedan. Vi har nyss fått vårt första barnbarn och ett till är på väg. Jag är starkt orolig vilken framtid som väntar dem.  Min generation har levt i en skyddad verkstad, där krig i västvärlden  var helt otänkbart. \nJag har inte upplevt någit liknande sen Kubakrisen  och då var  jag ett barn. Minns häftet ” om kriget kommer”. Det var skrämmande.",
+        "modified": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c5aacfb3-ce1e-4548-94d4-0c9932d84157"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "display_value": "Just nu känner jag inte att vi direkt påverkas, mer än en oro vad som kan hända.\nJag är mest orolig för  barn och barnbarn och deras framtid.\nVi bor på landet och har möjlighet att utöka odlingar, vi har höns och grannar som har djurhållning.",
+        "modified": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9d28a7ba-5501-4d3c-86b6-40f3c61b4d1b"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "display_value": "På nyheterna samma morgon, ville inte tro att det var sant.",
+        "modified": "Thu, 17 Mar 2022 23:21:49 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "e7df2bef-bcb4-40fb-b3ef-008ed76e6d2b"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
