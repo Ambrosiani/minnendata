@@ -24905,5 +24905,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00315",
+    "contributor": {
+      "display_name": "Lukas Baas"
+    },
+    "created": "Thu, 17 Mar 2022 15:53:35 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 15:53:35 GMT",
+    "position": {
+      "latitude": 55.59315999868125,
+      "longitude": 13.00934656679963
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19190",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "0c97a41c-ad1e-4e0b-83a5-7812defe8de0",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "display_value": "1996",
+        "modified": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "2b7036a7-8221-440f-970b-627e8ccebbf4"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "display_value": "Sverige är splittrat. Ohållbar situation med kriminalitet. En kris för att hitta bostäder är ett levnadsfaktum. Unga har inte råd att köpa eget.\nAtt folk bråkar istället för att lyssna på varandra är väldigt tydligt. Många som menar på att en stämpel definierar hela individen och avslutar samtalet med att kalla varandra glåpord eller stämpla någon som rasist.\nEuropa är enat under kriget nu, men innan detta så verkade det som att Polen inte höll samma värderingar vad gäller flyktingar, fram tills det handlade om Ukrainas befolkning. Man vill inte hjälpa syrier. England har lämnat EU och nu ångrat det.\nMycket av media fokuserar på detta kriget men glömmer att i Yemen så händer världens största humanitära kris någonsin, och dessa människorna har inte en iPhone och kan filma vad som händer, så det är svårt för deras befolkning att vädja till omvärlden. Samtidigt har vi mer koppling till Ukrainas folk pga att dom är i Europa och det skapar helt andra förutsättningar.",
+        "modified": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "bc9cac70-71cb-45c3-8f1d-ccf7b3b04121"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "display_value": "Det är en så fruktansvärt komplicerad historia bakom allt, men i allra största utsträckning är det hemskt och förkastligt att en man som söker makt kan rättfärdiga att mörda barn och gravida kvinnor. Bomba sjukhus där unga mödrar håller sina nyfödda. Bomba kulturarv och historiska platser där offren av förintelsen ska kommas ihåg. Vem ska komma ihåg offren från WW2 när ni bombat sönder deras minneslund?\nVi kommer behöva en ny minneslund efter detta, en dedikerad till krigsoffren i Ukraina-Ryssland konflikten.\nEn till alla unga värnpliktiga ryska soldater som blivit manipulerade för att ge sina liv i onödan.\nEn för alla offer dessa unga männen tvingats mörda.\nJa - Man har alltid ett val. Men i Ryssland betyder det en kula i ryggen av din ”kamrat”.",
+        "modified": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "f8692283-45e0-466a-82a8-709325c6fc23"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "display_value": "Jag hoppas Putin blir avsatt, får ett dödsstraff för sina brott och att Ryska folket får betala för reparationerna av Ukraina.\nProblemet är Rysslands media. Dom menar på att dom inte ens en gång har bombat Ukraina. Dom menar också på att dom slåss mot Ukrainas nazister. Ukraina har problem med Nazism, men det är knappast mätbart med tanke på att dom fick 2% av rösterna i förra valet - Något Ryssland självklart aldrig kommer berätta för sitt folk. Jag tror när allt detta kommer till ljuset och deras befolkning får se vad det är dom har gjort mot sitt grannland som endast ville ha möjligheten att kunna försvara sig själva. - Jag tror Ukraina kommer vinna, och om Putin inte blir avsatt så kommer det bli ett anfallskrig i Ryssland där väst visar att om man vill vara med i leken så får man leken tåla.",
+        "modified": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "ba4bc122-363d-401f-ad0c-1d7eac05825e"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "display_value": "Mina föräldrar har sålt sitt hus och vägrar köpa ett nytt eftersom man är rädd att det kommer bombas sönder av Ryssland.\nFörberedelser har gjorts att fly till ett nära grannland som är Natomedlem hem till nära och kära ifall stunden kräver det.\nJag har börjat sälja av mig mina fysiska ägodelar för att ha en startkassa och kunna flytta utomlands.",
+        "modified": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ba5df932-1ed3-4031-bdbf-5b7024adc137"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "display_value": "Jag minns tydligt att jag precis hade gjort mig i ordning och satt mig ner för att äta frukost innan jobbet den 25:e Februari. Det var då jag läste det på nyheterna på mobiltelefonen att Putins regim hade valt att attackera. Kaffet satt i halsen.\nDet hade varnats ett längre tag för att det skulle bli allvarligt, men man hade hoppet om att mänskligheten skulle ha förstått - Det har vi inte än.",
+        "modified": "Thu, 17 Mar 2022 15:53:35 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "50846778-1e4d-4cf0-9dfe-5ead77b296f1"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

@@ -3296,6 +3296,22 @@
           57.721
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är en så fruktansvärt komplicerad historia bakom allt, men i allra största utsträckning är det h…",
+        "date": "17 mars 2022",
+        "author": "Lukas Baas",
+        "url": "https://minnen.se/tema/krigetiukraina/19190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.009,
+          55.593
+        ]
+      }
     }
   ]
 }
