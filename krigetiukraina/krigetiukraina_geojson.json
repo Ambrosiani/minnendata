@@ -3280,6 +3280,22 @@
           65.592
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är dag 22 av kriget i Ukraina. Jag räknar dagarna. Det är som en ny tideräkning har börjat. Följ…",
+        "date": "17 mars 2022",
+        "author": "Anna",
+        "url": "https://minnen.se/tema/krigetiukraina/19189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.939,
+          57.721
+        ]
+      }
     }
   ]
 }

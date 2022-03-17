@@ -24715,5 +24715,195 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00312",
+    "contributor": {
+      "display_name": "R."
+    },
+    "created": "Thu, 17 Mar 2022 13:54:09 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 13:54:09 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19187",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "9826adaa-93fe-4075-ae4d-087284a760a2",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 13:54:09 GMT",
+        "display_value": "1985",
+        "modified": "Thu, 17 Mar 2022 13:54:09 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "5c01e756-e37b-4ee0-846c-35d98ebe4663"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 13:54:09 GMT",
+        "display_value": "Jag kände först, ärligt talat, att kriget markerar ett slut för Putins regim. Nu är landet helt isolerad, och vi hoppas, precis som ukrainare, att Putin kommer att dödas av oligarker ganska snart, och Ryssland blir äntligen en demokratisk stat; låter ganska naivt/blåögt men så är det. Men, ju mer är regimen isolerad, desto farligare kan det kännas för alla... eftersom de som finns kvar i Ryssland verkar vara helt 'Z'-ombifierad, det finns kanske en djup rädsla hos oss alla att det kommer att sluta i kärnkriget.",
+        "modified": "Thu, 17 Mar 2022 13:54:09 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ca955e97-10a5-4cae-a030-6efdd2fcec50"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 13:54:09 GMT",
+        "display_value": "Min mamma har ryska efternamn, rötter och var en stolt Moskvabo innan hon flyttade till Stockholm, och hon är helt krossad. Hon förlorade sin lägenhet i Moskva och all inkomst därifrån pga sanktionerna och att ryska Visakort inte fungerar längre i Sverige, hon kommer inte ha råd att åka dit och hälsa på/trösta sina släktingar pga flygsanktionerna... och hon aldrig visade något stöd för Putins regim, dessutom när hon skrev stödjande ord på Facebook om Ukraina på ryska (typ, \"heja Ukraina, hoppas att vanliga folk i Ukraina överlever och kriget blir över snart\") fick hon massa näthat från rysktalande och blev tvungen att lämna Facebook tillfälligt. Vi pratar i telefon varje dag nu, på ryska, det är hennes livslinje nu.\n\nJag har vanliga svenska namn/efternamn och bor i Sverige nästan hela (vuxna) livet, känner mig främst som svensk och har svenskt medborgarskap. Om jag hade haft ryskt pass så ville jag gärna bränna den framför ryska ambassaden... det har jag inte. Men jag bestämde mig att dölja ett faktum att jag kan ryska, i framtiden. Jag talar fyra språk, kommer att annonsera på bl.a. LinkedIn att jag talar bara tre. Genomförde några projekt som stödjer Ukraina under dessa veckor, och känner att nu är jag äntligen på \"right side of history\". Men det sitter en rädsla kvar. Rädsla för min mamma, att hon skulle stämplas av Putins regim som landsförrädare... rädslan att om någon skulle veta att jag kan ganska flytande ryska och föddes till och med i Moskva (trots allt) kan jag själv stämplas som en ryssfascist t.ex på jobbet trots en blandat svensk/rysk ursprung, trots att jag nästan skriker \"SAVE UKRAINE\" genom mina projekt. Jag känner att jag måste få terapi angående detta redan.",
+        "modified": "Thu, 17 Mar 2022 13:54:09 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "8adfccc2-a8f6-47de-88ca-f2d56f52d0b1"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 13:54:09 GMT",
+        "display_value": "Min mamma ringde mig tidigt på morgonen, gråtande. Jag hade haft en inre känsla att kriget skulle påbörjas innan dess, följde nyheterna om militärövningar nära ukrainska gränsen noga. Jag sov bara fyra timmar... Efter lektionerna på uni sprang jag till Lidl att bunkra upp. Efter detta sov jag som ett barn... och tänkte, nej, det skulle aldrig hända, det var bara en mardröm, eller hur? Men då började det krypa in att det var ingen mardröm utan mardrömslik verklighet.",
+        "modified": "Thu, 17 Mar 2022 13:54:09 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9651e675-fc58-4c6e-8471-4fe323153eef"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00314",
+    "contributor": {
+      "display_name": "Anna"
+    },
+    "created": "Thu, 17 Mar 2022 15:25:37 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 15:25:37 GMT",
+    "position": {
+      "latitude": 57.72075634383138,
+      "longitude": 12.93873088662501
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19189",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d57f1d41-573a-4d92-9e27-94f4c5ad805d",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "display_value": "1983",
+        "modified": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "719cb45c-31a7-4ed7-85ad-f808441fdc5a"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "display_value": "Att Putin måste dö. Putin måste dö. Han kommer aldrig sluta, han kommer aldrig ge sig. Ingen av oss är säkra så länge han lever. Putin måste dö. Jag hoppas det finns någon modig som kan ta livet av honom. Han är sjuk i huvudet, på ett sätt som inte går att laga.\n\nKänner ändå att de flesta på något plan lider även med vanliga ryssar. Det är inte rasism mot dem, än åtminstone, kanske om kriget fortsätter. Alla förstår att ryssarna som inte är i ryssland också på något vis har flytt därifrån. Jag hoppas att det inte blir ett världskrig. Jag hoppas så innerligt att det inte blir ett världskrig. Det klarar nog fan inte planeten.",
+        "modified": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "c8cd37e1-606c-40b8-996d-1510d01b286e"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "display_value": "Det är dag 22 av kriget i Ukraina. Jag räknar dagarna. Det är som en ny tideräkning har börjat. Följer situationen dygnet runt. Har anmält mig frivillig till flyktingmottagandet, vänner har redan tagit emot flyktingar till sitt hem. Det är ofattbart. En katastrof av ofattbara mått. Varje kväll har jag ångest när mörkret faller, när sirenerna börjar tjuta på livestreamsen, när bomberna börjar hagla över ukrainarna. Jag vill inte sova, jag vill inte vara så bortskämd att kunna ligga där i min varma säng, medan de sitter i skyddsrum och hoppas att det inte är just de som träffas den här gången. Så fort jag vaknar på morgonen går jag igenom nyhetssidor och sociala medier. Det är i mina tankar hela tiden. Har beställt en rysk parlör och övar ukrainska i duolingo. Vi vet inte hur många som kommer, hur många som behöver hjälp, hur många som behöver någon. Jag är rädd att kriget kommer hit också. Jag hoppas att någon kommer finnas där för mig så som jag försöker vara där för flyktingarna nu, om jag också blir flykting.\n\nJag är så otroligt imponerad av Ukraina. Hur de står emot, slår tillbaka, offrar allt. Jag tror inte att vi skulle vara så modiga om kriget kom hit. När Ukraina vinner kriget vill jag åka dit och besöka detta hjältarnas land.",
+        "modified": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "f4c8c502-978b-44f6-a19c-a8cb705b727d"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "display_value": "Jag försöker leva som vanligt. Går till jobbet, spelar datorspel, träffar vänner. Människan är sådan att hon tuffar på, fortsätter göra sina vanliga saker så länge det är möjligt. Det är det som alltid talar mot en systemkollaps, för människor kommer bara fortsätta försöka jobba för att få mat, husrum och värme, på olika sätt. Jag vet inte var det här kommer sluta, men människan kommer ta sig igenom detta också. Som kackerlackor. Vi är som kackerlackor som aldrig går att bli av med. Fast mer mordiska och destruktiva.",
+        "modified": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "bbc23072-7785-402e-bf6d-8104a58190ed"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "display_value": "Alla pratar om kriget hela tiden, överallt. Det går inte att undvika. Vi försöker vara tappra, men alla är rädda på något plan. Det är en osäkerhet som genomsyrar allt, som en viskning ständigt i bakgrunden av varje samtal. Alla jag känner köper på sig mat, försöker bygga sig en reserv. Många har funnit ett plötsligt intresse i överlevnadsprylar som de inte hade för några veckor sedan. Det känns som att vi köper en jävla massa prylar, som blir som halmstrån vi försöker klamra oss fast vid, för vi befinner oss i ett fritt fall där vi inte vet var vi kommer landa.",
+        "modified": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "5c4f2edb-b29a-4f85-b5cb-48d1c3033f35"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "display_value": "Jag fick veta det genom sociala medier. Jag fick sådan ångest att jag kräktes. Jag tänkte: \"Nu är världskriget här. Nu dör vi allihop.\" Det fanns inte att Ukraina skulle kunna stå emot Ryssland, en sådan jätte.",
+        "modified": "Thu, 17 Mar 2022 15:25:37 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "1ac2096b-5f18-499b-8e25-4bbcbbeb5ec9"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
