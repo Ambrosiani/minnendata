@@ -24076,5 +24076,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00304",
+    "contributor": {
+      "display_name": "Vira"
+    },
+    "created": "Thu, 17 Mar 2022 00:18:42 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 00:18:42 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19177",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "68f61a03-1138-41c2-a743-e3d077c7774b",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "display_value": "1987",
+        "modified": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "a61f3d84-c59f-4b43-a9c3-33676d8abf90"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "display_value": "Känns som att alla lider med folk i Ukraina, många ställer upp och hjälper till. Men det känns också som att många tänker att det där är en konflikt mellan Ukraina och Ryssland: ”låt de bråka med varandra, det rör inte oss”.",
+        "modified": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "098887ce-bafa-4c11-8700-3c9213d3d9bc"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "display_value": "Mitt hjärta går sönder i tusen bitar. Jag gråter och gråter och gråter. Jag sitter liksom i min trygga lägenhet i Stockholm med mitt barn medans andra barn dör under kulor eller bomber just nu i skrivande stund. Det går liksom inte att ta in. Vill att detta helvette ska ta slut. Att folk, barn, mammor, söner, äldre, djuren ska leva. Detta krig skapar så många trauman.  Det gör så ont. Hatet mot angriparna växer och växer. Jag kan inte förstå hur man kan kriga år 2022 och döda oskyldigt folk?! Jag förstår inte...",
+        "modified": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "0bc51870-1a63-4c10-9a6f-c4e9a241a6ef"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "display_value": "Framtiden känns så osäkert. Ingen aning vad som väntar. Kriget var ju ändå oväntat. Om det oväntade har skett, vet ej vad som kan sne framöver. Orolig för alla människor som förlorat någon, förlorat sina hem, som har flytt. Hur ska det gå? Hur lever man vidare? Hur?",
+        "modified": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "4429363b-832b-409d-84c3-3c6b853549dd"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "display_value": "Jag mår inte bra. Har svårt att äta, sova, koncentrera mig, ta hand om mig, mitt barn och min fanilj som är här. Eftersom det är många upprörda känslor så uppstår även onödiga konflikter inom familjen. Känns som att det är krig i Ukraina och krig inom familjen. Allting bara rasar och går sönder. Tillvaron vänds upp och ner.",
+        "modified": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9f599275-1f82-4227-8328-c622b7ea30f0"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "display_value": "Jag vaknade på morgonen och såg på mobilen nyheten om att Ryssland hade bombat flera städer i Ukraina, inklusive i min hemstad Ivano-Frankivsk. Paniken slog till då alla trodde att om något skulle hända så skulle det hända främst i östra Ukraina och i Kyiv. Men att det skulle bombas även i västra Ukraina kom som en dubbellkäftsmäll. Jag förstod att det värsta man trodde har börjat ske. Rädsla och oro tog över kroppen och sinnet. Ringde runt till alla släktingar för att kolla läget. De var okej, chockade, rädda men ok. De lever. Jag sjukanmälde mig på jobbet.",
+        "modified": "Thu, 17 Mar 2022 00:18:42 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "89a6b189-7507-418b-9d1e-005f2b0610ea"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

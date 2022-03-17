@@ -3200,6 +3200,22 @@
           58.448
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt hjärta går sönder i tusen bitar. Jag gråter och gråter och gråter. Jag sitter liksom i min tryg…",
+        "date": "17 mars 2022",
+        "author": "Vira",
+        "url": "https://minnen.se/tema/krigetiukraina/19177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }
