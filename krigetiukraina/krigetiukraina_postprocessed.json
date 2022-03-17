@@ -25370,5 +25370,116 @@
     },
     "uuid": "8b3a42ab-c0c3-4deb-aa2e-09350a17e63d",
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00323",
+    "contributor": {
+      "display_name": "Olga Garkavenko Hedenstedt"
+    },
+    "created": "Thu, 17 Mar 2022 22:40:45 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 22:40:45 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19198",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d8a1b01b-362c-4ab3-bd3b-a5ae814fa183",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "display_value": "1973",
+        "modified": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "2875af6f-3274-4b24-9988-dc14eca38b47"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "display_value": "Jag tycker att svenskarna visar full stöd för Ukraina och är mycket tacksam för det. Ryska kompisar i Sverige visar sig nästan alla stödja Putin, jag bryter av all relation pga det.",
+        "modified": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e6d252ac-eb3e-47ea-9d69-8ae72c55f7d5"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "display_value": "Jag är mentalt där, med mina anhöriga, med mitt folk. Känner mig stolt att vara ukrainare.",
+        "modified": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e2a1dfe1-af1c-4527-814e-083d085c83be"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "display_value": "Jag tror och hoppas att Ukraina vinner i kriget, fast det kommer kosta väldigt många liv. Alla tankar är positiva.",
+        "modified": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c311913d-dff1-4da0-9007-eb146a3e81a9"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "display_value": "Jag tänker 24 timmar om dagen på det. Ber till Gud, mycket orolig och förtvivlad",
+        "modified": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "95d2822d-bac7-4f95-b930-ffb994df6bb6"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "display_value": "Min f.d. Chef Skickade sms till mig och beklagade. Han visste att jag är från Ukraina",
+        "modified": "Thu, 17 Mar 2022 22:40:45 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "c57505cb-9991-4f22-8632-a5484b318366"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

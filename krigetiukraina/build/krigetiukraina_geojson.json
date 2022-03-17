@@ -3360,6 +3360,22 @@
           61.983
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är mentalt där, med mina anhöriga, med mitt folk. Känner mig stolt att vara ukrainare.…",
+        "date": "17 mars 2022",
+        "author": "Olga Garkavenko Hedenstedt",
+        "url": "https://minnen.se/tema/krigetiukraina/19198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }
