@@ -25016,5 +25016,227 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00318",
+    "contributor": {
+      "display_name": "Birgitta"
+    },
+    "created": "Thu, 17 Mar 2022 19:02:37 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 19:02:37 GMT",
+    "position": {
+      "latitude": 61.22730600000001,
+      "longitude": 14.0419871
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19193",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2934a812-6cc2-46bf-bc28-8a141b6c6b76",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "display_value": "1956",
+        "modified": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8f65c908-61db-407e-82d7-0f2bd4d4d341"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "display_value": "Det pågår mycket skit överallt. Trots att vi lever i en global värld är det svårt att ha någon rättvisande överblick. Kanske är det svårare att fatta något överhuvudtaget när det finns eldhärdar i hela världen i form av krig, svält, talibaner, uppfostringsläger mm. I det lilla, ökande matpriser, diskriminering av äldre och landsbygd. Etc!",
+        "modified": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "cfc85b41-70e3-4af2-ab23-47460e294291"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "display_value": "Fortfarande en isklump i magen, ilska, rädsla, oerhört tungt med tanke på alla oskyldiga människor, barnen, en galen ondska. Det går inte fatta att ett fåtal människor är i stånd att förstöra så mycket för så många.",
+        "modified": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e4fce137-974a-4d88-980d-6e58bdc09e81"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "display_value": "Putin förlorar, går under jorden och smider nya planer medan han vältrar sig i lyx, alltmedan Ukraina och Europa får betala rysskrigarens nota. Det blir konsekvenser över flera år framåt för västvärlden och kännbart för det ryska folket som pga Putin fått sitt land och sina liv förstörda de också!!",
+        "modified": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "8a949b02-3de6-47bf-86bf-ebe182cc291a"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "display_value": "Mest psykologiskt samt att vi pratar om Ukraina dagarna i ända. Skickar pengar!",
+        "modified": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "c6c2ddfb-22c5-462f-af0f-c405e0c4c54d"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "display_value": "Jag nåddes via TV, radio och sociala medier! Kände en isklump i magen. Tankarna gick vidare till om detta är början till 3:e världskriget.",
+        "modified": "Thu, 17 Mar 2022 19:02:37 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "6aab1e70-2a02-4541-b7c9-dff4d67fba9e"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00319",
+    "contributor": {
+      "display_name": "Anita Högström"
+    },
+    "created": "Thu, 17 Mar 2022 19:04:24 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 19:04:24 GMT",
+    "position": {
+      "latitude": 62.94803616639201,
+      "longitude": 18.22417482910156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19194",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b50f64c8-a1cc-46f5-93ec-65ea5dcc82af",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "display_value": "1957",
+        "modified": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7e338977-2b51-40de-9569-41b880cf66d0"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "display_value": "Den fred och trygghet vi på något sätt tagit för givet är inte längre så självklar, inte ens här i Sverige.\nJag kan känna en oro för tillståndet i Europa och världen. \n\nI det lilla har jag googlat på var skyddsrum finns i den stad där jag bor och har tankar om att ordna för oss så som MSB föreslår, att se till att vi kan klara oss i en vecka.\n\nDet finns så mycket olika åsikter som florerar i media, och experter som har olika teorier om vilket är det bästa sättet för Sverige att agera på.\n\nDet blir i längden tröttande och jag kan känna en stor maktlöshet.\n\nRäds en upptrappning av kriget och att det utvecklas till atomkrig.",
+        "modified": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "4581eb9c-67b3-4797-919b-15d6a9219029"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "display_value": "Tankar går till alla dessa människor som måste fly, till dem som väljer att stanna kvar och de som inte har något val.\nMitt hjärta går sönder av de bilder på små barn i täckjackor och tofsmössor på flykt, hållande sina mammor i handen, barn i barnvagnar. Barn på flykt från sin invanda miljö med skola, förskola, kompisar och den trygghet som är deras rättighet.\nEn vardag som för alla helt slås i spillror. Det är så ofattbart, så brutalt.\n\nTanken på den rädsla barnen upplever gör så ont så ont.",
+        "modified": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "54eb9bd4-ca70-46c8-9bec-3085895d35a6"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "display_value": "Den självklara tryggheten finns inte längre. Och varför skulle vi i Sverige i längden förskonas från det helvete så många i världen upplever?\nAllt är i en ständig förändring, men jag önskar att det goda i människan kunde få segra och att ett sunt förnuft istället för rädsla och maktbegär kan få råda.\n\nTänker på våra barn och barnbarn och hoppas att de får leva sina liv i fred.",
+        "modified": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "7c37be39-9118-47de-b11f-5c0b64967fbe"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "display_value": "Försöker ta del av det som händer och lyssnar mycket på radions nyheter och samhällsprogram.\n\nMåste dock skona mig själv från alltför mycket bilder, därför är radion att föredra.\nKriget lägger sig som ett mörkt raster över tillvaron nu.\n\nJag kan inte säga att det påverkar mig praktiskt, det är snarare en känsla av förlamning.",
+        "modified": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "f3e69b51-e35e-4e2c-9d7a-319111860749"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "display_value": "Jag var på besök hos vår dotter i Bollnäs och hade, som ofta på natten, P1 i öronsnäckan, då jag inte kunde sova. Rapporter började komma om den befarade invasionen. \nDet kändes som en mardröm, detta kan inte vara sant, att ett land oprovocerat går in i ett land militärt. I Europa år 2022.\nTankar på folket i Ukraina.  Känner förtvivlan och en enorm sorg.\nSamtidigt en känsla av ilska gentemot Rysslands ledare - med vilken rätt trasar man sönder ett folk och dess land!!!",
+        "modified": "Thu, 17 Mar 2022 19:04:24 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d936c639-c9f0-494e-b634-6e27e35fae91"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

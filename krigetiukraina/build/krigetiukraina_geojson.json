@@ -3312,6 +3312,38 @@
           55.593
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Fortfarande en isklump i magen, ilska, rädsla, oerhört tungt med tanke på alla oskyldiga människor, …",
+        "date": "17 mars 2022",
+        "author": "Birgitta",
+        "url": "https://minnen.se/tema/krigetiukraina/19193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.042,
+          61.227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tankar går till alla dessa människor som måste fly, till dem som väljer att stanna kvar och de som i…",
+        "date": "17 mars 2022",
+        "author": "Anita Högström",
+        "url": "https://minnen.se/tema/krigetiukraina/19194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.224,
+          62.948
+        ]
+      }
     }
   ]
 }
