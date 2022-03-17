@@ -24187,5 +24187,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00306",
+    "contributor": {
+      "display_name": "Kent Backman"
+    },
+    "created": "Thu, 17 Mar 2022 06:20:02 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 06:20:02 GMT",
+    "position": {
+      "latitude": 63.17115086898383,
+      "longitude": 14.815093649840456
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19179",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "40383046-9588-49e3-96f1-29f4059bf28b",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "display_value": "1962",
+        "modified": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7558f14c-c5a2-4ac1-808f-072c4e8e7ba9"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "display_value": "Världen är en blivande krigszon igen. EU blir tvungna till att se till att  ha en stark armé för att bemöta hotet från Putin.",
+        "modified": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ed2825bf-af72-4e2e-8dec-3363b490b6fd"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "display_value": "Putin genomför ett folkmord. Ett fullständigt horribelt och vansinnigt tilltag i modern tid.",
+        "modified": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7c789740-ecec-4d55-a32f-58d61c384672"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "display_value": "Att Putin inte kommer att nöja sig.med detta verkar uppenbart. Vi får förbereda oss på krig framöver då denne galning inte verkar ha vare sig samvete eller medkänsla.",
+        "modified": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "946a4bea-70ca-4941-a3f9-7f96e8224a4e"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "display_value": "Jag jobbar med en tjej från Ukraina så vi ser hur det illa detta påverkar dem.  Stigande priser gör att vi.kör.mindre och lagrar basvaror. Vi är förbannade på Putin för att han medvetet låter mörda kvinnor och barn.",
+        "modified": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9851c11a-ef5a-4697-9957-9089188a0f73"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "display_value": "SVT. Jag blev inte förvånad då Putins avsikter var uppenbara.",
+        "modified": "Thu, 17 Mar 2022 06:20:02 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "03131b83-f624-405a-b1d0-e88aef98141f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

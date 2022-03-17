@@ -3216,6 +3216,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Putin genomför ett folkmord. Ett fullständigt horribelt och vansinnigt tilltag i modern tid.…",
+        "date": "17 mars 2022",
+        "author": "Kent Backman",
+        "url": "https://minnen.se/tema/krigetiukraina/19179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.815,
+          63.171
+        ]
+      }
     }
   ]
 }
