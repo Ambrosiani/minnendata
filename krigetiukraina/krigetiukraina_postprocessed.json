@@ -25238,5 +25238,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00320",
+    "contributor": {
+      "display_name": "Ellinor"
+    },
+    "created": "Thu, 17 Mar 2022 19:13:56 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 19:13:56 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19195",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "44b52ab0-8994-48f2-ab0d-c6297837a4e2",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "display_value": "1959",
+        "modified": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "fb6dd3f8-114d-45c2-9497-ced7e55cf3e1"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "display_value": "Det är illa, mycket illa. Pandemier, klimatkatastrofer och krig. Man trodde ju inte att Sverige skulle bli en så otrygg plats. Vi är så naiva, så oförberedda och skulle inte ha en chans. Om man säger att ryska soldater saknade stridsmoral kan man ju fundera över hur det är med de svenska.. curlade 18-åringar som skulle få panik om det inte gick att ladda mobilen.",
+        "modified": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "7533a839-609e-4571-8382-96654bd2a038"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "display_value": "När jag var 12 och hade läst om 2:a världskriget och frågade min farmor (född 1914) varför de inte gjorde något, hur kunde de låta något så hemskt, så nära ske? Hon förklarade att de visste inte så mycket, först efter kriget kom rapporter och berättelser. Nu kan vi knappast skylla på att vi inte vet..skäms och känner skuld. Lider både med folket i Ukraina och de unga, ryska soldaterna. Hur är det möjligt? 2022.,",
+        "modified": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "19b4a0eb-d1c8-4248-9a39-4f74300861d2"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "display_value": "Hopp. Om vi bestämmer oss för att det är hopplöst så blir det just det. Jag hade länge planerat för en härlig pension med mycket resor, sol, kultur, god mat & dryck. Efter två år med pandemin kommer detta🤦‍♀️ Så ja, min framtidssyn har förändrats.",
+        "modified": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "943b6c4b-068b-49ba-bc4b-18e368aab5de"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "display_value": "Nybliven pensionär, har tid att oroa mig.. Är faktiskt lättad över att jag inte har några barnbarn att oroa mig för. Inga söner eller döttrar som riskerar att tas ut i strid, två vuxna döttrar men de är nog lite för gamla hoppas jag. Sålde av fonder och en del aktier i november och har aldrig haft rysslandsfonder så påverkas inte ekonomiskt. Har köpt ett stormkök och preppat lite mat och vatten. Har tagit reda på var närmsta skyddsrum finns. Hade tänkt renovera badrummet men avvaktar. Samtidigt måste man se framåt och ha hopp om att allt kommer att bli bättre. Har bokat en solsemester och köpt biljett till Stones konsert i sommar. Hoppet är det sista som överger en.",
+        "modified": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "5969f889-038c-49a0-9b26-826f6351ce58"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "display_value": "Vaknade tidigt på morgonen och kollade nyheter på mobilen, blev iskall och tänkte att nu är det slut.",
+        "modified": "Thu, 17 Mar 2022 19:13:56 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "c53a13a6-f3fb-4b5b-8e73-8ef351ea9d71"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
