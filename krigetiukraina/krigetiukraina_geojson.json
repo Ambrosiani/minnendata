@@ -3232,6 +3232,22 @@
           63.171
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag anser att det som händer är en attack mot den liberala världens principer. Jag ser barn som döda…",
+        "date": "17 mars 2022",
+        "author": "Oskar",
+        "url": "https://minnen.se/tema/krigetiukraina/19180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.975,
+          57.709
+        ]
+      }
     }
   ]
 }

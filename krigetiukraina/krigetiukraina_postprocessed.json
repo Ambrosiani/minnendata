@@ -24298,5 +24298,223 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00307",
+    "contributor": {
+      "display_name": "Oskar"
+    },
+    "created": "Thu, 17 Mar 2022 08:45:50 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 08:45:50 GMT",
+    "position": {
+      "latitude": 57.70887,
+      "longitude": 11.97456
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19180",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "96c1f644-e8d4-491d-800b-048f228ac859",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "display_value": "1988",
+        "modified": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "0911b7b2-1d53-4830-9e95-d16cf6497373"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "display_value": "Just nu är det en enorm enighet för det mesta. Det hörs ju folk klaga på bensin och diesel priser och matpriser men de människorna får kamma sig. Några hundra kronor får de faktiskt tåla så vi kan få slut på lemlästningen av barn i städer som Kharkiv och Mariupol.\n\nPolitiskt har den liberala världen enats och äntligen gör de sig av med allt vad ryskt inflytande heter.",
+        "modified": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "2e3bad61-e18c-4506-b96b-961c2de8db56"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "display_value": "Jag anser att det som händer är en attack mot den liberala världens principer. Jag ser barn som dödas, barn som påminner om mina egna. Allt för en diktators och hans hantlangares dröm om att styra ett land och folk för att återupprätta ett ondskefullt imperium. Vi måste göra allt vi kan för att stoppa honom. Högre bränslepriser och sämre ekonomi är inget pris att betala för att se Putin och hans närmaste hänga i galgen samt att hjälpa det modiga ukrianska folket.",
+        "modified": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "07fee6a1-f6ac-4e8b-bc16-58523e210b90"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "display_value": "Jag hoppas verkligen att Ukraina snart kan få fred. En fred på villkor som ger Ukriana rätten att behålla sin suveränitet. Att världen slutar vara rädda för Putin och Ryssland som visat sig vara en papperstiger än så länge. Jag hoppas även att Putin dödas av sina egna och att ryssarna ska ge demokratin och deras värderingar en chans. Annars hoppas jag att vi aldrig mer låter dem integreras I världsmafundet igen. Vi försökte en gång men deras mongoliska historia visar att de innerst inne är barbarer som kommer för att skövla och förgöra andra länder.",
+        "modified": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c42016f7-d2f4-424d-a483-1025bcf59ef9"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "display_value": "Jag har haft svårt att fokusera på jobbet. De övriga i min familj följer det inte alls. Mina barn är för små för att förstå, min sambo, hon vägrar lyssna för att hon blir stressad.\n\nJag har skickat så mycket pengar jag kunnat avvara. Jag har skickat till Ukrainska armén, till Unicef, rädda barnen, till privata insamlingar, erbjudit mig att skjutsa flyende ukrainare, köpt tröjor där vinsten går till Ukraina.\n\nJag hade gärna åkt ner själv och stridit. Jag har gjort lumpen och är en hyfsat bra soldat. Tror att jag skulle klara mig. Men min familj med sambo och två barn skulle ha svårt att klara sig utan mig och det skulle betyda slutet för vår relation... Jag önskar att kriget hade kommit senare eller tidigare så att jag kunde delta mer aktivt. Just nu är jag så låst med små barn som min sambo själv inte kan ta hand om då hon är utbränd just nu. Väldigt frustrerande.",
+        "modified": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "5a2295cf-7f3e-4c0e-a190-f5f1c07be9a2"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "display_value": "På morgonen, när jag vaknade och såg notiserna på min telefon som strömmat in under natten. Jag blev väldigt ledsen och deprimerad de följande dagarna.",
+        "modified": "Thu, 17 Mar 2022 08:45:50 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9eb496de-044b-4c52-a233-48580e1eab79"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00308",
+    "contributor": {
+      "display_name": "E"
+    },
+    "created": "Thu, 17 Mar 2022 08:48:09 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 08:48:09 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19181",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "94ce45d5-660c-4f55-9547-5305e30156a7",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "display_value": "1966",
+        "modified": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "b3cf9a28-3794-40cd-9f9f-115478b9ba57"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "display_value": "Som jag redan nämnt - jag har fått en insikt om att \"vi\" i världssamfundet gått förlorat om något viktigt - tilliten till de överenskommelser vi (borde) ha om okränkbarhet och respekten för mänskligt liv. Hur ska vi kunna återupprätta detta? Dessutom har vi (i Sverige, Europa) motvilligt dragits in i ett kallt krig igen. Vi tvingas dansa efter en maktfullkomlig galnings pipa och rusta upp och kavla upp ärmarna och resa våra värn och gevärspipor.",
+        "modified": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "5c51889a-bff9-4a2a-b589-5bb30c616490"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "display_value": "En djup sorgsenhet över maktutövandet, offrandet av mänskligt liv där invasionsmakten verkar ignorera de överenskommelser (jag trodde vi hade) om mänskliga rättigheter, okränkbarhet, nationell suveränitet och krigets lagar. Jag upplever en förlust av tillit,  förutom det starka medlidande jag upplever med människor som drabbas.  Dessutom upplever jag en överväldigande vrede där jag skulle vara i stånd av att dräpa diktatorerna som står bakom spakarna till allt detta. Som en starkt ansvarstagande individ jag är, upplever jag också frustration av att \"se på\" händelseutvecklingen utan att kunna ingripa. Tidigt i invasionsförloppet förstod jag att det här blir en omvälvande händelse som kommer att förändra allt för de drabbade, omkullkasta tillvaron från en stillsam normal vardag till ett kaotiskt inferno utan motsvarighet. På sätt och vis lever även vi i Sverige i en bedräglig föreställning om bekvämlighet och osårbarhet som när katastrofer inträffar drabbar många skoningslöst.",
+        "modified": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "0482728b-1e4d-413e-a6c0-6882191ac65d"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "display_value": "Det finns ett bortom detta. Vårfåglarna fortsätter att kvittra, barn fortsätter att födas - vi fortsätter peta ner våra frön i backen - samtidigt som många av våra medmänniskor har offrats och får inte vara med nästa vår. Min framtidssyn är både mörk och ljus. Jag är för gammal för att bry mig om min egen framtid - men ser på mina barn och barnbarn att de har de rätta värdena och kommer att göra allt de kan för att skapa en bra värld i det lilla och stora.",
+        "modified": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f68b141a-3ec9-45a8-9e5b-4898d587dc86"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "display_value": "Egentligen inte på något märkbart sätt förutom de känslomässiga reaktioner som sköljer över oss emellanåt. Min man vill inte se på nyheterna då han har svårt att hantera sina känslor. Jag däremot, vill följa allt, förstå och analysera händelseförlopp. I övrigt rullar vardagen på - men där jag har svårt att i alla lägen hänge mig åt frågor, aktiviteter som känns futtiga och triviala i sammanhanget.",
+        "modified": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ee8ac90d-0d4a-4557-815e-02c0278ffcd4"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "display_value": "Det var under den vanliga morgonrutinen med frukost till morgonnyheterna, den 24 februari kl 07.30 som nyheten rullades upp framför mig. Jag blev sittandes framför nyheterna en avsevärd tid och kände mig lamslagen och med en djupt sorgsenhet blandad med meningslöshet och vrede.",
+        "modified": "Thu, 17 Mar 2022 08:48:09 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "b8e209d6-bfdc-4ffa-becf-6ec7a77a4a6a"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
