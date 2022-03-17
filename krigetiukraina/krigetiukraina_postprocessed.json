@@ -25345,5 +25345,30 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00321",
+    "contributor": {
+      "display_name": "Tiiu"
+    },
+    "created": "Thu, 17 Mar 2022 20:59:29 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 20:59:29 GMT",
+    "position": {
+      "latitude": 61.9830068,
+      "longitude": 17.0591837
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19196",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "8b3a42ab-c0c3-4deb-aa2e-09350a17e63d",
+    "hasCoordinates": true
   }
 ]

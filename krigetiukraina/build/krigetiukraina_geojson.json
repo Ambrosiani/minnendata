@@ -3344,6 +3344,22 @@
           62.948
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "17 mars 2022",
+        "author": "Tiiu",
+        "url": "https://minnen.se/tema/krigetiukraina/19196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.059,
+          61.983
+        ]
+      }
     }
   ]
 }
