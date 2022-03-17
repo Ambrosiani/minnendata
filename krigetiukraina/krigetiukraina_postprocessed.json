@@ -24604,5 +24604,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00311",
+    "contributor": {
+      "display_name": "Pierre Holmberg"
+    },
+    "created": "Thu, 17 Mar 2022 11:26:42 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 17 Mar 2022 11:26:42 GMT",
+    "position": {
+      "latitude": 65.59231719234594,
+      "longitude": 19.172063735790307
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19184",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2d2cd339-bab6-48cf-b058-42cfb86e3752",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "display_value": "1983",
+        "modified": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "5b2b0816-df48-400d-8cf7-72de914d9f09"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "display_value": "Alla är oroliga över ett tredje världskrig, Nato kan inte gå in och stänga luftrummet i ukraina utan att stöta sig med ryssland som hotat med kärnvapen.. \nDet känns overkligt att ens skriva saker som detta.. För ca en månad sedan så var allt frid och fröjd, och nu diskuterar vi dessa saker..\n\nEuropa kommer aldrig att vara sig likt efter denna händelse.. Freden är bruten och osäkerheten har ökat väldigt mycket.. I nuläget är jag mest orolig över kärnkraftverket.",
+        "modified": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ff3c8d2b-44f7-41d2-a785-d0c98e0f1c5c"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "display_value": "Jag känner oro, i nuläget så känns det iallafall som att vi kommer klara oss från en invasion i Sverige, men veta kan man ju inte. Ukraina är ett land jag ärligt talat inte haft så bra koll på innan. Men min bild har förändrats, de är ett mycket livskraftigt folk som kämpar för att få behålla sin frihet. Många länder skjuter till vapen och ammunition så de kan fortsätta kriga för sin frihet.\n\nSen är de frågan om Nato medlemskap eller inte..\nDetta blir intressant att läsa om i arkiven år från nu, då vet vi om vi gjorde rätt eller inte.. \n\n.in tanke har varit att vi ska gå med i nato unisont med Finland. Men vi, som klarat oss utan medlemskap och levt i fred i 200 år kanske ska tänka lite längre.. Ett medlemskap skyddar oss om ryssen kommer svar ja, men detta innebär ju också att Sverige kommer börja dras med i krig å Natos vägnar framöver. Då har vi ju som förlorat stämpeln som Landet som har varit aliansfritt och kämpat för fred, medling, humanitära åtgärder.. Är vi villiga att offra vårt väletablerade rykte mot att gå med i en allians? \n\nJag vet inte vad som är rätt eller fel men jag hoppas verkligen att Sverige gör rätt val..\n\nJag går i tankarna om att preppa utifall det ändå blir krig i Sverige.. Jag har bland annat köpt jodtabletter.. \nOrsaken till det är att Ryssen har tatt över kärnkraftverk i Ukraina och samma personal har tvingats jobba utan avbyte i över 3 veckor..\nDe är väldigt nära att kollapsa och då kan vi få en ny härdsmälta i tjernobyl..\nJag har även beställt en vevradio med powerbank och fubderar på att införskaffa mylarpåsar för att förvara torrvaror.. Jag och min sambo har pengar avsatt till att skaffa hus, men det känns inte alls motiverat förrän denna konflikt är över.\n\nJag är lite bitter över att vi levt med corona sedan 2020 och nu börjar vi släppa upp restriktionerna.. På jobbet så behöver jag inte använda visiret längre, det räcker med ansiktsmask... Livet började just återgå till det normala och så ska vi plötsligt oroa oss för krig, nato, eventuell härdsmälta, preppa, kolla upp vart närmsta skyddsrum ligger etc...",
+        "modified": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "18653d0e-efe5-4f77-90d0-132a6192ab96"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "display_value": "Jag vågar inte planera något större veslut innan vi sett vad allt detta kommer leda till flr sveriges del..\nHusköp är lagt på is och ingenting känns riktigt roligt.. Jag försöker distrahera mig med andra saker men det fungerar sällan. Jag hoppas att det finns en framtid som ser ljusare ut än den vi målar upp idag..",
+        "modified": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "352c5e06-ea0c-4f8f-99c6-6c1bb9eb0a00"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "display_value": "Både jag och min sambo stänger av nyheterna ibland eftersom man bara mår så dåligt när man ser filmklipp på när ryska stridsvagnar står och skjuter på skolor, civila byggnader, sjukhus och nu senast ett BB!! \n\nJag grät en morgon när jag läste om ett barn som flytt kriget med sin mamma. Barnet berättade att hon blev rädd om nätterna att stridsvagnarna skulle komma och äta upp henne... \n\nJag tänker på alla barn som är i samma sits, alla barn som dött i detta vansinneskrig, alla barn som fortfarande är fast i ukraina.. Detta gör så ont i mitt hjärta..",
+        "modified": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "74661144-69df-4284-bc14-5bb86eb583fd"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "display_value": "Fick reda på det via tv, nyheterna. Jag och min sambo Susanna spekulerade mycket om vad detta skulle leda till. Satt uppe hela natten och läste nyheter och följde utvecklingen",
+        "modified": "Thu, 17 Mar 2022 11:26:42 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "6adcf5d0-cbe2-4c11-a96e-503cb83d2fa6"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

@@ -3264,6 +3264,22 @@
           59.921
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner oro, i nuläget så känns det iallafall som att vi kommer klara oss från en invasion i Sver…",
+        "date": "17 mars 2022",
+        "author": "Pierre Holmberg",
+        "url": "https://minnen.se/tema/krigetiukraina/19184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.172,
+          65.592
+        ]
+      }
     }
   ]
 }
