@@ -24516,5 +24516,93 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00310",
+    "contributor": {
+      "birth_year": 1957,
+      "display_name": "Thorsten Schütte",
+      "gender": "man",
+      "place": "Sala",
+      "uuid": "40694c46-ec9e-4afb-9269-5366ff6bd354"
+    },
+    "coordinates": "",
+    "created": "Thu, 17 Mar 2022 10:45:34 GMT",
+    "image_dms_id": "013AksaLHNc5",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Thu, 17 Mar 2022 10:49:17 GMT",
+        "description": "Filmad intervju via Zoom, 17 mars 2022",
+        "dms_id": "013AksaLHNc5",
+        "license": "CC0",
+        "mime_type": "video/mp4",
+        "modified": "Thu, 17 Mar 2022 10:49:17 GMT",
+        "name": "video1891412290.mp4",
+        "order_by_number": 1,
+        "owner": "Jörgen Löwenfeldt/Nordiska museet",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "video",
+        "uuid": "570258fb-f481-4891-821b-59d1f90b33ed"
+      }
+    ],
+    "modified": "Thu, 17 Mar 2022 10:49:51 GMT",
+    "position": {
+      "latitude": 59.9208594,
+      "longitude": 16.606328
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19183",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "6e9670a5-d64c-4d4d-ba4a-16967fda237a",
+    "values": [
+      {
+        "created": "Thu, 17 Mar 2022 10:45:34 GMT",
+        "display_value": "Filmad intervju via Zoom den 17 mars 2022. Intervjuad är Thorsten Schütte, född i Tyskland 1957, boende i Sala. Han har tidigare lämnat in ett skrivet bidrag med arkivnummer M16/00047 (https://minnen.se/tema/krigetiukraina/18886).\n\nIntervjun utförd av Jörgen Löwenfeldt, projektledare digital insamling på Nordiska museet.",
+        "modified": "Thu, 17 Mar 2022 10:45:34 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "63e1e374-ac17-443c-931a-02e9ea6fd00e"
+      },
+      {
+        "created": "Thu, 17 Mar 2022 10:45:34 GMT",
+        "display_value": "",
+        "modified": "Thu, 17 Mar 2022 10:45:34 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "974256f9-c6c1-40f8-9123-f543480cb1e4"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

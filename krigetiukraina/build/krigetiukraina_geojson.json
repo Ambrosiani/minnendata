@@ -3248,6 +3248,22 @@
           57.709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Filmad intervju via Zoom den 17 mars 2022. Intervjuad är Thorsten Schütte, född i Tyskland 1957, boe…",
+        "date": "17 mars 2022",
+        "author": "Thorsten Schütte",
+        "url": "https://minnen.se/tema/krigetiukraina/19183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.606,
+          59.921
+        ]
+      }
     }
   ]
 }
