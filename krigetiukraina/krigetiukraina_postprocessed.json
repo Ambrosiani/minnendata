@@ -26367,5 +26367,227 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00334",
+    "contributor": {
+      "display_name": "Jonas Gross"
+    },
+    "created": "Fri, 18 Mar 2022 22:47:01 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 18 Mar 2022 22:47:01 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19209",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "87eb2cd4-afa7-4e5a-80db-518760bd0a16",
+    "values": [
+      {
+        "created": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "display_value": "1971",
+        "modified": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "9b23b07b-a377-466d-b8a2-a9fbc4a4fc8a"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "display_value": "Osäkert läge med passiva politiker i Europa. En stor skuld för det geopolitiska läget vilar på Tyskland och Angela Merkels handelsutbyten och beroenden av Ryssland.",
+        "modified": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "adaa97dd-84c3-499c-964b-0475a6c8ace9"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "display_value": "Efter att ha bott i Dnipro och Kyiv och med familj och vänner som befinner sig i landet är det känslosamt. Jag tillbringade många dagar i demokratimanifestationen EuroMaidan, och förstod redan då vidden av folkets styrka, organisation, mod och enade inriktning. Ryssland påbörjade sina övergrepp mot Ukraina långt innan 2014, men då började de försöka ändra på gränserna med en olaglig annektering av Krim och iscensatt påhittat krig för att ”rädda”rysktalande i Donbass. Något som alltså är ren teater som diktatorn använder i sin propaganda. Jag känner stor frustration att rysk desinformation har fått flöda så fritt och att våra utrikesministrar, i s.k. diplomatisammanhang, verkar ha blundat för allvaret som pågått i många år.\nMed tanke på Rysslands fejk-motiv och de fasansfulla brott de begår med detta krig och alla ukrainares lidande så har jag inget till övers för någon ryss. De flesta visar mest likgiltighet.",
+        "modified": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ba8b6c22-fce2-4320-8f55-6f73f88c61a2"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "display_value": "Ukraina kommer vara Ukraina. Mer Ukraina 🇺🇦",
+        "modified": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c2234956-ac54-4aba-904a-e48c69c544d9"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "display_value": "Ständig oro då vi har familj och vänner som är kvar i landet. Vi tar en dag i taget. Man känner frustration och hjälplöshet blandat med hopp om ett slut på det här övergreppet. Vi försöker hjälpa med moraliskt stöd, sända pengar till ukrainska folket och armén samt motverka de ryska troll som fortfarande vågar visa sig online.",
+        "modified": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "b459bc5b-752d-4661-a9de-2139b486de2c"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "display_value": "Menar ni 2014 eller 2022?\n2014 bodde jag i Kyiv och då nåddes vi av nyheten direkt och det kändes mycket obehagligt att Putin ställt upp sin militär längs den nordöstra gränsen.\n\n2022 vaknade jag av att min ukrainska sambo plötsligt brast ut i ”kriget har börjat” och en panik som spred sig då vi har släkt och vänner i Ukraina.",
+        "modified": "Fri, 18 Mar 2022 22:47:01 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "dcf860bd-87eb-45a8-b509-4b21b31bd455"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00335",
+    "contributor": {
+      "display_name": "Rebecca Sjödal"
+    },
+    "created": "Fri, 18 Mar 2022 22:53:06 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 18 Mar 2022 22:53:06 GMT",
+    "position": {
+      "latitude": 58.17502899999999,
+      "longitude": 13.553217
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19210",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "416d63d5-a0f5-4cbc-978b-1a7633dd3513",
+    "values": [
+      {
+        "created": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "display_value": "1987",
+        "modified": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8c1228dd-5e25-4f41-96e8-e332a440785c"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "display_value": "Jag tycker att det är förjävligt att det har gått så pass långt att vi ser oss tvungna att skicka vapen till ett krigförande land, även om dess syfte är att försvara sig. Samtidigt har jag insett att vi tyvärr inte har något annat val om vi vill fortsätta att värna om vår frihet och demokrati.",
+        "modified": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "09924fce-577f-4e96-9ed8-3aa42ebea410"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "display_value": "Ibland är jag rädd för vad detta ska utvecklas till och resultera i. Vad händer om Ukraina faller? Kommer Sverige att invaderas så småningom då? Vad kommer jag och mina nära och kära att tvingas uppleva och göra i såfall? Kan det resultera i 3:e Världskriget och kärnvapenkrig?",
+        "modified": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "3327c7cc-010a-4e9e-b554-87a66b92c67b"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "display_value": "Jag försöker att hålla modet uppe och hitta ljusglimtar. Detta kriget kom med den värsta tänkbara tajmingen. Som att det inte är illa nog med både Klimatkrisen och Covidpandemin. Klimatkrisen är ju ett större existentiellt hot mot mänskligheten, som pågår nu och som måste lösas nu, men den hamnar fullständigt i skuggan av kriget i Ukraina.",
+        "modified": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "fdd984ac-57f8-4c2e-9ee2-176e4359150e"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "display_value": "Min vardag påverkas just nu, inte nämnvärt förutom att jag har börjat bunkra i en krislåda och att drivmedlet blivit dyrare. Min mormor däremot påverkas mer psykiskt av det då hon återupplever gamla obehagliga minnen från det Finska vinterkriget och Fortsättningskriget på 1940-talet, när hon ser reportagen på tv-nyheterna och i tidningar.",
+        "modified": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "bc16558b-f91f-4cfa-9031-ce61adac1d08"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "display_value": "Jag såg ett sms från min bästis om det, den där ödesdigra morgonen. Satte på radion direkt och det dominerade program och nyhetssändningar på både radio och tv.",
+        "modified": "Fri, 18 Mar 2022 22:53:06 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d8408df3-a777-4df0-9705-ea88cd911738"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

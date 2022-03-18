@@ -3440,6 +3440,38 @@
           55.704
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Efter att ha bott i Dnipro och Kyiv och med familj och vänner som befinner sig i landet är det känsl…",
+        "date": "18 mars 2022",
+        "author": "Jonas Gross",
+        "url": "https://minnen.se/tema/krigetiukraina/19209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Ibland är jag rädd för vad detta ska utvecklas till och resultera i. Vad händer om Ukraina faller? K…",
+        "date": "18 mars 2022",
+        "author": "Rebecca Sjödal",
+        "url": "https://minnen.se/tema/krigetiukraina/19210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.553,
+          58.175
+        ]
+      }
     }
   ]
 }
