@@ -3408,6 +3408,22 @@
           56.665
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "18 mars 2022",
+        "author": "Anna Fredholm",
+        "url": "https://minnen.se/tema/krigetiukraina/19204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.18,
+          59.145
+        ]
+      }
     }
   ]
 }

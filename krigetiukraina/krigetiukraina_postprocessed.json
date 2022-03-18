@@ -25752,5 +25752,509 @@
     },
     "uuid": "3b69b90a-01d6-49d1-81c8-0a60dcd039da",
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00329",
+    "contributor": {
+      "display_name": "Anna Fredholm"
+    },
+    "created": "Fri, 18 Mar 2022 16:00:33 GMT",
+    "image_dms_id": "013AksaQhKQk",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 18 Mar 2022 15:53:32 GMT",
+        "description": "Demonstration mot kriget i Ukraina på Norrmalmstorg 14 mars 2022",
+        "dms_id": "013AksaQhKQj",
+        "license": "CC0",
+        "mime_type": "audio/wav",
+        "modified": "Fri, 18 Mar 2022 15:53:32 GMT",
+        "name": "Demonstration på Norrmalmstorg 14 mars 2022.wav",
+        "order_by_number": 1,
+        "owner": "Flera talare",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "audio",
+        "uuid": "9042f3b1-a43e-4a10-8f56-2cc40a03696b"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:00 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV1",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:00 GMT",
+        "name": "1.JPG",
+        "order_by_number": 1,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "4b8c1922-0e6d-4cac-9abd-fac2904fb3a5"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:55:59 GMT",
+        "dms_id": "013AksaQhKQk",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:55:59 GMT",
+        "name": "13.JPG",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "175af8f3-d59d-4ca6-a762-35840631007d",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:02 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV3",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:02 GMT",
+        "name": "17.JPG",
+        "order_by_number": 3,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "5aa02365-6076-4a7f-b5d9-c823cb3584c9"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:02 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV2",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:02 GMT",
+        "name": "15.JPG",
+        "order_by_number": 4,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "0d506916-f002-4a29-801c-57d1dfe107d7"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:10 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZa",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:10 GMT",
+        "name": "19.JPG",
+        "order_by_number": 5,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "dda5d203-882b-4ae4-9d2d-60630d2a2a08"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:10 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZZ",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:10 GMT",
+        "name": "21.JPG",
+        "order_by_number": 6,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "1e4241ce-53cc-4d9f-8b84-97adcea6d6e4"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:02 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV4",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:02 GMT",
+        "name": "16.JPG",
+        "order_by_number": 7,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "d21c706b-bfa6-49f6-b146-c7919859b63a"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:10 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZX",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:10 GMT",
+        "name": "8.JPG",
+        "order_by_number": 8,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "495bd2de-5e5b-458c-bc1a-91b14e4b49e5"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:02 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV5",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:02 GMT",
+        "name": "2.JPG",
+        "order_by_number": 9,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "6ead0f3a-e547-4727-9002-a313232e5af5"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:10 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZW",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:10 GMT",
+        "name": "22.JPG",
+        "order_by_number": 10,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "cc30a511-e31f-4e7c-b404-871e89d4c51d"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:03 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV6",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:03 GMT",
+        "name": "18.JPG",
+        "order_by_number": 11,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "8554c95a-ad7a-4b46-83ea-a7b0f7482aac"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:09 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZV",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:09 GMT",
+        "name": "20.JPG",
+        "order_by_number": 12,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "51856d08-b833-45dd-9501-5803b2a2fef0"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:04 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV7",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:04 GMT",
+        "name": "11.JPG",
+        "order_by_number": 13,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "9595d7e6-046c-4344-88ec-05dc658af486"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:07 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZT",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:07 GMT",
+        "name": "4.JPG",
+        "order_by_number": 14,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "d63d79e3-2460-42ba-9928-8ae4f80e32ef"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:05 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV9",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:05 GMT",
+        "name": "12.JPG",
+        "order_by_number": 15,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "3fc25695-16d4-4e12-b963-30d27ba407a7"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:05 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKV8",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:05 GMT",
+        "name": "3.JPG",
+        "order_by_number": 16,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "1e6991ee-084d-4e40-bd48-a824f957145b"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:07 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZU",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:07 GMT",
+        "name": "5.JPG",
+        "order_by_number": 17,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "0ca482be-c0d4-4177-9128-b45428428935"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:06 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZR",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:06 GMT",
+        "name": "10.JPG",
+        "order_by_number": 18,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "3d8319d6-93dd-44d5-bb06-26f8c80f504a"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 15:56:06 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksaQhKZS",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 18 Mar 2022 15:56:06 GMT",
+        "name": "6.JPG",
+        "order_by_number": 19,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "2c970a05-8671-4769-b602-a1a3e8020b7f"
+      }
+    ],
+    "modified": "Fri, 18 Mar 2022 16:00:33 GMT",
+    "position": {
+      "latitude": 59.14529862568953,
+      "longitude": 18.18022951660156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19204",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "7306d704-4c62-482a-a3cf-40e80b718f9f",
+    "hasCoordinates": true
   }
 ]
