@@ -25592,5 +25592,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00325",
+    "contributor": {
+      "display_name": "Jessica Axelsson"
+    },
+    "created": "Fri, 18 Mar 2022 09:44:11 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 18 Mar 2022 09:44:11 GMT",
+    "position": {
+      "latitude": 56.66494055739942,
+      "longitude": 16.35997149259047
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19200",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "6643fab1-85df-4e4b-9d07-34379def9a70",
+    "values": [
+      {
+        "created": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "display_value": "1975",
+        "modified": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "48ac0e71-4320-42dd-aa19-3ad784656b54"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "display_value": "Tycker att vi människor är hemska och själviska. Vi bryr oss bara om oss själva. Vi ser bara gränser, inte att vi faktiskt lever på en gemensam planet. Förstår att man kanske vill ha olika lagar och regler men vi borde ju alla sträva efter ett gemensamt mål, att få leva i fred och frihet.",
+        "modified": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0ac8b821-4e55-43dd-b832-f5e730d9e0b7"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "display_value": "Tycker det är så meningslöst! Jag anser att Vladimir Putin är en sjuk och maktgalen man som gillar våld! Han hade kunnat föra samtal, komma överens, diskuterat i stället för att ge sig på de oskyldiga som nu fått dö för hans sjuka idéer och det gäller både ryska och ukrainska människor. Främst tänker jag på vilket trauma det är för barnen! Det gör så ont i mig att så många barn har dött, sett sina föräldrar dö.. Jag blir så arg! Samtidigt kan jag skämmas över att jag tycker att detta kriget är värre.. Det krigas ju varje dag i andra länder! Kvinnor våldtas, människor dör, barn blir föräldralösa och det är så svårt att ta in men nu är kriget så nära.. Tror det är därför jag tycker detta krig är hemskare, eller inte hemskare men läskigare då vi själva riskerar att bli indragna. Alltid är det män med makt som ska förstöra..",
+        "modified": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "d42267fa-a1b8-4176-9736-eb7631908e9a"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "display_value": "Jag är jätterädd över att det ska bli ett tredje världskrig! Det handlar bara om makt och pengar men vad händer när man har all den där makten och alla de där pengarna och jorden och människorna bara är tomma skal? Vad är det då för nytta?",
+        "modified": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "1f92d7e6-4e14-4213-a0c7-7cd8795c3463"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "display_value": "Man påverkas ju såklart av de bilder och nyheter som man nås av samtidigt som man vet att man måste vara källkritisk. Men jag har bunkrar upp med lite hållbar mat, köpt lite verktyg som kan behövas, vevradio så jag kan få nyheter samt ladda upp min telefon. Man har lite planer för hur man skulle göra om något händer. Har tyckt länge att vi är sårbara då allt går via nätet.. Släck elen och vi kan inte göra något! Nä, vi borde gå tillbaka till då vi inte var så beroende av internet. Försöker hålla hemska tankar ifrån mig.. Som att det börja bombas här när jag är på jobbet och min son är i skolan. Jag vill vara där han är så att vi kan vara tillsammans om/när det händer något! Vi ska fly ihop, dö ihop i så fall.",
+        "modified": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "d46eb346-ec98-436a-ab07-ca00f26c6ed7"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "display_value": "Trodde aldrig jag skulle få vara med om att jag skulle bli rädd för att det ska bli krig här i Sverige! Har tänkt att nog kommer det bli krig men inte under min livstid. Jag läser alltid Aftonbladet på nätet när jag vaknar och det var så jag fick reda på det. Luften gick ur mig och jag blev rädd! Först en pandemi som vi inte ens har rest oss upp ifrån ännu och nu är det det krig inte långt ifrån oss. Vad är oddsen liksom? Tänker mycket på min son som snart fyller 9 år. Hur upplever han världen? Han frågar då och då om det kommer att bli krig här.. Vad säger man? Jag vet ju inte..",
+        "modified": "Fri, 18 Mar 2022 09:44:11 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "fea716eb-d7b2-4c6b-9200-ae1ae2b66978"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

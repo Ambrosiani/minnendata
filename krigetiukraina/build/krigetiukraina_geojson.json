@@ -3392,6 +3392,22 @@
           58.612
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tycker det är så meningslöst! Jag anser att Vladimir Putin är en sjuk och maktgalen man som gillar v…",
+        "date": "18 mars 2022",
+        "author": "Jessica Axelsson",
+        "url": "https://minnen.se/tema/krigetiukraina/19200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36,
+          56.665
+        ]
+      }
     }
   ]
 }
