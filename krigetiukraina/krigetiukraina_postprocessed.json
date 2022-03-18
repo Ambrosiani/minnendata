@@ -25703,5 +25703,54 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00326",
+    "contributor": {
+      "birth_year": 1955,
+      "display_name": "Jens Wigen",
+      "gender": "man",
+      "place": "Solna",
+      "uuid": "74683760-32c0-4205-8470-a180d899a6a5"
+    },
+    "created": "Fri, 18 Mar 2022 15:24:45 GMT",
+    "image_dms_id": "013AksaQhKQg",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 18 Mar 2022 15:21:55 GMT",
+        "description": "Intervju med Jens Wigen",
+        "dms_id": "013AksaQhKQg",
+        "license": "CC0",
+        "mime_type": "video/mp4",
+        "modified": "Fri, 18 Mar 2022 15:21:55 GMT",
+        "name": "Intervju Jens Wigen.mp4",
+        "order_by_number": 1,
+        "owner": "Nordiska museet",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "video",
+        "uuid": "f124a49f-0cfc-41d0-a2d7-44d01afe3b43"
+      }
+    ],
+    "modified": "Fri, 18 Mar 2022 15:24:45 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19201",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "3b69b90a-01d6-49d1-81c8-0a60dcd039da",
+    "hasCoordinates": false
   }
 ]
