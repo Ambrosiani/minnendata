@@ -3472,6 +3472,22 @@
           58.175
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker det är oerhört sorgligt , jag trodde att det moderna samhället hade lagt krig på hyllan o…",
+        "date": "18 mars 2022",
+        "author": "Carola",
+        "url": "https://minnen.se/tema/krigetiukraina/19211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.401,
+          60.517
+        ]
+      }
     }
   ]
 }

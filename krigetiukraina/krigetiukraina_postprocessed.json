@@ -26589,5 +26589,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00336",
+    "contributor": {
+      "display_name": "Carola"
+    },
+    "created": "Fri, 18 Mar 2022 23:15:16 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 18 Mar 2022 23:15:16 GMT",
+    "position": {
+      "latitude": 60.51666118976943,
+      "longitude": 15.400840807437204
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19211",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "abab07a7-2b83-4c6e-8de3-cd350e8460c8",
+    "values": [
+      {
+        "created": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "display_value": "1973",
+        "modified": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "1c676718-55e2-4b7d-b3b7-b264c27fb658"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "display_value": "Det är ett tyst klimat som att alla håller andan litegrann, både här i Borlänge och Sverige samt även Europa. \n\nDen andra sidan lever på som om inget har hänt,  lite stoppa huvudet i sanden,då finns det inte.",
+        "modified": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "d0553f7b-4573-42fc-83e9-f997cd8ac76a"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "display_value": "Jag tycker det är oerhört sorgligt , jag trodde att det moderna samhället hade lagt krig på hyllan och att vi kunde mötas i samtal.  \n\n Jag tänker att varför lär sig inte människan något utan vi fortsätter att bete oss som reptilhjärnor trots att vi har sådan kapacitet egentligen. Att en människa kan ha så mycket makt är för mig en gåta.  Samtidigt tycker jag synd om honom , livet kan inte ha behandlat honom ( Putin) väl .\n\nDiktaturer 2022 är en gåta.",
+        "modified": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7aa6088f-6e03-4949-aaf7-5a84f9ed7307"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "display_value": "Jag hoppas att vi bler mer eniga i Europa art vi går starka ur detta i ett VI.",
+        "modified": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f182eaf1-74f4-4f71-bef0-c2d02ee39aba"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "display_value": "Blir mer stressade, små konflikter i vardagen, detta tror jag uteslutande hänger samman m kriget. \n\nVi har ändå valt att hjälpa en ukrainsk kvinna med barn .",
+        "modified": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "693cb112-c9c5-4b9c-9877-5c1f824951e5"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "display_value": "Jag såg på nyheterna på morgonen,  jag hade väl nån obehaglig känsla kvällen innan och det blev verkligen en helt ny värld att vakna upp till. Jag blev ledsen ,grät i flera dagar till och från,  rädd såklart och fundersam över hur det ska bli .",
+        "modified": "Fri, 18 Mar 2022 23:15:16 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "4541886b-e441-4f0d-9d31-c917086b809f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
