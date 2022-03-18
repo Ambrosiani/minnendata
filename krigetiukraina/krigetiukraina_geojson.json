@@ -3424,6 +3424,22 @@
           59.145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Den första veckan var det en spänning i alla runtomkring mig. Familjen köpte hem massa överlevnadssa…",
+        "date": "18 mars 2022",
+        "author": "David Henderup Larsson",
+        "url": "https://minnen.se/tema/krigetiukraina/19207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.192,
+          55.704
+        ]
+      }
     }
   ]
 }

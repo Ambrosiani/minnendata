@@ -26256,5 +26256,116 @@
     },
     "uuid": "7306d704-4c62-482a-a3cf-40e80b718f9f",
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00332",
+    "contributor": {
+      "display_name": "David Henderup Larsson"
+    },
+    "created": "Fri, 18 Mar 2022 19:24:51 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 18 Mar 2022 19:24:51 GMT",
+    "position": {
+      "latitude": 55.70358765017785,
+      "longitude": 13.19231895444303
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19207",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "244fa880-23d4-4348-8f21-f1ddf4d5af10",
+    "values": [
+      {
+        "created": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "display_value": "2001",
+        "modified": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "b41b756b-3c7a-40b7-a4b7-d488bca2cfa3"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "display_value": "Hela världen verkar ha ställt sig bakom Ukrainas president, och deras folk är påväg till andra länder i Europa för att söka skydd. Jag hoppas ju att de får det, men det kan vara svårt att väga integration med skydd.",
+        "modified": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "bd3851d1-6082-45fc-ad55-4590981ae0ee"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "display_value": "Den första veckan var det en spänning i alla runtomkring mig. Familjen köpte hem massa överlevnadssaker till huset i Höllviken. (Mamma köpte). Vi i min kompiskrets trodde alla att sverige snart skulle bli invaderat och att vi skulle bli stridande. Den spänningen släppte när det var tydligt att Ryssland nog inte ville kriga med hela västvärlden samtidigt. (Men vi får väl se).",
+        "modified": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "2be3bb99-793c-4b87-b36d-3caccee56338"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "display_value": "Tror inte att nåt kommer ske direkt förutom ukrainas fall.",
+        "modified": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "92ce39b5-6b83-4881-adcc-1690925391a5"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "display_value": "Inte direkt jättemycket, förutom bensinpriser som är väldigt höga och gör det svårt att pendla hem och till jobb i höllviken från Lund.",
+        "modified": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "74b873aa-64d8-4f2e-b46d-decac1ef6676"
+      },
+      {
+        "created": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "display_value": "Satt på en föreläsning i bibelvetenskap på Lux i Lund. \nI pausen kunde jag kolla min telefon och insåg att det vi redan pratat om i några veckor (jag, Filip, Elias och Gustaf) hade skett. Jag tänkte att det nog skulle gå snabbt, att Ryssland skulle rulla över Ukraina som att det vore ingenting. Tittade på live-feed av flash nyheter resten av föreläsningen.",
+        "modified": "Fri, 18 Mar 2022 19:24:51 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d929d113-f3b9-411e-a0b4-dd1f35b41dc1"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
