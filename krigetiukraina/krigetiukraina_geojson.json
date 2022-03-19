@@ -3520,6 +3520,22 @@
           59.392
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag gråter så lätt nuförtiden, för småsaker också.  Jag gråter av glädje och sorg. Över döda människ…",
+        "date": "19 mars 2022",
+        "author": "Anette",
+        "url": "https://minnen.se/tema/krigetiukraina/19223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.938,
+          58.884
+        ]
+      }
     }
   ]
 }
