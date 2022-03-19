@@ -3504,6 +3504,22 @@
           57.635
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig rädd, ensam och ledsen. Många tankar och fantasier om hur det skulle bli om kriget ut…",
+        "date": "19 mars 2022",
+        "author": "Monica",
+        "url": "https://minnen.se/tema/krigetiukraina/19220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.246,
+          59.392
+        ]
+      }
     }
   ]
 }

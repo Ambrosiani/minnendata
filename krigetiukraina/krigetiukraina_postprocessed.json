@@ -26918,5 +26918,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00344",
+    "contributor": {
+      "display_name": "Monica"
+    },
+    "created": "Sat, 19 Mar 2022 17:34:37 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 19 Mar 2022 17:34:37 GMT",
+    "position": {
+      "latitude": 59.39231923901299,
+      "longitude": 18.24614748535156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19220",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "43a2d443-89b7-4cfe-b08b-73f4730939f1",
+    "values": [
+      {
+        "created": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "display_value": "1954",
+        "modified": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "3035c53c-2b41-4129-95b0-ba9f5bb8f721"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "display_value": "Just nu - En tanke: Hur ska det bli?\nFör alla flyktingar. Alla mottagarländer. Hur ska det bli?\nAlla skadade, trasiga och lemlästade. Hur ska det bli?\nAlla övergivna och ensamkommande i olika länder. Hur ska det bli? \nAlla barn som alltid är iakttagare av vuxenvärlden. Hur ska det bli?",
+        "modified": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "157fb809-80de-4167-88f5-e566b2b9018d"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "display_value": "Jag känner mig rädd, ensam och ledsen. Många tankar och fantasier om hur det skulle bli om kriget utvidgas geografiskt. Litar inte på Putin. Tycker han är obehaglig. Han känns nyckfull och makthungrig. Fattar inte vad som är värt något i hans värld, när inte ett människoliv verkar vara värt någonting.",
+        "modified": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "92ed6f98-efa0-4515-99c0-874a36e755e2"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "display_value": "Orkar knappt tänka framåt. Men jag som arbetat inom förskolan, tänker mycket på barnen. \nÄr ledsen för deras skull att det finns människor i vuxenvärlden som bidrar med något så hemskt som krig,  som drabbar barn eller som de oroa sig för. \nJust nu ser framtiden mörk ut tycker jag.",
+        "modified": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "be7db76c-c946-49cc-9b3f-d8d270a26961"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "display_value": "Jag och de jag träffar och känner, påverkas inte speciellt mycket rent praktiskt (ännu). Men själv känner jag mig rädd och ledsen. Jag bor ensam och har mycket tid att grubbla och tänka. Blir ibland irriterad över att alla nyhetssändningar talar om kriget varje halvtimme, samt rapporter och inslag däremellan (SR P4). Jag vill ha radion på som sällskap. Men börjar tröttna. Det känns så tungt.",
+        "modified": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "7511aed3-fe18-4165-a88a-d923624ad601"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "display_value": "Jag sätter ofta på radion så fort jag vaknar, om den inte redan är på för att jag somnat ifrån den. Så torsdagen den 24 februari 2022 vaknade jag till nyheten om kriget i Ukraina. Gick upp slog på TVn och växlade mellan olika nyhetssändningar. Kollade nog nästan hela dagen. Det gick inte att sluta. Kände mig både ledsen och rädd.\nSom tur var reste jag bort med vänner över helgen. Vi åt, skrattade och umgicks. Solen sken och livet var härligt. I bakhuvudet gnagde mörka tankar om ”lånad tid”.",
+        "modified": "Sat, 19 Mar 2022 17:34:37 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "a16dcf00-eb37-4d68-b753-bf34a3709c75"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
