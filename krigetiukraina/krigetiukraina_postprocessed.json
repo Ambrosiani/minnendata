@@ -26811,5 +26811,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00340",
+    "contributor": {
+      "display_name": "Stenbock"
+    },
+    "created": "Sat, 19 Mar 2022 10:38:14 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 19 Mar 2022 10:38:14 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19215",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2c0018f2-ab0a-4de7-8e2b-fd5df694ff0e",
+    "values": [
+      {
+        "created": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "display_value": "1965",
+        "modified": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "d03f5216-c348-451b-81f7-57e10d288046"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "display_value": "Der blir ett omvänt perspektiv: från det globala till det lokala:\n\nTillståndet i världen är katastrofalt. Demokratierna krymper och fascistiska regimer är på tiilväxt. Vi fortsätter att förinta naturen och vi är på väg mot en dystopisk framtid. Och nu detta krig i Europa, ovanpå andra konflikter och katastrofer i världen...\n\nJag pratar varje dag med min mor i Polen. Det civila samhället där gör allt för att hjälpa de ukrainska flyktingarna. De (det civila samhället) är ensamma i denna kamp. Den polska regeringen bidrar inte med något. En tung känsla av hot från Ryssland hänger över människorna där.\n\nSverige upplever jag som mest fokuserat på sitt nu (vilket är förståeligt). Jag tycker det var ett bra beslut att bistå Ukraina både humanitärt och militärt. Hoppas att detta bistånd håller över tid.\n\nI det lilla samhället där jag bor (ett antal hus på landet) känner jag mig ganska ensam. Våra närmaste grannar (en barnfamilj) har deltagit, liksom vi, i en insamling till en hjälptransport med förnödenheter. Inga andra har gjort det (info om det fanns i den lokala Facebooksgruppen för boende på orten). Jag funderar om det är värt att söka hjälp hos dessa människor om kriget skulle komma hit någon gång...",
+        "modified": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e40a855b-67b8-41fa-8b18-fe658c1d702b"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "display_value": "Jag skriver detta den 19 mars. De första dagarna efter krigsutbrottet kunde jag knappt andas och kastades runt i en känslocentrifug. Förtvivlan (Ukrainas militära underläge), vrede (fascismens bestialitet och världens passivitet), djupaste sorg (allt detta lidande hos människor och djur, ödeläggelse av städer och natur), lyckorus (den snabba mobiliseringen av hjälp till flyktingar och den ukrainska regeringen, det ukrainska motståndet och ofattbara heroism)... Jag levde uppkopplad mot Twitter, Lars Wilderängs blogg och engelskspråkiga nyhetsstationer. De svenska medierna har inte bestått detta eldprov i nyhetsförmedling enligt mig.\n\nNu inträder en viss känsloutmattning och en känsla av sammanbitet hopp är mer frekvent. Jag hyser djupaste beundran, respekt och kärlek för Ukraina och dess folk. Jag hoppas på deras seger och att världen vill förse dem med det de ber om. Jag följer fortfarande mina informationskällor från morgon till kväll. Gråter mindre men stressen är fortfarande lika tung.",
+        "modified": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "9886f809-b5bb-4260-9a3e-e47359a8f0b7"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "display_value": "Min syn på framtiden har inte blivit ljusare. Tvärtom. Utvecklingen följer det scenariot som har beskrivits i diverse böcker jag läst: accelerande ekologisk kris, växande antal auktoritära regimer och ledare, global desinformation, flyktingströmmar pga militära konflikter och kollapsade ekosystem, fortsatt polarisering och tilltagande motsättningar.\n\nI den bästa av alla världar blir denna ukrainska tragedi en vändpunkt för demokratierna dvs man hittar en enighet, beslutsamhet och insikt om att de demokratiska värdena måste försvaras med vapen i hand om så krävs. Internationella avtal kan inte betraktas som garantier för något.",
+        "modified": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "9518d54b-63ed-4fe1-a202-4dd1f599cb4d"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "display_value": "Jag försöker sköta jobbet men mina privata vardagsrutiner fungerar knappt. \n\nNyhetsbevakning tar mycket tid. Jag försöker bidra till hjälp till Ukraina på de sätt jag kan: har hållit ett tal till de studerande på min skola (vuxenutbildning), har bidragit till en förnödenhetssändning, betalat till diverse insamlingar, gjort reklam för dessa. \nDe flesta samtal i familjen och på arbetsplatsen handlar om kriget. Jag pratar helst med personer som inte dukar för ämnet. Har svårt för kollegor och bekanta som föredrar feel-good-talk.",
+        "modified": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "614238f9-5937-40ff-886b-993f528108ab"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "display_value": "Jag vaknade strax efter klockan fyra på morgonen den 24 februari och satte omedelbart på P1. Ryssland hade anfallit Ukraina. Det var ingen överraskning men det kändes inte mindre fasansfullt för det. Mina polska \"historiegener\" aktiverades omedelbart: den 1 september 1939 anfölls Polen av tyska nazister. Nu har Ukraina anfallits av ryska nationalfascister.",
+        "modified": "Sat, 19 Mar 2022 10:38:14 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "830a7738-e8fc-4844-9e2f-ebb7a7344291"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
