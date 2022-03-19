@@ -26700,5 +26700,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00338",
+    "contributor": {
+      "display_name": "Lotte Jensen"
+    },
+    "created": "Sat, 19 Mar 2022 07:56:22 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 19 Mar 2022 07:56:22 GMT",
+    "position": {
+      "latitude": 57.6348,
+      "longitude": 18.29484
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19213",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "195e0864-0b60-4ea5-8f87-bfd584cc8f1e",
+    "values": [
+      {
+        "created": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "display_value": "1958",
+        "modified": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "2316e009-6e2b-4467-8ec3-ee18d2aa906a"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "display_value": "Jag bor på en plats, Gotland, som ofta beskrivs som ett mål för Putin om man vill angripa Sverige. Det är oroande. Att bli ockuperad av Ryssland är något som oroar mig och många jag pratar med. Vem har ens en uns av chans att fly.  \n \nDet som ger mig hopp är den enighet som hela världen visat i detta krig. Den medkänsla och hjälpsamhet. Det gick från noll till hundra så var hopsamlingar igång.  \nFör mig är just demokrati ett vaccin mot krig. Samarbete är framgång för varje part.  \nAlla länder har sin kultur och sina regler. Men vi kan enas om att vi har rätt till att leva i fred. Den tanken ger mig hopp. \nJag är djupt imponerad av länderna som gränsar till Ukraina som så självklart tog emot och hjälpt tusentals människor i flykt.",
+        "modified": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "8ced3d22-ecc8-4ab9-8c15-2ae322b4c02c"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "display_value": "Att han sedan gick så långt som att börja invadera hela Ukraina var som att någon drog bort skynket. Det man anat, det man fruktade, det man inte riktigt ville tro, var plötsligt en verklighet.  Jag kände en fasa och ilska på samma gång. Inte en gång till tänkte jag och tänkte på andra världskriget. Min föräldrageneration har upplevt andra världskriget och jag har hört många historier, speciellt från min fars barndom i Danmark.\n \nEn man som gör så, styr ett gigantiskt land som Ryssland, till att tro på och gå med på något liknande.  Den mannen är FARLIG för sitt eget folk och för hela världen.\nJag hade hoppats och trott att världen visste bättre. Både vad gäller att starta ett krig (som mycket möjligt kan bli ett världskrig) och att världen åter igen inte kunde se och förstå varningssignalerna. Det är alltid när skadan är skedd som alla beskriver att de visste innan. \nDet finns många \"Putin\" i alla samhällen. Majoriteten har inte tillgång att styra ett helt land. De brukar ha täta besök på psykiatriska kliniker. Vad är det hos maktlystna sjuka människor som gör andra rädda, så rädda att de blir ja-sägare?\n \nNär jag hör Putin uttala sig om att \"rensa samhället från förrädare och andra\"...  då kryper det längs ryggraden",
+        "modified": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "52fed439-2bf2-489e-9524-8765f8b856be"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "display_value": "Jag är helt övertygad om att Ukraina kommer att segra. \nJag hoppas innerligt att Ryssland inte blir ett slutet land, som tex Nord Korea. \nAtt ryssarna får information om hur deras ledare har lurat dem i 30 års tid. Hur Oligarker har tillåtits tömma deras land på stora resurser som borde ha gått tillbaka till ryska samhället\n \nJag hoppas att den \"vi tillsammans\" som just nu riktas mot Ukraina ska fortsätta även efter att Ukraina segrat. Ett land ska återuppbyggas. Helst med Oligarkernas och Putins privata förmögenheter men också med hjälp från andra länder. \n \nJag tror att miljötänk och närproducerat kommer att få en rejäl skjuts av detta. Varje land, och varje hushåll, kommer att behöva finna närmaste vägen till energi, vatten och mat.  Jag hoppas på utveckling med solenergi på fler hus. Fler kolonilotter i städerna.  En utveckling av kollektivtrafiken och andra samhälls-gemensamma poster.",
+        "modified": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "240bf2d9-f7ad-42f5-b7ae-e1034d751de8"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "display_value": "Vi har fått börja \"se om vårt hus\". Vart finns det skyddsrum. Hur ser vattenförsörjningen ut. Hur ser \"PLANEN\" ut om något skulle hända.\nDen invanda trygga tanken om att \"det är dom där borta som bråkar\" är borta, nu sker det i vårt geografiska närområde. \nJag tror att hela samhället får tänka ett varv till i tanken på vad trygghet är i praktiskt utförande\n \nJag har personligen frågat efter handlingsplan för hur personer inom LSS ska kunna, på ett självständigt sätt hantera detta. Tex hur kan de förbereda sig för om något händer. Har man de saker hemma som man kan behöva, tex vattendunk osv. Vi har ett samhälle som \"tar hand om de svaga\" men har vi verkligen det? Vem ska stanna kvar och \"ta hand om\" om man har sin egen familj att ta hand om?\nJag får regelbundet lyssna på oroliga personer inom LSS som inte förstår vad som händer men uppfattar ord och känner av oro.",
+        "modified": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "0f38d9e2-376e-41ba-b3ad-6348323be56c"
+      },
+      {
+        "created": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "display_value": "Via TV. \nHade följt händelser i Ryssland och känt en stigande oro för vad Putin har på gång. En paranoid envåldshärskare som drömmer om världsherravälde är alltid oroande.\nRedan när situationen vid Krimhalvön blev aktuellt anade jag att Putin är ute efter mer. Speciellt hur han förvrängde fakta och uttalade sig mer och mer aggressivt fick mig att dra likheter med Hitlers strategi.",
+        "modified": "Sat, 19 Mar 2022 07:56:22 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "bbe03d11-dcb6-4b1c-9d58-e9294662228b"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
