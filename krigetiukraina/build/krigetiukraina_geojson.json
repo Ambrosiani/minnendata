@@ -3568,6 +3568,22 @@
           45.464
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är hemskt! Jag upplever fruktansvärd ångest och oro över mina nära, min mamma som är 85 år, syst…",
+        "date": "20 mars 2022",
+        "author": "Halyna",
+        "url": "https://minnen.se/tema/krigetiukraina/19229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.957,
+          56.811
+        ]
+      }
     }
   ]
 }

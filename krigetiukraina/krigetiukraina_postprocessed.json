@@ -27469,5 +27469,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00353",
+    "contributor": {
+      "display_name": "Halyna"
+    },
+    "created": "Sun, 20 Mar 2022 19:13:05 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 20 Mar 2022 19:13:05 GMT",
+    "position": {
+      "latitude": 56.81055871583385,
+      "longitude": 15.956642033433912
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19229",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "61e4f0b2-1bc0-43fb-a512-0c438ba634c5",
+    "values": [
+      {
+        "created": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "display_value": "1958",
+        "modified": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "6cee94ca-d754-4922-ab34-64a635f4266a"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "display_value": "Jag bor i Sverige. Jag tycker att Ukraina kämpar för hela världen.",
+        "modified": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "924d9ac0-6ca6-46ce-ac49-d3c8e4c391cf"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "display_value": "Det är hemskt! Jag upplever fruktansvärd ångest och oro över mina nära, min mamma som är 85 år, syster men sin familj, systerdotter och hennes 4 årig dotter.",
+        "modified": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "c916847e-4d6e-451f-9fc1-ece58f32808c"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "display_value": "Jag blev chockad och har svårt att återhämta mig",
+        "modified": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "02b845a6-7257-4f5f-8793-a5d986127b83"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "display_value": "Mina tankar är hela tiden med mina nära och kära",
+        "modified": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "8e26c358-e35b-427a-8639-367ccc890b70"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "display_value": "Jag ursprungligen från Ukraina och fick veta om attack mot min hemstad Ivano-Frankivsk av min syster som bor där.",
+        "modified": "Sun, 20 Mar 2022 19:13:05 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "17f5b29f-9a86-4032-9526-9032ac808c37"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
