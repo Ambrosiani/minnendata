@@ -27251,5 +27251,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00349",
+    "contributor": {
+      "display_name": "Jan Johansson"
+    },
+    "created": "Sun, 20 Mar 2022 09:20:38 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 20 Mar 2022 09:20:38 GMT",
+    "position": {
+      "latitude": 45.4642035,
+      "longitude": 9.189982
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19225",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "ba060fc5-919e-45fe-a0a3-ed1d6e5d9420",
+    "values": [
+      {
+        "created": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "display_value": "1966",
+        "modified": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "04399ccb-ea86-4713-99b5-afc553c19746"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "display_value": "I ett historiskt perspektiv tycker jag det finns skäl till en form av självkritik (jag bor i ett sk NATO-land i Europa/EU: Italien) över två fakta:\n1) Efter kalla krigets slut har NATO expanderat österut i Europa. Detta tycker jag är ett starkt tecken på att NATO inte har litat på Ryssland. Ömsesidig tillit bör vara grunden till en jämnvikt i en vänskap.\n2) Redan på 1970-talet, dvs för 50 år sedan, började man prata om att råoljan på jorden började ta slut och att man måste finna andra sätt att skapa energi. Trots det har Europa under de senaste åren skapat ett beroende av gas och olja från Ryssland. Även beroende är grundsten till vänskap, men beroendet bör vara ömsesidigt.",
+        "modified": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f9573d50-536f-47c0-8d0b-93cb1d85b46b"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "display_value": "Eftersom det fortfarande inte framkommer helt tydligt vad motivet bakom invasionen är har en oro uppstått över vad Vladimir Putin och hans medarbetare egentligen vill. Den här oklarheten gör det väldigt svårt att förustpå vad som kommer att hända i den närmaste framtiden (jag skriver den 20 mars 2022) och det skapar naturligtvis också en oro. Vad blir deras nästa steg? Tänker de invadera andra länder? Oberoende av detta är det också svårt att förutspå vad NATO och resten av världen kommer att göra, och hur Putin et al. kommer att reagera och agera som svar på detta.\n\nDet är fruktansvärt att se bilder, läsa och höra om situationen i Ukraina. Samtidigt känner jag en viss skuld över att känna kanske lite mer inför detta krig än många andra krig, som förekommer eller har förekommit under min vuxna del av livet (jag är född 1966).",
+        "modified": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "0a60dfb3-bf1d-4904-b7d6-9f3660dc7ef9"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "display_value": "Min första tanke, som jag har haft sedan några dagar, är att svåra perioder med lidande går över med tiden. Jag har alltså en framtidstro om en bättre tid efter COVID-19-pandemi och rysk invasion av Ukraina. Samtidigt har jag tanken att det vore bäst för jordklotet om vi utrotade människan som art.",
+        "modified": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "128ba093-ae9f-49b8-9d97-f91b042c4795"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "display_value": "Rent konkret och praktiskt påverkas jag inte av kriget. Min make har varit i Villnius ett par gånger sedan invasionen och flyget dit, från Italien, har tagit omväg för att undvika ryskt luftrum. Den största påverkan är inte konkret, utan tankar och reflektioner. Under en promenad igår såg jag en butik med ryska livsmedelsprodukter. Jag tänkte då på hur affärsägaren hade det.",
+        "modified": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "805aea6c-308f-4dac-90d8-009afcfb63f6"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "display_value": "Det har gått ganska många dagar efter att jag läste nyheten i fråga, så jag är lite osäker på om svaret blir det rätta. Troligtvis läste jag om det när jag, enligt min daliga rutin, läste SVT:s nyhetssida på morgonen, under frukostintag. I stunden tror jag inte jag blev så påverkad, för ganska många dagar innan fanns att läsa många nyheter, bla om hur ryska militära trupper transporterades mot ukrainska gränsen, som tydde på att en invasion var i antåg. Händelsen blev därför inte som en stor överraskning när den väl skedde.",
+        "modified": "Sun, 20 Mar 2022 09:20:38 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "af54fce3-f495-4012-8ec1-c0d9b6b12da8"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

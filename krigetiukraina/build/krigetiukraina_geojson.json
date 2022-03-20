@@ -3552,6 +3552,22 @@
           57.312
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Eftersom det fortfarande inte framkommer helt tydligt vad motivet bakom invasionen är har en oro upp…",
+        "date": "20 mars 2022",
+        "author": "Jan Johansson",
+        "url": "https://minnen.se/tema/krigetiukraina/19225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19,
+          45.464
+        ]
+      }
     }
   ]
 }
