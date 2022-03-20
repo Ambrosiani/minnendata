@@ -27140,5 +27140,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00348",
+    "contributor": {
+      "display_name": "Hanna Wennberg Angerud"
+    },
+    "created": "Sun, 20 Mar 2022 07:53:43 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 20 Mar 2022 07:53:43 GMT",
+    "position": {
+      "latitude": 57.31241472866538,
+      "longitude": 18.21519001557654
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19224",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "9c6625fc-d7b8-4bf5-861c-e38a89251f89",
+    "values": [
+      {
+        "created": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "display_value": "1961",
+        "modified": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "0c062ca6-5f0c-489b-a794-44c366334df8"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "display_value": "Osäkert. Miljön och klimatet är det största hotet.",
+        "modified": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "b2a76d21-8e68-468a-a293-90ed63f2ed98"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "display_value": "Det är en human katastrof, en mordräd på demokratin, på kulturen och grupper historia. Förstår inte att någon kan vara så onda och djävulsk, så egoistisk och att han kan tvinga så många att göra efter hans vilja genom hot, terror och våld.",
+        "modified": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "bd9066f3-cc7b-472f-8a7d-6fcc4ccf4069"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "display_value": "Osäker",
+        "modified": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "da9890b0-6d9e-4525-a738-379e88e1ab44"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "display_value": "Det påverkar oss i sinnesstämning, kommer att ge brist på mat och andra varor, höjda priser på mängder av varor och tjänster, förstöra miljön vilket ger mig stor oro. \nNi talar om nu....men oro påverkar i nuet,  Det kräver planering och prepping, det tar utrymme i min ekonomi och tankeverksamhet. \nVänner har förlorat anhöriga. Vi får ta del av populistiska utspel av olika slag.",
+        "modified": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "41d60d5e-fda7-4784-a360-7fcbacc18743"
+      },
+      {
+        "created": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "display_value": "Förtvivlan, sorg och förvåning över hur låg nivå som maktens höjdare är på.",
+        "modified": "Sun, 20 Mar 2022 07:53:43 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "bd5ef572-11be-4e23-8e76-e8b713868839"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

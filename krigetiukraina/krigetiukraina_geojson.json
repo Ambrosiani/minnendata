@@ -3536,6 +3536,22 @@
           58.884
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är en human katastrof, en mordräd på demokratin, på kulturen och grupper historia. Förstår inte …",
+        "date": "20 mars 2022",
+        "author": "Hanna Wennberg Angerud",
+        "url": "https://minnen.se/tema/krigetiukraina/19224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.215,
+          57.312
+        ]
+      }
     }
   ]
 }
