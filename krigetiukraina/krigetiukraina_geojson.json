@@ -3680,6 +3680,22 @@
           59.168
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det väcker minnen från min barndom som mycket handlade om familjens uppleveleser i Finland på pappas…",
+        "date": "21 mars 2022",
+        "author": "Noiram",
+        "url": "https://minnen.se/tema/krigetiukraina/19238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.941,
+          59.325
+        ]
+      }
     }
   ]
 }

@@ -28326,5 +28326,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00362",
+    "contributor": {
+      "display_name": "Noiram"
+    },
+    "created": "Mon, 21 Mar 2022 14:07:41 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 14:07:41 GMT",
+    "position": {
+      "latitude": 59.32517803195579,
+      "longitude": 17.941139416670797
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19238",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "35593862-2ccc-4d3b-a38a-f2a5662dde45",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "display_value": "1946",
+        "modified": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8020204e-2469-4916-a240-438964d815c8"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "display_value": "Jag tänker att vi kommer se en ny verklighet som vi behöver anpassa oss till. Sanktionerna görs av Europa och USA där Europa betalar det högsta priset.  Afrika och Sydamerika samt Indien står vid sidan av. Ryssland drivs i armarna på Kina och vad som kommer ur det kan vi ju bara ana. Tänker att Kina kommer köpa billig olja från Ryssland och växa sig starkare.\nVi kommer betala ett pris här hemma med dyrare mat etc. Jag hoppas försvarsviljan ökar i Sverige och insikten om att man måste vara bättre rustad inför svårigehter. Tror vi varit naiva i Sverige när  vi gjort oss för beroende av import. Se bara hur svårt det blev under pandemin för att vi inte hade beredskapslager.\n\nJag är irriterad på borgeliga politiker som gör NATO-frågan till en valfråga. Säkerhetspolitik kräver samarbete och en dialog mellan alla beslutsfattare. Se på Finland. Jag vill se en saklig debatt i Sverige utan att det spelas på rädslor.",
+        "modified": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "c1d1b09c-0ba5-45c1-8e95-e655f09afa33"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "display_value": "Det väcker minnen från min barndom som mycket handlade om familjens uppleveleser i Finland på pappas sida av anfallskrig och och inbördeskring.  Det handlar även om minnen från mammas Tyskland under brinnande krig. De berättade om umbäranden och erfarenheter av våldsam död, men också om värme, närhet, medmänsklighet och vilja att hjälpa varandra. Livet pågick trots allt. Man blev förälskad, studerade, satt i skyddsrum och lyssnade till ljuden av fallande bomber. Var sprängbomber eller brandbomber?\nAllt detta pågår nu i Ukraina. Det är obeskrivligt hemskt att det upprepar sig. Men min farmor sa ofta. \"Ryssland förnekar sig inte. Det kommer hända igen\". Så sorgligt att hon blivit sannspådd.\nDet är nog svårt att förstå vidden av det Ukrainska folkets lidande nu och framöver.",
+        "modified": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "4ccf12cf-6610-4c66-a315-a4dd27c32e4e"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "display_value": "Jag tror vi får en mer komplex framtid att hantera och att det vi värderar idag kommer att påverkas. Jag hoppas att familjer svetsas ihop. När det blev kaotiskt i mina föräldras tillvaro var familjen och nära vänner otroligt viktiga. De hjälpte varandra att överleva och leva vidare.",
+        "modified": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f04bd4af-8ac4-4b8d-814b-a39386ffc5bc"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "display_value": "Det känns så tungt att mina barn och barnbarn ska behöva leva i en otryggare värld som påminner om mina upplevelser under kalla krigets dagar. Min dotter har sin sambos dotter hemma hos sig. Hon flydde med vänner efter en veckas krig till sin pappa i Sverige. Nu vill hon lära sig svenska men det ordnas inga kurser. Men driftig somhon är har hon hittat en språkkurs. Det påminner mig omvad min mamma sa om att nöd framkallar osentimental handlingskraft.",
+        "modified": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "7307417e-5b80-4206-9697-fea0c90fbb5e"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "display_value": "Jag hörde det på radio när jag vaknade samma morgon som det skedde. Jag blev arg och fick upplevelser av maktlöshet.",
+        "modified": "Mon, 21 Mar 2022 14:07:41 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "b05c7914-b3b9-414f-8dfc-7560f2748ea0"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
