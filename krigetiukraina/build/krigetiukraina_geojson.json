@@ -3712,6 +3712,22 @@
           59.859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Bestörtning. Förtvivlan. Skräck. Ilska.…",
+        "date": "21 mars 2022",
+        "author": "Annika Jansson",
+        "url": "https://minnen.se/tema/krigetiukraina/19240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.039,
+          57.657
+        ]
+      }
     }
   ]
 }
