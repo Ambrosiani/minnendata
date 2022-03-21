@@ -28992,5 +28992,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00371",
+    "contributor": {
+      "display_name": "Gamnis-Christer Olsson"
+    },
+    "created": "Mon, 21 Mar 2022 21:19:52 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 21:19:52 GMT",
+    "position": {
+      "latitude": 60.50018876265529,
+      "longitude": 16.032631697034834
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19247",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "fed86a61-d37c-459a-b7ab-1873af4225b7",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "display_value": "1947",
+        "modified": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "f682b759-f7f7-4a02-8514-8be4a94c3910"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "display_value": "Se ovan.",
+        "modified": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "cbf4a3ca-ad0b-4e7b-b611-65856b0f4ac7"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "display_value": "Allt är vanvett och galenskap. Jag är förbannad!",
+        "modified": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "42b0da30-eb9f-434f-bd12-c0a6c1f64572"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "display_value": "Putin blir mördad och domen faller hårt över de ryska krigshetsarna!",
+        "modified": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "81b3a640-aace-4504-81d4-ccf86729853b"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "display_value": "All oro sprider sig och borgerligheten utnyttjar situationen med sitt ständiga tjat om medlemskap i Nato!?",
+        "modified": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "1878741a-20fa-4cec-91a3-a6b3915064c0"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "display_value": "SVT",
+        "modified": "Mon, 21 Mar 2022 21:19:52 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "94052b8f-fd95-4926-a3ca-24d0f38d3f87"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
