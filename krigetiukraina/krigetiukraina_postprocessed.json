@@ -28104,5 +28104,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00359",
+    "contributor": {
+      "display_name": "AnnG"
+    },
+    "created": "Mon, 21 Mar 2022 12:04:12 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 12:04:12 GMT",
+    "position": {
+      "latitude": 58.3902782,
+      "longitude": 13.8461208
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19235",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "91b427de-61e8-4dca-987d-9d1885bd9512",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "display_value": "1962",
+        "modified": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "ac1400f9-d8e0-4bc7-a4cb-070bc532c9cb"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "display_value": "Bekymmersamt. Tror inte att vi hålls fredade i Sverige vare sig krigsmässigt eller socio-ekonomiskt. \nDemokratin Sverige har haft det bra länge och har utveckla sig som Stat. Med ett antal cybersttacker från främmande makt eller fel statsminster är det över. \n\nSkänker pengar till biståndsorganisationer men ser även om mitt eget. Dvs ekonomi, boende, familjen mm\n\nJag tror att vi går mot tuffare ekonomiska tider.",
+        "modified": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "c830145e-421f-4720-a179-ded052d7cef4"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "display_value": "Stor sorg. Lyssnar och läser om kriget i direktsändning. Allt kommer så nära i tid och rum. Försöker förstå varför Ryssland gör detta egentligen förutom makt och kontroll. \nLider med barn och kvinnor som som vanligt blir de stora förlorarna.",
+        "modified": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "aeb97979-dd5b-401c-98c4-1e7c073545cc"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "display_value": "Mörkt avs demokrati och barnens väl och ve. Hittills är 6 miljoner människor flyktingar från Ukraina. Hur skall vi kunna ta hand om dem i Europa och trygga deras framtid? \nTidigare flyktingkriser har visat att det även kommer gangsters och quislingar som kommer att fördärva för övriga.",
+        "modified": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "1aff8ef1-bfed-44ea-b370-5911deea8e56"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "display_value": "Har försvarsanställda i min familj och är själv en del av Sveriges höjda beredskap. \nKänner oro för ett krig. Inte för min skull men jag vill inte bli en del Ryssland ej heller begrava mina kära.",
+        "modified": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "f9f709d1-67c2-4f71-a95a-7f0f8f9bd064"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "display_value": "Via nyhetssändning på radio tidig morgon. Blev förtvivlad, bestört och oerhört ledsen trots att det var väntat.",
+        "modified": "Mon, 21 Mar 2022 12:04:12 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "8996d47c-2dab-4144-bbf9-a07f3c66c550"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

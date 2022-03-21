@@ -3648,6 +3648,22 @@
           59.858
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Stor sorg. Lyssnar och läser om kriget i direktsändning. Allt kommer så nära i tid och rum. Försöker…",
+        "date": "21 mars 2022",
+        "author": "AnnG",
+        "url": "https://minnen.se/tema/krigetiukraina/19235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.846,
+          58.39
+        ]
+      }
     }
   ]
 }
