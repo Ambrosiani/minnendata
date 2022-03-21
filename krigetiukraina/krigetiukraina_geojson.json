@@ -3584,6 +3584,22 @@
           56.811
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "21 mars 2022",
+        "author": "Svendsen Jens Martin",
+        "url": "https://minnen.se/tema/krigetiukraina/19230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935,
+          59.28
+        ]
+      }
     }
   ]
 }

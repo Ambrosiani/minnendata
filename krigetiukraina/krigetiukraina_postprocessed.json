@@ -27580,5 +27580,60 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00354",
+    "contributor": {
+      "display_name": "Svendsen Jens Martin"
+    },
+    "created": "Mon, 21 Mar 2022 03:47:58 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 03:47:58 GMT",
+    "position": {
+      "latitude": 59.28009882886146,
+      "longitude": 17.93534778128604
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19230",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "9e01e43a-d772-4d09-99b8-3d7015115677",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 03:47:58 GMT",
+        "display_value": "1953",
+        "modified": "Mon, 21 Mar 2022 03:47:58 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "d8d7ed6d-45d7-45f0-8d3a-8dd3e76f25c8"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 03:47:58 GMT",
+        "display_value": "Military vehicles slowly approach\nlike sixty kilometers of tears in a row\nthe feral-eyed man ignites the flame\nof ignorance and hate\nhe’s got an arsenal of guns and bombs\nall I have is  my arsenal\nof love and words\nthose that sting\nthose that tell\nof grief and pain \nof death and horror\nand those that tell\nof bravery and courageous\nactions\nof boys and girls\nof women and men\nthose words that are so dangerous\nto some\neach word like a burn\nhundreds, thousands, millions\nthey create the fright\nin the frightful man\nand his arsenal of men\nwords make him lose his poise\nso let love and words conquer\nfear and destruction\nlet them master the hateful mind\nlet affection and sympathy prevail",
+        "modified": "Mon, 21 Mar 2022 03:47:58 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d98816f8-7257-41a0-bdb7-b075b3ab5e31"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
