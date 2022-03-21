@@ -27635,5 +27635,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00355",
+    "contributor": {
+      "display_name": "Solros"
+    },
+    "created": "Mon, 21 Mar 2022 07:07:03 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 07:07:03 GMT",
+    "position": {
+      "latitude": 59.23400949999999,
+      "longitude": 18.2964802
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19231",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "48319c04-23d0-4da5-b128-20d94ea50c3c",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "display_value": "1950",
+        "modified": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "b67cf9f8-7dc5-4905-be89-c9ec4c93ca7b"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "display_value": "Vårt försvar är inte tillräckligt om vi blir anfallna av Ryssland. Stockholm är en utsatt plats där vi bor. Sommarstugan i Blekinge skärgård är inte heller säker. Det finns ingenstans att fly!? Till Kanada kanske.. Har svårt att tanka mig att bara sitta och gömma mig i ett skyddsrum. Har svårt att se en ljus framtid, tycker det är synd om de unga, vi är över 70 och har levt ett relativt långt fredligt liv som varit ljust och optimistiskt.\nTillståndet är mörkt vad gäller klimatet, mänskligt lidande och ekonomin och det gäller  hela världen.",
+        "modified": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "a2cf9f7d-c6bd-4c34-9ed7-fa4a48537080"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "display_value": "Först  blev jag chockad och förstod inte riktigt vad som hände. Ville veta varför Putin gjorde detta. Jag ville ha en förklaring, ville hjälpa till, ville vädja till Putin att sluta. Tänkte att det kan inte vara sant, först pandemi och nu krig. Skickade pengar till RK. Följde en sida på FB från Karlskrona om en frivillig organisation. \nVi pratade mycket med familjen och vänner. Vi följde varje nyhetssändning och blev mer och mer upprörda. \nEfter ett tag begränsade jag nyhetsinflödet, orkade inte grät varje dag över Putins övervåld på civila.",
+        "modified": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "03469e67-8dc8-4bb7-ac40-cbc291d1c174"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "display_value": "Sorg över människans ondska. Hoppas och ber för fred och kärlek.",
+        "modified": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "fdc8b0f5-5fc2-4215-a16f-e26fc41f3bc7"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "display_value": "Jag är orolig, sover dåligt, gråter lätt. Hur ska det gå för alla miljoner Ukrainare som flyr?\nHur kommer det gå för Sverige? Kommer Putin att använda kärnvapen? \nSka vi gå med i Nato, måste läsa på vad det innebär.\nKollar på MSB’s hemsida om krislåda. Många tankar snurrar och sedan diskussion om vi ska preppa och sedan preppar vi lite med ett matförråd, vattendunk, kontanter, tankar upp bilen, köper en powerbank, beställer en vevradio.  Tar reda på var det finns ett skyddsrum här där vi bor.",
+        "modified": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "4337f4b4-39b8-4a9a-90f5-b24520596c93"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "display_value": "Vi såg nyheterna både i Dagens Nyheter och på TV. F",
+        "modified": "Mon, 21 Mar 2022 07:07:03 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "58f4b84b-d2e6-4097-a82a-970b951cdcc1"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

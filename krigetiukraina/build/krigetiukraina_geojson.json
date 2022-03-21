@@ -3600,6 +3600,22 @@
           59.28
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Först  blev jag chockad och förstod inte riktigt vad som hände. Ville veta varför Putin gjorde detta…",
+        "date": "21 mars 2022",
+        "author": "Solros",
+        "url": "https://minnen.se/tema/krigetiukraina/19231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.296,
+          59.234
+        ]
+      }
     }
   ]
 }
