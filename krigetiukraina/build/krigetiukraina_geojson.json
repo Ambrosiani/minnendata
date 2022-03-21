@@ -3616,6 +3616,38 @@
           59.234
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hemskt med en sådan despot i Ryssland och som kan påverka hela världen så mycket. Jag var väl naiv. …",
+        "date": "21 mars 2022",
+        "author": "Sonia Wallentinus",
+        "url": "https://minnen.se/tema/krigetiukraina/19233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.255,
+          59.538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "KRIG! Jag smakar på ordet.... det har ju alltid funnits i min vokabulär. Men ett ord så svårt att fö…",
+        "date": "21 mars 2022",
+        "author": "Lena Melin",
+        "url": "https://minnen.se/tema/krigetiukraina/19234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.43,
+          59.858
+        ]
+      }
     }
   ]
 }
