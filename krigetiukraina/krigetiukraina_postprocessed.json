@@ -28770,5 +28770,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00367",
+    "contributor": {
+      "display_name": "Fred-73"
+    },
+    "created": "Mon, 21 Mar 2022 18:32:10 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 18:32:10 GMT",
+    "position": {
+      "latitude": 59.30659274510166,
+      "longitude": 18.01854128825371
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19243",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "249376bf-ad20-4555-82c4-567fe93312e3",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "display_value": "1973",
+        "modified": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "f1a331ef-7f13-46f7-aff4-9045b3cdf98a"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "display_value": "Det finns ju en oro för att Ryssland ska fortsätta att gå in i länder där de tycker de har en historisk rätt. Jag tycker det känns bra att vi i Väst var så snabba att gå samman och det känns som vi månar om varandras länder. Känns även positivt i Sverige att vi gått samman och vill hjälpa Ukraina som land och även de som flyr hit. \n\nJag vet inte hur Rysslands framtid ser ut dock. Där känns det mörkare och som om det kommer återgå till ett land som det var under Stalin på 30-40 talet.",
+        "modified": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "1a997e20-28e8-4cb6-90cd-94a592a34aa4"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "display_value": "Jag tycker det är fruktansvärt att vi inte kommit längre 2022 utan att en handfull makthungrig elit kan få åsamka så många människor sådant lidande som kommer ha livslånga effekter!! Jag tycker det kan liknas vid en utrotning av det ukrainska folket och dess samhälle! \nEna sekunden tycker jag att vi i väst borde gå in med allt vad vi har för att hjälpa dem och i nästa sekund är jag livrädd för ett tredje världskrig! Vi måste isolera Ryssland och Putin från världen..Han är galen och det kommer inte bli lättnader förrens han är borta! Ryska folket är för oenade och rädda för att avsätta honom så det enda man kan hoppas på är ju en Palatskupp!",
+        "modified": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "9a9ae01a-1c9d-439f-9930-b9e7dcb4394c"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "display_value": "Hoppfull ändå för det här väckte nog oss och skakade om oss. Vi kommer värdesätta demokrati mer efteråt och värna den mer samt att detta kanske kommer påskynda omställningen till ett hållbarare samhälle!",
+        "modified": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "166a9c25-014c-4639-9656-4e0a8a20c557"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "display_value": "Inte direkt mer än att jag känner en oro som ligger lite i bakhuvudet hela tiden. Lite mindre nu när det gått en tid. Vi har preppat här hemma och köpt på oss en vevradio, basvaror, laddat powerbanks, tittat ut närmsta skyddsrum etc. \nI mitt arbete märks det destå mer då jag jobbar med svensk livsmedelsproduktion och att finansiera forskning inom det. Här kommer det vara påverkan lång tid framöver med svält i spåren då Ryssland och Ukraina är stora spannmåls exportörer till bla Nordafrika och mellanöstern.",
+        "modified": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "29575581-35eb-4db0-a914-1e6893f0146d"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "display_value": "Jag vaknade på morgonen att jag fick en avisering via telefonen och min Sveriges Radio app! I stunden kände jag en overklighet! Det här händer inte! Är de så jävla dumma men de kommer nog bara hålla sig i de två regionerna och Krim men inte gå in i resten av landet.",
+        "modified": "Mon, 21 Mar 2022 18:32:10 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "6fdf3f32-d863-4e0c-bef0-dbd916e9e454"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

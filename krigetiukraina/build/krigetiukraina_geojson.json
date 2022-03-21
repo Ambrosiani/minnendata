@@ -3744,6 +3744,22 @@
           59.478
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker det är fruktansvärt att vi inte kommit längre 2022 utan att en handfull makthungrig elit …",
+        "date": "21 mars 2022",
+        "author": "Fred-73",
+        "url": "https://minnen.se/tema/krigetiukraina/19243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.019,
+          59.307
+        ]
+      }
     }
   ]
 }
