@@ -28659,5 +28659,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00366",
+    "contributor": {
+      "display_name": "M Sn"
+    },
+    "created": "Mon, 21 Mar 2022 15:45:13 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 15:45:13 GMT",
+    "position": {
+      "latitude": 59.47828215859726,
+      "longitude": 18.31908676251436
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19242",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "910644bf-31f1-4a65-b4da-34f7e5746fd2",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "display_value": "1940",
+        "modified": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "bba258c3-6b07-4765-9697-647fb884e7f7"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "display_value": "Jag tror inte att Sverige kommer att bli ett krigsmål för Putins Ryssland. Jag tror, och hoppas innerligt, att Putin mycket snart manövreras bort från makten.\n\nJag hoppas att kriget i Ukraina snart är över, att Ukraina förblir ett självständigt och demokratiskt land och att de får omvärldens hjälp att återuppbygga landet.  Putins och oligarkernas rikedomar bör dras in för att bidra till detta.\n\nEn reflektion: hur kommer det sig att västvärlden reagerar så enigt och kraftfullt för att stödja Ukraina, när samma elände i t ex Jemen, Afghanistan, Libyen eller Rwanda på sin höjd får organisationer som Röda Korset och Läkare utan gränser att höja rösten??",
+        "modified": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "68d6aad8-0153-439b-ae86-635660260b24"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "display_value": "I det längsta trodde jag inte att Putin var så oklok, att han skulle ta detta  sista steg.  Jag kände ett djupt hat mot honom och skrev av mig en del av ilskan i några verser:\n\nGenom att kuva Ukraina den lille mannen tror,\nhan i Ryssland ska bli ihågkommen som stor.\nMen helt fel despoten har igen minsann.\nHan kommer att minnas som en galen tyrann.\n\nStor kunde han däremot ha blivit,\nom han krigspengarna hade givit\ntill egna folkets skolning och väl.\nIstället han skjutit sin egen häl!\n\nJu längre kriget har pågått, desto djupare är mitt hat mot Putin och hans gelikar, desto mer lider jag med Ukrainas befolkning och desto mer beundrar jag de ukrainare som hittills försvarat sig så väl mot den ryska krigsmakten.  Så otroligt många flyktingar, så många döda och skadade och en så enorm förstörelse! Måtte Putin snart bli placerad på borsjtj och bröd någonstans i kallaste Sibirien!\n\nJag beklagar också en stor del av Rysslands befolkning, som inte tillåtits få veta sanningen om krigets orsaker och följder.",
+        "modified": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ce376c10-6ec3-4b7b-ad4c-82785eafaf93"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "display_value": "Ryssland blir under lång tid betraktat som ett parialand, som andra så lite som möjligt vill beblandas med. Levnadsstandarden där backar decennier.  Kommer Ryssland på egen hand att kunna/vilja tackla problematiken med utsläppen av metangas från tinande permafrost i Sibirien?",
+        "modified": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f680864a-cbda-40dd-b320-d5d0244a2bb2"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "display_value": "Jag bidrar mer än annars i pengainsamlingar, som jag tror gagnar Ukrainas folk.\n\nI samtal med vänner och bekanta kommer kriget i Ukraina alltid upp. Inte en enda av dem har försökt försvara Putins agerande. \n\nAtt bensinpriset stigit som en följd av kriget och sanktionerna mot Ryssland, berör mig inte nämnvärt, eftersom jag använder bilen så litet.",
+        "modified": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9343d986-c915-4ab1-b033-0a6d7ddbaf93"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "display_value": "Via radions nyhetssändning på morgonen den 25 feb.",
+        "modified": "Mon, 21 Mar 2022 15:45:13 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "fd775f78-42ab-4151-8c5d-f8fad5e54ebe"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
