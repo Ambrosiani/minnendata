@@ -28437,5 +28437,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00363",
+    "contributor": {
+      "display_name": "Svenskjävel"
+    },
+    "created": "Mon, 21 Mar 2022 14:38:37 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 14:38:37 GMT",
+    "position": {
+      "latitude": 59.85856380000001,
+      "longitude": 17.6389267
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19239",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "eb7805e6-2d33-45e7-b76c-f421472355d4",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "display_value": "1997",
+        "modified": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "50e38591-1af4-48ae-b09b-2b9975ae4fd6"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "display_value": "Många som försöker att göra världen bättre men kan motarbetas utav dumma förslag och beslut som har tagit av politiker.",
+        "modified": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "27b0d6bc-5a25-4fea-a186-5abce93fa92e"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "display_value": "Extremt onödigt och tragiskt. Putin är en jävla röv.",
+        "modified": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7be6dd48-4805-4126-89ab-5607e587d639"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "display_value": "Både ljus och mörk. Om man stoppar kriget och får bort politiker som inte skall styra då har vi en godare chans till att få en ljus framtid. Jag vill inte hamna i krig. Ingen i min närhet vill det.",
+        "modified": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "ed5069e1-9160-4674-b33c-80fe65dc6e39"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "display_value": "Vi följer det dagligen och är rädda för att det skall hända något i Sverige. Eller att Sverige blir indraget i kriget. Sedan finns det en rädsla för atombomber.",
+        "modified": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "db518332-f934-445a-8aba-4692c6877b44"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "display_value": "Via nyhetsflödet på facebook",
+        "modified": "Mon, 21 Mar 2022 14:38:37 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "19c6e545-86a0-4845-b811-d6a30fb50e34"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
