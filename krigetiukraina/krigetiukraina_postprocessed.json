@@ -27746,5 +27746,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00356",
+    "contributor": {
+      "display_name": "Nora"
+    },
+    "created": "Mon, 21 Mar 2022 08:19:39 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 08:19:39 GMT",
+    "position": {
+      "latitude": 59.2786184728289,
+      "longitude": 18.13276970570949
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19232",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "cfdfc6fc-473b-4039-b75a-f37c3b2513c7",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "display_value": "2007",
+        "modified": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "d47eff33-c3a9-4a18-9f76-95d16807eaa0"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "display_value": "Allting känns ganska rörigt. Alla tycker olika men samtidigt samma. Jag blir så arg när SD säger att vi ska ta emot ukrainska flyktingar bättre än andra flyktingar, eftersom de är mer lika oss och kommer från ett \"riktigt krig\". Det låter helt sjukt.  Jag försöker förstå hur jag själv står till olika frågor, som nato och hur fort de ukrainska barnen ska börja skolan. Men det är svårt att veta, jag är faktiskt bara 14 år.",
+        "modified": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "5d269373-a711-41d3-89a5-00d1b2265bce"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "display_value": "Jag tycker det känns hemskt. Som ett hot som på något sätt alltid finns i bakhuvudet, som gör att jag rastlöst kollar nyheterna minst tio gånger om dagen. Jag ser bilderna i tidningen på familjer som fått allting förstört. Jag undrar hur framtiden kommer se ut för Europa, hur ett land som blivit så förstört som Ukraina blir nu ska byggas upp igen. På något sätt tycker jag synd om Putin också, vilken människa kan göra någonting sånt här om han inte mår helt fruktansvärt?",
+        "modified": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "27b69a2b-6ba7-430f-a8e9-160f6b8b31b5"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "display_value": "Jag tänker att den här förödelsen kommer ta lång tid att fixa. Kommer Ukraina falla? Kommer Ryssland attackera fler land? Kommer Sverige gå med i Nato? Jag vet inte. Men det jag tror är att det att återgå till ett normalt tillstånd kommer ta mycket, mycket lång tid.",
+        "modified": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "51451dc8-a9f4-45af-a0f8-374d60772f80"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "display_value": "Min mentor och lärare är från Belarus. Jag hade en lektion i tyska med henne där hon verkade frånvarande, för att sedan säga till hela klassen att hon slutat följa nyheterna efter protesterna i Belarus förra året, att det blivit förmycket för henne. Att hon nu in i det längsta hoppats på att det inte skulle bli krig. Att hon fått nyheterna nu och inte visste om hon skulle klara hålla i lektioner. Pappa tankade bilen när vi skulle åka till farmor, det kostade 1000kr. Jag tänker på skyddsrummet i husetdär jag bor, får folk verkligen plats och när var gasmaskerna senast utbytta? Min lillasyster har Downs Syndrom och jag oroar mig för alla med funktionsvariationer i krigets Ukraina, de som sitter fast och de som är på flykt.",
+        "modified": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "628fbbeb-ac46-4d97-8e12-33e3657ec2ff"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "display_value": "Jag visste att det kanske skulle bli krig, att Rysssland hotade. Att Ryssland erkände Donbass som utbrytarrepublik hade jag läst i DN på morgonen medan jag åt frukost. Men jag fattade inte helt vad det betydde. I korridoren i min skola medan jag väntade på att en lektion skulle börja hörde jag någon säga \"Tänk om det blir krig i Sverige också?\". Är det verkligen krig, tänkte jag. När jag kom hem från skolan var mamma hemma, hon bekräftade att det verkligen var krig. Jag gick in på Svt för att försöka förstå.",
+        "modified": "Mon, 21 Mar 2022 08:19:39 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "0d203ab1-6dea-4a08-9624-e518a5f13046"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
