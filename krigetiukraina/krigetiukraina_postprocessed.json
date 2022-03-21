@@ -28215,5 +28215,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00360",
+    "contributor": {
+      "display_name": "Erasmus"
+    },
+    "created": "Mon, 21 Mar 2022 14:03:15 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 14:03:15 GMT",
+    "position": {
+      "latitude": 59.1678291183002,
+      "longitude": 18.31206545410156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19236",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b421f4ee-99ad-4a5c-832e-f1110c3908cb",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "display_value": "1946",
+        "modified": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7b3405e3-4e26-4e5e-aa71-1c44ad753a29"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "display_value": "Total ovisshet. Ingen vet ju vad som skall hända den närmaste dagen eller ens den närmaste timmen.",
+        "modified": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0324e5a9-3647-4333-9048-16264283175c"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "display_value": "Mycket starkt påverkad. Tankarna finns hela tiden där, i det angripna landet, hos det lidande folket. Sorg men också vrede över den bestialiska ondskan som ingenting tycks kunna hejda. Jag förmår inte koncentrera mig på läsning, som tidigare, bara på nyhetsförmedlingen. Musiken har ersätt läsningen, den ger tröst och kraft, eftersom orden känns alltmer tomma.",
+        "modified": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "8d8a91be-5154-49f7-8866-b618e34959b2"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "display_value": "Ljusen verkar slockna, ett efter ett, runtom i denna värld, som alltmer tycks vara bortom all räddning. Jag har nog aldrig varit någon helhjärtad optimist ifråga om framtiden, men nu är jag avgjort pessimistisk.",
+        "modified": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "525aba09-a0f9-4d97-9577-9956509150d7"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "display_value": "Vi är pensionärer, i det praktiska-vardagliga är skillnaden inte så stor. Ytligt sett lever vi i stort sett som vanligt.",
+        "modified": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "28167e97-23fe-46dd-9e16-e64ec6188f0f"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "display_value": "Nyheten var väntad sedan länge, och jag fick min farhåga bekräftad när jag öppnade Svt:s nyhetsapp på mobilen när jag vaknade på morgonen. Sorg och ilska.",
+        "modified": "Mon, 21 Mar 2022 14:03:15 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "87badcce-6d65-4897-b4d0-26c866c0248f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

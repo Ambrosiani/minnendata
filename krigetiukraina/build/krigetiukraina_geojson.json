@@ -3664,6 +3664,22 @@
           58.39
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mycket starkt påverkad. Tankarna finns hela tiden där, i det angripna landet, hos det lidande folket…",
+        "date": "21 mars 2022",
+        "author": "Erasmus",
+        "url": "https://minnen.se/tema/krigetiukraina/19236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.312,
+          59.168
+        ]
+      }
     }
   ]
 }
