@@ -3760,6 +3760,22 @@
           59.307
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Varje människoliv är ovärderligt och värdefullt och borde vara okränkbart. I livet drabbas vi alla a…",
+        "date": "21 mars 2022",
+        "author": "Anna",
+        "url": "https://minnen.se/tema/krigetiukraina/19245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

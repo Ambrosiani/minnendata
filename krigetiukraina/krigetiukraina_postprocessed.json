@@ -28881,5 +28881,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00369",
+    "contributor": {
+      "display_name": "Anna"
+    },
+    "created": "Mon, 21 Mar 2022 20:08:59 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 21 Mar 2022 20:08:59 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19245",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "1c991950-e05e-4cc5-88b3-9881050e2808",
+    "values": [
+      {
+        "created": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "display_value": "1974",
+        "modified": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "cf92b00c-e907-4cd7-b172-d6e29944da6f"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "display_value": "Jag växte upp på 80-talet på Öland och hade som barn en massa egna krisplaner, var jag skulle gömma mig om ryssen kom. Nu är vi tillbaka där, att det finns ett stort hot i världen. Plötsligt har också moral blivit enkelt, många människor är just nu ense om rätt och fel. Jag undrar hur länge enigheten håller i sig.",
+        "modified": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "75417f1a-7ddf-435c-bee2-9e378cb2e8bc"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "display_value": "Varje människoliv är ovärderligt och värdefullt och borde vara okränkbart. I livet drabbas vi alla av sjukdom, sorg och död, och att det då finns människor som skapar död och lidande är för mig orimligt och obegripligt. Det borde vara omöjligt för oss människor att skada varandra, trots det är det som om vi inte gör annat. Min pappa är svårt sjuk och jag kommer snart förlora honom, min egen sorg mixas därför med den sorg människorna i Ukraina beskriver i det jag läser och lyssnar på.",
+        "modified": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "098d7c38-b0e4-4a11-8aca-17eca42b5017"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "display_value": "Historien får plötsligt en abrupt knuff i en ny riktning. Samtidigt finns det så många andra hot eller händelser som kan påverka framtiden.",
+        "modified": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "7979277c-69b9-4b95-b981-350449b3a006"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "display_value": "Redan när pandemin kom gjorde jag i ordning en krislåda på vinden för att klara sju dagar för mig och hunden. Jag tänker också mycket på hur jag ska kunna ta hand om min hund om kriget kommer. Vi måste fly ner i tunnelbanan eftersom vi inte är välkomna i skyddsrummen. Jag undrar vart i Europa jag skulle kunna fly, jag har vänner sedan studietiden på 90-talet i Irland, skulle de ta emot mig? Vad skulle jag ta mig till om min pappa inte kan få sin medicin, om den tar slut? Hur skulle han kunna söka skydd om hissen inte fungerar på grund av strömavbrott? Jag skulle inte kunna fly från Sverige och lämna honom kvar. När jag rör mig genom staden letar jag efter de orange och blå skyddsrumsskyltarna, det finns en i grannhuset.",
+        "modified": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "65d244b3-e3f6-4337-8853-28c47925aab4"
+      },
+      {
+        "created": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "display_value": "Det hade legat i luften en tid och när något i världen är osäkert brukar jag lyssna på Ekot på morgnarna, annars lyssnar jag på ljudböcker. Den här morgonen möttes jag av nyheten att Ryssland slutligen angripit Ukraina och jag tänkte på alla stackars människor som får sina liv sönderslagna. Jag grät.",
+        "modified": "Mon, 21 Mar 2022 20:08:59 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d3e10d7b-0b43-4b93-9568-cf84dcf3204a"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
