@@ -3808,6 +3808,22 @@
           63.076
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är själv inte direkt påverkad av kriget men har bekanta som kommer från Ukraina. \n\nSom finländar…",
+        "date": "22 mars 2022",
+        "author": "helmikki",
+        "url": "https://minnen.se/tema/krigetiukraina/19252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.263,
+          63.826
+        ]
+      }
     }
   ]
 }

@@ -29214,5 +29214,121 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00376",
+    "contributor": {
+      "display_name": "helmikki"
+    },
+    "coordinates": "",
+    "created": "Tue, 22 Mar 2022 15:31:35 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 22 Mar 2022 15:32:34 GMT",
+    "position": {
+      "latitude": 63.8258471,
+      "longitude": 20.2630354
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19252",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "c0163a84-e8df-44dc-89a7-c1cfca07b541",
+    "values": [
+      {
+        "created": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "display_value": "1961",
+        "modified": "Tue, 22 Mar 2022 15:32:34 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "0e754cbd-1355-49d0-a090-1e5fbb279a46"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "display_value": "Västvärlden fokuserar just nu på Ukraina och dessa flyktingar tas emot med öppna armar.  Samtidigt pågår det krig även i andra länder. Dessa flyktingar behöver också uppehållstillstånd.\n\nTänker jag någonsin på dessa krig? Ja, ibland. Jag är tredje generationen efter inbördeskriget. Mina föräldrars föräldrar var barn när inbördeskriget bröt ut i januari 1918. Kriget kastar en lång skugga. Det är lätt att börja skjuta men svårt att sluta. Även när vapnen tystnar, kan det ta decennier innan läget normaliseras. Normaliseringen kräver ofta tystnad. Det finns saker man inte kan prata om, saker som måste sopas under mattan för att kunna gå vidare. Men skit som göms brukar inte försvinna. Lukten hänger kvar... Det kan istället bli upp till den tredje, fjärde eller femte generationen att städa upp, skaka mattorna och vädra hushållet.",
+        "modified": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "72cca389-0a83-4721-a012-f8c38c67383b"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "display_value": "Jag är själv inte direkt påverkad av kriget men har bekanta som kommer från Ukraina. \n\nSom finländare har man dock en känslomässig koppling till det ryska anfallet. Ylioppilaskunnan laulajat (Studentkårens sångare) deltog nyligen i en protest framför den ryska ambassaden i Helsingfors och sjöng Finlandia hymnen med Koskenniemis lyrik. Kören sjöng hymnen även i en välgörenhetskonsert som samlade medel för Ukraina. \n\nSibelius komponerade hymnen under förryskningstiden och om man känner till historien, kan man höra den i musiken. Hymnen var inte avsedd för att sjungas men amerikafinnarna skrev en dikt redan 1919 men den föll snabbt i glömska. Koskenniemis välkända dikt är skriven 1940, dvs antingen under eller direkt efter vinterkriget. Koskenniemi är mest känd som Det Vita Finlands Stora Diktare (de vita = vinnare av inbördeskriget 1918). Gillar inte Koskenniemi och den sortens ultrapatriotiska flagviftande. Men när jag såg filmsnutten där kören sjöng framför den ryska ambassaden och ersatte ordet ”Finland” med ”Ukraina”, grät jag. \n\nDen svenska översättningen är gjord av Joel Rundt. Här den ukrainska versionen:\n\nO Ukraina, din morgonljusning randas,\noch natten skingras, hotfullt mörk och lång.\nHör lärkans röst med rymdens susning blandas,\nsnart rymden fylles av jubelsång.\nSe natten flyr och fritt du åter andas.\nDin morgon ljusnar, o fosterland.\n\nStig högt, vårt land, som du ur natt dig höjde.\nDen dag dig väntar, fritt och öppet möt\nmed samma kraft, med samma mod, du röjde,\nnär träldomsoket du sönderbröt.\nFörtrycket aldrig dig till jorden böjde.\nDitt verk dig väntar, o fosterland.\n\noriginal på finska:\nOi Suomi, katso, Sinun päiväs koittaa\nYön uhka karkoitettu on jo pois\nJa aamun kiuru kirkkaudessa soittaa\nKuin itse taivahan kansi sois\nYön vallat aamun valkeus jo voittaa\nSun päiväs koittaa, oi synnyinmaa\n\nOi nouse, Suomi, nosta korkealle\nPääs seppälöimä suurten muistojen\nOi nouse, Suomi, näytit maailmalle\nSä että karkoitit orjuuden\nJa ettet taipunut sä sorron alle\nOn aamus alkanut, synnyinmaa.\n\nAtt finländarnas associerar Ukrainakriget till sin egen historia syns även i memewars. Jag såg nyligen en meme där man photoshoppat Eetu Istos målning \"Hyökkäys\" (attack) och ersatt den ryska örnens huvuden med Putins huvud. Istos målning var gjord 1899 och den visar en ung kvinna (Fröken Finland) som blir attackerad av en stor örn (Ryssland).\n\nPutin ser ju ut att ha gjort en stalin. För det första, bad intel när underhuggare säger vad despoten vill höra. Som resultat underskattar man landets vilja och förmåga att försvara sig och skickar in illa förberedda trupper. För det andra är Putins propaganda precis lika löjeväckande som Stalins i november 1939. ”Tiltu ljuger”. Igen. Den finskspråkiga ryska propagandan kallades ”Tiltu” pga de kvinnliga radiorösterna. Vem var/är målgruppen? Inte omvärlden eller publiken i det land man anfaller. Trovärdigheten var/är ju noll. Hemmapubliken? Tja, 1939 kunde man förvänta sig att den ryska publiken inte visste bättre. Den sovjetiska censuren var ju allomfattande och det var farligt att försöka lyssna på utländska kanaler. Idag har man VPN, Tor, nätuppkoppling och ryskspråkiga nyheter publiceras utanför Ryssland. Det finns åtminstone rent hypotetiskt en möjlighet att söka information från olika källor. För det tredje har man soldaternas upplevelser. Några dagar sedan såg jag en tweet där man påstod att ukrainska soldater börjat få psykiska problem. I tråden såg man folk genast göra paralleller till vinterkriget och de finska soldaternas berättelser. Ryssarna skickade in så många män att man inte kunde skjuta dem alla. Vilken förlust av liv! Nyligen såg jag även ett filmklipp där krimtatarerna (ukrainska muslimer) sade sig försvara Ukraina. Det fick mig att tänka på tatariska hjältegravar i Finland. Ja, Finland har en tatarisk minoritet sedan 1800-talet.",
+        "modified": "Tue, 22 Mar 2022 15:32:34 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6c885fdb-786e-4fb0-af5a-2aa2cd888cbb"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "display_value": "Ukrainarnas motstånd är makalöst. Det är dock inte säkert att deras hjältemod räcker för att vinna. Frågan är stora förluster Putin kan tolerera utan att förlora makten. Förlustsiffrorna under vinterkriget tros ha varit sex ryska soldater mot en finländsk. \n\nÄn så länge verkar förhandlingarna mellan Ryssland och Ukraina följa ett sovjetiskt mönster. Paasikivis berättelse om fredsförhandlingarna kan kortfattat sammanfattas så här:\n\nCCCP: ”Och så vill vi ha staden Enso och Enso-Gutzeits pappersbruk.”\nF: ”Men - området är ju inte ockuperat av den röda armen.”\nCCCP: ”Det kan åtgärdas. Skulle ni vilja det?”\nF: ”...”\nCCCP: ”Och ni ska naturligtvis reparera skadorna innan ni lämnar över fabrikerna.”\nF: ”Men det är ju ni som bombat sönder dem.”\nCCCP: ”Jaha, och…?”\n\nEnso heter idag Svetogorsk och Enso-Gutzeit har blivit Stora Enso. Finland lämnade Karelska näset och andra områden utan folk. Men man kan inte evakuera 44 milj. människor.\n\nEtt annat exempel. Stalin bröt ner estländarnas motstånd genom att likvidera landets ledarskikt och skicka ca 10 % av befolkningen till Gulag. Det skulle motsvara fyra miljoner ukrainare. Så, vad är Putins mål? Det är svårare att tygla en nation med fyrtiofyra miljoner människor än nationer som består av en miljon eller fyra miljoner människor.",
+        "modified": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "0ec1b898-914d-4a5c-b8b5-1617c2266ad7"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "display_value": "Vi är som sagt inte direkt påverkade av kriget men vi läser nyheterna varje morgon. Min man är amerikan och krigsveteran. Han följer mest amerikanska och brittiska tidningar, medan jag använder mestadels svenska och finska källor. Följer även flertal olika konton på Twitter.\n\nSamtidigt är jag medveten om att lögntoleransen ökar om kriget känns rättfärdigat. Confirmation bias. Det pågår ju även ett propagandakrig. Bilder av ukrainska jordbrukare som stjäl ryska pansarvagnar uppfyller ett känslomässigt behov. De inger hopp och förlöjligar motståndaren som då känns mindre farlig. Men som Knightley (1975) säger: krigets första offer är sanningen.",
+        "modified": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "03006f37-6871-42a4-a480-7655d198606c"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "display_value": "Jag fick veta om den ryska invasionen i nyheterna och följer även i vanliga fall flertal nyhetskällor på twitter. Under kriget har jag lagt till bl a Kyiv Independent och ett par av deras krigskorrespondenter.",
+        "modified": "Tue, 22 Mar 2022 15:31:35 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "2f28c8a5-f56c-4e8f-9c26-cec4f54410d4"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
