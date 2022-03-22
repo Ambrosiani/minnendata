@@ -3840,6 +3840,22 @@
           57.721
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är hemskt på så många plan. Alla oskyldiga liv som går förlorade och häxjakten på alla med ryskt…",
+        "date": "22 mars 2022",
+        "author": "Rebecca",
+        "url": "https://minnen.se/tema/krigetiukraina/19257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

@@ -29548,5 +29548,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00381",
+    "contributor": {
+      "display_name": "Rebecca"
+    },
+    "created": "Tue, 22 Mar 2022 21:09:45 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 22 Mar 2022 21:09:45 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19257",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "3e0093bf-b27e-4274-a3b5-e965490554d1",
+    "values": [
+      {
+        "created": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "display_value": "1989",
+        "modified": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "edbe9c62-9f88-49cf-a2c9-961fdde19848"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "display_value": "Jag tänker att vi kunde haft det tryggare i Sverige om vi inte dragit ner o sålt av millitära nödvändigheter. Att samhället borde satsat mer på samhällsviktigt skydd. Vi har allt för lite skyddsrum och om Sverige tänkt gå med i NATO som ca 50% av befolkningen verkar vilja, så kommer vi behöva skyddsrum för de 50% som inte vill gå med i NATO så att vi som inte ville ha med krig att göra kan få en chans att skydda oss på något sett. För NATO innebär inte bara några miljarder kronor i avgift. Utan också att skicka iväg soldater i krig USA känner för att starta (ja, don står för don flesta konflikterna och krigen genom tiderna)",
+        "modified": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "52fa7047-4dfa-4bfe-928c-3d8cebc6080a"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "display_value": "Det är hemskt på så många plan. Alla oskyldiga liv som går förlorade och häxjakten på alla med ryskt påbrå.. det får mig att tänka tillbaka på andra världskriget. Det känns som att andra världskriget aldrig tog slut, nazisterna jobbade mer i skuggan för att ta sig in till makten.  Och jag hoppas av hela mitt hjärta att detta inte sker i Sverige. Att ha ett Högerextremt  styre vid makten kommer orsaka förödelse.  Värre än bara diktatur styre....Vi ser detta upprepas gång på gång, människan lär sig aldrig av misstag så länge dom själva inte sitter i båten som sjönk.",
+        "modified": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7bd5bc6c-a755-4c29-b108-19253b8ebea6"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "display_value": "Jag har hopp... jag har hopp om att folk vaknar upp och ser sig omkring, börjar bli mer källkritisk till vad media sprider,  nyfikenheten att söka redan på orsaker och fakta till varför något sker.. att människor börjar våga ifrågasätta, att vi ska bli ett mer demokratiskt land.. och att vi inte låter det som sker i ukraina ske här i Sverige. Att nordiska motståndsrörelsen inte hamnar i topp.. att inte något parti som skiljer på etnisk härkomst, inte står för yttrandefrihet (så länge de inte skadar andra) ska hamna i topp.",
+        "modified": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "545c703f-b05d-417f-aaeb-3b1674a7c195"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "display_value": "Mina närmaste har blandade åsikter om kriget. Vänner o bekanta i närmare områden drabbas hårdare. Framförallt dom som inte haft råd att fly eller som saknat papper och inte får lämna vissa områden. Utegångsförbudet i ukraina som pågått sedan 2020 nu har tagit hårt på dom som förlorat inkomst o tvingas vara kvar med.\nTacksam att vi inte haft utegångsförbud här i Sverige, vilket gjort att man kunnat bidra lite ekonomiskt.",
+        "modified": "Tue, 22 Mar 2022 21:09:46 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "47187300-7038-434e-b181-4d47f5c5d222"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 21:09:45 GMT",
+        "display_value": "Jag nåddes av nyheten i svensk media, jag blev genast orolig o hörde av mig till bekanta i områden som kunde ligga i riskzon. Men svaren jag fick stämde inte helt med hur svensk media vinklade saker. Mycket falska bilder o skrämselpropaganda hade tagit över många länders mediaströmmning lika så de svenska nyheterna. Jag själv har fått ta del av den kamp som det \"ockuperade\" området i öst delat efter \"ukrainska revulutionen\". Livet i den delen av dontesk och luhansk har varit hemsk. Människor har fått tvingats bo i ruiner o bunkrar. Kriget har fortsatt efter 2014 i dessa delar.. kvinnor, barn o män som blivit våldtagna, torterade, mördade och avrättade. Dom blev stämplade som terrorister, även om dom ej hade begått något brott. För hur skulle ett spädbarn eller litet barn överhuvudtaget kunna klassas som rysksoldat eller terrorist. Att dom slåss för sin egna frihet efter att ha suttit fängslade bland ruiner i flera års tid är en självklarhet. Vilken människa hade inte slagits för sin överlevnad.\nEfter att jag såg dokumentären Donbass  2016 av  en fransk kvinna som var där förstod jag mer o mer över vad dett krig faktiskt handlade om o min syn på mänskligheten, ukrainska regeringen och media blev förändrad. Hur kunde människor inte förstå att dom.också vill leva, att dom också slåss för sina barn o sin frihet. Vem hade inte satt på sig uniform och börjat slåss tillbaka.\nFör mig blev det ganska solklart att ukrainska regeringen regaerade starkt på luhansk regionens neutralitetsavtal med ryssland som skrevs under 22 februari. Enligt vittnen hade några ukrainska soldater börjat skjuta i hopp om att träffa putin. O hans skyddsoldater hade gett eld tillbaka. Detta gick även att läsa på ukrainska arméns egna nyhetssida innan. För joint force operation som nato startade upp med ukraina 2019 när Zelenskiy kom till makten...att avtalet  var en krigsförklaring stod klart på deras sida också... jag hoppas att sanningen en dag når ut till allmänheten.. För de kvinnor o barn som fått lida i alla dessa år fanns aldrig någon rättvisa och kommer aldrig finnas. Så som ukrainska regeringen valde göra redan i starten av detta krig 2014 var inte en lösning på den konflikten utan snarare \"förinta dom som inte håller med\"",
+        "modified": "Tue, 22 Mar 2022 21:09:45 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "109d7931-bcbf-4af9-ab55-b38fdf7d1a32"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
