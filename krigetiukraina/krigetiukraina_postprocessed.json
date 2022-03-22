@@ -29437,5 +29437,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00380",
+    "contributor": {
+      "display_name": "Hans Raaf"
+    },
+    "created": "Tue, 22 Mar 2022 20:55:57 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 22 Mar 2022 20:55:57 GMT",
+    "position": {
+      "latitude": 57.72109653135774,
+      "longitude": 12.033939391453158
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19256",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b92ad66b-1719-4a6d-9f8f-a7bbcc55a670",
+    "values": [
+      {
+        "created": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "display_value": "1957",
+        "modified": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "760fd217-808c-44c8-886e-f49e57f362c1"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "display_value": "Önskar att sverige går med i nato nu och att vi agerar med motatacker och stöder demokratin istället för att ett våldsmonopol skall tillåtas ta över europa. Med putin på toppen är europa som välfärds och fri kontinent härefter dödsdömt om vi inte motaggerar. Det tror jag",
+        "modified": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "69a63127-848c-4611-b1eb-822fd8e98936"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "display_value": "Avsky och sorg att ett gangstervälde tagit över igen. Vi trodde efter Sovjets fall att vanliga varma hoppfulla vänliga människor skulle diskutera och styra i utbyte och demokrati.  Men gangstrarna tog över med sina hot och våld - flytta på dig det här är mitt - du står i vägen stick eller jag dödar dig. Putin och hans gäng var aldrig politiker liksom dem före dem i forna Sovjet. De uppfinner lögner som gagnar deras egen ficka. De var alltid bara gangsters som bara kan ett språk - våldet. Putin kunde valt att handla och samtala men hans narcissistiska själ visste inte vad samtal var. Jag känner sorg",
+        "modified": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "4da6f5fd-3184-492b-a439-ce64afbf3430"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "display_value": "Dystert för alla våra ungdomar och för kärleken och för friheten.",
+        "modified": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a794737b-c4fb-4463-b7c8-cd839d2b601d"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "display_value": "Vi skickar pengar  till Ukraina och saker vi samlat in. Täcken bland annat.  Ja fy fan vad sorgeligt.",
+        "modified": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "c9341702-ae02-45df-ba1a-0850ec808ce1"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "display_value": "Från förfärade arbetskamrater.  Det var en hemsk dag. Liksom förstås alla dagar där efter till dödandet är över.",
+        "modified": "Tue, 22 Mar 2022 20:55:57 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "88fa97d5-4623-40d5-a849-1d99274856e3"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

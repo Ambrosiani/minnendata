@@ -3824,6 +3824,22 @@
           63.826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Avsky och sorg att ett gangstervälde tagit över igen. Vi trodde efter Sovjets fall att vanliga varma…",
+        "date": "22 mars 2022",
+        "author": "Hans Raaf",
+        "url": "https://minnen.se/tema/krigetiukraina/19256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.034,
+          57.721
+        ]
+      }
     }
   ]
 }
