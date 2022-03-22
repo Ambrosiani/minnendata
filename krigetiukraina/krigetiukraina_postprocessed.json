@@ -29330,5 +29330,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00377",
+    "contributor": {
+      "display_name": "Sus"
+    },
+    "created": "Tue, 22 Mar 2022 17:16:49 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 22 Mar 2022 17:16:49 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19253",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "96ddfe3f-efd4-4137-92ef-c989db78eeb2",
+    "values": [
+      {
+        "created": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "display_value": "1971",
+        "modified": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "96930e34-4078-48db-a54c-780474af58cf"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "display_value": "Känner lite hopplöshet för de dagliga nyheter som visas.\nTycker framtiden är oviss.\nJag känner mig ganska ensam.",
+        "modified": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "5e88281d-d93d-4aeb-af6e-3ad423c049e0"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "display_value": "Att folk plötstligt måste lämna sina hem och liv på flykt är hemskt.\nAtt deras land förstörs och deras hus bombas och deras liv är sköra.\nDe blir beroende av andra och det finns även de som utnyttjas i sin redan svåra situation.\nDet låter som ett svart hål kantar deras väg.\nAtt ljuset är taget i från dem.",
+        "modified": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "40d323bf-f1d9-414b-bf69-16984ef4f252"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "display_value": "Kanske det blir en ekonomisk uppgörelse i slutet på Kriget.",
+        "modified": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "6ba0623c-4fce-46c5-bc5a-933466e230d6"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "display_value": "I dag har jag känslomässigt påverkats av kriget.\nSamtidigt tycker jag att det är ett otroligt fokus från regeringen och andra länder på försvarsfrågor och kostnader.\nAtt det skrivits önskelista över vilka vapen som önskas från olika länder och pengar till stöd.\nTråkigt svårt att säga om det går att få ett bättre skydd genom vapen och pengar.",
+        "modified": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "97bb4388-ff02-49f3-9441-356a376a9626"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "display_value": "Via sociala medier.\nEfter några dagar förstod jag att vi var nära ett krig som påverkar även oss. \nJag blev väldigt ledsen och kände även oro över att en möjlighet till att vi kan bli bombade av stridsflygplan finns och att det påverkar vår ekonomi med ett militärt hot.\nAtt sanktioner kan göra vår situation sårbar.",
+        "modified": "Tue, 22 Mar 2022 17:16:49 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "a3b80208-5576-4a5b-8a61-3a44213f9ab7"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
