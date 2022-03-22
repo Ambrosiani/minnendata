@@ -3856,6 +3856,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Tycker det är fruktansvärt! \nDe har drabbats av den värsta, våldsammaste, lögnaktigaste, empatilösas…",
+        "date": "22 mars 2022",
+        "author": "Nettan",
+        "url": "https://minnen.se/tema/krigetiukraina/19259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.026,
+          57.74
+        ]
+      }
     }
   ]
 }

@@ -29659,5 +29659,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00383",
+    "contributor": {
+      "display_name": "Nettan"
+    },
+    "created": "Tue, 22 Mar 2022 22:53:03 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 22 Mar 2022 22:53:03 GMT",
+    "position": {
+      "latitude": 57.740442646236744,
+      "longitude": 12.025573615420564
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19259",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "58e81cb6-1f46-4a09-8041-a7e7ec9c86aa",
+    "values": [
+      {
+        "created": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "display_value": "1976",
+        "modified": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "656098e4-9e07-4d6d-9b65-119f3e8ac396"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "display_value": "*Tycker inte vi ska tillåta Ryssland in i våra hamnar och liknade för att leverera sina varor. Tycker inte de har i vårt närområde att göra med handelsvaror. \n*Jag lever mitt liv som vanligt i stort sett, men är mer vaksam på vad som händer omkring mig och i Europa just nu.\n*Har en A, B och C  plan för framtiden utifall om att. Men tror inte de kommer behövas.",
+        "modified": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "da58f6cf-c6d5-44ac-8662-3de3200b4fa8"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "display_value": "Tycker det är fruktansvärt! \nDe har drabbats av den värsta, våldsammaste, lögnaktigaste, empatilösaste och maktgalnaste mannen i vår del av världen.",
+        "modified": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "dcf2f096-d1ce-4e32-9143-d92c71fc8af4"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "display_value": "Inget har direkt förändrats tycker jag. Rysslands ledning har aldrig varit pålitlig direkt.",
+        "modified": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a7e1f3e0-9402-455a-a0b2-9c3e8f878a8c"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "display_value": "*Har mest känt av ökade drivmedel kostnader, matvaror som blivit dyrare och liknande saker i det vardagliga livet.\n*Lämnat in kläder, hygienartiklar och så vidare till insamlingar till Ukraina.\n*Har pratat mycket om vikten av hemberedskap och varför det är viktigt med familj, vänner och kollegor.\n*Har pratats mycket om skyddsrum och krigsplacering och så vidare.\n*Har uppdaterat krislådan/utökade skafferiet med nya batterier.\n*Köpt en ny nödradio till mina föräldrar. Resten har de ordnat med själva.\n* Har börjat kolla på ytterligare område där jag skulle kunna vara behjälplig utöver äldreomsorgen. Kanske blir inom blå stjärnan.",
+        "modified": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "5aa0f930-8560-423e-8bf8-ab0bae6f0064"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "display_value": "Jobbade natten på äldreboende och såg på nyheterna framåt morgonkvisten när jag gick förbi tv;en att kriget brutit ut i Ukraina.",
+        "modified": "Tue, 22 Mar 2022 22:53:03 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "6270a7d4-34d7-4b35-a9ef-58c77750d764"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
