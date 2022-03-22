@@ -3792,6 +3792,22 @@
           60.5
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner att man måste mer än någonsin säkra livsmedelsförsörjningen lokalt i varige land i världe…",
+        "date": "22 mars 2022",
+        "author": "Joakim",
+        "url": "https://minnen.se/tema/krigetiukraina/19251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.537,
+          63.076
+        ]
+      }
     }
   ]
 }

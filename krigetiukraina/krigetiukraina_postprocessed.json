@@ -29103,5 +29103,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00375",
+    "contributor": {
+      "display_name": "Joakim"
+    },
+    "created": "Tue, 22 Mar 2022 12:43:23 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 22 Mar 2022 12:43:23 GMT",
+    "position": {
+      "latitude": 63.076162892060026,
+      "longitude": 17.537309813761865
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19251",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "765e3fda-e359-46b1-83d1-d008c60f6f96",
+    "values": [
+      {
+        "created": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "display_value": "1986",
+        "modified": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8cd28ce4-000f-4dd5-b79e-e8d48532ced9"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "display_value": "Otroligt att Sverige rustat ned o förlitat sig på den globala marknaden",
+        "modified": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ce3b2f81-e370-4fbc-9f6a-2d8575fc7e6c"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "display_value": "Jag känner att man måste mer än någonsin säkra livsmedelsförsörjningen lokalt i varige land i världen för att undvika svält . \nDet känns olustigt med oroligheter så nära inpå oss :-( \nMan bör göra sig berädd på att det kommer hit i olika former som krig inflation eller svält Europas ekonomi är i botten sen Coronan började nu med detta utanpå kan hela globala systemet rubbas och ekonomiskt haverera",
+        "modified": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "98fbf3f7-520a-4f6a-bff5-c5f2c0d604b2"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "display_value": "Förhoppningsvis kan det få folk att fatta att vi behöver kunna producera egen mat",
+        "modified": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "0731fc5e-a849-49b3-aa4c-85e3f164cb00"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "display_value": "Många av mina vänner får lägga av med jordbruk för höga kostnader att producera livsmedel var dyrt innan men nu har allt skenat iväg och blivit ohållbart \nSjälv är jag självförsörjande så jag klarar mig",
+        "modified": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "c779caea-274a-4ee0-b333-a7b84bc9a69b"
+      },
+      {
+        "created": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "display_value": "Var i ladugården med korna o tänkte på hur matflrsörjningeen skulle fungera i Ukraina i första hand o hur världsmarknaden skulle påverkas i andra hand Ukraina har alltid kallats Europas kornbod och har alltid exporterat spannmål till EU många svenskar har utvandrat till Ukraina för den bördiga jordbruksmarken .",
+        "modified": "Tue, 22 Mar 2022 12:43:23 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9ade8d2a-8013-4d91-b367-86e80591ad62"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
