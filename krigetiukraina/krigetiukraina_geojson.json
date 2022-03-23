@@ -3888,6 +3888,22 @@
           58.175
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är en katastrof av episka mått.\nPutin har med klarhet bevisat vilken otroligt ond och hänsynslös…",
+        "date": "23 mars 2022",
+        "author": "Rik",
+        "url": "https://minnen.se/tema/krigetiukraina/19261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.165,
+          59.31
+        ]
+      }
     }
   ]
 }

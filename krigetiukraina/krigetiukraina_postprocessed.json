@@ -29908,5 +29908,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00385",
+    "contributor": {
+      "display_name": "Rik"
+    },
+    "created": "Wed, 23 Mar 2022 04:52:58 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Mar 2022 04:52:58 GMT",
+    "position": {
+      "latitude": 59.310023239435374,
+      "longitude": 18.164691925048828
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19261",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a31b34b0-6cbd-4045-83b1-b9d260277037",
+    "values": [
+      {
+        "created": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "display_value": "1966",
+        "modified": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "d1be0e0b-df0f-41bc-ad2e-8a318e4e6e97"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "display_value": "Sverige: Instabilt politiskt. Alka fiskar efter röster nu. (Igen) Beslut tas utan tanke på framtiden, varken kort eller lång sikt. Politikerna tänker fort men fel.\nVärlden: Instabilare nu än för några år sedan. Kina och Ryssland vill expandera.\nNATO-fobi. Påverkanskampanjer. Instabil ekonomi. Terroristhot.\nMånga små härdar som är alldeles för heta och som det saknas planer för att släcka.\nAllt för mycket vapenskrammel.",
+        "modified": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "9a539ca1-3a4a-472f-9aee-05921f1d2865"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "display_value": "Det är en katastrof av episka mått.\nPutin har med klarhet bevisat vilken otroligt ond och hänsynslös människa han är.\nMen det ligger iofs i den Ryska ”traditionen” att vältra sig över andra.\nStyrka i antal. På bekostnad av sitt eget folk. Det är ju inte första gången Ryssland slänger in ”kanonmat”.\nSe bara på Finska vinterkriget och striderna mot Nazityskland.\nJasså, har vi förlorat 1 miljon man? Ingen fara! Kör dit 1 miljon till!",
+        "modified": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "a3b40f32-cff0-49e6-ac92-4b870e32cbe7"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "display_value": "Förhoppningsvis kan Ukraina hålla den Ryska björnen stången.\nOch jag hoppas att de inte kommer behöva göra några eftergifter när striderna upphör.\nJag skulle hemskt gärna se att Putin och det ledande skiktet i Ryssland ställs till svars och blir straffade enligt internationell lag.\nNürnbergrättegång på nytt..?",
+        "modified": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "11739ee8-f031-4e6f-b88b-5bc7b36204d4"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "display_value": "Ökad beredskap. (Är medlem i Hemvärnet.)\nStöd till familj och vänner. Förklarar situationen ur en försvarsmässig synvinkel.",
+        "modified": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9e962c8b-7e84-4619-b362-326b8a4cc91e"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "display_value": "Via rapporter i tidningar och andra sidor på nätet.\nJag blev inte förvånad. Jag hade väntat på invasionen redan efter att Ryssland förlade övningar i Belarus.",
+        "modified": "Wed, 23 Mar 2022 04:52:58 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "4f93d0a2-e2f1-4d95-9fb7-caceb708bf51"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
