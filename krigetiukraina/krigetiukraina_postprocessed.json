@@ -30019,5 +30019,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00386",
+    "contributor": {
+      "display_name": "Zakaria"
+    },
+    "created": "Wed, 23 Mar 2022 15:47:47 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 23 Mar 2022 15:47:47 GMT",
+    "position": {
+      "latitude": 59.388791,
+      "longitude": 17.9278536
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19262",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b409c056-26e9-4be6-9aca-3d69904ac401",
+    "values": [
+      {
+        "created": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "display_value": "2005",
+        "modified": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "1ef6f486-2198-482e-89b1-2ea269444932"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "display_value": "Samhällen nuförtiden har stora problem, men Kriget i Ukraina är inte ett av de. Till att börja med så måste man få ett slut på kriminaliteten och narkotikaförsäljandet i landet. Dessutom så måste en internationell insats mot Human trafficking omedelbart genomföras. Dessutom måste vi få ett stopp på skamlösa beteenden som prostitution, som bara medför med ett moraliskt stagnation av samhället. Ännu en åtgärd som behövs i samhällen är ungdomars respektlösa beteende mot vuxna.  Respekt av religionsfriheten, yttrandefriheten och asylrätten bör upphöjas över andra lagar, så att någon moralisk ordning förekommer i samhällen. Dessutom så är det bättre att hjälpa människor i deras hemländer, än att släppa in vem som helst i landet (oavsett europeiskt härkomst eller ej).",
+        "modified": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ac8300a1-5a97-4aec-a376-03d1d6c813f9"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "display_value": "Att oskyldiga kommer till skada är såklart inte bra, men att säga att Ryssland inte har rätt att kriga är att gå en nypa för långt.  Jag menar såklart att det är tragiskt att civila dör och blir attackerade, men jag tror också på varje lands suveränitet att kriga samt skydda sitt land. Vad jag menar är att Rysslands krig i Ukraina varken är smart eller skickligt, men vi kan inte förbjuda och fördöma deras krig p.g.a internationella lagar. Så länge Ryssland inte attackerar ett Nato land som Polen, så har vi inget ansvar eller rätt att skicka vapen till Ukraina etc. Dessutom så finns det en hel del Ukrainare som vill tillhöra Putins Ryssland, och för de som vägrar lyssna på dessa röster så kan de lika gärna ingå en allians med Ukraina.  Jag menar USA och västvärlden visste ju att det var en tidsfråga innan Ryssland skulle genomföra en fullskalig invasion av Ukraina, och när det redan skedde så spelar de chockade över det. Om de nu ville supporta Ukraina, varför ville de då inte låta Ukraina ingå i Nato. Denna dubbelmoral är för mig obegriplig. Dessutom så för även dessa länder krig som ingen talar om. Spioneri på landets egna medborgare förekommer även här i Sverige. Vet ens folk om vem Edward Snowden är? Helt ärligt så känns medias ständiga tjat om detta krig \"so overrated\".  Jag menar kommer folk ens ihåg den Sudanesiska militärkuppen, då folk och kändisar i Instagram lade upp antingen blå eller svart färg som profilbild bara för att visa sitt stöd till Sudan. Bara för att några månader senare glömma bort detta och hoppa in i nästa trend. Helt ärligt så känns kriget i Ukraina som en seriös-TREND!!!, och inte som ett verkligt Krig (fastän det är ett verkligt krig).",
+        "modified": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "74fa6cf6-985d-4a0c-950d-c78d620914db"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "display_value": "Helt ärligt vet jag inte, med tanke på att Kina stödjer Ryssland. Allting är väl inte svart och vitt så att säga. Jag antar att kriget kommer gå över för eller senare, hur däremot har jag ingen aning om. Jag menar både Ryssland och västvärlden rapporter om kriget i Ukraina verkar jättepartisk, därför har jag slutat hålla mig uppdaterad av kriget i Ukraina. Det enda jag vet är att om Ryssland får för sig den galna iden att attackera Sverige (jag tror ej att de är så dumma) så kommer jag omedelbart värva mig till den svenska armén och försvara vår nation.",
+        "modified": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "cf017588-59f2-4fdd-b56e-a3ba7b628462"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "display_value": "Vissa fördömer Putin, medan jag varken avskyr eller supportar hans krig. Min mening är bara att Ryssland som suverän stat har rätt att föra krig, och Ukraina som suverän stat har rätt att försvara sitt land (som alla tidigare länder och civilisationer har gjort). Helt neutral och opartisk måste ju någon vara ;)",
+        "modified": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "690ff52b-65b4-47f7-88cc-7c76e164c5ab"
+      },
+      {
+        "created": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "display_value": "Genom nyheterna på radio och tv.",
+        "modified": "Wed, 23 Mar 2022 15:47:47 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "3c3c29d4-7ec6-43de-b7b5-be5195edf6c7"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

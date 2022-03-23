@@ -3904,6 +3904,22 @@
           59.31
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Att oskyldiga kommer till skada är såklart inte bra, men att säga att Ryssland inte har rätt att kri…",
+        "date": "23 mars 2022",
+        "author": "Zakaria",
+        "url": "https://minnen.se/tema/krigetiukraina/19262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.928,
+          59.389
+        ]
+      }
     }
   ]
 }
