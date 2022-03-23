@@ -3872,6 +3872,22 @@
           57.74
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det finns inga ord, men om man ändå försöker..., har människan inte lärt sig nåt???!!! Det är ju and…",
+        "date": "23 mars 2022",
+        "author": "Thomas Ruuth",
+        "url": "https://minnen.se/tema/krigetiukraina/19260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.553,
+          58.175
+        ]
+      }
     }
   ]
 }
