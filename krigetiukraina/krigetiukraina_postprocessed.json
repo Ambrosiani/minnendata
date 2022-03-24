@@ -30352,5 +30352,117 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00391",
+    "contributor": {
+      "display_name": "Alice"
+    },
+    "coordinates": "",
+    "created": "Thu, 24 Mar 2022 14:47:56 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Mar 2022 21:34:24 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19267",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "ee2dcc2c-03b9-4e1b-aa83-83773c07a4a8",
+    "values": [
+      {
+        "created": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "display_value": "1963",
+        "modified": "Thu, 24 Mar 2022 21:34:24 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e6cf5c48-334a-4b55-9f3b-70543f577212"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "display_value": "Det ser mycket mörkt ut. Kommer vi att få leva i fred ? Kommer Sverige att fortsätta vara ett eget fritt land ? Kommer världen och människorna över huvud taget finnas kvar ?",
+        "modified": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "b43c3689-9411-42c5-84d9-8a9edc26555a"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "display_value": "Jag känner sorg, hopplöshet, ilska alla möjliga känslor. Jag tänker på människorna som lider, medan jag går här i min egen lilla vardag. Jag tänker att Ukraina ligger nära Sverige och att detta påverkar oss i hög grad både nu och för framtiden.\nJag är mycket glad för allt som fungerar i vårt land. Jag är glad att sopbilen kommer, att det går att få en tid hos tandläkaren eller frisören. Jag är glad för alla dessa små och stora saker som gör att ett samhälle fungerar.",
+        "modified": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7d28419e-bdd8-4daf-8b66-a3de5e0f1bed"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "display_value": "Jag är rädd för att vi drabbas av krig och orostider. Jag är rädd för kärnvapen. Vi kommer nog inte självklart ha tillgång till allt som vi har idag. Obegränsat med mat och andra varor från världens alla länder.  Jag är orolig för mina barn och barnbarn, hur de ska klara sig.",
+        "modified": "Thu, 24 Mar 2022 21:34:24 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "6ab4c949-a5ae-416a-93db-ca285b790400"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "display_value": "Egentligen pågår vår vardag som vanlig, med alla dess bestyr och arbete i stort och smått. Men ändå är jag mycket påverkad. Jag mår sämre, sover sämre vissa nätter, tänker på detta när jag vaknar och när jag går och lägger mig. \nI mitt arbete som tulltjänsteman har jag kontakt med människor som på olika sätt är närmare kriget. Jag har pratat med ukrainare, polacker, ja människor från alla möjliga länder.  Jag träffar ryska chaufförer som ska köra vanligt gods till Ryssland och som vi nu kontrollerar mycket noggrant. Jag har pratat med företag i Ukraina som desperat vill få fram sitt gods dit.  Jag hanterar dokument för de som kör hjälpsändningar till Ukraina. \n Jag ser sorg i ögonen på många människor.  Det kommer nära när man möter en människa från ett annat land.",
+        "modified": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "61c861a1-65da-45ad-a2e9-50baf438255f"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "display_value": "Jag hörde det på nyheterna på TV när jag vaknade på morgonen den 24 februari 2022.  Jag följer nyheter och visste att ett angrepp kunde komma, eller var det bara retorik och skrämsel från Rysslands sida. man visste inte vad det skulle bli. Tyvärr blev jag inte överraskad.",
+        "modified": "Thu, 24 Mar 2022 14:47:56 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9365db1e-4f26-43e5-a27c-d3170e402cd2"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
