@@ -3936,6 +3936,22 @@
           59.279
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Ondskan har fått ett nytt ansikte. Har svårt att förstå hur han (Putin) kan få så många med sig. Det…",
+        "date": "24 mars 2022",
+        "author": "Karin Wiström",
+        "url": "https://minnen.se/tema/krigetiukraina/19266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.157,
+          56.029
+        ]
+      }
     }
   ]
 }

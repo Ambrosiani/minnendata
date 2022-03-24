@@ -30241,5 +30241,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00390",
+    "contributor": {
+      "display_name": "Karin Wiström"
+    },
+    "created": "Thu, 24 Mar 2022 08:58:58 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Mar 2022 08:58:58 GMT",
+    "position": {
+      "latitude": 56.0293936,
+      "longitude": 14.1566778
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19266",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "08af69b5-0ffa-44a8-bf80-d197eb50eba0",
+    "values": [
+      {
+        "created": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "display_value": "1950",
+        "modified": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8cc7de79-9342-48bc-b18c-cd1322f33dd7"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "display_value": "Tillståndet i världen börjar anta bibliska proportioner med extremväder, krig, förföljelser av oliktänkande, pandemier och miljöförstörelse som ju även blir en följd av kriget. Miljökampen blir satt på paus, kolkraftverken tas i bruk fullt ut och koncentrationen på detta arbete har pausats. Jorden överlever och startar om ~ men överlever mänskligheten? Det är frågan.",
+        "modified": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "9a04e6d1-0635-4250-b6ca-c2c18d7cf8e9"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "display_value": "Ondskan har fått ett nytt ansikte. Har svårt att förstå hur han (Putin) kan få så många med sig. Det egna Folket är hunsat och lider under hans förtryck.. Han offrar unga män som dödas och skadas i kriget bara för att han är maktgalen och vill vrida tiden tillbaka ett århundrade. \n\nEn positiv sak finns ju i allt det hemska och det är att Europa aldrig förr har stått så starkt och enat. Vi svenskar har stärkt våra band med Finland och känner en gemenskap som aldrig förr. Jag föddes 1950 nära finska gränsen så jag har alltid varit rädd för ryssen då finska vinterkriget fanns kvar i färskt minne hos de äldre i min omgivning. \n\nMin beundran för det Ukraiska folket och deras ledare är gränslös och det goda måste bara övervinna det onda. Men finns det någon rättvisa i vår värld? Vi får se. Så var ju inte fallet i Afghanistan och många andra länder. Känner mer och mer att vi lever i en ond värld och jag oroar mig mycket för kommande generationer.",
+        "modified": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "2f02ed8e-ef0f-4b33-a615-5b2f0f524ad5"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "display_value": "Hoppas bara på att någon ska stoppa Putin. Han har förbrukat sitt existensberättigande. Han är ett hot mot hela Europa; tror att åtminstone Gotland finns med på listan över tänkta erövringar i relativ närtid. Han har rört sig lite väl mycket i de området. Vi får vara tacksamma mot det Ukrainska folket som försvagar hans krigskapacitet trots att de får betala ett högt pris. Ber till en Gud som jag tappat mer och mer av min tillit till att de ska gå segrande ur kriget till slut. \n\nMin framtidssyn är tyvärr inte så ljus och då oroar jag mig mest över hur den ska te sig för de som är unga idag. Jämfört med min uppväxt under 1950 -60 talet är det som dag och natt. Vi låste inte ens ytterdörren på nätterna och kände oss fullständigt trygga. Enda hotet i tillvaron  var grannens hund.",
+        "modified": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "5b2fdd86-4624-427f-890d-6499e8aca3bc"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "display_value": "Kriget är ett dagligt samtalsämne. Vi har verkligen fått ett nytt element av oro, det medför så mycket negativt för oss med fördyrade levnadskostnader. Min man har efter fem år som pensionär gått tillbaka till halvtidsjobb för att orka med elräkningar, skenande bränslepriser och höjda matpriser. Tillsamman med ett par väninnor  diskuterar jag om våra stora hus som skulle kunna inhysa ukrainska flyktingar men vi inser att vi inte skulle orka pga vår ålder. Själv vet jag att jag skulle gå all in tills jag stupade och det vore inte rätt mot någon. framförallt inte mot barn och barnbarn. Inte heller skulle vi ha råd att försörja fler än oss själva. \n\nOro är en del av det dagliga livet på många områden. Klump i magen har blivit en del av det dagliga måendet. Glädje över sol och annalkande vår blandas med oro över utvecklingen i världen med många oroshärdar förutom den vi har här i Europa som är en ren katastrof. Så många människor som lider. Så många traumatiserade små barn som kastas in i detta helvete direkt från en lugn och trygg tillvaro. \n\nOch hur ska vi kunna hjälpa så många?",
+        "modified": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "0fe801f7-8f18-474a-b55d-4442179d7dd7"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "display_value": "När jag fick vetskap om att Ryssarna hade gått in i Ukraina blev jag väldigt upprörd. Fick vetskapen via radio Kristanstad P4. Lyssnade hela dagen och kunde inte riktigt ta in allt det hemska som hände. Visste ju att Putin var en känslokall människa men det här var bara för mycket. Natten blev orolig och bjöd inte på särskilt mycket sömn.",
+        "modified": "Thu, 24 Mar 2022 08:58:58 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "17fa1151-228a-4873-a143-70314fcfedf1"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
