@@ -3920,6 +3920,22 @@
           59.389
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker det är fruktansvärt, katastrofalt och deprimerande. Men det hemska är också att samhället…",
+        "date": "24 mars 2022",
+        "author": "anonym",
+        "url": "https://minnen.se/tema/krigetiukraina/19265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.881,
+          59.279
+        ]
+      }
     }
   ]
 }

@@ -30130,5 +30130,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00389",
+    "contributor": {
+      "display_name": "anonym"
+    },
+    "created": "Thu, 24 Mar 2022 08:41:30 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 24 Mar 2022 08:41:30 GMT",
+    "position": {
+      "latitude": 59.27924943514582,
+      "longitude": 17.88135138761368
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19265",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d74dbd0e-9b19-44ec-8454-cff9ab01b0c2",
+    "values": [
+      {
+        "created": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "display_value": "1990",
+        "modified": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "b6805588-8e38-45a5-972c-c01894578140"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "display_value": "Jag tänker väl att den ekonomiska krisen påverkats lite. Alltså att mat priserna gått upp men också räntorna. Men även att det är hemskt att jag som föddes precis när kala kriget upphörde eventuellt ska behöva uppleva samma sak som tidigare generationer. Med kapprustning och ökade militär och handelskrig osv. Men jag hoppas ju att det inte blir så. Känns också hemskt att Rysslans folk och belarusiska folket ska utöver att ha blivit förtryckta väldigt hårt av sina egna regeringar nu ska bli portade och stoppade i resten av världen. Samt väldigt hemskt att dessa länder nu verkar bli ännu mer diktatoriska. Trist att befolkningen i dessa länder kommer få ta smällen men oligarkerna och Putin knappt kommer påverkas alls i jämförelse förutom att de bara kommer kunna semestra i Asien med sina lyxyachter.",
+        "modified": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f7de1943-f789-4f22-94e5-679d0f6a9e6c"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "display_value": "Jag tycker det är fruktansvärt, katastrofalt och deprimerande. Men det hemska är också att samhällets reaktioner är så starka. Jag känner extremt mycket med det ukrainska folket men jag känner också solidaritet med det syriska folket. Hade verkligen viljat att det vara samma ramaskri när Putin och Rysslands regering hjälpte Syriens regering att bomba sin befolkning 2014 eller när USA gick in i Irak 2003. En annan sak som gör mig ledsen är att samma partier som pratade om en systemkollaps när människor kom från Syrien och Irak 2015 och som flytt IS men även Bashar Assads bombningar påstod då att vi inte hade plats för. Men nu finns det jättemycket plats. Krig är väl hemskt oavsett om det är araber eller ukrainare som drabbats. Det har gjort mig så otroligt ledsen att vi som befolkning och folk förväntas att känna mer solidaritet med ett folk i vårt närområde när andra också utsätts för det men då var det tal om att det bara inte gick. Vi är ju alla människor oavsett var på jorden vi råkats födas.",
+        "modified": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "725612c7-ea2b-4955-8688-7a1a16a35dc7"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "display_value": "Jag hoppas att det blir bättre men också att vi kan hjälpa det ryska och ukrainska folket med solidaritetshandlingar så att den ryska regeringen kan falla. Gärna som solidaritetsrörelserna med polska arbetare på 80-talet som strejkade och spelade en avgörande roll i nedmonteringen av järnridån. Det känns även tråkigt och inte så kul att folk tror att NATO skulle vara det enda alternativet när det som sagt solidaritetsrörelserna som varit tidigare påverkat andra länder jättemycket. Soldaritetsrörelsen med FNL, Solidaritetsrörelsen med Polen och Östtyskland på 1980-talet, Antikrigsdemonstrationerna, skol och universitetsstrejkerna mot Irakkriget 2003. Det är tråkigt att folk glömmer att man kan påverka på andra sätt men jag tror att folk kommer att se positivt nån gång.",
+        "modified": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "23f28670-0ee4-4c5b-83a1-81a059fe3a60"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "display_value": "Jag påverkas inte direkt,  men min familj gör det då en av mina föräldrar arbetar i Finland, Tjeckien och Sverige det verkar som att det blivit både dyrare och svårare att ta sig mellan länder och framför allt i Östeuropa. Vilket enligt mig är bra på ett sätt iom klimathotet o klimatpåverkan.",
+        "modified": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "209df90c-6a59-452e-bd3a-8a7134da9f39"
+      },
+      {
+        "created": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "display_value": "Jag nåddes först av nyheten på sociala medier morgonen den 24 Februari och hittade efter det mer exakt tillförlitlig information.",
+        "modified": "Thu, 24 Mar 2022 08:41:30 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "5c576809-2ce4-459d-8f22-a420d95372e6"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
