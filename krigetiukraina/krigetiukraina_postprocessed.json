@@ -30464,5 +30464,69 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00392",
+    "contributor": {
+      "birth_year": 1963,
+      "display_name": "Karin Wetzel",
+      "gender": "woman",
+      "uuid": "ceb01219-8e89-43ba-9300-f1ff0bfcc69e"
+    },
+    "created": "Fri, 25 Mar 2022 09:19:19 GMT",
+    "image_dms_id": "013AksgxDUWg",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 25 Mar 2022 09:15:26 GMT",
+        "description": "Intervju med Karin Wetzel",
+        "dms_id": "013AksgxDUWg",
+        "license": "CC0",
+        "mime_type": "video/mp4",
+        "modified": "Fri, 25 Mar 2022 09:15:26 GMT",
+        "name": "Intervju Karin Wetzel.mp4",
+        "order_by_number": 1,
+        "owner": "Nordiska museet",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "video",
+        "uuid": "7fa1bb75-7fa2-468d-ac4f-9f8310b09ac0"
+      }
+    ],
+    "modified": "Fri, 25 Mar 2022 09:19:19 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19268",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "67df2dc9-abdc-4328-b51a-7e0a7e0304fe",
+    "values": [
+      {
+        "created": "Fri, 25 Mar 2022 09:19:19 GMT",
+        "display_value": "Filmad intervju den 21 mars 2022. Intervjuad är Karin Wetzel, född 1963. Hon  har tidigare lämnat in ett skrivet bidrag med arkivnummer M16/00055 (https://minnen.se/tema/krigetiukraina/18894).\n\nIntervjun utförd av Anna Fredholm, intendent på Nordiska museet.",
+        "modified": "Fri, 25 Mar 2022 09:19:19 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "f5b7361e-2f6d-4017-8507-82f2f0b2e9d7"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
