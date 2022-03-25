@@ -30767,5 +30767,116 @@
     },
     "uuid": "a14f66d5-baea-4829-8b89-ec9bac1e5bfa",
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00398",
+    "contributor": {
+      "display_name": "EvaCecilia"
+    },
+    "created": "Fri, 25 Mar 2022 15:59:39 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 25 Mar 2022 15:59:39 GMT",
+    "position": {
+      "latitude": 59.44461930539799,
+      "longitude": 18.12279961008876
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19274",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "91479080-cc5a-480a-9ee5-cfeb2b99fd71",
+    "values": [
+      {
+        "created": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "display_value": "1952",
+        "modified": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7c070088-abe5-42b9-9d32-4c0b8106d628"
+      },
+      {
+        "created": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "display_value": "Ja, Sverige har varit och är en trygg plats. Men vi kan inte vila i förhoppningen om att det så kommer att förbli. Putins Ryssland visar en agression som också kan riktas mot oss i Sverige.\nHur bör vi föhålla oss? Neutralitet har varit honnörsord i Sverige men skyddar det mot en så expantionistisk makt? Bör vi söka medlemskap i NATO? Vi skulle i så fall förpliktiga oss till ömsesidigt delgagande.\nVi måste rusta upp, det är tydligt och jag har förtroende för att Sverige gör det. \nVi är nog tillbaka till en tid då en ny järnridå kommer att falla ner. Frågan är bara var den kommer att falla och vem eller vilka som kommer att, frivilligt eller med tvång, befinna sig på vilken sida?\nDet gör ont att tänka på.\nVad kommer att hända härnäst? Zelenkij säger att de slåss för oss i Västeuropa. Faller de så kan andra länder också falla för Putins armé. Kommer Nato att förbli passiva, det krävs inte så mycket nu för att det kan komma vedergällning. Om Ryssland använder kemiska eller biologiska vapen t.ex. Vad händer då?\nKärnvapenhot?! Det har varit otänkbart men vem vet? Hur tänker en man som Vladimir Putin?",
+        "modified": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "daa10c73-b224-4615-9ae4-752daeb19c77"
+      },
+      {
+        "created": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "display_value": "Det finns inte ord, eller uttryck för vad jag känner i denna situation.\nDet är ett urskljningslöst vanvett. Grymt och cyniskt. En av världens största militärmakter träder över ett broderfolk!\nEtt folk som delar värderingar om frihet och demokrati med de flesta länder i Västeuropa.\nSom fritt vill välja sin framtid.\nDetta krossar Putins regim. Den tar sig rätten att tillintetgöra städer och infrastruktur, att bortse från krigets lagar genom att bombardera humanitära korridorer bl. a.\nJag känner en ändlös sorg och vrede, men också ett hopp av att se Ukrainskt motstånd, heroism och mod.",
+        "modified": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "96f57a32-558f-4732-9ff0-68bd385e2765"
+      },
+      {
+        "created": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "display_value": "Framtiden är oviss. Mycket har okullkastats på bara en månad. Hela världsordningen är omskakad. Olika ideologier ställs mot varandra igen.\n\nDet kommer säkert att bli bra till slut men folken i Europa kommer att få betala ett pris för att nå dit.\nVilket priset blir vet vi inte. Låt oss hoppas på det bästa. Ingen förtjänar att lida för korrupta ledares välstånd.\n\nJag har nog länge känt att en världskonflikt var möjlig. Jag tror på det cykliska i historian. Vi har väl nått den punkten nu.\nLåt oss bara tro på att det finns klokhet och behärskning i en tid av uppdämda känslostormar.",
+        "modified": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "7ae73274-6391-41c8-8f0a-a69078013ede"
+      },
+      {
+        "created": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "display_value": "Vardagsivet måste fortsätta.\nKriget ligger som en dov bakgrund hela tiden. Vi benämner det men alla vet vad de andra tänker. Vi har inte några äldre barn eller ungdomar lyckligtvis som troligen mår sämre av nyheterna.\nVi vet att också vi får konsekvenser i form av dyrare bränslepriser och livsmedel men det är ju ingenting mot vad folket i Ukraina får utstå.\nVad kan vi göra? Jag har givetvis bidragit till humanitära organisationer. Kan tänka mig att manifestera framöver. \nJag håller mig väldigt uppdaterad på utvecklingen. Har fått en djupare insikt i hur de politiska, ekonomiska och militära sambanden hänger ihop och förändras.",
+        "modified": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "865361b8-fd74-4c6f-9795-2e906fc2f2d6"
+      },
+      {
+        "created": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "display_value": "Jag var på resa i Abisko och Kiruna med en väninna från Colombia då meddelanden på internet började komma in om invasionen.\nDet var känt sedan årsskiftet att Ryssland trappat upp längst Ukrainas gräns och många i väst befarade att invasion skulle ske, vilket Ryssland förnekade.\nVi blev chockade men inte förvånade. Vi följde utvecklingen väldigt noggrant och sökte fördjupande information.",
+        "modified": "Fri, 25 Mar 2022 15:59:39 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "487e64d9-dc1a-4ee7-aa45-79cfb3fa01ce"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

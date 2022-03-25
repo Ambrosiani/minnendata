@@ -4016,6 +4016,22 @@
           59.1
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det finns inte ord, eller uttryck för vad jag känner i denna situation.\nDet är ett urskljningslöst v…",
+        "date": "25 mars 2022",
+        "author": "EvaCecilia",
+        "url": "https://minnen.se/tema/krigetiukraina/19274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.123,
+          59.445
+        ]
+      }
     }
   ]
 }
