@@ -3952,6 +3952,70 @@
           56.029
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "25 mars 2022",
+        "author": "Martin",
+        "url": "https://minnen.se/tema/krigetiukraina/19270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.18,
+          59.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "25 mars 2022",
+        "author": "Gustav",
+        "url": "https://minnen.se/tema/krigetiukraina/19271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.224,
+          59.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "25 mars 2022",
+        "author": "Bosse",
+        "url": "https://minnen.se/tema/krigetiukraina/19272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268,
+          59.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "25 mars 2022",
+        "author": "Pavel",
+        "url": "https://minnen.se/tema/krigetiukraina/19273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.224,
+          59.1
+        ]
+      }
     }
   ]
 }

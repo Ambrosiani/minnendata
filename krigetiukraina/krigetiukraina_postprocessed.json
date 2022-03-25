@@ -30528,5 +30528,244 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00394",
+    "contributor": {
+      "display_name": "Martin",
+      "gender": "man",
+      "uuid": "2b90e6fc-9595-44ea-9675-1419ce045aa4"
+    },
+    "created": "Fri, 25 Mar 2022 09:48:47 GMT",
+    "image_dms_id": "013AksgxDogz",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 25 Mar 2022 09:47:36 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksgxDogz",
+        "image_height": 3024,
+        "image_ratio": 1.1342592592592593,
+        "image_width": 3430,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 25 Mar 2022 09:47:36 GMT",
+        "name": "A7.JPG",
+        "order_by_number": 1,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "dd03f0b6-cffc-4f8c-859c-613039467728"
+      }
+    ],
+    "modified": "Fri, 25 Mar 2022 09:48:47 GMT",
+    "position": {
+      "latitude": 59.14529862568953,
+      "longitude": 18.18022951660156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19270",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "55007d4c-32b8-413b-a7e2-0a368694c964",
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00395",
+    "contributor": {
+      "display_name": "Gustav",
+      "gender": "man",
+      "uuid": "2d1375ad-25c6-4327-9f88-aa57ac23417c"
+    },
+    "created": "Fri, 25 Mar 2022 09:50:40 GMT",
+    "image_dms_id": "013AksgxDomJ",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 25 Mar 2022 09:50:07 GMT",
+        "dms_id": "013AksgxDomJ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 25 Mar 2022 09:50:07 GMT",
+        "name": "A3.JPG",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "0d45d96d-229a-480d-9cee-49eb1761ad3b",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Fri, 25 Mar 2022 09:50:40 GMT",
+    "position": {
+      "latitude": 59.190344777363535,
+      "longitude": 18.22417482910156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19271",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "f60e610a-7862-4f7e-9a56-8dbbd4a6aa3d",
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00396",
+    "contributor": {
+      "display_name": "Bosse",
+      "gender": "man",
+      "uuid": "33891f55-0da9-4c52-afd7-63656b2a0fbb"
+    },
+    "created": "Fri, 25 Mar 2022 09:52:26 GMT",
+    "image_dms_id": "013AksgxDomN",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 25 Mar 2022 09:51:34 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksgxDomN",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 25 Mar 2022 09:51:34 GMT",
+        "name": "A4.JPG",
+        "order_by_number": 1,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "08eb3224-e268-492b-862b-10a241fcfc35"
+      }
+    ],
+    "modified": "Fri, 25 Mar 2022 09:52:26 GMT",
+    "position": {
+      "latitude": 59.14529862568953,
+      "longitude": 18.26812014160156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19272",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "da902b1d-5f37-4b3e-b8ae-13ca3a643ede",
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00397",
+    "contributor": {
+      "display_name": "Pavel",
+      "gender": "man",
+      "uuid": "36318dd2-a4d1-434c-9f44-a903dfedf37b"
+    },
+    "created": "Fri, 25 Mar 2022 09:54:10 GMT",
+    "image_dms_id": "013AksgxDomP",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 25 Mar 2022 09:53:03 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksgxDomP",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 25 Mar 2022 09:53:03 GMT",
+        "name": "A6.JPG",
+        "order_by_number": 1,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "9fa0835b-59d9-400f-810b-2a0164843ecc"
+      },
+      {
+        "created": "Fri, 25 Mar 2022 09:53:05 GMT",
+        "description": "Demonstration på Norrmalmstorg",
+        "dms_id": "013AksgxDomQ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 25 Mar 2022 09:53:05 GMT",
+        "name": "A5.JPG",
+        "order_by_number": 2,
+        "owner": "Anna Fredholm",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "141867e0-ecef-418e-b050-a3727b191084"
+      }
+    ],
+    "modified": "Fri, 25 Mar 2022 09:54:10 GMT",
+    "position": {
+      "latitude": 59.10019311468598,
+      "longitude": 18.22417482910156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19273",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a14f66d5-baea-4829-8b89-ec9bac1e5bfa",
+    "hasCoordinates": true
   }
 ]
