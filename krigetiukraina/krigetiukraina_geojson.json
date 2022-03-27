@@ -4048,6 +4048,22 @@
           59.2
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Kan inte sova bra och äta mat, när folk i Ukraina sitter under bomb utan mat o sånt…",
+        "date": "27 mars 2022",
+        "author": "Frihet för Ukraina",
+        "url": "https://minnen.se/tema/krigetiukraina/19280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.975,
+          57.709
+        ]
+      }
     }
   ]
 }

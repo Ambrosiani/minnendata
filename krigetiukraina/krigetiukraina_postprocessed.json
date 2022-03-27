@@ -30989,5 +30989,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00404",
+    "contributor": {
+      "display_name": "Frihet för Ukraina"
+    },
+    "created": "Sun, 27 Mar 2022 14:25:41 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 27 Mar 2022 14:25:41 GMT",
+    "position": {
+      "latitude": 57.70887,
+      "longitude": 11.97456
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19280",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a8bf7ee4-296f-4b0b-8807-c24d70b658b3",
+    "values": [
+      {
+        "created": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "display_value": "2000",
+        "modified": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "b2351c5a-fb28-4b0d-a19b-d19a314b3b44"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "display_value": "Hela världen hjälper till flyktingar från Ukraina o det är väldigt snäll. Folk göra allt för ukrainsk människor att dem kan känna sig som hemma.",
+        "modified": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "59553271-fab0-42b3-aa34-bbf5656dc483"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "display_value": "Kan inte sova bra och äta mat, när folk i Ukraina sitter under bomb utan mat o sånt",
+        "modified": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "816e3abe-ba48-47bf-8452-e455ad014f19"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "display_value": "Ukraina kommer ta bort Putins fashister och ska bygga om Ukraina. Efter den jätte svårt tiden vi har stor framtid.",
+        "modified": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f2dbf19e-29d0-4ca0-8da5-06619c6e78f9"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "display_value": "Jag är från Ukraina. Min familj o kompisar i Ukraina. Jag är väldigt orolig för dem o mitt land. Det är värsta som kan vara.",
+        "modified": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ba1ec800-6ea2-4fac-9b82-c4d923ad3345"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "display_value": "Russland attackerar Ukraina från 2014. Det va dags att prata om detta i 2014, men alla va tyst i hela världen, darför just nu vi har en stor katastrof",
+        "modified": "Sun, 27 Mar 2022 14:25:41 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "c7f5d10b-6c55-4bab-b6f5-c5db15998290"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
