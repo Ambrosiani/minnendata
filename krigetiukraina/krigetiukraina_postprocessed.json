@@ -30878,5 +30878,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00403",
+    "contributor": {
+      "display_name": "Swede"
+    },
+    "created": "Sun, 27 Mar 2022 11:21:47 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 27 Mar 2022 11:21:47 GMT",
+    "position": {
+      "latitude": 59.2004028,
+      "longitude": 18.1964052
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19279",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d5e03ae2-9154-49c0-b871-6e9f7eb88789",
+    "values": [
+      {
+        "created": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "display_value": "1968",
+        "modified": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "f796e3b4-83be-4a95-991d-10284a12d363"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "display_value": "Världen är väldigt osäker så länge vi har diktatorer galna människor som har tillgång till kärnvapen. Trump var inte bättre han. Då var man oxå rädd att han skulle trycka på knappen. Men nu har en mobbare gått in o tagit ett annat land o sen tycker Putin att han kan diktera villkoren för att det ska kunna bli fred. Så galet.  En mobbare som ska diktera villkoren för offret. Men hallå. Vi somnar demokratier måste våga kasta ut tex kina o Ryssland från tex FN. De Hör inte hemma där om de inte följer världsordning och de regler som satts upp för freden. Sverige behöver garantier från andra västländer om någon gör samma sak mot oss som Putin gör mot Ukraina. Vi behöver gå med i Nato. Något annat finns inte. Vi kan inte sitta och tycka att man ska vara neutral det kommer inte att hjälpa oss när Putin kommer. Det kanske man kunde vara under tiden direkt efter andra världskriget men nu gäller det att skydda oss själva. Putin stoppar inte med Ukraina. \nI dessa tider blir dock folket i Sverige väldigt kreativa o solidariska. Det är fint.",
+        "modified": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "7a68300a-54b6-4b87-8bc7-15c2603bd055"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "display_value": "Maktlöshet. Aggressivitet mot Putin. Hur har det kunnat gått så långt. Varför får Ryssland vara med i FN när de inte följer reglerna. Ledsen för folket Ukraina för att de lider död och allt blir förstört. Känner även medlidande för folket i Ryssland där de inte är fria. De blir matade med propaganda och allt som Gorbatjov en gång försökte jobba för är borta och människor lider i Ryssland oxå fast på annat sätt. Men Mitt hjärta är mer öppet för de stackars människorna som nu levt i kriget i Ukraina. Känner att jag vill hjälpa de som kommer hit men oxå stödja organisationer som hjälper på plats. Jag vill göra mer än vad jag gör men vet inte riktigt hur jag bäst kan hjälpa. Så mycket död o olycka bara för att män som Putin styr människor o länder. Rädd för att det ska hända samma sak i Sverige. Ryssland kommer inte stoppa med Ukraina. Väldigt rädd för kärnvapen. Ständig oro för det.",
+        "modified": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "90962dcd-1e35-449d-8606-9a60c244f157"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "display_value": "Osäker framtid. Rädsla över att det finns så många galna män som tar makt o gör som de vill med andra människor. De ljuger o dödar och kommer undan med det. Trump kom undan med en massa lögner. \nPlanerar inte långsiktigt längre bara kortsiktiga planer. \nDet första som jag tänker på är oxå att jag hoppas att Putin ska dö nu på en gång. Att han ska sätta något i halsen tex o kvävas. Eller att ett stort blodkärl ska spricka. Många lever med aneurysm utan att veta om det. Så jag tänker att han kan vara en som har detta där jag hoppas att det spricker. \nJag tror att många unga kanske slutar drömma eftersom de känner att kriget kan komma och allt kan ta slut bara så där snabbt.",
+        "modified": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "5eb77f25-2666-4032-989f-8b365122c2f6"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "display_value": "Jag blir nedstämd o har lätt att gråta. Har packat för i fall vi behöver springa till skyddsrum. Har rekat var skyddsrum finns. Det hade jag inte gjort innan Putins slakt började. \nTänker att vart ska vi fly om Putin kommer hit. Var kan svenskar fly. Har vi kompisar eller släkt i andra länder som vi kan fly till. Ska man fly ut till landsbygden för där kanske en atombomb inte släpps. \nShoppar mycket mindre onödiga saker. Tänker väldigt noga innan jag handlar ”behöver jag/vi verkligen det här just nu?”  \nTar inte bilen så ofta. Tänker på elpriset o kollar mer noga när man ska tex tvätta. Hur ligger elpriserna varje timme. Jag planerar mer kan man säga. Men vill heller inte planera något långsiktigt tex en resa i sommar då man inte vet hur det blir med krig eller corona.",
+        "modified": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "c16206eb-301e-44f5-8196-57bf769141b3"
+      },
+      {
+        "created": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "display_value": "Jag tror att jag på morgonen den 24 febr samma dag som min dotter har födelsedag läste på en flash att invasionen var ett faktum. Det var aggressivitet jag kände först. Hur har det fått gått så långt tänkte jag. Varför har vi i väst inte stoppat Putin tidigare. Sen började rädslan komma. Jag kollade nyheterna och allt blev mycket dystert.",
+        "modified": "Sun, 27 Mar 2022 11:21:47 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "243e19ef-b53f-4cc9-9930-660d5b769e28"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

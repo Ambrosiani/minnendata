@@ -4032,6 +4032,22 @@
           59.445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Maktlöshet. Aggressivitet mot Putin. Hur har det kunnat gått så långt. Varför får Ryssland vara med …",
+        "date": "27 mars 2022",
+        "author": "Swede",
+        "url": "https://minnen.se/tema/krigetiukraina/19279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.196,
+          59.2
+        ]
+      }
     }
   ]
 }
