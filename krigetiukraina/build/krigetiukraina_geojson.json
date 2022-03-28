@@ -4064,6 +4064,22 @@
           57.709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Första dagarna var jag orolig dygnet runt. Klump i magen och kunde inte fokusera på varken studierna…",
+        "date": "28 mars 2022",
+        "author": "Pia",
+        "url": "https://minnen.se/tema/krigetiukraina/19283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.639,
+          59.859
+        ]
+      }
     }
   ]
 }

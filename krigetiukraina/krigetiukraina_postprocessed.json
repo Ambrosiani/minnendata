@@ -31100,5 +31100,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00407",
+    "contributor": {
+      "display_name": "Pia"
+    },
+    "created": "Mon, 28 Mar 2022 21:20:00 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 28 Mar 2022 21:20:00 GMT",
+    "position": {
+      "latitude": 59.85856380000001,
+      "longitude": 17.6389267
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19283",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "54ded886-ac7b-4277-9560-6bcfc3dc0c5b",
+    "values": [
+      {
+        "created": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "display_value": "1998",
+        "modified": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "192bd71b-e061-4335-86b4-4fdeed8432b6"
+      },
+      {
+        "created": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "display_value": "Allt är oroligt. Jag vet inte vad mer man kan säga, inget känns längre tryggt.\n\nJag tänker ofta att det känns som vi lever i en framtidsdystopi, att ingen år 2019 hade trott oss om vi berättade vad som väntar. Så kan jag bäst beskriva tillståndet i samhället just nu.",
+        "modified": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "6a59ac2b-13a4-4664-8732-6f3a7635c9a3"
+      },
+      {
+        "created": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "display_value": "Första dagarna var jag orolig dygnet runt. Klump i magen och kunde inte fokusera på varken studierna eller jobbet. Nu efter en månad följer jag nyheterna men känner mig avtrubbad, på samma sätt som man kände sig i början av pandemin. \n\nJag läser men kan som inte förstå på riktigt vad det är som sker. \n\nDe gånger jag faktiskt kan förstå är när jag ser bilderna. Barn utan föräldrar, sönderbombade barnsjukhus, folk i skyddsrum, föräldrar vid gränserna med sina små barn i bilen.\n\nJag har drömt att jag blivit förföljd. Nästan varje natt de senaste veckorna. Sedan vaknar jag och är oändligt tacksam att jag vaknar hemma. Trygg. Varm. Säker.",
+        "modified": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "3edd313e-da16-4106-b875-d5b1cab79643"
+      },
+      {
+        "created": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "display_value": "Jag är student och tar examen i vår, men jag är rädd att inte ha ett jobb att gå till, att pengarna inte ska räcka till.\n\nInget känns självklart längre. Inte ekonomin, inte bostad, inte mat, inte el, inte jobb, inte resor.\n\nJag har slutat se på framtiden som ljus, istället tar jag en dag i taget i den mån jag kan.\n\nJag arbetar så mycket extra jag bara kan, parallellt med heltidsstudier, för att åtminstone ha pengar nog hemma att jag skulle klara mig ett tag om det värsta skulle ske. Längre än så kan jag inte förmå mig planera.",
+        "modified": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "74bcff17-4452-437b-a28a-629f3ab789c6"
+      },
+      {
+        "created": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "display_value": "Maten i butikerna börjar ta slut igen, precis som för två år sedan när alla bunkrade för pandemin. Ris, pasta, nudlar, passerade tomater. Alla basvaror verkar vara urplockade. Jag vet inte om det beror på sanktionerna mot Ryssland eller om folk bunkrar mer än vanligt, men hyllorna är i vilket fall tomma.\n\nJag är tacksam att jag inte äger en bil för då vet jag inte vad jag tagit mig till. Min bror bor rätt avsides i Lappland och kan på grund av bensinpriserna inte resa så fritt som han annars brukar. Vi sågs precis när kriget bröt ut men jag vet inte när vi ses nästa gång. Men det är egentligen en småsak i det stora hela så jag försöker att inte oroa mig.",
+        "modified": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "f8ba9c82-691e-4cec-9467-1703b9074d01"
+      },
+      {
+        "created": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "display_value": "Jag vaknade en vanlig torsdagsmorgon. De senaste dagarna hade det rapporterats om oroligheter i östra Ukraina och spekulationerna om en rysk invasion var många och färgstarka. Jag vaknade och det första jag såg på telefonen var rubrikerna. \n\nRyssland har invaderat Ukraina. \n\nJag läste och läste alla rubriker; SvD, DN, Omni, SR, alla sa samma sak. \n\nJag kunde inte förstå. Allt kändes bedövande.",
+        "modified": "Mon, 28 Mar 2022 21:20:00 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "98a20bde-3c57-4c52-b400-bc6ee6bbd0c5"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
