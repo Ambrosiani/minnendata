@@ -4080,6 +4080,22 @@
           59.859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hur har denna situation uppstått? För 2 år sedan fick vi en broschyr om kriget kommer??\nFattade abso…",
+        "date": "29 mars 2022",
+        "author": "Birgit Ericson",
+        "url": "https://minnen.se/tema/krigetiukraina/19285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.975,
+          57.709
+        ]
+      }
     }
   ]
 }

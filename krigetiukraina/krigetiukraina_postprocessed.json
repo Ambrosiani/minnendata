@@ -31211,5 +31211,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00409",
+    "contributor": {
+      "display_name": "Birgit Ericson"
+    },
+    "created": "Tue, 29 Mar 2022 20:52:01 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 29 Mar 2022 20:52:01 GMT",
+    "position": {
+      "latitude": 57.70887,
+      "longitude": 11.97456
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19285",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "1f2d850e-d5c8-41bf-9185-fc795dd9372d",
+    "values": [
+      {
+        "created": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "display_value": "1944",
+        "modified": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "44873900-cdda-4012-acea-073cdf0ca86c"
+      },
+      {
+        "created": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "display_value": "Tänker positivt och att kriget inte kommer vara alltför länge! Har skrivit i Magdalenas blogg att de kan dela Ukraina som en första lösning. De som bor på västra sidan tillåts gå med i EU.\nTror det blir svårt för ett f d kommunistland att förstå demokratins lagar. Hade de gjort det hade de valt ett smartare sätt och över tid att närma sig väst! \nVar och en skall göra det man är bra på. Gäller i stort som i smått! Om EU har något att göra med Ukrainas vilja att gå med i EU så borde de först ha bekräftat Ryssland för dess fantastiska kultur och verkat för att Ryssland kunde fått ord om sig att vara det främsta kulturlandet i världen med följden att t ex många stora konstnärer och författare kan återvända och göra Ryssland till ett eftertraktat turistmål.\nDetta medan Ukrainas ekonomi blomstrar i skyskrapa på skyskrapa. Deras vackra byggnader faller i glömska. Är det så det vill ha det? Det hade framtiden fått utvisa!",
+        "modified": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "7d173b5d-671d-4092-a57c-c967c32ad8b7"
+      },
+      {
+        "created": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "display_value": "Hur har denna situation uppstått? För 2 år sedan fick vi en broschyr om kriget kommer??\nFattade absolut ingenting. Storbritannien hade gått ur EU och vad räknade man för konsekvenser av det i Bryssel? Rädsla att fler skulle följa. Ett medlemskap är dyrt och blir bara dyrare. EU en jättekoloss som kostar multum. Tänkte att man kanske uppvaktat Ukraina att gå med i EU och Nato. Det första framträdandet av Ukrainas president löd som jag minns en mening. Vi vill ju vara som Ni i väst! \nPå något sätt fick jag inga bra vibrationer av det framträdandet. Såg ingen karisma som motsvarar min bild av en driven ledare med kompetens. Fick känslan av en rebell alltså en man styrd av sina känslor! Gick ett steg längre i mina tankar när jag fick veta hans förflutna som skådespelare och att han var ryss uppväxt i Ryssland!\nI skrivande stund finns inte sanningen men en misstro har infunnit sig, varför EU uppmuntrat detta krig genom tillförsel av vapen till Ukraina! EU är ju ett fredsprojekt. \nI Magdalena Anderssons blogg har framkommit att det skulle funnits tyska nazister som var med och startade EU-projektet. Dessa nazister hade flytt andra världskriget till USA. \nDet jag då tänker är hur pengar styr för att vinster skall bli så stora som möjligt! Ett krossat Ukraina blir hett för investerare samtidigt som så många flytt landet, som andra länder får försörja i framtiden?. Det ger bilden av att risktagare och människor med goda möjligheter och kontakter blir starkare medan de som kämpar för att få ekonomin att gå ihop blir allt fler??",
+        "modified": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "3cbbcb67-729a-4d7a-956c-91d33ad118db"
+      },
+      {
+        "created": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "display_value": "När det blir krig i ett utvecklat och upplyst samhälle blir man självklart fundersam över framtiden. Vi har dock bara en jord och har ännu inte hittat möjlighet att flytta till någon annan planet. Det bör ligga i alla världsledares intresse att livet fortgår på vår jord! \nVi kan inte låta en människas behov att hävda sig ha något inflytande på demokratin!",
+        "modified": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "fcc17a99-74c7-47fb-ac6d-52e34fa69fee"
+      },
+      {
+        "created": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "display_value": "Just för tillfället inte alls mer än att man blir förtvivlad att se bilder från kriget varje dag i TV.\nDeltar i Magdalena Anderssons blogg. Tänker att kanske någon oligark läser bloggen och översätter vad som skrivs. Det måste ju finnas många ryssar som är emot kriget men vågar inte yttra sig med rädsla för repressalier. Om Putin har nån sorts medvetenhet om omvärlden så måste det väl snart gå upp för honom, att snart hela världen är emot hans handlingar!!\nGå in och kriga mot oskyldiga civila! Det är ju att vara en massmördare!",
+        "modified": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "a097ce59-3c17-4745-b997-e9a222d8c132"
+      },
+      {
+        "created": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "display_value": "Någon eller några dagar innan kriget startade via min mobil. Man fick se Putin där han säger ”JAG har beslutat att genomföra en specialoperation mot Ukraina”! Markerar jag med versaler, då vi skall tänka på hur många soldater som inte känner varandra eller hatar varandra ändå skall skjuta varandra till döds.\nDetta pga några ledare känner varandra och hatar varandra men inte deltar i kriget fysiskt!!",
+        "modified": "Tue, 29 Mar 2022 20:52:01 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "2f351be9-9edb-4a5c-b694-0abcd6e91614"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
