@@ -4096,6 +4096,22 @@
           57.709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "It happened many hundreds years ago... when knjaz of a Great Kyiv Yuri started to build a little Mos…",
+        "date": "30 mars 2022",
+        "author": "Leyla Dnipro",
+        "url": "https://minnen.se/tema/krigetiukraina/19286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.975,
+          57.709
+        ]
+      }
     }
   ]
 }
