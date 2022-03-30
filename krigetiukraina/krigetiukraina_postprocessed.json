@@ -31433,5 +31433,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00411",
+    "contributor": {
+      "display_name": "Christina Johansson Sköldin"
+    },
+    "created": "Wed, 30 Mar 2022 08:30:01 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 30 Mar 2022 08:30:01 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19287",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "9836563a-3cab-40c1-b92c-d249d5d87290",
+    "values": [
+      {
+        "created": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "display_value": "1967",
+        "modified": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "b5e489a3-6331-4dc8-b730-5900933ba807"
+      },
+      {
+        "created": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "display_value": "Det känns oroligt i världen just nu. Allting kan hända.\nVi i Sverige måste värna om vår demokrati och yttrandefrihet. Det är inget man kan ta som självklart. \nDet positiva är att människor verkligen ställer upp och hjälper människorna från Ukraina som är på flykt.",
+        "modified": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "45dfbf7c-0284-4043-9ee1-9e38e12e930c"
+      },
+      {
+        "created": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "display_value": "Jag tänker på alla människor som måste lämna sina hem.  I början av kriget var jag jätterädd, arg och ledsen över det som inträffat. Hur kan man starta ett krig mot oskyldiga människor.\nDetta är jättesvårt att ta in. \n\nVad gör jag om det blir krig i Sverige?",
+        "modified": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "80abf332-cba9-49ea-a09d-f380aecaa8b4"
+      },
+      {
+        "created": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "display_value": "Framtiden ser inte ljus ut. Jag tänker på våra barn och ungdomar. Hur förbereder man dem på att vi i Sverige kan bli indragna i en konflikt .\nDe är vår framtid och ska inte behöva uppleva detta. Ingen ska behöva uppleva detta som sker i vår värld just nu.",
+        "modified": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "9b064ca6-c5be-4b01-ba5f-e4f01185d735"
+      },
+      {
+        "created": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "display_value": "Jag påverkas av höjda elpriser, bensin och matpriset på grund av kriget i Ukraina.\nJag måste tänka över och se till så att vi har en krislåda hemma ifall vi i Sverige skulle drabbas av en kris av något slag.\nHur förklara jag för mina barn. Blir det krig nu?\nVar finns närmsta skyddsrum?",
+        "modified": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "4fc92885-1a82-40d0-99d1-14e86237e928"
+      },
+      {
+        "created": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "display_value": "Jag nåddes av nyheten på morgonen torsdagen den 24/2-22. Jag hörde nyheten på radion och klockan var cirka 07:00 på morgonen när jag nåddes av nyheten.\nKvällen innan hade jag tittat på  nyheterna på TV:n och där sett olika scenarium på hur Ryssland eventuellt skulle anfalla Ukraina. Det var inga roliga nyheter att titta på.  Jag trodde inte detta skulle inträffa.\n\nJag känner en enorma rädsla inför kriget i Ukraina.  Jag bor i södra delarna av Sverige. De första dagarna var jag chockad över vad som hänt.  Det var svårt att ta in.\nJag började tänka på vad jag skulle göra om det blir krig i Sverige.",
+        "modified": "Wed, 30 Mar 2022 08:30:01 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "e52ec567-3b00-4934-906e-6c2655ff2394"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
