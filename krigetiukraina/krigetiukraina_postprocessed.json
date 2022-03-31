@@ -31540,5 +31540,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00413",
+    "contributor": {
+      "display_name": "La Vikinga"
+    },
+    "created": "Thu, 31 Mar 2022 05:45:11 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 31 Mar 2022 05:45:11 GMT",
+    "position": {
+      "latitude": 55.7862754,
+      "longitude": 13.8713531
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19289",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "1c947039-0bc8-49d8-8199-c1fe650f5930",
+    "values": [
+      {
+        "created": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "display_value": "1963",
+        "modified": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "a5b9a595-211b-431a-9034-66c040279db4"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "display_value": "Se mitt första svar",
+        "modified": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "1a8368d7-703b-413a-afc4-2ad89c38bca5"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "display_value": "Fruktansvärt, helt vanvettig invasion av en total maktgalen man, en invasion som ser ut att bli en total förstörelse av ett helt land, och förstås miljoners människoliv som tillintetgörs, tusenden människor dödats och förstörs för alltid. Känner hatet växa inom mig, inte mot ryssar utan mot putin och mot de som stödjer honom både inom och utanför Ryssland. Jag är pacifist men ser numera framemot dagen då världen hjälper Ukraina att vinna över Ryssland.\nJag vill ha fred i Ukraina, i regionen och helst i hela världen 🙏🏼",
+        "modified": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7b3aab54-f2f0-4e2d-8d3f-b2870df5a81c"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "display_value": "Rädd för att det blir ett nytt världskrig, tyvärr, eller åtminstone mer konflikter i närområdet. Instabila och svåra tider väntar tyvärr ser det ut som.",
+        "modified": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c68157a8-8969-4d96-abda-f1ee51e5117a"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "display_value": "Vi påverkas på så sätt att vi lyssnar och tittar mycket nyheter, följer och fruktar nyheterna. Vi skickar pengar vi hjälporganisationer och skickar förnödenheter till Ukraina.\nVi har även börjat så smått förbereda oss på svårare tider även i Sverige, kanske inte krig men konsekvenser av det ss ännu högre el- och dieselpriser så vi får ha kallare i husen och resa mindre med bilen, samt högre matpriser som förstås kommer på påverka i längden. Vi ska odla ännu mer och vi har börjat köpa mer på oss av konserver och annan torrmat, dels för oss och dels för att skicka till Ukraina.",
+        "modified": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "28e5ed4a-4b98-4cc2-9595-ae42157af746"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "display_value": "Via P1",
+        "modified": "Thu, 31 Mar 2022 05:45:11 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "49988016-f449-49b2-a469-c464efd510b6"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

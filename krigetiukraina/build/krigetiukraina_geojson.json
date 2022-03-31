@@ -4112,6 +4112,22 @@
           57.709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Fruktansvärt, helt vanvettig invasion av en total maktgalen man, en invasion som ser ut att bli en t…",
+        "date": "31 mars 2022",
+        "author": "La Vikinga",
+        "url": "https://minnen.se/tema/krigetiukraina/19289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.871,
+          55.786
+        ]
+      }
     }
   ]
 }
