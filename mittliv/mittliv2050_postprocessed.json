@@ -15032,7 +15032,11 @@
         "uuid": "be7414e7-e77e-44c8-b8e9-c4134a305674"
       }
     ],
-    "hasCoordinates": false
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 58.124386,
+      "longitude": 13.81557
+    }
   },
   {
     "archive_code": "M1:4/00394",
@@ -15313,7 +15317,11 @@
         "uuid": "604399df-b348-4cb8-a10c-eab5cac82b20"
       }
     ],
-    "hasCoordinates": false
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 58.124386,
+      "longitude": 13.81557
+    }
   },
   {
     "archive_code": "M1:4/00404",
@@ -17063,7 +17071,11 @@
         "uuid": "b7d1fdc4-c777-420a-b608-d692424ca518"
       }
     ],
-    "hasCoordinates": false
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 67.141345,
+      "longitude": 20.668147
+    }
   },
   {
     "archive_code": "M1:4/00476",
@@ -17116,7 +17128,11 @@
         "uuid": "ecb6c5c6-efdf-4019-a2c0-050028e37c13"
       }
     ],
-    "hasCoordinates": false
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 67.141345,
+      "longitude": 20.668147
+    }
   },
   {
     "archive_code": "M1:4/00480",
@@ -17440,7 +17456,11 @@
         "uuid": "ff114889-3a30-4321-aa6e-9b6865be5edb"
       }
     ],
-    "hasCoordinates": false
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 67.141345,
+      "longitude": 20.668147
+    }
   },
   {
     "archive_code": "M1:4/00492",

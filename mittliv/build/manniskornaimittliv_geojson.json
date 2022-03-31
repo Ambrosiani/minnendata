@@ -4484,6 +4484,22 @@
     {
       "type": "Feature",
       "properties": {
+        "ingress": "Min mamma och pappa är viktiga för mig för dom har alltid tagit hand om mig och har alltid tid för m…",
+        "date": "25 februari 2022",
+        "author": "Erik ",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "ingress": "Det är svårt att bara välja tre personer då det finns många väldigt betydelsefulla personer i mitt l…",
         "date": "25 februari 2022",
         "author": "Elsa",
@@ -4526,6 +4542,22 @@
         "coordinates": [
           18.179597,
           59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "det finns en jätte viktig person i mitt liv han heter Erik Öhgren han och jag har alltid haft roligt…",
+        "date": "25 februari 2022",
+        "author": "Nicolas",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
         ]
       }
     },
@@ -4590,6 +4622,22 @@
         "coordinates": [
           18.179597,
           59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "1. Min mormor är viktig för mig för hon alltid funnits vid min sida o stöttat mig sen dag 1 och vari…",
+        "date": "25 februari 2022",
+        "author": "Linnea",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
         ]
       }
     },
@@ -4916,6 +4964,22 @@
     {
       "type": "Feature",
       "properties": {
+        "ingress": "Mitt liv - människorna i mitt liv \n\nDe tre människorna som är viktiga i mitt liv är: \n\nMin bästa kom…",
+        "date": "28 februari 2022",
+        "author": "Klara",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.668147,
+          67.141345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "ingress": "Jag heter Anton och tre personer som är viktiga i mitt liv är Gustav, mina föräldrar och mina kompis…",
         "date": "28 februari 2022",
         "author": "Anton",
@@ -4990,6 +5054,22 @@
         "coordinates": [
           18.179597,
           59.257989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Personer som är viktig för mig är min mamma, min store bror och min bonus pappa. De är viktig för mi…",
+        "date": "1 mars 2022",
+        "author": "Matthanaphon",
+        "url": "https://minnen.se/tema/manniskornaimittliv/18842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.027736,
+          59.280787
         ]
       }
     },

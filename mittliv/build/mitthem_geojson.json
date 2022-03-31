@@ -5236,6 +5236,134 @@
     {
       "type": "Feature",
       "properties": {
+        "ingress": "När jag är hemma läser jag nästan hela tiden.…",
+        "date": "25 februari 2022",
+        "author": "Erik ",
+        "url": "https://minnen.se/tema/mitthem/18531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag bor i ett bra hem.\nJag bor i en by som heter Valstad eller Folkabo i ett vit hus. Jag har ett kö…",
+        "date": "25 februari 2022",
+        "author": "Theodor",
+        "url": "https://minnen.se/tema/mitthem/18533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker det är bra det är ett stort fint hus och det ligger tre kilometer ifrån min skola. Vi har…",
+        "date": "25 februari 2022",
+        "author": "Josefin",
+        "url": "https://minnen.se/tema/mitthem/18537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv är inte helt perfekt men det är bra ändå fast dåligt på ett anat sätt.  Jag har det ganska …",
+        "date": "25 februari 2022",
+        "author": "Ella",
+        "url": "https://minnen.se/tema/mitthem/18541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "i mitt hem så är det ganska lugnt och det min familj håller på med är att mamma städer och gör maten…",
+        "date": "25 februari 2022",
+        "author": "Nicolas",
+        "url": "https://minnen.se/tema/mitthem/18547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Vi bor på en gård med många olika hus men sen har vi ett hus där vi bor. Det är ganska stort och all…",
+        "date": "25 februari 2022",
+        "author": "Alvin ",
+        "url": "https://minnen.se/tema/mitthem/18560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "hos mamma är det är rätt kaos i mitt rum, det ligger grejer över allt men jag trivs ändå, o jag älsk…",
+        "date": "25 februari 2022",
+        "author": "Linnea",
+        "url": "https://minnen.se/tema/mitthem/18571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "va har det jättebra! det finns alltid något att göra och med tanke på att vi har en relativt stor to…",
+        "date": "25 februari 2022",
+        "author": "Benjamin",
+        "url": "https://minnen.se/tema/mitthem/18573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81557,
+          58.124386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "ingress": "Jag bor i ett hus med fyra våningar källare, kök, vind, sovrummen. Vi har en ganska stor trädgård. D…",
         "date": "25 februari 2022",
         "author": "Lilly",
