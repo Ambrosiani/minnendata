@@ -31875,5 +31875,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00416",
+    "contributor": {
+      "display_name": "Clabbhappan"
+    },
+    "created": "Thu, 31 Mar 2022 12:37:41 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 31 Mar 2022 12:37:41 GMT",
+    "position": {
+      "latitude": 57.498206153189294,
+      "longitude": 12.077552516003491
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19292",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "55c70687-19bb-47bc-b71c-d922a76fa160",
+    "values": [
+      {
+        "created": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "display_value": "1965",
+        "modified": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "dd3a5377-e355-4cb5-a0d1-4677dd4552d3"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "display_value": "Det är tråkigt att se att de svenska politikerna inte tar avstånd från Putin. Inte blockerat transporter. Inte hindrar handel. Tillåter export och import. Inte beslagtar ryska oligarkers och andras i kretsen kring Putins egendom? Magdalena Andersson säger att en svensk Nato ansökan destabiliserar. Så fel. Jag skäms. Destabiliserar det är Putin och hans kamrater som gör det.",
+        "modified": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "1a6d1a9b-a031-4db2-a431-c4da77f7dde0"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "display_value": "Jag skäms för västvärlden som låtit Putin hålla på och mörda människor under lång tid. Denna gangster från gatorna i ST Petersburg. Som lönnmördar journalister och andra han utser till förrädare. Hans beslut ligger bakom så mycket lidande i Tjertjenien, Syrien, Eritrea, Georgien, Armenien, osv. När han giftmördade den ryske KGB avhopparen i Storbritannien borde väst ha samlats och beslutat om sanktioner. Vi har ett ansvar för att vi blundar och legitimerar en dylik regim. Jag skäms också för att miljörörelsen sålt ut väst självständighet för den blodsbegjutna gasen.",
+        "modified": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "42ffab1c-2cb0-4a12-8196-618d5d122bc4"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "display_value": "Är rädd för att våld mot kvinnor och barn kommer att öka mer. Trafficking. Pedolofili.\n\nViktigt att få slut på kriget. Vill att resterande del av världen hjälper Ukraina skydda sitt luftrum. Vill att man lagför Putin och hans kamrater i Haag. Han är en krigsförbrytare.",
+        "modified": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "7be455c6-76ac-4482-98e4-d869bb25a24e"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "display_value": "Jag arbetar med mänskliga rättigheter på Migrationsverkets så jag är berörd i mitt arbete.",
+        "modified": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "f3eb39b0-17e2-4358-a648-fec3bce645eb"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "display_value": "Jag förstod att det var på gång eftersom Putin sände trupper dit. Trodde han skulle invadera den den 2022-02-22 eftersom han verkar ha någon nyandlig numerologi fetiscm. Skrockfull, ja något konstigt är det. Blev därför inte förvånad när rapporten kom på radion. Såg därefter på nyheterna på SVT.",
+        "modified": "Thu, 31 Mar 2022 12:37:41 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "870f5b09-fe8d-476f-8543-197c1b890073"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
