@@ -4128,6 +4128,22 @@
           55.786
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har egentligen delvis svarat på frågan redan. Det var väntat det här och jag känner stor oro. Or…",
+        "date": "31 mars 2022",
+        "author": "Harriet Afzelius",
+        "url": "https://minnen.se/tema/krigetiukraina/19290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.307,
+          62.391
+        ]
+      }
     }
   ]
 }

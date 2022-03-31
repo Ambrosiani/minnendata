@@ -31651,5 +31651,118 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00414",
+    "contributor": {
+      "display_name": "Harriet Afzelius",
+      "gender": "woman",
+      "uuid": "5aed1078-aefd-4537-a58a-2c0caf09a2e7"
+    },
+    "created": "Thu, 31 Mar 2022 06:53:37 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 31 Mar 2022 06:53:37 GMT",
+    "position": {
+      "latitude": 62.390811,
+      "longitude": 17.306927
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19290",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2f24984e-947c-4884-9456-6dec86b8d062",
+    "values": [
+      {
+        "created": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "display_value": "1947",
+        "modified": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "48ce8848-8ec6-43f0-a51c-c15e646b77a9"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "display_value": "\"Det var bättre förr\"! Just nu tänker jag på lidandet för människor i Ukraina och hoppas att Sverige inte gör misstaget att placera människor där de inte kan få arbete. Nu hade jag behövt mina äldre släktingar som hade perspektivet och levt under första och andra världskriget. Med bestämda steg gick jag till Valurnan och röstade Nej till EU. Varje dag läser jag Bibeln och i Timoteus om \"yttersta tidens ondska\". Vi är precis där! Tack för att jag fick leva i Folkhemmet och tack för att jag inte har så lång tid kvar! När jag tänker på hur världen ser ut förefaller det mig som om det varit en jordbävning och allt har kastats omkring....ingen lever på den plats de föddes...ingen anammar de normer som råder på den plats som de vill kalla sitt nya hemland. Barn föds men ingen kan mätta dem så de dör.... Vill påstå att det råder kaos!",
+        "modified": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "43f652b1-b89e-4aaf-be45-2a74fccadf08"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "display_value": "Jag har egentligen delvis svarat på frågan redan. Det var väntat det här och jag känner stor oro. Orolig för att jag inte känner förtroende för de politiker vi har i Sverige. Det är Ukraina nu men ingen garanti finns för att inte det kan drabba flera länder....mycket vill ha mer. Fruktansvärt lidande och jag orkar inte se på bilder från detta fasansfulla krig. Dessutom förstår jag inte vilken framtid som kan vänta flyktingarna. Många vill återvända när det är möjligt men vad har de för möjlighet och hur traumatiserade är de inte dessa människor. Flyktingkrisen 2015 minns jag som något fruktansvärt som drabbade Sverige. Alla var inte flyktingar i vanlig mening utan det var ekonomiska flyktingar i den skaran. Nu är jag mera positiv men jag förstår inte hur det skall fungera ändå.",
+        "modified": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "a62190f1-786e-460a-bfa1-1ce3a2a0d2df"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "display_value": "Oro och skräck för jag tror inte det gäller enbart Ukraina! Mycket dyster syn på framtiden. Känner mig usel som ens tycks tänka på utlovad höjning av pension och på så triviala ting som att jag är glad åt att jag köpt vårkläder! Det är mitt sätt att psykiskt överleva....drömma mig bort för en stund! När dröm blir verklighet...ja då finns jag i ena annan dimension och behöver inte ängslas.",
+        "modified": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "01b2ee98-90ee-4c10-b645-b84cfdf7decd"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "display_value": "Påverkas mest genom att jag känner oro! Precis som när Covid19 spreds....ingen land går säkert. Har ingen personlig anknytning men känner andra som står ukrainare nära.",
+        "modified": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e4b3bdf3-0f5a-4bfb-a692-6175ccee0481"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "display_value": "Det är först som en morgon som alla andra och jag brygger kaffe och tar med mig kaffebrickan till vardagsrumsbordet .....slår på TV:n för att se på Morgonstudion. De flesta morgnar väljer jag just SVT och så även denna morgon. I dag 28 mars läser jag i min dagbok \"Om Ukraina på TV före kl. 6\". Ingen annan notering finns den dagen och jag vet varför...jag blev blockerad. Normalt brukar hela sidan vara \"fullklottrad\" med små och stora händelser. Det var som en kall vind drog in i rummet och jag kände mig så ensam...jag brukar inte känna så då jag är van vid ensamheten här i lägenheten. Ända sedan det var drönare i luften i somras har jag pratat i telefon ofta och mycket om oron med några väninnor och även med min Vän som är synskadad och som intensivt följer alla nyhetsuppdateringar. Det var inte alls oväntat detta för mig...men det sänkte mig totalt då jag om blott någon dag skulle få besök av mitt kära barnbarn från Södermalm. Vi hade då inte träffats sedan 1 juli! Fick för mig att vad som helst skulle kunna hända även i Centrala Stockholm. Nå jag satt där och stirrade in i TV:n och satte i gång datorn...såg min långa nota skriven för besöket på COOP ligga där på kakelbordet. Förträngningsmekanismen slogs på! Det har hänt...det är verklighet men nu måste mormor skärpa sig så Vilma har en stabil mormor som möter på Sundsvalls central den 27 februari. Kära barnbarn som kommer till mig på min 75 årsdag! Klart jag duschar och klär mig lite snyggare och beställer Färdtjänst och åker till Stora COOP. Det är tidigt på morgonen och jag träffar inga bekanta och chaufförerna på Färdtjänsten berör inte nyheten om kriget. Skönt för jag är rädd! Efter hemkomsten ringer jag min Vän och vi pratar en stund och han är bra på historia så han håller ett \"föredrag\". -Det värsta i den stunden är att jag alltsedan rapporter om drönare så har jag väntat...oroat mig och väntat och 23 februari noterade jag på sista raden i dagboken....jag är rädd för kriget. Mina \"telefonbästisar\" och jag vi bestämmer att nu gör vi som vi gjorde vid Pandemistarten! Vi håller oss uppdaterade men vi gör det med måtta! Vi är införstådda med att vi inte kan göra något och vi måste hålla oss stabila helt enkelt. Vi är till åren och inte friska heller! Vi gör liksom ett avstamp inför framtiden! För att dämpa oron fokuserar jag på alla förberedelser inför att mitt barnbarn skall komma! När jag lägger mig ber jag som vanligt till Gud och tackar för dagen och jag ber för att Sverige skall orka med att ta sitt ansvar för den flyktingström jag förstår skall komma. Medmänsklighet helt enkelt.",
+        "modified": "Thu, 31 Mar 2022 06:53:37 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "fc060e3e-5077-4bdb-832a-113a61dd8de2"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
