@@ -4192,6 +4192,22 @@
           57.45
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är anmärkningsvärt att detta kan hända år 2022, världen borde ha kunnat undvika det här kriget. …",
+        "date": "31 mars 2022",
+        "author": "Kerstin",
+        "url": "https://minnen.se/tema/krigetiukraina/19294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

@@ -32097,5 +32097,121 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00418",
+    "contributor": {
+      "display_name": "Kerstin"
+    },
+    "coordinates": "",
+    "created": "Thu, 31 Mar 2022 19:25:59 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 31 Mar 2022 19:28:43 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19294",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "6ce6687b-65ae-4e51-994a-e51ee32a6f0d",
+    "values": [
+      {
+        "created": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "display_value": "1960",
+        "modified": "Thu, 31 Mar 2022 19:28:43 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "85b2c327-9127-4d14-b414-9e5d38915a97"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "display_value": "Västvärlden har aldrig varit så enig i stora frågor som nu och samhället har förvandlats så att nästan alla vill hjälpa människorna från Ukraina. Det sker insamlingar och många erbjuder sina hem. Men samtidigt har jag känslan av att vi alla står utanför stängslet och tittar in på ett Ukraina som bombas i spillror och där människor dör utan att hjälpa dem. Måtte detta krig ta slut snart.",
+        "modified": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "9d417dc6-b2c4-4217-88ad-5bc3443b1917"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "display_value": "Det är anmärkningsvärt att detta kan hända år 2022, världen borde ha kunnat undvika det här kriget. Jag blir också rädd när historien upprepar sig. Mina farföräldrar är födda och uppvuxna i Gammalsvenskby i södra Ukraina. Från början var det Dagösvenskar som kom till området 1782 och byggde upp det som blev Gammalsvenskby. Efter krig, revolution och hungersnöd fick de lämna Ukraina och Sovjetunionen. Nästan hela byn kom till Sverige 1929. Många bosatte sig på Gotland där jag är född och uppvuxen. Ett antal svenskbybor reste tillbaka till Ukraina och fick åter uppleva svält och nöd. Under andra världskriget befann de sig i läger i Tyskland för att senare förflyttas till Stalins terrorläger i Gulag. Ska nu deras barn, barnbarn och barnbarnsbarn behöva uppleva detta igen? Det smärtar mig mycket. Jag har släkt och vänner där och är väldigt orolig för deras liv och välbefinnande. Jag är också rädd att jag inte kommer att kunna återvända till den lilla byn vid floden Dnjepr som har stulit mitt hjärta. Jag vill så gärna få visa den lilla fridfulla byn för min son.",
+        "modified": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ab4717b7-f024-4b90-8365-dc5f1543c819"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "display_value": "Jag har trots detta ett hopp om fred i Ukraina och att landet ska få stöd att bygga upp sitt land igen  Jag vill också tro att västvärldens enade åsikter och handlingar kommer att mynna ut i något bra. Med dessa händelser i Europa och vår närhet så blir jag mer ödmjuk inför att leva ett bra liv i fred och frihet. Det är inte alla förunnat.",
+        "modified": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c89d0fc0-b1ed-4b06-ba79-3d7567e620e4"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "display_value": "Eftersom jag har släkt och vänner där så kretsar mycket i mitt liv runt kriget. Men en familj som jag är släkt med har lyckats fly och befinner sig här i Sverige i trygghet nu. Det krävs en del i vardagen för att förklara det svenska systemet och hjälpa till med olika frågor. De vill söka asyl här eftersom släkten finns här och det är mycket information att inhämta. Vi är alla involverade på något sätt i min familj och jag och några kusiner försöker hjälpa familjen. Men efter några veckor med kriget ”på fickan” så måste man också göra andra vardagliga saker för att orka med.",
+        "modified": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e333eaae-7ebe-48b6-b890-3047e0bca6ee"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "display_value": "Jag hade sovmorgon den 24/2 och väcktes av min sambo med orden ”Putin har anfallit Ukraina”. Fick direkt hjärtat i halsgropen och gick till TV:n för att försöka förstå. Och sen försökte jag få tag på mina släktingar från Gammalsvenskby i Ukraina. Fick tag på en ung släkting via Messenger som bekräftade att det var krig och att hon gav sig av från sin skola i Nova Kakhovka. Det var fruktansvärt att ha kriget på så nära håll i sin telefon och försöka förstå det ofattbara. Och i telefon så skriver hon ”Nu bombar de min skola”. Det kom videos på attackhelikoptrar över staden. Jag grät nästan hela dagen.",
+        "modified": "Thu, 31 Mar 2022 19:25:59 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "ef12b6d9-f906-4cca-be08-77995f66f84a"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
