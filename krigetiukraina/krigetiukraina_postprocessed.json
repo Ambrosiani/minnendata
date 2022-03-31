@@ -31764,5 +31764,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00415",
+    "contributor": {
+      "display_name": "Sven Kivling"
+    },
+    "created": "Thu, 31 Mar 2022 07:14:37 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 31 Mar 2022 07:14:37 GMT",
+    "position": {
+      "latitude": 59.05856299718598,
+      "longitude": 14.942613587578073
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19291",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "6141ee7b-7d07-4cdc-9f98-5051c97e7e08",
+    "values": [
+      {
+        "created": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "display_value": "1941",
+        "modified": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "c8aa2dc7-c5e3-4482-94e6-80f25360cda0"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "display_value": "Här i Sverige reder vi oss bra liksom i Europa med undantag för Ukraina och Ryssland.",
+        "modified": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "b926525d-21f0-4cdd-adfc-664bc3be9040"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "display_value": "Förfärligt. När kriget är slut får vi (Förutsatt att även vi inte är ockuperade) är sätta in massiva hjälpinsatser och i nuläget hjälpa till med det som går. Ryssarna har gjort något som kommer att drabba inte bara Ukraina utan även Ryssland hårt. I EU kan vi bara totalt bojkotta ALLT ryskt. Även om drivmedelspriserna ökar. Jag är även bekymmrad över hur baltstaterna kommer att drabbas. Drygt 50 års ockupation och miljöförstöring igen?",
+        "modified": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "89fe6dce-1775-4100-b8a9-94c4028f750e"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "display_value": "Vi bor delvis i Estland. Med tanke på vad Putin sagt att han vill återupprätta Rysslands gränser från Tsartiden känns det oroande för Baltikum.",
+        "modified": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f687a1ab-d7f9-4b51-a663-b46c83fbd727"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "display_value": "Vi ser till att vi har mat, värme och vatten hemmavid. Vi bor på landet.",
+        "modified": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ab3a73f1-f7f1-4578-88d6-7287f4832025"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "display_value": "Jag hörde på nyheterna. Förfärligt. Jag kom spontant att tänka på Olof Palmes yttrande om bombningar: \"Diktaturens kreatur\".  Det yttrande kom efter USA:s bombningar av Vietnam. \nNu är det Putin som bombar. Hur korkad kan Putin vara? Nu är det Putin som är diktaturens kreatur. Ryssarna kommer att skapa elände på många håll. Inte bara i Ukraina utan även i Ryssland.",
+        "modified": "Thu, 31 Mar 2022 07:14:37 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "a07552d9-1a06-4f89-adcd-9b6fabce391f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
