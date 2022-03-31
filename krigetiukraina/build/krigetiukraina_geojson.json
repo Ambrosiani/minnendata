@@ -4176,6 +4176,22 @@
           57.498
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är bedrövad. Jag är rädd för att inte kunna åka dit igen. det är lite som mitt andra hem.  Jag h…",
+        "date": "31 mars 2022",
+        "author": "Sofia Hoas",
+        "url": "https://minnen.se/tema/krigetiukraina/19293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.515,
+          57.45
+        ]
+      }
     }
   ]
 }

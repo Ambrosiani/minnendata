@@ -31986,5 +31986,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00417",
+    "contributor": {
+      "display_name": "Sofia Hoas"
+    },
+    "created": "Thu, 31 Mar 2022 16:33:57 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 31 Mar 2022 16:33:57 GMT",
+    "position": {
+      "latitude": 57.45032699999999,
+      "longitude": 18.5150256
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19293",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "9324f042-2e52-4261-bb95-573dab06c98a",
+    "values": [
+      {
+        "created": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "display_value": "1970",
+        "modified": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8d8f922e-7c65-4094-a6a9-f1a979199b45"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "display_value": "Det är ofattbart att ett anfallskrig kan utbryta med full kraft i Europa 2022. Vi borde ha lärt oss. Och det är sorgligt att det inte går att stoppa en maktgalen diktator, med kanske ett fåtal generaler som vill återskapa något som de fabulerat ihop. Som invaderar en fri demokrati, som inte vill bli intervenerad. De bryter mot mänskliga rättigheter, begår svåra krigsbrott, blåljuger och kör klassisk tvärtomretorik. De borde finnas en världsordning som kan sätta stopp och ställa dem inför en världsdomstol. Detta skulle ju inte hända igen! Och nu är det nära och i Europa, många reagerar. Krig längre bort, som varit lika vidriga, Afganistan , Syrien. Jag känner mig rädd för mänskligheten. Vad är det som är så mörkt inom oss, och hur kan historien upprepa sig? Hur kan konspirationsteorier och fabulerade historiebeskrivningar få fäste. Vill männsikor i grund och botten ha krig för att känna sig levande och förstå vad som är viktigt i världen.",
+        "modified": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "548198c5-3d13-4af0-bd35-82d5e3bc3531"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "display_value": "Jag är bedrövad. Jag är rädd för att inte kunna åka dit igen. det är lite som mitt andra hem.  Jag har många vänner och lite släktband där. Mina farföräldrar Gustav och Katarina flydde från byn, hem till Sverige 1929. Deras val att stanna i Sverige gjorde att jag är född på Gotland, men de kunde lika gärna ha valt att åka tillbaka. Då hade jag varit mitt i ett krig nu. Efter krig och svält och Stalins kollektivisering. Det är ofattbart att det händer igen 2022. \nJag är orolig för dem i Gammalsvenskby, de har haft det tufft, först under Sovjettiden, men även sedan demokratin föddes 1991. Det har gått trögt. Mycket alkoholism, korruption och sedan 2014, krig där söner från byn hamnat vid fronten och kommit hem i liksäckar eller med svåra trauman.  Men de har varit fria och sedan 2014 har jag inte hört en enda säga att de hellre skulle vilja tillhöra Ryssland eller att det var bättre på sovjettiden. De är stolta över att var ukrainare, även om det bor åtta olika etniska nationaliter i byn idag. De är gästfria och ser möjligheter före hot. Nu utsätts det för ett krig som de är helt oskyldiga till. De är trötta och rädda. Hör beskjutningar och bombningar närheten. Sover med kläderna på och är beredda att ta skydd i sina jordkällare. Sedan en vecka är de ryskockuperade och rädda för plundring. deras borgmästare Olexander i Berylsav är tillfångatagen, Jag är rädd att de skall straffas extra för att de har haft ett utbyte med Sverige. Och att de aktivt jobbat med demokratiprojekt. I början ville ingen lämna och när några började lämna var det nästintill försent, de stora vägarna bevakas av ryska armén. De är isolerade, inga förnödenher kommer in, brödbilen kommer varannan dag. De hjälps åt . De gör byteshandel med grannbyarna. Men även småvägarna är farliga. 2 bybor arresteras när de är i Krasno Majak. De är försvunna ett par dagar. Ingen vet vad som hänt dem. Jag skriver dagbok och tänker att det är som att höra gummorna berätta om 2 världskriget. Byborna släpps ur arresten, men är nu på fel sida floden. de måste nu vänta med att ta sig över floden i en grön korridor som röda korset ordnar.  Jag är trött och mår dåligt, Men känner att jag kan hjälpa till. Jag kan berätta för omvärlden vad som händer. Byborna är rädda att världen inte ska få veta. Särskilt sedan det bara visas rysk propaganda på TV.n.",
+        "modified": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "448710d8-1af8-417b-9f87-7b40bd5660b7"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "display_value": "Jag är rädd för att hela världsordningen nu rubbas. Inget kommer att bli som förut. Vi kommer att behöva tänka annorlunda, ekonomin kommer förändras. Synen på livet kommer förändras. \n\nKanske kommer det något gott ut ur det. Kanske börjar vi bortskämda svenskar/västerlänningar inse vad som är viktigt i livet. Krig föder mycket ont, men det föder också medmänsklighet.",
+        "modified": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "13434bae-34ea-4654-a7f1-c424203e5f82"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "display_value": "Som ordförande i vänföreningen och projketledare för ett vänorts- och demokratiprojekt i byn har jag jobbat 100% med Gammalsvenskby och kriget. Vi upprättade en krigsgrupp med styrelse och några till för att hålla varnadra informerade och diskutera strategier. Vi startade en krigsinsamling, som ett led i vårt vanliga hjälparbete. Vi har hållt kontakt, rapporterat korrekt information till intresserade , media och andra. Organiserat en dagbok/informationsflöde på hemsidan. Skriver en spalt i lokala tidningar. Sorterat och pratat med press.  med tidningar, radio och TV.  Ordna manifestaioner och visat vårt stöd till byborna. Skaffat nya kontakter med transportörer och röda korset. Hjälpbybor att fly och hjälpt dem att komma till Gotland. Hjälp dem på plats med stöd, boende, registrering och ekonomisk hjälp. Ordant öppet hus för att träffas och prata och hjälpa varandra med tankar och frustration. Skrivit artiklar. Gjort insamlingar och försöker få ner hjälpsändningar med medicin och förnödenheter. Jag går in i fightmood och känner att det är skönt att kunna göra något. Försöker hålla distans, så jag inte blir utmattad. Men tanken på mina vänner mitt i kriget gör att jag tänker att jag har mycket kraft.\n\nMina 5 barn har alla varit i byn och är påverkade av att deras vänner är hotade och i krig. Min make är riksdagsledamot och sitter både i finas och försvarutskott och sitter i extramöten och är mer i Stockholm. Vi stöttar och hjälper varandra.",
+        "modified": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e798abce-ec1f-4e29-bbf7-34b61912b744"
+      },
+      {
+        "created": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "display_value": "Jag fick ett mess vid 6-tiden på morgon och förstod direkt att nu var riktigt illa. Nu händer det ofattbara. Jag ringde upp mina vänner Lilja o Roman i Gammalsvesnkby kl 8.00 som bekräftade att de vaknat tidigt av granateld och att de hört att ryska arméns stridsvagnar kört över gränsen vid Krim och var på väg mot Nova Kakhovka, kraftdammen nära byn.",
+        "modified": "Thu, 31 Mar 2022 16:33:57 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9b03f54e-b03c-424e-a289-13e578cbf8c7"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
