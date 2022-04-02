@@ -32213,5 +32213,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00421",
+    "contributor": {
+      "display_name": "Per Post"
+    },
+    "created": "Sat, 02 Apr 2022 12:29:44 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 02 Apr 2022 12:29:44 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19297",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "6e9fcb3f-f8cb-415f-9fe9-9aa00bff5a09",
+    "values": [
+      {
+        "created": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "display_value": "1945",
+        "modified": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "943c408a-60b7-4310-9daf-ab07bb8bfc5c"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "display_value": "Vi är på väg tillbaka till det kalla kriget och den skarpa polariseringen mellan \"Väst\" och \"Öst\". Skillnaden är fortfarande demokrati vs. diktatur. \nLänder i gränszonen är tvungna att välja sida. Neutralitetsförklaringar har noll värde.",
+        "modified": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "308c6e3c-291b-4768-ba91-7f469346cde2"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "display_value": "1. Ett helt oberättigat angrepp mot en självständig stat.\n2. Alltför vanlig stormaktspolitik. \"Allt som någon gång legat inom vår intressesfär tillhör  oss\"\n3. Putin är inte den första ryska ledaren \"som skall göra Ryssland stort igen\".",
+        "modified": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "dad97408-61b3-4ade-a0fe-5785a3010f1e"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "display_value": "Jag utgår ifrån att Ryssland förlorar den \"första akten\" och att detta följs av ett maktskifte och en maktkamp i Kreml. Nästa ryska regent behöver inte vara bättre!",
+        "modified": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b13c518a-9c7e-4bbd-9e32-9351dd74ac85"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "display_value": "Lever som vanligt.\nInser att det kommer att bli dyrare att leva.\nOmvärderar några av våra egna politiker.\nFörsöker understöda Ukraina och ukrainarna.",
+        "modified": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "264a92f0-b0d7-42da-ad7e-02d48a5d465e"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "display_value": "Radionyheterna. Hade redan väntat mig en rysk provokation av något slag.",
+        "modified": "Sat, 02 Apr 2022 12:29:44 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "1852d609-c54a-4529-8396-62fe1b41b2c6"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
