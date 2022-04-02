@@ -4208,6 +4208,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag kommer ursprungligen från Ryssland men har bott i Sverige sedan femton år tillbaka. Jag kände st…",
+        "date": "2 april 2022",
+        "author": "86",
+        "url": "https://minnen.se/tema/krigetiukraina/19300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.276,
+          57.79
+        ]
+      }
     }
   ]
 }

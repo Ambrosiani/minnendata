@@ -32320,5 +32320,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00424",
+    "contributor": {
+      "display_name": "86"
+    },
+    "created": "Sat, 02 Apr 2022 20:42:33 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 02 Apr 2022 20:42:33 GMT",
+    "position": {
+      "latitude": 57.7904141,
+      "longitude": 14.2755781
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19300",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "edd6a338-a66f-437c-bb3c-b1fe1fdf0ef2",
+    "values": [
+      {
+        "created": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "display_value": "1986",
+        "modified": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "0ff1108b-c35c-43f2-969c-beb0bc55b70e"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "display_value": "Vi har redan en energikris i Sverige. Nu är den akut. Nu verkar vi även få en matkris inom överskådlig framtid pga prisökningar och minskad export från Ukraina. Priser och räntor kommer öka. Globalisering fick stryk under corona, det här blir ytterligare ett steg mot självförsörjning. Länder kommer fokusera på att täcka basbehoven själva. Världen är åter bipolär: Ryssland mot Väst. \nNär jag ser tillbaka på Rysslands historia, så tänker jag på alla hemskheter som staten utsatte sin befolkning för. Svält, mord, angiveri, förtryck - bara de senaste hundra åren. Jag blir påmind om sovjets politiska fångar, precis som idag: Navalniy är fängslad, folk som protesterar mot kriget i Ryssland blir fängslade, elever anger lärare som tar avstånd från kriget. Det tog inte många veckor att kasta Rysslands utveckling decennier bakåt i tiden. Landet ser en stor Brain drain. Arbete med demokratiska värderingar, för folk med särskilda behov, jämställdhet  - det kommer bromsas i Ryssland. Jag är rädd för ett blodigt maktskifte i Moskva. \nVärldsekonomin är på väg i en ny kris. Det skulle inte förvåna mig om Kina la beslag på östra delarna av Ryssland. Samtidigt så finns det hopp om fri Ukraina, innovativa samarbeten (t.ex. Elon Musk), enad EU, folk som vill hjälpa varandra.",
+        "modified": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "41ba1a03-8ac6-489c-b3f4-fdf2cbe99e8d"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "display_value": "Jag kommer ursprungligen från Ryssland men har bott i Sverige sedan femton år tillbaka. Jag kände stor skam över mitt hemland och skämdes för att jag inte gjorde mer när jag bodde där. Våra förfäder, våra föräldrar och jag lät den här regimen förtycka demokratin i vårt land och nu har det här monstret angripit andra. Jag är orolig för folket i Ukraina och för mina släktingar och vänner i Ryssland. Jag är arg på folk i Ryssland som stödjer Putin och vägrar lyssna på motargument. Nu vill jag bara hjälpa de ukrainska flyktingarna som kommer till Sverige.",
+        "modified": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "41af50ee-475d-4da2-bf65-c2240b08a566"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "display_value": "Sverige har sagt sig vara neutralt i över två hundra år. Det kanske är slut för det nu. När det här hemska kriget är över, så tror jag att det väntar en ljus framtid för Ukraina. Övrig Europa kommer hjälpa till att återuppbygga allt som förstörts. Jag tror på ökat samarbete inom EU men med starkare självstyre. Ryssland kommer ha det här kriget som ett nationellt trauma, precis som Tyskland efter första världskriget. Med många intellektuella som lämnat Ryssland, kan vi se en liknande utveckling som efter revolutionen 1917. Jag är rädd för en ny ”Hitler” vid makten i Moskva om 20-30 år.",
+        "modified": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "211d23e9-a740-44aa-8e74-dbe4a03142c4"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "display_value": "Vi funderade på att preppa ifall det blir kris. Min man och jag läser för mycket nyheter istället för att leka med vår son. Jag har svårt att prata med mina föräldrar som bor i Ryssland. De kallar mig för hjärntvättad och säger att jag blev påverkad av amerikansk propaganda. Det blev så illa att min mamma sa till mig: ”Är du verkligen så dum i huvudet?”.  Jag blev chockad. Min syster bor kvar i Ryssland och känner kollektiv skuld för kriget precis som jag. Min syster och hennes son är jag mycket orolig över. Jag vill inte att de ska leva bakom järnridån i ett förtryckt land.",
+        "modified": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "65f87a0c-28fe-4465-8b85-aa37b9ef4a77"
+      },
+      {
+        "created": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "display_value": "Jag hörde om det på radio. Jag blev chockad, arg och förtvivlad. Jag började genast tänka på likheter med andra historiska händelser. Skulle det här likna 1917, 1939 och så vidare. Hur kommer det här utspela sig? Hur kan man få slut på det? Den första veckan hade jag problem med magen och hade svårt att fokusera mig på jobbet.",
+        "modified": "Sat, 02 Apr 2022 20:42:33 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "08aa8778-2047-488b-bf6e-826c75bd816b"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
