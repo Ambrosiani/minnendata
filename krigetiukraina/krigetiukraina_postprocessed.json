@@ -32431,5 +32431,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00425",
+    "contributor": {
+      "display_name": "Student"
+    },
+    "created": "Sun, 03 Apr 2022 10:29:41 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 03 Apr 2022 10:29:41 GMT",
+    "position": {
+      "latitude": 62.34703554358643,
+      "longitude": 15.756478143406252
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19301",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "c5c46cad-790d-4320-a32a-648c16c60f83",
+    "values": [
+      {
+        "created": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "display_value": "1999",
+        "modified": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "060b4617-dc3b-464b-ab69-8d73b12913f3"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "display_value": "Europa är i chock. Men visar ändå handlingskraftighet. Jag är väldigt glad över att så många vanliga medborgare i Europa gör så mycket för att hjälpa Ukraina.",
+        "modified": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "35832204-143a-4a22-88e2-a8c5e7bc5c37"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "display_value": "Som liten så fick jag lära mig att framtidens krig kommer inte se ut som det gjorde förr. Istället för stridsvagnar så kommer virus att planteras in i viktig infrastruktur så att kärnkraftverk spränger sig själva, logistikkedjan kollapsar, internet går ner osv. \n\nJag trodde också att det aldrig kommer bli krig i Europa under min livstid. Jag trodde vi var förbi sånt här. \n\nMen jag hade fel. Det är krig i Europa. Ryssland använder sig av medeltidstaktiker. Många liv är förstörda föralltid.",
+        "modified": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "3a25013d-dee2-4e8c-82ac-22b3af397a56"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "display_value": "Militär upprustning. Jag önskar att vi inte behövde göra detta. Jag önskar vi kunde lägga våra pengar på skola och sjukvård istället.",
+        "modified": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "245b4eeb-227e-4843-8fa0-b4a3ffe1ae0a"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "display_value": "Min pojkvän bor i Ryssland. Vi har inte kunnat träffas under hela pandemin pga. inreseförbud. Och nu verkar det som att vi inte kommer kunna träffas pågrund av kriget. \nJag hoppas innerligt att svenska ambassaden i Ryssland kommer hålla fortsatt öppet och att Allegrotåget snart börjar gå igen.",
+        "modified": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e3829782-7d72-4262-abba-1176aa82a0ce"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "display_value": "Min pojkvän ringde mig 4 på morgonen för att berätta att en invasion har börjat. Jag kunde inte riktigt förstå det. Jag såg videor på sociala medier av artilleri beskjutning i Ukraina. Jag kunde fortfarande inte riktigt förstå. Jag somnade om. \nDet tog ca: två dagar innan jag faktiskt kunde förstå vad det var som hände.",
+        "modified": "Sun, 03 Apr 2022 10:29:41 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "24d09184-b9f5-4020-92ed-36737d94e020"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
