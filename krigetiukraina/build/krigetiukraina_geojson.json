@@ -4272,6 +4272,22 @@
           46.857
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Känslor av frustration över att jag inte kunna göra något för Ukraina och ilskan och hatet mot att P…",
+        "date": "3 april 2022",
+        "author": "Bengt-Ove Jensen",
+        "url": "https://minnen.se/tema/krigetiukraina/19304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.047,
+          58.538
+        ]
+      }
     }
   ]
 }

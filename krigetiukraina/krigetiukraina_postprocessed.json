@@ -32791,5 +32791,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00428",
+    "contributor": {
+      "display_name": "Bengt-Ove Jensen"
+    },
+    "created": "Sun, 03 Apr 2022 22:24:16 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 03 Apr 2022 22:24:16 GMT",
+    "position": {
+      "latitude": 58.5380335,
+      "longitude": 15.0470936
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19304",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "ed498739-97e6-4b4c-9b1d-11a06e463ce8",
+    "values": [
+      {
+        "created": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "display_value": "1957",
+        "modified": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e860cf35-f825-4a7e-9d7a-a89d9a52beae"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "display_value": "Jag är ytterst tacksam för att jag lever i Sverige, då vi har ett samhälle som inger trygghet och säkerhet på många sätt och vis. Vilket inte alla länder har. Givetvis så finns det en liten oro, att Putin med våld skulle försöka ta över ett flertal länder, för att åter bilda Sovjetunionen.",
+        "modified": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "703a179f-dbeb-43df-bf2b-c0b68d28f506"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "display_value": "Känslor av frustration över att jag inte kunna göra något för Ukraina och ilskan och hatet mot att Putin tillåter att man bombar sivila bostäder, skyddrum och barnsjukhus och att man dödar sivila kvinnor, män och barn! Ja detta gör att jag inte vet hur man skall hantera alla känslor av sorg och förtvivlan på grund av detta vansinne till krig!",
+        "modified": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "968231bd-f303-4103-949c-40bca60edb1f"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "display_value": "Den trygghet som fanns här i Sverige och Europa innan detta jäkla krig, har gjort att jag inte längre tar vår frihet för givet. Men samtidigt tror jag att kriget har inneburit, att ett flertal länder har förstått vikten av att samarbeta, för att bygga en bättre och säkrare framtid.",
+        "modified": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "7d435b72-3704-4836-be05-323eee1047b7"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "display_value": "Jag och min hustru samtalar en del om vad som sker i Ukraina när hon kommer hem från jobbet. Men samtidigt så måste vårt liv gå vidare. Så vi försöker att leva som vi gjorde innan detta fasansfulla krig, genom att träffa våra vänner, barn och barnbarn.",
+        "modified": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "3f4e814f-8002-4283-9fc3-76028e9b9aba"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "display_value": "Via media fick jag höra om detta krig mot Ukraina som Putin ligger bakom, vilket kändes som ett slag i ansiktet och ett hat mot detta vansinne till krig.",
+        "modified": "Sun, 03 Apr 2022 22:24:16 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9781ae76-c179-4234-941a-ac35e494490d"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
