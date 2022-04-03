@@ -32542,5 +32542,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00426",
+    "contributor": {
+      "display_name": "Ingemo Åsgård"
+    },
+    "created": "Sun, 03 Apr 2022 12:04:08 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 03 Apr 2022 12:04:08 GMT",
+    "position": {
+      "latitude": 60.34087599061717,
+      "longitude": 19.753334374999998
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19302",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "4773682b-1a77-4874-b6a3-f1ea22bccbed",
+    "values": [
+      {
+        "created": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "display_value": "1949",
+        "modified": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "4efc555b-2fc0-43a2-993f-319fb0ff22b6"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "display_value": "Oroligt överallt. Mest skrämmer tanken på atomvapnen. Oroar mig för mina barnbarns framtid.",
+        "modified": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "36bbd779-ff74-44e8-865b-0104aae6d004"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "display_value": "Bor på Åland och är inte speciellt orolig för egen del. Det som händer, det händer. Jag kan inte påverka.\nFlera flyktingfamiljer har kommit hit.",
+        "modified": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "8c7502b4-50dd-411c-8300-e3b000eec90e"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "display_value": "Oron för barnbarnens framtid gör mig ledsen.",
+        "modified": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "8a70e5a6-65f1-4468-bd3f-a9be217b247b"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "display_value": "Genom att vi bor i ett litet samhälle så märks det ju att många främmande människor rör sig på stan.",
+        "modified": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "7a327bd9-0d0f-4d8b-89b6-48724e37cd1d"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "display_value": "Genom tv nyheterna. Jag blev orolig för dem och för oss. Jag har lärt mig att aldrig lita på en ryssen\n. Mim mor levde på fastnaglandes i Finland under kriget så jag har fått höra många av hennes obehaglig a minnen.",
+        "modified": "Sun, 03 Apr 2022 12:04:08 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "97db3465-3a67-41d6-ae43-369ff482cf88"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

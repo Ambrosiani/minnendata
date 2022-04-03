@@ -4240,6 +4240,22 @@
           62.347
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Bor på Åland och är inte speciellt orolig för egen del. Det som händer, det händer. Jag kan inte påv…",
+        "date": "3 april 2022",
+        "author": "Ingemo Åsgård",
+        "url": "https://minnen.se/tema/krigetiukraina/19302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.753,
+          60.341
+        ]
+      }
     }
   ]
 }
