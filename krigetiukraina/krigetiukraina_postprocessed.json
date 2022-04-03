@@ -32653,5 +32653,143 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00427",
+    "contributor": {
+      "display_name": "JH"
+    },
+    "created": "Sun, 03 Apr 2022 12:22:05 GMT",
+    "image_dms_id": "013AksuuvDa4",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 03 Apr 2022 12:12:20 GMT",
+        "description": "Krossad vägspärr i Nonaja Kachovka",
+        "dms_id": "013AksuuvDa4",
+        "image_height": 950,
+        "image_ratio": 0.47368421052631576,
+        "image_width": 450,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 03 Apr 2022 12:12:20 GMT",
+        "name": "Vägspärr Kachovka.jpg",
+        "order_by_number": 1,
+        "owner": "MB - 2022",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "706fa7fd-234b-4bea-baa4-9493e62403f7"
+      }
+    ],
+    "modified": "Sun, 03 Apr 2022 12:22:05 GMT",
+    "position": {
+      "latitude": 46.85662239782385,
+      "longitude": 33.56908814423604
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19303",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "99fb7be7-3d29-4d53-b686-5b0d66909e4a",
+    "values": [
+      {
+        "created": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "display_value": "1956",
+        "modified": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "fdee3530-c367-467f-b817-46b9946d5faf"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "display_value": "Ukraina är ett samhälle som liknar vårt; därför angår det oss mer än andra konflikter. Det ligger också ganska nära. En rysk aggression kan också hota oss. Vi behöver öka vårt säkerhetsmedvetande såväl i det lilla som i det stora. En ökad grad av självförsörjning, kortare väg från produktion till konsumtion - och ett minskat beroende av energi utifrån måste vara vårt mål.",
+        "modified": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e8ad370c-3fb8-430e-88e9-ea5b03585e86"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "display_value": "Ilska, oro och samtidigt en fast förhoppning över att det finns en ljusare framtid.",
+        "modified": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "94530657-0381-48ea-813d-388155a2a3ea"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "display_value": "Att det inte kan undgå en hur lam en organisation som FN är och att det förmodligen inte kommer att gå att ställa krigsförbrytare i ett fall som detta inför rätta.",
+        "modified": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "146992aa-07ab-43a0-8efa-0f2aa1698878"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "display_value": "En ständig kontakt med \"mitt\" nätverk i syfte att kunna stötta familjer där kvinnor och barn har sökt att komma ut ut krigszoner och helst till väst. Ett ökande ekonomiskt ansvar för dessa.",
+        "modified": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "2afe113b-134c-45bb-adec-405d1546c5f8"
+      },
+      {
+        "created": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "display_value": "Den 24 februari 2022 väcktes jag av informationen om att Ryssland gått till attack mot Ukraina på flera fronter. Jag har sedan första besöket i Gammalsvenskby 1991 lärt känna ukrainare – en del svenskättlingar, men även andra. Eftersom jag skrivit ett stort antal böcker om Ukrainasvenskarna och deras historia har jag ett mycket stort kontaktnät i landet, det har jag också underhållit vid många besök. Jag har sedan i höstas ekonomiskt stöttat en flicka vars far då dog ekonomiskt så att hon skulle gå ut gymnasiet. Skolan hon går/gick i låg i en stad 15 km bort från hembyn och där bodde hon inneboende under terminerna. \n\nJag messade flickan tidigt på morgonen den 24:e och fick då meddelandet att allt var lugnt, men att de hört att ryska trupper rört sig upp från Krim. Bara några timmar sedan meddelade hjon upprört att ryska trupper beskjutit staden med sitt stora kraftverk och att hennes skola dit hon skulle gå var helt utraderad. Hon och hennes värdfamilj och deras grannar tog skydd i källare. De kunde nu höra ryskt pansar som var på väg in i staden. Vid lunchtid hade stridsmullret tystnat och flickan och andra hade vågat titta ut. De såg den ryska flaggan vaja över stadens kraftverk. Hon tog också en bild som hon skickade mig som visar hur ryskt pansar mejat ned enkla hinder utanför deras hus. Känslan av overklighet och att enbart kunna vara en passiv åskådare på långt håll var mycket pressande. \n\nI två veckor befann hon sig sedan i ständigt skydd i källaren, med undantag av endast få försök att proviantera. Efter detta lyckades hennes mor förhandla så att hon fick åka över floden med en av Röda Korsets transporter och så lyckades hon ta sig hem. Efter ytterligare en vecka lyckades familjen ta sig ut ryskockuperat område och via västra Ukraina med hjälp av det nätverk jag byggt upp ta sig till Polen och därefter till Sverige, där har släkt och vänner. Familjen är skakad och upprörda över allt vad de sett och hört av krig, förstörelse och rena övergrepp.",
+        "modified": "Sun, 03 Apr 2022 12:22:05 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "81a9cca2-9f63-4df9-b034-4c4f14d81026"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
