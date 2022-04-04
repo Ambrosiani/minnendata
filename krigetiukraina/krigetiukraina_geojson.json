@@ -4288,6 +4288,22 @@
           58.538
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Ryska annfallskriget på Ukraina är ett av mitt livs obehagligaste upplevelse. Jag är 70 år, född och…",
+        "date": "4 april 2022",
+        "author": "Eivor Lindström",
+        "url": "https://minnen.se/tema/krigetiukraina/19305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.935,
+          60.097
+        ]
+      }
     }
   ]
 }

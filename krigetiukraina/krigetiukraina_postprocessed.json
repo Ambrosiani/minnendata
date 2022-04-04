@@ -32902,5 +32902,143 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00429",
+    "contributor": {
+      "display_name": "Eivor Lindström"
+    },
+    "created": "Mon, 04 Apr 2022 07:29:10 GMT",
+    "image_dms_id": "013AksuwMBDJ",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 04 Apr 2022 06:32:36 GMT",
+        "description": "I Esplanaden i Mariehamn utanför ryska generalkonsulatet. Mars 2022",
+        "dms_id": "013AksuwMBDJ",
+        "image_height": 4624,
+        "image_ratio": 0.75,
+        "image_width": 3468,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Mon, 04 Apr 2022 06:32:36 GMT",
+        "name": "inbound356454354491159124.jpg",
+        "order_by_number": 1,
+        "owner": "Eivor Lindström",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "244e0316-d96d-4fa2-b93d-e32c3fb03630"
+      }
+    ],
+    "modified": "Mon, 04 Apr 2022 07:29:10 GMT",
+    "position": {
+      "latitude": 60.0970945,
+      "longitude": 19.9348339
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19305",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "4520f445-25a4-49b3-853a-b7b9ec8adce6",
+    "values": [
+      {
+        "created": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "display_value": "1952",
+        "modified": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "467f2c02-1525-4da5-be81-75bfa19a1dba"
+      },
+      {
+        "created": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "display_value": "Jag ser med oro på Ålands demitariserade status. Åland är en demilitarisead zon.  Som känt fick Åland sin demilitariseing och neutralisering 1854  i samband med fredsavtalet av Krimkriget, och avtalet följde med in i självstyrelseavtalet 1922. Demilitariseringen är en del av ålänningens identitet. Idag höjs finländska röster för att Åland ska militariseras , och Finland in i Nato  . Ålandspolitikerna håller sig hittills lugnt avvaktande.",
+        "modified": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "838abe77-fd2b-481d-9498-9e0d4bd6ae39"
+      },
+      {
+        "created": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "display_value": "Ryska annfallskriget på Ukraina är ett av mitt livs obehagligaste upplevelse. Jag är 70 år, född och uppvuxen på automin Åland Och har bott på Åland större delen av mitt liv. Vår ögrupp är som bekant demilitariserat. Med det som bakgrund är krig inget som är något alternativ för mig. Varken som problemlösare eller som potenshöjare för galna diktatorer - typ Wladimir Putin.  Man har ju trott att grymma krig var daterat och inte möjligt.",
+        "modified": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ce9889fe-d3d8-4c2d-8e1f-c433c9eeb09d"
+      },
+      {
+        "created": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "display_value": "Mina tankar reflekteras i mitt föregående svar men min tilltro till \nRyssland och dess styre är borta. Jag jämför Putin \nmed Hitler. Och Putins hot om kärnvapen är synnerligen otäckt. Om framtiden kan man bara spekulera men hotet från öst är definitivt med i mina mardrömstankar.",
+        "modified": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "408fdcc7-931a-490b-b781-801169207eb5"
+      },
+      {
+        "created": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "display_value": "Jag följer med utvecklingen av kriget i olika medier.  Jag har också, nästan från första dag anslutit mig till en daglig demonstration utanför ryska generalkonsulatet i Mariehamn. Vi ropar Ukraina 5 gånger,  sjunger olika freds och protestsånger. Det är mest äldre folk med yrkesbakgrund som journalister, präster, jurister, läkare psykologer, kulturarbetare, sångare, författare.",
+        "modified": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "d1b12e17-5954-40e3-9ff3-ba38bb10a956"
+      },
+      {
+        "created": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "display_value": "Min man väckte mig tidigt på morgonen och berättade det. Han hade läst på twitter.",
+        "modified": "Mon, 04 Apr 2022 07:29:10 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "c0558ec1-b726-40d4-a4ba-2d22f3f9eff8"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
