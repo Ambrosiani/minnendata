@@ -33040,5 +33040,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00432",
+    "contributor": {
+      "display_name": "Martin von Wendt"
+    },
+    "created": "Fri, 08 Apr 2022 10:32:52 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 08 Apr 2022 10:32:52 GMT",
+    "position": {
+      "latitude": 61.92410999999999,
+      "longitude": 25.748151
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19308",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b5fbe388-b310-49ac-afa3-07815a107fbf",
+    "values": [
+      {
+        "created": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "display_value": "2022",
+        "modified": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "772a4930-1e60-4d31-8439-54580ba2a492"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "display_value": "Ⓜ️ ? 🆗",
+        "modified": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ba5cc058-895e-49c9-a979-cfbd2f31682d"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "display_value": "Ⓜ️ ? 🆗",
+        "modified": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "b12301ed-4090-474e-821a-a6d4b1dec56d"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "display_value": "Ⓜ️ Vladimir Putin kommer kanske invadera andra nära gränser länder till Ryssland 🆗",
+        "modified": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d018ac7b-5037-4539-ac00-31b69488b786"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "display_value": "Ⓜ️ ? 🆗",
+        "modified": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "f13dbb6a-091d-4c3e-b494-1d6cedaf2914"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "display_value": "Ⓜ️ Rysslands president Vladimir Putin vill inte att Ukraina går i EU och Nato \nDärför har Vladimir Putin krigat invaderade Ukraina 🆗",
+        "modified": "Fri, 08 Apr 2022 10:32:52 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "a69f3dc3-720b-4132-aaf2-548aebfc5df0"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
