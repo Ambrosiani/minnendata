@@ -33289,5 +33289,143 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00434",
+    "contributor": {
+      "display_name": "Martin von Wendt"
+    },
+    "created": "Fri, 08 Apr 2022 15:23:17 GMT",
+    "image_dms_id": "013Akt2QU4re",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 08 Apr 2022 15:11:03 GMT",
+        "description": "Agnetha Fältskog Två små troll",
+        "dms_id": "013Akt2QU4re",
+        "image_height": 1055,
+        "image_ratio": 1,
+        "image_width": 1055,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 08 Apr 2022 15:11:03 GMT",
+        "name": "inbound4896981998432997174.jpg",
+        "order_by_number": 1,
+        "owner": "Agnetha Fältskog som 5 år eller 6 år",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "48cbe40c-577d-4363-9d0e-f02d4de671b5"
+      }
+    ],
+    "modified": "Fri, 08 Apr 2022 15:23:17 GMT",
+    "position": {
+      "latitude": 60.12816100000001,
+      "longitude": 18.643501
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19310",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "6340ec3c-3b20-42d6-b0f1-47cdcc81b03b",
+    "values": [
+      {
+        "created": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "display_value": "2022",
+        "modified": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "55781779-5ecc-40be-92cb-c3d8c3992583"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "display_value": "Agnetha Fältskog som 5 år eller 6 år",
+        "modified": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "7b200281-d382-4c32-acd3-83b920d093e4"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "display_value": "Agnetha Fältskog som 5 år eller 6 år",
+        "modified": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "9bc1575b-8735-464b-8be8-64ff118c69c4"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "display_value": "Agnetha Fältskog som 5 år eller 6 år",
+        "modified": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "5e495eb9-21b5-44f6-a967-21870eb6c4b9"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "display_value": "Agnetha Fältskog som 5 år eller 6 år",
+        "modified": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "13440cd2-2a27-423b-89dd-c472b776ea0b"
+      },
+      {
+        "created": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "display_value": "Agnetha Fältskog som 5 år eller 6 år",
+        "modified": "Fri, 08 Apr 2022 15:23:17 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "2b0df870-b2ab-4c25-9136-0130760d4fd7"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
