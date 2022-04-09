@@ -4304,6 +4304,22 @@
           60.097
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är född i Polen. Som många andra polska medborgare har min familj drabbats av sovjetisk herraväl…",
+        "date": "9 april 2022",
+        "author": "Paulina",
+        "url": "https://minnen.se/tema/krigetiukraina/19315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

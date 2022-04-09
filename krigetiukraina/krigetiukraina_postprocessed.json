@@ -33427,5 +33427,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00439",
+    "contributor": {
+      "display_name": "Paulina"
+    },
+    "created": "Sat, 09 Apr 2022 15:04:30 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 09 Apr 2022 15:04:30 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19315",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2a1bb9e8-e208-49a8-a8d5-3f73657f0d04",
+    "values": [
+      {
+        "created": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "display_value": "1965",
+        "modified": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "a2957b14-8162-47a4-852d-7c8c94b40158"
+      },
+      {
+        "created": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "display_value": "Vi har blivit avtrubbade. Det saknas kunskap om EU och anledningen till dess uppkomst. Min sons kompisar skulle fly utomlands om kriget skulle spridas till Sverige. Ingen av dom har gjort militärtjänst. Det skrämmer mig. Min son som egentligen är polack skulle slåss, han är en insatssoldat, gjorde miltärtjänst i Arvidsjaur.\nSverige och Finland bör gå med Nato.\nJag är emot allt som heter nationalism, hade en förhoppning om att jag har levt i den fria Europa, den har krossats.\nEn sak är säker, det verkar så att plånboken är viktigare än frihet: se Polen och Ungern.",
+        "modified": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "13b43f0b-d7fe-4ec0-98c4-fe47a26b89e3"
+      },
+      {
+        "created": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "display_value": "Jag är född i Polen. Som många andra polska medborgare har min familj drabbats av sovjetisk herravälde på direkt eller indirekt sätt. Jag är arg för Warszawa upproret 1944 (min pappa var med) då ryssarna väntade på att Hitler skulle utrota polsk intelligens. Jag är arg för att min farfar  var tvungen att göra militär tjänst i tysk armen under WWI, han blev fångad av ryssar och bortförd till ett läger vid kinesiska gränsen. Han lyckades att fly, det tog honom ett år att komma tillbaka till Polen.  Jag kan fortsätta att berätta dessa historier väldigt länge. Själv har jag vuxit upp under sovjetisk ockupation, så \"jävla\" roligt var det inte. Jag tror inte att  gemena europeer vet hur eländigt, instängt och fattigt vi hade det.\nJag förstår fullständigt vad Ukrainare känner. Det är död, våldtäkter och arbetsläger som väntar om de ger upp. De har inte något val.",
+        "modified": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6b48d8ef-17d6-43de-9d04-ce60affde5d4"
+      },
+      {
+        "created": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "display_value": "När kriget är slut skulle jag vilja åka ner till Ukraina och hjälpa till med vad som helst. Jag ser Ukraina i EU och jag har en förhoppning om att man på allvar lär ut till unga generationer ( kanske inte bara unga) hur viktig EU är.",
+        "modified": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d9d388ce-c77f-4f42-aca7-1197e7b725c5"
+      },
+      {
+        "created": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "display_value": "Jag följer händelserna nästan slaviskt. Det är nyheter, på Twitter följer jag ca 40 personer: politer och journalister, FB och Youtube.\n Jag har kontinuerlig kontakt med min son, han är 32 år gammal. Vi delar mycket information mellan varandra. Jag kan cyrylica och försöker att lära mig lite ukrainska. Jag skulle vilja så mycket mer men min livssituation är lite svårt just nu.",
+        "modified": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ec291d84-70a1-43e0-b031-d474a34dddbe"
+      },
+      {
+        "created": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "display_value": "Jag fick veta via tvn. Dom första dagarna fattade jag inte vidden av kriget det var först den tredje eller fjärde dagen som jag förstod vad som höll på att hända. Då blev jag riktig ilsken och hade livliga diskussioner med min man. Jag har alltid tyckt att ryssar är pest, mina åsikter är extrema, vill inte ha med dom att göra. Jag var med en grupp på FB, mina åsikter var för starka, jag har gått ur denna grupp.",
+        "modified": "Sat, 09 Apr 2022 15:04:30 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "2a2dd3f4-c930-4d61-bf09-f181a924ba2f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
