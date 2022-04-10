@@ -33871,5 +33871,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00446",
+    "contributor": {
+      "display_name": "Mr. Yo."
+    },
+    "created": "Sun, 10 Apr 2022 11:10:55 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 10 Apr 2022 11:10:55 GMT",
+    "position": {
+      "latitude": 59.8108192,
+      "longitude": 17.6972676
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19323",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "7fedf8f4-7d56-4e40-be1b-1cf9b9dcdeae",
+    "values": [
+      {
+        "created": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "display_value": "1976",
+        "modified": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "f37fb9ca-979c-4a2f-a7a3-2ecec4af8f8f"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "display_value": "Jag är emot Sveriges och Finlands dragning att gå med i NATO frågan har inte varit så aktiv nu sedan kalla kriget. Sverige bör förbli neutralt. Jag förstår dock folk som ororar sig. Men med NATO medlemskap kan vi vänta att alicka svenskar runt halva jorden om annat land hamnar i krig. Ett krig Sverige kanske inte i sig har något med att göra. Så både Rysslands attack ororar nära kära, ororar Sveriges militära uppbyggnad i sig med för oss.",
+        "modified": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "512f10e6-49b1-4177-986e-16a372a86f1b"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "display_value": "Oron hade varat redan sedan ca:3-4 v. Tillbaka, Rysslands ledare, ej ryska folket hadevjagchaftvlågt förtroende för u det lång tid. Men att det skulle bli full verklighet av hotet trodde jag aldrig. Det påminner om 60 talets grisbukten hela historien. Med skillnad att USA aldrig attackerade Kuba med ett fullskaligt krig. Detta valde dock Kreml att göra istället. \nVi hade nog alla tyckt, att COVID-19 hade varit nog för världen, men sedan följer detta? \nDet är med sorg vi ser denna utveckling.",
+        "modified": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "4a7c6dfb-ada3-4327-8343-919321f24e0c"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "display_value": "Jag ser det likt ett nytt just nu \"hett\" krig, vidare sen kallt krig. Tror många inte förstår att detta kommer ta oavsett om ryssland skulle lämna Ukraina ta mycket lång tid att reparera relationer mellan inte bara Ryssland och \"väst\" utan situationer mellan väst, Indien, Pakistan, Kina, energikriser.. m.m.",
+        "modified": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "fa361954-2f20-4a87-affd-351b078257f6"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "display_value": "De flesta oroas av utvecklingen i vårt närområde detta går inte att sticka under stolenvsåvatt säga. \nVissa vänner började bunkra mat, och vissa andra förnödenheter. Själv har jag ej valt göra detta då dra i växlar att riskem att Ryssland fullskaligt skall attackara Sverige ser låg ut. Men vem vet ?",
+        "modified": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ed2473d2-dea7-44ff-a782-ffd91bc69b06"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "display_value": "Internet, nyheter",
+        "modified": "Sun, 10 Apr 2022 11:10:55 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "1f3d4539-8da3-4de1-bd25-bd568071f784"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
