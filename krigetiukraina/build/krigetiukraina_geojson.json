@@ -4320,6 +4320,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Beslutade bombningar av civila, våldtäkter som vapen, bombningar med okonventionella bomber, bombnin…",
+        "date": "10 april 2022",
+        "author": "Erik",
+        "url": "https://minnen.se/tema/krigetiukraina/19319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.639,
+          59.859
+        ]
+      }
     }
   ]
 }

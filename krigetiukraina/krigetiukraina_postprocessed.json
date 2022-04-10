@@ -33538,5 +33538,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00442",
+    "contributor": {
+      "display_name": "Erik"
+    },
+    "created": "Sun, 10 Apr 2022 05:19:14 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 10 Apr 2022 05:19:14 GMT",
+    "position": {
+      "latitude": 59.85856380000001,
+      "longitude": 17.6389267
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19319",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "0fc44e53-6e01-4c77-b61f-58e5aa29bf57",
+    "values": [
+      {
+        "created": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "display_value": "1983",
+        "modified": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e32d817b-fd8d-4378-80aa-b5179ba7f6c3"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "display_value": "Det är en stor sorg att vi människor kom så nära en total upplysning där alla människor kan kommunicera, där vi alla får ta del av varandras tankar och kunskaper, där hungersnöd blir alltmer sällsynt, överbefolkningens kurva planar ut, barn får gå i skola nästan världen över, etc. och så ska någon världsledare med romantiserade vanföreställningar om Sovjet starta krig på grund av en obetald gasräkning och storhetsvansinne. Det är en stor sorg.",
+        "modified": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e8ecc437-ea5e-4d45-83f2-1836c52e52c7"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "display_value": "Beslutade bombningar av civila, våldtäkter som vapen, bombningar med okonventionella bomber, bombningar av barnsjukhus, avrättningar…. Listan på illgärningar som ett land som blir angripet av Ryssland råkar ut för kan göras lång. Tjetjenien vet. Ukraina vet. Sverige har en historisk aning i uttrycket ”ryssen kommer”, men det är länge sedan nu. \n\nUkraina utkämpar nu den strid som avgör framtiden för alla små och fria nationer i väst. Deras otroliga kampvilja och förmåga att stå emot har givit oss i Sverige en liten tidsfrist som vi så desperat behöver för att förbereda försvaret av riket. Ukrainarna har gjort detta till ett fruktansvärt pris. Det kommer att ta minst ett generationsbyte, där de ännu ofödda har fått växa upp oskyldiga till den ryska tystnaden inför lögnerna, innan Ukraina och Ryssland återigen blir broder och systerfolk efter dessa övergrepp.",
+        "modified": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "dbf23dc6-295c-4149-a576-b9dfe7f710c0"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "display_value": "Om Putin avsåg att splittra väst, så har han gruvligt misslyckats. Inget för oss människor samman som en gemensam fiende. Sveriges frihet och oberoende är avhängigt nu på de närmsta årens förberedelser och om vi håller ihop med övriga västmakter.",
+        "modified": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "3234a19e-003f-45a7-a704-db8ccc3b05fc"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "display_value": "Inte alls. Nudelsopporna är svårare att få tag på, eftersom många bunkrar. I övrigt så var vi redan beredda enligt ”Om kriget kommer” (1961 års upplaga). \n\nVi har blivit mer noga med att säga ”jag älskar dig”, och mena det, innan vi skiljs åt.",
+        "modified": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "6c4e900b-4cb2-4b4f-adfe-3e85ca3430b8"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "display_value": "Eftersom jag följde alla öppna källor väldigt noga veckorna innan, då vi (kompaniledningen) hade fått meddelanden från svenske militärattachén i Moskva skickat till oss från bataljonschefen som antydde att det kanske var på gång nu, så hade vi i vår egen omvärldsanalys kunnat pricka in ungefär vilken dag det skulle komma. Vi hade dock fel på två punkter; Putin gick inte in bara i den östra delen öster om Djepnr som vi hade antagit; han gick verkligen in i hela Ukraina. Dessutom så gick han in en dag tidigare än vad vi bedömde troligt.",
+        "modified": "Sun, 10 Apr 2022 05:19:14 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "bf0713f1-7df7-48c1-9c8b-0f2915cb6367"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
