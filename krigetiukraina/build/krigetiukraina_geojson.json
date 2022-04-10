@@ -4384,6 +4384,22 @@
           59.811
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag mår dåligt. Det är fasansfullt. En galen barbarisk diktator försöker utplåna ett fredligt land o…",
+        "date": "10 april 2022",
+        "author": "NK",
+        "url": "https://minnen.se/tema/krigetiukraina/19324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.636,
+          56.665
+        ]
+      }
     }
   ]
 }

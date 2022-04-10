@@ -33982,5 +33982,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00447",
+    "contributor": {
+      "display_name": "NK"
+    },
+    "created": "Sun, 10 Apr 2022 12:29:14 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 10 Apr 2022 12:29:14 GMT",
+    "position": {
+      "latitude": 56.6648948,
+      "longitude": 16.6364773
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19324",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "458d98f6-a0d2-4ee6-90b4-5cbb91b0720e",
+    "values": [
+      {
+        "created": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "display_value": "1964",
+        "modified": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "6ee1b9c2-d278-4fd1-9628-f21d07080056"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "display_value": "Känner stor oro för vad galningen Putin kan hitta på. Det hör kriget känns så jävla onödigt. \nJag brukar inte vilja önska livet ur folk.  Just nu känner jag bara: Kan inte någon bara eliminera Putin.",
+        "modified": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f1fda541-ecb6-43c4-90f7-708984653c43"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "display_value": "Jag mår dåligt. Det är fasansfullt. En galen barbarisk diktator försöker utplåna ett fredligt land och mörda befolkningen. Hur länge ska världen bara se på. Det pågår folkmord. När världen borde fokusera på klimathotet startar en maktgalen Putin ett barbariskt krig med fokus att knäcka civilbefolkningen. Putin mördar kvinnor och barn för attjpp å du a syften.",
+        "modified": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "59bb3db9-e634-4f7b-b48d-dae5aac5c482"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "display_value": "Det känns som att framtiden inte är lika ljus. Pandemier, krig och oroligheter. Lägg därtill Klimathotet.",
+        "modified": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "3515a045-4b87-4653-9d8f-be230a0c87b2"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "display_value": "Det är svårt att tänka på något annat. Jag har aldrig konsumerat så här mycket nyhetssändningar.",
+        "modified": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "101d8901-ec3c-4e19-9af5-0a53c8e4da32"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "display_value": "Nyhetssändning SVT. Jag blev både ledsen och förbannad.",
+        "modified": "Sun, 10 Apr 2022 12:29:14 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "31eb258a-03aa-4881-af4f-9520ea768bc8"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
