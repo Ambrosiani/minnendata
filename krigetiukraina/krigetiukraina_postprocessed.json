@@ -33649,5 +33649,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00443",
+    "contributor": {
+      "display_name": "Olle Burlin"
+    },
+    "created": "Sun, 10 Apr 2022 06:33:44 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 10 Apr 2022 06:33:44 GMT",
+    "position": {
+      "latitude": 62.6322698,
+      "longitude": 17.9408714
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19320",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "edde596b-8179-4732-a733-cc423af25a0a",
+    "values": [
+      {
+        "created": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "display_value": "1946",
+        "modified": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "adbc8605-9523-4c61-bdb4-9c79ba8c24f6"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "display_value": "Inte så bra. Har som 75-åring varit isolerade på grund av pandemin och så kom kriget på det. Hade inte trott att mina sista år livet skulle bli så",
+        "modified": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0ecada15-f2dd-4e45-aea8-642482aa37f7"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "display_value": "Det känns sorgligt och deprimerande att  varje kväll på Rapport se hur människor som vi, får sina liv förstörda på grund av att en diktator får för sig att starta ett krig",
+        "modified": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "96ec4691-9d36-41a2-8211-cac8163f60bf"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "display_value": "Orolig för att ekonomin och övrigt samhällena i Europa drabbas  negativt.",
+        "modified": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "4e634d84-81fc-4b6d-95f3-d3efe6535565"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "display_value": "Inte mer än att det känns så hopplöst med allt detta lidande.",
+        "modified": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "61114f46-2f86-4656-845a-c6b66b627f84"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "display_value": "Det hade man ju varnat för  länge i och för sig, men det var nog på svt.se som jag först såg nyheten.",
+        "modified": "Sun, 10 Apr 2022 06:33:44 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "e1f82d46-fedd-42d4-88a4-ab627851d32f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

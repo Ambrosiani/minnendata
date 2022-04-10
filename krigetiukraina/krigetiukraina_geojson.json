@@ -4336,6 +4336,22 @@
           59.859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det känns sorgligt och deprimerande att  varje kväll på Rapport se hur människor som vi, får sina li…",
+        "date": "10 april 2022",
+        "author": "Olle Burlin",
+        "url": "https://minnen.se/tema/krigetiukraina/19320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.941,
+          62.632
+        ]
+      }
     }
   ]
 }
