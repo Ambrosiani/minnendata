@@ -33760,5 +33760,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00444",
+    "contributor": {
+      "display_name": "Kvinna 40"
+    },
+    "created": "Sun, 10 Apr 2022 07:03:01 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 10 Apr 2022 07:03:01 GMT",
+    "position": {
+      "latitude": 62.4854563,
+      "longitude": 17.3248651
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19321",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "8ce05f9d-a1b1-4490-87fa-4ea00cc14294",
+    "values": [
+      {
+        "created": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "display_value": "1981",
+        "modified": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "7089b4d9-1e89-4a03-85ce-0bc56dd028fb"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "display_value": "Det är väpnade konflikter i världen men ingen som kan påverka oss här i Europa som Putins vansinne.  vi i Europa måste vara eniga om hjälp när vi kan.",
+        "modified": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "7834f8a7-bb71-4c12-9ce8-d86e0a50486a"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "display_value": "Allt lidande och krigsbrott som sker är onödigt . Blir ledsen och orolig. Alla blider och information som vissa medier ger ut är onödigt Grafiska bilder. \nRäcker gott med Sveriges radio och Rapport.",
+        "modified": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "be6af41d-de42-41f1-89b6-f2d8ce3a9469"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "display_value": "just nu lever vi som vanligt men åker minder bil och tänker på att handla mat så man klarar sig.",
+        "modified": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d69ab1ce-8276-420e-b562-ef5539cab081"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "display_value": "Börjar fundera över hur väl vi skulle klar av Krig. vart vi skulle fly.\nHar redan en låda med mat och annat som behövs vid en situation  där man bli utam el och vatten.\nHar kundskap hur man lever av naturen och hur man renar vatten.",
+        "modified": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "238f2da3-f1c4-4407-ad26-57992a0afc41"
+      },
+      {
+        "created": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "display_value": "Jag har följt utvecklingen från när Putin in tog Krim halvön 2014 . Det har varit strider där .\nHar förstått att Rutin vill öka Ryssland till det gamla Sovjetunionen.\nSå när nyheten kom var det inte en överraskning. Men otäckt ochfruksvärt att oskyldiga människor måste lida.\nVar rädd för världskrig .",
+        "modified": "Sun, 10 Apr 2022 07:03:01 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "7d3a4930-a00a-42d3-ac7a-a6a377b40024"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
