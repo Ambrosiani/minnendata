@@ -34093,5 +34093,143 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00449",
+    "contributor": {
+      "display_name": "Kaisa Vallas"
+    },
+    "created": "Mon, 11 Apr 2022 21:34:00 GMT",
+    "image_dms_id": "013Akt2TT3np",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 10 Apr 2022 10:08:51 GMT",
+        "description": "20 feb 2022, en liten demostration på Myntorget, i huvudsak ukrainare , få andra verkade bry sig. Jag  Kaisa Vallas, och min bror Martin.",
+        "dms_id": "013Akt2TT3np",
+        "image_height": 1500,
+        "image_ratio": 0.75,
+        "image_width": 1125,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 10 Apr 2022 10:08:51 GMT",
+        "name": "received_376659517620488.jpeg",
+        "order_by_number": 1,
+        "owner": "Maret Eesmäe",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "1cbcec43-5568-4472-be33-3c51c7733ce1"
+      }
+    ],
+    "modified": "Mon, 11 Apr 2022 21:34:00 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19326",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "0bbda65f-3a75-4ec3-82a7-53c6742d9988",
+    "values": [
+      {
+        "created": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "display_value": "1962",
+        "modified": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e3eaec4d-afeb-4199-bfac-236688b1cb77"
+      },
+      {
+        "created": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "display_value": "Det stör mig när folk tycker att allt är västs fel, att det är väst som \"lurat\" ukraina.  Som om ukraina inte borde få välja sina liv själva,  på gott ock ont. Förvånandsvärt många önskar  att Ukraina borde nöjt sig med att vara lydrike till Rysdland. \n\nJag är själv född i sverige, men mina föräldrar kom som flyktingar från Estland 1944,  undan den sovjetiska  invasionen. \nDet fins inget val, ukraina är tvungen att vinna över ryssland, om vi ska få behålla det europa vi vant oss vid.",
+        "modified": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0687fd5f-9d82-4f5c-84bc-9d942b89b2cc"
+      },
+      {
+        "created": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "display_value": "Det är fruktansvärt. Och samtidigt så märkligt att alla fram till nu bara vänt bort blicken. Georgien, Tjetjenien, Donbass, Krim... det borde inte varit en överaskning för någon.",
+        "modified": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "2229e790-a5e7-4b5b-9eaa-778cbe3c5b2f"
+      },
+      {
+        "created": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "display_value": "Det står och väger. Men till slut vaknade omvärlden upp och slutade låtsas om att man inte viste. \nKanske kommer detta bli ett utnötningskrig i sydöstra ukraina. \nKanske kommer Putin göra något desperat. \nKanske kommer ryssland till slut nötas ner. \n\nMen det är tvunget att sluta med att Ryssland inte vinner något. \nOch då kan även Belaruss falla. \nMen ryssland själv kommer ta lång tid att förändras. De som protestetat är bara någon promille",
+        "modified": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "5536765c-7e19-46d9-8222-df3fdec9ed17"
+      },
+      {
+        "created": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "display_value": "Det första jag gör på morgonen är att kolla i mobilen om vad som hänt. Det sista jag gör på kvällen är att se alla de kanaler ( mest FB) som brukar vara givade, och läsa artiklar som länkats, eller tvitterflöden som berättar något. \nDessutom går jag på några demostrationer, men inte lika många som de första två veckorna. \n\nMen i övrigt rullar allt på som vanligt.",
+        "modified": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "c0bc2b2d-2239-4d9c-bc55-44ac3fed1334"
+      },
+      {
+        "created": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "display_value": "Putin hade redan flera dagar innan aviserat \"militära specialoperationer\". Och det var så märkligt att ingen verkade bry sig. Svenska freds skrev en otroligt pinsam debattartikel om hur hemskt det vore om Kiev skickade en atombomb på Moskva.... Som om det var det som var risken. \n\nOch sedan rullade det på, och när Putin invaderade så var det det enda som alla talade om.",
+        "modified": "Mon, 11 Apr 2022 21:34:00 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "79b5e9d0-97c9-4eb1-baad-1d6da1d5dbea"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

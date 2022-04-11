@@ -4400,6 +4400,22 @@
           56.665
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är fruktansvärt. Och samtidigt så märkligt att alla fram till nu bara vänt bort blicken. Georgie…",
+        "date": "11 april 2022",
+        "author": "Kaisa Vallas",
+        "url": "https://minnen.se/tema/krigetiukraina/19326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }
