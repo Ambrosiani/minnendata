@@ -34231,5 +34231,143 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00452",
+    "contributor": {
+      "display_name": "Martin von Wendt"
+    },
+    "created": "Tue, 12 Apr 2022 16:04:41 GMT",
+    "image_dms_id": "013Akt2WNLet",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 12 Apr 2022 15:45:50 GMT",
+        "description": "Easy hypnos",
+        "dms_id": "013Akt2WNLet",
+        "image_height": 2280,
+        "image_ratio": 0.47368421052631576,
+        "image_width": 1080,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 12 Apr 2022 15:45:50 GMT",
+        "name": "inbound1813416787593322780.jpg",
+        "order_by_number": 1,
+        "owner": "Martin von Wendt (Martin fånn Vent)",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "4f20d952-0c6e-4473-996d-59bd0c0ceefe"
+      }
+    ],
+    "modified": "Tue, 12 Apr 2022 16:04:41 GMT",
+    "position": {
+      "latitude": 61.92410999999999,
+      "longitude": 25.748151
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19329",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "c8cc1593-3cc2-466d-a101-286c610b39bf",
+    "values": [
+      {
+        "created": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "display_value": "2022 Martin von Wendt (Martin fånn Vent)",
+        "modified": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "cf029d5c-2b94-4f06-a079-a415229300c0"
+      },
+      {
+        "created": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "display_value": "LÄTT HYPNOS",
+        "modified": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "656946a5-f430-41b0-b144-2de97714e3a2"
+      },
+      {
+        "created": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "display_value": "LÄTT HYPNOS",
+        "modified": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7935adf6-3b30-425f-97f3-a3a77b021f36"
+      },
+      {
+        "created": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "display_value": "LÄTT HYPNOS",
+        "modified": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d2698f20-4d6b-44bf-bc9a-deb6caeafe0d"
+      },
+      {
+        "created": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "display_value": "LÄTT HYPNOS",
+        "modified": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "7447f06b-5ed1-42bb-926d-6c5088a1f112"
+      },
+      {
+        "created": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "display_value": "https://youtu.be/GHddJnNo_BQ\nÄngelögon Hypnotiserar   ABBA sjunger \nJag kan utantill göra lätt själv hypnos hos tandläkaren och tål lätta smärta där \nOckså när jag hör på ordet HYPNOSTISERA \nnär som helst var som hälst   med HYPNOS \nDet är lätt men inte omöjligt & roligt tillstånd !\nJag kan tala och höra svenska språket finska språket inte engelska språket i när jag är i hypnos   Hur jag gjorde i början var att jag koncentrerar mig på någon fixpunkt med ögonen och lät tankarna själv komma och själv går bort   jag sover inte   jag är klar vaken & kan hava ögonen öppna eller ögonen stängda   jag blir inte påverkad av vad andra SÄGER & GÖR \nDet finns CD skivor och videor & YouTube som kan hjälpa NYBÖRJAREN SJÄLV HYPNOS \nOm du vill försöka lätt själv hypnos gör så som jag gjorde här uppe   Det fungerar med första gången   LYCKA TILL   Det verkar svårt men är inte omöjligt   Du tål bättre smärta där du tror att det kommer att göra ont i smärta   Hypnos",
+        "modified": "Tue, 12 Apr 2022 16:04:41 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "7b8ca897-e36a-4c18-9659-d08c484f569a"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
