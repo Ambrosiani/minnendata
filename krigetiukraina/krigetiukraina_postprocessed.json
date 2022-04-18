@@ -34369,5 +34369,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00462",
+    "contributor": {
+      "display_name": "Jari Riikonen"
+    },
+    "created": "Mon, 18 Apr 2022 08:34:10 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 18 Apr 2022 08:34:10 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19339",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "deb71bd6-5633-41e6-9c1a-393e98b06c94",
+    "values": [
+      {
+        "created": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "display_value": "1960",
+        "modified": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "4b8d69ad-64b5-4852-9d1e-bc868e9171f7"
+      },
+      {
+        "created": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "display_value": "Jag var med under det kalla krigets dagar och trodde då när muren föll att världen äntligen lärt sig något. Nu är vi tillbaka till den tiden sorgligt nog",
+        "modified": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "a1fabfff-5b35-4806-96d1-e388c04ab016"
+      },
+      {
+        "created": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "display_value": "Jag är född i Finland men har bott hela mitt liv i Sverige. Mina släktingar och föräldrar upplevde andra världskrigets fasor. De såg hur ryssarna bombade finska städer. De upplevde också motståndsviljan hos ett litet folk som slåss för sin överlevnad som en fri stat. Den känslan kan jag känna igen hos det Ukrainanska folket  Jag hatar med hela mitt hjärta det ryssarna gör i Ukraina. Vi är ett 70 tal anställda på mitt jobb. Jag är den enda som bär en T-shirt med Ukrainanska flaggan på. Jag försöker avskärma mig från kriget,men det första jag gör på morgonen är att kolla vad som hänt i Ukraina och det är det sista jag gör på kvällen",
+        "modified": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "68084828-4acf-4ee1-8329-dba7b98e1f47"
+      },
+      {
+        "created": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "display_value": "Jag hoppas att Ukraina kastar ut ryssarna så det blir fred. Dessvärre har världsordningen rubbats och den stora satan är Ryssland som vill lösa allt med vapenmakt.  Det blir aldrig som förut. Och det gäller att vara beredd på det värsta",
+        "modified": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "4226158d-2a1e-47cc-9b83-0388dd9b712c"
+      },
+      {
+        "created": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "display_value": "Kriget tar upp väldigt mycket av mitt liv. Det finns ingen ro i vardagen utan en hel del stress.  Hoppas ryssarna inte gjort några framsteg under natten.  Sådana tankar kommer upp mer eller mindre varje dag. Sen märker jag att allt har blivit mycket dyrare. Visserligen steg priserna redan före kriget.  Men det märks tydligare nu.",
+        "modified": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9ce104f9-62eb-4769-823a-12c74b3cbaa8"
+      },
+      {
+        "created": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "display_value": "Jag såg på nyheterna att det jag befarat en tid hade brutit ut. Nämligen att Ryssland överfallit Ukraina. En enorm ilska steg inuti mig. Det var så fruktansvärt fel det Ryssland gjorde. Jag skrev massor av inlägg på sociala medier. En före detta vän som är prorysk och som bor i Sverige försökte visa mig att det Ryssland gjorde var helt rätt. Hon skrev inlägg  om folkmord i Donbas,neofacister, fascister i Ukraina. Jag tror alla hennes vänner på bland annat Facebook skrev att de skämdes över att känna henne. Att det inte fanns något försvar för vad Ryssland ställde till med. Den före detta vännen gick ur alla sociala medier. Hatstormen var kompakt och lär så vara än idag",
+        "modified": "Mon, 18 Apr 2022 08:34:10 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "61938156-593f-4db6-aca7-6f20bd297609"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
