@@ -4416,6 +4416,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Fruktansvärt med ett krig i europa. Ryssarna beter sig precis som de gjorde under andra världskriget…",
+        "date": "19 april 2022",
+        "author": "Rose-Marie Bullerjahn",
+        "url": "https://minnen.se/tema/krigetiukraina/19340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.141,
+          60.675
+        ]
+      }
     }
   ]
 }

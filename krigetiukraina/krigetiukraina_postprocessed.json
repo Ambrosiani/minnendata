@@ -34476,5 +34476,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00463",
+    "contributor": {
+      "display_name": "Rose-Marie Bullerjahn"
+    },
+    "created": "Tue, 19 Apr 2022 06:42:30 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 19 Apr 2022 06:42:30 GMT",
+    "position": {
+      "latitude": 60.6748796,
+      "longitude": 17.1412726
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19340",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "4f636b06-c712-4046-b384-27e72a673a15",
+    "values": [
+      {
+        "created": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "display_value": "1942",
+        "modified": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "66339033-7d03-4e81-ae51-925e8b4b9577"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "display_value": "Världen har blundat för Rysslands aggresioner under två decennier.",
+        "modified": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "3c76d068-73c1-4eb6-946c-dbec41d7a838"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "display_value": "Fruktansvärt med ett krig i europa. Ryssarna beter sig precis som de gjorde under andra världskrigets slut.  Mördar, våldtar o förbort oskyldiga. Bränner ner och stjäl egendom som de skickar till sitt hemland.",
+        "modified": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e1fc884d-2b0a-4dbb-a4df-7ea361afb3cb"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "display_value": "När blir det fred eller kommer vi att bli indragna",
+        "modified": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "fa024bdd-02d8-46b3-b56b-0aefd2a02cdd"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "display_value": "Höjda mat o bensinpriser",
+        "modified": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "834261ed-bc68-4831-8979-e35ab1fdba78"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "display_value": "Via radio o tv",
+        "modified": "Tue, 19 Apr 2022 06:42:30 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "0ced0e0c-bae5-41cd-949c-6970c9dc34a0"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
