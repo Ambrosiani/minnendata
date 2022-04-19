@@ -76669,5 +76669,146 @@
       "latitude": 59.409672,
       "longitude": 17.924643
     }
+  },
+  {
+    "archive_code": "M1:2/00669",
+    "contributor": {
+      "display_name": "Liam"
+    },
+    "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19341",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "59347f9f-94f2-44d8-b907-89145b99611b",
+    "values": [
+      {
+        "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "display_value": "",
+        "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "bf1ebb97-12e1-40e3-8979-5f59705ba785"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "display_value": "",
+        "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "e840b29d-7a23-4795-950c-5794d58e5902"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "display_value": "124",
+        "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "7d24c139-b0e0-4bf3-be6c-58f15b938b76"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "display_value": "Livet i mitt hem - Liam 7b1\nHej\n Jag bor i en lägenhet som ligger i Västra Orminge. Lägenheten heter Ormingeringen 38 och det är ganska stor lägenhet. De som bor i min lägenhet är min mamma Marina, min mammas pojkvän Morgan, mina två hundar Lily och Maximus och min katt som heter Elvis. Jag har bott där ungefär i 9 - 10 år.\n\nNär man kommer in till hallen så ser man på höger sida massor av jackor och skor. På vänster sida så är det ett litet rum med  kläder. I köket så har vi ett köksbord i mitten. När man kommer in i köket så finns det på vänster sida en spis och en ugn. Sen bredvid spisen så har vi en diskbänk. Bredvid diskbänken så finns det ett bord med kryddor. \n\nI vardagsrummet så finns det ett fyrkantigt glasbord som står vid vår långa soffa. Vår teve sitter på väggen mittemot soffan. Så finns det ett långt rektangulärt bord \nsom står under teven. \nMin mammas sovrum ligger bredvid vardagsrummet. Hon har en teve som hon kan kolla på där inne. \n\nMitt rum ligger bredvid balkongs dörren och vardagsrummet. I mitt rum så finns det en byrå som ligger till höger om min dörr och en till vänster om min dörr. Båda de har kläder i sig. Min teve sitter ovanför min stora byrå. Min xbox ligger på min byrå. Sängen ligger mitt emot mina två fönster och bredvid min stora byrå. Sen har jag en matta som ligger i mitten av mitt rum. På mattan så står det en gamingstol. När man kollar ut ur mina fönster så ser man två st hus och några lägenheter. \n\nMitt badrum ligger bredvid hallen och där inne hade vi ett badkar, en spegel, en tvättmaskin. Vi har också tre hyllor med massor av krämer, parfymer, hårspray och hårgelé.\nDet finns fem rum i min lägenhet.\n\nJag sover i mitt sovrum som ligger vid min balkong.\n\nJag har ett eget rum och det är ganska fint där inne och lite stökigt.\n\nVad jag gör i mitt hem är att jag spelar i mitt rum. Sen brukar jag kolla på tv och då brukar det vara en film. Sen äter jag middag i vardagsrummet. Efter det så brukar jag duscha. Sen spelar jag lite till och sen går jag och lägger mig.\nJag har två favoritplatser. Den ena är mitt rum för att jag brukar spela med mina kompisar. Den andra är vardagsrummet för att vi brukar kolla på film.\n\nReglerna i mitt hem är att man får inte ha dålig attityd, inte skrika så mycket, inte säga fula ord till någon. Jag har inte så jättemycket regler men de där är de som är hårdast. Om jag bryter mot de så får jag inte spela på en vecka.\n\nJag brukar hjälpa min mamma med att slänga skräp och städa lite i vardagsrummet. Jag brukar städa i mitt rum också. Ibland så hjälper jag till med maten.\n\nSlut.",
+        "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "b969fd78-e880-44bd-81b3-d7a3992fe236"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "display_value": "",
+        "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "78a3e09b-9699-49b4-8fc3-deaa1e769f4a"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "display_value": "",
+        "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "732578de-cdfa-4adc-87f0-831806967f3f"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "6a11c03e-1398-408a-a035-12c6bd522ef8"
+      },
+      {
+        "created": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "display_value": "",
+        "modified": "Tue, 19 Apr 2022 13:59:52 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "1a93865d-9907-4499-9b10-e147e64dc906"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
   }
 ]

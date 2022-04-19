@@ -6016,6 +6016,22 @@
           59.409672
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Livet i mitt hem - Liam 7b1\nHej\n Jag bor i en lägenhet som ligger i Västra Orminge. Lägenheten heter…",
+        "date": "19 april 2022",
+        "author": "Liam",
+        "url": "https://minnen.se/tema/mitthem/19341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
     }
   ]
 }
