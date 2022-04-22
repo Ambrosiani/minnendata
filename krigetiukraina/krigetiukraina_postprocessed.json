@@ -34698,5 +34698,227 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00471",
+    "contributor": {
+      "display_name": "Gustav"
+    },
+    "created": "Fri, 22 Apr 2022 08:21:14 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 22 Apr 2022 08:21:14 GMT",
+    "position": {
+      "latitude": 59.291082244640585,
+      "longitude": 17.8048038482666
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19354",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "15fc239c-8ffa-4417-b042-ce5215bad8e0",
+    "values": [
+      {
+        "created": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "display_value": "2006",
+        "modified": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "a7cb39e2-6f1b-471a-a490-fe15fb382673"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "display_value": "Jag har fått en helt annan syn på hur säkerhetsläget är, detta är det mest spända som hänt hittills i Europa under min livstid och jag ser saker på ett helt annat sätt.",
+        "modified": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "6e174e77-16f2-4d6d-ae0a-5e7b7024bb9c"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "display_value": "Jag tycker att det är hemskt och att det är extremt att en sådan fruktansvärd ledare har kontrollen över ett land och förstör för så många miljoner människor.  Jag tycker att det är viktigt att stötta dom och att det är horribel situation i Europa.",
+        "modified": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "c15cec8f-ec59-4cb0-a8b7-9a3edb173bf5"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "display_value": "Jag tror att mycket kommer ändras beroende på hur kriget slutar i Ukraina och man vet aldrig vad Putin gör härnäst.",
+        "modified": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d4b8e32e-be31-4b2d-877e-9e940cfff059"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "display_value": "Det är mycket prat om det, aktier går ner, fonder går ner annars påverkas inte jag så mycket.",
+        "modified": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "62296201-1b69-4720-8596-684d812f157a"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "display_value": "Jag var på prao på Dormy Golf och började tidigt och gick up vid 05:00 och kollade tidningen pga det spända läget och såg att dom hade gått in. Den påverkade inte mig personligt jätte mycket förutom att aktier och fonder gick ner.",
+        "modified": "Fri, 22 Apr 2022 08:21:14 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "4d020a6e-daf3-4423-86fc-6ed587440894"
+      }
+    ],
+    "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00473",
+    "contributor": {
+      "display_name": "Elev på Birkaskolan"
+    },
+    "created": "Fri, 22 Apr 2022 08:28:50 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 22 Apr 2022 08:28:50 GMT",
+    "position": {
+      "latitude": 59.28972465416578,
+      "longitude": 17.80397644726149
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19356",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "5d974109-6271-4cc6-8584-b2d8f9e97b0a",
+    "values": [
+      {
+        "created": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "display_value": "2006",
+        "modified": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "1fa37cda-2eb4-4702-bb48-b590d589e043"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "display_value": "Det är dåligt att omvärlden inte gjort mer för att stoppa den ryska invasionen, och inte helt stoppat import av rysk gas. Hade inte t.ex Tyskland avvecklat stora mängder av sin kärnkraft hade Europa säkert klarat sig utan den ryska gasen. Jag läste någonstans att omvärlden köper rysk gas för lika mycket pengar varje dag som de gett i stöd till Ukraina sen kriget började! Det är helt sjukt att detta kan fortsätta!",
+        "modified": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "63270af2-6f89-4e4f-a837-762745a6d3ec"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "display_value": "Jag tycker att det är mycket ondskefullt av Putin att invadera ett annat suveränt land, och hoppas att Ryssland kan försöka få fred med Ukraina. Jag har dock hopp om att Ukraina kan stå emot den ryska imperialismen och klara sig. Jag hoppas att Ukraina en dag också kan återuppbyggas till en modern nation.",
+        "modified": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "15d296e3-f292-4037-b978-7155af366445"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "display_value": "Jag tror att när man lär sig om kriget i framtiden så kommer folk att fråga, varför man inte gjorde mer? Jag hoppas att det inte blir så, man jag har låga hop om att man i framtiden inte kommer säga att man inte gjorde tillräckligt.",
+        "modified": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "08b92f01-d661-4d7c-929a-a65662d5d101"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "display_value": "Själv har jag inte påverkats särskilt mycket, förutom att bensin och andra produkter har gått upp i pris.",
+        "modified": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "6c7025fe-d53d-4f0f-aa3a-4ec6b6accda7"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "display_value": "Jag läste i nyheterna på min telefon när jag hade rast på min prao att de ryska trupperna som länge byggts upp vid gränsen nu gick in i en fullskalig invasion. Jag blev inte särskilt förvånad, särskilt att Ryssland erkänt Donetsk och Luhansk som självständiga stater, men jag blev inte särskilt rädd, då jag inte såg det som ett militärt hot mot Sverige, vilket jag tror ändå mindre nu när Ukraina lyckats trycka tillbaka ryssarna på vissa håll.",
+        "modified": "Fri, 22 Apr 2022 08:28:50 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "ebbe233e-cbf8-4f92-936f-1b082b037402"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

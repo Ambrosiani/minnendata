@@ -4448,6 +4448,38 @@
           59.602
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker att det är hemskt och att det är extremt att en sådan fruktansvärd ledare har kontrollen …",
+        "date": "22 april 2022",
+        "author": "Gustav",
+        "url": "https://minnen.se/tema/krigetiukraina/19354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.805,
+          59.291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker att det är mycket ondskefullt av Putin att invadera ett annat suveränt land, och hoppas a…",
+        "date": "22 april 2022",
+        "author": "Elev på Birkaskolan",
+        "url": "https://minnen.se/tema/krigetiukraina/19356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.804,
+          59.29
+        ]
+      }
     }
   ]
 }
