@@ -35031,5 +35031,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00477",
+    "contributor": {
+      "display_name": "F Nilsson"
+    },
+    "created": "Fri, 22 Apr 2022 20:19:21 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 22 Apr 2022 20:19:21 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19360",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "06672e50-9302-4a4f-b5cb-cf980b690e46",
+    "values": [
+      {
+        "created": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "display_value": "1978",
+        "modified": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "cdb548e5-90ec-472c-bf67-df598696e7b1"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "display_value": "Världen går nu in i en mycket mörkare fas efter 70 år av relalativt lugn.",
+        "modified": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "af2981bc-f47b-4ac7-9861-e74d479b85ca"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "display_value": "Invasionen av Ukraina markerar en korsväg i historien av samma dignitet som Berlinmurens fall. Om västvärlden tillåter diktaturen Ryssland vinna i Ukraina kommer även andra diktaturer, med Kina i spetsen, snart att bete sig på samma sätt. Om kriget inte leder till en fullständig seger för Ukraina kommer världen att bli en avsevärt mörkare plats än den varit de senaste tre decennierna. En mörkrets järnaxel kommer att växa fram mellan Ryssland och Kina och den kommer att göra sitt yttersta att söndra och härska även över den fria världen. Regionala stormakter som Brasilien, Indien, Turkiet, Argentina och Sydafrika kommer agera opportunistiskt och stötta den sida som för stunden verkar starkast, vilket kan leda till katastrofala dominoeffekter om mörkret tillåts växa sig gör starkt.",
+        "modified": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "0d33d6fb-3e1f-4907-9ea1-5cfff2543391"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "display_value": "Det är roligare att ha rätt när man gör optimistiska förutsägelser, men om man är alltför naiv och aldrig ser saker komma förrän det är för sent går det inte heller att förbereda sig effektivt. \n\nOm framtiden inte ska bli mörkare än nödvändigt behöver vi agera nu! Gå med i Nato, rusta upp försvaret, ge massivt militärt stöd till Ukraina, bygg nya kärnkraftverk och fasa ut fossila bränslen snarast.",
+        "modified": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b8a11ec7-655b-4367-90e4-06401213b653"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "display_value": "Framförallt under krigets första veckor stöttade jag min Ukrainska exflickvän och det var en stor lättnad när hennes föräldrar lyckades fly från Kiev till Sverige. Jag har också kontinuerligt lagt mycket engagemang på att bilda opinion och bidra till humanitära insatser.",
+        "modified": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "fe45ffef-35cd-4e90-aa9a-114c3fa2347e"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "display_value": "Ryssland hade under ett års tid gradvis ökat hoten mot ukraina och alla tecken tydde på att Ryssland, med Kinas tysta stöd, skulle genomföra en fullskalig invasion från tre väderstreck omedelbart efter OS i Kina. \n\nTvå månader innan invasionen började jag aktivt kontakta svenska beslutsfattare, inklusive politiker från alla Svenska politiska partier, för att be dem att stötta Ukraina och proaktivt öka den svenska försvarsförmågan. Ingen utom folkpartiet svarade, vilket skapade en påfallande känsla av vanmakt. \n\nNatten då invasionen inleddes var jag så övertygad om de närmaste timmarna skulle bli kritiska att jag höll mig vaken till efter kl 0400 för att se om mina förutsägelser stämde. Tyvärr gjorde de det. Jag kände en stark sorg över det väntande blodbadet, intensiv vrede mot tyrannen Putin, bestörtning över västmakternas bristande stöd till Ukraina och trötthet över regeringen sedvanliga inkompetens och saktfärdighet.",
+        "modified": "Fri, 22 Apr 2022 20:19:21 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "211f163d-4a5f-4794-baa5-904081b1f921"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

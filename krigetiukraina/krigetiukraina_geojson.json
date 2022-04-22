@@ -4496,6 +4496,22 @@
           59.291
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Invasionen av Ukraina markerar en korsväg i historien av samma dignitet som Berlinmurens fall. Om vä…",
+        "date": "22 april 2022",
+        "author": "F Nilsson",
+        "url": "https://minnen.se/tema/krigetiukraina/19360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }
