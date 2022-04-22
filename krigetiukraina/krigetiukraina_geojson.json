@@ -4432,6 +4432,22 @@
           60.675
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Rysslands agerande har länge varit hotfullt och det är obegripligt att man inte har gjort mer tidiga…",
+        "date": "22 april 2022",
+        "author": "Johan",
+        "url": "https://minnen.se/tema/krigetiukraina/19351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.731,
+          59.602
+        ]
+      }
     }
   ]
 }

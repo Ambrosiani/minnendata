@@ -34587,5 +34587,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00468",
+    "contributor": {
+      "display_name": "Johan"
+    },
+    "created": "Fri, 22 Apr 2022 06:18:50 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 22 Apr 2022 06:18:50 GMT",
+    "position": {
+      "latitude": 59.60164577968741,
+      "longitude": 13.730545346231953
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19351",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "c3546330-26e9-40a9-a8a1-e4bdc588ce14",
+    "values": [
+      {
+        "created": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "display_value": "1984",
+        "modified": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e9854fde-88e5-441c-a8f9-9a46c14addb5"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "display_value": "Det är ostabilt i världen och det är svårt att sia om vad som kan komma att hända. Men magkänslan säger att detta kommer sluta mycket illa.",
+        "modified": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "259d41eb-e040-416b-8e96-5946d62b551a"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "display_value": "Rysslands agerande har länge varit hotfullt och det är obegripligt att man inte har gjort mer tidigare. Vi har en ny Hitler och vi fortsätter att tro att appeasement fungerar. Det hjälpte inte på 30-talet och det hjälper inte idag. Väst borde gå in och skydda Ukraina och isolera Putin. Det är helt absurt att vi fortfarande inte har slutat importera olja och gas från Ryssland. Hur ska vi dömas av eftervärlden?",
+        "modified": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "1b055a68-cdd9-41d1-af6f-c880fa014b32"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "display_value": "Jag trodde inte att vi var där vi är just nu. Trots att all information i världen  finns tillgänglig för alla så tycks vi vara enfaldigare än någonsin. Det är helt bisarrt. Men nu när generationen som upplevt världskrigen har dött ut så är det tydligt att vi har glömt så mycket och vi kommer säkert att behöva ett nytt stormig för att minnas vad det är som är viktigt.",
+        "modified": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f04d9387-b67e-4e19-92e9-96ac1d40374c"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "display_value": "Inte särskilt mycket egentligen. Dieseln är dyrare och priserna går upp, så vi får ändra lite på hur vi lever. Men vad fasen, det går inte att gnälla när Ukraina står ensamma mot ryssen.",
+        "modified": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "654fae1f-d48c-4350-b005-8de19119687e"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "display_value": "Jag jobbade natt och såg det nästan omedelbart på aftonbladet tidigt på morgonen. Det var nästan surrealistiskt då jag inte kunde tro att Putin kunde vara så korkad.",
+        "modified": "Fri, 22 Apr 2022 06:18:50 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "3935233e-d8ca-4a45-aac7-48dd05a93fb4"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
