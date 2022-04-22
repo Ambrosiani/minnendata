@@ -4480,6 +4480,22 @@
           59.29
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tycker att det är jättehemskt vad som händer. Det är så hemskt med alla oskyldiga människor i la…",
+        "date": "22 april 2022",
+        "author": "Julia",
+        "url": "https://minnen.se/tema/krigetiukraina/19358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.806,
+          59.291
+        ]
+      }
     }
   ]
 }

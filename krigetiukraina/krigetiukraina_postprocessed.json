@@ -34920,5 +34920,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00475",
+    "contributor": {
+      "display_name": "Julia"
+    },
+    "created": "Fri, 22 Apr 2022 08:38:34 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 22 Apr 2022 08:38:34 GMT",
+    "position": {
+      "latitude": 59.290849218292465,
+      "longitude": 17.805668819543726
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19358",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "f97c4c64-abf0-41dd-865d-d8073c576bbe",
+    "values": [
+      {
+        "created": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "display_value": "2006",
+        "modified": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "9516426f-ce77-49b8-9896-9478942b14a0"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "display_value": "Jag tycker att tillståndet i många delar av världen och samhället är väldigt sjukt och att det fortfarande pågår hemska saker som påverkar människor, exempelvis svarta eller minoriteter. Att det fortfarande sker i dagens samhälle 2022 känns så konstigt och hur vi inte har kommit längre i samhället, speciellt efter hur historien har utspelat sig. Att vi inte har lärt oss mer av historien och att det fortfarande finns många länder där en ensam diktator kan styra ett helt land och utsätta människor för sånna hemska saker. \n\nDet är så oroligt i så många delar av världen och krigen som utförs är så himla onödiga tycker jag. Det är så konstigt att en person kan ha auktoriteten att förstöra för så många människor.",
+        "modified": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0c906086-2a84-4654-9c47-a9503c56f254"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "display_value": "Jag tycker att det är jättehemskt vad som händer. Det är så hemskt med alla oskyldiga människor i landet som drabbas och tvingas lämna eller förlora sin familj. Det känns också så oväntat att det faktiskt skulle bli ett riktigt fysiskt krig med trupper som kommer in i landet och bombar. Även att det är i Europa och så nära Sverige, speciellt om Ryssland kommer längre. Det är läskigt.",
+        "modified": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "94e8b7d5-f40e-4b13-9ee8-adfa65f80169"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "display_value": "Jag hoppas verkligen att Putin misslyckas inom en snar framtid och får konsekvenser för hans handlingar, och att människorna i Ukraina kan få rättvisa. Om detta dock kommer hända är svårt, förhoppningsvis kommer det ske men vem vet. Jag är dock väldigt orolig över att Putin ska kunna komma längre och att eventuellt invadera Gotland. Det hade också varit riktigt hemskt och irriterande om det skulle ske ett kärnvapenkrig eftersom det skulle kunna utplåna hela våran jord och all intellegent liv som har utvecklats över flera miljoner års tid försvinner.",
+        "modified": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "5b2a8328-65d6-4971-bf14-c12e9844d1f9"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "display_value": "Min familj har påverkats på grund av att inflationen har ökat. Räntorna stiger så mycket och när vi då ska lägga om lånen kommer de stiga riktigt mycket. Detta har resulterat i att vi är tvungna att sälja våran extra lägenhet som min storasyster skulle kunna ta över i framtiden och jag och mina kompisar kan vara där mycket. Vi har ändå haft tur i situationen eftersom vi har det bra ställt, men de ökande priserna påverkar oss såklart ändå.",
+        "modified": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "0de8327b-e5cb-4f90-a7a8-dcb36cfd3369"
+      },
+      {
+        "created": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "display_value": "Min kompis skickade en video över Snapchat när hon nämnde invaderingen och sa att hon var så arg och rädd över vad som hade hänt. Jag brukar själv inte kolla på nyheter och fick därför reda på det genom min kompis och sedan pratade vi i familjen om det under middagen.",
+        "modified": "Fri, 22 Apr 2022 08:38:34 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "4b47ecff-2198-4193-b338-6c0f8fc0879c"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
