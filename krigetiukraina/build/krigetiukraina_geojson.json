@@ -4512,6 +4512,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Idag har kriget i Ukraina pågått i 2 månader och vi ser hur de ryska trupperna, under ledning av Put…",
+        "date": "25 april 2022",
+        "author": "Ajnos47",
+        "url": "https://minnen.se/tema/krigetiukraina/19362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.796,
+          57.366
+        ]
+      }
     }
   ]
 }

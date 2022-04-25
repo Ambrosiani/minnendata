@@ -35142,5 +35142,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00479",
+    "contributor": {
+      "display_name": "Ajnos47"
+    },
+    "created": "Mon, 25 Apr 2022 09:58:58 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 25 Apr 2022 09:58:58 GMT",
+    "position": {
+      "latitude": 57.365860549317375,
+      "longitude": 14.7963036614418
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19362",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "1b2c1625-4355-423d-8f81-ab30e4e4a181",
+    "values": [
+      {
+        "created": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "display_value": "1947",
+        "modified": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "4cd9516f-99b8-4650-8955-4b37737850db"
+      },
+      {
+        "created": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "display_value": "Jag lever ett stillsamt hemmaliv på grund av sjukdom och påverkas inte så mycket av det som händer just nu...  Inte heller märker jag av så stora förändringar i övriga samhället, men det finns en oro hos människorna över vad som komma skall. \n\n Politiskt sett lever vi i en turbulent tid, de olika partierna tävlar om att ha de bästa alternativen för framtiden, det är ju valår! Dessutom har ju frågan angående medlemskap i NATO blivit högaktuell, med många åsikter för eller emot. De flesta är väl oroliga över hur fortsättningen ska bli i den rådande krigssituationen och hur Putins Ryssland kommer att agera framöver. \n     Det gäller nog också Europa i stort... Det är val i många länder och därmed kommer olika intressekonflikter i dagen, som kan bygga på den allmänna otryggheten i länderna. Kriget i Ukraina färgar stämningarna i alla länder.\n     Naturligtvis finns dessa känslor över hela världen, men ju längre bort från Europa man lever desto mindre påverkan i stort. Så är det ju i alla konflikter...\n     Jag tycker att jag inte hör samma hårda ordväxling mellan världens länder sedan kriget utbröt i Ukraina, man väljer sina konflikter, dämpar sig hellre än går fram med bastoner.",
+        "modified": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "185e4ef0-b8ff-4c32-971d-c49530d3cbce"
+      },
+      {
+        "created": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "display_value": "Idag har kriget i Ukraina pågått i 2 månader och vi ser hur de ryska trupperna, under ledning av Putin, totalt raserar stad efter stad utan hänsyn till människorna som bor där. Oskyldiga människor lemlästas och dödas och lämnas kvar på gatorna. Rena avrättningar förekommer också enligt ögonvittnen!                                                      \n\nBostadshusen har stora genomgående hål och är i stort sett obeboeliga, en del lägenhetshus som attackerats har också brunnit och bitvis rasat samman.  Jag läste om en händelse i ett hyreshus; En kvinna hade lämnat sin lägenhet och gått till en granne, strax därefter hade huset beskjutits och just denna kvinnas lägenhet blev helt utblåst - endast ett stort hål återstod. Vilken fasa att uppleva detta...\n\nDenna hänsynslöshet och råhet som utspelar sig i Ukraina är helt fasansfull och obegriplig, HUR kan civiliserade människor uppträda på detta sätt? Att invadera ett fredligt land, dessutom ett broderfolk, bara av maktlystnad är för mig helt obegripligt! Det måste finnas sjukdom eller galenskap bakom detta, ingen normalt tänkande människa kan göra något sådant!! Jag är FÖRTVIVLAD...",
+        "modified": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "b30995f0-2008-404e-8863-3a60c7473632"
+      },
+      {
+        "created": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "display_value": "Den trygghet som jag alltid har känt genom hela mitt 70-åriga liv tror jag inte kommer att finnas kvar, en större oro inför morgondagen ligger kvar framöver... Det trygga, behagliga \"landet lagom\" har bytts till ett mera oförutsett Sverige. \n\nDen största frågan är \"kommer ryssen\" eller får vi leva fredligt i Sverige även i fortsättningen!",
+        "modified": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "2288a3e3-31b2-48bb-acdf-6356b480bfda"
+      },
+      {
+        "created": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "display_value": "Just nu påverkas vi mest känslomässigt - en viss rädsla för vad som ska följa på detta övergrepp, vem står på tur härnäst?\n     Stora prishöjningar på bränsle för uppvärmning och transporter drabbar oss alla, det gäller att ändra på vårt sätt att leva. Även livsmedelspriserna ökar och kommer förmodligen att öka ännu mera, kanske kommer det att bli brist på livsmedel enligt experterna. Det känns oroande - något sådant har vår generation aldrig upplevt tidigare. \n     Mest oroande är väl de hackerattacker mot samhället som ständigt pågår enligt experter, om dessa eskalerar och slår ut funktionerna i vårt samhälle blir det katastrof! Vårt land hör väl till de mest datoriserade länderna, som våra politiker säger: Vi ligger i framkant. - alltså är vi extra känsliga och påverkbara på alla punkter.",
+        "modified": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "b506ec9d-5da8-42e8-a1fa-21318350a37f"
+      },
+      {
+        "created": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "display_value": "Det blev en chockartad upplevelse då jag på morgonen satte på radion för att höra de senaste nyheterna - ingen hade förväntat sig att Putins styrkor skulle invadera Ukraina. Allra minst jag, det fanns inte i min vildaste fantasi, år 2022 händer inte något sådant! INTE i Europa...",
+        "modified": "Mon, 25 Apr 2022 09:58:58 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "46fe84d3-1b6e-4dc9-b9da-34bd4b259e8c"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
