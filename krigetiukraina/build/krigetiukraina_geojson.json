@@ -4528,6 +4528,22 @@
           57.366
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Ge fan i Ukraina. Landet förtjänar sin självständighet, sin autonomi och rätt att betraktas som en e…",
+        "date": "25 april 2022",
+        "author": "Torngren",
+        "url": "https://minnen.se/tema/krigetiukraina/19363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.776,
+          60.622
+        ]
+      }
     }
   ]
 }
