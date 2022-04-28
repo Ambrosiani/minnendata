@@ -35475,5 +35475,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00482",
+    "contributor": {
+      "display_name": "Tänkaren"
+    },
+    "created": "Thu, 28 Apr 2022 09:46:15 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 28 Apr 2022 09:46:15 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19468",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "be952901-5dfa-4f28-9c23-ba82a7108463",
+    "values": [
+      {
+        "created": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "display_value": "1972",
+        "modified": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "3bdcd0e2-23ce-47b6-aec6-56aa5744e979"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "display_value": "Jag är förskräckt över det som händer. Så väldigt ledsen över det som händer och det hemska lidandet och alla förluster av liv hälsa men även egendom och liknande som ukrainarna behöver uthärda. Samtidigt är jag stolt över hur driftiga, hjälpsamma och modiga länderna i deras närområde är. Stolt över hur aktiva och hjälpsamma svenskar är. Jag känner många som har åkt till Ukrainas gräns och lämnat mat, kläder och mediciner - sedan tagit med sig flyende kvinnor och barn tillbaka till Sverige. Massor med företag donerar, lånar ut sin utrustning, erbjuder sina tjänster gratis till flyende ukrainare och de som hjälper dem. EU samarbetar - oväntat snabbt, hela västvärlden enas och väldigt många öppnar t o m sina hem för ukrainare och deras husdjur. Själv försöker jag varje dag sammanföra personer som flyr med sådana kom kan hjälpa. Hjälp med tolkning, saker, transporter, bostad, jobb osv. Jag har skänkt pengar flera gånger genom olika kanaler och tänker även skänka mat, medicin och hygienprodukter via Postens tjänst snart.",
+        "modified": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "1cd457f3-892f-4a6a-a534-ec344ad7490a"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "display_value": "Det är helt fruktansvärt. Ryssarna beter sig som svin och Putin bryr sig 0 om vad människor tycker om vad han gör. Jag är förtvivlad över det lidande Ryssland orsakar p g a att de är så makthyngriga. Jag önskar mig att Ukrainas president med familj ska klara sig och leva ett långt och lyckligt liv, att ukrainarna ska kunna behålla hela sitt land och att kriget och det ohyggliga lidandet med de ryska styrkornas terror och våldtäkter och tortyr ska upphöra väldigt snart. Jag tycker verkligen synd om de ryssar som inte önskar detta och som protesterar även om det är farligt men jag hör så väldigt många ryssar som hejar på när de hör om hur ukrainarna torteras och våldtas, hur ryssarna i Ryssland vet och hånfullt önskar ukrainarna att plågas, jag ser rent tekniskt hur ryska soldater stjäl dyra föremål av sina offer och skickar hem dessa till Ryssland, jag kan t o m se vilka mottagarna är, vad de heter, deras adresser och telefonnummer... Många bor i Moskva, vissa på Olof Palmes gata. Jag kan inte låta bli att känna en väldigt, väldigt stark aversion mot ryssar om jag inte vet med säkerhet att just den individen motarbetar Putin.  Jag är väldigt överraskad och extremt imponerad av ukrainarnas mod och styrka. Även av att omvärlden hjälper dem. Allt mer tyder på att det inte bara var några delar i östra Ukraina som Ryssland ville ha, utan fler länder. Jag är hemskt ledsen över det som ukrainarna behöver uthärda, det är omänskligt och även om jag förväntade mig att ryssarna skulle vara barbarer är de mycket värre rent djuriskt än jag trodde. Samtidigt är ryssarna mycket klantigaste och mindre intelligenta och mindre välutrustade än vad jag hade trott.",
+        "modified": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "bdcac55d-f4dc-4315-8112-126855e9a096"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "display_value": "Jag är väldigt oroad över framtiden. Det jag önskar är att kriget ska ta slut snart, att världen tillsammans kan hjälpas åt att bygga upp det som Ryssland har förstört till smulor, så gott det är möjligt. Att Ryssland ska delas upp i många delar för att inte utgöra ett lika stort hot framöver mot omvärlden. Uppdelas enligt etniskt logiska gränser och få lämna tillbaka land de stulit historiskt från andra länder och deras möjlighet att ha en stor armé och farliga vapen såsom kärnvapen ska förhindras. Vad jag oroar mig för är att de ska fortsätta glufsa i sig land efter land som motsätter sig att ge upp sitt självstyre tills en situation uppstår då trycket från USA/NATO är så stort att de inte kan vinna och att ryssarna inte kan tänka sig att ge sig utan istället starta ett kärnvapenkrig som resulterar i att stora delar av världen blir hemska att leva i. Jag tror att det är möjligt att Europa förstörs och att det inte går att leva i Stockholm utan att bara de som har flytt eller hinner fly till glest befolkade områden klarar sig och att de bekvämligheter vi är vana vid som internet och en varierad spännande kost året runt kommer vara ett minne blott.",
+        "modified": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b1e05566-1fc8-41ee-ad64-212ee35b0cb6"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "display_value": "Många saker blir dyrare som mat och energi. Än så länge har jag god inkomst och gott om jobb och allt jag behöver kan jag få tag på utan problem. Men jag är väldigt orolig över att kriget ska eskalera och tänker på det många gånger varje dag. Jag bygger långsamt upp ett matförråd hemma för att klara mig ett tag om det skulle bli allvarliga problem här. Jag skulle kunna leva helt som vanligt en vecka utan att handla något, relativt mekvämt men lite trist en månad och överleva i flera månader utan tillförsel av mat. Jag har hygienprodukter för flera månader, vattenbehållare (ej fyllda) för att klara mig kanske uppåt en vecka utan vatten i kranen, medicin, smärtstillande och liknande för att klara ett tag. Hygienservetter, radio som kan drivas utan el. Uppladdade elbanker och flera batterier, tillgång till en bil som inte är min men som jag kan ta i nödfall och har nycklarna till och som står i min bostad, tankad. Jag har tänkt göra mig mindre beroende av el för att kunna värma upp bostaden och laga mat, men har inte hunnit ta itu med det. Jag tror inte att Sverige och verkligen inte svenskarna klarar sig bra vid allvarliga störningar i leveranser av förnödenheter och bekvämligheter. Jag och mitt hushåll använder extremt lite transporter av oss själva, nästan bara till fots och med cykel och hoppas att därmed belasta förbrukningen av drivmedel minimalt, för att inte hjälpa Ryssland och inte driva upp priser för väst om det inte är nödvändigt. Jag är mycket oroad över framtiden men tror att vi, genom att vara flexibla och uppmärksamma skulle klara oss bättre än de flesta.",
+        "modified": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9737fed5-b95f-4c5d-8c44-e4a5ea9594fc"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "display_value": "Jag hade just vaknat på morgonen. Låg fortfarande i sängen och läste nyheten i min mobil från någon kvällstidning om att nu har det börjat. Det jag hade väntat på (men verkligen inte ville skulle hända). Massor med ryska militärer hade stått beredda vid Ukrainas gräns i flera månader och Putin hade uttalat helt orimliga krav som gjorde det tydligt att han inte hade fredliga avsikter. Han sa att ryssarna var där föe en övning och att de snart skulle återvända till Ryssland men han har ljugit så mycket tidigare att jag lyssnade på hur han agerade och inte hans ord. Jag var helt säker på att han skulle invadera Ukraina, ha en mycket välberedd och välutrustad armé och med en supermakts styrka vinna över det mindre Ukraina mycket snabbt. Sedan nöja sig med några östra delar av Ukraina och det skulle vara över. Det gjorde mig arg och ledsen, jag tycker att Ukrainarna förtjänar sitt eget land och att Ryssland har en lång historia av att bara ta för sig och av att behandla invadera folk illa. Men det var ändå vad jag trodde skulle hända. Jag trodde inte heller att andra länder skulle hjälpa Ukraina, som inte är med i NATO eller EU alls. Däremot trodde jag att vi skulle fördömda Rysslands agerande, utsätta dem föe hårdare sanktioner, men de skulle inte bry sig.",
+        "modified": "Thu, 28 Apr 2022 09:46:15 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "52a442ff-8acb-4f96-a92d-bfac754613bc"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

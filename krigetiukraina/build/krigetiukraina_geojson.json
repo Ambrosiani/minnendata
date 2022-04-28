@@ -4560,6 +4560,22 @@
           55.555
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är helt fruktansvärt. Ryssarna beter sig som svin och Putin bryr sig 0 om vad människor tycker o…",
+        "date": "28 april 2022",
+        "author": "Tänkaren",
+        "url": "https://minnen.se/tema/krigetiukraina/19468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }
