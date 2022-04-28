@@ -4544,6 +4544,22 @@
           60.622
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "This war made me think a lot about society, history, humanity and about myself. From the first days …",
+        "date": "28 april 2022",
+        "author": "Sofia",
+        "url": "https://minnen.se/tema/krigetiukraina/19467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.087,
+          55.555
+        ]
+      }
     }
   ]
 }
