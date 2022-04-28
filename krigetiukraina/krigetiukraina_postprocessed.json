@@ -35697,5 +35697,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00484",
+    "contributor": {
+      "display_name": "Melin Gudrun"
+    },
+    "created": "Thu, 28 Apr 2022 21:25:06 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 28 Apr 2022 21:25:06 GMT",
+    "position": {
+      "latitude": 60.135798677984546,
+      "longitude": 15.410956228812926
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19475",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "647aee19-0d74-4cf3-a4ce-885c3401afb5",
+    "values": [
+      {
+        "created": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "display_value": "1961",
+        "modified": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "5c4ae398-0cb6-451e-942e-9e4c2bcbc2ae"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "display_value": "Det är en förvirrande känsla just nu. Ingen vet vad som kommer att hända. Våran \" skyddande\" lilla värld, som flera av oss lever i, förminskas för varje dag som går. Så fort jag sätter på tv-n eller radion, så talas det om kriget..Oron är stor över vad som händer. Det är viktigt att få reda på olika saker. Men samtidigt är det även spekulationer över vad som kanske kan hända. Det är som sagt oroligt på många håll i världen. Och alla länders ledare är inte heller på samma våglängd. Resurserna räcker snart inte till för oss alla. Och det är också något som i väldigt stor utsträckning påverkar våran hela existens. Utan till exempel rent vatten, kan vi människor, djur och växter inte leva. Det har och är ett enormt slöseri med våra resurser som vår jord har. Vi kunde annars ha levt i ett bra harmoniskt symbios med alla. Istället för att förinta oss själva helt I onödan.",
+        "modified": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ecd27054-9531-4460-ba8b-45649d61d96c"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "display_value": "En obeskrivlig känsla av bl.a maktlöshet och rädsla över hur allting blir att utveckla sig..Min morfar var ifrån Ukraina. Så jag känner extra mycket över vad som händer där nu. Tror att inom en snar framtid, så blir ingenting som det var innan Ryssland invaderade Ukraina. Och då menar jag för alla oss människor..Det förekommer krig på andra platser i världen. Och även hungersnöd, sjukdomar, våld och stora orättvisor. Klimatförändringarna plus Pandemier som avlöser varandra bidrar till slut till en stor påfrestning för hela mänsklighetens existens. Och till detta alla andra levande varelser och växter som vi är beroende av.  Man frågar sig varför detta måste ske?? Ingen gynnas av krig. Våld föder våld..",
+        "modified": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "d9c713fa-b4e2-4ab8-9ff1-96334202f054"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "display_value": "Den som lever får se...",
+        "modified": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "bc4ee3d9-89bb-4358-96d3-1b47739918d2"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "display_value": "Vi reagerar väldigt olika starkt på kriget.\nJag själv har bunkrat upp med förnödenheter så som t.e x mat, vattendunkar, powerbanks och förbandsmaterial. För mig känns det bra att vara förberedd utf något oförutsett händer. Jag värnar mycket om min egen familj, och vill skydda dom till varje pris..Jag hjälper nu en Ukrainsk familj med boendet, skolan, läkar och tandläkarbesök. Och ser till att kontakter knyts från denna familj till andra familjer i närheten som också är ifr Ukaina.  Jag försöker inte att tänka för mycket på allt som händer.  Det blir svårare att leva. Bl.a blir maten och drivmedel dyrare. Dom som har  det svårt idag ekonomiskt, får det ännu jobbigare att kunna få vardagen att gå ihop. Jag jobbar inom vården med svårt sjuka människor. Dessa personer skulle bli särskilt utsatta vid te.x en invasion av vårat land. Det är mycket tankar som  snurrar nu.",
+        "modified": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "3475a761-59ea-4173-9902-360b7c91f67e"
+      },
+      {
+        "created": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "display_value": "Jag blev både arg och ledsen över detta.  \nHade mina aningar om att Ryssland skulle göra något emot Ukraina. Men hoppades att de inte skulle ske..Vilket det \" tyvärr\" gjorde. Jag satt faktiskt med min ena arbetskollega och tittade på tv-n. Vi grät båda två..förstod att detta bara var början på någonting fruktansvärt..",
+        "modified": "Thu, 28 Apr 2022 21:25:06 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9a2f034b-b1e7-4cf4-afd5-3c7b53b70a2d"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

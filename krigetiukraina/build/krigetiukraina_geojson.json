@@ -4592,6 +4592,22 @@
           59.371
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En obeskrivlig känsla av bl.a maktlöshet och rädsla över hur allting blir att utveckla sig..Min morf…",
+        "date": "28 april 2022",
+        "author": "Melin Gudrun",
+        "url": "https://minnen.se/tema/krigetiukraina/19475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411,
+          60.136
+        ]
+      }
     }
   ]
 }
