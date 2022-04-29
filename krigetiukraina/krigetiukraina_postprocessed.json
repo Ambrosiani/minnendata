@@ -35919,5 +35919,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00486",
+    "contributor": {
+      "display_name": "Isak"
+    },
+    "created": "Fri, 29 Apr 2022 08:42:08 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 29 Apr 2022 08:42:08 GMT",
+    "position": {
+      "latitude": 59.85114559999999,
+      "longitude": 17.6064272
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19477",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b8c1a1bd-363e-4380-b54f-4a8ceb345ff1",
+    "values": [
+      {
+        "created": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "display_value": "2002",
+        "modified": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "1a0f3fbf-c316-4c1d-b4fd-0c651bb1c186"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "display_value": "Jag är ganska optimistisk, jag tror inte att kriget kommer spridas utanför Ukraina. Möjligtvis till Transnistrien och Moldavien, men inte längre än så. Ryssland har inte råd att strida på flera fronter när det går så dåligt i Ukraina. Jag tror definitivt inte att ett tredje världskrig kommer bryta ut.\n\nÄven om Putin på riktigt hade blivit galen, om han beordrar sina underlydande att skicka iväg atombomber, så tror jag inte de skulle lyda. Få vill ödelägga världen för att tillfredsställa en tyranns ego.",
+        "modified": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "592f8560-6502-4b25-aa5f-3494a0a39dab"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "display_value": "Det är naturligtvis hemskt. I början kände jag stor sympati för inte bara Ukrainas invånare, utan också de ryska soldater som uppgivit att de lurats, att de trott att det var en militärövning. I takt med att nyheter sprids om krigsbrott ryska soldater begår får jag svårare att känna för dem dock..\n\nPå sociala medier upplever jag att många förenklar den etiska diskussionen. Många anklagar Rysslands befolkning, och anser att de är skyldiga för konflikten i Ukraina. De tänker att regeringen är en avspegling av folkets vilja, och då blir ju folket ansvarigt över regeringen och dess agerande. Dessa personer har givetvis rätt i viss mån, men de glömmer att Ryssland är en korrupt diktatur. Dessutom demonstrerar många trots negativa påföljder.\n\nJag har sett filmer på ryska invånare som intervjuas på gatan som får frågor gällande deras inställning till konflikten. Alla är positiva till Rysslands aggression. Dessa filmer används av vissa för att svartmåla det ryska folket. De glömmer att videofilmerna kan vara selektiva, att de kanske väljer ut svar för att framhäva en agenda (att ryska medborgare är moraliskt förkastliga). Dessutom är det ryska folket väl medvetet om den potentiella bestraffningen ifall de talar illa om regeringen. Alltså finns sannolikt ett stort antal som är negativt inställda till Putin och Rysslands aggression som inte vågar eller kan säga emot, en grupp som inte märks.",
+        "modified": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "810d04cc-8d4e-4ada-9c2e-5ec3cb8a91d0"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "display_value": "Jag hoppas Ukraina vinner tillbaka Krimhalvön, att gränserna återställs, som innan 2014. I början var jag otroligt pessimistisk, jag trodde Ukraina skulle förlora snabbt. Men efter att de trots sin underordnade position varit framgångsrika tror jag på dem. Jag tror det finns en risk att kriget drar ut ett bra tag på Krimhalvön och i Donetsk och Luhansk.\n\nJag hoppas också att Putin avsätts, att den ilska stora delar av det ryska folket ger uttryck för med demonstrationer smittar av sig, och att de avsätter den nuvarande regeringen. Att landet Ryssland genomgår ännu en förändring i grunden, förhoppningsvis till det bättre på riktigt den här gången.\n\nNaturligtvis kommer Ukraina aldrig bli samma land igen. Invasionen är inte bara en katastrof i ekonomisk och kulturell bemärkelse, utan främst en humanitär katastrof. Detta påverkar såklart alla: det blir ett kollektivt trauma.",
+        "modified": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "04d22567-5035-4098-811f-47f29e15573c"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "display_value": "Min bild av Ryssland har förändrats. Förut tänkte jag på dem som en militär supermakt. Nu framstår militären som inkompetent och brutal. Jag har läst om läget i Ukraina på sociala medier varje kväll sedan invasionen. Jag pratar också mycket om det med min flickvän, men kanske inte riktigt lika mycket som jag vill, eftersom hon blir lite rädd när hon tänker för mycket på det. Jag följer främst konflikten genom källor som är vinklade till Ukrainas fördel, och ibland kan det vara svårt att veta vad jag faktiskt kan lita på. Jag försöker tänka källkritiskt, men jag tycker inte det gör så mycket ifall en del osanningar som gynnar Ukraina sprids, de behöver allt stöd de kan få i nuläget. I efterhand, i historieskrivningen och under återuppbyggandet av landet, då är det mer viktigt att reda ut vad som är sant eller falskt. \n\nJag bor i studentkorridor, och betalar inte för el, värme och vatten, så jag märker inte av ifall priserna på energi höjs i och med sanktionerna. Jag har dock märkt att priset på vissa varor har ökat en del, till exempel potatis har blivit lite dyrare. Det gör mig ingenting, jag hade varit beredd på att betala betydligt mer för att sanktionerna ska upprätthållas. Både jag och min flickvän har köpt matkonserver som ska räcka i flera dagar, även varsin vattendunk som rymmer trettiofem liter samt lite andra saker. Vi har tänkt köpa stormkök, men eftersom vi båda lever på CSN så har vi inte råd, utan får sprida ut inköpen över tid. Förra sommaren köpte jag en vevradio, då tyckte min flickvän att jag var galen. Nu är de slutsålda i princip överallt.\n\nJag känner viss skam över att jag bryr mig nu när krig sker i Europa, medan då krig sker på andra håll i världen bryr jag mig inte lika mycket. Jag har exempelvis inte läst på om läget i Afghanistan sedan augusti, när amerikansk militär lämnade landet.",
+        "modified": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "0518fe4d-d7ad-4fdf-a57d-50b663d9ec56"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "display_value": "Genom sociala medier. Lite innan hade jag hört om oroligheter mellan Ukraina och Ryssland, men trodde inte att det skulle eskalera. Jag tolkade det som ”normalt” beteende hos den ryska regeringen och dess militär.",
+        "modified": "Fri, 29 Apr 2022 08:42:08 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "f479db3b-c019-4bd6-bfdf-fa23c714663c"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
