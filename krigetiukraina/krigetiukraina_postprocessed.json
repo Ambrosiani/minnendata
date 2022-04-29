@@ -35808,5 +35808,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00485",
+    "contributor": {
+      "display_name": "Anna"
+    },
+    "created": "Fri, 29 Apr 2022 07:31:21 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 29 Apr 2022 07:31:21 GMT",
+    "position": {
+      "latitude": 58.828737255212594,
+      "longitude": 17.648352833366392
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19476",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b9298991-28c2-4397-a12b-08c4010b4542",
+    "values": [
+      {
+        "created": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "display_value": "1947",
+        "modified": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "49eb92df-0e7c-4179-a0c5-beddc2e15824"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "display_value": "Tillståndet i världen känns fruktansvärt osäkert och oroande - inte bara p g a Rysslands krig mot Ukraina utan också utvecklingen i USA med risk för att Trump får makten igen och alla människor med märkliga konspirationsteorier och alla skjutningar. Den påverkan ryssar och kanske också andra utsätter andra länder för genom internet är också väldigt oroande.  Splittringen inom EU där Ungern framför allt och även Polen inte accepterar allt som man där kommit överens om men stannar kvar är också ett kraftigt hot mot demokratin. Över huvud taget tycks demokratin i världen bli allt svagare. \n\nLäget i Sverige är ju också synnerligen problemfyllt. Jag är väldigt orolig för vad som kommer att hände i det kommande riksdagsvalet. Kommer de blåbruna till makten är det ju slut med demokratin också här - något jag under hela mitt tidigare liv inte trodde skulle kunna vara möjligt. Skjutningarna tycks inte minska och respekten för blåljuspersonal och dess verksamhet blir allt svagare i vissa grupper vilket vi såg inte minst under den gångna påsken. Sverige blir allt mer splittrat på flera sätt - dels genom att de rika blir rikare och de med små resurser blir allt fler, dels politiskt och kanske framför allt p g a att den bristande integrationen av flyktingar och andra invandrare framför allt från den muslimska världen har skapat ett utanförsamhälle med människor som på intet sätt känner samhörighet med det \"vanliga\" samhället. Här krävs enorma insatser för att vända utvecklingen och det pratas mycket om detta, men det verkar inte göras särskilt mycket.",
+        "modified": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f8a70b88-ede1-4a86-8e80-fbe162e67316"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "display_value": "Naturligtvis tycker jag det är fruktansvärt, ofattbart, vedervärdigt och alla andra negativa adjektiv man kan tänka sig. Men för mig är det omöjligt att förstå hur det verkligen är för dem som bor eller har lämnat Ukraina. För mig som aldrig upplevt krig utan bara sett på TV är det svårt att verkligen begripa hur det är för dem som är kvar, dem som lämnat och alla som förlorat anhöriga på detta meningslösa sätt.",
+        "modified": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7e80d923-e1c8-4a63-9455-f9729190c7f2"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "display_value": "Det jag mest tänker på är om Putin blir så desperat, eftersom  kriget inte vanns så snabbt och lätt som han tänkt sig, att han använder kärnvapen och vad det då kommer att leda till, d v s troligen ett tredje världskrig. Sedan är det nog slut (och då slipper vi uppleva den allra värsta tiden som klimatförändringarna kommer att leda till) och då kommer det inte att finnas någon som kan läsa våra minnen. Kanske det är lika bra att det slutar så, åtminstone för människans del för vi har förstört jorden genom att ta makten över den och låta så många lida, både djur och maktlösa människor.",
+        "modified": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "35021170-f42a-4fe9-8263-72372b7c1929"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "display_value": "Det på sätt och vis hemska är att livet för min man och mig och de flesta svenskar pågår precis som vanligt. Vi lever som vi gjorde innan kriget bröt ut. I början pratade vi mycket mom det, både med varandra och med vänner och bekanta, men det gör vi inte längre. Jag beundrar alla som rest ner till Ukraina eller polska gränsen för att hjälpa till, men jag är för feg och inte heller säker på att jag skulle kunna göra någon verklig nytta där. Jag dövar mitt samvete genom att skicka pengar till UNHCR, Läkare utan gränser, djurorganisationer m fl och min man och jag har skickat flera matpaket.",
+        "modified": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "486d5797-0f46-4a28-a8ac-142c6c4da643"
+      },
+      {
+        "created": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "display_value": "Min man berättade det på morgonen efter att han hört det på P!:s nyheter. Jag hade trott att det skulle hända vilket min man inte trodde, men naturligtvis hoppades jag att han hade rätt och jag fel. Det kändes väldigt overkligt och chockartat och jag kände mig uppgiven - som att detta var en vändpunkt i världshistorien och att det långa perioden av fred efter andra världskriget var slut. Samtidigt visste jag förstås att detta inte alls var sant, eftersom det varit krig någonstans i världen hela tiden. Kriget i forna Jugoslavien var ju lika nära och Ryssland har ju utsatt flera länder för aggressioner under senare år, men ändå kändes detta så mycket värre.",
+        "modified": "Fri, 29 Apr 2022 07:31:21 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "f39e4b6f-6cb2-4adb-a2bc-19fd3633ea66"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

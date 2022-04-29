@@ -4608,6 +4608,22 @@
           60.136
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Naturligtvis tycker jag det är fruktansvärt, ofattbart, vedervärdigt och alla andra negativa adjekti…",
+        "date": "29 april 2022",
+        "author": "Anna",
+        "url": "https://minnen.se/tema/krigetiukraina/19476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.648,
+          58.829
+        ]
+      }
     }
   ]
 }
