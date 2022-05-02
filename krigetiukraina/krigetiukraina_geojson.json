@@ -4640,6 +4640,22 @@
           59.851
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Idag är det den 2/5 2022, länge har vi haft reportage från våra största tidningar, internationell me…",
+        "date": "2 maj 2022",
+        "author": "Emil Lundell",
+        "url": "https://minnen.se/tema/krigetiukraina/19480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.579,
+          59.404
+        ]
+      }
     }
   ]
 }

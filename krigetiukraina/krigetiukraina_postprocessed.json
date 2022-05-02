@@ -36030,5 +36030,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00489",
+    "contributor": {
+      "display_name": "Emil Lundell"
+    },
+    "created": "Mon, 02 May 2022 18:47:40 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 02 May 2022 18:47:40 GMT",
+    "position": {
+      "latitude": 59.40371584888964,
+      "longitude": 13.579491539937662
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19480",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b7cbc874-48ae-4ddc-a5c7-dccfd1d5a6e6",
+    "values": [
+      {
+        "created": "Mon, 02 May 2022 18:47:41 GMT",
+        "display_value": "1990",
+        "modified": "Mon, 02 May 2022 18:47:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "ee5be138-9d4e-4b4b-b3cd-d42421d1a657"
+      },
+      {
+        "created": "Mon, 02 May 2022 18:47:41 GMT",
+        "display_value": "Det underliga är att bortsett från nyhetsrapporteringen så är livet precis som vanligt - så var det även under coronapandemin så länge man var frisk. Visst att det fanns restriktioner men man vande sig.\n\nBortsett från själva slagfälten och folkmordet i Ukraina (samt alla andra konflikter världen över) så lunkar världen på som vanligt. Det är institutionerna och politikerna som har bråda dagar att hantera kriserna, inte privatpersonerna. Hoten från politikerna är högljudda men jag tror inte att de vågar löpa linan ut och inleda ett tredje världskrig, om de gör det stannar det vid konventionella, kemiska och biologiska vapen inte kärnvapen (för i sådana fall blir hela världen en grushög).",
+        "modified": "Mon, 02 May 2022 18:47:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "816482af-4e13-4971-a505-b7b860d37df5"
+      },
+      {
+        "created": "Mon, 02 May 2022 18:47:41 GMT",
+        "display_value": "Idag är det den 2/5 2022, länge har vi haft reportage från våra största tidningar, internationell media från hela Europa och Al Jazeera om att ryska militären våldtagit barn, kvinnor och skjutit dem i ryggen eller bakhuvudet för att sedan dumpa dem i massgravar. \n\nDet är omöjligt att undgå informationen och vi vet med säkerhet att systematiska våldtäkter använts som vapen mot civilbefolkningen (från Butja har vittnesmål kommit att de ryska gärningsmännen uttalade att de skulle våldta kvinnorna så många gånger att det inte skulle bli några ukrainska barn i framtiden), att ryssarna utfört massmord på civila och att ryssarna urskillningslöst bombat civila mål för att skrämma befolkningen till underkastelse (s.k. terrorbombning). \n\nVi har hört Putins tal och sett de ryska ledarartiklarna om att alla som identifierar sig som ukrainare är nazister och att Ukraina ska ”avnazifieras” till vilket pris som helst, vi har även hört och läst Rysslands inställning att territoriet alltid varit ryskt och befolkningen ryssar och att Ukraina inte har existensberättigande eller självbestämmanderätt. Därutöver har vi fått rapporter om att barn mot sin vilja förts från Ukraina till Ryssland. Det handlar alltså inte bara om massmord utan rentav om folkmord.\n\nVi har utbildningen, vi har all information att tillgå och utredningen och att fälla dem för brotten är en rättsprocess för framtiden. Men hur långt ska det gå innan vi kallar en spade för en spade och ett folkmord för ett folkmord?\n\nJag förutspår att Ryssland aldrig kommer erkänna sina gärningar och att deras medlöpare i Sverige som mest kommer att påstå att de inte visste något. Det stämmer inte, de visste exakt vad som pågick men valde för sina sympatiers eller antipatiers att förneka och ljuga, eller blankt vägra att acceptera verkligheten. Ytterligare ett sorgligt kapitel i historien och svenskar är inte immuna mot desinformation, medlöperi och folkmordsförnekelse.\n\nJag ska agitera och bilda opinion tills Putin och hans anhang sitter i Haag i handbojor och ryssarna retirerat från Ukraina.",
+        "modified": "Mon, 02 May 2022 18:47:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "4dc2d456-0080-4929-9dc4-7f32f0ef1503"
+      },
+      {
+        "created": "Mon, 02 May 2022 18:47:41 GMT",
+        "display_value": "Jag tror inte Ryssland mäktar med att ockupera Ukraina eller förinta landet eller befolkningen. Jag tror även att vi går mot en ny finanskris tack vare sanktionerna mot Ryssland och prishöjningar på drivmedel och därigenom allt. Jag tror också att miljöpolitiken får sig en skjuts uppåt att göra sig oberoende av rysk olja, gas och kärnbränsle. Sanktionerna kommer knäcka Ryssland och leda till en liknande kris som vid Sovjetunionens kollaps. Regimskiftet kommer genom sanktionerna först och sedan kommer Ryssland inte röra sig mot demokrati, dock byta ut regimen och sedan liera sig tätare med Kina. Ukraina kommer däremot bli mer demokratiskt, så småningom gå med i EU och slutligen i NATO.\n\nSedan tror jag att EU, Japan och USA får tätare band medan Ryssland och Kina bildar en ny union och att Kina blir den ledande ekonomiska supermakten. Tack vare att den internationella rätten brutit samman kommer de att invadera Taiwan och leva rövare i sydkinesiska havet.",
+        "modified": "Mon, 02 May 2022 18:47:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "624eaff8-0c75-4186-a853-5a7f7704cfa3"
+      },
+      {
+        "created": "Mon, 02 May 2022 18:47:41 GMT",
+        "display_value": "Vi påverkas inte alls såvida vi inte väljer att läsa nyhetsartiklarna och uppdatera oss om läget. Prishöjningarna av kriget märks inte ännu. Eller om vi inte väljer att engagera oss i flyktingmottagandet.",
+        "modified": "Mon, 02 May 2022 18:47:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "b24cebeb-1028-4910-bac0-7066852f7630"
+      },
+      {
+        "created": "Mon, 02 May 2022 18:47:40 GMT",
+        "display_value": "Via pushnotiser från Aftonbladet. Det fick mig att läsa på och intellektuellt förstod jag händelseförloppet.",
+        "modified": "Mon, 02 May 2022 18:47:40 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "60a10904-922f-45c0-a17d-72183e1109dd"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
