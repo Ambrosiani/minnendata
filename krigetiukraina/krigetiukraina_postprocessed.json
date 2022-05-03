@@ -36252,5 +36252,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00491",
+    "contributor": {
+      "display_name": "Lotta Enberg"
+    },
+    "created": "Tue, 03 May 2022 08:40:38 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 03 May 2022 08:40:38 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19482",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d9decbe6-ae44-4abe-a01f-679f0853c251",
+    "values": [
+      {
+        "created": "Tue, 03 May 2022 08:40:38 GMT",
+        "display_value": "1957",
+        "modified": "Tue, 03 May 2022 08:40:38 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "8a667129-728f-4ee8-b3af-b52c75f30adc"
+      },
+      {
+        "created": "Tue, 03 May 2022 08:40:38 GMT",
+        "display_value": "Världsläget är så mycket osäkrare. Jag tänker på kommande generationer och i vilken värld de får leva i. På något sätt har vi gått tillbaka till 1930-talet och stämningarna som rådde då. Det är skrämmande. \n\nI Sverige känns vardagen, än så länge, stabil och trygg. Det är härligt att se hur hela västvärlden går samman och enigt fattar beslut. Putin och regimen i Kreml trodde att de kunde splittra Europa men på klassiskt vis fick Rysslands aggression mot ett västorienterat land rakt motsatt effekt.",
+        "modified": "Tue, 03 May 2022 08:40:38 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "843f52ab-e0cd-4e08-a595-f88d4b4224b6"
+      },
+      {
+        "created": "Tue, 03 May 2022 08:40:38 GMT",
+        "display_value": "Det är helt förfärligt med kriget i Ukraina. Det är så otidsenligt med krig år 2022. Till vilken nytta? Det känns som om vi är tillbaka på 1800-talet. Eller rättare sagt att Rysslands ledning tror att vi lever på 1800-talet. Att helt oprovocerat ge sig på ett land som bara vill leva i fred och frihet är ett så grovt brott att det inte kan beskrivas i ord. Det är så obeskrivligt sorgligt",
+        "modified": "Tue, 03 May 2022 08:40:38 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "3aaa80e3-f4e8-439c-a11a-e9a778e6e904"
+      },
+      {
+        "created": "Tue, 03 May 2022 08:40:38 GMT",
+        "display_value": "Jag hör till den lyckliga generation som föddes i slutet av 1950-talet och har fått leva hela mitt liv i fred och frihet. Nu har världen förändrats i ett enda slag och framtiden är väldigt oviss för kommande generationer. Jag hoppas att västvärlden och Europa kommer att förbli enade och tillsammans kämpa för alla människors frihet och rättigheter. Men jag tror att världen kommer att bli mycket mer polariserad. Det kommer att bli ett vi och dom.",
+        "modified": "Tue, 03 May 2022 08:40:38 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "3c273c3c-08e3-4612-87d5-3b5f56f90cb4"
+      },
+      {
+        "created": "Tue, 03 May 2022 08:40:38 GMT",
+        "display_value": "Kriget påverkar mig först och främst känslomässigt. Men rent konkret påverkas jag av att maten och energin blivit dyrare.  Det påverkar också mina planer vad gäller resor. Det var tänkt att jag tillsammans med min familj skulle ha åkt till St Petersburg men den resan är förstås inställd. Det är synd för jag har alltid längtat efter att få uppleva staden och dess fantastiska kultur. Nu lär jag inte komma dit, men det finns ju så många andra ställen att åka till. När kriget är över åker jag hellre till Kiev",
+        "modified": "Tue, 03 May 2022 08:40:38 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "3c29f76c-706d-49f6-800c-5abf3711c0da"
+      },
+      {
+        "created": "Tue, 03 May 2022 08:40:38 GMT",
+        "display_value": "Den 23 februari var jag tillsammans med en god vän på Scalateatern och såg en revy med bland andra Henrik Dorsin, Vanna Rosenberg och Johan Ulvesson. Det var en uppsluppen och väldigt trevlig kväll. På morgonen den 24 februari vaknade jag och var så glad över den lyckade kvällen. Jag slog på TVn för att se nyheterna och världen vändes upp och ner. Jävla Putin tänkte jag. Det kändes som om avgrundsdjupet öppnat sig framför mina fötter. Jag kommer ursprungligen från Helsingfors och mina föräldrar upplevde båda andra världskriget och mina tankar gick direkt till dem. De är båda döda och jag blev på något sätt glad över att de inte behövde uppleva detta igen.",
+        "modified": "Tue, 03 May 2022 08:40:38 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "11d2af94-d2d7-480a-b0f4-899f8c1a2135"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

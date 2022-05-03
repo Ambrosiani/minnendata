@@ -4672,6 +4672,22 @@
           60.459
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är helt förfärligt med kriget i Ukraina. Det är så otidsenligt med krig år 2022. Till vilken nyt…",
+        "date": "3 maj 2022",
+        "author": "Lotta Enberg",
+        "url": "https://minnen.se/tema/krigetiukraina/19482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }
