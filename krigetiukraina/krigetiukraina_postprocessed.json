@@ -36141,5 +36141,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00490",
+    "contributor": {
+      "display_name": "Jimmy Larsson"
+    },
+    "created": "Tue, 03 May 2022 07:33:47 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 03 May 2022 07:33:47 GMT",
+    "position": {
+      "latitude": 60.45871720089584,
+      "longitude": 14.950829075551031
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19481",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "3ad068e7-af75-42f7-9d83-04284e153210",
+    "values": [
+      {
+        "created": "Tue, 03 May 2022 07:33:47 GMT",
+        "display_value": "1958",
+        "modified": "Tue, 03 May 2022 07:33:47 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "96104b12-54d2-4dff-ab64-ae64d00c1b0e"
+      },
+      {
+        "created": "Tue, 03 May 2022 07:33:47 GMT",
+        "display_value": "I Sverige blir samhället allt mer polariserat. Den enorma invandringen, uppmuntrad av våra inkompetenta politiker under de senaste 20 åren, har skapat ett multietniskt proletariat, där allt grövre kriminalitet i olika former gror. Dessutom har denna migration skapat ett antal sk parallellsamhällen, områden där man inte varken kan eller vill bli en del av det svenska samhället, där man struntar i svenska lagar, där man hellre lyssnar på muslimska imamer än på svenska politiker, vilket är förödande för landet. \nRysslands invasion av Ukraina har gjort tillvaron mer otrygg, och att vi förhoppningsvis nu tillsammans med Finland går med i Nato på grund av ett allt aggressivare Ryssland känns som en nödvändighet.  Vi skulle aldrig kunna försvara oss mot en rysk attack, därtill är vi för få, och vårt militära försvar alldeles för litet.",
+        "modified": "Tue, 03 May 2022 07:33:47 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "b43221f0-b92d-4a70-ad96-ae9af1b473dc"
+      },
+      {
+        "created": "Tue, 03 May 2022 07:33:47 GMT",
+        "display_value": "Jag känner enorm  ilska och frustration,  att Ryssland ger sig på en fredlig granne militärt är oförlåtligt. Dessutom går man fram oerhört brutalt, man bombar urskillningslöst civila byggnader, torterar och mördar civila. Ofattbart egentligen. Jag hoppas dock att de ansvariga en dag ska få sona sina krigsförbrytelser, det folkmord och den etniska rensning som pågår i Ukraina.",
+        "modified": "Tue, 03 May 2022 07:33:47 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "74c6fb8a-b07f-4e6e-89c0-cfb1a3f94ccc"
+      },
+      {
+        "created": "Tue, 03 May 2022 07:33:47 GMT",
+        "display_value": "Vi kommer att gå med i Nato, vilket förhoppningsvis kan hålla oss utanför kriget.  Ryssland kommer på det ena eller andra sättet besegras. Gissningsvis blir det de ekonomiska sanktionerna i kombination med de oerhörda kostnaderna för kriget som till slut knäcker dem. Rysslands ekonomi har redan tagit nästan obotlig skada, och det kommer ta dem flera decennier att återhämta sig ekonomiskt. Vad som kommer efter Putins regim är mer osäkert,  det kan bli ytterligare en revanchistisk regim, men förhoppningsvis börjar ryssarna inse att fred och samarbete är bättre än krig och fattigdom.",
+        "modified": "Tue, 03 May 2022 07:33:47 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f1adeed9-cb69-4073-a59e-be6a8c2c2ef6"
+      },
+      {
+        "created": "Tue, 03 May 2022 07:33:47 GMT",
+        "display_value": "Drivmedel som diesel och bensin har blivit dyrare, likaså elektricitet.  Viss brist på livsmedel som produceras i Ukraina, solrosolja exempelvis.  Prishöjningar på mat kommer påverka alla normalhushåll negativt ekonomiskt, förutom redan tidigare nämnda prishöjningar på energi i olika former.",
+        "modified": "Tue, 03 May 2022 07:33:47 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "feb093f3-08d7-42b7-9d2c-f9e4f4a23864"
+      },
+      {
+        "created": "Tue, 03 May 2022 07:33:47 GMT",
+        "display_value": "Fick veta det genom att läsa text-tv precis när jag vaknat. Att invasionen skulle komma var det ingen tvekan om, då Ryssland laddat upp enormt vid Ukrainas gränser i under flera månaders tid. Nyheten om invasionen gjorde mig arg och förtvivlad, och jag tänkte att det här kommer att förändra Europa för alltid.",
+        "modified": "Tue, 03 May 2022 07:33:47 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d818ef32-78e8-40f7-8741-997d578105db"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
