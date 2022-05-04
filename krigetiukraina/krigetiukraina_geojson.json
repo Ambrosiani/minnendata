@@ -4688,6 +4688,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "24 februari 2022. Rysslands invasion av Ukraina var ett faktum.\nNågra av mina första tankar blev nog…",
+        "date": "4 maj 2022",
+        "author": "Linda Harling",
+        "url": "https://minnen.se/tema/krigetiukraina/19525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.21,
+          59.265
+        ]
+      }
     }
   ]
 }

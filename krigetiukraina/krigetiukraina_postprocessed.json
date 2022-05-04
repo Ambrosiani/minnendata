@@ -36470,5 +36470,116 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00493",
+    "contributor": {
+      "display_name": "Linda Harling"
+    },
+    "created": "Wed, 04 May 2022 10:19:32 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 10:19:32 GMT",
+    "position": {
+      "latitude": 59.2651127,
+      "longitude": 17.2096199
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19525",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2d1973fb-5930-42f1-a5e4-b7dd901ea491",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 10:19:32 GMT",
+        "display_value": "1979",
+        "modified": "Wed, 04 May 2022 10:19:32 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "1ae642b6-4c6f-48c9-b595-494b7346efad"
+      },
+      {
+        "created": "Wed, 04 May 2022 10:19:32 GMT",
+        "display_value": "Jag tittar ut ifrån mitt fönster. Jag har en skog med vitsippor utanför där jag bor. Solen letar sig in. Det är lugnt och stilla och ett stenkast bort håller den snygga bilmeckanikern till som alla vardagar. Det är snudd på idylliskt. Jag försöker föreställa mig denna plats sönderbombad och det går inte att ta in. Men när det flyger över ett flygplan så blir jag ändå lite mer på min vakt per automatik och jag tänker- vart har den reflexen kommit ifrån?\nJag är uppväxt med en far som älskar flygplan och alltid har vi tittat upp och tänkt vart är de människorna på väg och per automatik tänkt semester. Det är inte lika självklart längre och det är verkligen obehagligt. \n\nLiksom när Coronan var ett faktum i Sverige känns nu samma hopplöshet sprida sig. Nu är vi fria att röra oss ute igen och umgås med vänner och familj. Då kommer det istället ett krig och lamslår samhället och även om vi hittar vardagliga fånigheter att skratta åt och bedrövas över som vilken dag som helst, så finns nog tanken ändå med oss hos var och varannan medborgare- vad händer om de attackerar oss?",
+        "modified": "Wed, 04 May 2022 10:19:32 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ae2d8a17-8e30-4cc5-aaa7-9edace3f5f54"
+      },
+      {
+        "created": "Wed, 04 May 2022 10:19:32 GMT",
+        "display_value": "24 februari 2022. Rysslands invasion av Ukraina var ett faktum.\nNågra av mina första tankar blev nog okej- på vilket avstånd har vi Ukraina och hur skyddar jag bäst min familj om det kommer hit. Samtidigt som en våg av empati och vanmakt sköljde över mig inför hur skräckslagna alla människor i Ukraina måste känna sig. Hur mår mammor där? Hur kommer händelserna påverka alla barn, familjer som splittrats... När kriget vart på riktigt för mig var när jag såg nyhetsartikeln om familjen som skjutits på öppen gata, som i förtvivlan försökt fly med sin älskade hund i resväskan som skällde i panik. Det här händer, det här är på riktigt och den här människan i öst har blivit helt galen. \n\nKriget är nu. Kriget är pågående. Jag ser mina vänner lägga ut på Facebook att de har packat en paniklåda. En paniklåda. Ordet är svårt att greppa. När jag växte upp berättade flera i den äldre generationen om hur det var i Sverige under andra värdskriget. Det kändes svårt att ta in och väldigt avlägset. Både läskigt och spännande för ett barn att ta del av. I huset mina föräldrar bor i och där jag själv är uppväxt finns ett skyddsrum. Där stod våra cyklar. Det var en stor tung dörr in dit och varje gång vi hämtade min cykel skrockade pappa- ja det är här vi ska gömma oss om det blir krig. Ja ja tänkte man som barn och sedan var det inte mer med det. \n\nIdag har jag egna barn. Jag ska fylla 43 till sommaren. Jag har ett arbete där vi bl.a. pratar om skyddsrum. Det är tryggt. Min sambo gick bort i cancer för 4 år sedan och efter det har jag byggt upp en stabil tillvaro för mig och mina barn. Nu kom kriget. Jag har stora barn, tonåringar vars framtid väntar runt hörnet. Det är svårt att inte visa dem min oro. De är tillräckligt stora för att läsa, se och diskutera kring det här. Hur svarar jag på deras frågor? Jag har frågat dem om de är rädda men de försöker liksom jag själv att hålla fast vid rutiner vilket är bra. Jag känner mig handlingskraftig men krig står över allting annat och min största rädsla är att vi inte ska vara på samma plats om det bryter ut här eller att jag inte ska kunna skydda dem vid en eventuell attack.",
+        "modified": "Wed, 04 May 2022 10:19:32 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "8277a2f6-1226-4c7d-8b82-9c6a177838a8"
+      },
+      {
+        "created": "Wed, 04 May 2022 10:19:32 GMT",
+        "display_value": "Det känns obehagligt och osäkert och i skrivande stund pågår diskussionen om huruvida Sverige ska gå med i Nato. Det känns oundvikligt och vad händer i samma sekund som ansökan är ett faktum. Kommer de efter oss då?",
+        "modified": "Wed, 04 May 2022 10:19:32 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d0fdb0db-ddc7-47d2-9ff7-5535ced98713"
+      },
+      {
+        "created": "Wed, 04 May 2022 10:19:32 GMT",
+        "display_value": "Det är en eftermiddag i början av april när min närmaste chef ringer mig. Du det har hänt en sak. En kollega på ett annat team, hans familj är drabbad. Dottern och mamman till dottern har fått fly. De är på väg från hemmet i Charkiv mot gränsen till Polen. Allting är förstört, lägenheten är bara smulor efter en raketattack och de har bara de kläder som de flytt i. \nHan frågar genant om jag har några kläder som min dotter växt ur som jag kan hjälpa med. Några dagar senare gör slumpen att jag får följa med och möta upp dem. En mellanhand vars son fått Corona tvingar henne att stanna hemma och jag får istället lämna över kläderna själv.  Det blir det mest gripande möte jag tror att jag någonsin kommer få uppleva i hela mitt liv. Mamman kramar mig hårt.\nDottern har ännu inte vågat höra av sig till sina vänner i Ukraina. Hon vet inte vilken av vännerna som lever och vågar inte tala om att hon pg a sitt dubbla medborskap, är i säkerhet.\nHon är 12 år gammal. Hon skäms över att komma i vinterskor och att jackan är smutsig. Hon har burit samma plagg i 11 dagar sedan de flydde. Jag lämnar över vad jag har kunnat hitta hemma och jag tänker, hur kommer allt detta forma denna lilla tjej?",
+        "modified": "Wed, 04 May 2022 10:19:32 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "b5ea4c9e-5edf-4172-913a-73512ad92bcd"
+      },
+      {
+        "created": "Wed, 04 May 2022 10:19:32 GMT",
+        "display_value": "Det kändes att något var på gång. Det var svårt att inte följa nyhetssändningarna dagarna innan och under den dagen. Det kavlades ut och lamslog oss alla på samma sätt som attackerna den 11/9.",
+        "modified": "Wed, 04 May 2022 10:19:32 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "b1b3406f-d745-41a9-b3d5-e4e96aea1158"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
