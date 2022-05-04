@@ -20437,5 +20437,518 @@
       "longitude": 15.65883
     },
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M1:3/00551",
+    "contributor": {
+      "display_name": "Celine"
+    },
+    "created": "Wed, 04 May 2022 09:50:22 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:50:22 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19485",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a1296888-c3d0-4399-a984-d94200606251",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:50:22 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:50:22 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "ea2e6c25-91e2-474e-aba3-634eac1b962d"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:50:22 GMT",
+        "display_value": "Människorna i mitt liv är min familj, vänner och kusiner de är jag med mest. De betyder jättemycket för mig, när de är hos mig går vi till stan, är hemma hos varandra och ibland sova över.",
+        "modified": "Wed, 04 May 2022 09:50:22 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "de98573f-a691-4b2b-a220-9ca8d6301ba6"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
+  },
+  {
+    "archive_code": "M1:3/00553",
+    "contributor": {
+      "display_name": " Inas"
+    },
+    "created": "Wed, 04 May 2022 09:50:36 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:50:36 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19488",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "260a58e2-639d-401e-ba0f-c9168bade2ee",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:50:36 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:50:36 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "c772501f-e370-48c6-857b-c025a1e79c1a"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:50:36 GMT",
+        "display_value": "Några viktiga personer i mitt liv är min mamma, min mormor och farmor som jag inte har sett på länge och min bästa vän Zeynab. \nNummer ett, min mamma, hon är viktig för mig för att hon tog hand om mig, jag växte upp i hennes händer och hon är som en bästa vän för mig, vi är alltid där för varandra och vi berättar allting för varandra.\n\nNummer två, min mormor & farmor, de är jätteviktiga för mig för att halva min barndom så växte jag upp med de och familjen och jag var tvungen att lämna de på grund av att jag flytta till Sverige och jag har alltid kontakt med de plus jag har många minnen av de och alltid när vi åker till Kurdistan så får jag något av de som jag ska behålla och ta hand om för att jag ska komma ihåg de.\n\nNummer tre, min bästa vän Zeynab. Hon är jätteviktig för mig för att hon är alltid där för mig.Vi tappar aldrig kontakt vi är alltid tillsammans eller så ringer vi varandra och jag kan alltid prata med henne om vad som helst och vi har känt varandra i 3 år nu.",
+        "modified": "Wed, 04 May 2022 09:50:36 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "e28198bb-07dd-4ab9-995f-7604c03c3519"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
+  },
+  {
+    "archive_code": "M1:3/00555",
+    "contributor": {
+      "display_name": "Saron"
+    },
+    "created": "Wed, 04 May 2022 09:50:59 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:50:59 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19492",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "cf48da76-63ca-4ec0-b1dc-b862347bf50a",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:50:59 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:50:59 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "e67dcf13-d815-4ab2-8641-d61eb68f5221"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:50:59 GMT",
+        "display_value": "Människor i mitt liv är min mamma, min pappa, min bror och mina bästa vänner Amanda och Adol. Min familj betyder mycket för mig eftersom de är snälla och gjort att jag har ett bra liv som jag är tacksam för.",
+        "modified": "Wed, 04 May 2022 09:50:59 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "594d4910-ecbe-47a4-9516-18fd7c759ade"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
+  },
+  {
+    "archive_code": "M1:3/00557",
+    "contributor": {
+      "display_name": "Lâm"
+    },
+    "created": "Wed, 04 May 2022 09:51:29 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:51:29 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19496",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "b470bfc4-0518-4b1d-b828-3cd0ecbbfa0c",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:51:29 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:51:29 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "da8591f1-d1d0-40d3-8d34-848c03326008"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:51:29 GMT",
+        "display_value": "Människorna i mitt liv\nDet finns tre personer för mig är viktigt. Och de är min mamma, min pappa och min plats-pappa. \nJag börja med min mamma. När jag var född så kom jag ut inte som andra barn. Men min mamma måste operera ut mig och tur nog så min mamma överlevde och hon hade inte så mycker tid med mig för att hon har ett ganska stressende jobb. \nSå den första året så är jag med min mormor. Hon var en lärare för i tiden. Men hon har gått i pension. När jag var ungefär ett och ett halvår så min mamma gick mammaledig i 5 månader och min pappa jobba då.\n Så när jag fyllde 2 år så min mamma måste tillbaka och jobba. Min pappa är jättesnäll så varje gång innan min mamma sluta jobba så min pappa köra mig till mamma och jag blev så glad varje gång. Jag kommer fortfarande ihåg det och han gjorde det till när jag är 4 år. Då får hon en till barn men den dog…. Min mamma bry sig mycker om mig så hon brukar sluta jobbet 30 minuter innan hon ska egentligen sluta. Varje kväll hon vill leka med mig och då hade jag lego så vi brukar bygga hus och om jag inte tycker att det är fint då gör vi en ny. \n\nMin pappa är en jättebra person, han jobba hemifrån för att han ska kunna har tid att leka och köra mig till andra ställer. Det var ganska roligt när jag var född, så jag skulle snart komma ut och då kör hon till sin mamma(allså min farmor)och hämta henne till att kolla på mig komma ut men när han kom tillbaka så var jag redan ute. Som sagt hon kör mig till min mamma för att hämta henne varje dag. Så ett år senare så fyllde jag 5 år och då fick min mamma en bättre jobb. Min pappa fick gå jobba igen och då går jag på förskoleklass som den äldsta i hela förskola… eller ungefär jag var den yngsta i den årskursen men vi pratar inte om det. När klocka är 15 så alltigen så hämta min pappa mig eller min mamma. Om min mamma hämta mig så brukar vi gå och hämta andra saker. Men om det är min pappa så han kommer nästan alltid köpa chips för kvällen. Hela familjen i på kvällen. \n\nDen 2 september 2018 så kom jag till Sverige och det var härligt. Men mamma träffade en annan person och 2017 så skilde min mamma och min pappa. Jag träffade Magnus som nu ska vara min plats-pappa och utan han så skulle vi inte vara i Sverige just nu. Och i mitt hemland så hade jag mentalsjuk kan man säga och det var bra att jag kom hit. Min plats-pappa är jättesnäll och bry sig mycket om mig. Innan så hade jag inte fredagsmys eller något och när jag är ledsen eller något så han trösta mig och hjälper mig och min mamma med allt. Och varje kväll brukar vi kolla på tv och äta.",
+        "modified": "Wed, 04 May 2022 09:51:29 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "2162ef0f-3ba3-45bf-8120-ff0527e15a4f"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
+  },
+  {
+    "archive_code": "M1:3/00559",
+    "contributor": {
+      "display_name": "Ahmed"
+    },
+    "created": "Wed, 04 May 2022 09:52:17 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:52:17 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19503",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a94b3753-5272-464f-893c-ffcce58339d6",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:52:17 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:52:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "5934e1db-6b8e-4ff7-a58d-7bb71899fd93"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:52:17 GMT",
+        "display_value": "Min pappa och mamma är viktiga personer i mitt liv och min stora syster.",
+        "modified": "Wed, 04 May 2022 09:52:17 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "40cbc71f-9f94-4860-8159-fd3ac9174e2f"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
+  },
+  {
+    "archive_code": "M1:3/00561",
+    "contributor": {
+      "display_name": "Nusaiba"
+    },
+    "created": "Wed, 04 May 2022 09:52:40 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:52:40 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19507",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "d1f2181b-5c8f-4ef9-a046-da67cfa67385",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:52:40 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:52:40 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "f7cedb72-96c7-40b8-b4d2-44031e19b823"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:52:40 GMT",
+        "display_value": "De människorna i mitt liv är mamma, pappa, syster, kusiner och vänner\n\nFörst min familj för att de har varit med mig alla dessa år och de har aldrig lämnat mig utan de har varit med mig varje dag, natt och kväll. De också bryr om mig väldigt mycket.\n\nKusinerna är också snälla jag bara älskar de allihop!\n\nVänner, mina vänner förstår mig och jag förstår de. Vi aldrig ljuger för varandra men skoj ljuga vi gör det. Men inget kan förstöra vår vänskap! \n\nJag bara ser min familj och vänner men mina kusiner är i mitt hemland.\nJag hänger med min familj, vi går ut vi äter i olika resturanger och vi åker ibland till A6\n\nMed min vänner vi pratar om olika grejer, vi hänger tillsammans och skrattar mycket.",
+        "modified": "Wed, 04 May 2022 09:52:40 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "de08a122-b6b8-41ec-b897-0cf797aa763c"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
+  },
+  {
+    "archive_code": "M1:3/00563",
+    "contributor": {
+      "display_name": "Stelver"
+    },
+    "created": "Wed, 04 May 2022 09:54:04 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:54:04 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19512",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "67627e26-9b12-44fb-9880-85bf85fb5b00",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:54:04 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:54:04 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "9005263d-0720-402a-abf3-61a6b5a05caf"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:54:04 GMT",
+        "display_value": "Men min familj är det viktigaste i mitt liv, det är dem som alltid hjälper mig om hjälp behövs och det är dem som har varit med mig hela mitt liv.",
+        "modified": "Wed, 04 May 2022 09:54:04 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "1ecac28e-786c-4008-81b3-9c5edbe34704"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
+  },
+  {
+    "archive_code": "M1:3/00565",
+    "contributor": {
+      "display_name": "Ilaf"
+    },
+    "created": "Wed, 04 May 2022 09:54:54 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:54:54 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19518",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "06f63fd2-c69a-4340-aba4-e16cf7b1170e",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:54:54 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:54:54 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "d08205b4-26e1-47c7-a364-b1116aa2e4be"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:54:54 GMT",
+        "display_value": "Oftast brukar jag tänka om jag har några som jag tycker är viktiga för mig och det är ju min familj och mina närmaste vänner som är Zeynab och Inas.\nDem betyder mycket för mig efter som de har alltid stått på min sida och brukar alltid hjälpa mig när jag behöver.",
+        "modified": "Wed, 04 May 2022 09:54:54 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "5e6ffc81-4d3d-41dc-a16c-33c391fd2232"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
+  },
+  {
+    "archive_code": "M1:3/00567",
+    "contributor": {
+      "display_name": "Emelie"
+    },
+    "created": "Wed, 04 May 2022 09:55:19 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 09:55:19 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19522",
+    "published": true,
+    "school_uuid": "1683dbd1-b168-405f-a9fd-0ae18a8f3fbd",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "45ca1392-1be9-4b17-9c5c-4646aa0bc636",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 09:55:19 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 04 May 2022 09:55:19 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "2b3b593f-ffc2-4972-b3eb-805313ace844"
+      },
+      {
+        "created": "Wed, 04 May 2022 09:55:19 GMT",
+        "display_value": "1. Min storasyster är två år äldre än mig, snart 15 år gammal. Det gör henne till det äldsta barnet och hon heter Isabelle men vi kallar henne för Ate. Det betyder storasyster på filipinska. Hon förstår mig bättre än alla mina andra kompisar i skolan och är alltid där för mig. Hon är jättebra på att hålla hemligheter. Ibland bråkar vi men vi blir alltid kompisar igen. Vi gör nästan allting tillsammans, från att städa till att umgås på vår fritid.\n2. Min lillebror heter Atlas, som är kartan av världen. Han är bara fem år gammal, vilket gör honom till det yngsta barnet, men vet många saker, som till  exempel han kan skriva sitt namn och alfabetet, göra subtraktion och addition. Han går på Junedahl Förskolan. Det sista året och jag tror att nästa år kommer han att börja på IES.\n  Atlas spelar tv spel i mammas dator och tittar på tv hela tiden. När vi kommer tillbaka från skolan så sitter han alltid i vardagsrummet, där mammas dator och tv finns.\n3. Strawberry, jag vet vad du tänker just nu, är hennes namn det samma som jordgubbe och svaret är ja. Jag vet inte om det är min mamma eller min pappa som gav henne namnet. Hon är tio, två år yngre än mig och går i samma skolan som jag. Hon började nyss men alla verkar tycka om henne på grund av hennes namn.\n  Vad jag tycker är värst med hennes namn är att alla går upp till mig hela tiden, det flesta vet jag ingen aning vem de är, och frågar om jag är Strawberry och Blue, min andra bror, syster. När jag säger ja så frågar de mig vad jag heter. Varje gång jag svara Emelie, som är ingen speciellt namn, säger de bara “oh” och går.\n  Jag och Strawberry spelar alltid tjej spel tillsammans. Några saker vi lekte med  innan är dockor, rollspel och Roblox, vilket är en spel där man kan spela med många andra på dator, ipad eller telefon. Vi gillar att spela adopt me, royale high, brookehaven, livetopia, bayview… som är rollspel och obbys, som är spel där man gå över hinder.\n  Strawberry kan var rolig att spela med men hon kan också var arg och irriterande. Ibland kan vi bråka och då kan hon säga elaka saker som känns som ett svärd som knivhögg mig, men jag vet att hon menar inte det och var bara arg.",
+        "modified": "Wed, 04 May 2022 09:55:19 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "440eca74-1e71-4cf1-8b62-1d3a8b345f3c"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 57.786549,
+      "longitude": 14.261293
+    }
   }
 ]
