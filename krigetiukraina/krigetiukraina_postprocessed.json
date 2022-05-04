@@ -36363,5 +36363,112 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00492",
+    "contributor": {
+      "display_name": "Magnus Alm"
+    },
+    "created": "Wed, 04 May 2022 04:17:25 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 04 May 2022 04:17:25 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19483",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "61eac35c-64b4-4073-89bc-30018ce907f9",
+    "values": [
+      {
+        "created": "Wed, 04 May 2022 04:17:25 GMT",
+        "display_value": "1962",
+        "modified": "Wed, 04 May 2022 04:17:25 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "a820c598-7fbf-41eb-a0de-bf6b11b8d2cd"
+      },
+      {
+        "created": "Wed, 04 May 2022 04:17:25 GMT",
+        "display_value": "Jag är djupt oroad av att världen polariserats.  Att Ryssland i praktiken infört krigslagar, cencur och propaganda är en sak, men att vi i väst slutat se och beskriva nyanser är förförande. Allt beskrivs som svart eller vitt vilket gör att om man inte är väl insatt kan man knappast förstå varför \"det onda\" angriper \"det goda\". Att NATO snart har lyckats få in Finland och Sverige som medlemmar gör inte världen säkrare. Ryssland kommer att agera då man får en ny kärnvapengräns i Östersjöområdet. NATO behöver Sverige för att försvara Baltikum, men Sverige behöver inte NATO, då ryssarna vet att NATO måste agera i Sverige om man vill skydda Baltikum. Att Sverige är allierat med USA och Turkiet gör mig mörkrädd. Krigsrisken i världen har definitivt ökat p g a Rysslands invasion OCH NATOs agerande.",
+        "modified": "Wed, 04 May 2022 04:17:25 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "12b6b36e-d681-413e-bb42-1dadc70bde94"
+      },
+      {
+        "created": "Wed, 04 May 2022 04:17:25 GMT",
+        "display_value": "Känner stor sorg eftersom så många skadas och dör. Dessutom är den materiella förstörelsen i Kharkiv, Chernigiv, Mariupol och Kievs förorter omfattande. På det personliga planet har jag som Ukrainas förbundskapten i bandy fått ställa in vårt deltagande i VM (Herrar Syktyvkar Ryssland och damer Växjö Sverige. Många av mina vänner är på flykt, några krigar, andra är ofattbart modiga bor kvar och örsöker arbeta och leva ett så normalt liv som möjligt. Jag känner även männskor i Ryssland. Många har varit för Putin och är det fortfarande, men många har tappat förtroendet och är djupt oroade över utvecklingen. En ryss med ukransk bakgrund i Murmansk som jag känner har öppet vågat kritisera Putin. Nu har hans fru lämnat honom, hans politiska karriär är över, han förlorar förmodligen sitt arbete, men då han har en son kvar i Ryssland är det inte så lätt att fly. Ryssland och Putin är absolut skyldiga att ha startat detta krig, men ur rysk synvinkel finns en bakgrund. När Sovjetunionen föll anser de flesta ryssar att man förnedrades av västs chockterapi. Några oligariker samlade all ekonomisk makt, korruption, våld och prostitution frodades. Demokratin fick ett dåligt rykte under Jeltsin, medan Putin står för lag, familj och ordning. NATO har också succesivt flyttat fram sina positioner. Att Ryssland förlorat kontrollen över västeuropa har man kunnat hantera. Baltikum var svårt att smälta för dem, men man betraktar Belarus och Ukraina som delar av det ryska imperiet och vill absolut inte ha NATOs kärnvapen där (På samma sätt som att USA inte ville ha ryska kärnvapen på Kuba en gång i tiden, då man hotade med kärnvapenkrig). För det fria Ukraina som längtar efter att få tillhöra väst är detta en katastrof, ett trauma, men landet är mer enigt än någonsin och kommer att fortsätta kriga för sin existens så länge som det kommer att behövas. Det kanske mest sorgliga är att etniska ryssar på båda sidor måste välja sida. Konflikten går rakt igenom familjer och släkter och såren detta krig skapar kommer att finnas kvar i generationer.",
+        "modified": "Wed, 04 May 2022 04:17:25 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "5a4d70f3-02d9-4d0e-bd16-a93d00792d73"
+      },
+      {
+        "created": "Wed, 04 May 2022 04:17:25 GMT",
+        "display_value": "Globaliseringen med fri handel och resande har fått sig en törn och utveckligen går mot ökat nationalism och krigsrisk. De politiska spänningarna har ökat. I makroperspektivet handlar det om att USA känner sig hotade som Number one och vidtar globala åtgärder då Kinas makt och ekonomi växer. Sverige har slutit upp på USAs sida på gott och ont och kommer att bli belönade eller straffade.",
+        "modified": "Wed, 04 May 2022 04:17:25 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "4b3dbe1f-2086-4e75-8817-0004da47253c"
+      },
+      {
+        "created": "Wed, 04 May 2022 04:17:25 GMT",
+        "display_value": "Jag lägger varje dygn timmar på att hålla kontakt med vänner och följa utvecklingen, men i övrigt går livet sin gilla gång i Sverige. Vi har hat fred så länge, våren är här, Covidrestriktionerna över så det är verkligen skilda världar.",
+        "modified": "Wed, 04 May 2022 04:17:25 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ab4ab57a-a62a-4263-b35e-953d013d9bc8"
+      },
+      {
+        "created": "Wed, 04 May 2022 04:17:25 GMT",
+        "display_value": "Läste på nätet när jag vaknade vid 5:30 tiden 24/2 och tog genast kontakt med mina ukrainska vänner. Blev chockad. Vi hade alla (även ukrainare) räknat med ett fortsatt begränsat krig i Donbass. Att Kiev attackerades kändes overkligt, samt att kriget blev storskaligt i samma omfattning som Polen och Finland 1939.",
+        "modified": "Wed, 04 May 2022 04:17:25 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "e1ea1e3d-b38b-4415-b9b4-3fbb99fcdbff"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
