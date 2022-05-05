@@ -4720,6 +4720,22 @@
           63.196
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Vreden, förtvivlan och medkänslan från den första dagen finns kvar, naturligtvis. Brutaliteten och b…",
+        "date": "5 maj 2022",
+        "author": "hanlun",
+        "url": "https://minnen.se/tema/krigetiukraina/19528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

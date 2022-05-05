@@ -36692,5 +36692,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00496",
+    "contributor": {
+      "display_name": "hanlun"
+    },
+    "created": "Thu, 05 May 2022 20:35:15 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 05 May 2022 20:35:15 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19528",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "74d7cda4-65da-4cf1-8a47-062777e69869",
+    "values": [
+      {
+        "created": "Thu, 05 May 2022 20:35:15 GMT",
+        "display_value": "1944",
+        "modified": "Thu, 05 May 2022 20:35:15 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "212b0937-61b5-40fb-83a6-f10aa102e696"
+      },
+      {
+        "created": "Thu, 05 May 2022 20:35:15 GMT",
+        "display_value": "Världen har under de senaste decennierna blivit en allt sämre plats att leva på. Både i Sverige och i andra delar av världen. Det finns en övergripande rörelse mot totalitarism. Den muslimska världen har blivit både mycket mer fundamentalistisk och aggressiv i sin strävan efter att få inflytande över världen. Det är en ideologisk krigföring som bedrivs med hjälp av arabländernas oljepengar. Den ligger bakom IS, våldsamma upplopp och terrorattacker över hela världen, inte minst Sverige, med en besynnerlig koppling mellan religionstillhörighet och kriminella organisationer. Även den kommunistiska och socialistiska ideologin och makten äter sig in världens länder. Här är det främst en ekonomisk krigföring där framför allt Kina köper upp stora delar av fattigare länder. Motreaktionen i form av reaktionära rörelser med vissa fascistisk inslag inger inte heller något hopp. Även miljörörelsen visar allt mer totalitära drag. Den västerländska liberala demokratin verkar på mig allt mer trängd, medan övriga ideologier vinner mark. Det byggs även bryggor mellan de olika totalitära ideologierna, som består av det som har kallats \"ondskans axelmakter\". Här samsas kommunism i Kina, Nordkorea, Venezuela, Kuba m fl länder med islamism i Iran och en del andra länder till ett totalitärt hot mot den fria världen. Och gemensamt för alla dessa länder är utbyggda repressionsinstrument (polis, militär, inhemskt spionage), en galopperande korruption som utarmar befolkningen och en elit med obegränsade resurser som suger ut, rånar, sitt eget folk. Och naturligtvis har inte dessa länder tagit avstånd från Rysslands aggression utan förmedlar utan att ifrågasätta alla de lögner som Ryssland/Putin/Lavrov sprider om Ukraina och sitt angreppskrig.",
+        "modified": "Thu, 05 May 2022 20:35:15 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "3ea1dc26-ce4b-424b-80f1-4189106c985a"
+      },
+      {
+        "created": "Thu, 05 May 2022 20:35:15 GMT",
+        "display_value": "Vreden, förtvivlan och medkänslan från den första dagen finns kvar, naturligtvis. Brutaliteten och barbariet i det ryska angreppet har chockerat mig. Den fullständiga frånvaron av respekt för krigets regler med bombningar av sjukhus, skolor, bostadshus, teatrar är så vidriga att de gör mig illamående. Och lägg därtill mord på bakbundna civila, våldtäkter, rofferi och dödande och förstörelse utan någon mening; allt detta är helt oförsvarbart. Ryssland och den ryska armén har för alltid skrivit in sig i historien som jordens avskum. Samtidigt har den ryska oförmågan med stillastående, milslånga kolonner, enorma förluster i materiel och manskap initialt förvånat mig, men därefter har jag sett den som typisk för ett genomkorrumperat samhälle, det slags samhälle som varje totalitärt system skapar. Om det finns något att glädjas över i denna enorma mänskliga katastrof, så är det den s k fria världens mobilisering till stöd för Ukraina. I bästa fall kommer det att leda till att den fria världen går mot en starkare sammanhållning och bättre framtid. För närvarande hoppas jag bara på att vapenleveranserna fortsätter med allt kraftfullare och mer avancerade vapen från väst för att kunna slå tillbaka mot den ryska, numerärt överlägsna, krigsmakten. Och att ett motsvarande stöd kommer att fortsätta för den humanitära katastrof som kriget har fört med sig.",
+        "modified": "Thu, 05 May 2022 20:35:15 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "5782c810-6bf7-41bc-85f6-1c2145856dac"
+      },
+      {
+        "created": "Thu, 05 May 2022 20:35:15 GMT",
+        "display_value": "Naturligtvis har det som hänt och händer i Ukraina påverkat min syn på framtiden. Den var redan tidigare rätt pessimistisk, med tanke på alla kriser och problem (och jag tänker då inte på klimatet, som jag inte tror man behöver bekymra sig om), men jag uppfattar det så att vi nu står inför ett vägskäl där vi inte själva kan välja väg. I den negativa vågskålen ligger Ryssland (mot förmodan) seger. Det skulle bädda för en djupt splittrad värld och allt starkare positioner för de totalitära staterna, med allt vad det innebär av fattigdom, korruption, förtryck och förlust av de mänskliga rättigheterna. Och på längre sikt förmodligen en världsomspännande stagnation utan teknisk eller konstnärlig eller annan förnyelse. I den positiva vågskålen ligger Rysslands nederlag och splittring, liksom den demokratiska världens seger. Ett Ryssland som fallit sönder i ett flertal mindre stater skulle utgöra ett mindre hot mot världsfreden och också göra slut på de imperiedrömmar som präglar bl a Putin. I det fallet skulle de mindre staterna kunna röra sig mot ett friare och mindre korrupt och makthungrigt samhällssystem. Återstår Kina som det stora frågetecknet.",
+        "modified": "Thu, 05 May 2022 20:35:15 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b482cdd1-3cd3-40a0-b0cf-09df8a6d92e3"
+      },
+      {
+        "created": "Thu, 05 May 2022 20:35:15 GMT",
+        "display_value": "Min omedelbara omgivning har faktiskt inte påverkats i någon högre grad. Mina barn och barnbarn fortsätter med sina liv. Ingen har så små marginaler eller sådana verksamheter att de inte har klarat av t ex de höjda elpriserna. De lever inga resurskrävande liv med flera bilar, långa arbetsresor eller andra sådana kostnader. I storstaden kan man leva vidare som tidigare med kommunala transporter osv. Några vänner som bosatt sig ute på landet har (nog) känt av de ökande kostnaderna mer. En annan sak är umgänget, samtalsämnena osv som naturligtvis har ändrat karaktär och numera cirklar mer runt de internationella frågorna, det potentiella hotet mot Sverige, medlemskapet i Nato, och dylikt. Men när vi ses talar vi förvånansvärt litet om det i alla fall. Det är som om det inte behövs, det upptar allas vardag i så hög grad att det inte behöver ventileras speciellt mycket när man ses för att \"ha trevligt\". Personligen har jag nyligen flyttat från Sverige, men det hände före kriget och har inte så mycket med det att göra även om jag känner mig tryggare där jag bor nu. Flytten hade mer att göra med samhällsutvecklingen i Sverige med den stora mängden ackumulerade och svåra problem som inte nuvarande regering vill ta i, inte ens med tång. Som jag sammanfattade det nyligen: de ackumulerade problemen av för stora och svåra, den politiska viljan att ta itu med dem för svag, och min kvarvarande tid på jorden är för kort.",
+        "modified": "Thu, 05 May 2022 20:35:15 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "25d1b70d-d7df-4aed-bd98-8285df1fc24a"
+      },
+      {
+        "created": "Thu, 05 May 2022 20:35:15 GMT",
+        "display_value": "Jag hade under årets första månader följt Rysslands upptrappning i och utanför Ukrainas östra regioner, men hoppades att det bara skulle vara vapenskrammel. Så anfallet kom både som en överraskning och inte när jag fick höra om det på nyheterna. Men ändå var det som om en lucka öppnades under mina fötter. Framför allt greps jag av en känsla av förtvivlan och hopplöshet. \"Inte det här också. Tar det aldrig slut\", var väl vad jag tänkte och såg framför mig hur planer som blivit uppskjutna på grund av pandemin nu skulle omöjliggöras igen. Men omedelbart därefter kom de andra känslorna, en rasande vrede mot Putin och en djup medkänsla med det ukrainska folket.",
+        "modified": "Thu, 05 May 2022 20:35:15 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "e550f22d-a2ad-4ffb-9beb-4c42dc0ed720"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
