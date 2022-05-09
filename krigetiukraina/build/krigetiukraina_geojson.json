@@ -4736,6 +4736,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag följer dagligen en Ukrainsk nyhetssajt ukrainetoday.net och ett instagramkonto ukraine_defence f…",
+        "date": "9 maj 2022",
+        "author": "Mikael",
+        "url": "https://minnen.se/tema/krigetiukraina/19538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.651,
+          56.2
+        ]
+      }
     }
   ]
 }

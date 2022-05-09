@@ -36803,5 +36803,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00498",
+    "contributor": {
+      "display_name": "Mikael"
+    },
+    "created": "Mon, 09 May 2022 14:17:51 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 09 May 2022 14:17:51 GMT",
+    "position": {
+      "latitude": 56.19962229999999,
+      "longitude": 15.6506207
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19538",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "625a3190-143f-41c2-bb08-69cec35b68a0",
+    "values": [
+      {
+        "created": "Mon, 09 May 2022 14:17:51 GMT",
+        "display_value": "1968",
+        "modified": "Mon, 09 May 2022 14:17:51 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "d71ad09b-53d0-44bc-b1c0-81c769f6e4b7"
+      },
+      {
+        "created": "Mon, 09 May 2022 14:17:51 GMT",
+        "display_value": "Ukraina har blivit ett land som delar flaggfärger med oss här i Sverige och som jag nu känner en stor samhörighet till. Ukrainarnas mod inspirerar och deras kraft att kämpa för det fria land de lyckats bygga upp sedan Sovietunionens upplösning. \n\nJag noterar vilka länder som trots det fruktansvärda som pågår i Ukrana ställer sig bakom Ryssland och kommer själv undvika Indiska, Saudiska och Kinesiska varor så länge inte de tar stark ställning mot detta krig och låter sanktionerna verka så att det på riktigt svider för Ryssland.\n\nJag hoppas vi i väst kan konfiskera Ryska medel som förvaras på våra banker och använda dessa till att hjälpa Ukraina att bygga upp sitt land på nytt.",
+        "modified": "Mon, 09 May 2022 14:17:51 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "0f5c6924-7cf5-4f62-9268-4bf16cd221d4"
+      },
+      {
+        "created": "Mon, 09 May 2022 14:17:51 GMT",
+        "display_value": "Jag följer dagligen en Ukrainsk nyhetssajt ukrainetoday.net och ett instagramkonto ukraine_defence för att få nyheter så som Ukraina själva väljer att visa dem. Det är deras liv och land som slås i spillror så jag tycker att vi alla behöver få historien berättad oss ur deras perspektiv. Jag förstår att de kanske främst väljer att lyfta fram sådant som bygger deras självkänsla mitt i allt elände (och döljer egna militära förluster) men de visar även upp hur de upplever detta oprovocerade angrepp på civilsamhället. De visar ibland även propagandeklipp från rysk media för att visa upp hur absurt ryssarna själva motiverar kriget och sitt (självförvållade) utanförskap i världen.\n\nJag känner mest sorg kring det hela. Hur ett land kan tillåtas angripa ett annat land med skäl skapade ur en skev fantasi. Känns som att de lever kvar i en annan tid. Ryssarna ser sig som undergivna väst men de har sig själv och sin attityd till världen att skylla. Med en annan attityd hade de varit en del av världen på ett helt annat sätt. Nu kommer det dröja generationer innan någon vettig nation kommer lita på dem igen. Ingen kommer i det närmaste vilja etablera sina företag där och förknippas med en rövarstat utan moral.",
+        "modified": "Mon, 09 May 2022 14:17:51 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "c336d2ad-2bec-4ed8-b896-7c08bb432360"
+      },
+      {
+        "created": "Mon, 09 May 2022 14:17:51 GMT",
+        "display_value": "Jag hoppas Europas länder kan föras samman av detta och minska vårt beroende av olja och gas från kriminella stater och diktaturer. Jag hoppas att ryssarna själva snart inser vilken förljugen stat de lever i och vänder riktning på samma sätt som Ukraina lyckats med.",
+        "modified": "Mon, 09 May 2022 14:17:51 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "f29fed6f-1a9a-44c3-b6b0-5cf64ebbb691"
+      },
+      {
+        "created": "Mon, 09 May 2022 14:17:51 GMT",
+        "display_value": "Vi ser för varje dag att våra investeringar på börsen rasar. Osäkerheten växer kring om detta är början på ett större krig som slutligen når mig och min familj. Bensinpriser och energipriser hotar vardagsekonomin men samtidigt känns det som att detta också kan driva på samhället i en mer hållbar riktning på sikt. Minska vårt beroende av bensin och kanske producera vår egen el på taket till vårat hus.",
+        "modified": "Mon, 09 May 2022 14:17:51 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "2bd4821e-bd57-4c61-8799-0a5dcb0f62c9"
+      },
+      {
+        "created": "Mon, 09 May 2022 14:17:51 GMT",
+        "display_value": "Jag följde nyhetsrapporteringen i min telefon i flera månader i början av 2022 och upplevde det upptrappade läget med Rysslands ständiga nekande om en förestående invasion och att allt bara var en övning parallellt med USA.s upprepade påstående att en invasion var på gång som en helt absurd situation. Jag var själv väldigt osäker på vilket som stämde. När så slutligen bekräftelsen kom på morgonen den 25/2 när jag kollade Aftonbladets app och jag förstod att de anföll civila och militära mål så brett och så brutalt i Ukraina kändes allt så meningslöst och hopplöst. Jag kände då att Ryssland behövde straffas hårt för denna brottslighet. Ett kriminellt krig startat av en despot.",
+        "modified": "Mon, 09 May 2022 14:17:51 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "588e2289-ad0d-448b-9ae2-92dab2f42489"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
