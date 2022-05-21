@@ -4768,6 +4768,22 @@
           58.225
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Lite spännande i början men när flyktingarna med mammor o barn började fly ut ur Ukraina till grannl…",
+        "date": "21 maj 2022",
+        "author": "Anne Egnell",
+        "url": "https://minnen.se/tema/krigetiukraina/19549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.856,
+          59.62
+        ]
+      }
     }
   ]
 }

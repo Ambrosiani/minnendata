@@ -37025,5 +37025,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00505",
+    "contributor": {
+      "display_name": "Anne Egnell"
+    },
+    "created": "Sat, 21 May 2022 20:35:17 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 21 May 2022 20:35:17 GMT",
+    "position": {
+      "latitude": 59.6196463,
+      "longitude": 17.8555094
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19549",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "0a54fcad-5c06-475e-9568-e858b6072c80",
+    "values": [
+      {
+        "created": "Sat, 21 May 2022 20:35:17 GMT",
+        "display_value": "1958",
+        "modified": "Sat, 21 May 2022 20:35:17 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "926938eb-363e-42ba-98bc-46e5b1e51f6e"
+      },
+      {
+        "created": "Sat, 21 May 2022 20:35:17 GMT",
+        "display_value": "Bor nära flygplatsen Arlanda där köerna till pass, kontroller ... är långa. Fattar inte att folk vill flyga i dessa oroliga tider o inte tänker de på klimatet heller.",
+        "modified": "Sat, 21 May 2022 20:35:17 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "59b12f99-a8f0-4f54-a56d-ee3c25e9f503"
+      },
+      {
+        "created": "Sat, 21 May 2022 20:35:17 GMT",
+        "display_value": "Lite spännande i början men när flyktingarna med mammor o barn började fly ut ur Ukraina till grannländerna förstod fler o fler att det var allvar. Jag stod med insamlingsbössa för Hjälp till Ukraina genom Act Svenska kyrkan. Fasteaktionen detta år blev rekordstor, mer än 61 miljoner samlades in i hela landet o mkt kommer att gå till mat, mediciner, hotell för att bistå flyktingarna.",
+        "modified": "Sat, 21 May 2022 20:35:17 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6c072d29-6e13-43bc-b9fc-c0c75e90760f"
+      },
+      {
+        "created": "Sat, 21 May 2022 20:35:17 GMT",
+        "display_value": "Känns bra att det finns skyddsrum i källaren där jag bor. Även min son bor i ett hus med skyddsrum,",
+        "modified": "Sat, 21 May 2022 20:35:17 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "e6a03651-f13c-423b-90a1-1dc664ae8477"
+      },
+      {
+        "created": "Sat, 21 May 2022 20:35:17 GMT",
+        "display_value": "Matpriserna har gått upp rejält så det gäller att tänka till när man handlar. Sverige måste odla mer spannmål, vete t ex. Ukraina har svårt att få ut sin produktion då hamnarna är sönderbombade.",
+        "modified": "Sat, 21 May 2022 20:35:17 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "41ad862a-bbc0-4297-a88c-20edf029c366"
+      },
+      {
+        "created": "Sat, 21 May 2022 20:35:17 GMT",
+        "display_value": "På nyheterna men trodde det skulle bli kortvarigt.",
+        "modified": "Sat, 21 May 2022 20:35:17 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "461bddb7-b596-4f5e-92cc-a8e0745ff5af"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
