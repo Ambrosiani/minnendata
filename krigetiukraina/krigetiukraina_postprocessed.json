@@ -36914,5 +36914,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00503",
+    "contributor": {
+      "display_name": "PIA BARK"
+    },
+    "created": "Sat, 21 May 2022 16:31:29 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 21 May 2022 16:31:29 GMT",
+    "position": {
+      "latitude": 58.22546995154162,
+      "longitude": 14.687338981982418
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19547",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b9bcf4e8-5dca-4c8a-988a-1097cfda919f",
+    "values": [
+      {
+        "created": "Sat, 21 May 2022 16:31:29 GMT",
+        "display_value": "1964",
+        "modified": "Sat, 21 May 2022 16:31:29 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "12442f51-416e-4537-8a4d-35e9b766c829"
+      },
+      {
+        "created": "Sat, 21 May 2022 16:31:29 GMT",
+        "display_value": "Det är oväntat att världen inte kommit längre i fredsarbete än så här.",
+        "modified": "Sat, 21 May 2022 16:31:29 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "6c778dc1-ae9c-438e-b740-a4880bacbf11"
+      },
+      {
+        "created": "Sat, 21 May 2022 16:31:29 GMT",
+        "display_value": "Det är förfärligt att detta våld uppstår inom det Europeiska området.",
+        "modified": "Sat, 21 May 2022 16:31:29 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "fb264b8c-086a-404a-b804-6d438421a1c3"
+      },
+      {
+        "created": "Sat, 21 May 2022 16:31:29 GMT",
+        "display_value": "I bästa fall kan vi få godkänt medlemskap i Nato och på så sätt både ta ansvar och känna oss tryggare i en större grupp. I det stora hela är jag försiktigt optimistisk inför framtiden.",
+        "modified": "Sat, 21 May 2022 16:31:29 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "ae17d77b-242c-4c7a-aff5-d7030bf960c7"
+      },
+      {
+        "created": "Sat, 21 May 2022 16:31:29 GMT",
+        "display_value": "Det är uppenbart att jag nu måste vara beredd på att Sverige kan bli utsatt för beväpnade angrepp från Rysslands sida. Jag har ordnat med katastrofartad med mat och andra förnödenheter. Det finns en underliggande rädsla. Första veckan efter beskedet\nom att Sverige fått motta hot, sov jag knappt.",
+        "modified": "Sat, 21 May 2022 16:31:29 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "2dfcaf70-0909-4750-81f6-826335fc51ac"
+      },
+      {
+        "created": "Sat, 21 May 2022 16:31:29 GMT",
+        "display_value": "Jag fick höra nyheten om invasionen av Ukraina i Sveriges Television. Jag upplevde att nyheten underströks av att utrikesminister Ann Linde meddelade att Sverige också fått motta hotfulla krav från Ryssland.",
+        "modified": "Sat, 21 May 2022 16:31:29 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "85e1d198-445a-4115-8b97-706926fcf7b3"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

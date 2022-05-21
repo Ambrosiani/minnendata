@@ -4752,6 +4752,22 @@
           56.2
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är förfärligt att detta våld uppstår inom det Europeiska området.…",
+        "date": "21 maj 2022",
+        "author": "PIA BARK",
+        "url": "https://minnen.se/tema/krigetiukraina/19547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.687,
+          58.225
+        ]
+      }
     }
   ]
 }
