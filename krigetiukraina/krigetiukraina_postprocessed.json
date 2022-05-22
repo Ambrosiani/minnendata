@@ -37360,5 +37360,73 @@
     },
     "uuid": "12b24e97-c3e1-41bc-ab80-ee445c228f6e",
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00512",
+    "contributor": {
+      "display_name": "Dennis Silverberger"
+    },
+    "coordinates": "",
+    "created": "Sun, 22 May 2022 19:28:25 GMT",
+    "image_dms_id": "013AmNa3rfhg",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 22 May 2022 19:27:22 GMT",
+        "dms_id": "013AmNa3rfhg",
+        "image_height": 1080,
+        "image_ratio": 1,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 22 May 2022 19:27:22 GMT",
+        "name": "IMG_20220225_053151_930.jpg",
+        "order_by_number": 1,
+        "owner": "Fotograf Konstnär; Dennis \"ARtzY-XX\" Silverberger",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "c676a20d-9304-4660-baa0-e05d5c59784a"
+      }
+    ],
+    "modified": "Sun, 22 May 2022 19:36:35 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19556",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "ec7556cb-6bd1-452a-831a-afbce4b4e5b8",
+    "values": [
+      {
+        "created": "Sun, 22 May 2022 19:36:35 GMT",
+        "display_value": "En serie tavlor som konstnär. \nDennis \"ARtzY-XX\" Silverberger info@dennissilverberger.se \nTel. 070-712 22 20",
+        "modified": "Sun, 22 May 2022 19:36:35 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "9affb1d3-e92e-4f9e-9653-9fdb095dd8c1"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
