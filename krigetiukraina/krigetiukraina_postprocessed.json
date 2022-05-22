@@ -37136,5 +37136,229 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00508",
+    "contributor": {
+      "display_name": "Dennis Silverberger"
+    },
+    "coordinates": "",
+    "created": "Sun, 22 May 2022 19:06:16 GMT",
+    "image_dms_id": "013AmNa3rfha",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 22 May 2022 19:03:32 GMT",
+        "dms_id": "013AmNa3rfha",
+        "image_height": 1080,
+        "image_ratio": 1,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 22 May 2022 19:03:32 GMT",
+        "name": "IMG_20220515_122709_857.jpg",
+        "order_by_number": 1,
+        "owner": "Fotograf Konstnär Dennis \"ARtzY-XX\" Silverberger",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "7021b99a-9ffd-4915-adde-db6ac48c81f0"
+      }
+    ],
+    "modified": "Sun, 22 May 2022 19:11:10 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19552",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "88c1cade-a911-4214-a239-f9790dc4c2ca",
+    "values": [
+      {
+        "created": "Sun, 22 May 2022 19:08:29 GMT",
+        "display_value": "En serie tavlor som konstnär. \nDennis \"ARtzY\" Silverberger info@dennissilverberger.se \nTel. 070-712 22 20",
+        "modified": "Sun, 22 May 2022 19:09:29 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "87f90f2a-d39a-4a65-ba05-9309032d9b9b"
+      },
+      {
+        "created": "Sun, 22 May 2022 19:06:16 GMT",
+        "display_value": "1964",
+        "modified": "Sun, 22 May 2022 19:11:10 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "ff9068e8-0819-428e-a963-3cfb2a6f62bb"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00509",
+    "contributor": {
+      "display_name": "Dennis Silverberger"
+    },
+    "created": "Sun, 22 May 2022 19:16:54 GMT",
+    "image_dms_id": "013AmNa3rfhd",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 22 May 2022 19:15:12 GMT",
+        "dms_id": "013AmNa3rfhd",
+        "image_height": 1048,
+        "image_ratio": 1,
+        "image_width": 1048,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 22 May 2022 19:15:12 GMT",
+        "name": "IMG_20220414_095504_733.jpg",
+        "order_by_number": 1,
+        "owner": "Fotograf Konstnär; Dennis \"ARtzY-XX\" Silverberger",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "c921621c-46e1-478b-a9ae-ff15c0918a06"
+      }
+    ],
+    "modified": "Sun, 22 May 2022 19:16:54 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19553",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "59a05dfb-c81e-4f2d-a7c9-0d197e60edf4",
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00510",
+    "contributor": {
+      "display_name": "Dennis Silverberger"
+    },
+    "created": "Sun, 22 May 2022 19:22:09 GMT",
+    "image_dms_id": "013AmNa3rfhe",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 22 May 2022 19:20:24 GMT",
+        "description": "H E L P !",
+        "dms_id": "013AmNa3rfhe",
+        "image_height": 1080,
+        "image_ratio": 1,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 22 May 2022 19:20:24 GMT",
+        "name": "IMG_20220308_184007_959.jpg",
+        "order_by_number": 1,
+        "owner": "Fotograf Konstnär; Dennis \"ARtzY-XX\" Silverberger",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "037736ee-bfbb-4bd6-92b9-166228011c1b"
+      }
+    ],
+    "modified": "Sun, 22 May 2022 19:22:09 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19554",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "5a4c9e19-dacf-4be6-8669-159778428081",
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00511",
+    "contributor": {
+      "display_name": "Dennis Silverberger"
+    },
+    "created": "Sun, 22 May 2022 19:25:49 GMT",
+    "image_dms_id": "013AmNa3rfhf",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 22 May 2022 19:24:35 GMT",
+        "dms_id": "013AmNa3rfhf",
+        "image_height": 2172,
+        "image_ratio": 1.3890423572744015,
+        "image_width": 3017,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 22 May 2022 19:24:35 GMT",
+        "name": "IMG_20220330_191204_402.jpg",
+        "order_by_number": 1,
+        "owner": "Fotograf Konstnär; Dennis \"ARtzY-XX\" Silverberger",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "34e141cf-0845-4f18-bb02-4b1c54fab56f"
+      }
+    ],
+    "modified": "Sun, 22 May 2022 19:25:49 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19555",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "12b24e97-c3e1-41bc-ab80-ee445c228f6e",
+    "hasCoordinates": false
   }
 ]
