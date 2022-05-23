@@ -20950,5 +20950,62 @@
       "latitude": 57.786549,
       "longitude": 14.261293
     }
+  },
+  {
+    "archive_code": "M1:3/00569",
+    "contributor": {
+      "display_name": "Lova"
+    },
+    "created": "Mon, 23 May 2022 13:15:05 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 23 May 2022 13:15:05 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19571",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "16404118-79a7-4f2e-83e7-0ce0a68622b0",
+    "values": [
+      {
+        "created": "Mon, 23 May 2022 13:15:05 GMT",
+        "display_value": "2008",
+        "modified": "Mon, 23 May 2022 13:15:05 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "ff9758f8-eaee-4438-8f4b-24a1130c9795"
+      },
+      {
+        "created": "Mon, 23 May 2022 13:15:05 GMT",
+        "display_value": "Människorna i mitt liv\nJag har valt min kusin som första person. Min kusin som heter Elias. Han betyder väldigt mycket för mig för att vi är lika gammal. Jag är ungefär en och en halv vecka  äldre än honom och  när vi väl är tillsammans har vi det väldigt roligt. \n\nDet finns tre minnen som jag verkligen kommer ihåg från när vi har varit med varandra. Det senaste minnet är när vi gick hem själva från en restaurang på kvällen och vi hade handlat.  vi var på väg hem till Elias. Så var det som att han satt han gick och pratade för sig själv för att han berättade typ allt för mig. Han berättade om hans problem med tjejer och sånt. Vi skrattade  en lång stund för att hon som stod i kassan när vi handlade trodde att vi var ett par och började fråga oss jätte konstiga frågor. När vi var nästan hemma så döpte vi det till fyllesnack inte för att vi var fulla för att vi  eller i  alla fall han öppnade upp sig och pratade om allt möjligt.  \n\nEn annan gång var i somras. Inte jag eller min kusin är fan av skräckfilmer men jag övertalade honom att vi skulle göra det och det var läskigt men det blev roligt för att vi låg och typ var livrädda i gästrummet hos mormor och morfar.\n\nEn annan person som är viktig i mitt liv är Julia  som är min bästa vän. Vi har några traditioner som vi gör varje år. Som att på sommaren så sover vi Julias pappas bil och i somras så åkte vi både till Öland och bodde hos min farmor och farfar en vecka och där så cyklade vi överallt vi cyklade till Dollarstore typ varje dag hade. Vi hade också en hel dag på stranden där jag målade, vi badade och vi åt pannkakor med sylt. vi vara också iväg en vecka med Julias familj och åkte till Göteborg. Vi gick på liseberg och bodde på några olika hotell på Västkusten.\n\nSista personen som jag ska berätta om är min äldsta vän som är lika gammal som jag. Hon heter Maia och tyvärr bor hon numera i USA men hon bodde i Sverige för ett halvår sen och vi har varit vänner ända sen dagis. Vi brukade ha våra kalas ihop när vi vara mindre även om hon fyller i augusti och jag fylla i november så ville vi ändå ha våra kalas ihop. Vi var typ i en bästavän trio med en annan tjej som heter Mira. Vi har gått i samma klass som varandra ända sen dagis men när vi började femman så börjar vi glida isär och sen flytande Maia. Sen 2 år efter det tog jag upp kontakten igen och vi pratar minst en gång i veckan.",
+        "modified": "Mon, 23 May 2022 13:15:05 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "e9ee92a5-ec27-427e-b07e-e97294949c98"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
   }
 ]

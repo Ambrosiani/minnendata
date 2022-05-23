@@ -5248,6 +5248,22 @@
           57.786549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Människorna i mitt liv\nJag har valt min kusin som första person. Min kusin som heter Elias. Han bety…",
+        "date": "23 maj 2022",
+        "author": "Lova",
+        "url": "https://minnen.se/tema/manniskornaimittliv/19571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
     }
   ]
 }

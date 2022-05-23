@@ -4544,6 +4544,86 @@
           57.786549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag\nJag brukar vakna kl 06:16 och det första jag är att ta min mobil och titta igenom alla notis…",
+        "date": "23 maj 2022",
+        "author": "Tuva",
+        "url": "https://minnen.se/tema/mittliv2050/19559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt framtida liv - Walter Köll\n\nJag tror att jag kommer att bo i en stor och snygg lägenhet mitt i …",
+        "date": "23 maj 2022",
+        "author": "Walter",
+        "url": "https://minnen.se/tema/mittliv2050/19566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv 2050\n11 Juni, 2050\n\nIdag på morgonen vaknar jag av att min robot istället för min mamma, sk…",
+        "date": "23 maj 2022",
+        "author": "Changchen ",
+        "url": "https://minnen.se/tema/mittliv2050/19567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag tror att jag kommer att bo i ett stort hus i något tropiskt land för att jag har pollenallergi, …",
+        "date": "23 maj 2022",
+        "author": "Olle",
+        "url": "https://minnen.se/tema/mittliv2050/19577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min morgon börjar med att mitt alarm går 06.30 och ljudet på alarmet är ett jobbigt ljud. Varför jag…",
+        "date": "23 maj 2022",
+        "author": "Olle",
+        "url": "https://minnen.se/tema/mittliv2050/19578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.268516,
+          59.333222
+        ]
+      }
     }
   ]
 }

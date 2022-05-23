@@ -18088,5 +18088,290 @@
       "latitude": 57.786549,
       "longitude": 14.261293
     }
+  },
+  {
+    "archive_code": "M1:4/00514",
+    "contributor": {
+      "display_name": "Tuva"
+    },
+    "created": "Mon, 23 May 2022 13:10:19 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 23 May 2022 13:10:19 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19559",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "c1a9b994-05fc-41d1-bd41-b9b1cf628c3d",
+    "values": [
+      {
+        "created": "Mon, 23 May 2022 13:10:19 GMT",
+        "display_value": "2008",
+        "modified": "Mon, 23 May 2022 13:10:19 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "0fed280e-1cf3-4bfb-9655-900cac7aa922"
+      },
+      {
+        "created": "Mon, 23 May 2022 13:10:19 GMT",
+        "display_value": "Min dag\nJag brukar vakna kl 06:16 och det första jag är att ta min mobil och titta igenom alla notiser och sen ringer jag Elvira som är min kompis. Under tiden jag pratar med Elvira gör jag iordning mig först går jag ner till badrummet där nere och tvättar mitt ansikte och smörjer in mig med krämer. Sen går jag till köket och gör två mackor och tar en drickyougurt och tar med mig de till mitt rum och sen byter jag om och jag bryr mig ganska mycket om vad jag har på mig jag brukar ha på mig antingen jeans, kostymbyxor eller mjukisbyxor och sen en croptop och en tjock tröja och vissa dagar t shirt och sen Jordans eller Nike air forse eller uggs. Efter jag har har satt på mig mina kläder så sminkar jag mig med Elvira som också sminkar sig samtidigt som mig pratar jag med  under tiden. Efter de så går jag ner och borstar mina tänder och sen går jag  till hallen och tar på mig min jacka och mina skor och tar med mig min dator och mina skåpnycklar och går sen till bussen.Samtidigt som Elvira och på bussen och hela vägen till skolan pratar jag med henne. \n\nNär jag har kommit fram till skolan, möter jag mina andra kompisar och vissa möter jag redan på bussen.Efter de så lägger jag och Elvira på och ses i skolan. Sen går jag till mitt skåp och hämtar mina grejer som jag behöver till min lektion. Sen går jag till min lektion med mina vänner och har lektion. Sen när jag har haft ungefär 3 så har jag lunch och om det är god lunch så äter jag lunchen som är gratis men oftast så åker jag buss till orminge centrum. Eller går till rackethallen och köper något att äta. Sen har jag några fler lektioner och sen slutar jag och tar bussen hem eller vissa dagar åker jag till mina kompisar hem till mig men inte varje dag. Sen när jag kommer hem så äter jag mellis om jag har träning och jag har två träningar på tisdagar och så har jag träning på onsdagar,torsdagar och fredagar. Men sen gör jag iallafall iordning mig för min träning sen efter träningen så duschar jag ovh då är klockan 20.30  och efter de så äter bara jag middag för jag har väldigt sena träningar så min familj äter under tiden jag tränar. sen lägger jag mig i sängen och pratar med min kille och mina kompisar på facetime och sen brukar jag lägga mig vid 23.00 .",
+        "modified": "Mon, 23 May 2022 13:10:19 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "78e8d64c-a103-4949-aabf-3b72869f05ee"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
+  },
+  {
+    "archive_code": "M1:4/00516",
+    "contributor": {
+      "display_name": "Walter"
+    },
+    "created": "Mon, 23 May 2022 13:12:09 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 23 May 2022 13:12:09 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19566",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "14b9b39d-4a9d-48a1-a64e-e6dcf985c062",
+    "values": [
+      {
+        "created": "Mon, 23 May 2022 13:12:09 GMT",
+        "display_value": "2008",
+        "modified": "Mon, 23 May 2022 13:12:09 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "aa2f8762-9883-41da-b424-f7c789911298"
+      },
+      {
+        "created": "Mon, 23 May 2022 13:12:09 GMT",
+        "display_value": "Mitt framtida liv - Walter Köll\n\nJag tror att jag kommer att bo i en stor och snygg lägenhet mitt i Stockholm. Det ska vara en stor balkong där man kan sitta och äta och umgås. Jag vill bo så eftersom att man har nära till jobb, affärer och parker. Barnen kan också gå på bra skolor mitt i stan. Jag vill ha en snygg svart bil i ett garage nära lägenheten. Jag tror att jag kommer att jobba med arkitektur och aktier. Det är roligt att jobba med det och man kan tjäna bra med pengar. Det är också lockande med nya roliga projekt och husplaneringar. Jag kommer att äta bra mat och ta hand om mig själv genom att träna. Min familj kommer jag ta hand om väl och umgås så ofta jag kan. Om jag kommer att ha barn så kommer jag uppfostra dem väl och inte låta dem bli bortskämda ungar, som kräver nya saker hela tiden. \n\nJag tror att världen kommer att bli modernare och modernare. Det jag menar med det är att bilar, hus och marken kommer att bli plattare och mer stilrent. Bilarna kommer bli mer avancerade men fortfarande åka på marken. Men jag vill inte att det ska förändras för mycket eftersom att jag gillar dock hur Gamla stan ser ut nu med de gamla detaljerna i huskanterna och runt fönsterna. \n\nIdag så har jag det bra och lever hos två skilda föräldrar. Jag äter god mat och ganska varierat. Jag bor i ett villaområde hos pappa och en lägenhet i centrum med mamma.",
+        "modified": "Mon, 23 May 2022 13:12:09 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "6d848a98-02a2-4195-85b0-121ada99d5ed"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
+  },
+  {
+    "archive_code": "M1:4/00518",
+    "contributor": {
+      "display_name": "Changchen "
+    },
+    "created": "Mon, 23 May 2022 13:12:54 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 23 May 2022 13:12:54 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19567",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "3f2e37ee-0fab-45ea-b373-ef6efbb3b2d2",
+    "values": [
+      {
+        "created": "Mon, 23 May 2022 13:12:54 GMT",
+        "display_value": "2008",
+        "modified": "Mon, 23 May 2022 13:12:54 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "fedebb54-5a77-4bcc-8f2c-7df8f7141ab6"
+      },
+      {
+        "created": "Mon, 23 May 2022 13:12:54 GMT",
+        "display_value": "Mitt liv 2050\n11 Juni, 2050\n\nIdag på morgonen vaknar jag av att min robot istället för min mamma, skakar mig försiktigt på mina axlar. Jag öppnar sedan långsamt upp ögonen och sätter på mina tofflor. Sedan sträcker jag ut armarna, min robot klär på mig, istället för mig själv. \n\nJag går då ut till hallen, känner doften av natur för att byggmaterialet till det mesta av mitt hus är av naturlig material. Efter det rör jag på mig lite i vardagsrummet, sedan ställer jag ut vågen på det vita fina golvet som är gjord av konstgjord ull istället för det hårda osköna trä. \nSen ställer jag mig mitt på vågen, den lilla pilen pekar prick på 90 kg. \nDå piper vågen, den säger:\n-Du är överviktig!\n-Du behöver gå ner 5 kg i vikt!\n-Idag ska du få i dig 2581 kcal.\n\nNär jag blir hungrig, knäpper jag mina fingrar och roboten kommer farande till mig och säger:\n-Herre vad vill du ha?\nDå svarar jag snabbt:\n-Fixa frukost åt mig, tack!\nRoboten svarar då, med sin mekaniska röst:\nJa, min herre.\n\nNär frukosten är klar sätter jag mig vid köksbordet, framför mig står hälsosam livsmedel som roboten har fixa till mig. Det var ett glas saft som är en blandning av många frukter, även två stycken fullkornsbröd med smör och skinka på. För att inte maten ska fastna i halsen, knaprar jag istället för att äta som en gris.\n\nEfter frukosten, går jag och borstar tänderna, i ena handen har jag min tandborste som är anpassad för att döda alla skadliga bakterier och smuts på mina tänder, och i den andra handen håller jag på att pressa ut tandkräm på tandborsten. Sen börjar jag borsta mina tänder noggrant. \nNär jag är färdig tittar jag på min tandborstens skaft som tyder hur mina tänder mår. Tur att dem mår bra, för annars måste jag ha ett besök hos tandläkaren.\n\nVägen till jobbet, tar jag på mina tyngdkraftsreglering skor som gör att jag kan kontrollera gravitationen på mina benmuskler, när jag vill träna min kondition kan jag öka gravitationen, när jag t.ex då ska springer till jobbet, drar jag ner gravitationen till 0.7 Tellus(Jorden) nivå och springer med hastigheten 50 km/h till mitt jobb.\n\nNär jag är på jobbet, jobbar jag i mitt laboratorium med periodiska systemets ämnen. Jag försöker hitta ett säkrare och effektivare sätt med kärnreaktion för kärnkraftverk. Jag har tänkt att använda Uran-238 som kärnreaktion för att den utgör 99.27% av alla Uran på jorden, det är lättare att få tag på sån Uran än Uran-235. \n\nMitt på dagen, är det en stund paus, jag går till en restaurang och käkar lunch.\nDär sitter många ungdomar som är över 2 meter, som skrattar och pratar med varandra, vissa spelar kort. Jag väljer en sittplats, sätter mig, sen kommer det en flygande skärm som visar menyn till många produkter. Jag valde då en stor vegetarisk hamburgare, ett glas vatten. Sen kom en ruta som står 20 kr totalt för vegetariska hamburgaren och vattnet. När jag har nickar med huvudet förstod direkt kameran på den flygande skärmen att jag betalar priset.\nNär jag tänker på vad jag ska äta till lunch, kom maten plötsligt från en tunnel från taket med maten som jag beställer.\nHamburgaren doftade som blandning av olika kryddor, såg som en hög med staplade pannkakor.\nTill sist ramlade ett papperskvitto som på 2020-talet, men det står istället 1200 kcal energi i maten och hur mycket fett, proteiner, kolhydrater, vitaminer, mineral och vatten det finns i maten.\n\nEfter maten går jag tillbaks till jobbet, på vägen tar jag på mina tyngdkraftsreglering skor, sätter gravitationen på 0.7 Tellus(Jorden) nivå. \nSen jobbar jag tills en klocka som tickar automatiskt när solen har gått ner. Men jag följer inte alltid den om jag är på dåligt humör.\n\nEfter jobbet springer jag hem med mina tyngdkraftsreglering skor med gravitationen som jag sprang till jobbet, när jag är hemma, går jag ut och tar en liten promenad, tittar förresten på en visare på hur mycket solenergi som solpanelerna på taket har fångat.\n\nNär jag börjar bli hungrig igen, knäpper jag mina fingrar igen, roboten kommer och frågar:\n-Herre vad vill du ha?\nDå svarar jag snabbt:\n-Fixa middag åt mig som är en portion köttbullar med potatismos, tack!\nRoboten svarar då, med sin mekaniska röst:\nJa, min herre.\n\nNär middagen är färdig dukat, går jag och äter, efter det borstar jag tänderna igen, siffrorna på tandborsten visade ett väl uttryck, sedan duschar jag med anpassad temperatur vatten och sedan lägger jag mig i sängen och sover.\nFör att komma fort i djup sömn har min säng en speciell funktion, att den är gjort av elastiskt, mjuk material och gör att man slappnar av snabbt, sen börja känna sig trött och till sist börjar snarka.",
+        "modified": "Mon, 23 May 2022 13:12:54 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "b62a0c21-3f58-4cdd-8272-957b7219f4e0"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
+  },
+  {
+    "archive_code": "M1:4/00520",
+    "contributor": {
+      "display_name": "Olle"
+    },
+    "created": "Mon, 23 May 2022 13:16:33 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 23 May 2022 13:16:33 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19577",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "4e65aaf5-a741-404b-8737-742ced4d79a0",
+    "values": [
+      {
+        "created": "Mon, 23 May 2022 13:16:33 GMT",
+        "display_value": "2008",
+        "modified": "Mon, 23 May 2022 13:16:33 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "d23967af-f523-4bef-b03f-5192387928cf"
+      },
+      {
+        "created": "Mon, 23 May 2022 13:16:33 GMT",
+        "display_value": "Jag tror att jag kommer att bo i ett stort hus i något tropiskt land för att jag har pollenallergi, då vill jag bo på en vulkanö för att det inte är lika mycket gräs, men jag kanske inte kommer vara allergisk om 28 år. Hawaii är en bra ö för att den är varm och vattnet är varmt också men öarna är inte bara vulkan utan regnskog och mycket djur. \n\n Jag tror att jag kommer jobba med djur antingen marinbiolog eller något annat med djur och havet. Mitt hus kommer se ut som ett strandhus men det ska vara stort och det ska ha färger som smälter in med naturen, för att det passar bättre än att ha ett stort vitt hus mitt i naturen det känns amerikanskt. Jag ska ha två barn för att det är lätt att ta hand om. Jag vill vara nära en skog så att man bara kan ta en promenad. År 2050 kommer jag att vara 42 år gammal\n\nJag skulle vilja ha en hund som man kan ta hand om och gå på promenader. Mina barn ska gå på sporter typ 3 gånger  i veckan för att de ska må bra. Min tomt ska var stor med många träd. Jag vill ha som en skog på min tomt för att det ska se mer ut som en levande trädgård",
+        "modified": "Mon, 23 May 2022 13:16:33 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "b6adfc17-9934-46c4-8e37-3dcee1e42033"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
+  },
+  {
+    "archive_code": "M1:4/00522",
+    "contributor": {
+      "display_name": "Olle"
+    },
+    "created": "Mon, 23 May 2022 13:16:41 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 23 May 2022 13:16:41 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19578",
+    "published": true,
+    "school_uuid": "3cd7f324-655a-45fa-95df-aa1057535ea9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "b80bd461-b343-4e66-b797-6dbb75ecc00b",
+    "values": [
+      {
+        "created": "Mon, 23 May 2022 13:16:41 GMT",
+        "display_value": "2008",
+        "modified": "Mon, 23 May 2022 13:16:41 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "49e2f83d-7ed3-46a6-9722-0e702cedaf5f"
+      },
+      {
+        "created": "Mon, 23 May 2022 13:16:41 GMT",
+        "display_value": "Min morgon börjar med att mitt alarm går 06.30 och ljudet på alarmet är ett jobbigt ljud. Varför jag väljer det jobbiga är för att jag ska ställa mig upp i mitt rum och gå till mitt skrivbord och stänga av det alarmet. På de sättet har min kropp vaknat lite. Jag har dagen innan lagt mina kläder på en galge bredvid sängen så att det blir enklare att välja kläder. Efter jag har klätt på mig går jag ner i köket och där sitter oftast mina föräldrar och min syster. Jag brukar göra pannkakor eller en macka. Min syster går upp lite före mig för hon tar bussen som går 10 minuter tidigare än den alla tar, för hon säger.“Det är mycket lugnare på den bussen”. Men min lillebrors skola är 3 minuter bort från vårt hus och han går upp senare då. Efter jag har gått ut genom dörren så är kl typ 07.27 och bussen går om 10 minuter och det gör så att om den kommer nån minut tidigare så hinner jag med ändå. På vägen till bussen brukar jag gå med Selma, för hon tar samma buss som mig. På bussen sitter jag med min telefon och kollar sociala medier och spelar något mobilspel.\n\nNär jag väl har gått av bussen så går jag till min skola. Jag går på Myrsjöskolan, som är en ganska stor skola. Vi har typ 5 lektioner per dag, men det kan variera från dag till dag. Tre dagar i veckan har vi idrott, jJust nu håller vi på med att dansa. Efter jag har slutat åker jag buss hem förutom på tisdag och fredag då jag har padel. Padel är en sport som tennis men racken har mer hål och glasväggarna är glas. Varför är väggarna glas? Väggarna är av glas för att man ska kunna slå bollen i glaset och sen över nätet. Efter jag har spelat padel så går jag hem och duschar. jag går  ut med Nils efter ett tag. Nils är min kompis och springer i typ en timme.\n\nNär jag har kommit hem så äter jag middag och sen gör jag läxor och ibland plockar ur diskmaskinen. Sen borstar jag tänderna och går och kollar på lite film i typ en halv timme. Och sen går jag och lägger mig i min säng. Alla i min familj har egna rum förutom mina föräldrar men nu måste jag gå och lägga mig.\n\n Hejdå!",
+        "modified": "Mon, 23 May 2022 13:16:41 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "e2450236-a14d-455c-9c34-d907777a237f"
+      }
+    ],
+    "hasCoordinates": true,
+    "position": {
+      "latitude": 59.333222,
+      "longitude": 18.268516
+    }
   }
 ]
