@@ -37525,5 +37525,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00514",
+    "contributor": {
+      "display_name": "Mikael Hällgren"
+    },
+    "created": "Wed, 25 May 2022 12:49:02 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 25 May 2022 12:49:02 GMT",
+    "position": {
+      "latitude": 59.2632336,
+      "longitude": 18.0424961
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19594",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "3065d3a4-26d0-4e67-bf54-cd547c3af516",
+    "values": [
+      {
+        "created": "Wed, 25 May 2022 12:49:02 GMT",
+        "display_value": "1989",
+        "modified": "Wed, 25 May 2022 12:49:02 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "5317e32c-80c5-4041-8df3-94d8ce2d8eb1"
+      },
+      {
+        "created": "Wed, 25 May 2022 12:49:02 GMT",
+        "display_value": "Jag hade en framtidsoptimism tidigare. Att världen blir bättre och bättre och att risken för ett stort krig i världen är obefintlig, speciellt i Europa och Sverige. Nu har diktatorn Putin förstört allt detta. Jag vet inte vad som kommer att hända. Men jag hoppas att Sverige snabbt går med i NATO för skydd och att Ukraina lyckas besegra Ryssland med hjälp av världens demokratier.",
+        "modified": "Wed, 25 May 2022 12:49:02 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "785aeda5-c8ca-4462-809e-be1468951cec"
+      },
+      {
+        "created": "Wed, 25 May 2022 12:49:02 GMT",
+        "display_value": "Jag föddes samma år som järnridån i Europa föll. Aldrig trodde jag att jag skulle få uppleva ett krig i Europa. Men jag hade fel.\n\nPutin är 2000-talets nya Hitler. En sådan ondska har vi inte sett sedan kommunismens och fascismens brott i Europa.\n\nMen diktatorer besegras alltid i slutändan. Friheten och liberalismen kommer att vinna. Det gör den alltid tillslut.",
+        "modified": "Wed, 25 May 2022 12:49:02 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "92e99fe6-a4a4-4c92-87c8-cbe034c2f8ba"
+      },
+      {
+        "created": "Wed, 25 May 2022 12:49:02 GMT",
+        "display_value": "Jag hoppas att FNs säkerhetsråd reformeras så att länder inte har vetorätt i konflikter de själva är inblandade i. Det är absurt att ett land som invaderar kan använda sitt veto för att stoppa FN från att agera mot invasionen. Jag hoppas att EU och FN stärks och att vi i framtiden kan undvika krig.",
+        "modified": "Wed, 25 May 2022 12:49:02 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b05563c5-cd4f-4669-b3b8-5f3888fc72a5"
+      },
+      {
+        "created": "Wed, 25 May 2022 12:49:02 GMT",
+        "display_value": "Jag påverkas negativt mentalt. Min framtidsoptimism har naggats. Priser skjuter i höjden och för första gången i vuxen ålder känner jag att min ekonomi kraftigt försämras. Mina fonder har tappat en stor del av sitt värde. Jag måste dra ned på nöjeskonsumtion.\n\nOch jag är orolig över mina vänner och befolkningen i Ukraina.",
+        "modified": "Wed, 25 May 2022 12:49:02 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "a34840a4-b588-4d3b-9d4d-7821df22778b"
+      },
+      {
+        "created": "Wed, 25 May 2022 12:49:02 GMT",
+        "display_value": "Jag såg en bild och rubrik på SVT Nyheters app. Blev förskräckt, arg och ledsen. Skrev sedan till min vän i Kyiv och frågade om han var okej.  Jag kunde inte sova den natten. Min vän svarade nästan 24 timmar senare att han hade flytt västerut.",
+        "modified": "Wed, 25 May 2022 12:49:02 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "dce0aae8-9611-41c2-b76a-cc54aa93aef3"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

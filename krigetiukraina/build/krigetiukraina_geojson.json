@@ -4800,6 +4800,22 @@
           64.75
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag föddes samma år som järnridån i Europa föll. Aldrig trodde jag att jag skulle få uppleva ett kri…",
+        "date": "25 maj 2022",
+        "author": "Mikael Hällgren",
+        "url": "https://minnen.se/tema/krigetiukraina/19594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.042,
+          59.263
+        ]
+      }
     }
   ]
 }
