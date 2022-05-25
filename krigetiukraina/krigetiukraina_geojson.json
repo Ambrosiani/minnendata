@@ -4816,6 +4816,22 @@
           59.263
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mina känslor inför konflikten och kriget i stort är kanske inte den gängse , den man förväntar sig f…",
+        "date": "25 maj 2022",
+        "author": "Eirik",
+        "url": "https://minnen.se/tema/krigetiukraina/19596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.973,
+          55.933
+        ]
+      }
     }
   ]
 }

@@ -37636,5 +37636,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00515",
+    "contributor": {
+      "display_name": "Eirik"
+    },
+    "created": "Wed, 25 May 2022 23:22:52 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 25 May 2022 23:22:52 GMT",
+    "position": {
+      "latitude": 55.932807244134096,
+      "longitude": 13.973459934182753
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19596",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "95f93ee7-ff5a-4258-8d1a-842591daefd8",
+    "values": [
+      {
+        "created": "Wed, 25 May 2022 23:22:52 GMT",
+        "display_value": "1988",
+        "modified": "Wed, 25 May 2022 23:22:52 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "01431111-6fde-4396-b5bb-0680254dd84a"
+      },
+      {
+        "created": "Wed, 25 May 2022 23:22:52 GMT",
+        "display_value": "Den svenska regeringens val att lämna in en ansökan om NATO-medlemskap är ett djupt upprörande val. Vi gör oss därmed till en vasallstat, en amerikansk satellitstat.  Detta går stick i stäv med våra naturliga geopolitiska intressen, som ligger i en kontinental Europeisk linje. En sådan geopolitisk strategi/navigering innefattar en självständig Europeisk politik på internationell nivå. Ett \"Fort Europa\" som geostrategiskt har mer gemensamt med Ryssland. Ryssland är i sin tur en integral del av den Europeiska civilisationen och därmed en naturlig komponent i vår geopolitiska framtid. Denna måste rikta sig bort ifrån atlantistiska projekt och inta en Eurasisk linje. En allians mellan Väst och Öst-Rom och kontinentens Germaner i norr. Från Rejkavik i väst till Vladivostok i öst.",
+        "modified": "Wed, 25 May 2022 23:22:52 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "48428d06-a281-4946-b7b7-548125945bde"
+      },
+      {
+        "created": "Wed, 25 May 2022 23:22:52 GMT",
+        "display_value": "Mina känslor inför konflikten och kriget i stort är kanske inte den gängse , den man förväntar sig från gemene Svensson. Jag anser att kriget till viss del är rättfärdigat från ett geostrategiskt perspektiv. Ryssland har defacto hamnat i en säkerhetspolitiskt mer problematisk situation de senaste åren. Ett expanderande NATO, som är USAs förlängda arm i världen. Fler territorier runt Ryssland som upplåts åt Amerikanska militära installationer , geostrategiskt riktade mot Moskva. Ett USA inställt på att dominera hjärtlandet och hela Eurasien, genom att slå splitt mellan Europa och Ryssland och därmed klyva den eurasiska superkontinenten i tu. Med dessa förutsättningar till hands måste Ryssland agera. Annars har man USA och NATO i knäet inom en snar framtid.",
+        "modified": "Wed, 25 May 2022 23:22:52 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "a74dfa0e-c987-46af-9321-3492a9ec0f5c"
+      },
+      {
+        "created": "Wed, 25 May 2022 23:22:52 GMT",
+        "display_value": "Jag vill vara optimistisk, men det blir allt svårare. Den Russoamerikanska konfliktlinjen cementeras mitt i Europa och kan förväntas sätta sina spår i kontinenten för en lång tid framöver. Om jag tidigare trodde att Europa utav nödvändighet förr eller senare skulle börja närma sig Ryssland tror jag i dag att detta tyvärr ligger långt in i framtiden.",
+        "modified": "Wed, 25 May 2022 23:22:52 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "0e999ee9-37d9-4828-a536-b22ed85f7740"
+      },
+      {
+        "created": "Wed, 25 May 2022 23:22:52 GMT",
+        "display_value": "vi påverkas inte direkt. Dock märker vi av de ökande matpriserna till följd av sanktionerna mot Ryssland.",
+        "modified": "Wed, 25 May 2022 23:22:52 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "70e0b96e-9ac6-48d4-b9b1-0f8c43cd6595"
+      },
+      {
+        "created": "Wed, 25 May 2022 23:22:52 GMT",
+        "display_value": "Jag skulle upp tidigt ,till arbetet. Jag jobbar inom vården och pendlar med buss mellan Tollarp-Kristianstad-Åhus. När jag sitter på bussen strömmar nyhetsnotiserna in . Jag förstår snart att Ryssland har gått in i Ukraina. Väl på jobbet slår jag på TV'n, som vi har tillgång till i kundlägenheten. Där följer jag händelseutvecklingen under dagen . \nJag, som personligen följer utvecklingen i i Ryssland och dess närområde och har gjort detta långt innan kriget blev ett faktum, blev kanske inte chockad när nyheten kom. Det var dock omskakande att se bilderna på nyheterna . Det säger sig självt att ett krog i Europa inte är önskvärt och är något som gör ont att se.",
+        "modified": "Wed, 25 May 2022 23:22:52 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "eacfc633-91f9-49b8-ba71-3337b5281a41"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
