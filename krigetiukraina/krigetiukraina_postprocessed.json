@@ -37747,5 +37747,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00516",
+    "contributor": {
+      "display_name": "meta wiborgh"
+    },
+    "created": "Thu, 26 May 2022 06:48:53 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 26 May 2022 06:48:53 GMT",
+    "position": {
+      "latitude": 65.584819,
+      "longitude": 22.1567026
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19597",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "197975af-42f5-4342-a221-7befc049e78d",
+    "values": [
+      {
+        "created": "Thu, 26 May 2022 06:48:53 GMT",
+        "display_value": "1947",
+        "modified": "Thu, 26 May 2022 06:48:53 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "2b3b2023-74fc-40de-b070-2d4feb32963e"
+      },
+      {
+        "created": "Thu, 26 May 2022 06:48:53 GMT",
+        "display_value": "Som jag skrivit tidigare så tänker jag mycket på alla de krig som pågår och förtryck av människor.\nKlimatpåverkan som inte tycks tas på tillräckligt allvar av makthavare kommer leda till allt mer hunger och strider.",
+        "modified": "Thu, 26 May 2022 06:48:53 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "3b00cb2d-3c56-44ba-be28-6e3f8ac26ff3"
+      },
+      {
+        "created": "Thu, 26 May 2022 06:48:53 GMT",
+        "display_value": "Har funderat mycket på detta med att vi nu ” förstår” krigets fasor, för att det händer nära oss. Krig som pågår i andra delar av världen bleknar bort ur vårt  medvetande. Dessa människor från Ukraina som vi hör och ser på TV o i radio blir verkliga och borde stärka vår vilja att kämpa för fred",
+        "modified": "Thu, 26 May 2022 06:48:53 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "c2935731-9a33-4691-9761-c1a213b8e17a"
+      },
+      {
+        "created": "Thu, 26 May 2022 06:48:53 GMT",
+        "display_value": "Jag hoppas innerligt att kriget i Ukraina ska bli slutet gör Putins makt.\nMänniskorna i Ukraina kommer behöva mycket stöd för återuppbyggnad av ditt land\nAtt Ryssland och det ryska folket ska få en chans till en fredlig utveckling. Om världen ska kunna bestå behövs fred och samarbete inte kapprustning",
+        "modified": "Thu, 26 May 2022 06:48:53 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d815a7ba-9ede-4885-a5f2-a7e0a50bc5d0"
+      },
+      {
+        "created": "Thu, 26 May 2022 06:48:53 GMT",
+        "display_value": "Vi trodde det skulle komma många flyktingar till vår kommun så vi anmälde oss som kontaktfamilj, men ännu har inga kommit, i varje fall inga som vill ha kontaktfamilj",
+        "modified": "Thu, 26 May 2022 06:48:53 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ce9fdc49-e9cd-4935-895f-e6e6ebe1f7ac"
+      },
+      {
+        "created": "Thu, 26 May 2022 06:48:53 GMT",
+        "display_value": "Lyssnade på radio.",
+        "modified": "Thu, 26 May 2022 06:48:53 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "cdc553ed-ea3f-4eb9-b9bb-7eb08af2370b"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

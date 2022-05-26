@@ -4832,6 +4832,22 @@
           55.933
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Har funderat mycket på detta med att vi nu ” förstår” krigets fasor, för att det händer nära oss. Kr…",
+        "date": "26 maj 2022",
+        "author": "meta wiborgh",
+        "url": "https://minnen.se/tema/krigetiukraina/19597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.157,
+          65.585
+        ]
+      }
     }
   ]
 }
