@@ -4848,6 +4848,22 @@
           65.585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "För de barn som redan är sjuka är kriget en dödsdom. Den som inleder och fortsätter ett krig har red…",
+        "date": "27 maj 2022",
+        "author": "Mamma",
+        "url": "https://minnen.se/tema/krigetiukraina/19601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.438,
+          59.974
+        ]
+      }
     }
   ]
 }

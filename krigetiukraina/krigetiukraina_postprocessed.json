@@ -37858,5 +37858,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00518",
+    "contributor": {
+      "display_name": "Mamma"
+    },
+    "created": "Fri, 27 May 2022 06:49:47 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 27 May 2022 06:49:47 GMT",
+    "position": {
+      "latitude": 59.97418510000001,
+      "longitude": 23.4375724
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19601",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "9d0a0049-049d-4ec0-a01d-a065d7bb4856",
+    "values": [
+      {
+        "created": "Fri, 27 May 2022 06:49:47 GMT",
+        "display_value": "1977",
+        "modified": "Fri, 27 May 2022 06:49:47 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "5e96da66-9106-419c-9902-90a2914f26c0"
+      },
+      {
+        "created": "Fri, 27 May 2022 06:49:47 GMT",
+        "display_value": "Kvinnors, barns och avvikandes rättigheter är ännu väldigt dålig. Detta hör ihop med hur man går på jordens yta, bemöter jorden. Dessa problem är sammanlänkade. \nDet finns för många människor. Om kvinnor skulle få välja... \nDet ser ut som om allt är försent för mänskligheten att överleva, det ser inte ljust ut, det kan vem som helst med lite hjärta och förstånd se. Jag försöker att inte överföra detta till mina barn. \nOm inte ens Finlands främsta sjukhus, dvs det nya barnsjukhuset fungerar så är det illa ställt. Sjuksköterskornas, kvinnors, insats uppskattas inte. \nDet är som i tv-serien Siskonpeti, där stenålderskvinnor sitter runt elden och säger att \"det var bättre förr \"... Vi lever i 2022 och tror vi är så utvecklade och smarta.",
+        "modified": "Fri, 27 May 2022 06:49:47 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "35149cd6-aed4-4c37-8d73-2251a37c7ef9"
+      },
+      {
+        "created": "Fri, 27 May 2022 06:49:47 GMT",
+        "display_value": "För de barn som redan är sjuka är kriget en dödsdom. Den som inleder och fortsätter ett krig har redan i den stund många barns död på sin hand, den personen är redan en mördare. \nDet de ryska soldaterna gör mot barn, kvinnor och män (våldtar, torterar) i de länder de krigar är medveten ondska och jag anser de borde dödas, de ukrainska myndigheterna sade att västvärlden inte förstår vad de sett, och så är det. Våldtäkt är mord där offrets kropp fortfarande lever. \nInte heller Finlands sexualförbrytarlagar är rättvisa. Kvinnors och barns rättigheter angående våldtäkt och pedofili är väldigt bristande, rentav hånande mot offren, vilket ger upphov till hälso, mentala, ekonomiska problem. Det offer som känner att någon bryr sig helas snabbare. Av detta har jag också erfarenhet. \nDemokrati är en utomordentlig sak, men den kan bita sig i sin egen rumpa. Det måste finnas också vanligt bondförnuft.",
+        "modified": "Fri, 27 May 2022 06:49:47 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6b4263b7-eb3d-478e-8e9f-6e0f85b0b4ce"
+      },
+      {
+        "created": "Fri, 27 May 2022 06:49:47 GMT",
+        "display_value": "Katastrof för Europa och svältande länder. Katastrof för mänskligheten, för det enskilda offret. \nJag har svårt att se ljuset i tunneln som en räddning påväg.",
+        "modified": "Fri, 27 May 2022 06:49:47 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "421044ee-6e48-49f4-b0a2-4875ad36c8d9"
+      },
+      {
+        "created": "Fri, 27 May 2022 06:49:47 GMT",
+        "display_value": "Vi har packat en hätälaukku med de nödvändigaste, skrivit upp vänners telefonnummer och adress. Samlat foton till minnessticka. Håller biltanken full ( då det går ekonomiskt).",
+        "modified": "Fri, 27 May 2022 06:49:47 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "5b9ac8e8-dad4-47fa-8acd-3dbfe7ad0ae1"
+      },
+      {
+        "created": "Fri, 27 May 2022 06:49:47 GMT",
+        "display_value": "Vi läste och tittade nyheter. Vi (min familj) befann oss i orten där vår dotter är begravd. Vi hade lagt ljus på graven, eftersom hennes födelsedag varit två dagar tidigare, hon skulle ha blivit 18 år, föddes 2004. \nDet verkar vara svårt för många att förstå hurdan sorgen är då man förlorat ett barn. Om man inte själv upplevt det, kan man inte riktigt förstå, och endel har heller inget hjärta. \nDå jag fick höra nyheten frös mitt hjärta av fasa. Under dessa två åren har vi fått vår del av fasa, tvingats strida för att vår dotter skulle få vård, rätt vård, rätt bemötande, och om det kunde vi kunna skriva en hel bok. Hon hade diagnosen aplastisk anemi, en blodsjukdom, och pga att läkarna inte trodde oss, fick hon hjärninflammation. Även när hon inte kunde gå, tala, trodde de att allt var psykiskt. Det var en fasa utan like. Till slut låg hon i respirator och det enda hon kunde röra på var ögonen. \nDet finska folket kan vara nog så känslolöst, och jag stod ensam på många sätt efter hennes död. Men jag hade hunnit acceptera att de som inte förstår, förstår inte den riktiga världen, och jag var lycklig över att iallafall Finland var ett tryggt land för våra övriga barn. \nMen i den stund som kriget började slog trauman till med tusen procent, vi hade ingen att prata med, för inte heller en utbildad psykolog kan förstå ifall den själv inte upplevt känslan. \nJag började planera vart vi kunde skicka barnen: till denna stund hade jag inte förstått hur föräldrar under finska kriget kunde skicka bort sina barn, men ju mer ohyggligheter kom fram i dagen ( vad ryska soldater gör till barn i Ukraina) desto mer förstod jag gamla folket.",
+        "modified": "Fri, 27 May 2022 06:49:47 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "49decadb-7934-42da-9ca3-5ada7d6123d3"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
