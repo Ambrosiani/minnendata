@@ -37969,5 +37969,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00521",
+    "contributor": {
+      "display_name": "Cornelius Colliander"
+    },
+    "created": "Sat, 28 May 2022 08:06:10 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 28 May 2022 08:06:10 GMT",
+    "position": {
+      "latitude": 60.096391603413316,
+      "longitude": 22.024535091495512
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19604",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "88b6af62-865f-411f-b93f-d38c763e1c48",
+    "values": [
+      {
+        "created": "Sat, 28 May 2022 08:06:10 GMT",
+        "display_value": "1954",
+        "modified": "Sat, 28 May 2022 08:06:10 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e31ef6b0-a887-4c70-bab7-13f774693022"
+      },
+      {
+        "created": "Sat, 28 May 2022 08:06:10 GMT",
+        "display_value": "Världen håller på att polariseras och vi lever sedan åratal i ett öppet propagandakrig som känns väldigt obehagligt. Dessutom upplever vi en upprustningsiver och krigsretorik som kommer att göra våra nordiska länder till en trolig skådeplats för kommande väpnade konflikter mellan Ryssland och det sk. \"väst\". Samtidigt upplever Afrika och mellanöstern en situation av allvarlig och växande hungersnöd, Saudiarabien och en del av arabemiratstaterna för ett blodigt krig i Jemen och Kina är på kollisionskurs med USA.  Hotet om ett kärnvapenkrig har vuxit betydligt pgv av den tillspetsade situationen och Sveriges och Finlands NATO-medlemskap. Ingen talar längre för fred och diplomatiska lösningar.",
+        "modified": "Sat, 28 May 2022 08:06:10 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "3ec26bfc-d994-437d-a805-3d36863f4d97"
+      },
+      {
+        "created": "Sat, 28 May 2022 08:06:10 GMT",
+        "display_value": "Det känns fruktansvärt och situationen verkar vara utom kontroll.  Jag upplever stark solidaritet med det Ukrainska folket men också med de ryska soldater som tvingats in i kriget av Putins regim och alla oppositionella i Ryssland som delar min förtvivlan inför vad som sker.\nKriget är en mänsklig och själslig katastrof som skapar ett hat och en sorg som det kommer att ta generationer att komma över. Det känns bittert att se hur upprördheten över grymheterna och förstörelsen också utnyttjas till politiska syften och hur man drar både ryssar (de onda) och ukrainare (de goda) över en kam.  Mitt barnbarn frågade mig i går: varför måste man kriga, vi är ju alla sammadanna människor?",
+        "modified": "Sat, 28 May 2022 08:06:10 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e036aafd-2fa0-4315-95e4-f5873ac20497"
+      },
+      {
+        "created": "Sat, 28 May 2022 08:06:10 GMT",
+        "display_value": "Kriget kommer att eskalera och hungersnöden i världen att växa.",
+        "modified": "Sat, 28 May 2022 08:06:10 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "e0856258-8c56-4c07-96b2-fb93d94df3ba"
+      },
+      {
+        "created": "Sat, 28 May 2022 08:06:10 GMT",
+        "display_value": "Jag sover sämre och oroar mig över kommande matbrist och ekonomiska problem. Glad över att man alltid kan överleva ett tag på stugan ifall energin slås ut",
+        "modified": "Sat, 28 May 2022 08:06:10 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9891c873-9efb-4597-898f-803d56620d08"
+      },
+      {
+        "created": "Sat, 28 May 2022 08:06:10 GMT",
+        "display_value": "Nyheterna visade bilder av lågt flygande helikoptrar och man berättade att pansarkolonner var på väg in mot Kiev.  Ryssland hade gått till anfall mot Ukraina efter att i månader ha haft truppmanövrar nära gränsen. Anfallet kom egentligen inte som en överraskning, tvärtemot av vad som påstods. Redan några dagar innan berättade man från USAs håll att Ryssland skulle anfalla. Dessutom hade förhandlingarna mellan Ryssland och Ukraina gått i stå och Putin hade i ett tal betecknat Ukraina som en del av Ryssland och att landet inte egentligen existerade som självständig nation.\nKriget var också att vänta genom att Minsk-avtalet inte efterföljdes av Ukraina och att NATO aldrig gav löfte om att landet inte skulle bli medlem av försvarsorganisationen. Ryssland hade tydligt meddelat att detta under inga villkor kunde accepteras eftersom det såg NATO som ett direkt hot mot landets egna säkerhet.\nJag upplevde starkt att man från västs håll inte längre tog Rysslands oro på allvar och att man medvetet isolerade landet politiskt. Uppfattningarna om vad som höll på att hända gick mer och mer isär. I mitt land (Finland) fördes det samtidigt en allt hårdare propaganda för upprustning och samgång med NATO. Detta hade skett redan i åratal och olika avtal hade redan slutits med USA vilket senare ledde till att Finland beslöt att skaffa nya F-35 jaktplan därifrån.  Kriget var att vänta och man såg det komma.\nÄndå är jag är övertygad om att det hade gått att undvika och att Väst och även Ukraina är medansvariga för vad som skedde.",
+        "modified": "Sat, 28 May 2022 08:06:10 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "ac5a9829-e619-4267-87ad-6ae7b973516f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

@@ -4864,6 +4864,22 @@
           59.974
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det känns fruktansvärt och situationen verkar vara utom kontroll.  Jag upplever stark solidaritet me…",
+        "date": "28 maj 2022",
+        "author": "Cornelius Colliander",
+        "url": "https://minnen.se/tema/krigetiukraina/19604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.025,
+          60.096
+        ]
+      }
     }
   ]
 }
