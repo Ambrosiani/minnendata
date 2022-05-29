@@ -38302,5 +38302,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00526",
+    "contributor": {
+      "display_name": "Leo Beata"
+    },
+    "created": "Sun, 29 May 2022 22:16:26 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 29 May 2022 22:16:26 GMT",
+    "position": {
+      "latitude": 57.5808323,
+      "longitude": 12.7332414
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19609",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "31195bfb-88b0-455b-a3ed-d8744a885a10",
+    "values": [
+      {
+        "created": "Sun, 29 May 2022 22:16:26 GMT",
+        "display_value": "1949",
+        "modified": "Sun, 29 May 2022 22:16:26 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "419cd1d9-b637-4ef8-8fe2-595608346333"
+      },
+      {
+        "created": "Sun, 29 May 2022 22:16:26 GMT",
+        "display_value": "Världen är sjuk!\nVi ska vara rädda, vi skräms, hotas, manipuleras, övervakas, kontrolleras... för att bli lydiga, under förevändning att det handlar om vår \"säkerhet\" och \"vad som är bäst för Sverige\".\n\nVi hotas av Pandemi, Klimatkris, Ryssland, Antarktisvirus... och ska lita på \"experterna\" men bara på dom som tycker \"rätt\".  Idag - i det kontantlösa samhället - finns bara en sida på kronan! Det är lögn. Där det bara får finnas en sanning finns bara en \"tillrättalagd sanning\" som mycket väl kan vara en stor lögn!\n\nKlassklyftorna ökar i Sverige, i världen och mellan stater.  Förtrycket ökar för att hålla folk lugna!\n\nDen reella Makten finns hos ett Osynligt Globalt Kapital, som styr våra politiker och oss. Vi är lika övervakade och maktlösa i vår \"demokrati\" som folket är i \"diktaturer\"... det är gradskillnad men ingen artskillnad. Kanske syftet är en diktatorisk världsregering???\n\nTycka nåt som inte \"makten\" gillar betyder utfrysning, en skur av invektiv, misstroende, förlust av jobb... Vi ska säga \"JA\" till Covid-vaccinering, \"JA\" till klimatförändringen, \"JA\" till \"mångfald\", \"Nej\" till Putin... annars islamofob, homofob, antivaxxare, putinkramare, rasist... det har gått så långt att folk inte säger vad dom tycker längre. Vågar inte! Vi litar inte längre på varandra. Skrämmande utveckling!",
+        "modified": "Sun, 29 May 2022 22:16:26 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "be5041ab-308f-495a-babc-e36e6c231b86"
+      },
+      {
+        "created": "Sun, 29 May 2022 22:16:26 GMT",
+        "display_value": "Så jävla onödigt, fel, vansinnigt... bl.a efter allt prat om \"klimatkris\"... Västmedia ger Ryssland hela skulden, men det finns en historia bakom där Väst har stöttat/påverkat Ukraina att närma sig Väst... hur många som initialt ville det har vi ingen aning om... \n\nUSA slutar aldrig förfölja den som anses vara \"kommunist\", ha relationer med en \"kommunist\" ... typ gamla Jugoslavien som bombades sönder, Libyen - Khadaffi var \"olydig\", Irak - Saddam Hussein hade kommunistrelationer...\n\nUSA tål nog inte heller att visselblåsaren Edvard Snowden finns i Ryssland och att dom har fängslat en idrottskvinna för cannabisinnehav!\n\nI denna kamp deltar hela västvärlden \"Den som inte är med oss är emot oss\", sa gamle Bush. och vem vågar vara ovän med USA? Då kan en få en bomb i skallen, ekonomiska sanktioner, blockader...\n\nUSA har länge velat utvidga, visa sin makt, testa sina vapen och få nån typ av världsherravälde... därför sker militärmanövrer nära ryska gränsen mer och mer provokativt, Rysslands grannländer knyts närmare och närmare NATO... självklart känner sig Ryssland hotat!\n\nPrecis som USA och Australien gör när Kina expanderar i Stilla havs området. \n\nHade Väst accepterat att Ryssland är Ryssland och samarbetat, handlat och släppt in Ryssland i gemenskapen hade allt varit frid och fröjd... men det klarar inte stridspittiga USA och väst hangaroundsen.\n\nAlltihop är tragiskt, livsfarligt, omoraliskt och skapar lidande hos redan fattiga människor över hela världen. Brist på mat, fördyrade livsmedel...",
+        "modified": "Sun, 29 May 2022 22:16:26 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "c757ac7c-ae72-4ece-bfb8-44cab004d01f"
+      },
+      {
+        "created": "Sun, 29 May 2022 22:16:26 GMT",
+        "display_value": "Backar inte USA, Västvärlden och NATO utan fortsätter pressa Ryssland... då kommer bomben!   Ett utvidgat suicid på statsnivå!\n\nJag är inte rädd för kriget eller bomben. Det fixar jag! Det som oroar mig är min ökande ålder och kommande vårdbehov, men den oron hade funnits även utan kriget i Ukraina. Jag har redan upplevt hur gamla behandlas i vårdsverige!",
+        "modified": "Sun, 29 May 2022 22:16:26 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "24bd6ea0-8ffc-4ed4-b77a-4fd1fe038219"
+      },
+      {
+        "created": "Sun, 29 May 2022 22:16:26 GMT",
+        "display_value": "Känner mig förbannad över Sveriges ansökan om medlemskap i krigsmaskinen NATO. Våra politiker har drabbats av panik och svenska folket av masspsykos! För övrigt påverkas jag av dyr diesel, dyr el, dyr mat... i förlängningen kommer vård/skola/omsorg att dräneras på resurser som ska gå till försvaret. Inte roligt med tanke på att jag är fattigpensionär och blir äldre...",
+        "modified": "Sun, 29 May 2022 22:16:26 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "2f7a08cc-e6a6-4cac-b195-6be63a949458"
+      },
+      {
+        "created": "Sun, 29 May 2022 22:16:26 GMT",
+        "display_value": "Har radion på om nätterna, var vaken och hörde första rapporten om att Ryssland gått in i Ukraina och att det hördes explosioner. Tänkte, jaha... äntligen blev det som USA och Nato ville!",
+        "modified": "Sun, 29 May 2022 22:16:26 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "682d4716-2c42-44c8-88b9-ad0f393a1cf4"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
