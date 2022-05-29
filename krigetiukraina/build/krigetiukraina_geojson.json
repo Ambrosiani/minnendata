@@ -4896,6 +4896,22 @@
           59.309
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Vad är det som gör att en människa blir så maktgalen att den tar sig friheter att starta ett krig? E…",
+        "date": "29 maj 2022",
+        "author": "Ulrika",
+        "url": "https://minnen.se/tema/krigetiukraina/19607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.913,
+          60.66
+        ]
+      }
     }
   ]
 }
