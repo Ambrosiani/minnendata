@@ -38080,5 +38080,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00522",
+    "contributor": {
+      "display_name": "Susanne"
+    },
+    "created": "Sun, 29 May 2022 09:24:58 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 29 May 2022 09:24:58 GMT",
+    "position": {
+      "latitude": 59.309344749461914,
+      "longitude": 18.01696070136806
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19605",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "fd72f05f-9cb2-4541-9c69-a7eeec7d041b",
+    "values": [
+      {
+        "created": "Sun, 29 May 2022 09:24:58 GMT",
+        "display_value": "1972",
+        "modified": "Sun, 29 May 2022 09:24:58 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "3150a4d8-aaf3-4fdc-b317-373711b28cb2"
+      },
+      {
+        "created": "Sun, 29 May 2022 09:24:58 GMT",
+        "display_value": "Jag känner mig som förlamad av skräck. Allt upprepar sig från 1919. Vilket betyder att vi kommer få många årtionden med att bygga upp allt igen. Matpriser gör att husmorstips hur man kan laga middag på inget kommer bli en verklighet. Vi kommer att uppleva fattigdom och svält. Nästa år kommer inte tillgång av mat vara självklar.",
+        "modified": "Sun, 29 May 2022 09:24:58 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "7acd94c8-1997-4360-a463-d6b78607373c"
+      },
+      {
+        "created": "Sun, 29 May 2022 09:24:58 GMT",
+        "display_value": "Det känns så fruktansvärt och barbariskt: det pågår folkmord med fler mördade som en utrensning av Ukrainare -  och deportering till Ryssland. Fler mördade än Hitlers utrensning av judar. Världen tittar på. Det räcker inte med sanktioner eller skicka vapen. Vi måste göra mer för folket som nu kommer lida i generationer framåt. Mina föräldrar föddes i Sverige, men jag som barnbarn lider ändå av mina förfäders upplevelser, trauman. Det blir ett DNA",
+        "modified": "Sun, 29 May 2022 09:24:58 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "412a4b03-8aaf-4c56-b50e-f1634bb9e718"
+      },
+      {
+        "created": "Sun, 29 May 2022 09:24:58 GMT",
+        "display_value": "Min framtidstro är ledsam just nu. Fattigdom och svält kommer bli verklighet är jag rädd för. Vi kommer se tillbaka på konsumtionen som en illusion. Men vi kanske blir finare på insidan av det? Vi kanske kommer hjälpa varandra mer? Förstå vad som är viktigt igen?",
+        "modified": "Sun, 29 May 2022 09:24:58 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "223486de-5b07-44e8-8a55-2333bf3cf3bd"
+      },
+      {
+        "created": "Sun, 29 May 2022 09:24:58 GMT",
+        "display_value": "Jag har köpt mat för flera månader, sovsäck, två stormkök, solcellsladdare, funderat mentalt om d t kommer krig. Jag sitter timmar på nätet för att fånga upplevelser på TikTok och Instagram. Jag spenderar inte heller lika mkt pengar som förr",
+        "modified": "Sun, 29 May 2022 09:24:58 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e237e423-a4bc-4290-a94a-f07b1717af32"
+      },
+      {
+        "created": "Sun, 29 May 2022 09:24:58 GMT",
+        "display_value": "Min släkt flydde från Estland. Så hela min uppväxt fick jag höra om hur de flydde från ryssarna. Det sitter som en rädd gen i min DNA. Så jag började söka info redan före svensk media berättade om invasionen. Ryssarna har ju övat på att invadera Sverige i många år och mer intensivt nu. Så jag sökte info på internet i utländsk media.",
+        "modified": "Sun, 29 May 2022 09:24:58 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d24b75e6-4c3f-454d-997f-142c75987ec0"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

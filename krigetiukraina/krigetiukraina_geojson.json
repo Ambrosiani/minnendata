@@ -4880,6 +4880,22 @@
           60.096
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det känns så fruktansvärt och barbariskt: det pågår folkmord med fler mördade som en utrensning av U…",
+        "date": "29 maj 2022",
+        "author": "Susanne",
+        "url": "https://minnen.se/tema/krigetiukraina/19605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.017,
+          59.309
+        ]
+      }
     }
   ]
 }
