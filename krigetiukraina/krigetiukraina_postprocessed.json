@@ -38413,5 +38413,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00529",
+    "contributor": {
+      "display_name": "VulpineRainbow"
+    },
+    "created": "Mon, 30 May 2022 12:58:04 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 30 May 2022 12:58:04 GMT",
+    "position": {
+      "latitude": 61.35110538428018,
+      "longitude": 16.39188730391421
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19612",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "1b3cac54-c097-4043-a313-6d58b3a24989",
+    "values": [
+      {
+        "created": "Mon, 30 May 2022 12:58:04 GMT",
+        "display_value": "1996",
+        "modified": "Mon, 30 May 2022 12:58:04 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "222570fe-8327-4d34-92ca-6f49833bc5c4"
+      },
+      {
+        "created": "Mon, 30 May 2022 12:58:04 GMT",
+        "display_value": "Om inte mer och konkret handlingskraft ges till FN har vi sannolikt ett tredje och sista världskrig.",
+        "modified": "Mon, 30 May 2022 12:58:04 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "87adf662-badf-427b-a758-496876fa49a4"
+      },
+      {
+        "created": "Mon, 30 May 2022 12:58:04 GMT",
+        "display_value": "Otroligt att det kunde ske då det varit så många chanser att förhindra det.",
+        "modified": "Mon, 30 May 2022 12:58:04 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "d384ac19-bde6-4d2d-96b3-dcf64f362a39"
+      },
+      {
+        "created": "Mon, 30 May 2022 12:58:04 GMT",
+        "display_value": "Inflation, hat och förstörelse. Detta kommer att bli de dominerande krafterna.",
+        "modified": "Mon, 30 May 2022 12:58:04 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "13261ca7-2910-4881-928e-385941ba58f9"
+      },
+      {
+        "created": "Mon, 30 May 2022 12:58:04 GMT",
+        "display_value": "Inte mycket mer än dyrare priser och en markant ökning av öppet hat och empatilöshet.",
+        "modified": "Mon, 30 May 2022 12:58:04 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "a4b44fcb-6c2a-4f8e-a0fc-fca9237d5cb8"
+      },
+      {
+        "created": "Mon, 30 May 2022 12:58:04 GMT",
+        "display_value": "Insåg att det skulle ske veckor i förväg på grund utav alla rapporter och expert uttalanden som var månaderna innan kriget. Fick reda på utbrottet genom vänner.",
+        "modified": "Mon, 30 May 2022 12:58:04 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "1859c1b3-8e24-4e44-a363-6f76f37c41c9"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
