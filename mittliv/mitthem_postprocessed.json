@@ -79180,5 +79180,184 @@
       "latitude": 59.333222,
       "longitude": 18.268516
     }
+  },
+  {
+    "archive_code": "M1:2/00709",
+    "contributor": {
+      "display_name": "Mira"
+    },
+    "created": "Tue, 31 May 2022 06:45:35 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 31 May 2022 06:45:35 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19624",
+    "published": true,
+    "school_uuid": "f31de3ac-3d1c-4275-97d7-7e0075ecdefc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "a49b1359-e942-426f-87e8-2dfd6c4cf3d2",
+    "values": [
+      {
+        "created": "Tue, 31 May 2022 06:45:36 GMT",
+        "display_value": "Jag har ett eget rum i vår lägenhet och mitt rum är det största rummet i vår lägenhet och jag har en Tv i mitt rum och en walk in closet  i mitt rum jag har även ett skrivbord i mitt rum .",
+        "modified": "Tue, 31 May 2022 06:45:36 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "ba55a409-891a-4397-9701-462ab2bf808d"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:36 GMT",
+        "display_value": "Jag gillar att titta på min serie på Netflix och vara ute med kompisar .  Jag gillar att myssa med mina katter jag har tre katter en som heter Astrid och en som heter Piggelin och en liten kille som heter Frasse .",
+        "modified": "Tue, 31 May 2022 06:45:36 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "d6324da8-f035-4ea0-a0db-2a6ea48954d8"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:36 GMT",
+        "display_value": "122",
+        "modified": "Tue, 31 May 2022 06:45:36 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "4830fabe-352c-4801-bc21-52f5e140bcb4"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:36 GMT",
+        "display_value": "Det är mysigt och vi har ett hemligt rum hemma hos oss vi har två toaletter tre rum och vi bor i en lägenhet .  kyl och frys är i köket .",
+        "modified": "Tue, 31 May 2022 06:45:36 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "c0656ab6-d0d1-456e-85bf-b6c7ad52a448"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:36 GMT",
+        "display_value": "1 Februari 2021 flyttade jag hit så jag har bott här nästan ett år .",
+        "modified": "Tue, 31 May 2022 06:45:36 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "39271eb3-c5df-4a13-a505-04869ea20e30"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:36 GMT",
+        "display_value": "Vardagsrummet , toaletten , balkongen , mammas rum , köket , matsalen , rummet under trappan , mitt rum , Adams rum , toaletten , walk in closet , mammas walk in closet ,  hallen ,",
+        "modified": "Tue, 31 May 2022 06:45:36 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "99cef0b9-e4a2-4589-acbc-49990711fc80"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:35 GMT",
+        "display_value": "2010",
+        "modified": "Tue, 31 May 2022 06:45:35 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "36e5f824-f1f7-47b0-9aca-6864c5c8d471"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:35 GMT",
+        "display_value": "Hemma hos mig får man inte skrika på varandra eller i lägenheten . Man får inte jaga eller skrämma katterna man får inte slåss och man måste städa efter sig .",
+        "modified": "Tue, 31 May 2022 06:45:35 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "06aea94d-497b-4512-9be9-53065f6b65df"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:35 GMT",
+        "display_value": "Det finns en liten gård där man kan leka och man kan se alla andra lägenheter och det är som en liten inne gård .",
+        "modified": "Tue, 31 May 2022 06:45:35 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "9b6fd8dc-f6e6-4d98-bd1f-677cc0119342"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:35 GMT",
+        "display_value": "Jag brukar hjälpa mamma att städa och diska ibland med att laga mat . Dels för mamma jobbar mycket och ibland vill man känna lite pengar .",
+        "modified": "Tue, 31 May 2022 06:45:35 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "8c8606b9-acb7-44e7-bbb3-e2d21e6a628d"
+      },
+      {
+        "created": "Tue, 31 May 2022 06:45:35 GMT",
+        "display_value": "Jag mamma och Adam min lille bro och min styv pappa Robin sen så har jag tre katter två tjejer och en kille . Mamma katten heter Piggelin och den lilla tjejen heter Astrid och den lilla killen heter Frasse .",
+        "modified": "Tue, 31 May 2022 06:45:35 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "71cc587d-38b9-43a4-9123-c97ced8cc186"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
