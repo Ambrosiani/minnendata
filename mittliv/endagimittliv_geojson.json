@@ -26816,6 +26816,134 @@
           58.375799
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv\n\nJag heter Emil går i 4b här en dag i mitt liv. \n\nJag vaknade 7:00 jag går och klä…",
+        "date": "31 maj 2022",
+        "author": "Emil",
+        "url": "https://minnen.se/tema/endagimittliv/19625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv\nHej,jag heter Basia.Jag är 11 år och jag bor i Linköping och så har kan en dag i m…",
+        "date": "31 maj 2022",
+        "author": "Barbara",
+        "url": "https://minnen.se/tema/endagimittliv/19626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En vanlig dag i mitt liv\n\nNu ska jag skriva vad jag gjorde 25.03.2022….\nDe är Fredag Morgon och mamm…",
+        "date": "31 maj 2022",
+        "author": "Emilia",
+        "url": "https://minnen.se/tema/endagimittliv/19627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag heter Leah och går på blästadsskolan (som ligger i linköping). Jag ska berätta om den 25:e mars …",
+        "date": "31 maj 2022",
+        "author": "Leah ",
+        "url": "https://minnen.se/tema/endagimittliv/19630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv<3\n(Nån gång i 2022 när det inte är helg)\nHej! Jag är Cassandra och går på blästads…",
+        "date": "31 maj 2022",
+        "author": "Cassandra",
+        "url": "https://minnen.se/tema/endagimittliv/19631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Mitt liv\nHej! Jag heter Emilia och är 10 år. Jag gillar hästar och rider i verkligenheten. Jag går i…",
+        "date": "31 maj 2022",
+        "author": "Emilia",
+        "url": "https://minnen.se/tema/endagimittliv/19632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En vanlig dag i mitt liv\n                                           Fredag  2022 25/3\nJag heter Meli…",
+        "date": "31 maj 2022",
+        "author": "Melissa",
+        "url": "https://minnen.se/tema/endagimittliv/19633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv\n                              Fredag 25/3 2022 Luna\nJag vaknar 07:15 varje dag för…",
+        "date": "31 maj 2022",
+        "author": "Luna",
+        "url": "https://minnen.se/tema/endagimittliv/19634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
     }
   ]
 }
