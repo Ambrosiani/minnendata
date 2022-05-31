@@ -26944,6 +26944,22 @@
           58.375799
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag går upp och gör frukost jag har ost och smör på mackan och dricker mjölk sen borstar\ntänderna oc…",
+        "date": "31 maj 2022",
+        "author": "Henning",
+        "url": "https://minnen.se/tema/endagimittliv/19635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.677928,
+          58.375799
+        ]
+      }
     }
   ]
 }
