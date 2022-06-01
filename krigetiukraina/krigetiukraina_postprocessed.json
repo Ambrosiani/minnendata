@@ -38635,5 +38635,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00535",
+    "contributor": {
+      "display_name": "Siv Fagerlund"
+    },
+    "created": "Wed, 01 Jun 2022 16:44:09 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 01 Jun 2022 16:44:09 GMT",
+    "position": {
+      "latitude": 60.45958203990467,
+      "longitude": 22.624428572034834
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19640",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d83b35cb-eba2-4d66-8bcc-ab042aa9e7c3",
+    "values": [
+      {
+        "created": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "display_value": "1938",
+        "modified": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "656b50d1-7246-4bfb-8a70-0dc8bb80f621"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "display_value": "Världen är helt förändrad, den. har blivit större, först var det Pandemin, som. gjorde att hela \"världen\" genom smittan kom. närmare, sedan kom kriget och Europa kom närmare genom Natodiskussionerna, också USA till en del, och den solidaritet man kände för det ukrainska folket stärkte ett slags europeisk samhörighet. Norden, speciellt Sverige och Finlad närmade sig varandra på ett alldeles nytt  sätt och jag uppskattar det sistnämnda , jag är en mycket nordisk människa, som gärna ser Norden som en enhet också i Europa.\nTrots att det som har hänt de senaste tre åren måste jag säga, att jag också ser ganska positivt på denna utveckling, det är någonting med \"världsordningen\" som har förändrats, håller på att förändras, och det måste ske förr eller sennare'",
+        "modified": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "e382a4c8-90d1-4525-9981-9df505655c97"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "display_value": "Jag är oerhört upprörd och tänker att detta slags krig inte hör hemma i 2000-talet. Jag är  också chockad över Rysslands omåttliga grymhet och förstörelselusta både mot människor och städer, Jag ser Ryssland, som ett farligt isolerat land, som inte på grund av sin odemokratiska situation \"fått\"/ kunnat utvecklas och det är svårt att förstå att ett stycke ledare ensam kan få ett helt folk och sina närmaste underlydande att \"lyda\" och tro på \"sanningar\" som ställer landet i opposition MOT en hel värld. Helt ofattbart!!\nUkrainas folk och ledare är otroligt hängivna sitt land och Nato-länderna gör ett bra arbete för att hjälpa och undvika direkt konfrontation och världskrig, men visst är det omåttligt svårt att ändå vara tvungna att \"bara\" vara s a s \"åskådare till allt lidande som det ukrainska folket utsätts för.  De ukrainare som flytt och  finns i våra länder är mycket uppskattade för sitt sätt att\" vara\" och ta emot den hjälp som ges.\nDet är påfrestande att kriget räcker så länge och man ser inte något slut på det och folkets plågor blir värre och värre för dem som ännu finns kvar i de mest belägrade städerna.",
+        "modified": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "348c62e8-b7e0-422a-92f1-58655ce7bec2"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "display_value": "Jag hoppas, tror, ber och vill absolut att Ukraina förmår förbli ett självständigt land, det hör till min syn på Europa som en demokratisk del av världen. \n\nJag önskar också av hela mitt hjärta att någonting skulle hända i Ryssland, en större öppning mot \"världen\" i övrigt, men jag \"ser inte\" riktigt hur det skulle gå till om inte något slags opposition förmår växa fram hos folket och Putins närmaste anhang. Detta land är i dag en \"påle i köttet\" på större delen av världen.\nTack för mig!",
+        "modified": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "81070dd5-e640-4114-a839-1644175c981c"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "display_value": "Min/ vår familjs och närmaste vänners vardag påverkas inte nämnvärt, i början var vi som granne med Ryssland mera rädda, det gamla \"rysshatet\" och rädslan gjorde sig påmint, men efter hand har vi förstått att Ryssland inte just nu tänker \"anfalla oss\"  och NATO- anslutningen diskuteras mycket, Finland går snart in i en ny politisk situation som både skrämmer och gläder.\nNågra av mina vänner arbetar akrivt med de ukrainska flyktingar som finns i vår stad och via dem får jag information och ställer upp med den hjälp och det stöd jag förmår. Alla är på något sätt angagerade i Ukraina.",
+        "modified": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "780665cf-6776-4607-a2a5-7b99c485af26"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "display_value": "Det kom så småningom, vi trodde inte, av någon naiv anledning, att det skulle bli ett fullt utvecklat krig, Krigsverkligheten och Rysslands agerande drabbade oss bit för bit och när vi fattade vidden blev vi chockade och, eftersom vi bor i Finland, rädda, mycket rädda i första skedet.",
+        "modified": "Wed, 01 Jun 2022 16:44:09 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "e8af8f63-4f38-4fd2-8eff-657235e943d9"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

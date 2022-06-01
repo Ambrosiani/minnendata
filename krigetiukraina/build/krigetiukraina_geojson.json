@@ -4960,6 +4960,22 @@
           57.107
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är oerhört upprörd och tänker att detta slags krig inte hör hemma i 2000-talet. Jag är  också ch…",
+        "date": "1 juni 2022",
+        "author": "Siv Fagerlund",
+        "url": "https://minnen.se/tema/krigetiukraina/19640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.624,
+          60.46
+        ]
+      }
     }
   ]
 }
