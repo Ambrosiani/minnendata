@@ -4944,6 +4944,22 @@
           61.351
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Fruktansvärt! Allt detta lidande för civilbefolkningen och för de ukrainare som strider för sitt lan…",
+        "date": "1 juni 2022",
+        "author": "Elisabeth Lund",
+        "url": "https://minnen.se/tema/krigetiukraina/19639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.252,
+          57.107
+        ]
+      }
     }
   ]
 }

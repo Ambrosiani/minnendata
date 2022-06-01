@@ -38524,5 +38524,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00534",
+    "contributor": {
+      "display_name": "Elisabeth Lund"
+    },
+    "created": "Wed, 01 Jun 2022 15:18:21 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 01 Jun 2022 15:18:21 GMT",
+    "position": {
+      "latitude": 57.107118,
+      "longitude": 12.2520907
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19639",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "802eeb02-2b16-43db-b9d8-5dadd471ff8e",
+    "values": [
+      {
+        "created": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "display_value": "1959",
+        "modified": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "86f5fb0b-6b62-40b5-b9ae-7adc084d39d5"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "display_value": "Helt otroligt att en diktator som Putin kan få fortsätta att via massmedia manipulera och hjärntvätta ett helt lands invånare så som nu sker. Förstår att många unga, högutbildade ryssar lämnar landet, vilket också blir en stor förlust för Ryssland på sikt.\nBlir det kanske en ny, rysk revolution när det ryska folket blir fattigt nog? \nDessutom har vi fler maktgalna ledare runt om i världen. I Nord-Korea, Kina, Turkiet m fl länder, alla lika oberäkneliga. \nHar varit emot Sveriges anslutning till NATO fram tills nu, men nu har jag tänkt om och faktiskt svängt i den frågan.  Vi har redan ett stort samarbete med både NATO och Finland. Tycker ändå det har gått lite väl fort och med för lite föregående debatt. Hade gärna sett en lite vägledande folkomröstning i den frågan. Tror inte Ryssland har være sig några intentioner eller någon kapacitet att anfalla något land i Norden på många år framöver.",
+        "modified": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "5753eda4-736d-4671-a4d3-d4477ca02024"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "display_value": "Fruktansvärt! Allt detta lidande för civilbefolkningen och för de ukrainare som strider för sitt lands självständighet. \nMed andra världskriget i färskt minne borde mänskligheten ha lärt sig att krig aldrig leder till någon vinst- bara mänskliga, materiella och ekonomiska förluster, lidande och död. \nHur många år kommer det inte att ta Ukraina att återuppbygga sitt stackars land? Hur många mänskliga tragedier, både där och i Ryssland? Förstår inte Putin vad han gör både mot ukrainska och mot sitt eget folk? Ingen normalt funtad människa kan väl vilja ha krig?",
+        "modified": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "6e1da916-97a5-428b-938b-9d39fd52caac"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "display_value": "Ett jättejobb för dem att återuppbygga sitt land igen,  om/när kriget en gång tar slut. De kommer att behöva all hjälp de kan få av både EU och enskilda länder. \nSå länge det kan sitta människor som Putin, Kim Jong Un, (Trump),  m fl vid makten i några länder kan vi aldrig slappna av helt och känna oss trygga. \nJag har t ex kollat upp var mitt närmaste skyddsrum ligger, bunkrat vissa livsmedel, vatten,  en summa kontanter mm hemma, något jag inte hade en tanke på att det kunde behövas före pandemin och händelserna i Ukraina. Vi är också otroligt sårbara i det tekniska data-samhälke vi lever i idag.",
+        "modified": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "83913b6e-3960-41e5-8ae0-358ed6daab41"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "display_value": "Framför allt med höjda priser på drivmedel, livsmedel och el. Svårare att få pengar över att spara var månad. Begränsad rörlighet, inte råd med så många rena nöjesturer längre. \nLider också med en  ukrainsk elev, men också med en rysk medborgare som jag möter dagligen på min arbetsplats.  Inte vanliga ryssar fel att Putin handlar som han gör. \nHar vänner på Sri Lanka som har stora ekonomiska problem i dagsläget, el-ransonering,arbetslöshet mm och som jag brukar hjälpa om/när jag kan.",
+        "modified": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "dfa9b46e-6e4b-4d49-b56d-ca8f19ec4e53"
+      },
+      {
+        "created": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "display_value": "Läste i appen Upday News på morgonen den dagen att Ryssland hade gått in i Ukraina.Trodde först knappt det var sant! Inte år 2022!\n Men av en så oberäknelig man som Putin kan man vänta sig vad som helst,  tänkte jag sedan.",
+        "modified": "Wed, 01 Jun 2022 15:18:21 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "017a8200-a847-43bd-b09a-6753a93c6302"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
