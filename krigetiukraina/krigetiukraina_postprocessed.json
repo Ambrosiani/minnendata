@@ -38746,5 +38746,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00536",
+    "contributor": {
+      "display_name": "Jan-Erik Ingvall"
+    },
+    "created": "Fri, 03 Jun 2022 13:50:55 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 03 Jun 2022 13:50:55 GMT",
+    "position": {
+      "latitude": 59.70294381580274,
+      "longitude": 23.397225445249628
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19656",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "726190a0-e8d1-4920-b8ee-6b953dd6d841",
+    "values": [
+      {
+        "created": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "display_value": "1947",
+        "modified": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "6543ff43-7789-48d1-886d-7aa790e0a9b2"
+      },
+      {
+        "created": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "display_value": "Helt hopplöst med tanke på alla de utmaningar som redan funnits. Vi ser nu på nära håll  det som många folk har fått utstå i lokal konflikter och krigshandlingar. Vi blir påminda om andra diktaturens, t.ex. Kinas, övergrepp, som man blundat för. Skulle inte förvåna om detta slutar  med kärnvapenanvändning. Någons tålamod tar  slut. Det kan göra slut på kriget, men knappast leda till fred o försoning. Spåren blir kvar så långe mänskligheten existerar.",
+        "modified": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "1691c144-3f32-4bbc-a369-3fa68cfeb636"
+      },
+      {
+        "created": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "display_value": "Jätte obehag o hjälplöshet. Och medlidande, inte bara för ukrainarna, utan för alla soldater. De ryska har tvingats och hjärntvättats, kanske drogats. Ett fullständigt förakt mot Putin och hans anhang och mot patrark Kirrill. Tror att detslutar mycket illa för Europa.",
+        "modified": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "16cc7ee8-bf90-440f-9f57-1fc493d57b34"
+      },
+      {
+        "created": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "display_value": "Svart färg. Svårt att hoppas på förändringar i livstil och ekologiskt hållbar ekonomi efter denna vansinnighet. Besviken på hurryska folket föhållitsig likgiltigt till utvecklingen. Kommer ihåg min tyska lärares ord \" man muss sich engagieren\" gällande politik ochsamhällsfrågor.",
+        "modified": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "d03be137-9a6f-4cab-ba71-a6ffd2c04fc4"
+      },
+      {
+        "created": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "display_value": "Livet blir dyrare, fastän den utvecklingen hade vi nog sett  ändå, och svårt att kunna gläjda sig över att det ännu är relativt bra här hemma.  Har kunnat hjälpa i skolan där det går ukrainska barn. Det fortsätter kanske på hösten.",
+        "modified": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "5a418016-c6da-4f9d-9ace-2c1b0f532f2c"
+      },
+      {
+        "created": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "display_value": "Via tv-nyheterna. Det var chockerande, men väntat.",
+        "modified": "Fri, 03 Jun 2022 13:50:55 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "6a10c299-70f1-4f33-83da-e61bd1f75744"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
