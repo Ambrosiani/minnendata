@@ -4992,6 +4992,22 @@
           59.703
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är så besviken på Ryssland. Det finns så många kriser världen gemensamt borde bemöta och hantera…",
+        "date": "5 juni 2022",
+        "author": "Jenny",
+        "url": "https://minnen.se/tema/krigetiukraina/19659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93,
+          60.242
+        ]
+      }
     }
   ]
 }

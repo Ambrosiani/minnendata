@@ -38857,5 +38857,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00539",
+    "contributor": {
+      "display_name": "Jenny"
+    },
+    "created": "Sun, 05 Jun 2022 15:44:49 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 05 Jun 2022 15:44:49 GMT",
+    "position": {
+      "latitude": 60.24199552684356,
+      "longitude": 19.930159601534896
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19659",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "73c4c9ef-e039-42ff-bdb1-3028a1b40d4a",
+    "values": [
+      {
+        "created": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "display_value": "1981",
+        "modified": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "26ca3f06-dccd-4ae9-9dda-8bba909b1349"
+      },
+      {
+        "created": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "display_value": "Jag tänker så besviken på alla politiska ledare som inte tagit oss längre än såhär. Jag undrar om läget hade varit detsamma med fler kvinnor i statsledande positioner.",
+        "modified": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "502d05be-43db-4839-8689-0dd236a442c2"
+      },
+      {
+        "created": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "display_value": "Jag är så besviken på Ryssland. Det finns så många kriser världen gemensamt borde bemöta och hantera, såsom alla problem som relaterar till klimatförändringar och klimatomställning. Istället startar man invasionskrig helt oprovocerat. Det är för bedrövligt. Har vi inte kommit längre?",
+        "modified": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "0e40d54f-66e6-46e8-8e26-40e1d3026c4d"
+      },
+      {
+        "created": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "display_value": "Jag försöker vara hoppfull men det är svårt. Min tro på mänskligheten och förmågan att enas mot en gemensam fara såsom klimatförändringar är mer eller mindre förlorad.",
+        "modified": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c407238e-ce87-4359-ae63-ddbb806f65bd"
+      },
+      {
+        "created": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "display_value": "Jag har vänner och bekanta i/från Ukraina. Är beroende av personal från Ukraina som inte kommer därifrån. Det påverkar mig direkt. De är svåra att ersätta.",
+        "modified": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e17e3527-e86e-401c-a899-2f997dd25675"
+      },
+      {
+        "created": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "display_value": "Jag läser alltid nyheter på morgonen när jag äter frukost. Ville inte tro att det var fullt så allvarligt.",
+        "modified": "Sun, 05 Jun 2022 15:44:49 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d6e3ac43-c5e5-445c-b9bb-f0f8f1115064"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
