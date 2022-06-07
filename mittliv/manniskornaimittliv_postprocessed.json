@@ -21007,5 +21007,58 @@
       "latitude": 59.333222,
       "longitude": 18.268516
     }
+  },
+  {
+    "archive_code": "M1:3/00571",
+    "contributor": {
+      "display_name": "Johanna "
+    },
+    "created": "Tue, 07 Jun 2022 07:04:13 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Jun 2022 07:04:13 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19666",
+    "published": true,
+    "school_uuid": "f31de3ac-3d1c-4275-97d7-7e0075ecdefc",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "ed4d731e-5b71-447a-b6a1-348413e5bc2c",
+    "values": [
+      {
+        "created": "Tue, 07 Jun 2022 07:04:13 GMT",
+        "display_value": "2010",
+        "modified": "Tue, 07 Jun 2022 07:04:13 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "877587bf-507f-40a8-a531-9fdb10fe2ec5"
+      },
+      {
+        "created": "Tue, 07 Jun 2022 07:04:13 GMT",
+        "display_value": "Mina viktigaste personer är Mira och Ahlam och min farmor. Även fast vissa saker går lite snett slutar allt på ett bra sett tillslut. Min farmor har alltid stått och kommer alltid stå vid min sida levande eller död. Ahlam har varit där ända sedan 2019. Vi har sedan dess aldrig lämnat varandras sida och stöttar varandra hela vägen. Mira har däremot inte varit där så jätte länge. Hon kom in i kompis gruppen samma år som jag skriver det här. 2022. Båda är väldigt speciella för  mig även om de bråkar mycket båda två kommer det alltid sluta sams. Farmor bor långt härifrån. Men om glaset står på det andra bordet betyder det inte att jag inte kan gå till bordet och ta glaset. Även fast farmor mor 100 mil ifrån mig betyder det inte att jag inte kan resa dit. Hon har varit där i hela mitt liv. Både från början till nu.",
+        "modified": "Tue, 07 Jun 2022 07:04:13 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "9178356d-2f8e-4dac-a9f1-a61d61d2b029"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
