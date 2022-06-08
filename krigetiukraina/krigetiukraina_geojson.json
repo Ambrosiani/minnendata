@@ -5008,6 +5008,22 @@
           60.242
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är fruktansvärt och tankarna springer marathon. Ibland blir man rädd och i andra stunden blir ma…",
+        "date": "8 juni 2022",
+        "author": "Renate",
+        "url": "https://minnen.se/tema/krigetiukraina/19668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.923,
+          56.568
+        ]
+      }
     }
   ]
 }

@@ -38968,5 +38968,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00540",
+    "contributor": {
+      "display_name": "Renate"
+    },
+    "created": "Wed, 08 Jun 2022 10:11:25 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 08 Jun 2022 10:11:25 GMT",
+    "position": {
+      "latitude": 56.5679686,
+      "longitude": 15.9232819
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19668",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "15d39636-c7ae-4f37-b278-1c1333cd8b78",
+    "values": [
+      {
+        "created": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "display_value": "1963",
+        "modified": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "b79f2e62-adc7-451f-99b8-a9e98cb33a7f"
+      },
+      {
+        "created": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "display_value": "Inflationen.\nFlyktingarna.\nOro.",
+        "modified": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "f1f00f83-cbf1-4ae5-9794-e9a0ce27efdf"
+      },
+      {
+        "created": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "display_value": "Det är fruktansvärt och tankarna springer marathon. Ibland blir man rädd och i andra stunden blir man både arg och förhoppningsfull. Hur det hela ska sluta gör mig mera eftertänksam.",
+        "modified": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ab56b2a6-198c-4c72-8323-6e4d1bfd9623"
+      },
+      {
+        "created": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "display_value": "Förhoppningsvis fred och att Ryssland drar tillbaka sina trupper.\nAtt Ryssland inser att före detta delar av gamla Sovjetunionen numera är självständiga länder samt respekterar deras gränser.",
+        "modified": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "cb090609-fa19-4b7a-ab78-ce9c99eb918f"
+      },
+      {
+        "created": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "display_value": "Inte direkt men däremot så tänker och pratar både jag och pappa oftast på hur det var under Andra världskriget. Jag är för ung för den tiden men har mina föräldrars, deras föräldrars och övriga släktingars berättelser i huvudet.\nDessutom så påverkar kriget hela världen med både inflation och andra umbäranden.",
+        "modified": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "bfb3d394-6814-4f55-a56f-4f5fa506a6a1"
+      },
+      {
+        "created": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "display_value": "Genom nyheterna i både svensk och tysk tv.",
+        "modified": "Wed, 08 Jun 2022 10:11:25 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "f5308b17-083d-47d9-8f56-ca04eb6848b4"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
