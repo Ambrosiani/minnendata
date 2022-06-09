@@ -39079,5 +39079,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00541",
+    "contributor": {
+      "display_name": "Gustav"
+    },
+    "created": "Thu, 09 Jun 2022 08:59:07 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 09 Jun 2022 08:59:07 GMT",
+    "position": {
+      "latitude": 59.60990049999999,
+      "longitude": 16.5448091
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19671",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "61620272-ddd9-4641-8aa5-fa2fef71c23e",
+    "values": [
+      {
+        "created": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "display_value": "73",
+        "modified": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "623fe2c1-a4ca-483f-9a45-a24f705ce545"
+      },
+      {
+        "created": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "display_value": "Tillståndet både här och överallt där jag känner det är förfärligt tackvare en långt driven kapitalism som håller på att förgöra både jorden vi lever på och oss själva som bor här.",
+        "modified": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "c8aa3287-ad08-4ce4-9e43-60d4c4bec9a9"
+      },
+      {
+        "created": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "display_value": "Jag känner stor sorg för hela mänskligheten, inte bara för vad som händer i Ukraina utan för hur hela mänskligheten som jag känner den lever och beter sig.\nJag är dessutom ledsen för att den svenska \"neutraliteten\" inte ens i fantasin verkar vara värd något utan att \"vi\" låtit oss skrämmas till att rusta upp och ansöka om medlemskap i NATO.",
+        "modified": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e74d2cf1-397e-4f20-a38f-d6829d8edafb"
+      },
+      {
+        "created": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "display_value": "Min framtidsyn kopplad till Ukraina är förmodligen mest kopplad till Ryssland, som jag ser går mot sitt eget fall - förutom det de förstör för alla andra.",
+        "modified": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "db5984cf-5f0c-40b9-8ad8-738d413a104b"
+      },
+      {
+        "created": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "display_value": "Konkret inte alls mer än att det förmodligen drivit upp priserna i viss mån.",
+        "modified": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "7f9e2426-4b18-4b8a-bb55-aeb99fa2c63e"
+      },
+      {
+        "created": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "display_value": "Förmodligen hörde jag det på radion och jag reagerar inte alls på nyheter, eftersom inget är nytt under solen.",
+        "modified": "Thu, 09 Jun 2022 08:59:07 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "bcdbdc67-8ec7-43ad-ac3e-697535d7873a"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

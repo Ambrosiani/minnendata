@@ -5024,6 +5024,22 @@
           56.568
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner stor sorg för hela mänskligheten, inte bara för vad som händer i Ukraina utan för hur hel…",
+        "date": "9 juni 2022",
+        "author": "Gustav",
+        "url": "https://minnen.se/tema/krigetiukraina/19671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.545,
+          59.61
+        ]
+      }
     }
   ]
 }
