@@ -5040,6 +5040,22 @@
           59.61
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig inte så oroad nu som jag gjorde de första veckorna. Men precis som Peter Hultqvist ha…",
+        "date": "10 juni 2022",
+        "author": "Agneta Söderberg",
+        "url": "https://minnen.se/tema/krigetiukraina/19672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.678,
+          58.954
+        ]
+      }
     }
   ]
 }

@@ -39190,5 +39190,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00542",
+    "contributor": {
+      "display_name": "Agneta Söderberg"
+    },
+    "created": "Fri, 10 Jun 2022 18:09:26 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 10 Jun 2022 18:09:26 GMT",
+    "position": {
+      "latitude": 58.953572971561314,
+      "longitude": 17.678040826250683
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19672",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "22d68368-8273-43a0-9072-5555c48a9a64",
+    "values": [
+      {
+        "created": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "display_value": "1945",
+        "modified": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "730a2ca7-83be-409d-81af-d00cbb95c37f"
+      },
+      {
+        "created": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "display_value": "Det ser mörkt ut då Ryssland och Kina står utom allt hopp att demokratiseras. Kärnvapenhotet som Ryssland använder är ju fruktansvärt! Positivt är ju att EU kunnat samlas och att till och med Ungern och Polen i fördömer Rysslands krig mot Ukraina. Sanktionerna kommer att trappas upp i höst och gälla även olja, vilket är bra. Finland har ju en lång gräns mot Ryssland och kanske det kommer att innebära höga stängsel à la kalla kriget som det var mellan Öst- och Västtyskland!",
+        "modified": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "30c94a72-35f7-4a9d-b970-c26800c82b8b"
+      },
+      {
+        "created": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "display_value": "Jag känner mig inte så oroad nu som jag gjorde de första veckorna. Men precis som Peter Hultqvist har jag ändrat åsikt om NATO. Jag tycker att vi inte bör fega ur som vi såg oss tvungna att göra under WW2 då vi tvingades att gå med på Tysklands krav.",
+        "modified": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "5d733364-e853-443c-8d7d-a1d152db60d5"
+      },
+      {
+        "created": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "display_value": "Oroad för mina barnbarns framtid! Oroad för att Ukraina bombas och att vi inte vågar hjälpa dem fullt ut!",
+        "modified": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c96aca40-f7c5-4749-a837-a35a8bb7c2ee"
+      },
+      {
+        "created": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "display_value": "Min dotter som brukar vara tuffare än jag, ringde mig och sa att jag måste preppa. Det gjorde jag med mat och vatten. Batterier till min radio och mina ficklampor. Jag håller mig uppdaterad ständigt via radio och TV. Dessutom har jag anmält mig som volontär för Ukrainska flyktingar. Kommunen, Röda Korset och Svenska Kyrkan planerar för mottagande och har samlat oss volontärer till två informationsmöten. Ännu har inga flyktingar kommit till vår lilla kommun.",
+        "modified": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "57ba6bc9-9fbd-4ab8-9ea1-1106790a0f1a"
+      },
+      {
+        "created": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "display_value": "Jag vaknade tidigt kl. 5 på morgonen den 24 februari och satte på min lilla radio. Jag blev mycket rädd och nu slumpade det sig så att strömmen bröts när jag kl. 7 rostade bröd. Då tänkte jag med en gång att det var en cyberattacker från Ryssland! Det var det ju inte, men jag levde i den tron tills jag tittade ut och såg att det lyste hos grannen!",
+        "modified": "Fri, 10 Jun 2022 18:09:26 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "75dd5f4d-1399-42c5-ad46-3271e77fc337"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
