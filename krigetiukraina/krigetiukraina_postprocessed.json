@@ -39301,5 +39301,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00543",
+    "contributor": {
+      "display_name": "Gunilla 65"
+    },
+    "created": "Sat, 11 Jun 2022 14:42:51 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 11 Jun 2022 14:42:51 GMT",
+    "position": {
+      "latitude": 59.40453707569776,
+      "longitude": 17.47023820279523
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19673",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "51bb731d-68ba-45cd-9d43-2352e9b7171c",
+    "values": [
+      {
+        "created": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "display_value": "1957",
+        "modified": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "adc90945-b1be-4e88-a159-c50cd5e17f5e"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "display_value": "Det är en mycket orolig tid. Demokratin är på tillbakagång, vårt klimat håller på att haverera. Mycket onda krafter i världen. Sociala medier är fantastiskt men också farligt. Men jag konstaterar att mitt liv ser ut ungefär som det alltid har gjort: Jag har ett bra boende, en hyfsad hälsa, familj och släkt utan konflikter och med normala, hanterbara bekymmer, god ekonomi ... Har varit arbetslös sammanlagt tre månader i mitt 65-åriga liv. Allt det oroliga och hemska såsom svält och krig, har hittills inte nått mig. Jag har förlorat nära och kära i förtid och det var hemskt – men det hör till livet. Det som ukrainarna – och de stridande ryssarna och deras anhöriga – upplever nu är bortom min fattningsförmåga. Jag bara hoppas att det inte är vår tur nu, snart. Om Putin går vidare med sina erövringar. Om Europa blir splittrat och nya konflikter och krig påbörjas.",
+        "modified": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "80e2af2a-cff7-4836-943b-f58f57dc87ce"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "display_value": "Dagarna efter invasionen var det tufft att vakna, att efter en stund komma ihåg vad som utspelades i Ukraina. Insikten om att det är krig i Europa och ett riktigt farligt läge. 65 år gammal hade jag trott att jag skulle slippa sådant, i mitt liv.\nJag har under våren läst Per Anders Fogelströms stadserie (som jag av någon outgrundlig anledning inte läst tidigare) och känt klara paralleller med de förkrigstider som den skildrar. Otäckt. Skrämmande. Svårt att somna ibland.\nJag blir förtvivlad över allt lidande. Hur kan makten över ett visst landområde vara så viktig att den är värd all död, sorg och förstörelse, all sorg och alla förluster? Hur kan någon människa VILJA detta, ha det som sitt eftermäle? För mig är det obegripligt.\nÄnda sedan jag var barn har jag frågat mig: Varför kan man inte förbjuda krig? Jag vet att det är en naiv fråga men jag upprepar den, tror på den. Vi har ju en massa lagar och regleringar kring krig, varför kan vi då inte förbjuda det helt? Det kommer ändå att krigas och då är det bättre med regleringar, svarar vissa. Nej, det är inte alls skälet. Det är krigs- och vapenindustrin som vurmar för kriget. Förresten är ett förbud just en reglering.\nJag kan skämmas lite över att kriget har blivit en del av vardagen nu, att jag sover gott och att det kan gå en hel dag utan att jag tänker på det, att jag inte skänker pengar till offren lika ofta som i början. Har även dåligt samvete över att min reaktion är starkare för att det här kriget utspelar sig i Europa. Det pågår och har pågått krig längre bort i världen med lika mycket lidande och förstörelse som i Ukrainakriget men de har inte alls berört mig lika starkt. Mänskligt, jag vet, men samtidigt ganska obehagligt. Granne med främlingsfientlighet.\nJag oroar mig för våra vuxna barn, vad följderna kan bli. Vi och de är så privilegierade nu; har jobb och tjänar bra, bor bra, kan skaffa oss det vi behöver, äta och dricka gott ... Är sötebrödsdagarna över?\nAtombombsfaran. Den orkar jag inte tänka på. Helt enkelt så. Sker det så sker det.",
+        "modified": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "bcb6e280-2d0b-44e5-a386-3d4ace62f0aa"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "display_value": "Jag är pessimist, har alltid varit. Tror att vi har mycket tuffa tider framför oss, inte minst pga. klimatförändringarna. Ukrainakriget och den ekonomiska skada det genererar är en oerhört komplicerande faktor: minskar förmågan och viljan till \"klimatåtgärder\" bl.a.\nDet är alltid de fattiga som drabbas värst, och vi är inte fattiga här i Sverige eller i Norden. Fast det är egentligen ingen tröst, att slippa lida när man vet att andra gör det.\nKlimatförändringarna kommer att orsaka flyktingströmmar och konflikter så vi kommer att få vår beskärda del, inte mer än rätt kan jag tycka.\nVi har ännu inga barnbarn och jag önskar faktiskt att det förblir så. Det blir inte roligt att vara människa här om några decennier, tror jag.\nJag tror att staten, regionerna och kommunerna kommer att få det mycket svårt att leverera som de har gjort under de senaste decennierna. Vi får vara glada om vi får rent vatten i kranarna, vägarna lagade, kollektivtrafik värd namnet etc. etc. Privatpersoner och företag kommer att få sänka standarden och då är det inte bara att barnen måste börja dela rum igen samt slopad frukt och friskvård det handlar om.\nVi behöver bli färre. Det är det absolut viktigaste. Det råder en svår obalans på jorden, vi är alldeles för många människor här. Antagligen kommer detta att lösa sig av sig självt; vi kommer själva att se till att antalet människor minskar, genom krig, konflikter, pandemier och förvärvad infertilitet. Vi kan bromsa förloppet genom att satsa på utbildning av flickor och kvinnor och att öka välfärden i fattiga länder. Utbildade kvinnor föder inte massor av barn och om det råder välfärd behövs inte stora barnaskaror som livförsäkring.\nJag kan ändå känna mig glad och tacksam över mycket. I det lilla. Det har blivit viktigare nu. Familjen, jobbet, trädgården, litteraturen ... Tycker att det är skönt att veta att jag har levt större delen av livet, det får mig att ta vara på dagarna.",
+        "modified": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "b74d4476-be21-433a-a9af-4b709f6c043a"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "display_value": "Än så länge väldigt lite.\nJag jobbar i en kommun och nu är det mycket fokus på säkerhetsfrågor där, såväl vad gäller krisberedskap (krisövningar, beredskapslager, tryggad vattenförsörjning o.dyl.) som inom IT.\nBensinen är dyrare och vi tänker oss för i högre utsträckning innan vi kör bil, åker mer kommunalt. Bor i storstadsnära glesbygd där busstrafiken fungerar dåligt, vilket är väldigt beklagligt ur många aspekter. Frustrationen är stor då man försöker köra mindre bil men inte kan räkna med denna grundläggande samhällsservice.\nVi funderar på att köpa en mini-elbil för kortare färder på ön där vi bor. Men utbudet är dåligt. Varför görs inte fler sådana?\nJag studsar ibland över priser i butikerna men än så länge har vi råd. Köper kanske lite färre tomater. Men kaffe, det måste vi ju ha!\nKänner en viss oro över inflationen och räntehöjningen. Går snart i pension och vi har en del lån kvar på huset. Trodde vi skulle kunna betala av det mesta vid nästa omläggning men så blir det nog inte.",
+        "modified": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9992fb68-9c85-46c2-ac7a-dabd1989e8dc"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "display_value": "Det var nog via någon av nyhetssajterna som jag brukar skumma på morgonen före jobbet: Omni, Dagens Nyheter, SVT Nyheter. Men jag minns det inte kristallklart, sådär som jag minns exakt hur jag hörde/läste nyheterna om Palme, terrorattackerna 11 september och Anna Lindh. Tror det var en känsla av katastroftrötthet efter pandemin, kanske en viss förträngning. Plus att en nära anhörig höll på att dö i cancer. I det privata perspektivet var inget värre än det.",
+        "modified": "Sat, 11 Jun 2022 14:42:51 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "04dfd7f8-d12c-4dbc-b794-26c84940faf6"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

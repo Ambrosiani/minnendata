@@ -5056,6 +5056,22 @@
           58.954
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Dagarna efter invasionen var det tufft att vakna, att efter en stund komma ihåg vad som utspelades i…",
+        "date": "11 juni 2022",
+        "author": "Gunilla 65",
+        "url": "https://minnen.se/tema/krigetiukraina/19673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.47,
+          59.405
+        ]
+      }
     }
   ]
 }
