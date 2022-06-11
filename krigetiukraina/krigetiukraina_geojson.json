@@ -5072,6 +5072,22 @@
           59.405
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Hela lidandet ukraina har känt sedan maidan revolutionen kan mer eller mindre spåras i vanbildningar…",
+        "date": "11 juni 2022",
+        "author": "Daniel",
+        "url": "https://minnen.se/tema/krigetiukraina/19674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.844,
+          58.208
+        ]
+      }
     }
   ]
 }

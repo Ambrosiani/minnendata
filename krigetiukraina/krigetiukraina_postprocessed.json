@@ -39412,5 +39412,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00544",
+    "contributor": {
+      "display_name": "Daniel"
+    },
+    "created": "Sat, 11 Jun 2022 16:09:29 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 11 Jun 2022 16:09:29 GMT",
+    "position": {
+      "latitude": 58.2078016,
+      "longitude": 12.8442365
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19674",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "1af4684c-c350-4058-b5e7-50b1e60be191",
+    "values": [
+      {
+        "created": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "display_value": "1996",
+        "modified": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "59fcc5d3-2d7d-44ee-8050-66c6f6df5a89"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "display_value": "Den äe i en mycket sämre plats, med rysk missinformation som formger politisk debatt och flera länder är fortfarande villiga att offra ukraina över ryssland för monetär vinning (Frankrike och Tyskland) samtidigt har jag blivit återkallad till försvarsmakten och landet vårat har börjat aktivt förbereda sig för ett krig eller likande närmare oss. \n\nKriget har visat våran hypokrati gällande ryssland hur vi ignorerar sanktioner emot dem för deras blodspengar.",
+        "modified": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "b238ef93-cfee-477b-b492-94c3cea0b52e"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "display_value": "Hela lidandet ukraina har känt sedan maidan revolutionen kan mer eller mindre spåras i vanbildningar ifrån putin och hans ledning, deras stöd till separtists staterna har kostat otaliga tusen liv och lidande utan ets like och samtidigt la det fundamentet för kriget vi har nu världens naivitet och inaktion kring krim halvöns ockupation och illegala annexation, världen skulle ha satt ner foton redan 2014 och stoppat denna konflikt ifrån början istället för att ge med till ryssland som aldrig hade som intention att sluta vid krim.\n\nOch nu är vi här ca 10000 döda ryssar och lika många ukrainare senare och ingen kommer vinna detta krig i nuläget, alla förlorar på detta ryssland kommer kollapsa av allt att döma i ekonomisk svårigheter eller inbördeskrig om putin avsätts, medan ukraina kommer dras till underjorden i kriget.",
+        "modified": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "cc1e40b7-6ac6-47da-ab0a-cba623287218"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "display_value": "Den ser mycket farligare ut simpelt sagt, av allt att döma kommer framtiden vara fylld av stater som inte följer internationell rätt eller lag för att bättra sig på andra. \n\nKriget kommer också leda till massor av världsligt lidande då flera länder är och vart beroende på export ifrån ukraina och ryssland export som ej uppfylls just nu.",
+        "modified": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a7fa5285-2858-460b-a64a-d5d0ddf9a16c"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "display_value": "Inflation i mat och skenande kostnader, osäkerhet i det värld vi lever i ökar och kriser/krig och andra farhågor ökar markant i chans att hända. \n\nJag blev av med mitt jobb pga konflikten iom arbetsbrist då man inte kan få in komponenter ifrån asien pga avstängda flygrummet över ryssland/ukraina",
+        "modified": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e5668540-0580-4778-b428-7eeaa8b79fbf"
+      },
+      {
+        "created": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "display_value": "Ifrån vänner som vart del av ukrainska försvarsmakten, de ringde upp mig och informera mig att ryska trupper fört sig över den ukrainska gränsen i vitryssland och krim. Jag vart chockad och upprörd av det som förfall de första veckorna i kriget självt. \n\nDe 3 polarna jag hade har alla stupat i strider i försvar av deras hemland och det gör som mest ont att behöva gå omkring och känna att vänner som vart i liv för bara 3-4 mån är nu alla döda. \n\nUtöver det uppenbara så har kriget solidifierat mina syner på neutraliteten våran och den osäkra framtid detta krig skapat för europa.",
+        "modified": "Sat, 11 Jun 2022 16:09:29 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "59bab02c-8467-49ae-8110-51b3236f6f5a"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
