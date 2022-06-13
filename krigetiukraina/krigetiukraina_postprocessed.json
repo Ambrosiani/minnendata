@@ -39523,5 +39523,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00546",
+    "contributor": {
+      "display_name": "Emma"
+    },
+    "created": "Mon, 13 Jun 2022 04:45:12 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 13 Jun 2022 04:45:12 GMT",
+    "position": {
+      "latitude": 63.1766832,
+      "longitude": 14.6360681
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19677",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "0a2fc1bb-1714-458a-be4b-eda2377a2078",
+    "values": [
+      {
+        "created": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "display_value": "1982",
+        "modified": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "77963a3d-1c10-465c-b592-f6d30e85a493"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "display_value": "Det är oroligt i världen, Ryssland må hända försöka censurera sin befolkning men de når ändå ut. Vi hör deras berättelser om hur de blir tystade, hur de straffas för att de uttalar sig. \nUkraina lider och vi med dem, men effekten av detta ger även ringar på vattnet i form av vissa länders ledare som tar kliv framåt i sina försök att rättfärdiga förtryck av andra länder. \n\nSituationen i Afghanistan och Kongo till exempel har hamnat i skymundan, men det är fruktansvärt det som pågår.",
+        "modified": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "c7132ad5-c631-4d50-a50c-64968407787e"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "display_value": "Jag känner både sorg, rädsla och maktlöshet. Jag donerade det jag kunde i fråga om både pengar och djurutrustning till olika organisationer. Tankarna gick givetvis även till vad man gör om det skulle eskalera och drabba även oss. Jag skulle dels vilja försvara vårt land och då främst de mänskliga rättigheterna, \"vem fan tror han att han är\" var också en tanke som uppkom. Men dels är jag också förälder, och jag vet hur mycket mina flyktingbarn har lidit. Så nästa tanke var att fly om det ens började närma sig krigsläge i Sverige, mina barn ska inte behöva uppleva att mista sina föräldrar eller sin trygghet och de ska inte dö i ett krig för att nån storhetsvansinnig man fått för sig att han har rätt att agera som han vill. \n\nFrämst är det helt overkligt, vi lever för sjutton i år 2022. Har vi inte kommit längre än så här i utvecklingen?!",
+        "modified": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "16c727f1-5ea1-46e6-b42b-1be424955bcd"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "display_value": "Vi kommer givetvis att fortsätta att ändra vårt försvar i Sverige, vi har varit för trygga. Samtidigt så är det också en tillbakagång i utvecklingen på sitt sätt, vi ska inte år 2022 egentligen behöva utöka våra militära tillgångar. Vi borde utvecklats så pass mycket, hela mänskligheten, att vi lärt oss leva i fred.",
+        "modified": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "133a2f4d-8f38-46cc-bd86-51b40be673f3"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "display_value": "Mycket lite, bränslepriserna är det som märks mest nu.",
+        "modified": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "0b86974c-fe7f-4070-a25e-ecbbcdf2f48e"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "display_value": "Jag nåddes av nyheten via sociala medier. Jag blev alldeles kall, även om vi har krig i världen så har det inte varit så nära oss under min livstid. Det var fruktansvärt att se, de stackars människorna som kämpade eller flydde för sina liv. \nJag har jobbat en hel del med ensamkommande flyktingbarn och lyssnat på deras historier, lidit med dem och tröstat. Någonstans har jag ändå haft en omedveten tanke om att \"det kan inte hända här\" .",
+        "modified": "Mon, 13 Jun 2022 04:45:12 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "64681114-bd2a-4fdb-9aab-6caaa17372ec"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

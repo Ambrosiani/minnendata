@@ -5088,6 +5088,22 @@
           58.208
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner både sorg, rädsla och maktlöshet. Jag donerade det jag kunde i fråga om både pengar och d…",
+        "date": "13 juni 2022",
+        "author": "Emma",
+        "url": "https://minnen.se/tema/krigetiukraina/19677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.636,
+          63.177
+        ]
+      }
     }
   ]
 }
