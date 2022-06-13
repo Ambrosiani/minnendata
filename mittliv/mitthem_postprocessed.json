@@ -80131,5 +80131,283 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00719",
+    "contributor": {
+      "display_name": "Maximilian"
+    },
+    "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+    "image_dms_id": "013AmNo5y2zf",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 03 Jun 2022 16:05:13 GMT",
+        "description": "Mitt rum",
+        "dms_id": "013AmNo5y2zf",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 03 Jun 2022 16:05:13 GMT",
+        "name": "image.jpg",
+        "order_by_number": 1,
+        "owner": "Maximilian",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "80647600-11d5-47af-a93f-6cfade77d749"
+      },
+      {
+        "created": "Fri, 03 Jun 2022 16:06:29 GMT",
+        "description": "Badrummet",
+        "dms_id": "013AmNo5y2zh",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 03 Jun 2022 16:06:29 GMT",
+        "name": "image.jpg",
+        "order_by_number": 3,
+        "owner": "Maximilian",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "f1692a16-f239-4427-b47a-35276c001830"
+      },
+      {
+        "created": "Fri, 03 Jun 2022 16:07:01 GMT",
+        "description": "Fredagsfest i vardagsrummet",
+        "dms_id": "013AmNo5y2zi",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 03 Jun 2022 16:07:01 GMT",
+        "name": "image.jpg",
+        "order_by_number": 4,
+        "owner": "Maximilian",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "eb05fc08-d55d-44b7-a290-ff9f5b8123bd"
+      },
+      {
+        "created": "Fri, 03 Jun 2022 16:08:07 GMT",
+        "description": "Andra delen i vardagsrummet",
+        "dms_id": "013AmNo5y2zj",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Fri, 03 Jun 2022 16:08:07 GMT",
+        "name": "image.jpg",
+        "order_by_number": 4,
+        "owner": "Maximilian",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "2afd43d0-2942-49e9-91ff-bc3f66db9c59"
+      }
+    ],
+    "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19680",
+    "published": true,
+    "school_uuid": "2b3769ba-3439-4388-a3a5-cbccdc97899a",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "9d78bafc-3053-49d4-9c40-c6e575b88d87",
+    "values": [
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "Jag sover i ett eget rum.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "38148df0-3e8a-4a3b-8910-4afdc4c8b833"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "Nej, det gör jag inte.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "96216714-fba0-4f03-b575-8f3f1ad0756b"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "Spela Roblox och andra grejor.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "7381322d-92c7-48c3-9731-8796a2f24560"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "122",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "c49afce8-8775-4753-958b-37c43da0696b"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "Maximilian rappoter från sitt hem. \n\nI mitt hem så finns 5 rum och en toallet. I mitt hem bor mamma Malin papppa Peter min lillebror Severin och sist men faktiskt inte minst min lillasyster Rafaela. Jag bor i själv i ett rum. Där finns en legotågbana med två legotåg. Jag har en hög säng med ett utrymme under sängen där man kan pyssla. Min mammma och pappa sover i samma säng. Det är en dubbelsäng som är gjord av trä. Dom har en byrå pricis till höger om dörren. Till vänster om dörren så finns deras kläder och lite andra grejor. I vardagsrummet så finns ett runt bord som är vitt. En väldigt stor soffa som är grå. En stor bokhylla som är vit och i lite andra färger. Den har böcker och några spel. Vi har en teve som är framför bordet och soffan. Vi tittar på teven eller så spelar vi nintendo switch. På den har vi marioparty superstar och mariokart delux 8. Vi har lånat mario 3D world, mario oddesy och nintendo mario delux. Vi har en byrå som är till höger om min dörr till mitt rum. I Severins och Rafaelas rum så finns två sängar. Under Rafaelas säng finns en affär som har en leksaksung och en massa varor och massor av fejk pengar. Till vänster om Severins säng så finns en pyssel byrå. Där pysslar vi olika saker. Till höger om dörren finns 4 skåp med leksaker över två skåp står ett dockhus och ninjago lego. Det är skäppet, en vatten bil och en robot i lego. Till vänster om 2 skåp finns en docksäng som står under fönstret. I köket finns ett bord lite snett åt höger. Till höger om dörren finns en kyl och en frys. Till vänster om dörren finns en ung och en kaffebryggare. Sen längre bort har vi en diskmaskin och en slask med vattenkran. Brevid finns 2 skåp med frukost grejor och lite andra saker. Till höger om balkongdörren finns en stol och under den har vi massor med pantflaskor. Till höger om badrummsdörren finns toaletten. Raktframför dörren finns vårat badkar med dush. Lite längra fram än toaletten finns ett handfat med kran och några tandborstar.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "821f2547-4def-4d1d-8d43-4a82a749becb"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "I 6 år.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "4f098811-c874-4fb2-abe2-6962deedcb9c"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "6 rum. Om man räknar med balkongen och badrummet så är det 8.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "95ca36b4-43d2-4d88-b05a-e33f3da32650"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "2012",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "0f7b7b05-bf5d-4f96-b2e0-3334b25180dc"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "Vissa regler som jag inte vill dela med mig om.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "cb9721d1-909d-4032-b758-3d6b03e56da5"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "Jag hjälper till med maten och tvätten.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "82cb716c-5424-4e37-bee2-7ff68b44caea"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "display_value": "Mamma, Pappa, Min lillasyster Rafaela och min lillebror Severin.",
+        "modified": "Mon, 13 Jun 2022 06:52:23 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "9b811989-b0a0-43bb-858e-060a2a1e6a1e"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

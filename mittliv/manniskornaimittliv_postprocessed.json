@@ -21060,5 +21060,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00573",
+    "contributor": {
+      "display_name": "Maximilian"
+    },
+    "created": "Mon, 13 Jun 2022 06:49:29 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 13 Jun 2022 06:49:29 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19679",
+    "published": true,
+    "school_uuid": "2b3769ba-3439-4388-a3a5-cbccdc97899a",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "c9288802-1e7c-402a-9cb5-89b2783612bc",
+    "values": [
+      {
+        "created": "Mon, 13 Jun 2022 06:49:29 GMT",
+        "display_value": "2012",
+        "modified": "Mon, 13 Jun 2022 06:49:29 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "5c6d5af4-c92d-4ad4-a528-7d26dfab4087"
+      },
+      {
+        "created": "Mon, 13 Jun 2022 06:49:29 GMT",
+        "display_value": "Hej, det är Maximilian som ska skriva om tre personer som är viktiga i mitt liv. \n\n\nDet är min lillasyster Rafaela. Hon är viktig att ha som syster och det är bra att ha någon och leka med. Hon är bra på att pyssla och leka med leksaker. \nDet är också min lillebror Severin. Han är bra på att bråka och att vinna över bowser i mario oddysy. Han är också viktig för annars har jag knappt någon att leka med. \nSist men inte minst min kompis Lukas. Han är viktig som kompis och kan många olika saker i spel i Roblox. Han är också bra på att vara en bra kompis.",
+        "modified": "Mon, 13 Jun 2022 06:49:29 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "d4cb380c-1270-4938-aced-6b83f9ee409e"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
