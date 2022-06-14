@@ -39634,5 +39634,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00554",
+    "contributor": {
+      "display_name": "Rachel"
+    },
+    "created": "Tue, 14 Jun 2022 23:38:06 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 14 Jun 2022 23:38:06 GMT",
+    "position": {
+      "latitude": 65.3337311,
+      "longitude": 16.5161695
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19703",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a504daf6-3b86-4ea3-a096-ff14930c4a68",
+    "values": [
+      {
+        "created": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "display_value": "1971",
+        "modified": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "98633115-0e92-4064-be8e-1810ab5ba4b1"
+      },
+      {
+        "created": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "display_value": "Det är bra att politikerna är mer enade. Jag tycker inte vi ska minska mänskliga rättigheter för Turkiet. Jag hoppas att vi inte har gjort fel och inte drivit rättegång om asylsökande har faktiskt begått brott.\n\nRysslands agerande har visat tydligt att det inte går att vara alliansfritt. Jag ser NATO som ett skydd, inte som en stor armé som kan invadera hit och dit.\n\nJag tycker synd om de lidande i andra konflikter runt omkring i världen. Det är som vi bara bryr oss om Ukraina.",
+        "modified": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "4dc66f77-76c1-49a7-83ba-1c56c00dee0c"
+      },
+      {
+        "created": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "display_value": "Det finns många vinklar.  Jag känner mig mycket nära Ukraina. Jag har rest dit flera gånger och har flera chattvänner i och från Ukraina.  Jag förlorade en semester dit april 2020 pga covid.  Jag hade tills april 2022 att boka om flyget. I början av februari började jag söka flygrutter dit eftersom UIA inte skulle flyga Stockholm Kyiv förran juni. Men sen varnade USA och sen blev det avrådan och därmed noll försäkring.  Så en tanke är att jag inte kan resa dit, inte ta semester jag väntat på och även efter kriget, kommer det vara svårt att semestra bland minor.\n\nJag har 2 ukrainska vänner som var i landet då kriget började. Både vill försvara sitt land. En flyttade bort från Kyiv och fick komma in i hemvärnet. Efter 3 månaders krig har han nu haft militär utbildning några veckor och ska sen återvända till sitt civilt liv i väntan på kallelse. Han förmodligen kommer inte få jobb tills nya höghus börjar byggas. Så nu har han oro att han blir utan lön. Den andra skulle just börja ett jobb för ett US företag. De sa upp tjänsten innan han började. Han fick inte komma in i hemvärnet i Kyiv. Det fanns för många sökande. Det finns inte nya jobb i Kyiv. Han fick jobberbjudande i Göteborg men får inte lämna landet. Det här problemet har inte lyfts i media. Männen som förlorat sina jobb men inte behövs i stunden och samtidigt måste stanna kvar i väntan.  Jag känner ingen som har splittrats från sin familj.\n\nJag är kluven i frågorna som har försämrat demokrati i Ukraina. Sen tidigare blev kommunism förbjuden i politik. Nu blir pro ryska ideologi förbjuden. Det är lätt att förstå men kan skada mänskliga rättigheter. Det är också svårt med regeringens önskan om att civila gör motstånd. Civila för det mesta vill göra motstånd men de har inte kriglagens skydd om de kastar molotov cocktails.\n\nDet är jobbigt att uppleva den starka hat ukrainare har mot ryssar.  Jag också vill ha bort de från Ukraina. Jag tycker vi i väst har inte sett och förstått vad Putin har haft för mål. Vi borde ha förstått vars det var på väg. Vi har sett Georgien, Tjetjenien och Ukraina i 2014. Men vi agerade som om det fanns en fred och samarbete mellan Ryssland och 'Väst'.  Jag fortfarande tror på att många ryssar inte vill annat än att kunna leva sina liv i fred.  Samtidigt från youtube till ex 1420, ser man en blandning av förståelse av situationen i Ukraina med många som faktiskt tror vad Putin säger. Många ukrainare önskar död på hela Ryssland, inte bara Putin och regeringen i Kremlin.  Det har blivit om och om den som styr Ryssland orsaker död, plågor och skador till ukrainare.\n\nDet ofattbara lidande i konfliktområden är skrämmande utan att känna någon som bor där. Det gör ont att se massgravar, kroppar som tortyrerats med swastika inritat på ryggen, höghus i spillror, att läsa listan av medaljer och ser hur många gavs efter döden. I början fanns det många bilder av bortsprängde och brände ryska kroppar. Visst var jag inte ledsen men vi vet inte vad de soldaterna tänkte och kände. Det finns många videor med ryska soldater som inte visste vad de åkte till Ukraina för och inte höll med kriget.\n\nJag är besviken på att vi inte krigar tillsammans.  Om vi skickar stöd pga att det är i våra intressen att Ukraina vinner, då borde vi ha krigat tillsammans direkt att få ett snabbt slut. Och speciellt NATO borde ha visat militärt närvaro. Det slutade spela roll om Putin kunde visa sig rätt om NATO så fort invasionen började. Vi gör att kriget skörde fler liv, inte som Ryssland säger för att vi skickar vapen, utan för att vi skickar de för långsamt. Det är Ryssland som ska ut från Ukraina, inte ukrainare. Jag tror att historia kommer döma oss. Kostnaden i liv är för hög. Vi har valt det ska bli ukrainska liv. Om vi hade varit tydliga om militärt stöd efter 2014, hade Putin inte valt att skada hela Ukraina. Det är tänkbart att han hade tryckt på Donbass ändå.",
+        "modified": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "5a4226ae-cdc4-4309-859d-2ecc7cf0a752"
+      },
+      {
+        "created": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "display_value": "Första tanken är att vi måste vakna. Det måste finnas bättre planer för många olika alternativ. Även i NATO, vad händer om det blir ändringar i regeringar som leder till konflikter vi inte kan föreställa oss nu?",
+        "modified": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "44212b14-9e8a-4698-bead-27bd6ee02465"
+      },
+      {
+        "created": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "display_value": "Jag påverkas emotionellt i och med 2 vänner, en som jag älskar, är ukrainare i Ukraina. Det finns en oro för deras liv. Det finns oro för deras förmåga att försörja sig. Jag har hjälpt till att försörja den jag älskar. Den finns en oro i väntan på de att kallas till kriget.\n\nJag har sämre ekonomi, inte bara med kostnader här hemma, utan att ha skickat pengar till Ukraina och ökat stöd till WFP pga kostnadsökning i mat till Jemen.\n\nTid går åt i nyhetsläsning. I början mycket tid. Att läsa vad som sägs i Sverige, i Ukraina och i Ryssland (Ryska nyheter är inte blockerade när de skrivits på ryska).\n\nOch jag kan inte åka till Ukraina med gott samvete. Och jag kan inte ha min vän hälsa på mig.",
+        "modified": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "c1082871-5db8-47c7-af4b-7ac077d925b9"
+      },
+      {
+        "created": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "display_value": "Jag fick en viber meddelande från min vän 6:29. Han sa det hade börjat. Han hade hört explosioner i Kyiv.  Han sa hans wi fi var borta med hade mobilt fortfarande.  Jag sökte nyheter att se vad som hade sagts. Chattade en del med honom hur det var hos honom och fick länkar att läsa. Såg bilder av nedslag i område jag hade besökt. Det kändes hemskt men overkligt och jag kunde inte sova mycket tills de lämnade Kyiv området. I början gav de adresser till nedslagsställen så jag visste det inte var min väns lägenhet. Sista gången i hans närhet blev 3 rökpelare, nordöst, syd och sydöst om lägenheten under samma dag och de fick jag aldrig reda på exakt var missilerna hade landat.",
+        "modified": "Tue, 14 Jun 2022 23:38:06 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "eb45f626-73dd-40c6-a130-651fdc0dda3c"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

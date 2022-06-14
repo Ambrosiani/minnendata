@@ -5104,6 +5104,22 @@
           63.177
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det finns många vinklar.  Jag känner mig mycket nära Ukraina. Jag har rest dit flera gånger och har …",
+        "date": "14 juni 2022",
+        "author": "Rachel",
+        "url": "https://minnen.se/tema/krigetiukraina/19703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.516,
+          65.334
+        ]
+      }
     }
   ]
 }
