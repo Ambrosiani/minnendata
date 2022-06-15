@@ -21431,5 +21431,217 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00589",
+    "contributor": {
+      "display_name": "Wilma"
+    },
+    "created": "Wed, 15 Jun 2022 10:37:45 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:37:45 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19753",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "c80604b7-075b-4ad3-9b8b-6592c5c839bf",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:37:45 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:37:45 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "6e7ac861-a95c-4781-af70-8d9d6cbb4b14"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:37:45 GMT",
+        "display_value": "Människor i mitt liv\n\nMin lillebror Alfred är 2 år gammal och jättesöt. Jag brukar busa och leka mycket med Alfred men ibland är han lite jobbig. Alfred har en speciell plats i mitt liv han gör mig glad när jag är ledsen och han skratt får mig att smälta. Min kusin Oliver bor i Spanien alltså får jag inte träffa honom så ofta men han är fortfarande speciell för mig. Och sen Judith hon är så snäll rolig och knasig precis som jag. Jag och Judith har varit bästa vänner sedan vi började mellan stadiet.",
+        "modified": "Wed, 15 Jun 2022 10:37:45 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "e9f2a056-7ef0-4968-8cb6-48b3a196b277"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00591",
+    "contributor": {
+      "display_name": "Judith"
+    },
+    "created": "Wed, 15 Jun 2022 10:39:27 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:39:27 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19755",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "45a60289-aa4c-49b7-8904-b7197ea5b1dc",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:39:27 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:39:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "2e2ac202-9ca2-4d05-9cc0-b9b5ff57410c"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:39:27 GMT",
+        "display_value": "PAPPA\nMin pappa är väldigt viktig för mig för han respekterar alltid en som man är. Han ä någon jag kan skratta med, busa med och ibland bråka med. Tillsammans kan vi ut och resa, gå på stan och annat roligt. \n\nMAMMA\nMin mamma är en stor del i mitt liv. Hon är någon som tar hand om mig, busar med mig, eller bara hjälper till med läxorna.  Min mamma är välldigt snäll och bra på många saker. Tillsammans kan vi promenera, gå ut och springa, shoppa mm. \n\nAURORA\nAurora betyder jätte mycket för mig. Hon och jag har varigt kompisar sen förskoleklass/ettan.    \nÄven om vi har bråkat har vi alltid blivit kompisar igen.  Hon är någon jag kan skratta med, busa med och plugga med. Hon är min bästa vän.",
+        "modified": "Wed, 15 Jun 2022 10:39:27 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "7d785a12-c4aa-47e6-a7ee-9ba605fcda2d"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00593",
+    "contributor": {
+      "display_name": "Jaden"
+    },
+    "created": "Wed, 15 Jun 2022 10:43:15 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:43:15 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19762",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "e540eee4-41f3-46a4-ab20-0b3cf14d36ea",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:43:15 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:43:15 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "c3b57e2f-32db-4bc0-b88c-9faeb89a394f"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:43:15 GMT",
+        "display_value": "Det är min mamma, pappa och min lillebrorsa. Dom betyder mycket för mig tex mamma är snäll och en jätte bra mamma, Pappa är också väldigt snäll och min lillebrorsa han är rolig och spela fotboll med. Jag brukar hitta på roliga grejer med alla.",
+        "modified": "Wed, 15 Jun 2022 10:43:15 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "27d95590-25f3-4161-a294-3b32a695736f"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00595",
+    "contributor": {
+      "display_name": "Mårten "
+    },
+    "created": "Wed, 15 Jun 2022 10:44:26 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:44:26 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19767",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "dcbbb685-eb15-4ac4-bb6b-1a8fd93edafb",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:44:26 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:44:26 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "eb61c52e-2daf-4586-ac0e-bd33f4e51751"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:44:26 GMT",
+        "display_value": "Jag ska skriva om min syster, mamma och pappa. jag brukar skejta med min mamma i Högdalens  skate park. jag och min pappa  brukar bada väldigt mycket på sommaren och min syster bråkar jag med",
+        "modified": "Wed, 15 Jun 2022 10:44:26 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "798f8281-2ee8-4dfb-91ac-9ff58f3138e5"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

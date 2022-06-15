@@ -18691,5 +18691,111 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00536",
+    "contributor": {
+      "display_name": "Judith"
+    },
+    "created": "Wed, 15 Jun 2022 10:39:00 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:39:00 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19754",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "24d66252-587e-4d7a-8d76-da5bbcd6f5ea",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:39:00 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:39:00 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "fd892aaf-5c84-4603-8a33-9234d5b8dc61"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:39:00 GMT",
+        "display_value": "Först så vaknar jag.  Jag går upp och klär på mig och sedan går jag ner till frukost buffen. \nsedan går jag upp till hotellrummet igen och borstar tänderna och gör mig redo.  Sedan åker jag till inspelningsplatsen där jag spelar in min serie eller film.  Efter ett tag tar jag lunch rast kanske äter någon rätt hemmifrån eller går på resturang med mina jobbarkompisar.  När vi är klara för dagen åker jag hem och byter om och sedan möter min bästis eller partner på en resturang så äter vi middag tillsammans. Sedan går jag och lägger mig.",
+        "modified": "Wed, 15 Jun 2022 10:39:00 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "789ae4f1-744c-4b3a-9ea0-2f2af65dfd5b"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00540",
+    "contributor": {
+      "display_name": "Mårten "
+    },
+    "created": "Wed, 15 Jun 2022 10:44:17 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:44:17 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19766",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "040699e5-3f18-4690-a39c-1c0802950205",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:44:17 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:44:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "bda58e7d-48ac-4751-99e5-3f7911cc422c"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:44:17 GMT",
+        "display_value": "jag kommer att vara ett skate proffs",
+        "modified": "Wed, 15 Jun 2022 10:44:17 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "aadbcbcb-cf22-422f-b3e9-c190ebc22ef8"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
