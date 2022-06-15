@@ -5152,6 +5152,22 @@
           59.459
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner en stor vrede över att väst låter en ny Hitler utkämpa sitt aggressionskrig. Jag tycker a…",
+        "date": "15 juni 2022",
+        "author": "Hållsta",
+        "url": "https://minnen.se/tema/krigetiukraina/19770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.467,
+          59.287
+        ]
+      }
     }
   ]
 }
