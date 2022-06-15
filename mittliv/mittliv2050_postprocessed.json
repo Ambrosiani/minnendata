@@ -18532,5 +18532,164 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00530",
+    "contributor": {
+      "display_name": "Inez "
+    },
+    "created": "Wed, 15 Jun 2022 10:26:09 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:26:09 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19737",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "0dc73e63-3250-4613-b295-1530f34604bd",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:26:09 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:26:09 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "7e134072-739f-4357-9a95-77f5983ab6fd"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:26:09 GMT",
+        "display_value": "år 2050 så tror jag att jag kommer att ha 2 golden retrievers (eller fler), och så kommer jag vara singel och bo näst högst upp i ett höghus i södra Stockholm. jag kommer förmodligen vara något av jobben  som jag har skrivit nedanför\n\nförskolelärare, lågstadielärare, konstnär, kock, författare, filmdirektör, serie skrivare, skådespelare, jobba inom tekniken, jobba på en mataffär, eller så kommer jag jobba inom politiken\n\n(jag har många möjligheter) jag kanske kommer att adoptera 1-3 barn.  jag tror att det kommer att vara mycket mindre plast då, och att det kommer att finnas mer naturlagar. (och förmodligen godare vegetarisk mat). Förhoppningsvis så har flera saker blivit laktosfria (jag är laktosintolerant, jag väntar fortfarande på att nutella ska göra en laktosfri version av deras jordnötssmör). Förhoppningsvis så är det mindre personer som röstar på SD då (sverigedemokraterna), och mer personer som röstar på vänsterpartiet. Jag tror att kriget i Ukraina har slutat då, och att Ukraina har vunnit. förhoppningsvis så är Sverige inte med i Nato då.",
+        "modified": "Wed, 15 Jun 2022 10:26:09 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "1d9cadfe-508e-431a-a404-fe9b5665e92f"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00532",
+    "contributor": {
+      "display_name": "Lucas "
+    },
+    "created": "Wed, 15 Jun 2022 10:30:08 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:30:08 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19742",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "acc26ac3-cc12-48d4-9288-7b801b3d1e47",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:30:08 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:30:08 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "962fc6bd-d28a-4202-a766-3a2e8795b0b1"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:30:08 GMT",
+        "display_value": "I 2050 föreställer jag mig att medicinen är mycket bättre och samma med technologin. I framtiden hoppas jag att alla jobb förutom programmerare blir gjorda av robotar för då skulle man få mycket mer tid att göra saker. För mig själv så hoppas jag att jag blir en bra programmerare med hög lön och får ett långt liv.",
+        "modified": "Wed, 15 Jun 2022 10:30:08 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "dcc1713e-5210-486d-83ec-00ad2f0488a8"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00534",
+    "contributor": {
+      "display_name": "Felicia "
+    },
+    "created": "Wed, 15 Jun 2022 10:32:17 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:32:17 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19745",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "613abbdb-3105-416e-96ab-4315c9c6b5cb",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:32:17 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:32:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "75bfdc52-5864-49f5-8a83-b36a324403fa"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:32:17 GMT",
+        "display_value": "2050 är jag 40 år och kommer att bo mitt i Stockholm. Jag kommer att ha 2 barn och en leva med dom och min man.  jag kommer ha ett eget företag och bo på strandvägen. mina barn kommer att vara 12 och 5 år.  jag kommer bara att jobba på måndagar tisdagar och onsdagar för at jag behöver inte jobba mer. för jag kommer redan vara så rik att jag inte behöver jobba mer än så. när jag sen är ledig så kommer jag umgås med mina barn så mycket jag kan. en vanlig jobb dag för mig kommer vara att jag går upp klockan 7 men mina barn och lämnar dom på skolan med min porsche. sen så åker jag vidare och sätter mig på Italiano bar där min pappa alltid är. sen så jobbar jag lite på datorn tills det är lunch dags. så så äter jag och efter det så åker jag till mitt kontor som ligger i Vasastan. där sitter jag och jobbar i några timmar, sen så kommer jag känna att jag jobbat för mycket och möter upp mina väninnor och går på Sturebadet.  på söndagar kommer jag ha familj middag med min familj och kompisar på Ulla vinblad.  och på lördagar kommer jag och mina döttrar shoppa. och så kommer mitt liv se ut 2050.",
+        "modified": "Wed, 15 Jun 2022 10:32:17 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "8c549ddc-3f76-4f9f-ac20-01f9b53aaf73"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

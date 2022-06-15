@@ -21272,5 +21272,164 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00583",
+    "contributor": {
+      "display_name": "Leo"
+    },
+    "created": "Wed, 15 Jun 2022 10:22:38 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:22:38 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19733",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "5bcdfdf7-542a-4e65-9f1f-b2a09e419ec6",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:22:38 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:22:38 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "d61f6ecd-9edb-4a6d-876e-594ceed3cdc3"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:22:38 GMT",
+        "display_value": "Dom som betyder mest för mig är mina kompisar Jaden, Isak och Louie. vi brukar vara med varan väldigt mycket.",
+        "modified": "Wed, 15 Jun 2022 10:22:38 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "55acc83c-92ff-4271-8fdb-f93df155e0a5"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00585",
+    "contributor": {
+      "display_name": "Inez "
+    },
+    "created": "Wed, 15 Jun 2022 10:26:59 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:26:59 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19738",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a80c77f7-7ee9-47ba-9bf2-b9518859e88a",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:26:59 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:26:59 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "a11664ba-f204-4924-b4cb-e9027474e487"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:26:59 GMT",
+        "display_value": "Jag ska berätta om mina syskon, från äldst till yngst (jag har tre stycken, +en som dog i magen precis innan födseln) . Jag börjar med min storasyster Tuva. Hon föddes i februari 2008 och är 14 år gammal. Hon har långt lockigt blont hår och blågröna ögon.  Hon betyder väldigt mycket för mig. Vi brukar prata tillsammans och hitta på sketcher (vi filmar dem aldrig, vi bara hittar på dem.).  vi brukar också prata med hennes gosedjur som är en liten pingvin och är ungefär 15 cm lång.  Den heter Baby, eftersom vi började leka med den när vi var 2-3 år, och baby var det enda engelska ordet vi kunde då. (Baby = Bebis). Vi har också hittat på en egen lek som heter mörkerkurragömma. den går ut på att man ska leka kurragömma, fast med lampan släkt. det är mycket svårare då.  Hittar man inte den som gömmer sig på första försöket så får man börja om 😃.  \n\nnästa person jag ska berätta om är min lillebror Hampus. Han föddes i februari 2014 och är åtta år.  Han har intellektuell funktionsnedsättning och autism.  Han går på särskola.  Han betyder väldigt mycket för mig (och jag är också väldigt överbeskyddande mot honom). Vi brukar inte vara med varandra så mycket, men jag brukar vara och hämta honom från skolan och natta honom och min andra lillebror ibland. \n\nDen sista (och minsta) av mina syskon som jag ska berätta om är min lillebror Beppe. Han är 6 år gammal och föddes i november 2015. han har bruna ögon och brunt rakt hår. Han betyder väldigt mycket för mig, trots att vi bråkar hela tiden (😐). Som jag sa tidigare så brukar jag följa med och hämta honom från skolan, vi har också påbörjat en humorserie tillsammans som heter Lars Livqvist.  Jag brukar också barnvakta honom rätt så ofta.",
+        "modified": "Wed, 15 Jun 2022 10:26:59 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "1863e392-2f9d-482f-96db-5cc76669dc2d"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00587",
+    "contributor": {
+      "display_name": "Lucas "
+    },
+    "created": "Wed, 15 Jun 2022 10:30:23 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 10:30:23 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19743",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "9eba1db6-d6d1-4c99-899f-5c651ed1cdf8",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 10:30:23 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 10:30:23 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "44d3591b-b7b9-438a-baf7-7313307d81a8"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 10:30:23 GMT",
+        "display_value": "Dom tre viktigaste personerna i mitt liv är min mamma Johanna, min vän Ture och min vän Jonathan. Min mamma betyder så mycket för mig. Hon hjälper mig med läxor, lagar mat, älskar mig och är så snäll. Och mina vänner betyder mycket också.",
+        "modified": "Wed, 15 Jun 2022 10:30:23 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "20901209-1209-4ba2-8c96-b68d73358a58"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
