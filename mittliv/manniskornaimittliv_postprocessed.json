@@ -21219,5 +21219,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00581",
+    "contributor": {
+      "display_name": "Elin "
+    },
+    "created": "Wed, 15 Jun 2022 09:20:07 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 09:20:07 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19725",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a84f1969-2118-4669-af1f-bb4e63673ae4",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 09:20:07 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 09:20:07 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "f5f47573-c3d1-48d6-94ea-1ab3be437890"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 09:20:07 GMT",
+        "display_value": "mamma, pappa, Ester, ja du såg rätt, mamma, pappa, ester. du kanske undrar vem ester är? jo, hon är en \"kompis\" som jag känt ganska länge egentligen, ungefär 1 år. hon är väldigt viktig för mig. det började allt med att vi träffade varandra på vår teater lektion och insåg att vi faktiskt gick på samma skola och hade en lärare som vi båda hade. det här kanske mer känns som en dagbok om jag skriver såhär fast aja. faktiskt, har jag börjat gilla henne lite, alltså inte bara som kompis, jag vill inte helt beskriva allt i detail fast ja. jag går vidare till min mamma, sarah, det är ju helt klart att hon är viktig till mig eftersom hon är ju min mamma. hon brukar hjälpa till med mycket ändå om hon inte kan typ någonting om temat. hon brukar alltid köpa finfrukost som hon kallar det bara om jag och min brorsa frågar. alltså, om hon går hem från jobbet och inte är i sin säng och sover. nu börjar jag att berätta lite om min pappa, hansjörg, samma sak som hos min mamma, han hjälper liksom till med väldigt mycket. fast han kan lite mer om till exempel datorer och mobiler och så, så honom går jag till om min mobil är konstig. jag har lärt mig tyska från honom också, han blev född i tyskland och hans modersmål är ju då tyska. fast jag har ärt 2 inte så bra saker av honom, först, min syn, jag har väldigt dålig syn på grund av att han hade det. och nummer 2, ecsem, om du inte vet vad det är (som du säkert gör), det är som sår som du kliar fram som kommer över hela din kropp och du kan typ inte sluta klia. oj, nu gick jag från viktiga personer till ecsem förklaring! aja..",
+        "modified": "Wed, 15 Jun 2022 09:20:07 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "a3534c19-25a5-4832-b895-6634dba79add"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

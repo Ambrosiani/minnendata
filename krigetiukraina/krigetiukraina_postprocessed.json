@@ -39745,5 +39745,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00555",
+    "contributor": {
+      "display_name": "Kalle"
+    },
+    "created": "Wed, 15 Jun 2022 09:09:52 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 09:09:52 GMT",
+    "position": {
+      "latitude": 60.0665031303147,
+      "longitude": 17.30189725141212
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19721",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "8d6c79a5-17d7-4d8a-9a2f-44ea4e4e74a4",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "display_value": "1953",
+        "modified": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "0acf7de6-9dd2-477c-ad79-4e315fa3b41e"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "display_value": "OROLIGT. \nVi i Norden har det ju förhållandevis mycket bra, men även vi får nu känna på så fort situationen kan ändras. \nViktigt nu att Norden, Europa och resten av världens demokratiska länder kan stå eniga och hålla ihop mot maktfullkomliga och odemokratiska länder och strömningar. Diktaturer måste bekämpas. \nVälden står inför en utmaning att göra världen mer jämlik vad gäller tillgång till mat, hälsa, utbildning och ekonomisk utveckling. Annars kommer oroligheter att blossa upp igen och igen.",
+        "modified": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "60f90234-55bf-473b-87ad-e80f0646442a"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "display_value": "Jag känner stor ILSKA över hur ett land kan behandla sitt grannland och brödrafolk. \nJag känner stor SORG över att vi i omvärlden kan eller vill göra så lite för att hjälpa. \nJag känner stor UPPGIVENHET över att det fortfarande finns länder/maktsfärer som kan uppföra sig som Ryssland nu gör. Och strunta fullständigt i vad dom utsätter sin egen befolkning och grannländers befolkning för. \nDet finns ju så många andra utmaningar som världssamfundet borde koncentrera sig på, massvält, klimatförändringar och antidemokratiska rörelser. \nJag känner stor RÄDSLA för hur framtiden kommer att bli. Hurdant liv kommer mina barn och barnbarn att få pga den värld min generation lämnar efter sig.",
+        "modified": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "c0228910-6c53-45bd-b465-066cc64f0a2d"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "display_value": "Jag är mycket mer pessimistisk inför framtiden nu än tidigare. Eller kanske mer realistisk. Det kommer inte bli lätt. \nVi står inför många svåra utmaningar som inte blivit färre utan fler efter Rysslands anfall på Ukraina. \nKommer fler länder att anfallas?",
+        "modified": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "860a6aa9-7c9c-4370-9d8a-d3c7730fed3f"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "display_value": "Tiden till att konsumera nyheter har ökat med 100%. \nOron för framtiden har ökat. Sover sämre. \nDrivmedelspriserna har gått upp. Som pensionär måste resor ransoneras. \nElpriserna är skyhöga. Svårt att påverka, men försöker spara på el. \nMatpriserna ökar jättemycket. Även om jag haft en viss marginal i vardagsekonomin äts den nu upp i rask takt. Vet inte var det slutar. Drar nu åt svångremmen och livet blir tråkigare.",
+        "modified": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "51fc1946-4b3f-4d03-b6f8-6361925d2524"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "display_value": "Via morgonnyheterna på TV1. Var i fjällen med dotterns familj och vi fastnade framför TVn. \nInsåg efter ett tag att vi var tvungna att ransonera nyhetstittandet för barnen 7 och 4 år blev oroliga och började ställa en massa frågor. From dag 2 av kriget så vi bara en liten stund varje morgon och sen sena nyheterna när barnen somnade.",
+        "modified": "Wed, 15 Jun 2022 09:09:52 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "5a8edd28-7754-404e-a3c3-c396ac23625f"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

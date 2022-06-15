@@ -18479,5 +18479,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00528",
+    "contributor": {
+      "display_name": "Elin "
+    },
+    "created": "Wed, 15 Jun 2022 09:19:14 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 09:19:14 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19724",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6601185d-db0a-409b-9b34-0c75ee2c0224",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 09:19:14 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 09:19:14 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "0683b862-b95b-44f5-bb1a-2053db9045f5"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 09:19:14 GMT",
+        "display_value": "hm.. eftersom att jag är 40 då så antar jag att jag kommer ha ett ganska bra jobb i alla fall, jag vill ju bli skådespelare så jag hoppas ju då att jag blir det! jag tror också att jag kommer ha ett husdjur till exempel en hund eller en katt! jag tror att jag inte kommer på kvar i björkhagen ändå om jag har bott där hela mitt liv hit tills. jag tror att jag antingen kommer bo kvar i stockholm eller bo i ett helt annat land! jag tror att mitt hår också har mörknat då, just nu är ju mitt hår blont, fast flera personer i min familj hade jätte blont hår när de var barn och ganska mörkt nu, så jag tror då att det kommer hända mig med. jag tror jag kommer ha ett ganska stort hus, ungefär som jag har just nu. fast jag tror jag kommer fortsätta bo i en lägenhet. jag tror inte att jag kommer göra ett sånt här tråkigt jobb utan då till exempel skådespelare eller simmare eller någonting sånt! jag hoppas verkligen att jag inte har kvar mitt ecsem då... jag har inga fler ideer på hur mitt liv kommer se ut 2050, det är ju ganska lång tid! så ja, det här är hur jag föreställer mitt liv i 2050!",
+        "modified": "Wed, 15 Jun 2022 09:19:14 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "527c43aa-096f-408d-8aff-9721e4c3c7c2"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
