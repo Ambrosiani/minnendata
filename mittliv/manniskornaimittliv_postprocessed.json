@@ -21113,5 +21113,111 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00575",
+    "contributor": {
+      "display_name": "Vilgot "
+    },
+    "created": "Wed, 15 Jun 2022 08:35:10 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 08:35:10 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19709",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "05b4e9e0-2cf2-413b-bb56-847b5b652ca2",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 08:35:10 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 08:35:10 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "dab1a592-51d4-48ea-a55b-ada9b43368d1"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 08:35:10 GMT",
+        "display_value": "min mamma, pappa och min katt. jag har inte nån bästa vän direkt för ibland hänger jag med en vän och ibland hänger jag med en annan vän.",
+        "modified": "Wed, 15 Jun 2022 08:35:10 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "ab941085-e68a-4306-9a26-f382324e29a8"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00577",
+    "contributor": {
+      "display_name": "Karl"
+    },
+    "created": "Wed, 15 Jun 2022 08:37:24 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 08:37:24 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19714",
+    "published": true,
+    "school_uuid": "c9c87229-6a66-40ae-b927-08d0e95263e9",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "650260df-7947-4a18-b4ac-68fc9baf8008",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 08:37:24 GMT",
+        "display_value": "2010",
+        "modified": "Wed, 15 Jun 2022 08:37:24 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "b376fd0f-806e-4262-8d84-00e0076792c4"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 08:37:24 GMT",
+        "display_value": "3 Personer som betyter mycket för mig är min mamma för att hon betyter väldigt mycket för att hon hjälper mig med allt typ.typ som hitta mina saker för att jag är ganska glömsk.Min pappa älskar jag väldigt mycket men i bland lite sur.Min pappa älskar bilar och jag gör det så en gång så åkte vi på en italjensk bil träff men många bilar som alfa romeos,ferraris och lamborginis så många bilar.Han är väldig snäll och kollar om jag mår bra.Den tredje personen är min bror men i bland kan vi bråka ganska mycket med varandra men jag älskar han mycket.Som att han låter mig spela med hans kompisar är snäll till mig ganska mycket men jag älskar han väldigt mycket.",
+        "modified": "Wed, 15 Jun 2022 08:37:24 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "0b132ae3-3b1b-41c1-a8c4-0109e9950898"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
