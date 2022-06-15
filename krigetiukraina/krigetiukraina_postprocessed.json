@@ -39856,5 +39856,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00556",
+    "contributor": {
+      "display_name": "Psykoterapeut i Stockholm"
+    },
+    "created": "Wed, 15 Jun 2022 13:10:55 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Jun 2022 13:10:55 GMT",
+    "position": {
+      "latitude": 59.45937796444099,
+      "longitude": 18.237221093749998
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19769",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "a6700ce5-798c-4c2b-838f-5ad3226d532b",
+    "values": [
+      {
+        "created": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "display_value": "1964",
+        "modified": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "39a52059-67d2-423d-a70b-2aaab5d1c9e8"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "display_value": "Det tickar sakta mot ett tredje världskrig. \nOch miljökatastroferna i fotspåret av detta krig har vi inte ens börjat tala om!! \nEfter pandemin behövde vi samlas för att ta hand om klimatet, kriget saboterade detta, tog allt utrymme.. världen brinner..",
+        "modified": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "2dc3be7c-a580-4e80-8a81-448f7f2daf95"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "display_value": "Känner att det är för djävligt, förfärligt! \nTänker att i nöden prövas vännen, glad över deras president som agerar som en verklig människa. Stolt över alla som ställer upp, \nPå olika sätt och hjälper flyktingar, skickar pengar, vapen etc. Imponerad av de ryssar som protesterar trots risk för egna livet, repressalier.. \nförvånad över de svenska politiker som har mage att dra igång regeringskris i detta instabila läge! \nJag reflekterar över sit och kommer fram till att det enda positiva är att världen ökar takten med att göra sig fossilfria, mer solenergi!!",
+        "modified": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "1e5c803b-3bb0-4790-bd44-2e5fa8c6b2ab"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "display_value": "Mörkare, klimatet i första hand, krigskonsekvenser i andra hand. \nMen - allt som enar mot gemensam fiende; dumhet, härskartekniker, etc\nKan komma världen till godo.",
+        "modified": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "11141e7c-4489-4057-a782-fa5410d97162"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "display_value": "Dyrare mat, dyrare bränsle.. ökad oro och ångest hos mina patienter (arbetar som psykoterapeut).",
+        "modified": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "9482d49f-ea8c-4e1e-bc45-92069ccb43c0"
+      },
+      {
+        "created": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "display_value": "Med bestörtning i hjärtat läste jag tidningen på morgonen - det kändes som om världen kantrade, slungades tillbaka 100 år.. \nen man, Putin, med megalomanska manéer, \nrubbar verkligheten, världsordningen, freden, \nhandelsmöjligheter.. raderar liv, raserar framtid, \nkränker, skövlar, förpestar å det vidrigaste! \nKarma Will get him!",
+        "modified": "Wed, 15 Jun 2022 13:10:55 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "b7bc20c0-6011-4e71-b165-2fae217534f0"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

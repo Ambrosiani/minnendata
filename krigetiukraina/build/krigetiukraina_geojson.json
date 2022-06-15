@@ -5136,6 +5136,22 @@
           60.067
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Känner att det är för djävligt, förfärligt! \nTänker att i nöden prövas vännen, glad över deras presi…",
+        "date": "15 juni 2022",
+        "author": "Psykoterapeut i Stockholm",
+        "url": "https://minnen.se/tema/krigetiukraina/19769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.237,
+          59.459
+        ]
+      }
     }
   ]
 }
