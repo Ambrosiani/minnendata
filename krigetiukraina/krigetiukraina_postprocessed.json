@@ -40189,5 +40189,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00559",
+    "contributor": {
+      "display_name": "Ulrika Elisabet"
+    },
+    "created": "Thu, 16 Jun 2022 12:34:08 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 16 Jun 2022 12:34:08 GMT",
+    "position": {
+      "latitude": 59.28166389999999,
+      "longitude": 18.1509356
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19772",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d7427fbe-e6b0-44aa-a2b7-47b69881cc6a",
+    "values": [
+      {
+        "created": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "display_value": "1960",
+        "modified": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "dfef2af3-0bdb-4f1b-93f5-d5b7ad007782"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "display_value": "Sverige fungerar jämförelsevis väl, demokrati osv",
+        "modified": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "cf01cb16-7fce-46d2-a6d4-892023809532"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "display_value": "mycket ledsamt & förskräckt över det som drabbat Ukrainas folk",
+        "modified": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "7c86533a-f050-4087-846d-4909338afadc"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "display_value": "Makt korrumperar tänker jag",
+        "modified": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "e970d116-59d5-4181-be4b-3b2d41422861"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "display_value": "viss oro men mest tänker jag på folket i Ukraina & vad vi i Sverige kan hjälpa",
+        "modified": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "08d8e7f2-59d5-4482-b2f8-428021caf32b"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "display_value": "DIGITALA TIDNINGEN",
+        "modified": "Thu, 16 Jun 2022 12:34:08 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "d3ed028c-0f7a-46f4-8973-94d00c33efdf"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

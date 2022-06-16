@@ -5184,6 +5184,22 @@
           57.65
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "mycket ledsamt & förskräckt över det som drabbat Ukrainas folk…",
+        "date": "16 juni 2022",
+        "author": "Ulrika Elisabet",
+        "url": "https://minnen.se/tema/krigetiukraina/19772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.151,
+          59.282
+        ]
+      }
     }
   ]
 }
