@@ -5200,6 +5200,22 @@
           59.282
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det känns sorgligt och avskyvärt hur de ryska soldaterna våldtar och dödar. Tyvärr är dessa historie…",
+        "date": "16 juni 2022",
+        "author": "Anne",
+        "url": "https://minnen.se/tema/krigetiukraina/19773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.858,
+          56.674
+        ]
+      }
     }
   ]
 }

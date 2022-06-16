@@ -40300,5 +40300,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00560",
+    "contributor": {
+      "display_name": "Anne"
+    },
+    "created": "Thu, 16 Jun 2022 15:32:59 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 16 Jun 2022 15:32:59 GMT",
+    "position": {
+      "latitude": 56.6743748,
+      "longitude": 12.8577884
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19773",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d0836a65-7afa-46a2-894f-c88520c0ab30",
+    "values": [
+      {
+        "created": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "display_value": "1971",
+        "modified": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "696ff80d-bda1-4d2a-a45a-c51a69e8077c"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "display_value": "Det är en oroande utveckling och ibland känns det som att vi är under samordnad attack när det kommer till transporter och råvaror. Både Ryssland och Kina har tagit över stora delar av tillverkningen av baskemikalier, naturliga råvaror som vanilj mm De ökar priserna pga bristande konkurrens och flyttar volymer bl a från livsmedel till krigsindustrin bl a fosfor vilket ger stora brister i råvaruförsörjningen. I Norden kan vi byta till naturliga alternativ som fermenterat (istället för konservering), naturliga grönsakspulver (istället för färgämnen) för vi kan absorbera en rejäl prisökning pga god ekonomi men mycket orolig vad det kommer innebära för fattigare länder i kombination med de klimatförändringar som samtidigt förstör klimat och odlingsmark på många håll. \nTrots de mörka molnen så kämpar många mänskor framåt för att hitta snabba nya källor och lösningar i container, lab, bassäng, 3D-printat osv odlat som har snabbare omsättningstakt och mindre svinn samt mindre känsligt för förändringar i klimat och sjukdomar samt skadedjur.",
+        "modified": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "dae5fb87-bc00-433a-be92-54850154fb36"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "display_value": "Det känns sorgligt och avskyvärt hur de ryska soldaterna våldtar och dödar. Tyvärr är dessa historier så bekanta från det mina släktingar delget mig och levt med hela livet. Jag tänker på hur detta kommer påverka så många människor i generationer framåt och hoppas på snar fred",
+        "modified": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "ac16f61f-5ea0-4d33-8f66-6b6bcedca0de"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "display_value": "Ser positivt på framtiden trots kriget i Ukraina. Det är en stor global förändring pågång där allt fler förstår att vi alla tillsammans behöver teama ihop för att få stop på klimatförändringarna, fördela resurserna på jorden mer jämt och avstå saker för andra. \nJag tror på att vi kommer lyckas vända den negativa utvecklingen och att detta är början o slutet av krig och aggression enligt gammel rysk modell",
+        "modified": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "c2d641ff-4979-47b1-bbc3-c2da57d7aef7"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "display_value": "Jag arbetar med råvaruförsörjning till livsmedelsindustrin i Norden och händelserna påverkade inte så mycket i början men allt eftersom så har bristen på rysk gas, el och råvaror påverkat allt mer. Det pågår ett hektiskt arbete med att hitta nya lösningar, ersätta bristråvaror och flytta produktion mellan fabriker som är mindre drabbade. Det är en svår ekvation och kräver snabbhet och stor erfarenhet och flexibilitet för att lyckas. Nordiska företag är dock duktiga på omställning och fast det ofta är på håret om det går att lösa så är alla införstådda med att det måste ske.",
+        "modified": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "e4fcbd4d-2c88-464f-b4fe-123295ee428f"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "display_value": "Jag fick höra om att kriget börjat på nyheterna. Det kändes omtumlande och som att ett blad hade vänts igen. Jag tänkte tillbaka på mina släktingar som deltog i vinterkriget och andra världskriget och alla de trauma och smärta som de bar på hela livet. Det kändes sorgligt att man inte  arbetat ännu mer för fred och att Ryssland återigen valt krig före fred",
+        "modified": "Thu, 16 Jun 2022 15:32:59 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "f6a3ae89-e832-4bbe-9909-97d66061e31a"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
