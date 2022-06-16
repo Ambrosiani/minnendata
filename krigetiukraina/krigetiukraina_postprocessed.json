@@ -40411,5 +40411,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00561",
+    "contributor": {
+      "display_name": "Matilda Gurevic"
+    },
+    "created": "Thu, 16 Jun 2022 15:50:41 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 16 Jun 2022 15:50:41 GMT",
+    "position": {
+      "latitude": 56.4189906,
+      "longitude": 13.1168471
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19774",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "1562bb07-0c58-46e1-b68a-cd792e472788",
+    "values": [
+      {
+        "created": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "display_value": "1978",
+        "modified": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "716842d5-fc4a-4132-82b6-baeaea7f0b5c"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "display_value": "Jag tycker att vanlig folk bryr sig inte riktigt om det är krig. Det är infekterat klimat i Europa, visa verkligen försöker göra världen bättre, visa gör den sämre. Saknas empati känsla...",
+        "modified": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "a6d1186c-2fdc-4cf7-99f2-25b30a93cec7"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "display_value": "Jag känner mig hopplös, maktlös och arg på alla ledare i världen, på de flästa människor i världen, i Sverige att folk inte bryr sig att vi fortfarande lever som inget har hänt. Att det görs inte tillräckligt, att politik och pengar vinner men inte människor. Människas liv har idag nästan ingen värde. Idag såg på skylten i fältet vad kostar diesel - 27.18 på Preem och vill svära, att Putin har vunnit. Jag tankar hans olja som han för de pengarna dödar gamla, unga, barn, bebisarna. Mina händer är också blodiga med Ukrainas folkets blod och han kan  fortsätta kriga och kriga...\n2018, när var valet i Sverige och Sveriges demokraterna kom igång, jag sa ni som väljer SD, väljer Putin och Ryssland. Det är hans pengar bakom det. Senare kom flykting våg från Syrien. Stakars människor, som var också bombarderat av Putin, fick fly. Och blev kaos i Sverige. Mötes olika kulturer och värderingar. Tänker, ja Putin är smart. Han har gjort bra jobb. Han kan döda hela Ukraina för vi i Sverige har inte tid med de stackarna som dödas, våldtas, körs bort till sibirian. Putin har redan vunnit till och med i Sverige, för dem kaoset som har vi i Sverige, kommer SD vinna. Den dagen kan man säga välkommen Putin...",
+        "modified": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "78242817-1d87-45e1-878e-9f0b4a804fbb"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "display_value": "Hoppas att en dag kriget slutar och samtidigt förstår att det kan hända inte bli. Vill att vi ska lära oss från det att skall aldrig hända igen, men samtidigt det bara ord... Individuellis gjorde att vi har inte den gemenskaps känsla. Jag måste erkänna jag vill inte tänka på framtid. Det är hemst, att jag kan inte ge mina barn bättre värld. Den är förstörd med alla möjliga ideologi som alla i sig vägleda bortåt från människor, från goda hjärta, medmänniskorskänsla.",
+        "modified": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "1321c306-34f8-4fbd-b0e8-6a47dc352fc7"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "display_value": "Mest pengar mässigt. Allt blir dyrare och dyrare, inte bara bensin och diesel. Och då hör man, ja för det är kriget. Min lön snart räcker inte, bra att är man som jobbar. Och nyheter, de påverkar att man ser eländet i Ukraina och kan inte göra något åt det. Ville ta emot några ukrainska, tyvärr på grund av ekonomiska skäl kan inte hjälpa de.",
+        "modified": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "653d16be-247c-4c0d-9abf-f108e748ea41"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "display_value": "Jag vacknade av meddelandets ljudet den 24/2 och där stodde från min vän i Kanada som är ukrainsk judina, Kiev  är anfallen, att bomber faller och snälla be för mina kära och nära som är där.\nJag började be och samtidigt kolla på nyheterna att verkligen det är sanningen. Jag kände mig att någon har vridit på tidens ratten och jag befinner mig på 1940 år att liksom alla visste att det ska hände men ingen ville stoppa Hitler, som nu Putin, för ingen trodde att det var sant",
+        "modified": "Thu, 16 Jun 2022 15:50:41 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "c7b14f42-9dda-4db7-ac51-3211bf67fe90"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

@@ -5216,6 +5216,22 @@
           56.674
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner mig hopplös, maktlös och arg på alla ledare i världen, på de flästa människor i världen, …",
+        "date": "16 juni 2022",
+        "author": "Matilda Gurevic",
+        "url": "https://minnen.se/tema/krigetiukraina/19774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.117,
+          56.419
+        ]
+      }
     }
   ]
 }
