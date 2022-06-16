@@ -40078,5 +40078,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00558",
+    "contributor": {
+      "display_name": "Alexandra"
+    },
+    "created": "Thu, 16 Jun 2022 08:35:13 GMT",
+    "license": "CC BY",
+    "modified": "Thu, 16 Jun 2022 08:35:13 GMT",
+    "position": {
+      "latitude": 57.65,
+      "longitude": 12.016667
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19771",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "d5176561-3940-4b50-9487-be04dd69bd28",
+    "values": [
+      {
+        "created": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "display_value": "1982",
+        "modified": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "83dc58c3-dd61-4e79-b63c-776ba7ba8ee4"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "display_value": "Jag förstår inte riktigt frågan... \nDet är krig som pågår, samhället är chockat och minst sagt oroligt, eftersom den skurken i Ryssland hotar världen med kärnvapen. Priserna går upp, människor har knappt hunnit andas ut efter covid... Det är riktigt ansträngt läge.",
+        "modified": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "9335282c-243f-4192-83a7-e92cafa303c0"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "display_value": "Det är absolut ofattbar, grym och helt idiotisk händelse som inte kan vara bortförklarad på något sätt! Ingenting kan förklara det att människor dör och flyr, att barn lider, att miljoner blir utan hem...\nInga \"8 år av Donbass krig\" kan vara en ursäkt för detta. Jag är svårt bedrövad och chockerad av att detta händer nu och att så många i Ryssland blir såpass påverkade att de verkligen tycker att det som händer är rätt. \n\nJag blir riktigt skrämd över vad media kan göra om de är under en specifik makt och över det att människor inte kan tänka kritiskt. Det värsta är att vi ser nu att detta kan hända i vilket land som helst, och varken utbildning eller religiösa åsikter kan hjälpa att inte bli en galen person full av hatred. Hur många gånger som helst säger vi dessa dagar: \"nu förstår vi verkligen vad hände med folket i Nazityskland\", dock detta förståelse inte hjälper mycket. Hjälper bara att inte döma utan urskillning, kanske, och bli med ödmjuk...",
+        "modified": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "04536168-1286-439d-b5b8-68d9f99fc30d"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "display_value": "Jag tror och hoppas att Ukraina kommer att vinna, och blir återbyggt igen.\nFör Ryssland ser jag verkligen inte någon bra framtid. Det gör mig riktigt bedrövad och deprimerad - där bor min familj, mina nära vänner! Mitt hjärta lider med tanke på dem. Men jag ser verkligen ingen framtid där... Hoppas jag har fel, verkligen hoppas...\nFör världen -vet inte, beror på om människor kan ta nån lärdom av det och inte jubla över nationalister i regeringen i framtiden, efter sådan exempel. Men just precis nu är jag nog väldigt pessimistisk och min tro i människor har minskat rejält. Får se hur detta blir...",
+        "modified": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "27650f6f-f15e-4c17-949c-791af632975a"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "display_value": "Mina föräldrar har det mycket svårare att komma ut från Ryssland och besöka oss. \nJag har svårt att umgås med min mor, mina svärföräldrar och mina syskon, som inte delar helt våra åsikter.\nBensinpriser har ökat markant.\n\nJag känner en jättestor tryck på mig som på en rysk, även om jag själv inte stödjer kriget, protesterar, jobbar som volontär med ukrainerna osv. Stor negativ tryck från media, indirekt - från t.ex. Arla eller andra bolag som tar bort ord \"rysk\" från deras produkter. Jag agerar väldigt starkt på detta, för rysk är ändå min identitet och för mig är det inte kopplat till kriget eller Putin. Och det verkligen känns som om hela världen vill nu ta bort dessa identitet, att utrota hela ordet från lexikon typ. Det är väldigt traumatisk för mig som för en person (och jag ser fan inte hur detta kan hjälpa stackars ukrainer!!!).",
+        "modified": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "31c2c61f-6fc4-4b35-9d7e-04974de3d323"
+      },
+      {
+        "created": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "display_value": "Jag fick veta om det på jobbet, på morgonen den dag Ryssland anfalit. Men jagg hörde om att det skulle kanske hända några dagar innan, från min far, min ukrainsk väninna, några tips på Facebook... Jag är ryska nämligen... Detta var en chock, total chock. Jag ville inte tro på det när jag hörde det innan, så idiotiskt och onödigt som det var, men när jag hörde det på fika, trodde jag på det på en gång.  Jag kände mig som om någon slagit mig i huvud med en stock eller liknande, det var svårt att ens samla tankarna då... Sedan började mina ryska vänner i Sverige skriva. När jag kom hem, frågade min man om jag hörde nyheter och vi kramades jättehårt. Det kändes oerhört tungt.",
+        "modified": "Thu, 16 Jun 2022 08:35:13 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "f020bb52-cd69-420d-a351-23da38e9804d"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

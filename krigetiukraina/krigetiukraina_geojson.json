@@ -5168,6 +5168,22 @@
           59.287
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är absolut ofattbar, grym och helt idiotisk händelse som inte kan vara bortförklarad på något sä…",
+        "date": "16 juni 2022",
+        "author": "Alexandra",
+        "url": "https://minnen.se/tema/krigetiukraina/19771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.017,
+          57.65
+        ]
+      }
     }
   ]
 }
