@@ -21991,5 +21991,135 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00605",
+    "contributor": {
+      "display_name": "Vanessa"
+    },
+    "created": "Fri, 17 Jun 2022 16:11:09 GMT",
+    "image_dms_id": "013AmNgfpoLR",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 01 Jun 2022 15:36:41 GMT",
+        "description": "Intervjuv med mamma",
+        "dms_id": "013AmNgfpoLR",
+        "license": "CC0",
+        "mime_type": "video/mp4",
+        "modified": "Wed, 01 Jun 2022 15:36:41 GMT",
+        "name": "20220601_172720.mp4",
+        "order_by_number": 1,
+        "owner": "Vanessa",
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "video",
+        "uuid": "633dc6ec-1fbc-441f-bcb7-53b82a881d8e"
+      }
+    ],
+    "modified": "Fri, 17 Jun 2022 16:11:09 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19832",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "81bb2730-3c40-4485-b99f-20f1f01eb6ba",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 16:11:09 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 16:11:09 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "178ddda2-3f89-48d8-b4cc-68bbd7d14bc9"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:11:09 GMT",
+        "display_value": "Natalie är min kusin hon är 8 år och går i ettan.\nHon är min fasters dotter och hon betyder väldigt mycket för mig.\nIbland bråkar vi men vi blir snabbt sams igen genom att sjunga och dansa.\nHon är min bästis och både vi gillar att sjunga och dansa när vi är tillsammans lyssnar vi på musik och gör danssteg till olika danser.\nPå ena av våra danser som vi har gjort tillsammans visar vi att vi är bffs. Oftast sover vi tillsammans hos minn farmor och hennes mormor då vi kollar på film och har dans uppvisningar för våra små syskon. Varje lördag morgon chattar vi med varandra på spelet momio.\n\n\n\nChloe är min lillasyster hon är 6 år gammal. När vi leker leker vi med dockor, ritar, mamma pappa barn eller kör gymnastik. Jag har lärt henne en massa på gymnastik så nu kan hon hjula, stå på händer, handvolt, flickis och massa annat.\nHon betyder mycket för mig och jag älskar henne väldigt mycket, vi bråkar väldigt mycket men det är sånt som syskon gör.\nHon ska börja i samma skola som mig, hon är nervös inför skolan.\nVi är väldigt olika som människor men älskar varandra ändå.\n\n\nMin mamma Janet och är 36 år gammal.\nJag älskar henne jätte mycket och jag kan berätta allt för min mamma.\nVi är ganska lika vi har samma stil, smak.\nJag har intervjuvat min mamma och där får ni se mer.",
+        "modified": "Fri, 17 Jun 2022 16:11:09 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "fae4027b-61ea-4c02-9b18-a28c5832270c"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00607",
+    "contributor": {
+      "display_name": "William"
+    },
+    "created": "Fri, 17 Jun 2022 16:11:41 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 16:11:41 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19833",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "7e1ca5fc-99ef-4503-9541-717e6c80be97",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 16:11:41 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 16:11:41 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "b8bdda28-a040-4e09-8024-621496de5fa4"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:11:41 GMT",
+        "display_value": "Mamma: Min mamma är snäll. Hon håller på med cosplay. Cosplay är att man klär ut sig och man kan cosplaya med andra. När jag är sjuk eller har ont så hjälper mamma mig.\n\nPappa: Pappa lagar mat till oss varenda dag. Pappa jobbar på kontor framför en dator hela dagarna. Han brukar följa med mig till min fotbollsträning och hoppa studsmatta med mig.\n\nStorasyster Gabriella: Hon hoppar studsmatta med mig och leker med mig. Vi har roligt i poolen tillsammans.\n\nBästa kompisen Eje: Han leker med mig och spelar fotboll med mig. Han är snäll.",
+        "modified": "Fri, 17 Jun 2022 16:11:41 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "7613c2b2-3b2f-4259-a519-8ded6a50cecb"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

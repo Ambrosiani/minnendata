@@ -20038,5 +20038,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00592",
+    "contributor": {
+      "display_name": "William"
+    },
+    "created": "Fri, 17 Jun 2022 16:11:45 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 16:11:45 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19834",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "12edae0f-48f5-4dc7-b871-b4efd4dd76c7",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 16:11:45 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 16:11:45 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "f061539a-cded-4583-95c5-440398330c0b"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:11:45 GMT",
+        "display_value": "När jag är 58 år tror jag att jag jobbar med att göra nya spel. Jag vill göra Yoshis crafted world 2 om det inte redan finns då. Jag tror att jag bor i Sverige men att jag reser till Italien med mamma och pappa.",
+        "modified": "Fri, 17 Jun 2022 16:11:45 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "e28e40e8-cbf1-44ee-93e5-ec78cbfed994"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
