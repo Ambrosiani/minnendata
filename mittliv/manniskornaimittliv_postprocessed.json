@@ -21696,5 +21696,300 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00599",
+    "contributor": {
+      "display_name": "Liam"
+    },
+    "created": "Fri, 17 Jun 2022 15:51:01 GMT",
+    "image_dms_id": "013AmNgbQBBs",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 31 May 2022 21:09:25 GMT",
+        "description": "Jag och min lillebror på semester",
+        "dms_id": "013AmNgbQBLb",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:09:25 GMT",
+        "name": "53E74300-80DD-4D20-B184-2DE5A90D31B8.png",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "eafc73fd-5abd-4513-a728-d98905a84b98",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 19:22:52 GMT",
+        "description": "Jag & min lillebror Milo",
+        "dms_id": "013AmNgbQBBt",
+        "image_height": 1440,
+        "image_ratio": 1,
+        "image_width": 1440,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 19:22:52 GMT",
+        "name": "03D45B0B-1945-4611-9258-00D34ACAC22B.jpg",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "ed5410b0-b39a-4802-b264-82875feb888d",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 19:40:37 GMT",
+        "description": "Mamma, Pappa och Milo min lillebror.",
+        "dms_id": "013AmNgbQBBv",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 19:40:37 GMT",
+        "name": "IMG_1474.JPEG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "69957a72-8660-4028-8e78-7d08cd6eb0ed",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:08:52 GMT",
+        "description": "Jag & pappa när vi ska på Djurgårdsmatch",
+        "dms_id": "013AmNgbQBGK",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:08:52 GMT",
+        "name": "75FA04FD-603F-487D-8672-E42A56A45448.png",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "34fc7139-3a0c-4dc0-9fd2-3ad5ad42a43a",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:09:06 GMT",
+        "description": "Jag och mamma på landet",
+        "dms_id": "013AmNgbQBGL",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:09:06 GMT",
+        "name": "85C23A5A-475E-4E70-8000-F6032E7DE28E.png",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "441f2269-677d-4169-9c4b-b74f3e186aec",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Fri, 17 Jun 2022 15:51:01 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19814",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "77c45112-7fef-4cca-abb1-a150077a1cd5",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:51:01 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:51:01 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "70e4ce39-2dc4-46f1-ab35-df459a6284cc"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:01 GMT",
+        "display_value": "Pappa, Mathias: Han är snäll och vill hitta på roliga saker med mig som att kasta pil och spela fotboll. Han tränar mig i friidrot och cyklar MTB med mig. Jag älskar min pappa. \n\nMamma, Therese: Gör roliga saker med mig så som att åka till Gröna Lund, gå på bio, lagar god mat. Jag älskar min mamma.\n\nMilo, min lillebror: Är busig och vi brukar jaga varandra och leka kurragömma och kull. Jag älskar honom. Han är den bästa lillebroden man kan ha.",
+        "modified": "Fri, 17 Jun 2022 15:51:01 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "306f289f-2f72-4b38-ae69-1a345740b003"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00601",
+    "contributor": {
+      "display_name": "Felicia"
+    },
+    "created": "Fri, 17 Jun 2022 15:52:14 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:52:14 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19817",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a8f15b19-192e-4379-b76f-b192b46a329f",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:52:14 GMT",
+        "display_value": "Mamma pappa zorro malajka link  kaj Tho .",
+        "modified": "Fri, 17 Jun 2022 15:52:14 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "121975ae-92a6-4a81-9f0e-acb23bba38a7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00603",
+    "contributor": {
+      "display_name": "Milas"
+    },
+    "created": "Fri, 17 Jun 2022 15:53:41 GMT",
+    "image_dms_id": "013AmNgbPr1b",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 31 May 2022 15:25:21 GMT",
+        "description": "Familjen Karadja",
+        "dms_id": "013AmNgbPr1b",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 15:25:21 GMT",
+        "name": "Karadjas.jpg",
+        "order_by_number": 1,
+        "owner": "mormor",
+        "topic_item": {
+          "label": "📱 Här kan du ladda upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du ladda upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "0a0802d8-7d3f-4978-bb57-b20a1e4bb0b1"
+        },
+        "type": "image",
+        "uuid": "04cdadbb-7114-4d49-a304-7629a3ecd12a"
+      }
+    ],
+    "modified": "Fri, 17 Jun 2022 15:53:41 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19820",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "5959cd2a-7ec9-47a8-8219-5cd7aebf36ea",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:53:41 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:53:41 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "7275e2e0-44ae-4cba-b292-6918a65e2da5"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:41 GMT",
+        "display_value": "Min familj.\nMamma för att hon är världens bästa mamma.\nPappa för han är så bra på att laga mat.\nSalina för att  hon är världens bästa lillasyster.",
+        "modified": "Fri, 17 Jun 2022 15:53:41 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "c403fb1e-a753-418a-a033-a613f7f6b5d9"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

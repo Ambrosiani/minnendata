@@ -83371,5 +83371,2082 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00765",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Fri, 17 Jun 2022 15:49:50 GMT",
+    "image_dms_id": "013AmNgbPqhx",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 31 May 2022 14:47:42 GMT",
+        "description": "Toalett",
+        "dms_id": "013AmNgbPqhx",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:42 GMT",
+        "name": "20220531_164158.jpg",
+        "order_by_number": 1,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "0a78dada-30c6-4833-8f20-95c0b3a01e5f"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:55:44 GMT",
+        "description": "Framsidan",
+        "dms_id": "013AmNgbPqw8",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:55:44 GMT",
+        "name": "20220531_164618.jpg",
+        "order_by_number": 1,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "8df57ef4-c4cc-431b-8962-0813bd9cac3e"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:42 GMT",
+        "description": "Vår hall",
+        "dms_id": "013AmNgbPqhy",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:42 GMT",
+        "name": "20220531_163326.jpg",
+        "order_by_number": 2,
+        "owner": "V.E",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "49a78b24-d90d-4ebf-9e4b-f2c40bb8924a"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:42 GMT",
+        "description": "Vår spis",
+        "dms_id": "013AmNgbPqnF",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:42 GMT",
+        "name": "20220531_163255.jpg",
+        "order_by_number": 2,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "8be25c72-0da9-47ea-83c5-a74d5a525fce"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:42 GMT",
+        "description": "Vårt kök",
+        "dms_id": "013AmNgbPqhz",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:42 GMT",
+        "name": "20220531_163243.jpg",
+        "order_by_number": 2,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "1bbdcca8-637d-4aa7-962b-02c0ecfb5b85"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:44 GMT",
+        "description": "Lite tvätt",
+        "dms_id": "013AmNgbPqnH",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:44 GMT",
+        "name": "20220531_163342.jpg",
+        "order_by_number": 5,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "cf89450c-c045-4de0-aa6c-26f7db1a0542"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:44 GMT",
+        "description": "Vårt badrum på nedervåningen. Bastu och toalett",
+        "dms_id": "013AmNgbPqnG",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:44 GMT",
+        "name": "20220531_163337.jpg",
+        "order_by_number": 5,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "73eceb06-b9c0-4ce6-b019-71ccaf7358d5"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:44 GMT",
+        "description": "Min garderob",
+        "dms_id": "013AmNgbPqnJ",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:44 GMT",
+        "name": "20220531_164116.jpg",
+        "order_by_number": 5,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "534e498d-115c-42c8-87cd-7ff51a512e3b"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:44 GMT",
+        "description": "Vår dusch",
+        "dms_id": "013AmNgbPqnK",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:44 GMT",
+        "name": "20220531_164209.jpg",
+        "order_by_number": 6,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "e3961d92-42bf-43f1-86a0-a99f2fe6cc16"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:44 GMT",
+        "description": "Vårt aktivitetsrum",
+        "dms_id": "013AmNgbPqnL",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:44 GMT",
+        "name": "20220531_163356.jpg",
+        "order_by_number": 7,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "42f26ecf-e2ff-4daa-8f52-8420afcb91bb"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:44 GMT",
+        "description": "Min lillebrors rum",
+        "dms_id": "013AmNgbPqnP",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:44 GMT",
+        "name": "20220531_164141.jpg",
+        "order_by_number": 7,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "f8b28841-3556-498c-a280-28919f4295de"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:44 GMT",
+        "description": "Vårt lekrum",
+        "dms_id": "013AmNgbPqnM",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:44 GMT",
+        "name": "20220531_164150.jpg",
+        "order_by_number": 9,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "c4f530a7-7839-4ee1-bc4f-28de19744e34"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:44 GMT",
+        "description": "Min lillebrors rum",
+        "dms_id": "013AmNgbPqnN",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:44 GMT",
+        "name": "20220531_164135.jpg",
+        "order_by_number": 9,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "cea419f9-7278-4839-a78d-2e9d05e0d475"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:45 GMT",
+        "description": "Vårt köksbord",
+        "dms_id": "013AmNgbPqnQ",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:45 GMT",
+        "name": "20220531_163232.jpg",
+        "order_by_number": 13,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "b4d81e81-dbda-40d5-947e-8e3626b8b395"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:45 GMT",
+        "description": "Vårt vardagsrum",
+        "dms_id": "013AmNgbPqrf",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:45 GMT",
+        "name": "20220531_163209.jpg",
+        "order_by_number": 14,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "8a422336-677f-42a2-bd3c-5d5f45af65f5"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:46 GMT",
+        "description": "Mitt rum",
+        "dms_id": "013AmNgbPqrh",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:46 GMT",
+        "name": "20220531_164103.jpg",
+        "order_by_number": 14,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "800a2ca7-95d9-4d04-8d72-d8f6926d3e62"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:46 GMT",
+        "description": "Vår hall",
+        "dms_id": "013AmNgbPqrg",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:46 GMT",
+        "name": "20220531_163329.jpg",
+        "order_by_number": 14,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "652f03a2-6cc6-41e2-b702-afb38713aafd"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:46 GMT",
+        "description": "aktivitetsrum",
+        "dms_id": "013AmNgbPqri",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:46 GMT",
+        "name": "20220531_163353.jpg",
+        "order_by_number": 14,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "1cfbb41f-8cb2-4bd6-9c7b-c09da5748137"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:46 GMT",
+        "description": "Vårt badkar och tvättstuga",
+        "dms_id": "013AmNgbPqrj",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:46 GMT",
+        "name": "20220531_163333.jpg",
+        "order_by_number": 16,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "8923f9bc-ec3f-4ff3-9ecc-c34a869a5926"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:46 GMT",
+        "description": "Min lillebrors säng",
+        "dms_id": "013AmNgbPqrm",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:46 GMT",
+        "name": "20220531_164129.jpg",
+        "order_by_number": 18,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "1cbd1f9f-7b69-469b-96ca-027e72388102"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:46 GMT",
+        "description": "Vårt vardagsrum",
+        "dms_id": "013AmNgbPqrk",
+        "image_height": 2016,
+        "image_ratio": 0.75,
+        "image_width": 1512,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:46 GMT",
+        "name": "20220531_163226.jpg",
+        "order_by_number": 18,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "024cccde-35d2-4355-96be-6b3935aa4eb8"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:46 GMT",
+        "description": "Min säng",
+        "dms_id": "013AmNgbPqrn",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:46 GMT",
+        "name": "20220531_164059.jpg",
+        "order_by_number": 20,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "fd5118b4-7576-483b-9ab4-8a1ea02bd4f1"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:47:47 GMT",
+        "description": "Här är jag",
+        "dms_id": "013AmNgbPqro",
+        "image_height": 2944,
+        "image_ratio": 0.75,
+        "image_width": 2208,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:47:47 GMT",
+        "name": "20220531_163137.jpg",
+        "order_by_number": 22,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "0a255b42-cc52-44e8-b034-334d5037b931"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:55:44 GMT",
+        "description": "Vårt hus",
+        "dms_id": "013AmNgbPqw6",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:55:44 GMT",
+        "name": "20220531_164718.jpg",
+        "order_by_number": 23,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "37a571d3-52ca-44ff-b70a-4252e891c137"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:55:44 GMT",
+        "description": "Baksidan",
+        "dms_id": "013AmNgbPqw7",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:55:44 GMT",
+        "name": "20220531_164749.jpg",
+        "order_by_number": 24,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "037cee0c-7b9f-41a1-9cf6-cb5b659d8b8d"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:55:44 GMT",
+        "description": "Solceller på taket",
+        "dms_id": "013AmNgbPqw9",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:55:44 GMT",
+        "name": "20220531_164758.jpg",
+        "order_by_number": 24,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "b1bcc59c-a944-4a4e-831b-696c9713c824"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:55:44 GMT",
+        "description": "Våra gungor",
+        "dms_id": "013AmNgbPqwA",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:55:44 GMT",
+        "name": "20220531_164722.jpg",
+        "order_by_number": 25,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "1962dc5c-1976-4bcc-bb42-af6e41f6473a"
+      },
+      {
+        "created": "Tue, 31 May 2022 14:55:44 GMT",
+        "description": "Min studsmatta",
+        "dms_id": "013AmNgbPqwB",
+        "image_height": 1512,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 2016,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 14:55:44 GMT",
+        "name": "20220531_164731.jpg",
+        "order_by_number": 25,
+        "owner": "Vera Eckeskog",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "487676bd-321f-4118-94ac-2f9f9db849ea"
+      }
+    ],
+    "modified": "Fri, 17 Jun 2022 15:49:50 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19810",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "95b6f250-23b0-46a8-bb4d-d8738d895b39",
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00767",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19811",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "8d33911b-e87d-494f-bae1-ba12f1c2853f",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "Jag har ett eget rum på övervåningen i mitt hus.",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "dc9dd29d-ae7c-4110-80a2-b7ef1d1f7d35"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "NEJ",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "766678fc-a16b-4a2d-84ee-6246af010da4"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "Jag tycker om att spela på min ipad och då spelar jag roblox men jag kollar också på program och då kollar jag på barnkanalen och netflix och ytube kids och jag tycker om att hopa stutsmata och jag tycker om att rita och jag tycker om att pyssla.",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "6edc9a51-3282-453a-9332-80c04aaa373c"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "120",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "5a8cf449-75ac-452f-9ca3-57c447507667"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "Jag vaknar i min säng går upp och klär på mig, jag väljer kläder själv, sedan äter jag frukost och då äter jag fil och flingor. Sedan gör jag en macka och sätter mig i soffan tar min ipad och kollar på någonting. Sen borstar mina föräldrar tänderna på mig.  På lördagar har jag basketträning. Efter träningen brukar vi äta lunch tex pannkaka. Sedan får jag lördagsgodis min favoritgodis är choklad. Jag och min lillebror brukar ibland bygga med lego eller leka med något annat. Vi kanske går ut i trädgården och hoppar studsmatta. Ibland knackar jag på hos min granne Astrid. Vi brukar vara hemma hos varandra men oftast hos mig. Mamma och pappa gör lite olika saker, tvättar och diskar, gräver och pratar och dricker kaffe.\nEfter middagen får vi lördagsmys och då kollar vi på en film eller på Ipad. Jag gillar att titta på tecknade  disneyfilmer. Sedan borstar vi tänderna och jag lägger mig i min säng. Då läser mamma eller pappa högt i en kapitelbok för mig. Sedan somnar jag.",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "f257fe8e-e4c2-4a3a-a296-8e44da7a13e0"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "Sedan 2016.",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "a65c16ce-76c2-4003-8842-1e52d90820e1"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "10",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "2750664a-1d56-4956-ab0d-47010bccd210"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "7e7d41fd-6972-416c-94d4-00c6d89f978e"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "Jag får inte slås och jag får inte kasta saker.",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "c068ff56-1de5-43b3-ba9c-c4b6d05f6a71"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "Jag har en tomt och dar har jag en studs mata och tre gungor och en altan med två träsofor och ett bord.",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "d1dfb58d-d7fa-4f67-883a-db59943301bf"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "Jag hjälper till att laga mat ibland och då lagar jag pannkaka och jag hjälper till i trädgården ibland också.",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "69b962a5-fd2e-4c4f-931b-b36d50daeed3"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "display_value": "Mamma Hanna.\nPappa Magnus.\nLillebror Leopold.",
+        "modified": "Fri, 17 Jun 2022 15:49:57 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "4b711615-34ad-474f-b1d8-e5f3585635f6"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00769",
+    "contributor": {
+      "display_name": "Liam"
+    },
+    "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+    "image_dms_id": "013AmNgbQBGB",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 31 May 2022 21:12:46 GMT",
+        "description": "Framsidan av mitt hus",
+        "dms_id": "013AmNgbQBR2",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:46 GMT",
+        "name": "FFDE93C2-1C41-4801-89B7-B6541B67F714.png",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "e69a1085-e16f-42fe-ac8a-464d47646ec1",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:36 GMT",
+        "description": "Baksidan av huset utanför tv-rummet",
+        "dms_id": "013AmNgbQBR1",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:36 GMT",
+        "name": "80DD933D-3F95-4667-80D3-2C0A596098FE.png",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "f79878d0-e986-4abf-a5e5-5481872641b3",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:29 GMT",
+        "description": "Altanen som sitter ihop med huset",
+        "dms_id": "013AmNgbQBLc",
+        "image_height": 1064,
+        "image_ratio": 0.7772556390977443,
+        "image_width": 827,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 21:12:29 GMT",
+        "name": "DBAA69FE-A997-44EE-8BB3-5050B408BF04.jpeg",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "3ef3bfd8-8cdb-4d32-b973-16784d7c8282",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 19:45:11 GMT",
+        "description": "Vår baksida",
+        "dms_id": "013AmNgbQBGB",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 19:45:11 GMT",
+        "name": "IMG_9944.JPEG",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "18cfc730-31f8-49cd-b3e1-6c0f8da1566c",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:30 GMT",
+        "description": "Utanför mitt sovrumsfönster",
+        "dms_id": "013AmNgbQBLd",
+        "image_height": 1090,
+        "image_ratio": 0.7596330275229358,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 21:12:30 GMT",
+        "name": "92BF05B1-4B90-4878-ABD6-18C780389C55.jpeg",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "387c3f04-02cd-4b35-9a6c-5c26bd40503b",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:35 GMT",
+        "description": "Min altan på baksidan av huset",
+        "dms_id": "013AmNgbQBLg",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:35 GMT",
+        "name": "57D502EB-404C-4A43-97FC-EF83D4D094A9.png",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "d52c9784-34b4-41ae-be92-610ddf22ed2d",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:34 GMT",
+        "description": "Mitt vardagsrum",
+        "dms_id": "013AmNgbQBLe",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:34 GMT",
+        "name": "E8DC695B-9157-480F-987A-DF476EFFACA0.png",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "38549240-f0cf-4c95-8a47-dfda5d8c6715",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:35 GMT",
+        "description": "Min lillasyster i mitt vardagsrum",
+        "dms_id": "013AmNgbQBLh",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:35 GMT",
+        "name": "5E13D242-F5E8-4A89-9DD4-3B02F66E2CD3.png",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "f1d7139a-f922-4ee2-9301-06c5e1a2905d",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:35 GMT",
+        "description": "I köket med mums syskon",
+        "dms_id": "013AmNgbQBLf",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:35 GMT",
+        "name": "70AE10CB-F6E0-4883-B695-C4107CCD483B.png",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "ae32e365-be11-4173-a917-0644c22238f3",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:35 GMT",
+        "description": "I mitt kök och Bakar",
+        "dms_id": "013AmNgbQBLi",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:35 GMT",
+        "name": "36616F6F-4EA3-4192-8963-FC5E34A1DDF1.png",
+        "order_by_number": 9,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "6ab7e81f-6a8f-4b6b-b201-f685e9c70921",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:36 GMT",
+        "description": "Mitt kök på nyår",
+        "dms_id": "013AmNgbQBLj",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:36 GMT",
+        "name": "243FD4A0-9891-4498-9119-8C71C962F5EA.png",
+        "order_by_number": 10,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "3631182a-0ce4-4d62-9d1a-7bb6c94a251f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 21:12:36 GMT",
+        "description": "I min säng i mitt rum",
+        "dms_id": "013AmNgbQBLk",
+        "image_height": 1792,
+        "image_ratio": 0.46205357142857145,
+        "image_width": 828,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 31 May 2022 21:12:36 GMT",
+        "name": "A6E4D032-C162-420A-B4A9-6D6E7F43055D.png",
+        "order_by_number": 11,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "c00cc887-8f7f-41a0-99d1-2f89f26a1fd8",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 31 May 2022 19:49:12 GMT",
+        "description": "Jag och mina syskon",
+        "dms_id": "013AmNgbQBGD",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 19:49:12 GMT",
+        "name": "IMG_3763.JPEG",
+        "order_by_number": 13,
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "9c77db57-acf7-486c-9e8b-0152c4362e23",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19815",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "0975c43e-b3ad-42b4-a202-c8859afe14bb",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "Jag har eget rum på övervåningen i huset och sover i min 90 cm säng. Utanför mitt sovrum ser jag vår trädgård. Där planeterar mamma massa blommor och växter. Vi brukar sitta ute och äta och fika när det är varmt ute.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "70ac6795-d60c-4e80-b61a-4c077245fdaa"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "Nej, men vi har två stycken landställen som vi kan åka till när vi vill.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "a6ca27d6-ac54-4fa3-8930-8f9d1f4ca220"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "Jag gillar att spela fotboll på baksidan, spela kubb, gunga ibland. Jag spelar på min mobil ibland. Jag gillar att titta på tv med familjen. Vi brukar mysa på fredagar och lördagar och titta på Wildkids. Jag har ofta kompisar hemma som äter middag hos oss. Ibland sover de över.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "a3fb7d8c-45f7-4931-a2c6-cd31ba3cf277"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "121",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "7ec4079c-bc9b-43b4-bd8d-fe7a6bc62ae0"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "Det är bra, fullfart.  Jag leker mycket med mina syskon och kompisar som alltid är välkomna hem till oss.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "512b3cc4-6bcf-4e13-91ce-1015cf4d512e"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "Vi har bott här i 8 år. Vi flyttade in här när jag var bebis.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "110dda43-2888-46f7-abc4-d88a413ba131"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "6 rum och kök. Vi har 3 st våtutrymmen.  Ett med badkar och ett med WC/dusch samt ett med en WC",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "cc9aca56-3de4-45a7-91ad-88a674858346"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "aad746b3-eb77-49fa-853c-b5b4861a28c3"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "Jag får inte spela för mycket. Jag ska komma hem innan kl: 20.00 på kvällarna. Jag får bara äta godis på helgen.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "0d321a93-dcf3-4199-a114-ed3cfbda3367"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "På framsidan är det en storgräsyta framför huset och vi har en stor basketkorg utanför oss. Det är även ett litet berg framför. Vi har ett garage och plats för två stycken bilar på vår uppfart. På baksidan har vi en stor trädgård med mycket växter och ett trädgårdsland. Vi har två stycken altaner, en direkt i anslutning till huset där vi har matplast och en sittgrupp och sedan ettsoldäck med solsängar och en soffgrupp. Vi har ett fotbollsmål och en gungställning och ett litet lekhus på gräsmattan.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "58ba02b8-81d9-4d39-9e88-abc5df0d15d5"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "Jag städar upp efter mig och plockar undan så det alltid är städat. Jag brukar bädda min säng och plocka undan min tallrik. Jag gör ofta frukost på vardagarna.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "9f1dcce7-e43c-48a6-898f-da9b9bb7804a"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "display_value": "Min familj består av fem stycken:\n\nMin lillasyster, Elvira 5,5 år\nMin lillebror, Milo 3,5 år\nMin mamma, Therese 39 år \nMin pappa, Mathias 37 år\n\nVi alla bor tillsammans heltid i vårt hus.",
+        "modified": "Fri, 17 Jun 2022 15:51:27 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "834c0577-6e37-4ac5-abd9-57b37fc4adf3"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00771",
+    "contributor": {
+      "display_name": "Felicia"
+    },
+    "created": "Fri, 17 Jun 2022 15:52:31 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:52:31 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19818",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "16f6184e-4ad4-432c-a656-fe339dd17b10",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "Jag har ett eget sovrum mellan mammas å pappas sovrum och toalett..",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "9bebeecc-fe30-40ec-a679-ef139c6d08fe"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "Jag bor i ett hus men vi har en fjäll stuga.",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "8b45469f-f5b1-46cf-83bb-c4b5bd75b917"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "Leka med hundarna och spela .",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "d11c510d-dfdf-4bcf-adf7-b4356d947e42"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "120",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "e5625a52-38a1-4a32-8159-f554e5a6fa98"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "Mitt liv i mitt hus är jättebra jag har några favorit ställe dom är mitt rum mammas och pappas rum och köket.",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "897e92e3-aac4-43bc-96cf-2d7d04b2025c"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "Mamma pappa och Theo har bot har i 11 år men jag har bot har i 9 år.",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "e3090542-7fb0-48db-9b52-15ea0fd76675"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "Vi har 7 rum men vi har köket och vardagsrummet mat bordet har inga dörrar men till tillsammans blir de 10 rum.",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "b62e12fa-2311-4fb6-a8df-f5f71e407995"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "9426e096-0375-4033-bedb-23412cf09315"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "display_value": "En keramik talrik som är stor.",
+        "modified": "Fri, 17 Jun 2022 15:52:32 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "97490da3-c713-485c-ad00-9c568cd8fbf3"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:31 GMT",
+        "display_value": "De finns en skog och granar.",
+        "modified": "Fri, 17 Jun 2022 15:52:31 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "40b52f63-a0cf-4b87-a7d0-2f88c47548b3"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:31 GMT",
+        "display_value": "Städa mitt rum och duka.",
+        "modified": "Fri, 17 Jun 2022 15:52:31 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "313b2579-3cfb-4982-858e-c1b9d455d8e2"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:52:31 GMT",
+        "display_value": "Jag har en pappa en mamma och en bror och två hundar och två katter.",
+        "modified": "Fri, 17 Jun 2022 15:52:31 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "17b23fea-3935-4468-a4cc-63596b81ab53"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00773",
+    "contributor": {
+      "display_name": "Milas"
+    },
+    "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19821",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "66f339c3-2849-452d-8f35-ed7d7a7f933f",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "Med min syster men ska snart få eget rum.",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "ef2842c0-8535-49c8-bae3-8ad8cfdc955f"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "nej",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "67d9be2d-c69d-4f12-8e4e-68688e90f1a5"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "Chilla, äta, leka och titta på mobilen.",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "80fb9542-f7c6-444e-8111-c570dabe99d7"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "121",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "56e3e3c1-8b0c-4851-8f53-d9860f5621fe"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "Bra. Vi har en trädgård, vi har två studsmattor tillsammans med grannarna, vi har nära till en sjö och en lekpark.\nHemma har vi ett kök, vardagsrum, sovrum, toaletter.",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "07744f78-8069-4a89-bd01-cc7fa2d80d25"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "Snart 7 år.",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "034d7d8b-0c54-4b11-be36-19c7d6b23268"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "3 sovrum, 2 badrum, ett kök, två vardagsrum",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "2bf26f86-cea3-415e-b0a0-88349e436aa1"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "cd3b5577-1fcf-4062-9703-4517c6b8eecc"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "Inte äta godis på vardagar. Inte titta på skärm för mycket. Inte tjuva godis. Inte ha keps inomhus.",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "66632086-f167-43f3-9722-2579f8da98bf"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "Fint.",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "97a2dbef-6015-4e4c-b968-efe09582935d"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "Sådär. Dukar.",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "76b10525-1a9c-4690-b893-52d6be6eae27"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "display_value": "mamma, pappa och syster.",
+        "modified": "Fri, 17 Jun 2022 15:53:47 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "348c077c-1c27-455a-81f6-1afa467e57a6"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00775",
+    "contributor": {
+      "display_name": "Vanessa"
+    },
+    "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+    "image_dms_id": "013AmNgbPqwE",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 31 May 2022 15:00:17 GMT",
+        "description": "Min säng",
+        "dms_id": "013AmNgbPqwE",
+        "image_height": 1816,
+        "image_ratio": 2.2202643171806167,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 15:00:17 GMT",
+        "name": "20220531_163737.jpg",
+        "order_by_number": 1,
+        "owner": "Mamma: Janet",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "755d38ce-4276-4c02-af27-da25f235f337"
+      },
+      {
+        "created": "Tue, 31 May 2022 15:01:46 GMT",
+        "description": "Vårat hus utifrån",
+        "dms_id": "013AmNgbPr1X",
+        "image_height": 1816,
+        "image_ratio": 2.2202643171806167,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 15:01:46 GMT",
+        "name": "20220531_164958.jpg",
+        "order_by_number": 1,
+        "owner": "Mamma: Janet",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "4a7ca35b-dc13-4424-be69-5218436aed7d"
+      },
+      {
+        "created": "Tue, 31 May 2022 15:00:52 GMT",
+        "description": "Mitt och Chloes rum",
+        "dms_id": "013AmNgbPr1V",
+        "image_height": 1816,
+        "image_ratio": 2.2202643171806167,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 15:00:52 GMT",
+        "name": "20220531_163747.jpg",
+        "order_by_number": 2,
+        "owner": "Mamma: Janet",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "c992e509-6283-4c13-a5cc-e3432fbc7c9c"
+      },
+      {
+        "created": "Tue, 31 May 2022 15:01:24 GMT",
+        "description": "Utanför vårat hus",
+        "dms_id": "013AmNgbPr1W",
+        "image_height": 4032,
+        "image_ratio": 0.4503968253968254,
+        "image_width": 1816,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 31 May 2022 15:01:24 GMT",
+        "name": "20220531_164945.jpg",
+        "order_by_number": 3,
+        "owner": "Mamma: Janet",
+        "topic_item": {
+          "label": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga till bilder, filmer eller ljud från ditt hem"
+          },
+          "type": "Media",
+          "uuid": "e62ced75-b647-4bab-acd6-ae449be9c24f"
+        },
+        "type": "image",
+        "uuid": "828744ff-29d6-4798-b9b4-2b730c096da6"
+      }
+    ],
+    "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/19831",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "645334fe-4a51-43be-a0f6-de9340ca2b1d",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "På övervåningen där jag delar rum med min syster.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "🛌 Var sover du? Har du eget rum?",
+          "label_i18n": {
+            "sv": "🛌 Var sover du? Har du eget rum?"
+          },
+          "type": "Textarea",
+          "uuid": "f016f72c-9af5-476f-b56e-a581a72c3cac"
+        },
+        "uuid": "cde99a02-5fd5-4d89-999b-5dc4cfb2080c"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "Nej vi bor bara i ett hus.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "🏘 Bor du i flera hem? Berätta mer!",
+          "label_i18n": {
+            "sv": "🏘 Bor du i flera hem? Berätta mer!"
+          },
+          "type": "Textarea",
+          "uuid": "f7b3bd03-02d6-452f-97b9-3aee3176a14a"
+        },
+        "uuid": "e195ae39-ea80-4ab7-9ab9-e72d186d8970"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "Jag brukar måla, köra gymnastik och kolla på tv just nu kollar jag på z-o-m-b-i den är på disney plus.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "🕹 Vad tycker du om att göra hemma?",
+          "label_i18n": {
+            "sv": "🕹 Vad tycker du om att göra hemma?"
+          },
+          "type": "Textarea",
+          "uuid": "e0ce7fb3-3251-4f97-8231-1391f8d83921"
+        },
+        "uuid": "4841ad02-3d77-40f0-9910-d63973f7cf94"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "121",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "a072d440-2eb1-49a6-814a-ecb8f72d93f6"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "Vårat hus är stort och mysigt. Jag har bott här i hela mitt liv och trivs jätte bra i området.\nVi bor i två våningars hus, på övervåningen när man kommer in så möts man av en hall som leder till olika rum som är badrummet, köket, vardagsrummet, mitt och min lillasysters rum och min mammas och pappas rum.\nPå nedervåningen möts man av ett stort vardagsrum med stora glasdörrar som leder till altanen, där finns det en bubbelpool, matstolar, matbord, ute soffor och soffbord.\nDet finns även ett badrum, ett sovrum som används som kontor, lekrum där vi har alla våra leksaker, tvättrum.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "a1297a9f-c034-4b82-9e34-5670eca75514"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "I hela mitt liv det är nästan nio år.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "⏱ Hur länge har du bott i ditt hem?",
+          "label_i18n": {
+            "sv": "⏱ Hur länge har du bott i ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "e83febc5-7251-4f31-b54c-896d9feeb6c4"
+        },
+        "uuid": "ca875f3c-4b18-4add-8f46-75b7d57b643d"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "Vi har tre sovrum, två vardagsrum, ett lekrum, ett kök, två badrum och ett tvättrum.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "⛺️ Hur många rum har ni hemma hos dig?",
+          "label_i18n": {
+            "sv": "⛺️ Hur många rum har ni hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "7b77d39d-0676-4303-bcae-f1c98a2e371b"
+        },
+        "uuid": "5f732fc1-70f1-4634-8d4f-cff4cb811ce3"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "cb1dae16-8792-4c1c-9439-2db2ea6c254a"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "Vi får bara spela på skärm på helger. vi år bara äta socker på helger. vi får ta hem vänner, och vi får äta mat framför teven om vi sitter där nere.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "☝️ Finns det några regler hemma för vad du får och inte får göra?",
+          "label_i18n": {
+            "sv": "☝️ Finns det några regler hemma för vad du får och inte får göra?"
+          },
+          "type": "Textarea",
+          "uuid": "d5c1221f-e5f2-4dd7-840b-cb3f8ea96452"
+        },
+        "uuid": "ff531497-17fd-485c-a104-32901270983c"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "Just nu är det nyklippt gräs, det finns en stor gräsmatta utanför vår trä altan.\nDet finns en trä gunga som hänger på ett träd, det finns också en gul lek stuga och bakom den massa berg.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "🏞 Hur ser det ut utanför ditt hem?",
+          "label_i18n": {
+            "sv": "🏞 Hur ser det ut utanför ditt hem?"
+          },
+          "type": "Textarea",
+          "uuid": "85997ba0-2bb4-416d-9084-200277cfae43"
+        },
+        "uuid": "9a80aa6a-db48-421d-af99-53c9f0efc2c7"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "Varje morgon bäddar jag min säng, diskar och ibland när det behövs städar jag och Chloe lekrummet.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "🛠 Hjälper du till hemma? Med vad?",
+          "label_i18n": {
+            "sv": "🛠 Hjälper du till hemma? Med vad?"
+          },
+          "type": "Textarea",
+          "uuid": "786a7b22-5301-4370-b4a2-b26a0dd9cdbf"
+        },
+        "uuid": "6023ff03-eb2f-4ccb-b9bd-a2d069ca29a5"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "display_value": "Hos oss bor mamma, pappa och min lillasyster Chloe, vi har också en vit dvärghamster som heter Laura.",
+        "modified": "Fri, 17 Jun 2022 16:06:06 GMT",
+        "topic_item": {
+          "label": "👥 Vilka bor hemma hos dig?",
+          "label_i18n": {
+            "sv": "👥 Vilka bor hemma hos dig?"
+          },
+          "type": "Textarea",
+          "uuid": "963d35c3-9e76-4f22-88b8-45be0155c250"
+        },
+        "uuid": "36228c75-6bcc-410c-a05c-ea6bc52edd07"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
