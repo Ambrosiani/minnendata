@@ -18850,5 +18850,588 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00544",
+    "contributor": {
+      "display_name": "Klaudia"
+    },
+    "created": "Fri, 17 Jun 2022 15:34:00 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:34:00 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19778",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "f08752b4-ed0e-4840-8fec-bc1f1ec18b9e",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:34:00 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:34:00 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "1be0c70a-8c69-43a6-b658-fb5c39db1604"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:34:00 GMT",
+        "display_value": "En dag när jag är 37 år.\nJag har vaknat precis nu ska jag äta frukost jag ska äta macka och dricka kaffe.\nJag  har ett eget stal med min kompis hon heter Ella jag har en hest han heter Viggi.\nNu ska jag gå till stallet  jag brukar först ta mat till Viggi och vatten till han sen ska jag borsta han.\nJag ska rida nu.\nNu har jag ridit  det va jätteroligt\nSen gick jag hem.\nJag är granne med min kompis jag gick till hon  och vi pratade. Sen gick jag hem och duschade.\nSen åt jag middag och sov.",
+        "modified": "Fri, 17 Jun 2022 15:34:00 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "f9ee867b-93b5-4904-8981-cdb54b29a077"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00546",
+    "contributor": {
+      "display_name": "Eda"
+    },
+    "created": "Fri, 17 Jun 2022 15:34:30 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:34:30 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19779",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "f1ccec11-812f-4bfc-9b87-05ed3ecf9e40",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:34:30 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:34:30 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "1277ff51-cf78-420f-b652-430055d5abb1"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:34:30 GMT",
+        "display_value": "Hej jag heter Eda och är 37 år. Jag bor i ett stort hus. Jag bor i Sverige. Jag har två barn och en man det är min familj. Jag jobbar som fröken . På fritiden kör jag gymnastik. På min trädgård finns det en pol. Och jag har en stor studsmatta i trädgården. Hemma har jag en hund och  en hamster. Hunden heter Tasan hamstern heter smulan. Jag gillar att se nya länder. Och jag älskar att shoppa för att man kan hitta nya kläder som är finna. Mina favorit färger är lila,blå och turkos. Det är mitt liv 2050.",
+        "modified": "Fri, 17 Jun 2022 15:34:30 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "9f803a4d-2071-4f55-8220-6946ebd617ef"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00548",
+    "contributor": {
+      "display_name": "Adil"
+    },
+    "created": "Fri, 17 Jun 2022 15:35:13 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:35:13 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19781",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "1e74165f-a92c-452b-8fbb-014d7af113cc",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:35:13 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:35:13 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "fbdbaecf-58c0-43cd-85a9-24ec6f45d496"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:35:13 GMT",
+        "display_value": "Hej jag heter adil ! Jag  bo i Turkiet 2050 min mamma och pappa kommer vara gammla jag kommer hjälpa dom jag kommer  gå på fotboll för jag. är värdens besta fotbolls spelare. i Turkiet kommer jag ha en hund med mina föreldrar jag är rik jag har ungefär 1000 miljoner kr tack vare fotboll  nu har jag ET jätte bra liv jag har den besta familjen i hela värden dom vet .allting  värden kommer va jätte bra   jag har allt jag vill ha  jag kommer va en jätte bra kille\n.många slänger i papperskorgen  jag är jätte känd jag är jätte bra på att klättra och  jag är .jätte .stark jätte snäll  och är 37 år nu berretat om vad jag tror att jag var 2050. Hej då!",
+        "modified": "Fri, 17 Jun 2022 15:35:13 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "e6e021d4-b6c7-4f40-882b-2e6247268906"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00552",
+    "contributor": {
+      "display_name": "Hailie"
+    },
+    "created": "Fri, 17 Jun 2022 15:38:44 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:38:44 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19785",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "f6569db0-d30a-453f-91fa-8b043e937b13",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:38:44 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:38:44 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "c67e292f-73d8-476f-96e2-f5297be23426"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:38:44 GMT",
+        "display_value": "hej jag heter Hailie och jag er 8 år gammal. och jag ska bereta om vad jag tror jag kommer ha det när jag är 37 år gammal.\n\n\nMitt larm går klockan 12.00 och jag vaknar jag tar av mig täcket och går ner från sängen.\n\nOch klär på mig sen så veker jag mina barn och min man sen äter vi frukost  som är kaffe och egg maka jag ville bara tillega att min familj bor i portugal jag tror att det stavas så. men aja sen så tjatar mina barn att dom vill bada så vi gick ut till bak sidan. och badar mina barn heter Maja ,lo,loi. vi badar i typ en timme sen så börjar barnen leka kul medans jag och min man grillar sen ramlar Maja och börjar gråta jag tröstar Maja sen er det mat vi äter 20:09 sen borstar vi tenderna och går och såver klar.",
+        "modified": "Fri, 17 Jun 2022 15:38:44 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "621ff851-c352-4f9c-a9fe-ae253a035eba"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00554",
+    "contributor": {
+      "display_name": "Tyler"
+    },
+    "created": "Fri, 17 Jun 2022 15:39:42 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:39:42 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19787",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "90aa58d0-5511-4e12-af20-25b3162b40da",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:39:42 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:39:42 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "05a68bfe-3198-4729-a4cf-a79917af3301"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:39:42 GMT",
+        "display_value": "Jag är 8 år och när det är år 2050 vill jag bli fotbolls spelare eller rappare och bor i ett stort hus med min bästa kompis Nikola, Adam och har 2 barn. I mitt hus vill jag ha en bil parkering som får Plats med 20 bilar och 10 motorcykel parkeringar. I mitt hus vill jag över 10 rum och huset ligger i USA men jag vill inte ha Trappor jag vill bara ha hissar. Huset ska ha 500 m lång fram sida med en till bil parkering Som får plats med 200 bilar och 100 motorcyklar och baksidan ska vara 900 m lång Med 4 fotbolls planer och alla är 11 manar planer. Alla mina bilar ska kunna flyga Och jag har 220 bilar och 110 motorcyklar med en egen bar i huset och ett 90 m tv spel rum. Sen har jag en 25 m lång pool och 2 hundar den första heter Xxxtentacion med förkortning på namnet som x och den andra som heter juice wrld \nmed förkortning som juice. Sen är alla tre är bra på Fortnite.",
+        "modified": "Fri, 17 Jun 2022 15:39:42 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "2a26860e-3020-41ac-9a1f-d1c2e948f4fb"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00556",
+    "contributor": {
+      "display_name": "Juli"
+    },
+    "created": "Fri, 17 Jun 2022 15:40:27 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:40:27 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19789",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "9648e06b-95d7-41b4-9348-36b56ab85ac7",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:40:27 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:40:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "23a96d53-cb94-43ae-a8cb-10fe17c11ac8"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:40:27 GMT",
+        "display_value": "Hej jag heter Juli och är 37 år. Jag bor i Spanien. Jag har 5 hundar,5 katter, 2 kaniner,2 hästar,2 grisar och 2  kycklingar.Det är väldigt varmt. Jag jobbar på ett hunddagis. Min favorit mat är korv. Hundarna heter Kakan,Smulan,Bollen,Godis och Honung.",
+        "modified": "Fri, 17 Jun 2022 15:40:27 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "ec113d38-6226-4ac9-8dce-ce784af27c65"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00560",
+    "contributor": {
+      "display_name": "Ivar"
+    },
+    "created": "Fri, 17 Jun 2022 15:42:48 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:42:48 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19793",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "fda49f24-a012-44ab-a160-a7751b82f850",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:42:48 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:42:48 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "7414a6ab-2051-481b-be9d-8c92efda7abf"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:42:48 GMT",
+        "display_value": "Jag heter Ivar och är 9 år. Jag tror att jag 2050 bor i Turin,Italien. I framtiden tror jag att jag bor i en lyxbåt. Jag tror att jag kommer ha en Italiensk fru och två barn som ska heta Filip och Sandra  och två vita kattungar. Jag tror att jag kommer jobba i en trädgård och vara en florist när jag blir stor. Jag tror att jag kommer ha flera blombutiker och stora blomsterparker 2050. Jag tror också att jag kommer bli konstnär och arkitekt. Jag tror att jag kommer rita flera höghus och hotell jag tror att ett av hotellen kommer heta Juvelen.",
+        "modified": "Fri, 17 Jun 2022 15:42:48 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "406cc7b5-b9bf-4af0-bb75-16be25de720a"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00562",
+    "contributor": {
+      "display_name": "Alicia"
+    },
+    "created": "Fri, 17 Jun 2022 15:43:14 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:43:14 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19794",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6740577e-de9b-465f-8fb9-150ba7f9f306",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:43:14 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:43:14 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "b5e53427-0b33-4d33-ad78-4ae332f4c182"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:43:14 GMT",
+        "display_value": "I framtiden tror jag att jag kommer att ha en katt eller hund.Och jag tror att jag kommer bo i ett lyxigt hus i Schweiz. Därför jag vill bo i Schweiz när jag är stor är för att det är jättefint där och det är jätte rent på gatorna där och för mina kusiner bor där. Och jag tror att jag kommer jobba med polis, eller arkitekt när jag blir stor.\nNer jag är stor tror jag att jag kommer vara bra på att skriva.När jag är stor så tror jag att jag kommer att vara intresserad av att spela TV spel och spela fotboll.när jag är stor kommer jag vara rätt  så rik så rik så att jag enda att jag kan ha råd med går mat och så jag kan ha ett lyxigt hus och ett sommarställe.När jag är står så vill jag gilla sallad,tomat, fisk ,kött och andra saker som jag inte gillar nu.När jag är stor önskar jag att jag har mycket kontanter i min plånbok. När jag är stor önskar jag mig att jag har lärt mig spanska och engelska. Därför jag vill bo i ett land där man pratar engelska. Hej då.",
+        "modified": "Fri, 17 Jun 2022 15:43:14 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "4f60990d-2f74-4045-8932-75287f521303"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00566",
+    "contributor": {
+      "display_name": "Ted"
+    },
+    "created": "Fri, 17 Jun 2022 15:45:05 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:45:05 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19798",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "2e666721-85ec-4769-805a-1721a310dd68",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:45:05 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:45:05 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "9e7d3da6-422b-4798-86a0-12e96f778cc3"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:45:05 GMT",
+        "display_value": "Jag är en YouTuber. Mit  hus är 10000 kvadratmeter.\nJag har 10000 miljövänliga bilar på min parkerings plats.\nJag har familj.\nJag har ett eget zoo.\nJag bor i Sverige.\nMit jobb är att uppfina nya saker som är miljövänliga.\nJag har en egen fotpollsplan med läktare.\nJag ger bort pengar till de fatiga.",
+        "modified": "Fri, 17 Jun 2022 15:45:05 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "181bb3ee-0619-4762-9342-a27dbd227ebd"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00568",
+    "contributor": {
+      "display_name": "Nikola"
+    },
+    "created": "Fri, 17 Jun 2022 15:46:06 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:46:06 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19800",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "8a74abbf-ee37-4c7c-9341-a2b0d38c9c70",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:46:06 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:46:06 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "873d2be7-994c-4d58-80a0-d613355dad00"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:46:06 GMT",
+        "display_value": "Jag tror att år 2050. Jag kommer att bli en fotbollspelare eller rappare \nJag kommer att bo i USA. Jag kommer att bo med Tyler och Adam och frank. Vi kommer att ha två hundar den ena ska heta Xxxtentacion och den andra ska heta Juice wrld.\nJag och Tyler och Adam är bra på Fortnite.",
+        "modified": "Fri, 17 Jun 2022 15:46:06 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "7f2582c1-576f-4686-9e35-e06880e7a239"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00570",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Fri, 17 Jun 2022 15:46:46 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:46:46 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19801",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "0a4412f1-05af-4df4-a253-a08270857a6f",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:46:46 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:46:46 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "087d574e-2897-42d3-918b-ae9761e6562d"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:46:46 GMT",
+        "display_value": "Hej jag heter Vera är 37 år. Jag bor i Spanien och jobbar som frisör. Jag bor i ett hus med jätte fin utsikt över palmer och det fina havet. Jag bor med min kille mitt barn min bästa vän och 5 hundar 5 katter två bäbis grisar 1 häst och 2 kycklingar och jag har en el bil och en motorcykel.",
+        "modified": "Fri, 17 Jun 2022 15:46:46 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "bf519f7f-65d7-4baa-97fb-f4f4a98ee3a9"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

@@ -21643,5 +21643,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00597",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Fri, 17 Jun 2022 15:46:51 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Jun 2022 15:46:51 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19802",
+    "published": true,
+    "school_uuid": "e1f5f8e0-7719-4c8b-9047-c3c5ce5fa3cb",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "c875f562-8479-4fc4-aa65-759f1ad7e8fb",
+    "values": [
+      {
+        "created": "Fri, 17 Jun 2022 15:46:51 GMT",
+        "display_value": "2013",
+        "modified": "Fri, 17 Jun 2022 15:46:51 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "19f25135-73b8-451d-a10f-3539de49929a"
+      },
+      {
+        "created": "Fri, 17 Jun 2022 15:46:51 GMT",
+        "display_value": "Mamma, pappa och min bror Alvin. Min bästis Juli.",
+        "modified": "Fri, 17 Jun 2022 15:46:51 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "2ed3fab6-bbee-4787-bcd7-a2817e2fccfd"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
