@@ -5232,6 +5232,22 @@
           56.419
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag har tre vuxna flickor, Anna, Charlotte och Julia med familjer.  När rädslor dyker upp skapas gär…",
+        "date": "27 juni 2022",
+        "author": "Ann Vikström",
+        "url": "https://minnen.se/tema/krigetiukraina/19846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.013,
+          59.368
+        ]
+      }
     }
   ]
 }

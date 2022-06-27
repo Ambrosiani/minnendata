@@ -40522,5 +40522,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00565",
+    "contributor": {
+      "display_name": "Ann Vikström"
+    },
+    "created": "Mon, 27 Jun 2022 14:07:27 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 27 Jun 2022 14:07:27 GMT",
+    "position": {
+      "latitude": 59.368117582262656,
+      "longitude": 17.012794690108297
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19846",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "bc43fde1-c9d3-4ae8-a5b4-ba0b7198ad7e",
+    "values": [
+      {
+        "created": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "display_value": "1954",
+        "modified": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "55aaa71f-327b-4073-a45e-7e2e803bb8e5"
+      },
+      {
+        "created": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "display_value": "Min mamma Barbro Sandberg som föddes 1921 och som gick bort förra året i Covid sa alltid att hon tyckte världsläget påminde henne om hur det var här i Europa innan andra världskriget bröt ut och det är något jag ofta tänker på i samband med invasionen av Ukraina. \n\nJag funderar idag mycket även på hur hon och min pappa Kai Sandberg också född 1921 som var reservofficer under hela andra världskriget klarade av att ta sig igenom kriget och sen med all den vetskap om vad som hände ändå kunde se ljust på framtiden.  Jag vilar trygg i dessa minnen och hoppas att jag likt min pappa och mamma ska kunna behålla hoppet om att det goda segrar bara vi inte ger upp. \n\nSjälv var jag krigsplacerad på Akademiska sjukhuset och där skulle även mina barn tas omhand.  Jag kan känna att det är fint att de Ukrainska mammorna med hjälp av farmor eller mormor kan fly akut ut till Europa. Något som jag har förstått att våra unga svenska mammor vid krig aldrig kommer att tillåtas!! Det bekymrar mig oerhört! Jag vill inte att vi ska få svenska krigsbarn likt de finska som skickades med lapp till Sverige.",
+        "modified": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "91067191-6455-450a-aa3b-230925d32658"
+      },
+      {
+        "created": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "display_value": "Jag har tre vuxna flickor, Anna, Charlotte och Julia med familjer.  När rädslor dyker upp skapas gärna en vilja till isolering men jag vill gärna att mina barn och deras familjer ska våga fortsätta att resa ut i världen och se sig runt om i Europa. \n\nDet var något min pappa och mamma var noga med efter det att andra världskriget var över.  Jag och mina syskon åkte tidigt tillsammans med mina föräldrar ner i Europa. Här fick jag uppleva känslan av att jag i första hand är europé något jag tror är oerhört betydelsefullt i tider som dessa!\n\nSå för att sammanfatta mina känslor; jag tänker mycket på mina föräldrar och om hur de tog sig vidare efter alla de fasor de fick uppleva under andra världskriget.  Jag hoppas att jag kan ge min familj samma hopp om framtiden som de gav mig.",
+        "modified": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "e65811aa-c0fd-4fef-b3cd-1606efbd91ae"
+      },
+      {
+        "created": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "display_value": "Jag är mycket orolig över hur det hela utvecklas och hoppas att vi ska finna någon bra lösning  kring fred! Jag känner att vi som samhällsmedborgare har blivit otroligt naiva, vi har invaggat oss själva i en trygghet om att det aldrig mer kommer att bli oroligheter eller krig i vår närhet och det bekymrar mig mycket.",
+        "modified": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "29603f08-3877-41de-9200-1888066ca7db"
+      },
+      {
+        "created": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "display_value": "Jag ser till att vara informerad kring vad som sker och jag och min man samtalar om det som händer dagligen! Jag har valt att engagera mig både inom Röda Korset och i det Språkcentrum som skapades här i Strängnäs i våras i samband med att vi tog emot flyktingarna från Ukraina. Det har varit tungt att återigen efter den senaste flyktingvågen 2015-2017, engagera sig som volontär men här ser jag inget val.",
+        "modified": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "ec8b46d2-7ade-42af-8e7f-c1171554e606"
+      },
+      {
+        "created": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "display_value": "Jag har två dagstidningar den rikstäckande SVD och vår lokala Strengnes tidning.  i Bägge tidningarna stod det att läsa om Rysslands militära upprustning nära gränsen till Ukraina. Jag ser även på nyheterna varje dag och där följde man med oro det som skedde och hände! Jag och min man Robert som varit militär på Gotland år 1968 och därefter gjort ett antal repmånader under kommande år, blev mycket oroliga.  Vi trodde aldrig att det kunde vara möjligt att vi skulle få tillbaka känslan av \"rysskräcken\" vi upplevt under hela vår uppväxt.",
+        "modified": "Mon, 27 Jun 2022 14:07:27 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "cc677a21-1dc1-4f4a-88dc-89cffefdb7eb"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
