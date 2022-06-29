@@ -40633,5 +40633,767 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00567",
+    "contributor": {
+      "display_name": "Jörgen Löwenfeldt"
+    },
+    "coordinates": "",
+    "created": "Wed, 29 Jun 2022 09:41:40 GMT",
+    "image_dms_id": "013AmPFHaLPe",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 29 Jun 2022 09:40:21 GMT",
+        "dms_id": "013AmPFHaLcv",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:21 GMT",
+        "name": "tempImagetLq5Wv.gif",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "06bd70d3-0b40-436b-87a3-7b4c99d06b8e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:47 GMT",
+        "dms_id": "013AmPFHaLPg",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:47 GMT",
+        "name": "tempImageq7ioYh.gif",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "0bea5f64-cea8-479f-9b97-c8ebe221c850",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:20 GMT",
+        "dms_id": "013AmPFHaLcu",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:20 GMT",
+        "name": "tempImagePt08f6.gif",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "81a3e5ab-be0f-4a50-971a-06b7acc56697",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:48 GMT",
+        "dms_id": "013AmPFHaLPh",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:48 GMT",
+        "name": "tempImage6Hsxp2.gif",
+        "order_by_number": 4,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "378762ab-4990-4f36-8008-492cb2f2dbac",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:16 GMT",
+        "dms_id": "013AmPFHaLcs",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:16 GMT",
+        "name": "tempImage1iWw8W.gif",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "b28eaaf2-8ed7-41c2-b075-d16ba9d4b2b1",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:50 GMT",
+        "dms_id": "013AmPFHaLPi",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:50 GMT",
+        "name": "tempImageiDQv0V.gif",
+        "order_by_number": 6,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "e1c85c59-ba0d-4394-b7b8-a651abdb9a34",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:16 GMT",
+        "dms_id": "013AmPFHaLcr",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:16 GMT",
+        "name": "tempImagexW8VYh.gif",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "f5dddeba-0118-47fa-8638-98b4d46f03af",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:51 GMT",
+        "dms_id": "013AmPFHaLTy",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:51 GMT",
+        "name": "tempImageNQYqjL.gif",
+        "order_by_number": 8,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "ba5f5c5e-52a4-45c1-8f1b-17fff78110ab",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:16 GMT",
+        "dms_id": "013AmPFHaLct",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:16 GMT",
+        "name": "tempImage0xC3Lc.gif",
+        "order_by_number": 9,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "75c4b7e4-09eb-458f-bc94-912da2b50cc5",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:51 GMT",
+        "dms_id": "013AmPFHaLTz",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:51 GMT",
+        "name": "tempImageBT8PDa.gif",
+        "order_by_number": 10,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "dd8d5051-8a2a-4bc4-98c0-afb2411d7627",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:12 GMT",
+        "dms_id": "013AmPFHaLcp",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:12 GMT",
+        "name": "tempImageSAIUD0.gif",
+        "order_by_number": 11,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "bedcc159-de69-4ee2-991f-855bec40160e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:53 GMT",
+        "dms_id": "013AmPFHaLU3",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:53 GMT",
+        "name": "tempImageRvaOMv.gif",
+        "order_by_number": 12,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "66f84dd7-22d9-4ad1-b6f0-32a0ffaa19c9",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:11 GMT",
+        "dms_id": "013AmPFHaLcq",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:11 GMT",
+        "name": "tempImageNEnN1k.gif",
+        "order_by_number": 13,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "3385d06f-29a0-4676-9904-9da3d68f7728",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:54 GMT",
+        "dms_id": "013AmPFHaLU5",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:54 GMT",
+        "name": "tempImagexvAolq.gif",
+        "order_by_number": 14,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "1882dc3c-c51b-4e66-ab30-e0a9b7be9860",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:09 GMT",
+        "dms_id": "013AmPFHaLco",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:09 GMT",
+        "name": "tempImageletzuy.gif",
+        "order_by_number": 15,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "f774a003-2061-463b-9f40-6a73aed0183e",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:54 GMT",
+        "dms_id": "013AmPFHaLU1",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:54 GMT",
+        "name": "tempImageUUMd2L.gif",
+        "order_by_number": 16,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "8228f8c4-511d-431e-929a-87b5ddc20351",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:55 GMT",
+        "dms_id": "013AmPFHaLU2",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:55 GMT",
+        "name": "tempImageFVM4jd.gif",
+        "order_by_number": 17,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "270b165f-ef5a-4db5-829a-0ecb848f992d",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:55 GMT",
+        "dms_id": "013AmPFHaLU6",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:55 GMT",
+        "name": "tempImagemK66Aq.gif",
+        "order_by_number": 18,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "f56cb73c-ea3c-4935-b76d-a7a72be6f121",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:10 GMT",
+        "dms_id": "013AmPFHaLYY",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:10 GMT",
+        "name": "tempImageYoyWdE.gif",
+        "order_by_number": 19,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "b8f8fd1b-3421-490f-85db-638276f94a84",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:08 GMT",
+        "dms_id": "013AmPFHaLYV",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:08 GMT",
+        "name": "tempImagesDjrWg.gif",
+        "order_by_number": 20,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "579e0e63-f121-41f8-a151-e41e88a83731",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:08 GMT",
+        "dms_id": "013AmPFHaLYW",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:08 GMT",
+        "name": "tempImageV8xTnl.gif",
+        "order_by_number": 21,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "fd1fe23d-7ca7-4808-85cd-99a399348bc1",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:37:57 GMT",
+        "dms_id": "013AmPFHaLU4",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:37:57 GMT",
+        "name": "tempImageCuT4FJ.gif",
+        "order_by_number": 22,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "ba4b4f71-f0de-4755-b1df-03bb5692cb19",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:08 GMT",
+        "dms_id": "013AmPFHaLYX",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:08 GMT",
+        "name": "tempImagem42YUn.gif",
+        "order_by_number": 23,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "83dd57e4-d983-4bf7-ac9a-4a7624957629",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:38:01 GMT",
+        "dms_id": "013AmPFHaLU7",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:38:01 GMT",
+        "name": "tempImageSPoxHS.gif",
+        "order_by_number": 24,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "25017a33-91a8-4b08-afd2-c8b26044fb25",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:04 GMT",
+        "dms_id": "013AmPFHaLYU",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:04 GMT",
+        "name": "tempImageCkgCPT.gif",
+        "order_by_number": 25,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "76eb66c4-48a1-455c-93b5-cd9b146a8454",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:38:04 GMT",
+        "dms_id": "013AmPFHaLU8",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:38:04 GMT",
+        "name": "tempImageNMpcoZ.gif",
+        "order_by_number": 26,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "f1664a43-8cff-4e5f-83e9-b622f4f389b2",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:04 GMT",
+        "dms_id": "013AmPFHaLYS",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:04 GMT",
+        "name": "tempImageYFrIlJ.gif",
+        "order_by_number": 27,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "5700d581-a8e2-466f-b25d-8da85ad29af1",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:38:05 GMT",
+        "dms_id": "013AmPFHaLYP",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:38:05 GMT",
+        "name": "tempImageFiNRbV.gif",
+        "order_by_number": 28,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "06f2fdd0-1741-4364-b820-28a90c8f6b0f",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:40:01 GMT",
+        "dms_id": "013AmPFHaLYT",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:40:01 GMT",
+        "name": "tempImageL2VkVY.gif",
+        "order_by_number": 29,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "59dccd78-8d1d-483b-ae02-e4e75aeaa2b0",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:39:59 GMT",
+        "dms_id": "013AmPFHaLYQ",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:39:59 GMT",
+        "name": "tempImageH0PUkA.gif",
+        "order_by_number": 30,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "6a278131-f325-4fa6-b233-f17f2626b5d1",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Wed, 29 Jun 2022 09:39:59 GMT",
+        "dms_id": "013AmPFHaLYR",
+        "image_height": 3024,
+        "image_ratio": 1.3333333333333333,
+        "image_width": 4032,
+        "license": "CC0",
+        "mime_type": "image/gif",
+        "modified": "Wed, 29 Jun 2022 09:39:59 GMT",
+        "name": "tempImagem47l9o.gif",
+        "order_by_number": 31,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "1d72c3fb-4793-41a1-8885-4405993ea485",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Wed, 29 Jun 2022 09:44:05 GMT",
+    "position": {
+      "latitude": 59.32900799999999,
+      "longitude": 18.094268
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19848",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "999b8157-0a50-48e2-ac1b-bbe445098033",
+    "values": [
+      {
+        "created": "Wed, 29 Jun 2022 09:41:40 GMT",
+        "display_value": "Foton från skolavslutning för ukrainska barn på Nordiska museet 28 juni 2022. Barnen har i tre månaders tid använt Nordiska museet som skolbyggnad, i ett samarbete med Beredskapslyftet. Foto: Jörgen Löwenfeldt/Nordiska museet.",
+        "modified": "Wed, 29 Jun 2022 09:44:06 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "51f1ad3e-a5df-4fc1-a05b-3d661cd56f38"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]

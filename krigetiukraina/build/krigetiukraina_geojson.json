@@ -5248,6 +5248,22 @@
           59.368
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "29 juni 2022",
+        "author": "Jörgen Löwenfeldt",
+        "url": "https://minnen.se/tema/krigetiukraina/19848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.094,
+          59.329
+        ]
+      }
     }
   ]
 }
