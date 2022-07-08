@@ -5264,6 +5264,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Den stund någon planerar ett krig har denna redan många sjuka barns död på sitt samvete. Att behöva …",
+        "date": "8 juli 2022",
+        "author": "Mamma",
+        "url": "https://minnen.se/tema/krigetiukraina/19854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.059,
+          60.69
+        ]
+      }
     }
   ]
 }

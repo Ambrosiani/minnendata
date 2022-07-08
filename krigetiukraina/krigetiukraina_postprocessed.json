@@ -41395,5 +41395,116 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00573",
+    "contributor": {
+      "display_name": "Mamma"
+    },
+    "created": "Fri, 08 Jul 2022 16:07:40 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 08 Jul 2022 16:07:40 GMT",
+    "position": {
+      "latitude": 60.690324630879324,
+      "longitude": 23.059300332407727
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/19854",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b2fbc5bf-0ef1-4849-bfdd-92c1e5b87118",
+    "values": [
+      {
+        "created": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "display_value": "1977",
+        "modified": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "70ff601a-8074-4215-912c-0825eab31a71"
+      },
+      {
+        "created": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "display_value": "",
+        "modified": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "6436a3e3-7b69-4da8-9b77-284f4aa59356"
+      },
+      {
+        "created": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "display_value": "Den stund någon planerar ett krig har denna redan många sjuka barns död på sitt samvete. Att behöva bekämpa en sjukdom är redan ett helvete, att tas ifrån möjligheten att bekämpa den är bokstavligen tortyr. De som attackerar är inte berättigade att kallas ledare, utan mördare. \nKvinnors, barns och de som inte passar in på den  påhittade värdeskalans rättigheter är usel i världen och jag vet inte om mänskligheten har en framtid. \nÖverbefolkning, omänskliga abortlagar, miljöförstöring... \nInte heller Finlands sexualförbrytar- eller jämställdhetslagar är rättvisa.",
+        "modified": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "0a30acc6-7113-4f99-a7c4-9c3c5528c4ce"
+      },
+      {
+        "created": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "display_value": "How do we go from here.",
+        "modified": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "1148aceb-96ea-43ee-aa8d-1fc321e625e7"
+      },
+      {
+        "created": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "display_value": "Vi har en akutväska med förnödenheter och minnessticka med bilder av familjen, ett lifestraw-sugrör vid vattenbrist. Försöker hålla bilens bensintank full, och vi har en minneslapp med kontakter om vi separeras eller barnen måste skickas utomlands till bekanta. \nFörut hade jag ingen förståelse hur föräldrar kunde skicka iväg sina barn annanstans, och det är en stor sorg och trauma över att jag gör det nu, men den största trauman tillhör offren det berör. Att läsa det som de ryska soldaterna nu gör mot barn, kvinnor och män ger så stora sår i själen att jag verkligen undrar vad det är för mening med livet på Jorden och hur folk tänker att är meningen att fortsätta. \nDetta är såklart inte den första gången det händer en grav trauma i historien.",
+        "modified": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "86aa5398-75ae-4a65-bcf3-970eac52a76a"
+      },
+      {
+        "created": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "display_value": "Vi hade varit till vår dotters grav eftersom hon vid den tiden skulle fyllt 18 år om hon fått leva. \nSorgen är svår och oändlig. Vi fick kämpa för att hon skulle få vård, rätt vård, och vi har tyvärr för många gånger mötts av okänsliga respektlösa människor och meningar från personal samt medmänniskor, som bidragit till ännu större ångest och ensamhet, men jag kände att jag ändå äntligen nu, då två år gått sedan hennes bortgång, att jag kunde lite slappna av för våra andra barns skull eftersom Finland ändå är ett fredens land. \nMen min ångest kom tillbaka med tusen procent då nyheten kom om kriget.",
+        "modified": "Fri, 08 Jul 2022 16:07:40 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "30409b5c-4f72-48aa-b89d-d22a522330b7"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
