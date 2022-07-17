@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "archive_code": "NEG 0271/00790",
+    "contributor": {
+      "display_name": "Astrid Grendstad"
+    },
+    "coordinates": "[{\"latitude\": \"63.29171195246413\", \"longitude\": \"10.465111035702405\"}]",
+    "created": "Sun, 17 Jul 2022 19:12:41 GMT",
+    "image_dms_id": "013AmsTKsSuy",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 17 Jul 2022 19:03:45 GMT",
+        "description": "Astrid Grendstad",
+        "dms_id": "013AmsTKsSuy",
+        "image_height": 683,
+        "image_ratio": 1.499267935578331,
+        "image_width": 1024,
+        "license": "CC BY-NC",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 17 Jul 2022 19:03:45 GMT",
+        "name": "Astrid.jpg",
+        "order_by_number": 1,
+        "owner": "Miljøpartiet de Grønne i 2018.",
+        "topic_item": {
+          "label": "You can upload photos or video from your everyday life.",
+          "label_i18n": {
+            "en": "You can upload photos or video from your everyday life.",
+            "nb": "Last gjerne opp bilder eller film fra din hverdag."
+          },
+          "type": "Media",
+          "uuid": "98363e76-b1c7-4a77-aeed-26050222b25e"
+        },
+        "type": "image",
+        "uuid": "4a6b5f4c-5929-4312-918a-313d6148ed27"
+      },
+      {
+        "created": "Sun, 17 Jul 2022 19:09:31 GMT",
+        "dms_id": "013AmsTKsSv1",
+        "image_height": 5312,
+        "image_ratio": 0.5625,
+        "image_width": 2988,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 17 Jul 2022 19:09:31 GMT",
+        "name": "Europalerk.jpg",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "You can upload photos or video from your everyday life.",
+          "label_i18n": {
+            "en": "You can upload photos or video from your everyday life.",
+            "nb": "Last gjerne opp bilder eller film fra din hverdag."
+          },
+          "type": "Media",
+          "uuid": "98363e76-b1c7-4a77-aeed-26050222b25e"
+        },
+        "type": "image",
+        "uuid": "4ad7c073-6abe-445f-8473-bfef3140ef2c",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Sun, 17 Jul 2022 19:05:10 GMT",
+        "description": "Mine basset hounds, som bidro til at pandemien ble enklere å leve med.",
+        "dms_id": "013AmsTKsSuz",
+        "image_height": 1151,
+        "image_ratio": 1.779322328410078,
+        "image_width": 2048,
+        "license": "CC BY-NC",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 17 Jul 2022 19:05:10 GMT",
+        "name": "Fred og søster.jpg",
+        "order_by_number": 3,
+        "owner": "Astrid Grendstad",
+        "topic_item": {
+          "label": "You can upload photos or video from your everyday life.",
+          "label_i18n": {
+            "en": "You can upload photos or video from your everyday life.",
+            "nb": "Last gjerne opp bilder eller film fra din hverdag."
+          },
+          "type": "Media",
+          "uuid": "98363e76-b1c7-4a77-aeed-26050222b25e"
+        },
+        "type": "image",
+        "uuid": "2bec03e3-66aa-4952-8253-33f4fb27982c"
+      }
+    ],
+    "modified": "Sun, 17 Jul 2022 19:12:41 GMT",
+    "position": {
+      "latitude": 63.29171195246413,
+      "longitude": 10.465111035702405
+    },
+    "presentation_url": "https://minner.no/tema/korona/3075",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "The Corona Virus in Norway – share for posterity",
+      "name_i18n": {
+        "en": "The Corona Virus in Norway – share for posterity",
+        "nb": "Koronapandemien - den første tiden"
+      },
+      "uuid": "9829edfb-a42d-4e39-9a30-7bdd7115c79a"
+    },
+    "uuid": "8295d42f-1cc2-491b-9610-295e64f7e71c",
+    "values": [
+      {
+        "created": "Sun, 17 Jul 2022 19:12:41 GMT",
+        "display_value": "Jeg er bekymret for barn og unge som ikke hadde nettkapasitet hjemme, og som nå har store kunnskapshull. Jeg er bekymret for hvordan de skal ta igjen tapt undervisning, da mange manglet digitalt utstyr og kompetanse i hjemmet, til å delta på digital undervisning under pandemien. Alle eldre som ble ensomme, og som fortsatt kjenner på ensomhet etter pandemien. Det kommer til å ta tid å komme seg som samfunn etter pandemien.",
+        "modified": "Sun, 17 Jul 2022 19:12:41 GMT",
+        "topic_item": {
+          "label": "What are you thinking about the state of society right now?",
+          "label_i18n": {
+            "en": "What are you thinking about the state of society right now?",
+            "nb": "Hva tenker du om tilstanden i samfunnet?"
+          },
+          "type": "Textarea",
+          "uuid": "81b6cefe-49e9-4797-a62a-a39e56fb7356"
+        },
+        "uuid": "c0d6c226-4d53-4bc4-a3df-b9bab28b9ada"
+      },
+      {
+        "created": "Sun, 17 Jul 2022 19:12:41 GMT",
+        "display_value": "Jeg har endret meg. Jeg prøver å ikke belaste jordkloden mer enn nødvendig. En meget krevende øvelse forresten. Det gjør at jeg tenker helt annerledes når ukemenyen og ting skal kjøpes inn til huset.  Kvalitet og at gjenstander skal kunne brukes flere ganger.  Hundematen må være fri for korn, og bare inneholde ting som hunden kan ha nytte av. Heldigvis finnes det nå hundemat som ikke inneholder kornprodukter. Jeg spiser mer vegetarmat. Jeg forsøker å kjøpe klær som varer lengere. Når jeg handler prøver jeg å holde avstand til folk. Jeg tar mindre buss for å unngå smitte, noe som ikke er bra for miljøet.  Men så mye syk som jeg er, vil jeg forsøke å unngå smitte så mye som mulig. Jeg hadde Covid 19 i februar 2022, og var meget syk. Jeg fikk ikke tak i ambulanse, eller komme inn på Legevakta.",
+        "modified": "Sun, 17 Jul 2022 19:12:41 GMT",
+        "topic_item": {
+          "label": "In what way have your conduct and behavior changed?",
+          "label_i18n": {
+            "en": "In what way have your conduct and behavior changed?",
+            "nb": "Hvordan har du endret adferd og oppførsel?"
+          },
+          "type": "Textarea",
+          "uuid": "c2587dea-a014-4b1a-a916-222f689d32b9"
+        },
+        "uuid": "0e6eeebd-dbfa-49a4-93ae-5fb1ac068831"
+      },
+      {
+        "created": "Sun, 17 Jul 2022 19:12:41 GMT",
+        "display_value": "Koronaviruset kom ikke fult som et sjokk, det var tegn i tiden på at verden ville rammes av en epidemi. I Norge så vi det ikke, før de første meldingene om syke etter et opphold i Alpene i vinterferien. Ikke minst når WHO (verdens helseorganisasjon) erklærte pandemi. Likevel synes jeg at det gikk tregt her i Norge med å reagere, det var som om ledelsen ventet på noe. Da landet ble stengt ned 12. mars 2020, fulgte jeg med på nyhetene hele døgnet. Jeg var nok for opptatt av statistikk og tall.  Jeg var også redd for at mange skulle bli syke og dø, og mye av tankene da var for mye katastrofetanker. Nå litt mer enn to år etter, kan jeg trygt si at vi overreagerte noe som samfunn. Alt snakket om koronasertifikat, som plutselig satte mange utenfor deltakelse i samfunnet bare for at de ikke kunne vaksinere seg. Alle de som ble syke etter svineinfluensavaksinen, som nå hadde grunn til å være redde. Ingen av oss ble beroliget at Folkehelseinstituttet eller fastlegene. De manglet retningslinjer for hvordan vi skulle behandles. Derfor fant hver enkelt fastlege sine retningslinjer. Mange trodde vi var vaksineskeptikere, eller rett og slett motstandere av å vaksinere oss. Det er ikke jeg i det hele tatt, men jeg er redd for å bli like syk som jeg ble etter svineinfluensavaksinen høsten 2009. Sommeren 2022 kjenner jeg verken redsel eller håpløshet. Men vi må være bedre forberedt neste gang, som biolog så vet jeg vi har mer i vente. Dyra trenges sammen på stadig mindre areal, mennesker må bo trangere og trangere, og vi blir flere på jordkloden.  Ennå har ikke markedsøkonomien tatt innover seg at vi må tenke annerledes om hvordan vi bor og bygger. Vi må bygge slik at vi kan isolere bydeler om mange blir syke av smittsomme sykdommer, rett og slett for å redde liv.",
+        "modified": "Sun, 17 Jul 2022 19:12:41 GMT",
+        "topic_item": {
+          "label": "How has your daily life been affected by the corona virus?",
+          "label_i18n": {
+            "en": "How has your daily life been affected by the corona virus?",
+            "nb": "Hvordan er din hverdag blitt påvirket av koronaviruset?"
+          },
+          "type": "Textarea",
+          "uuid": "0ba9b523-a6cf-42fc-a4e4-310724321fde"
+        },
+        "uuid": "90d055cb-f5f3-49df-b7c0-bda94ed07f21"
+      }
+    ]
+  }
+]

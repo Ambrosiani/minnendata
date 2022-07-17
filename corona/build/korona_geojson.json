@@ -7504,6 +7504,22 @@
           61.221
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Koronaviruset kom ikke fult som et sjokk, det var tegn i tiden på at verden ville rammes av en epide…",
+        "date": "17 juli 2022",
+        "author": "Astrid Grendstad",
+        "url": "https://minner.no/tema/korona/3075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.465,
+          63.292
+        ]
+      }
     }
   ]
 }
