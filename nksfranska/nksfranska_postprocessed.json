@@ -1742,6 +1742,30 @@
     "license": "CC BY",
     "media": [
       {
+        "created": "Mon, 22 Aug 2022 06:46:26 GMT",
+        "description": "Ingrid Bergman iklädd ridkavajen i filmen ”En enda natt” från 1939.",
+        "dms_id": "013AmsnxTweX",
+        "image_height": 660,
+        "image_ratio": 0.7484848484848485,
+        "image_width": 494,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Mon, 22 Aug 2022 06:46:26 GMT",
+        "name": "Bild2.jpg",
+        "order_by_number": 1,
+        "owner": "Svenska Filminstitutet",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "d772c92d-be68-4a7e-8999-84717138d5ff"
+      },
+      {
         "created": "Mon, 22 Aug 2022 06:44:51 GMT",
         "dms_id": "013AmsnxTweT",
         "image_height": 2500,
@@ -1751,7 +1775,7 @@
         "mime_type": "image/jpeg",
         "modified": "Mon, 22 Aug 2022 06:44:51 GMT",
         "name": "_DSC8546.jpg",
-        "order_by_number": 1,
+        "order_by_number": 2,
         "owner": "Peter Segemark/Nordiska museet",
         "topic_item": {
           "label": "",
@@ -1774,7 +1798,7 @@
         "mime_type": "image/jpeg",
         "modified": "Mon, 22 Aug 2022 06:44:51 GMT",
         "name": "_DSC8551.jpg",
-        "order_by_number": 2,
+        "order_by_number": 3,
         "owner": "Peter Segemark/Nordiska museet",
         "topic_item": {
           "label": "",
@@ -1797,7 +1821,7 @@
         "mime_type": "image/jpeg",
         "modified": "Mon, 22 Aug 2022 06:44:51 GMT",
         "name": "_DSC8572.jpg",
-        "order_by_number": 3,
+        "order_by_number": 4,
         "owner": "Peter Segemark/Nordiska museet",
         "topic_item": {
           "label": "",
@@ -1820,7 +1844,7 @@
         "mime_type": "image/jpeg",
         "modified": "Mon, 22 Aug 2022 06:44:51 GMT",
         "name": "_DSC8548.jpg",
-        "order_by_number": 4,
+        "order_by_number": 5,
         "owner": "Peter Segemark/Nordiska museet",
         "topic_item": {
           "label": "",
@@ -1843,7 +1867,7 @@
         "mime_type": "image/jpeg",
         "modified": "Mon, 22 Aug 2022 06:44:52 GMT",
         "name": "_DSC8559.jpg",
-        "order_by_number": 5,
+        "order_by_number": 6,
         "owner": "Peter Segemark/Nordiska museet",
         "topic_item": {
           "label": "",
@@ -1857,7 +1881,7 @@
         "uuid": "27a7d891-fa7d-4d12-8377-0f5c4b13c54f"
       }
     ],
-    "modified": "Mon, 22 Aug 2022 06:45:34 GMT",
+    "modified": "Mon, 22 Aug 2022 06:47:42 GMT",
     "presentation_url": "https://minnen.se/tema/nksfranska/19860",
     "published": true,
     "submitted": false,
