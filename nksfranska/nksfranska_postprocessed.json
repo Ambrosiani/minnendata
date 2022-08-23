@@ -1648,53 +1648,6 @@
     "uuid": "231716d0-62db-4d0f-bac9-98c471b18c71"
   },
   {
-    "archive_code": "M4/00026",
-    "contributor": {
-      "display_name": "Marie Rosvall"
-    },
-    "created": "Sat, 11 Jun 2022 21:04:09 GMT",
-    "image_dms_id": "013AmNuc2t9a",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Sat, 11 Jun 2022 20:55:05 GMT",
-        "description": "Min mormors bror Sven Abrahamsson var skräddare på NK. Jag har bara hört talad om honom och har detta foto av honom. Min dotter går i hans fotspår. Hon tog examen på Tillskärarakademin i Göteborg igår 10 juni 2022. Hon är herrskräddare. / Marie Rosvall, Visby, född i Blekinge som mammas ”morbror Sven”",
-        "dms_id": "013AmNuc2t9a",
-        "image_height": 2532,
-        "image_ratio": 0.46208530805687204,
-        "image_width": 1170,
-        "license": "CC0",
-        "mime_type": "image/png",
-        "modified": "Sat, 11 Jun 2022 20:55:05 GMT",
-        "name": "A0504980-D284-4C23-915A-0B415A8A64D6.png",
-        "order_by_number": 1,
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "7b519584-b78c-4eac-bb9a-b79026baaa2c",
-        "owner": "Okänd"
-      }
-    ],
-    "modified": "Sat, 11 Jun 2022 21:04:09 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/19675",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "83ec7082-e4b1-41e9-92bd-4e6898533638"
-  },
-  {
     "archive_code": "M4/00028",
     "contributor": {
       "display_name": "Angelica Tibblin Chen",
@@ -1877,6 +1830,53 @@
         "uuid": "4b07fc2d-616a-49aa-ba72-9ba3d1401c68"
       }
     ]
+  },
+  {
+    "archive_code": "M4/00026",
+    "contributor": {
+      "display_name": "Marie Rosvall"
+    },
+    "created": "Sat, 11 Jun 2022 21:04:09 GMT",
+    "image_dms_id": "013AmNuc2t9a",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sat, 11 Jun 2022 20:55:05 GMT",
+        "description": "Min mormors bror Sven Abrahamsson var skräddare på NK. Jag har bara hört talad om honom och har detta foto av honom. Min dotter går i hans fotspår. Hon tog examen på Tillskärarakademin i Göteborg igår 10 juni 2022. Hon är herrskräddare. / Marie Rosvall, Visby, född i Blekinge som mammas ”morbror Sven”",
+        "dms_id": "013AmNuc2t9a",
+        "image_height": 2532,
+        "image_ratio": 0.46208530805687204,
+        "image_width": 1170,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Sat, 11 Jun 2022 20:55:05 GMT",
+        "name": "A0504980-D284-4C23-915A-0B415A8A64D6.png",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "7b519584-b78c-4eac-bb9a-b79026baaa2c",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Sat, 11 Jun 2022 21:04:09 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/19675",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "83ec7082-e4b1-41e9-92bd-4e6898533638"
   },
   {
     "archive_code": "M4/00027",
