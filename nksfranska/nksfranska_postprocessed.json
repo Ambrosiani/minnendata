@@ -1677,6 +1677,29 @@
         },
         "type": "image",
         "uuid": "27a7d891-fa7d-4d12-8377-0f5c4b13c54f"
+      },
+      {
+        "created": "Wed, 24 Aug 2022 07:06:18 GMT",
+        "dms_id": "013AmsuM8CFd",
+        "image_height": 3550,
+        "image_ratio": 0.7304225352112677,
+        "image_width": 2593,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 24 Aug 2022 07:06:18 GMT",
+        "name": "Ingrid Bergman_En enda natt © AB Svensk Filmindustri 1939 Foto_Louis Huch.jpg",
+        "order_by_number": 7,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "05945889-2c2e-4247-be6d-43353c7c7084",
+        "owner": "Okänd"
       }
     ],
     "modified": "Mon, 22 Aug 2022 06:47:42 GMT",
