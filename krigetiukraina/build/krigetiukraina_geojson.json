@@ -5280,6 +5280,22 @@
           60.69
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "2 september 2022",
+        "author": "Hei",
+        "url": "https://minnen.se/tema/krigetiukraina/19863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.466,
+          61.115
+        ]
+      }
     }
   ]
 }
