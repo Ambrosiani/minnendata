@@ -1219,58 +1219,6 @@
     ]
   },
   {
-    "archive_code": "M4/00016",
-    "contributor": {
-      "display_name": "Beata Kärrberg"
-    },
-    "created": "Sun, 17 Oct 2021 09:59:59 GMT",
-    "license": "CC BY",
-    "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17360",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "c1fb8f91-01e5-415e-9a02-29d8087e9d31",
-    "values": [
-      {
-        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "display_value": "Hej, jag heter Beata Kärrberg svärdotter till Ulla Hultman, inför uppropet att bidra till utställningen NKs Fransk på Nordiska Museet lämnade jag in två dräkter en svart siden-sammet dräkt med fina kantband på jackan - den kom med på utställningen. Den andra dräkten en ljust sandfärgad dräkt med två kjolar - tyvärr kom den inte med på utställningen.\nJag har inga egna minnen av NKs Franska. Min svärmor sydde även aftonklänningar på NKs Franska. I början på 70-talet fick jag ett antal klänningar av henne, fantastiskt vackra aftonklänningar bl. a en svart sidensammet klänning med djup urringning och släp. Tyvärr hade vi inbrott i vårt källarförråd i början på 90-talet och alla aftonklänningar försvann tillsammans med en resväska och fyra vinterdäck.\nDen svarta dräkten bar jag på 70-talet, det var ju innan retro blev riktigt modernt och började värderas högt på auktionerna. Den ljusa dräkten lät min svärmor sy upp (1948) inför en resa till USA, där mina svärföräldrar skulle besöka släktingar som utvandrat ca 1910. Jag kände inte familjen då, men har förstått att detta var en stor och viktig händelse i familjen.\nBåda dräkterna finns fortfarande på museet, den svarta utställd och den sandfärgade i ngt förråd för plagg som kan hämtas. Har tyvärr inga bilder på plaggen i datorn.\nMed vänlig hälsning.\n\nBeata Kärrberg",
-        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "topic_item": {
-          "label": "Berätta gärna om ett plagg från damskrädderiet.",
-          "label_i18n": {
-            "sv": "Berätta gärna om ett plagg från damskrädderiet."
-          },
-          "type": "Textarea",
-          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "786cbfb6-4180-4d29-b7ba-8baa8a0e491f"
-      },
-      {
-        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "display_value": "",
-        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "0f6a510b-2e7c-40fe-9e25-59e9fd606b2c"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00028",
     "contributor": {
       "display_name": "Angelica Tibblin Chen",
@@ -1475,6 +1423,58 @@
           "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "uuid": "4b07fc2d-616a-49aa-ba72-9ba3d1401c68"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00016",
+    "contributor": {
+      "display_name": "Beata Kärrberg"
+    },
+    "created": "Sun, 17 Oct 2021 09:59:59 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17360",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "c1fb8f91-01e5-415e-9a02-29d8087e9d31",
+    "values": [
+      {
+        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "display_value": "Hej, jag heter Beata Kärrberg svärdotter till Ulla Hultman, inför uppropet att bidra till utställningen NKs Fransk på Nordiska Museet lämnade jag in två dräkter en svart siden-sammet dräkt med fina kantband på jackan - den kom med på utställningen. Den andra dräkten en ljust sandfärgad dräkt med två kjolar - tyvärr kom den inte med på utställningen.\nJag har inga egna minnen av NKs Franska. Min svärmor sydde även aftonklänningar på NKs Franska. I början på 70-talet fick jag ett antal klänningar av henne, fantastiskt vackra aftonklänningar bl. a en svart sidensammet klänning med djup urringning och släp. Tyvärr hade vi inbrott i vårt källarförråd i början på 90-talet och alla aftonklänningar försvann tillsammans med en resväska och fyra vinterdäck.\nDen svarta dräkten bar jag på 70-talet, det var ju innan retro blev riktigt modernt och började värderas högt på auktionerna. Den ljusa dräkten lät min svärmor sy upp (1948) inför en resa till USA, där mina svärföräldrar skulle besöka släktingar som utvandrat ca 1910. Jag kände inte familjen då, men har förstått att detta var en stor och viktig händelse i familjen.\nBåda dräkterna finns fortfarande på museet, den svarta utställd och den sandfärgade i ngt förråd för plagg som kan hämtas. Har tyvärr inga bilder på plaggen i datorn.\nMed vänlig hälsning.\n\nBeata Kärrberg",
+        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "topic_item": {
+          "label": "Berätta gärna om ett plagg från damskrädderiet.",
+          "label_i18n": {
+            "sv": "Berätta gärna om ett plagg från damskrädderiet."
+          },
+          "type": "Textarea",
+          "uuid": "25f1824a-a0ac-4e0e-a0de-91502bdb774d"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "786cbfb6-4180-4d29-b7ba-8baa8a0e491f"
+      },
+      {
+        "created": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "display_value": "",
+        "modified": "Sun, 17 Oct 2021 09:59:59 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "0f6a510b-2e7c-40fe-9e25-59e9fd606b2c"
       }
     ]
   },
