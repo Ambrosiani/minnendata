@@ -846,114 +846,6 @@
     ]
   },
   {
-    "archive_code": "M4/00004",
-    "contributor": {
-      "display_name": "Marika Norling"
-    },
-    "created": "Sat, 11 Sep 2021 02:26:25 GMT",
-    "license": "CC BY",
-    "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17265",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "9acea489-409f-40e9-a0e9-1db72e9b97bc",
-    "values": [
-      {
-        "created": "Sat, 11 Sep 2021 02:26:25 GMT",
-        "display_value": "Om Pelle Lundgrens karriär:\nVår farmor Ingrid Norling, storasyster till Pelle Lundgren, berättade för många år sedan att Pelle hade lungproblem som barn. Han kunde inte springa omkring och leka utomhus som andra barn, så han blev inomhus och började sy dock kläder!\n\nMarika Norling, Peder Norling, Anki Larsdotter",
-        "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "825b785c-4279-4f6f-9dc3-ecd46f06a5d4"
-      }
-    ]
-  },
-  {
-    "archive_code": "M4/00019",
-    "contributor": {
-      "display_name": "Ronnie Granath"
-    },
-    "created": "Thu, 28 Oct 2021 20:49:24 GMT",
-    "image_dms_id": "013AjNvnZa72",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Thu, 28 Oct 2021 11:45:20 GMT",
-        "description": "Hemma hos min mamma Elsa Granath f. Olsson samlades \"flickorna\" som de kallade sig själva. Denna gång var det den 19/6 1944.rna\" ibland",
-        "dms_id": "013AjNvnZa72",
-        "image_height": 4000,
-        "image_ratio": 0.75,
-        "image_width": 3000,
-        "license": "CC0",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 28 Oct 2021 11:45:20 GMT",
-        "name": "inbound9056455634315042869.jpg",
-        "order_by_number": 1,
-        "owner": "Ronnie Granath",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "464cdcb7-3170-48af-bd78-6ee9e4e58fb8"
-      },
-      {
-        "created": "Thu, 28 Oct 2021 11:59:49 GMT",
-        "description": "Flickorna hos mamma juni 1944",
-        "dms_id": "013AjNvnZa79",
-        "image_height": 4000,
-        "image_ratio": 0.75,
-        "image_width": 3000,
-        "license": "CC0",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 28 Oct 2021 11:59:49 GMT",
-        "name": "inbound7184682052418483097.jpg",
-        "order_by_number": 2,
-        "owner": "Ronnie Granath",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "de8af506-7605-4b79-ad63-9e1f9457accc"
-      }
-    ],
-    "modified": "Thu, 28 Oct 2021 20:49:24 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17385",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "97236744-1f29-4476-b735-2439df159fe9"
-  },
-  {
     "archive_code": "M4/00028",
     "contributor": {
       "display_name": "Angelica Tibblin Chen",
@@ -1160,6 +1052,114 @@
         "uuid": "4b07fc2d-616a-49aa-ba72-9ba3d1401c68"
       }
     ]
+  },
+  {
+    "archive_code": "M4/00004",
+    "contributor": {
+      "display_name": "Marika Norling"
+    },
+    "created": "Sat, 11 Sep 2021 02:26:25 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17265",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "9acea489-409f-40e9-a0e9-1db72e9b97bc",
+    "values": [
+      {
+        "created": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "display_value": "Om Pelle Lundgrens karriär:\nVår farmor Ingrid Norling, storasyster till Pelle Lundgren, berättade för många år sedan att Pelle hade lungproblem som barn. Han kunde inte springa omkring och leka utomhus som andra barn, så han blev inomhus och började sy dock kläder!\n\nMarika Norling, Peder Norling, Anki Larsdotter",
+        "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "825b785c-4279-4f6f-9dc3-ecd46f06a5d4"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00019",
+    "contributor": {
+      "display_name": "Ronnie Granath"
+    },
+    "created": "Thu, 28 Oct 2021 20:49:24 GMT",
+    "image_dms_id": "013AjNvnZa72",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Thu, 28 Oct 2021 11:45:20 GMT",
+        "description": "Hemma hos min mamma Elsa Granath f. Olsson samlades \"flickorna\" som de kallade sig själva. Denna gång var det den 19/6 1944.rna\" ibland",
+        "dms_id": "013AjNvnZa72",
+        "image_height": 4000,
+        "image_ratio": 0.75,
+        "image_width": 3000,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 28 Oct 2021 11:45:20 GMT",
+        "name": "inbound9056455634315042869.jpg",
+        "order_by_number": 1,
+        "owner": "Ronnie Granath",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "464cdcb7-3170-48af-bd78-6ee9e4e58fb8"
+      },
+      {
+        "created": "Thu, 28 Oct 2021 11:59:49 GMT",
+        "description": "Flickorna hos mamma juni 1944",
+        "dms_id": "013AjNvnZa79",
+        "image_height": 4000,
+        "image_ratio": 0.75,
+        "image_width": 3000,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 28 Oct 2021 11:59:49 GMT",
+        "name": "inbound7184682052418483097.jpg",
+        "order_by_number": 2,
+        "owner": "Ronnie Granath",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "de8af506-7605-4b79-ad63-9e1f9457accc"
+      }
+    ],
+    "modified": "Thu, 28 Oct 2021 20:49:24 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17385",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "97236744-1f29-4476-b735-2439df159fe9"
   },
   {
     "archive_code": "M4/00014",
