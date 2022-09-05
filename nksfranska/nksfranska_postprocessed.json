@@ -428,119 +428,6 @@
     ]
   },
   {
-    "archive_code": "M4/00009",
-    "contributor": {
-      "birth_year": 1928,
-      "display_name": "Astrid Palm",
-      "gender": "woman",
-      "place": "Spånga",
-      "uuid": "655cd7de-3c99-47c5-bc91-42d866a0915d"
-    },
-    "coordinates": "",
-    "created": "Wed, 15 Sep 2021 07:39:45 GMT",
-    "image_dms_id": "013AhtPopuKU",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Wed, 15 Sep 2021 07:36:43 GMT",
-        "dms_id": "013AhtPopuKT",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Wed, 15 Sep 2021 07:36:43 GMT",
-        "name": "Nordiska museet - Vasamuseet 5.mp3",
-        "order_by_number": 1,
-        "owner": "Astrid Palm, sömmerska på NK:s Franska damskrädderi. Jörgen Löwenfeldt, Nordiska museet, ställer frågorna.",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "audio",
-        "uuid": "42a742f6-9121-49ad-a3d9-dc29ce668bd3"
-      },
-      {
-        "created": "Wed, 15 Sep 2021 07:39:12 GMT",
-        "description": "Astrid Palm, sömmerska på NK:s Franska damskrädderi.",
-        "dms_id": "013AhtPopuKU",
-        "image_height": 4032,
-        "image_ratio": 0.75,
-        "image_width": 3024,
-        "license": "CC0",
-        "mime_type": "image/jpeg",
-        "modified": "Wed, 15 Sep 2021 07:39:12 GMT",
-        "name": "IMG_1966.JPG",
-        "order_by_number": 1,
-        "owner": "Jörgen Löwenfeldt",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "c76db185-0038-4478-81eb-8421e3b1f856"
-      },
-      {
-        "created": "Wed, 15 Sep 2021 07:40:15 GMT",
-        "dms_id": "013AhtPopuKV",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Wed, 15 Sep 2021 07:40:15 GMT",
-        "name": "Nordiska museet - Vasamuseet 4 (kopia).mp3",
-        "order_by_number": 2,
-        "owner": "Astrid Palm, sömmerska på NK:s Franska damskrädderi. Jörgen Löwenfeldt, Nordiska museet, ställer frågorna.",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "audio",
-        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd"
-      }
-    ],
-    "modified": "Mon, 17 Jan 2022 07:32:24 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17274",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "3f5eabd9-7bee-40bf-913f-5911dff249e9",
-    "values": [
-      {
-        "created": "Wed, 15 Sep 2021 07:39:45 GMT",
-        "display_value": "Inspelat och berättat vid Nordiska museets premiärvisning av utställningen om NK:s Franska damskrädderi, 14 september 2021.\n\nAstrid Palm, född Ling, arbetade som sömmerska vid skrädderiet under sju år. Även hennes tvillingsyster Svea arbetade på skrädderiet. De kallades internt för \"lingarna\".\n\nSjälv har hon inga plagg från NK:s Franska hemma:\n– De var bara för kunderna, berättar hon.",
-        "modified": "Wed, 15 Sep 2021 07:39:45 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "941fc172-ff93-426a-9087-35ea6c914813"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00028",
     "contributor": {
       "display_name": "Angelica Tibblin Chen",
@@ -745,6 +632,119 @@
           "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "uuid": "4b07fc2d-616a-49aa-ba72-9ba3d1401c68"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00009",
+    "contributor": {
+      "birth_year": 1928,
+      "display_name": "Astrid Palm",
+      "gender": "woman",
+      "place": "Spånga",
+      "uuid": "655cd7de-3c99-47c5-bc91-42d866a0915d"
+    },
+    "coordinates": "",
+    "created": "Wed, 15 Sep 2021 07:39:45 GMT",
+    "image_dms_id": "013AhtPopuKU",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 15 Sep 2021 07:36:43 GMT",
+        "dms_id": "013AhtPopuKT",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:36:43 GMT",
+        "name": "Nordiska museet - Vasamuseet 5.mp3",
+        "order_by_number": 1,
+        "owner": "Astrid Palm, sömmerska på NK:s Franska damskrädderi. Jörgen Löwenfeldt, Nordiska museet, ställer frågorna.",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "42a742f6-9121-49ad-a3d9-dc29ce668bd3"
+      },
+      {
+        "created": "Wed, 15 Sep 2021 07:39:12 GMT",
+        "description": "Astrid Palm, sömmerska på NK:s Franska damskrädderi.",
+        "dms_id": "013AhtPopuKU",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Wed, 15 Sep 2021 07:39:12 GMT",
+        "name": "IMG_1966.JPG",
+        "order_by_number": 1,
+        "owner": "Jörgen Löwenfeldt",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "c76db185-0038-4478-81eb-8421e3b1f856"
+      },
+      {
+        "created": "Wed, 15 Sep 2021 07:40:15 GMT",
+        "dms_id": "013AhtPopuKV",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Wed, 15 Sep 2021 07:40:15 GMT",
+        "name": "Nordiska museet - Vasamuseet 4 (kopia).mp3",
+        "order_by_number": 2,
+        "owner": "Astrid Palm, sömmerska på NK:s Franska damskrädderi. Jörgen Löwenfeldt, Nordiska museet, ställer frågorna.",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "audio",
+        "uuid": "c1880705-6e50-40e7-a691-dc5c677edcbd"
+      }
+    ],
+    "modified": "Mon, 17 Jan 2022 07:32:24 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17274",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "3f5eabd9-7bee-40bf-913f-5911dff249e9",
+    "values": [
+      {
+        "created": "Wed, 15 Sep 2021 07:39:45 GMT",
+        "display_value": "Inspelat och berättat vid Nordiska museets premiärvisning av utställningen om NK:s Franska damskrädderi, 14 september 2021.\n\nAstrid Palm, född Ling, arbetade som sömmerska vid skrädderiet under sju år. Även hennes tvillingsyster Svea arbetade på skrädderiet. De kallades internt för \"lingarna\".\n\nSjälv har hon inga plagg från NK:s Franska hemma:\n– De var bara för kunderna, berättar hon.",
+        "modified": "Wed, 15 Sep 2021 07:39:45 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "941fc172-ff93-426a-9087-35ea6c914813"
       }
     ]
   },
