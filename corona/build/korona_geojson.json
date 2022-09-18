@@ -7520,6 +7520,22 @@
           63.292
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jeg skriver dette høsten 2022 etter Norge som samfunn har åpnet opp og fungerer tilnærmet likt som d…",
+        "date": "18 september 2022",
+        "author": "Kim Øyvind Pedersen",
+        "url": "https://minner.no/tema/korona/3106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.933,
+          62.596
+        ]
+      }
     }
   ]
 }
