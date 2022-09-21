@@ -1208,5 +1208,81 @@
         "uuid": "f9275595-ce41-4499-b68f-8ad451914fdb"
       }
     ]
+  },
+  {
+    "archive_code": "M5/00014",
+    "contributor": {
+      "birth_year": 1956,
+      "display_name": "Stefan Zylberstein",
+      "gender": "man",
+      "place": "Zabkowice",
+      "uuid": "33a4a582-bf3b-48d2-a526-a6fe3718f9b8"
+    },
+    "created": "Wed, 21 Sep 2022 09:51:10 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Wed, 21 Sep 2022 09:49:33 GMT",
+        "dms_id": "019EBskEVUHK8",
+        "license": "CC BY-NC",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Wed, 21 Sep 2022 09:49:33 GMT",
+        "name": "Stefan Zylberstein levnadsberättelse.docx",
+        "order_by_number": 1,
+        "owner": "Stefan Zylberstein",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "991a282a-30ee-4074-88fd-3540cd8c8d70"
+      }
+    ],
+    "modified": "Wed, 21 Sep 2022 09:51:10 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/19866",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "256f91b7-00d2-48e5-89b8-db0755bf9dc2",
+    "values": [
+      {
+        "created": "Wed, 21 Sep 2022 09:51:10 GMT",
+        "display_value": "September 1969",
+        "modified": "Wed, 21 Sep 2022 09:51:10 GMT",
+        "topic_item": {
+          "label": "Ankomstdatum till Sverige:",
+          "label_i18n": {
+            "sv": "Ankomstdatum till Sverige:"
+          },
+          "type": "Textarea",
+          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+        },
+        "uuid": "1ad62c63-aeed-40df-9ecc-6e30b2a41b75"
+      },
+      {
+        "created": "Wed, 21 Sep 2022 09:51:10 GMT",
+        "display_value": "Zabkowice, Göteborg, Lidköping",
+        "modified": "Wed, 21 Sep 2022 09:51:10 GMT",
+        "topic_item": {
+          "label": "Tidigare bostadsorter:",
+          "label_i18n": {
+            "sv": "Tidigare bostadsorter:"
+          },
+          "type": "Textarea",
+          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+        },
+        "uuid": "e48fb1c3-950d-45c8-a185-d6cf05c7f992"
+      }
+    ]
   }
 ]
