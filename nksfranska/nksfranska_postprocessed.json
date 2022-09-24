@@ -155,149 +155,6 @@
     ]
   },
   {
-    "archive_code": "M4/00003",
-    "contributor": {
-      "display_name": "Madeleine",
-      "gender": "woman",
-      "uuid": "67aa64eb-46ba-4dba-b663-962779ffda19"
-    },
-    "coordinates": "",
-    "created": "Thu, 09 Sep 2021 16:54:33 GMT",
-    "image_dms_id": "0138ZQA6ziSo",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSn",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "name": "dam med flor.jpg",
-        "order_by_number": 1,
-        "owner": "Woodruffs presentfoto",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "734bb8ec-9efb-4faf-95fc-967012f5c06f"
-      },
-      {
-        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSo",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "name": "dam med fjäderhatt.jpg",
-        "order_by_number": 2,
-        "owner": "Ateljé Uggla",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "ebc21e73-612e-48ac-8239-ac16d54841b9"
-      },
-      {
-        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSp",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
-        "name": "dam med handskar.jpg",
-        "order_by_number": 3,
-        "owner": "Aftonbladet/ Gunnar Södergren",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "0725cbda-5425-4bc5-acbe-1ad332d0f90b"
-      },
-      {
-        "created": "Thu, 09 Sep 2021 16:20:40 GMT",
-        "description": "Kim Söderlund",
-        "dms_id": "0138ZQA6ziSm",
-        "image_height": 1440,
-        "image_ratio": 0.75,
-        "image_width": 1080,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Thu, 09 Sep 2021 16:20:40 GMT",
-        "name": "dam med kappa.jpg",
-        "order_by_number": 4,
-        "owner": "Okänd",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "b1d23fb6-f956-4221-bf74-6168212a1397"
-      }
-    ],
-    "modified": "Fri, 10 Sep 2021 08:43:57 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17260",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "63818c77-37a1-4eff-a385-147234af3aac",
-    "values": [
-      {
-        "created": "Thu, 09 Sep 2021 16:54:33 GMT",
-        "display_value": "Min mamma Kim Söderlund arbetade hela sitt liv inom modevärlden. Bland annat var hon mannekäng vid NK:s franska damskrädderi. \n\nMamma berättade att alla mannekänger hade en stor väska som rymde allt de kunde tänkas behöva: handskar; mörka och ljusa, långa och korta, skor; enkla sidenpumps, ett vitt skynke för att skydda kläderna då de drogs över huvudet, smink, väskor, halsband, örhängen, diverse kedjor och skärp, extra strumpor. Väskan stod alltid packad och innehållet såg de till att hålla fräscht. Mamma var mycket noga med att vara \"tipp-topp\" i både hår och humör när kläderna till de stora visningarna skulle utprovas. Hon mindes också att sammanhållningen mellan mannekängerna var mycket god.",
-        "modified": "Thu, 09 Sep 2021 16:54:33 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "9e1aa20d-33be-423b-8cb0-e80fffc2a174"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00028",
     "contributor": {
       "display_name": "Angelica Tibblin Chen",
@@ -502,6 +359,149 @@
           "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "uuid": "4b07fc2d-616a-49aa-ba72-9ba3d1401c68"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00003",
+    "contributor": {
+      "display_name": "Madeleine",
+      "gender": "woman",
+      "uuid": "67aa64eb-46ba-4dba-b663-962779ffda19"
+    },
+    "coordinates": "",
+    "created": "Thu, 09 Sep 2021 16:54:33 GMT",
+    "image_dms_id": "0138ZQA6ziSo",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSn",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med flor.jpg",
+        "order_by_number": 1,
+        "owner": "Woodruffs presentfoto",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "734bb8ec-9efb-4faf-95fc-967012f5c06f"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSo",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med fjäderhatt.jpg",
+        "order_by_number": 2,
+        "owner": "Ateljé Uggla",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "ebc21e73-612e-48ac-8239-ac16d54841b9"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSp",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:39 GMT",
+        "name": "dam med handskar.jpg",
+        "order_by_number": 3,
+        "owner": "Aftonbladet/ Gunnar Södergren",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "0725cbda-5425-4bc5-acbe-1ad332d0f90b"
+      },
+      {
+        "created": "Thu, 09 Sep 2021 16:20:40 GMT",
+        "description": "Kim Söderlund",
+        "dms_id": "0138ZQA6ziSm",
+        "image_height": 1440,
+        "image_ratio": 0.75,
+        "image_width": 1080,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Thu, 09 Sep 2021 16:20:40 GMT",
+        "name": "dam med kappa.jpg",
+        "order_by_number": 4,
+        "owner": "Okänd",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "b1d23fb6-f956-4221-bf74-6168212a1397"
+      }
+    ],
+    "modified": "Fri, 10 Sep 2021 08:43:57 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17260",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "63818c77-37a1-4eff-a385-147234af3aac",
+    "values": [
+      {
+        "created": "Thu, 09 Sep 2021 16:54:33 GMT",
+        "display_value": "Min mamma Kim Söderlund arbetade hela sitt liv inom modevärlden. Bland annat var hon mannekäng vid NK:s franska damskrädderi. \n\nMamma berättade att alla mannekänger hade en stor väska som rymde allt de kunde tänkas behöva: handskar; mörka och ljusa, långa och korta, skor; enkla sidenpumps, ett vitt skynke för att skydda kläderna då de drogs över huvudet, smink, väskor, halsband, örhängen, diverse kedjor och skärp, extra strumpor. Väskan stod alltid packad och innehållet såg de till att hålla fräscht. Mamma var mycket noga med att vara \"tipp-topp\" i både hår och humör när kläderna till de stora visningarna skulle utprovas. Hon mindes också att sammanhållningen mellan mannekängerna var mycket god.",
+        "modified": "Thu, 09 Sep 2021 16:54:33 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "9e1aa20d-33be-423b-8cb0-e80fffc2a174"
       }
     ]
   },
