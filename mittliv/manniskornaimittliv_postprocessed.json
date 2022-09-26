@@ -22121,5 +22121,588 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00609",
+    "contributor": {
+      "display_name": "Isabelle"
+    },
+    "created": "Mon, 26 Sep 2022 08:41:52 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:41:52 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19869",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "f2ec83b4-891b-418e-b175-1d760d81f229",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:41:52 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:41:52 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "bd1b6dc8-be3b-4edc-b65c-7261966d49fb"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:41:52 GMT",
+        "display_value": "Min mamma, Emma och Samuel.\n\nSamuel\nJag och Samuel har känt varandra sen 4:an när han började i min klass med sin tvilling Simon. Vi brukar åka och shoppa tillsammans och vi har picknickar tillsammans men jag ser honom bara som en kompis eftersom han e gay. Vi brukar prata i telefon i flera timmar och har super kul.\n\nEmma\nEmma och jag har känt varandra sen vi var några månader gamla och våra föräldrar är kompisar. Vi berättar allt för varandra och jag är bra kompis med hennes lillasyster också.  Emma och hennes familj brukar åka skidor med oss i fjällen och spendera nyår tillsammans.\n \nMin mamma\nHon har hjälpt mig under en tid jag inte mådde så bra psykiskt. Och vi har många gemensamma intressen.",
+        "modified": "Mon, 26 Sep 2022 08:41:52 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "730bbd90-131d-4016-b1f7-57265c1a5651"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00611",
+    "contributor": {
+      "display_name": "Holger"
+    },
+    "created": "Mon, 26 Sep 2022 08:42:14 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:42:14 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19873",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "e797f4d6-4a84-4385-9263-1ef92ca7f8e3",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:42:14 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:42:14 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "e6c85ecd-acae-4ab2-a235-79830bc294f3"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:42:14 GMT",
+        "display_value": "Liam, min bästa vän, är lite konstig. Hans smeknamn är Ligma och han blandar ihop svenska med engelska som t.ex well med väl och condition med kondition, så en mening som han skulle säga är “väl, det finns faktiskt en bok i mitt träd”. Men han är smart och rolig det är det som spelar roll.\n\nMin syster som heter Tuva, är tre år äldre än mig och har nyligen börjat på en internatskola i småland. Hon kommer hem och hälsar på varannan helg för att träffa familjen, (mamma, pappa, jag) och hennes pojkvän Isak. Tuva är kort (162 cm), kort för sin ålder. \n\nLove är ett år äldre än mig och är riktigt smart för han älskar geografi, historia och matematik, för vill han bli en doktor. Han och jag orienterar tillsammans på torsdagar då brukar vi och en annan kompis springa tillsammans. Vi träffas också på måndagar på scouterna, även fast vi inte är med i samma patrull brukar vi gå runt och prata.",
+        "modified": "Mon, 26 Sep 2022 08:42:14 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "b72a0e9a-fcdb-43bf-8206-f1bb74df1527"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00613",
+    "contributor": {
+      "display_name": "Romario"
+    },
+    "created": "Mon, 26 Sep 2022 08:42:27 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:42:27 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19875",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "f3c69755-b216-4422-91ae-850b01297797",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:42:27 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:42:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "ab286c2f-2c66-41b1-89a3-9b8fb4086e4e"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:42:27 GMT",
+        "display_value": "Jag har ganska många personer som betyder mycket för mig men de som betyder allra mest är nog min mamma, min pappa och min storebror. Min bror är en väldigt snäll människa som hjälper mig när jag behöver det. Han brukar skjutsa mig till mina fotbolls träningar när min pappa jobbar.  En annan sak han brukar göra med mig är att han tränar mig på brottning ibland. Ytterligare gillar jag att man kan skämta med han utan att han blir arg eller upprörd.\n\nMin mamma brukar hjälpa mig med allt till exempel så väcker hon mig varenda skoldag, hon väckte även mig när hon var i Grekland. Hon och jag har en väldigt bra relation, vi kan prata om vad som helst när som helst. Hon är även en person som är mer teknisk på det sättet hjälper hon mig med att lägga frånvaro i skolan när det behövs. \n\nMin pappa hjälper också mig när jag behöver det, ett exempel på det är att han brukar träna mig på fotboll på grund av att jag ska bli bättre. Han är även väldigt överbeskyddande och det älskar jag om honom.  Jag gillar även hur han kan offra sig när man behöver det, ett exempel på det är att han kan ge mig hans mobil eller dator när jag behöver det för någonting.\n\nDe är människor jag älskar och jag kan absolut inte leva utan dem.",
+        "modified": "Mon, 26 Sep 2022 08:42:27 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "08851419-ab68-41fa-b450-b9d82f118ce2"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00615",
+    "contributor": {
+      "display_name": "William"
+    },
+    "created": "Mon, 26 Sep 2022 08:43:42 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:43:42 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19880",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "7d63cfd5-93d0-488a-b902-6e69a4cf92ec",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:43:42 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:43:42 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "f8fcfa5f-ef4b-4c88-826f-9738d8806cf2"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:43:42 GMT",
+        "display_value": "Min mamma är viktig för mig för att hon hjälper alltid mig och stöttar mig. Dessutom som hon lagar mat och städar. Hon hjälper mig alltid med läxor och ser till att jag gör bra ifrån mig i skolan.\n\nMin pappa skjutsar mig till träningar och motiverar alltid mig att inte ge upp och att fortsätta att kämpa hårt. Han prioriterar alltid han jag mår bra.\n\nMin mormor är alltid jätteglad och sprider massor med kärlek till alla andra i hennes närhet blir glada. Hon gör också jättegod mat som t.ex. jiao zi och bao zi. (det är kinesisk mat).",
+        "modified": "Mon, 26 Sep 2022 08:43:42 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "47848e6c-d1b0-41b7-8954-6c081ac80487"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00617",
+    "contributor": {
+      "display_name": "Björn"
+    },
+    "created": "Mon, 26 Sep 2022 08:44:05 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:44:05 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19884",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "8b254b40-12e2-4b17-baf3-29259a63c06f",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:44:05 GMT",
+        "display_value": "2009, 14 oktober",
+        "modified": "Mon, 26 Sep 2022 08:44:05 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "57770314-8d9e-478f-87bf-8bb11143296d"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:44:05 GMT",
+        "display_value": "Aston är en av mina bästa vänner. Därför ska jag skriva om honom. Aston är ganska lik mig, vi gillar liknande grejer. Vi båda gillar Nerf, tv-spel och att vara allmänt dumma i huvudet.  Vi pruttar tillsammans, vi spelar, och kollar på konstiga klipp på youtube. Aston är kreativ, bra på matte, och snäll. Vi möttes när jag bytte skola, till Södertörns friskola. \n\nSigvard har jag känt lite längre. Han är BÄST på att bygga Lego! Han är så kreativ och lyhörd, och älskar gamla 60-tals band, som min favorit... The Beatles. Han älskar äpplen och studsmattor, bilar och mekanik. Han är ganska busig, och skrikig. Vi möttes såhär, för länge sen: på fritids i skolan, fanns det en hörna där de hade lego. Där möttes vi, och så småningom började vi gå hem till varandra, och byggde så mycket lego.\n\nBenjamin brukar vi egentligen kalla Benji. Fast med ett sådant spanskt n, som jag inte vet hur man gör på dator. Benjamin är en OERHÖRT snäll och skämtsam person, som alltid lånar ut pengar till folk, utan att kräva tillbaka(skolans Mr. Beast). Han gillar Fortnite, Minecraft, Lego, Rick and Morty, och memes. Så det är den typen av kille. Han är lång och har lurvigt hår.",
+        "modified": "Mon, 26 Sep 2022 08:44:05 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "38c54203-7293-4718-8802-cf67c93d848b"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00619",
+    "contributor": {
+      "display_name": "Gustav"
+    },
+    "created": "Mon, 26 Sep 2022 08:44:32 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:44:32 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19888",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "156190a6-883b-4f68-bf15-4678e2d7df47",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:44:32 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:44:32 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "0118673b-c64d-49c3-ae9d-847bbf64c39e"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:44:32 GMT",
+        "display_value": "Jag har valt att berätta om min pappa Fredrik, min storebror Ludvig och min kompis Noel.\nAnledningen till att jag har valt dessa personer är för att de är betydelsefulla för mig och finns alltid där när jag behöver det. \n\nDen första jag tänker berätta om är min pappa. Min pappa är en av de mest betydelsefulla människorna i mitt liv, eftersom att han alltid har funnits där för mig och stöttar mig i alla situationer. Han pushar mig i träning och i skolan och han har respekt för när jag inte vill göra något. När jag behöver hjälp med något ställer han alltid upp och hjälper mig med t.ex. läxor eller att trösta mig när jag är ledsen. Han bryr sig även alltid om min hälsa och att jag rör på mig. En annan bra sak med min pappa är att han märker när jag är hungrig, när jag är trött eller när jag är hungrig. Vilket underlättar mycket. \n\nDen andra personen jag tänker berätta om är min kompis Noel. Noel är en magisk människa med en fantastisk personlighet. Han finns alltid där för mig och jag kan berätta vad som helst för honom. Jag känner mig trygg runt honom och vi gör allting tillsammans. Vi gör allt ifrån att träna och tävla runt om i vårt avlånga land till att bara vara med varandra och spela tv-spel och fotboll. Det bästa är att våra familjer är jättenära och vi har samma intressen. \n\nDen sista människan jag har valt att berätta om är min storebror Ludvig. Ludvig och jag har tidigare bråkat väldigt mycket men det senaste året har vi blivit väldigt nära varandra och vi gör allting tillsammans. Vi tränar, spelar spel, kollar på film och bara är med varandra. Han finns alltid där för mig och vi har nästan alltid roligt. Han är skön att vara med, har bra musik och filmsmak och han har även samma intressen som jag. \n\nJag hade gärna också skrivit om min mamma men man fick ju bara skriva tre personer.",
+        "modified": "Mon, 26 Sep 2022 08:44:32 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "21b35b46-7a47-449e-a9d5-4eebfdb93e04"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00621",
+    "contributor": {
+      "display_name": "Ella"
+    },
+    "created": "Mon, 26 Sep 2022 08:44:55 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:44:55 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19891",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "bd9f755f-d7bd-4a5d-b1d6-4a2f8c914fa4",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:44:55 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:44:55 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "f5a5504a-9c1e-49e9-97b6-d0683edaa87e"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:44:55 GMT",
+        "display_value": "Här tre personer som är väldigt viktiga för mig:\n\nMin mamma är väldigt viktig för mig, hon är riktigt snäll och jag kan prata med henne om allt möjligt.  En sak jag gillar med henne är att hon gillar sånt jag gillar. Något som vi båda gillar är att äta pizza framför tv:n på soffan, det är så himla mysigt. Fast inte varje dag såklart.\n\nMin mormor älskar jag och hon finns alltid för mig, vi träffas flera dagar i veckan och jag tycker alltid om att vara med henne. Jag gillar när hon kommer hem till oss därför att vi brukar göra roliga saker som att spela spel, prata och kolla på film.\n\nMin morbror och hans familj är väldigt viktiga för mig och jag tycker verkligen om att träffa de. När vi träffas brukar vi fika, äta lunch, prata och gå ut till en park nära vårt hus när de är hemma hos oss. Min morbror är min inspiration eftersom jag tycker om det han gör och så tycker jag att han är smart.",
+        "modified": "Mon, 26 Sep 2022 08:44:55 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "49f50cb7-38b2-481c-a4c2-6cf51e9008f7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00623",
+    "contributor": {
+      "display_name": "Aston"
+    },
+    "created": "Mon, 26 Sep 2022 08:45:14 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:45:14 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19895",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "f45dd110-7c3e-4db2-b449-b96b8eaf0ffa",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:45:14 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:45:14 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "e32e93b4-bec2-44da-8583-b53014fd60a2"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:45:14 GMT",
+        "display_value": "Min moder Louise är född den 15 Januari 1975 och är en av de viktigaste personerna i mitt liv eftersom hon tar hand om mig, och är helt enkelt min moder. Därför gillar jag henne så mycket. Hon jobbar på Viktor Rydbergs skola som tyska och engelska lärare. Ibland gör jag och Louise saker tillsammans som kolla på film eller åka i väg någonstans, men oftast så är det med hela familjen som vi gör sådana saker. \n\nBjörn är en av mina närmsta kompisar, han är ganska lat men rolig och skrattar åt allt. Jag och Björn brukar spela ett datorspel som heter Fortnite tillsammans, men vi kallar det så klart för Fartnite (prutt hihi). Vi brukar alltid vara tillsammans på rasterna, och så betyder han ganska mycket för mig. \n\nLiam är min kompis som jag har känt längst, sen jag var 3 år gammal. Han är ganska smart men speciell på sitt egna sätt och han är ganska trevlig och rolig. Vi brukar hänga på rasterna tillsammans i skolan och brukar också spela datorspel ibland. Liam betyder mycket för mig, det skulle självklart vara tråkigt ifall han helt plötsligt föll ihop och dog. Jag skulle blivit väldigt ledsen då.",
+        "modified": "Mon, 26 Sep 2022 08:45:14 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "8b35693d-2a0d-432d-9f57-352c2dd1d41c"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00625",
+    "contributor": {
+      "display_name": "Kayra Beren"
+    },
+    "created": "Mon, 26 Sep 2022 08:45:40 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:45:40 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19898",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "503279b0-812d-4710-8abc-e85537970fcd",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:45:40 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:45:40 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "de95630d-c71f-4b43-8ba3-4cc2539babf0"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:45:40 GMT",
+        "display_value": "Tre viktiga människor i mitt liv består av min mamma, pappa och lillebror. Varför de är så viktiga beror på att jag älskar de mest av alla människor. Min familj stöttar, älskar mig och är med mig vad som än händer. Dessa är en av de viktigaste anledningarna. \nSå långt tillbaka jag kan minnas i mitt barndom har de alltid skapat de bästa förutsättningarna för mig.  Jag hoppas att det här fortsätter så för mig i fortsättningen. Jag hoppas också att framtidens alla barn får dessa förutsättningar av sina föräldrar, med full av kärlek och stöt.",
+        "modified": "Mon, 26 Sep 2022 08:45:40 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "4e6aeb7a-49b2-42f3-9f54-183236413a65"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00629",
+    "contributor": {
+      "display_name": "Emmy"
+    },
+    "created": "Mon, 26 Sep 2022 08:46:35 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:46:35 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19907",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "92132b66-7c2d-4d48-9396-4f7866458dfc",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:46:35 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:46:35 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "ae675aaf-3a12-47de-a34a-c8c0e0a126af"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:46:35 GMT",
+        "display_value": "Minna tre personer som är viktiga för mig är min mamma, min pappa och min lillasyster. De tre är viktiga för mig för att jag älskar dem, jag har levt med dem hela mitt liv och jag vill inte förlora dem. När jag är med dem så kan det vara från att vi äter middag med varandra eller så kan vi vara på bio.",
+        "modified": "Mon, 26 Sep 2022 08:46:35 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "911e85bd-b263-4e5e-98ea-c9b92dbd525d"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00631",
+    "contributor": {
+      "display_name": "Liam"
+    },
+    "created": "Mon, 26 Sep 2022 08:47:15 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:47:15 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19912",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "d71086ca-3509-45f1-9e7e-a8fc33d87afc",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:47:15 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:47:15 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "02815c0c-ad06-4a8f-9ce6-12c9ec08dabb"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:47:15 GMT",
+        "display_value": "Så tre personer i mitt liv som betyder verkligen mycket för mig är mina vänner Aston, Holger och Björn.Aston och jag har vart bästa kompisar i snart elva år. Medans Holger och jag har varit vänner i snart tre år. Men Björn och jag har vart kompisar i bara ett år och kom ihåg att  alla av oss är födda i 2009\n\nAston han är en väldig envis person bara så att ni förstår hur envis han är , om han tycker om något så tycker han om det i två år, ok nu överdriver jag fast du fattar? Han är också en väldigt skön vän med många samma intresse som mig\n\nHolger, han är fan bäst på matte och (jag skämtar inte ens) han jobbar matte på varje lektion. Han är också super stark. Vi brukar hänga med varandra varje dag i skolan.\n\nBjörn han är en person som skrattar enkelt jag skulle kunna gå upp till honom, stirra i hans ögon och säga \"jag gillar bäpple baj\" ja så där, det kanske ser ut som om det är stavnings fel fast nej. Och att han skulle börja att skratta ur livet av hans kropp. Han, jag och Aston har också börjat att spela Fotnite tillsammans. Det är ett FPS (First Person Shooter) spel där det är en battle royal där man kan också bygga.\n\nHej då!",
+        "modified": "Mon, 26 Sep 2022 08:47:15 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "2814c292-81e0-4c56-8034-afcab49a2b77"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

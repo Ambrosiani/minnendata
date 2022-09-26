@@ -20091,5 +20091,482 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00594",
+    "contributor": {
+      "display_name": "Isabelle"
+    },
+    "created": "Mon, 26 Sep 2022 08:41:48 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:41:48 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19868",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "8990add7-f486-466a-8bee-758b11600b7e",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:41:48 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:41:48 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "e21554df-1331-4be3-8d36-8be7f1be09cc"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:41:48 GMT",
+        "display_value": "Jag bor kanske i Frankrike med en pudel eller tax och så kommer jag nog jobba med design eller något liknande. Eftersom jag är 45 typ så kommer jag troligen vara gift med någon men jag vill inte ha barn för dom är jobbiga och skriker. Jag tror att mycket mer el och elektronik kommer komma till världen och det är för många människor så dom flesta dör väldigt tidigt och så tror jag att bilarna flyger.",
+        "modified": "Mon, 26 Sep 2022 08:41:48 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "2b51c5fe-5bac-48cd-9299-bdcef53004f8"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00596",
+    "contributor": {
+      "display_name": "Holger"
+    },
+    "created": "Mon, 26 Sep 2022 08:42:12 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:42:12 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19872",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "68fd9a84-7d86-4f7f-b3d1-6f90b9a0e7d9",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:42:12 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:42:12 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "2164f9d7-74c1-41bb-8761-d77f4ac0eaba"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:42:12 GMT",
+        "display_value": "2050 kommer jag vara 41 år gammal och förhoppningsvis ha en stabil ekonomi, ett hus en familj med två barn och en sambo. Jag vet inte vad jag kommer jobba med och jag vet inte vad jag vill jobba med men jag kanske blir lärare, spelprogrammerare eller forskare. \n\nForskningen kommer ha kommit långt med GENmodifiering, veganskt kött, AI, robotar, metaverse och sjukvården. Krigen kommer förhoppningsvis vara över och dom flesta diktaturer vara borta. Eller så är menskligheten förintad av aliens, global uppvärmning, asteroid eller av AI.",
+        "modified": "Mon, 26 Sep 2022 08:42:12 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "b29c5728-c3d3-4f6c-90c8-b51e5cf4b46c"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00598",
+    "contributor": {
+      "display_name": "William"
+    },
+    "created": "Mon, 26 Sep 2022 08:43:35 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:43:35 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19878",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "3b6802b0-075e-41bc-a385-6fcf251a2268",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:43:35 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:43:35 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "431f4c77-c51a-4f1a-89b1-d4b0be5eb469"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:43:35 GMT",
+        "display_value": "Året 2050 kommer jag bo i Barcelona, Spanien. Jag bor där för att jag är fotbollstränare för FC Barcelona. \n\nMitt hus är 400 kvadratmeter varav en fem manna fotbollsplan och en pool och en bubbelpool. Huset ser väldigt modernt ut med moderna möbler. Husets värde är på cirka 20 miljoner kronor.\n\nJag har ett stort intresse för bilar, jag har 2 Bugatti och 1 Lamborghini.\n\n\nJag har en fru, två söner och en dotter. Min fru heter Alice och är 38 år,  hon jobbar med att vara modell. Min äldsta son heter Axel och är 13 år, han spelar i Barcelonas fotbollsakademi. Min andra son heter Kasper och är 10 år, även han spelar i Barcelonas fotbollsakademi. Till sist har jag min käraste dotter Emma som är 8 år och hon är familjens diamant.\n\nI staden Barcelona är det väldigt varmt för att klimatet blir värre och värre och det händer ofta att det är skogsbränder. Det innebär att man måste nästan ha aircondition, vilket leder i sin tur att man måste lägga ner rätt mycket pengar på det.\n\nMina barn går i skolan La Masia. Där får man träna fotboll samtidigt som du bor och går i skolan där.\n\nEfter ett tufft år vinner jag champions league med FC Barcelona och blir utsedd till årets bästa tränare.\n\nMin hobby är att spela fotboll med kompisar och att äta god mat som till exempel hamburgare och sushi. Min bästa kompis heter Pablo Torres. Han är en av mina spelare i FC Barcelona.",
+        "modified": "Mon, 26 Sep 2022 08:43:35 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "8962bca0-5b1c-4b5f-b28e-959224e4de3a"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00600",
+    "contributor": {
+      "display_name": "Björn"
+    },
+    "created": "Mon, 26 Sep 2022 08:44:02 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:44:02 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19883",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "d52bf47c-c838-4bea-94b0-abd634f3855f",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:44:02 GMT",
+        "display_value": "2009 14 okt",
+        "modified": "Mon, 26 Sep 2022 08:44:02 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "effbe1e2-da08-41ae-b083-ad845817d915"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:44:02 GMT",
+        "display_value": "Jag hoppas att vi har löst en del klimatproblem, men inte alla. Venedig och Amsterdam är helt förlorade.  Tåg kommer nog användas mycket, eftersom det går på el.  Jag tror att fattigdom är inte längre en grej, för redan nu minskar siffrorna för fattigdom. Nästan alla bilar kommer vara självkörande och gå på el.\nSjälv bor jag i Seattle, i ett hus i utkanten av storstan. Jag kommer ha typ 3 katter och jobba på ABB:s amerikanska avdelning.  Ännu längre bort fån stan har jag en egen skjutbana.",
+        "modified": "Mon, 26 Sep 2022 08:44:02 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "1bdca2c3-29f5-4cd2-b0f6-19a781ac71be"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00602",
+    "contributor": {
+      "display_name": "Gustav"
+    },
+    "created": "Mon, 26 Sep 2022 08:44:30 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:44:30 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19887",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "679be796-e7dc-46a1-89cb-2fbed57ee559",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:44:30 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:44:30 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "d1785574-e6d3-4e37-a01d-9d688296c835"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:44:30 GMT",
+        "display_value": "När jag föreställer mig mitt liv 2050 så tänker jag mig att jag är en nyligen pensionerad orienterare som har vunnit flera internationella medaljer och vunnit världscupen fyra år på raken. Min hälsa är bra men jag fokuserar mer på min 7 år gamla dotter och min 5 år gamla son. \n\nMan behöver inte fundera lika mycket på miljön längre eftersom att Simon Roxell har kommit på en lösning för att avlägsna koldioxid och andra växthusgaser från jordens atmosfär. \n\nMina föräldrar bor i en mindre lägenhet i centrala Mora, och har hittat en ny hobby i form av boule. \n\nJag tror att mina syskon lever fantastiska liv nere i Småland och båda har precis avslutat sin karriär i längdskidåkning genom att de har vunnit singelmixstafett tillsammans i Holmenkollen, Norge. \nDäremot så fortsätter min lillasyster att jobba som gymnasielärare på Mora skidgymnasium, där hon lär ut längdskidsteknik. \n\nJag själv bor i en stor villa vid Storsjön en bit utanför Östersund. Framsidan av tomten består av en stor grusuppfart som har plats för tre bilar och en vallabuss. \nPå baksidan finns en stor uteplats med en mindre glasinbyggnad, en enorm gräsmatta som sluttar ned mot Storsjön och en stor brygga. På bryggan finns en 32 fot motorbåt och en liten gummibåt. På baksidan finns det även ett litet gästhus på 35 kvadrat med en stor uteplats. \n\nVallabussen har jag på grund av att jag jobbar som vallare för Sveriges landslag i längdskidor. \n\nJag äter en varierad kost med allting vegetariskt på grund av att det har blivit förbjudet att äta kött i Sverige. En vanlig middag skulle kunna vara t.ex. halloumigryta eller soppa och bröd.",
+        "modified": "Mon, 26 Sep 2022 08:44:30 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "8feec3f9-3010-46ec-bfb6-8558e6dd1f14"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00604",
+    "contributor": {
+      "display_name": "Ella"
+    },
+    "created": "Mon, 26 Sep 2022 08:44:58 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:44:58 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19892",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "3672efa3-3598-4204-9286-1e4d3d86072d",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:44:58 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:44:58 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "de23b669-ad05-4d3b-83ec-6f1e88fb3ffa"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:44:58 GMT",
+        "display_value": "I år 2050 är jag 41 år och då tror jag att jag kommer jobba som antingen en läkare eller jobba i ett medicinskt företag.  Jag har nästan alltid tyckt om ämnena kemi och biologi så därför tror jag kommer jobba med det. Fast inte som biolog eller kemist utan bara med de ämnena. Men för att komma dit måste jag först gå klart grundskola och börja och gå ut gymnasiet och universitet.\n\nNär jag blir vuxen och börjar jobba vill jag ha en eller två dagar i veckan som jag kan jobba hemifrån. Resten av dagarna vill jag jobba på min arbetsplats.\n\nJag kommer nog bo i ett fint radhus med två barn och det ska finnas en pool i tomten (poolen ska var varm). Barnen kommer ha egna rum därför att om de bråkar kommer det vara jätte jobbigt att dela rum för de. Jag har inga syskon men jag vet att många syskon bråkar och därför blir det bäst med egna rum. Vi kanske kan köpa/hyra ett hus i Spanien som vi kan stanna länge i under barnens skollov ifall vi är lediga.\n\n\nNågot jag undrar om år 2050 är om man kommer använda sig mer av teknik och robotar och om Apple fortfarande kommer göra nya modeller av datorer, mobiler o.s.v. Om Apple kommer göra nya modeller så tror jag att jag kommer använda en Iphone mobil. Jag har en Iphone nu idag och jag är nöjd med den så därför vill jag ha en år 2050, men om något annat mobilföretag blir större och bättre i funktion och utseende så blir det något annat företaget.\n\nJag har inte bestämt mig helt var jag vill bo men det jag vet är att jag vill bo här i Stockholm och ganska nära stan, men inte så nära att jag hör sirener hela tiden. Det blir nog troligtvis i Nacka därför att det finns fina utsikter på t.ex hav och sjöar.",
+        "modified": "Mon, 26 Sep 2022 08:44:58 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "070b69c4-9039-4383-9338-3a0b1f33bab1"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00606",
+    "contributor": {
+      "display_name": "Aston"
+    },
+    "created": "Mon, 26 Sep 2022 08:45:17 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:45:17 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19896",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "0043e6de-8bb2-45b1-898a-9dfe326a33ed",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:45:17 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:45:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "da9fca75-62c2-4081-902b-064860a44c29"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:45:17 GMT",
+        "display_value": "Jag vet inte. Jag är otroligt rädd om var jag kan komma senare i livet, för att jag vill ha ett stabilt ekonomiskt läge vilket kan vara svårt att få till men det kan också hända att jag blir dränkt i lån eller liknande. \n\nJag vill få ett bra jobb som t. ex advokat. Men det är svårt eftersom det är extremt jobbigt och hårt att studera till. \nJag vet inte vad mer jag kan lägga till här, eftersom jag har ingen idé om hur mitt liv kan se ut om 28 år, jag får extrem ångest när jag tänker på hur mitt liv kommer bli i framtiden.",
+        "modified": "Mon, 26 Sep 2022 08:45:17 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "2be6e49d-83f7-46dc-853b-3b1327480415"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00610",
+    "contributor": {
+      "display_name": "Emmy"
+    },
+    "created": "Mon, 26 Sep 2022 08:46:32 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:46:32 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19906",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "9706534d-8c82-4038-a1de-0db2a4dee36c",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:46:32 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:46:32 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "5cc98bb2-2284-45c2-aefd-a4708149a76f"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:46:32 GMT",
+        "display_value": "Om 28 år (år 2050) tror jag att värden kommer ha sämre klimat, men att människor äter mindre kött och fisk. \n\nJag tror att jag kommer ha en familj och att jag jobbar med människor T.ex advokat eller mäklare. Jag kommer nog bo i Stockholm nära mina föräldrar och min syster. Eftersom att jag är äldre då så tror jag att jag kommer äta middag och lunch senare på dagern.\n\nÅr 2050 tror jag också att det kommer finnas mer uppfinningar. T.ex stora glas kullor som människorna tar sig fram i som i \"Jurassic park\". På grund av att det har blivit så dyrt med visa saker så tror jag att flera människor skaffar mindre barn eller inga barn alls efter som det kan bli svårare att försörja barnen.\n\nJag tror att det kommer bo flera människor i lägenhet då efter som det känns som att det byggs mer och mer lägenheter. Men jag hoppas att jag bor i en villa för jag skulle tycka det var kul.",
+        "modified": "Mon, 26 Sep 2022 08:46:32 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "7b58dd90-64e9-4a15-999e-9bebe4f6e173"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00612",
+    "contributor": {
+      "display_name": "Liam"
+    },
+    "created": "Mon, 26 Sep 2022 08:47:08 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 26 Sep 2022 08:47:08 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19910",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "b7f8a35a-3ee5-4e62-bf73-b39a83856809",
+    "values": [
+      {
+        "created": "Mon, 26 Sep 2022 08:47:08 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 26 Sep 2022 08:47:08 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "3bb99619-31b4-4c2c-9908-0caa27a29ffc"
+      },
+      {
+        "created": "Mon, 26 Sep 2022 08:47:08 GMT",
+        "display_value": "Jag tror att när det är 2050 så kommer jag vara... DÖD, nej nu så skämtar jag fast jag tror att jag kommer bo i en liten lägenhet. Medan vad jag äter har jag ingen aning om, tänk att just nu så finns det mycket skräp mat så jag tror att i framtiden kommer det finnas ännu mera skräpmat. Jag hoppas ändå att man kan köpa nyttig mat för ett lågt pris.\n\n Jag önskar verkligen att jag jobbar med programmering eller för att vara mer specifik spel programmering. Jag har alltid varit intresserad i spel och även just nu så programmerar jag spel i Unity en spelmotor. Jag hoppas också att jag laddar upp videor till en video website.\n\nJag tror också att livet och hur världen ser ut i 2050 så kommer världen vara fylld med koldioxid och det kommer vara extremt varmt, alltså kommer världen vara helt förstörd. Sedan om man kollar på twitter (en sociala media app) så ser man att världen blir mer och mer konstig, mer transsexuella, homosexuella och mer rättighet för kvinnor så om man inte håller med en kvinna så är man sexist. Jag är helt ok om personer ändrar sitt kön eller om man älskar sitt eget kön. Fast jag hatar personer som säger att om man inte håller med de är man en transfob, homofob och alltingfob.",
+        "modified": "Mon, 26 Sep 2022 08:47:08 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d9d09152-3e48-4c9e-a887-2042d4d1d1bf"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
