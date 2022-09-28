@@ -23128,5 +23128,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00649",
+    "contributor": {
+      "display_name": "Samuel"
+    },
+    "created": "Wed, 28 Sep 2022 10:12:31 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 28 Sep 2022 10:12:31 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/19945",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "ecd548ca-7e4a-4812-80c1-0af88ce21e51",
+    "values": [
+      {
+        "created": "Wed, 28 Sep 2022 10:12:31 GMT",
+        "display_value": "2009",
+        "modified": "Wed, 28 Sep 2022 10:12:31 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "d693f9b4-3139-45c1-8963-3479da3aa933"
+      },
+      {
+        "created": "Wed, 28 Sep 2022 10:12:31 GMT",
+        "display_value": "Jag väljer min mamma, pappa, min kompis Edvin.\n\nMin mamma är viktig för mig hon har alltid ställt upp för mig när jag har känt mig nere och om jag har behövt prata.\n\nMin pappa är viktig för att han är min pappa och han köper mycket grejer till mig han är också bra på att laga mat han har  varit kock i 20 år.\n\nMin kompis Edvin han är väldigt viktig för mig för han har varit min kompis sen fyran han går också i min handboll.  Jag vill typ byta skola för att vara med honom han får mig alltid att skratta och bli glad jag har fått mycket skäll för att ha varit med honom.",
+        "modified": "Wed, 28 Sep 2022 10:12:31 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "04635ce9-c017-40a9-8d98-71eed55feb5a"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
