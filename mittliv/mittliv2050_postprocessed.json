@@ -21204,5 +21204,588 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00640",
+    "contributor": {
+      "display_name": "Linus"
+    },
+    "created": "Sun, 02 Oct 2022 10:38:53 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:38:53 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/19997",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "5a96576a-66d6-4c88-a503-d29c1b704ff4",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:38:53 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:38:53 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "2911d2d1-67e5-4612-938f-0485ea530ded"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:38:53 GMT",
+        "display_value": "År 2050 tror jag att mitt liv kommer att vara bra. Jag tror att jag kommer jobba som en ingenjör eller något teknik inriktat yrke. För att jag har fått ett ingenjör jobb har jag gått på KTH. Jag tror att jag kommer leva i en villa någonstans i med en fru och två barn och två katter. Jag tror att jag kommer äta ganska mycket insekter och grönsaker. Man kommer äta insekter för att det finns mycket protein i det och det är lite koldioxidutsläpp när man skapar dem. Men jag tror också att vi fortfarande kommer äta ganska mycket kött. \n\nJag tror att världen kommer se ganska annorlunda ut år 2050. Till exempel att koldioxidutsläpp kommer ha minska väldigt mycket och jag tror också att några kommer leva på mars.",
+        "modified": "Sun, 02 Oct 2022 10:38:53 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "6ce75954-e225-46c4-a46e-2ae066647d3f"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00642",
+    "contributor": {
+      "display_name": "Hugo"
+    },
+    "created": "Sun, 02 Oct 2022 10:39:24 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:39:24 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20002",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "0b4e5234-acd6-4a8b-b61c-758107bf46da",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:39:24 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:39:24 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "f18fad8f-a004-492a-aee9-bbebc24396e8"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:39:24 GMT",
+        "display_value": "I mitt liv 2050 så kommer jag att vara en programmerare i ett multimiljon företag i USA. Jag kommer bo i en lägenhet i new york city med 4 katter, 3 chinchillor, 5 kaniner och 2 hundar.\nJag kommer bo med min bästa kompis som jobbar med samma sak som mig. När vi har jobbat klart så sätter vi oss i soffan och tittar på film.  Annars så går ut och äter på resturang, går till baren eller en fest.",
+        "modified": "Sun, 02 Oct 2022 10:39:24 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "2e278efb-55fd-484e-b548-d819ae8997e3"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00644",
+    "contributor": {
+      "display_name": "Alfred"
+    },
+    "created": "Sun, 02 Oct 2022 10:39:54 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:39:54 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20007",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "3645a08a-b506-4e2f-aa5f-b92ab1991521",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:39:54 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:39:54 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "a22f8cbf-0de4-43e7-bbf9-fcb3b3843a5c"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:39:54 GMT",
+        "display_value": "Hej, Jag ska berätta om vad jag tror mitt liv kommer se ut som i 2050.  Jag tror att jag kommer ha ett rätt så bra jobb och att jag har två barn och en fru och att vi har ett normalt liv att vi kan njuta av det och att våra barn får en bra uppväxt jag kommer att se till att mina barn har det bra och gör så att de kämpar i skolan. Men jag ska inte tvinga dom att spela någon sport eller något sånt de ska få ha den bästa barndomen de kan få och så lever de kvar medans vi är döda och ligger i marken vilket tråkigt nog kommer hända. När jag är ung så kommer jag däremot behöva ta hand om mina föräldrar när de blir lite äldre och då kommer det vara rätt så jobbigt men det är en liten tjänst som jag får göra för att de tog hand om mig när jag var mindre.\n\nDen andra delen av mig vill bara ha det skönaste livet jag kan ha genom att investera i aktier och åka utomlands och bara njuta och ha ett dröm liv. Skaffa tjej och ha ett bra liv tillsammans och kanske skaffa ett barn för att få super mycket glädje i livet och känna att någon kommer kunna ha en familj efter dig och så fortsätter det så i hela generationer tills att mänskligheten dör ut vilket det säkert kommer göra om vi fortsätter behandla våran planet så här.\n\nOm jag ska vara rätt brutal så tror jag att jorden kommer ha gått under eftersom vi inte tar hand om den och bara slösar alla resurser vi har och när allt det är slut så kommer alla bli galna för att överleva och då kommer apokalypsen starta och då kommer jorden förstöras för att alla blir galna för att överleva och det kommer bara vara krig och många kommer vara rädda från att gå ut från sitt hus. Men tillslut så går jorden sönder och alla dör för att allt är fullt med radioaktivitet.",
+        "modified": "Sun, 02 Oct 2022 10:39:54 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "087bcdde-ac93-4722-b630-464faf1be8b3"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00646",
+    "contributor": {
+      "display_name": "Martin"
+    },
+    "created": "Sun, 02 Oct 2022 10:40:27 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:40:27 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20010",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "855e6add-b5f8-47b5-ac42-f2bfb7a7afda",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:40:27 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:40:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "488e815b-987e-4232-ba49-a16835da4896"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:40:27 GMT",
+        "display_value": "Året 2050 kommer jag vara 41 år gamma och tror jag att jag bor i en dyr villa i Blekinge.  Jag tror även att jag kommer ha två barn en dotter och en son. Helst så vill jag också ha en fruga.  Mina barn kommer vara ganska unga dottern kommer vara 13 och sonen 11.\n\nJag tror att jag har fått en ekonomisk högskoleutbildning efter som jag gärna vill jobba som finans mäklare. Annars tror jag att jag kommer jobba som IT-tekniker efter som datorer intresserar mig och det är något jag skulle vilja jobba med.\n\nJag anar att världen kommer se relativt likadan ut förutom all ny teknologi som jag tror kommer vara mycket mer miljövänliga. \nJag kommer med stor sannolikhet ha slutat spelat handboll eftersom min kropp inte skulle ha orkat.  Det är dock väldigt möjligt att jag spelar tennis eftersom det är en mindre fysisk sport.\n\nJag anar att jag kommer äta ungefär samma saker som jag äter idag mycket kött potatis och grönsaker. Men jag förutspår att jag kommer äta mindre sötsaker som godis eller kakor och bakverk.",
+        "modified": "Sun, 02 Oct 2022 10:40:27 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "0a36d60d-c955-4bc3-b71d-00633111cad8"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00650",
+    "contributor": {
+      "display_name": "Edvin"
+    },
+    "created": "Sun, 02 Oct 2022 10:41:16 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:41:16 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20015",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "36077608-a474-4b3a-9bc5-fd86d21219bc",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:41:16 GMT",
+        "display_value": "2010",
+        "modified": "Sun, 02 Oct 2022 10:41:16 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "911514be-e3ce-47b2-8072-00857112c4a9"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:41:16 GMT",
+        "display_value": "Jag tror att jag kommer bli en forskare som nyss har slutat med fotbollen för att jag har blivit 40 år gammal. 50% av människor kommer att vara lite fattiga och andra 50% kommer att bli ganska rika. Robotar kommer att styra samhället och hjälpa till med jobbet. Det kommer att vara flygande bilar och motorcyklar, nya sporter som t.ex bilfotboll & luftsimning. 75% av skogarna kommer att bli utrotningshotade och fabriker kommer att reproduceras. Det kommer att vara fullt av städer som betyder att vart än man går kommer det att bli tajt. Jag kommer att bo i Spanien i Madrid. Man kommer kunna att ha mobil i handen som är flexibel och man kan göra nästan allting från den. Jag kommer att ha en stor villa. Maten som man äter är likadan som nu. När jag ska ta en liten fritidspaus kommer jag att kolla på min lilla TV-bio och jag kommer att spela en sort av VR som man på riktigt känner saker som händer där inne och man är där inne.",
+        "modified": "Sun, 02 Oct 2022 10:41:16 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "a849ad98-d33c-4601-9dab-18d749526362"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00654",
+    "contributor": {
+      "display_name": "Anastasia "
+    },
+    "created": "Sun, 02 Oct 2022 10:42:16 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:42:16 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20023",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "77a5f1ff-ddea-4ca9-8fc5-001ff3f18816",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:42:16 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:42:16 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "841b504a-fb9f-448b-8e36-8e63e843ce98"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:42:16 GMT",
+        "display_value": "Jag föreställer mig att vara granne med Rania i villaområde.  Min villa ska vara ett vitt och svart modernt hus med många fönster och en vind. Den kommer ha två barnsovrum och ett vuxensovrum med en stor dubbelsäng. Sedan två st gästsovrum med en egen balkong. \nBaksidan kommer vara en stor trädgård med en studsmatta. \n\nJag ska också ha två söner en är 7 år gammal och den andra är och den andra är 14 år.  \nJag tror att jag kommer ha en snäll och omtänksam man som också är väldigt intelligent som jobbar som advokat. \nJag föreställer mig också att jag kommer vara Sveriges bästa veterinär.",
+        "modified": "Sun, 02 Oct 2022 10:42:16 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d5fd5c45-7eef-4ec2-b85d-8461a103d49e"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00656",
+    "contributor": {
+      "display_name": "Helena"
+    },
+    "created": "Sun, 02 Oct 2022 10:42:55 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:42:55 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20028",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "829075a1-f0de-4629-bb4b-f7c6fdfa45cd",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:42:55 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:42:55 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "1b3b3e50-4ddf-4a40-8e23-e1a00e1e5d1d"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:42:55 GMT",
+        "display_value": "I 2050 kommer jag att vara 42/43 år gammal. Då kommer jag troligen att vara en självständig kvinna som har mycket med pengar och en bra man. \n\nJag önskar att bo i en villa någonstans i Sverige tillsammans med min man och våra barn. Eftersom jag vill ha barn när jag är 30 år gammal så kommer mina barn att vara 12 år gamla. Jag ska vara en advokat och ha mycket med pengar för att försörja både mig, mina barn och min man. Vi ska äga två flygande bilar och vi ska också äga en restaurang där folk som vi känner blev anställda. \n\nNär jag vaknar på morgonen för att gå till jobbet så väntar min man på mig i köket med en fin frukost. Vi äter frukosten tillsammans och blir redo till jobbet. Vi kramar våra två barn och lämnar huset i varsin flygande bil.  Jag är på mitt jobb nästan hela dagen och när jag kommer hem så väntar mina barn på mig och tillsammans med min man så åker vi till en bio som har väldigt avancerade 3D glasögon och som visar en hologram film.\n\nVarje helg vill jag besöka mina föräldrar och sova över hos de. Jag ska även bjuda de till mitt hem så ofta som jag kan.",
+        "modified": "Sun, 02 Oct 2022 10:42:55 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "b1cb8ac0-f943-48b4-a310-337bc9b29871"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00658",
+    "contributor": {
+      "display_name": "Albin"
+    },
+    "created": "Sun, 02 Oct 2022 10:43:29 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:43:29 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20031",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "c57f408c-ec60-40e1-af3c-c3a7fca046e9",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:43:29 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:43:29 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "7381e92b-4997-4703-8442-c0264572d317"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:43:29 GMT",
+        "display_value": "År 2050 tror jag att jag kanske är död, för jag vill bli militär, men om jag inte skulle dö eller ha ett annat jobb det skulle nog vara matematiker som min pappa.\nJag skulle bo i Huddinge i en lägenhet kanske en villa om det går riktigt bra med jobbet men , lägenheten skulle nog vara ganska simpel med en toalett, en hall, ett vardags rum, ett sovrum och ett kök.  Jag hoppas att jag hittar en fru och får några barn tillsammans så ska vi bo i ett enkelt hus och trivas.\n\nMina vardagar kanske har förändrats helt så att jag jobbar i USA varje dag men sover i Sverige,då kanske man åker vakuum tåg till USA och har ett labb eller något annat jobb hus där.\n\nvi kanske har lyckats med att transformera koldioxid till bränsle som blir mera miljövänligt när man släpper ut det, jag hoppas att någon lyckas med det för jag vill kunna på jorden i framtiden och jag vill att mina barn och barn,barn och deras barn ska kunna bo på vår planet i framtiden. \nAlla krigen kanske händer online i stället för på vår jord kanske till och med i rymden.",
+        "modified": "Sun, 02 Oct 2022 10:43:29 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "3d5f71b9-4dda-4255-8548-c025a68baa61"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00660",
+    "contributor": {
+      "display_name": "Kilian"
+    },
+    "created": "Sun, 02 Oct 2022 10:43:58 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:43:58 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20035",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "b01e0161-7207-4929-934b-e660a8abcbb9",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:43:58 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:43:58 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "8813618d-62b1-4c5b-83e7-93593c78978f"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:43:58 GMT",
+        "display_value": "År 2050 kommer jag bo i en Villa i Stockholm med mina barn och min fru. Mina barn kommer att heta Fred och Melissa. innan år 2050 så har jag utbildat mig som advokat och på år 2050 så  har jag nog arbetat som advokat i 13 år tror jag.\n\n Varje fredag så ska min familj äta tacos. När det är sommar och vi inte ska resa till ett land då tycker jag att min familj ska på Gröna lund och det tycker jag låter rimligt. \n\nInnan år 2050 så ville jag ha en familj efter min advokat utbildning, Inte direkt efter men typ ett år efter min utbildning. Allt det där låter det som att mitt liv i 2050 låter fantastiskt, jag skulle vara super tacksam över det. \n\nOm jag får en pojke då ska han heta Fred och då ska jag träna han i fotboll ganska tidigt , Jag ska börja träna han när han är tre år gammal och sedan ska han börja på fotboll när han är sju och då ska han börja på fotbolls föreningen djurgården då ska han börja på ett lag där all barn är lika gamla och jag skulle bli väldigt stolt av Fred om han blir en fotbolls spelare när han blir vuxen, men jag tvingar inte honom till att spela fotboll, han kan ha fotboll som andra jobb om han har misslyckat sitt första jobb. Om jag också får en flicka då får hon göra vad hon vill och vad än hon väljer så kommer jag hjälpa henne med det och när hon blir vuxen och får sitt jobb så kommer jag bli stolt över henne. Det var det jag trodde mitt liv kommer bli år 2050 och jag hoppas att det här livet händer år 2050.",
+        "modified": "Sun, 02 Oct 2022 10:43:58 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "081edce6-026d-4849-a203-4b2a4afc2912"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00662",
+    "contributor": {
+      "display_name": "Henning"
+    },
+    "created": "Sun, 02 Oct 2022 10:44:32 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:44:32 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20039",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6d8a005f-20de-4f72-acd0-6f6edbca9bbf",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:44:32 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:44:32 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "178eef6e-01ec-41dd-946d-3b02bb522441"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:44:32 GMT",
+        "display_value": "2050 kommer jag vara 41 år gammal och jag tror att jag kommer vara miljardär.  Troligen kommer jag ha pluggat IT och programmering. Jag gissar att jag kommer ha gjort ett jättepopulärt spel där man spelar som en kyckling som springer runt och skjuter ägg på andra spelare som också är kycklingar.  Det spelet kommer ha gjort mig rik. Efter att ha utvecklat spelet kommer jag ha startat ett nytt företag som gör stora robotar som är till för att åka ut i rymden och börja kolonisera andra planeter och till slut ta över vårt solsystem. Jag tror att jag efter det kommer bli kung över välden för att folket gillar mina uppfinningar så mycket. \n\nI världen tror jag att det inte längre kommer finnas fattigdom eller svält för att jag kommer att ha löst allt. Jag gissar också på att det inte kommer vara några krig på jorden längre utan bara krig mellan olika planeter och utomjordingar. Världen kommer nog vara väldigt modern och väldigt högteknologisk. \n\nEftersom att jag troligen kommer vara väldigt rik så kommer jag nog bo i en gigantisk rymdstation där man kan se ner på jorden. I rymdstationen tror jag att jag kommer ha en egen biosalong med högtalare överallt så att det är jättebra ljud och alla filmer jag någonsin skulle kunna önska mig.  Jag tror att jag också kommer ha ett spelrum med massa datorer, spelkonsoler, arkadspel och till och med flipperspel. Sen tror jag också att jag kommer ha ett biljardbord och ett Air Hockeybord. Jag skulle också gissa på att jag kommer ha en inomhuspool, gokartbana, bergochdalbana och en hel sektion av rymdstationen där mina närmsta vänner kan bo.\n\nPå min fritid tror jag att jag kommer vara mycket med mina vänner. Vi kommer nog göra massa olika roliga grejer i min rymdstation som att åka bergochdalbana. Jag tror att jag kommer jobba ganska mycket med nya TV och data spel och uppfinningar som kan göra mig rikare. Kanske att jag kommer åka runt mycket i rymden och leta efter nya planeter och besöka dom andar planeterna i solsystemet.\n\nMin gissning är att man kommer äta 3d printad mat, att man kommer han en printer som kan trycka ihop atomer och printa ut mat. Så istället för att ha en massa djur som släpper ut koldioxid och åkrar som tar upp en massa plats eller att man skövlar regnskog för att plantera saker så kan man printa maten.",
+        "modified": "Sun, 02 Oct 2022 10:44:32 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "252f126c-6e57-423a-9a33-b276e922a1fb"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00664",
+    "contributor": {
+      "display_name": "Anton"
+    },
+    "created": "Sun, 02 Oct 2022 10:44:57 GMT",
+    "license": "CC BY",
+    "modified": "Sun, 02 Oct 2022 10:44:57 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20043",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6b5649c8-529b-4c2d-9221-b2cd55cbbf7f",
+    "values": [
+      {
+        "created": "Sun, 02 Oct 2022 10:44:57 GMT",
+        "display_value": "2009",
+        "modified": "Sun, 02 Oct 2022 10:44:57 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "a003daa3-133f-4ee6-95d2-a0e31d4cbb79"
+      },
+      {
+        "created": "Sun, 02 Oct 2022 10:44:57 GMT",
+        "display_value": "År 2050 är jag 41 år och då hoppas jag att jag precis har lagt av med handbollen som har varit mitt jobb i nästan hela mitt vuxna liv. Under min karriär hoppas jag att jag har utbildat mig till sjukgymnast så att jag kan jobba med eller att jag kan jobba med något inom handbollen. Men för att bli handbollsproffs måste jag komma in på ett handbollsgymnasium. Det finns 4-5 stycken i Stockholm där jag bor och jag hoppas att jag kan komma in på något av dem. Men det krävs mycket träning och mycket tid för att komma dit. \n\nJag hoppas också att jag har familj med fru och barn och kanske ett husdjur. Det kommer nog vara lite varmare globalt än idag och det kommer också vara vanligare med värmeböljor i Europa tror jag. Jag hoppas att jag bor i en villa med min familj och om jag skulle få bestämma så vill jag ha havs/sjöutsikt från fönstret/balkongen. Man kommer nog generellt äta lite mer vegetariskt och kanske lite mer veganskt så jag kommer nog också äta mer vegetariskt.",
+        "modified": "Sun, 02 Oct 2022 10:44:57 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "8fb80a0e-e82e-4344-94b8-b4b0680b526c"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
