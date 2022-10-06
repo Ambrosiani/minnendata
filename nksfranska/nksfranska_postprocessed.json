@@ -1856,42 +1856,6 @@
     "uuid": "231716d0-62db-4d0f-bac9-98c471b18c71"
   },
   {
-    "archive_code": "M4/00027",
-    "contributor": {
-      "display_name": "Susanne Linde"
-    },
-    "created": "Tue, 16 Aug 2022 09:27:30 GMT",
-    "license": "CC BY",
-    "modified": "Tue, 16 Aug 2022 09:27:30 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/19859",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "1f03c893-ba23-473c-88e1-c724706386c5",
-    "values": [
-      {
-        "created": "Tue, 16 Aug 2022 09:27:30 GMT",
-        "display_value": "Min svärmors mamma Signe Lovisa Petterson jobbade en tid på NKs Franska. \nSigne var född 10 maj 1894 i Jönköping och avled i Stockholm 1 februari 1947. \n\nEfter tiden på NKs Franska öppnade Signe en egen verksamhet - Hats & Frocks på Kommendörsgatan i Stockholm. \n\nSignes lägenhet var i två plan. Hon hade sin privata bostad på nedervåningen och på övre plan var det ateljé med anställda sömmerskor. \n\nSignes verksamhet gick mycket bra. Hon hade både betjänt och hisspojke. \nBetjänten hette James men tyvärr inte speciellt laglydig. Han fick sparken efter stölder av silver och en del dyrgripar. \nHisspojken var klädd i uniform med en mössa broderad med Hats & Frocks. Hans uppgift var att trycka på hissknappen när kunderna kom på besök. \n\nBland Signes trogna kunder fanns Sickan Carlsson, Inga Tidblad och Märta Philipson. \n\nVid ett tillfälle behövde Märta Philipson en galaklänning snabbt. Det fanns inget passande tyg att tillgå så Signe rev ner gardinerna i sin matsal och sydde av dem en kreation. Kunden blev mycket nöjd. \nVid ett annat tillfälle saknades det en övre del till en hatt. Signe tog då saltströaren i silver och sydde fast den som pricken över i!\n\nStörst uppmärksamhet fick Signe när hon sydde en kreation till Drottning Astrid av Belgien (f d prinsessan Astrid av Sverige). \nVid ett besök i Sverige frågade veckopressen Drottning Astrid vem som hade skapat hennes kläder och hatt och svaret blev Signe Petterson på Hats & Frocks. Efter det gick verksamheten ännu bättre och nya kunder strömmade till. \n\nVarje år körde Signe sin bil - en Buick - till Paris för att handla tyger, knappar och annat modematerial till sin verksamhet. Ganska ovanligt för en kvinna på 30-40talet!\n\nSigne tog även emot finska barn under Finska Vinterkriget. \n\nSigne födde ett s k oäkta barn 1922 - min svärmors mamma Kerstin (Linde). \nDottern adopterades bort till Signes syster Lotta (Ruth) och hennes man som var barnlösa. \n\nSigne hade kontinuerlig kontakt med sin dotter som kallade henne moster Signe. \nPå Signes dödsbädd kallade Kerstin henne mamma för första gången. \n\nSigne avled i cancer 1947 endast 52 år gammal. \nAffärerna hade före det gått sämre pga andra världskriget. \n\nKuriosa - min dotter döptes till Lovisa. Vi var då ovetande om att Signe hette Lovisa i andra namn. \nSå Signe Lovisas barnbarnsbarn heter Lovisa (Linde)! Hon bor i Stockholm och är en lika framåt och kreativ kvinna som sin farmors mor. Förutom hennes kreativitet och konstnärlighet är Lovisa Linde lokförare. Lovisa är född 1990. \n\nSusanne Linde\nÖstra Nygatan 6B \nArboga \nlinde@telia.com\n070-2211040",
-        "modified": "Tue, 16 Aug 2022 09:27:30 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "uuid": "f6375e49-4781-479e-b8d7-ec0b478651df"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00026",
     "contributor": {
       "display_name": "Marie Rosvall"
@@ -1937,5 +1901,41 @@
       "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
     },
     "uuid": "83ec7082-e4b1-41e9-92bd-4e6898533638"
+  },
+  {
+    "archive_code": "M4/00027",
+    "contributor": {
+      "display_name": "Susanne Linde"
+    },
+    "created": "Tue, 16 Aug 2022 09:27:30 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 16 Aug 2022 09:27:30 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/19859",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "1f03c893-ba23-473c-88e1-c724706386c5",
+    "values": [
+      {
+        "created": "Tue, 16 Aug 2022 09:27:30 GMT",
+        "display_value": "Min svärmors mamma Signe Lovisa Petterson jobbade en tid på NKs Franska. \nSigne var född 10 maj 1894 i Jönköping och avled i Stockholm 1 februari 1947. \n\nEfter tiden på NKs Franska öppnade Signe en egen verksamhet - Hats & Frocks på Kommendörsgatan i Stockholm. \n\nSignes lägenhet var i två plan. Hon hade sin privata bostad på nedervåningen och på övre plan var det ateljé med anställda sömmerskor. \n\nSignes verksamhet gick mycket bra. Hon hade både betjänt och hisspojke. \nBetjänten hette James men tyvärr inte speciellt laglydig. Han fick sparken efter stölder av silver och en del dyrgripar. \nHisspojken var klädd i uniform med en mössa broderad med Hats & Frocks. Hans uppgift var att trycka på hissknappen när kunderna kom på besök. \n\nBland Signes trogna kunder fanns Sickan Carlsson, Inga Tidblad och Märta Philipson. \n\nVid ett tillfälle behövde Märta Philipson en galaklänning snabbt. Det fanns inget passande tyg att tillgå så Signe rev ner gardinerna i sin matsal och sydde av dem en kreation. Kunden blev mycket nöjd. \nVid ett annat tillfälle saknades det en övre del till en hatt. Signe tog då saltströaren i silver och sydde fast den som pricken över i!\n\nStörst uppmärksamhet fick Signe när hon sydde en kreation till Drottning Astrid av Belgien (f d prinsessan Astrid av Sverige). \nVid ett besök i Sverige frågade veckopressen Drottning Astrid vem som hade skapat hennes kläder och hatt och svaret blev Signe Petterson på Hats & Frocks. Efter det gick verksamheten ännu bättre och nya kunder strömmade till. \n\nVarje år körde Signe sin bil - en Buick - till Paris för att handla tyger, knappar och annat modematerial till sin verksamhet. Ganska ovanligt för en kvinna på 30-40talet!\n\nSigne tog även emot finska barn under Finska Vinterkriget. \n\nSigne födde ett s k oäkta barn 1922 - min svärmors mamma Kerstin (Linde). \nDottern adopterades bort till Signes syster Lotta (Ruth) och hennes man som var barnlösa. \n\nSigne hade kontinuerlig kontakt med sin dotter som kallade henne moster Signe. \nPå Signes dödsbädd kallade Kerstin henne mamma för första gången. \n\nSigne avled i cancer 1947 endast 52 år gammal. \nAffärerna hade före det gått sämre pga andra världskriget. \n\nKuriosa - min dotter döptes till Lovisa. Vi var då ovetande om att Signe hette Lovisa i andra namn. \nSå Signe Lovisas barnbarnsbarn heter Lovisa (Linde)! Hon bor i Stockholm och är en lika framåt och kreativ kvinna som sin farmors mor. Förutom hennes kreativitet och konstnärlighet är Lovisa Linde lokförare. Lovisa är född 1990. \n\nSusanne Linde\nÖstra Nygatan 6B \nArboga \nlinde@telia.com\n070-2211040",
+        "modified": "Tue, 16 Aug 2022 09:27:30 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "uuid": "f6375e49-4781-479e-b8d7-ec0b478651df"
+      }
+    ]
   }
 ]
