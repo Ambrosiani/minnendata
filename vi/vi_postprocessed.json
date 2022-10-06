@@ -567,6 +567,95 @@
     ]
   },
   {
+    "archive_code": "M5/00007",
+    "contributor": {
+      "display_name": "Wiktor Raldow"
+    },
+    "created": "Thu, 14 Oct 2021 07:48:57 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Thu, 14 Oct 2021 07:39:03 GMT",
+        "dms_id": "013AitqSfs2x",
+        "license": "CC BY-NC",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Thu, 14 Oct 2021 07:39:03 GMT",
+        "name": "Levnadsberättelse juni 2021.docx",
+        "order_by_number": 1,
+        "owner": "Wiktor Raldow",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "596a4047-eb21-4154-b055-cfd75cc34e87"
+      }
+    ],
+    "modified": "Thu, 14 Oct 2021 07:48:57 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/17352",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "52b958e3-cc0d-4c2c-afac-d2f4bc513d7c",
+    "values": [
+      {
+        "created": "Thu, 14 Oct 2021 07:48:57 GMT",
+        "display_value": "",
+        "modified": "Thu, 14 Oct 2021 07:48:57 GMT",
+        "topic_item": {
+          "label": "Din levnadsberättelse",
+          "label_i18n": {
+            "sv": "Din levnadsberättelse"
+          },
+          "type": "Textarea",
+          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "e9dd8a31-3c51-4286-bbd0-d7ec40114d1b"
+      },
+      {
+        "created": "Thu, 14 Oct 2021 07:48:57 GMT",
+        "display_value": "11 juni 1969",
+        "modified": "Thu, 14 Oct 2021 07:48:57 GMT",
+        "topic_item": {
+          "label": "Ankomstdatum till Sverige:",
+          "label_i18n": {
+            "sv": "Ankomstdatum till Sverige:"
+          },
+          "type": "Textarea",
+          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "0c7ac0f2-a1b2-4c80-a5bf-774ebe27b0ed"
+      },
+      {
+        "created": "Thu, 14 Oct 2021 07:48:57 GMT",
+        "display_value": "Lodz",
+        "modified": "Thu, 14 Oct 2021 07:48:57 GMT",
+        "topic_item": {
+          "label": "Tidigare bostadsorter:",
+          "label_i18n": {
+            "sv": "Tidigare bostadsorter:"
+          },
+          "type": "Textarea",
+          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "940b5a95-a891-4595-bce9-5b405a62cd24"
+      }
+    ]
+  },
+  {
     "archive_code": "M5/00012",
     "contributor": {
       "birth_year": 1950,
@@ -702,95 +791,6 @@
           "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
         },
         "uuid": "1689e816-8f1f-472f-888a-577e4f637aee"
-      }
-    ]
-  },
-  {
-    "archive_code": "M5/00007",
-    "contributor": {
-      "display_name": "Wiktor Raldow"
-    },
-    "created": "Thu, 14 Oct 2021 07:48:57 GMT",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Thu, 14 Oct 2021 07:39:03 GMT",
-        "dms_id": "013AitqSfs2x",
-        "license": "CC BY-NC",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Thu, 14 Oct 2021 07:39:03 GMT",
-        "name": "Levnadsberättelse juni 2021.docx",
-        "order_by_number": 1,
-        "owner": "Wiktor Raldow",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "596a4047-eb21-4154-b055-cfd75cc34e87"
-      }
-    ],
-    "modified": "Thu, 14 Oct 2021 07:48:57 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/17352",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "52b958e3-cc0d-4c2c-afac-d2f4bc513d7c",
-    "values": [
-      {
-        "created": "Thu, 14 Oct 2021 07:48:57 GMT",
-        "display_value": "",
-        "modified": "Thu, 14 Oct 2021 07:48:57 GMT",
-        "topic_item": {
-          "label": "Din levnadsberättelse",
-          "label_i18n": {
-            "sv": "Din levnadsberättelse"
-          },
-          "type": "Textarea",
-          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "e9dd8a31-3c51-4286-bbd0-d7ec40114d1b"
-      },
-      {
-        "created": "Thu, 14 Oct 2021 07:48:57 GMT",
-        "display_value": "11 juni 1969",
-        "modified": "Thu, 14 Oct 2021 07:48:57 GMT",
-        "topic_item": {
-          "label": "Ankomstdatum till Sverige:",
-          "label_i18n": {
-            "sv": "Ankomstdatum till Sverige:"
-          },
-          "type": "Textarea",
-          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "0c7ac0f2-a1b2-4c80-a5bf-774ebe27b0ed"
-      },
-      {
-        "created": "Thu, 14 Oct 2021 07:48:57 GMT",
-        "display_value": "Lodz",
-        "modified": "Thu, 14 Oct 2021 07:48:57 GMT",
-        "topic_item": {
-          "label": "Tidigare bostadsorter:",
-          "label_i18n": {
-            "sv": "Tidigare bostadsorter:"
-          },
-          "type": "Textarea",
-          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "940b5a95-a891-4595-bce9-5b405a62cd24"
       }
     ]
   },
