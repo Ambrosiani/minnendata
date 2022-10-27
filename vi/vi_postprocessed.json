@@ -241,110 +241,6 @@
     ]
   },
   {
-    "archive_code": "M5/00006",
-    "contributor": {
-      "display_name": "Ewa Gutniak"
-    },
-    "coordinates": "",
-    "created": "Mon, 11 Oct 2021 11:16:11 GMT",
-    "image_dms_id": "013AitqLjF6P",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Mon, 11 Oct 2021 11:44:05 GMT",
-        "description": "Marstrand 1969",
-        "dms_id": "013AitqLjF6P",
-        "image_height": 2892,
-        "image_ratio": 0.7143845089903181,
-        "image_width": 2066,
-        "license": "CC BY-NC",
-        "mime_type": "image/jpeg",
-        "modified": "Mon, 11 Oct 2021 11:44:05 GMT",
-        "name": "Marstrand porträtt 1.jpg",
-        "order_by_number": 1,
-        "owner": "Mark Gutniak",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "image",
-        "uuid": "5bdf085b-4bcc-4507-b86f-4508aa313276"
-      },
-      {
-        "created": "Mon, 11 Oct 2021 11:13:42 GMT",
-        "dms_id": "013AitqLjEwh",
-        "license": "CC BY-NC",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Mon, 11 Oct 2021 11:13:42 GMT",
-        "name": "Levnadsberättelse till Nordiska museet  6 maj 2021.docx",
-        "order_by_number": 1,
-        "owner": "Ewa Gutniak",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "af8fea2f-8ff5-4d42-b59f-b03a87845d6e"
-      }
-    ],
-    "modified": "Thu, 14 Oct 2021 12:21:01 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/17317",
-    "published": true,
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "fd88690a-a0b3-4f22-a9db-970cefd7a5f9",
-    "values": [
-      {
-        "created": "Mon, 11 Oct 2021 11:16:11 GMT",
-        "display_value": "8 oktober 1969",
-        "modified": "Mon, 11 Oct 2021 11:16:11 GMT",
-        "topic_item": {
-          "label": "Ankomstdatum till Sverige:",
-          "label_i18n": {
-            "sv": "Ankomstdatum till Sverige:"
-          },
-          "type": "Textarea",
-          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "fbc184b6-b3b9-42a0-99d8-d991d27a8682"
-      },
-      {
-        "created": "Mon, 11 Oct 2021 11:16:11 GMT",
-        "display_value": "Warszawa",
-        "modified": "Mon, 11 Oct 2021 11:16:11 GMT",
-        "topic_item": {
-          "label": "Tidigare bostadsorter:",
-          "label_i18n": {
-            "sv": "Tidigare bostadsorter:"
-          },
-          "type": "Textarea",
-          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "80fd0afb-f487-47c4-9a1d-d6d439bccb42"
-      }
-    ]
-  },
-  {
     "archive_code": "M5/00012",
     "contributor": {
       "birth_year": 1950,
@@ -480,6 +376,110 @@
           "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
         },
         "uuid": "1689e816-8f1f-472f-888a-577e4f637aee"
+      }
+    ]
+  },
+  {
+    "archive_code": "M5/00006",
+    "contributor": {
+      "display_name": "Ewa Gutniak"
+    },
+    "coordinates": "",
+    "created": "Mon, 11 Oct 2021 11:16:11 GMT",
+    "image_dms_id": "013AitqLjF6P",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 11 Oct 2021 11:44:05 GMT",
+        "description": "Marstrand 1969",
+        "dms_id": "013AitqLjF6P",
+        "image_height": 2892,
+        "image_ratio": 0.7143845089903181,
+        "image_width": 2066,
+        "license": "CC BY-NC",
+        "mime_type": "image/jpeg",
+        "modified": "Mon, 11 Oct 2021 11:44:05 GMT",
+        "name": "Marstrand porträtt 1.jpg",
+        "order_by_number": 1,
+        "owner": "Mark Gutniak",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "image",
+        "uuid": "5bdf085b-4bcc-4507-b86f-4508aa313276"
+      },
+      {
+        "created": "Mon, 11 Oct 2021 11:13:42 GMT",
+        "dms_id": "013AitqLjEwh",
+        "license": "CC BY-NC",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Mon, 11 Oct 2021 11:13:42 GMT",
+        "name": "Levnadsberättelse till Nordiska museet  6 maj 2021.docx",
+        "order_by_number": 1,
+        "owner": "Ewa Gutniak",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "af8fea2f-8ff5-4d42-b59f-b03a87845d6e"
+      }
+    ],
+    "modified": "Thu, 14 Oct 2021 12:21:01 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/17317",
+    "published": true,
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "fd88690a-a0b3-4f22-a9db-970cefd7a5f9",
+    "values": [
+      {
+        "created": "Mon, 11 Oct 2021 11:16:11 GMT",
+        "display_value": "8 oktober 1969",
+        "modified": "Mon, 11 Oct 2021 11:16:11 GMT",
+        "topic_item": {
+          "label": "Ankomstdatum till Sverige:",
+          "label_i18n": {
+            "sv": "Ankomstdatum till Sverige:"
+          },
+          "type": "Textarea",
+          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "fbc184b6-b3b9-42a0-99d8-d991d27a8682"
+      },
+      {
+        "created": "Mon, 11 Oct 2021 11:16:11 GMT",
+        "display_value": "Warszawa",
+        "modified": "Mon, 11 Oct 2021 11:16:11 GMT",
+        "topic_item": {
+          "label": "Tidigare bostadsorter:",
+          "label_i18n": {
+            "sv": "Tidigare bostadsorter:"
+          },
+          "type": "Textarea",
+          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "80fd0afb-f487-47c4-9a1d-d6d439bccb42"
       }
     ]
   },
