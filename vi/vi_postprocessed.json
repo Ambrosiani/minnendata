@@ -1307,8 +1307,13 @@
   {
     "archive_code": "M5/00015",
     "contributor": {
-      "display_name": "Martin Englund"
+      "birth_year": 1946,
+      "display_name": "Aleksander Ratz",
+      "gender": "man",
+      "place": "Stockholm",
+      "uuid": "47e86485-dec7-4774-947e-77e9e0acabcf"
     },
+    "coordinates": "",
     "created": "Thu, 10 Nov 2022 15:40:52 GMT",
     "license": "CC BY",
     "media": [
@@ -1333,10 +1338,14 @@
         "uuid": "790d63a8-c092-4d57-a148-c3a512025cf0"
       }
     ],
-    "modified": "Thu, 10 Nov 2022 15:40:52 GMT",
+    "modified": "Thu, 17 Nov 2022 12:58:11 GMT",
     "presentation_url": "https://minnen.se/tema/vi/20121",
     "published": true,
     "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
     "topic": {
       "name": "Vi, de fördrivna",
       "name_i18n": {
