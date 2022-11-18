@@ -41547,5 +41547,26 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00580",
+    "contributor": {
+      "display_name": "Jörgen Löwenfeldt"
+    },
+    "created": "Fri, 18 Nov 2022 11:01:07 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 18 Nov 2022 11:01:07 GMT",
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/20156",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2ddca594-9fe6-4f87-a115-2221f465d01a",
+    "hasCoordinates": false
   }
 ]
