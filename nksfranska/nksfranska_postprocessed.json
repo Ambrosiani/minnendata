@@ -1937,5 +1937,41 @@
         "uuid": "f6375e49-4781-479e-b8d7-ec0b478651df"
       }
     ]
+  },
+  {
+    "archive_code": "M4/00029",
+    "contributor": {
+      "display_name": "Pia Hähnel"
+    },
+    "created": "Tue, 13 Dec 2022 09:49:25 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 13 Dec 2022 09:49:25 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/20230",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "bc79b01d-7a6d-4928-96b5-07664c91cf1e",
+    "values": [
+      {
+        "created": "Tue, 13 Dec 2022 09:49:25 GMT",
+        "display_value": "Min mormor Gurli Andersson, senare gift Lindberg, född 1902 reste som ung på 1920-talet till Paris för att utbilda sig till sömmerska och pälssömmerska.\nUnder utbildningen lärde hon sig allt om textilier, tillskärning och sömnad.  Både för damer och herrar.\n\nJag minns att hon berättade för mig hur hon vid mått-tagningen skulle fråga herrarna: \"Vous porter a gauche ou a droite, Monsieur?\" för att byxan skulle falla snyggt i grenen. På den tiden fanns ju inte de kroppsnära kalsonger som bärs idag utan de var sådana där så att säga kronjuvelerna hängde fritt.\n\nNär Gurli var färdig med utbildningen fick hon anställning på NK's Franska damskrädderi och arbetade där i flera år.\n\nPia Hähnel \nBarnbarn",
+        "modified": "Tue, 13 Dec 2022 09:49:25 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "uuid": "2f0fc2c6-df79-436e-8457-140199bdd5d1"
+      }
+    ]
   }
 ]
