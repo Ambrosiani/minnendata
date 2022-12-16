@@ -92788,5 +92788,72 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00863",
+    "contributor": {
+      "display_name": "Ville"
+    },
+    "created": "Fri, 16 Dec 2022 11:41:27 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 16 Dec 2022 11:41:27 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20254",
+    "published": true,
+    "school_uuid": "d9e182b5-130a-4655-95ce-7948337e4127",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "eb022b7d-a46f-4478-9c9a-944bae44edf2",
+    "values": [
+      {
+        "created": "Fri, 16 Dec 2022 11:41:27 GMT",
+        "display_value": "120",
+        "modified": "Fri, 16 Dec 2022 11:41:27 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "5416c762-6b99-4e7b-afca-377eaa7413f4"
+      },
+      {
+        "created": "Fri, 16 Dec 2022 11:41:27 GMT",
+        "display_value": "Jag bor på Korpholmsvägen 10, Värmdö.\n\nI mitt hem bor också mina föräldrar och min lillebror Harry.\n\nJag har bott i huset sedan jag var ett spädbarn.\n\nMitt hem är ett vanligt hus som har två våningar, en undervåning och en övervåning. Men det är inte som en lägenhet. Vi har ett vardagsrum på undervåningen, två sovrum på övervåningen och ett sovrum på undervåningen, ett kök på undervåningen, ett badrum på undervåningen och ett på övervåningen, en hall på nedre våningen, och en altan på nedre våningen.\n\nSammanlagt skulle jag säga att det finns 6 rum i mitt hus.\nOch ja, jag har ett eget rum, dock så brukade det rummet tillhöra mina föräldrar.\nUtanför mitt fönster ser jag vår parkering, vår granne Anders hus, och backen som man måste ta sig uppför för att komma till mitt hus. Också kan jag se lite av våra grannar Klas och Monikas hus. Och jag kan se lite grann av en trädkoja som är på vår tomt.\nI mitt hem brukar jag kolla på YouTube, och vid några tillfällen kolla på filmer på min TV.\nMin favoritplats i huset är nog mitt rum.\n\nReglerna i mitt hem är följande: Man måste alltid duka undan efter sig när man har ätit färdigt. Man får inte rapa eller prutta vid matbordet, särskilt inte när vi har gäster.\nHemma hjälper jag till med disken och att hämta posten ifrån brevlådan.",
+        "modified": "Fri, 16 Dec 2022 11:41:27 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "bfac15b6-a3cd-403f-aea8-20b0fb3292fd"
+      },
+      {
+        "created": "Fri, 16 Dec 2022 11:41:27 GMT",
+        "display_value": "2007",
+        "modified": "Fri, 16 Dec 2022 11:41:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "87f971c1-0343-4844-aa75-850c7ee39fcf"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
