@@ -92721,5 +92721,72 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00861",
+    "contributor": {
+      "display_name": "Ebba"
+    },
+    "created": "Fri, 16 Dec 2022 11:41:03 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 16 Dec 2022 11:41:03 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20252",
+    "published": true,
+    "school_uuid": "d9e182b5-130a-4655-95ce-7948337e4127",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "8beaac3c-6f81-49ba-b685-86fc43c3d767",
+    "values": [
+      {
+        "created": "Fri, 16 Dec 2022 11:41:03 GMT",
+        "display_value": "122",
+        "modified": "Fri, 16 Dec 2022 11:41:03 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "b970f2d5-a449-46a7-bfc8-6f030afd6c5c"
+      },
+      {
+        "created": "Fri, 16 Dec 2022 11:41:03 GMT",
+        "display_value": "Mina föräldrar bor inte längre med varandra.\n\nHemma hos mamma så bor jag, Ebba 15, min storasyster Ellen 18 år, vår mamma Helen 53 år. Och vår katt Katrin 15 år. Vår lägenhet är ganska stor. I mammas lägenhet har jag bott ganska så länge. Ända sen jag föddes faktiskt.  När man kommer in så är det först en liten hall. Sen så ligger badrummet till höger, det är ganska litet, så man får trängas om man vill in. Eller vänta om det är upptaget. Sen till vänster när man kommer in så är mitt sovrum.  Också det största sovrummet. Bredvid mitt rum så ligger Ellens rum. Våra rum är nästan lika stora. Mitt är lite större. Rakt fram några meter så är vardagsrummet, med matbord. I stället för att ha två sovrum och ett större kök med matbordet i köket så har vi tre sovrum och matbordet i vardagsrummet. Det funkar lika bra. Innan vardagsrummet så ligger då köket. Och bakom köket så ligger mammas sovrum som är det minsta. Vi har fyra rum + kök. Jag sover i mitt rum, min säng står längst med en vägg när man kommer in. Jag har ju ett eget stort rum. När jag och Ellen var mindre å delade vi rum, då hade vi en våningssäng. Jag som är yngre fick ju sova i nedre delen då. Men det var okej för mig. Utanför mitt fönster så är det inte så intressant, det är en baksida med berg. Och så ser jag ett lägenhetshus. Men jag sitter är ändå inte så mycket på mitt rum. Så det är okej. Hemma så brukar jag inte göra så väl mycket. Det är väl mest det vanliga. Som att hjälpa till lite ibland, sova, äta mat. Kolla på tv. Min favoritplats hemma skulle jag nog säga är vår stora L soffa. Jag brukar sitta i den ganska mycket. Jag brukar sitta i det hörnet där den korta delen är. Hemma så har vi inte några regler. Men det är väl ofta så att mamma ber en att ta ut tallriken efter maten och skrapa av den och ställa ner den i diskmaskinen om det är smutsigt i disken. Hemma så brukar jag ofta hjälpa till med att boka tvättid, och hämta post.",
+        "modified": "Fri, 16 Dec 2022 11:41:03 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "7e48ba6d-512e-4927-9154-7fcbb5b305c7"
+      },
+      {
+        "created": "Fri, 16 Dec 2022 11:41:03 GMT",
+        "display_value": "2007",
+        "modified": "Fri, 16 Dec 2022 11:41:03 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "1ed74dad-9b25-4ee8-8388-ba65149e36d3"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
