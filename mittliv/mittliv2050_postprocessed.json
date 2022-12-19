@@ -21787,5 +21787,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00666",
+    "contributor": {
+      "display_name": "Sara "
+    },
+    "created": "Mon, 19 Dec 2022 09:24:23 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 09:24:23 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20274",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "88d129e8-43a1-4471-bb5d-d7604c2e99e0",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 09:24:23 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 09:24:23 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "cbdac247-28fd-4baa-a33f-b7b01d474c8d"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 09:24:23 GMT",
+        "display_value": "År 2050 är jag 41 år. Jag hoppas och tror att jag kommer vara elitdressyr-ryttare och ha man,barn och elithästar. Jag vill bo på en gård i Skåne med mycket tillgångar såsom ridhus,paddock, skrittmaskin och ett stort stall där bara jag är inackorderad och några av mina anställda. Vi ska ha ca 2-3 hästar med fin stamtavla och gångarter. Jag ska ha 2 barn och varsin liten ponny till dem. Jag antar att jag kommer vara ute och tävla mycket så därför behöver jag ha några unga anställda som kan bo på min gård och ta hand om allt.\n\nJag hoppas att min man kan vara groom åt mig och stötta mig. Jag har ganska många krav på hur min man ska vara. Snäll,hjälpsam,tycka om barn och älska hästar. Han måste ha tålamod och inte vara onyttig såsom att t.ex röka, sånt hatar jag. Helst skulle jag vilja att min mamma också bodde på gården i en liten stuga och rida mina hästar eller ha sin häst där. \n\nDe flesta av mina måltider tror jag kommer vara snabbnudlar. Det är gott och går snabbt att göra plus att det är billig mat. Annars kommer min man laga all mat eftersom att jag är extremt upptagen.\n\n Min fritid kommer gå åt ägna ännu mera tid åt mina hästar och barn. Jag tror att Nora kommer att ackordera in sina hopphästar och hoppa några av mina hästar. Om det inte har framkommit så hatar jag att hoppa. Markarbeta hästarna har jag inga problem med så det kan jag göra. Sen har jag anställda som kan variera träningen för hästarna som att rida ut och hoppa dem. Sen att jag bor i Skåne kommer underlätta för oss när vi ska ut och tävla i Europa. När jag säger vi så menar jag förhoppningsvis jag, Nora, min man och mina barn. Gärna mamma också.\n\n Men vem vet det kanske slutar med att jag bor på gatan utan hem och familj.",
+        "modified": "Mon, 19 Dec 2022 09:24:23 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d9e89c3d-8217-4a5d-a28c-64438dca14af"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

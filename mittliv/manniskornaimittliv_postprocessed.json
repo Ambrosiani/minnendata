@@ -24029,5 +24029,323 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00689",
+    "contributor": {
+      "display_name": "Elly"
+    },
+    "created": "Mon, 19 Dec 2022 09:19:29 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 09:19:29 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20258",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "9f98cbb6-40e0-4ece-aa0a-6dfa289d1833",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 09:19:29 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 09:19:29 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "918e335b-c394-4f08-8a85-b0a25c1ef631"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 09:19:29 GMT",
+        "display_value": "Min familj är väldigt viktiga för mig! Dom hjälper mig med allt. \nMin mamma,pappa,syster och min katt ingår i min familj. \nMin katt heter morris och han lyssnar alltid och är väldigt busig ibland. Min mamma kan jag prata med och ha roligt med samma som min pappa. Min syrra är världens bästa syster, hon hjälper mig med allt, hon är alltid glad och hjälpsam. \nMin mamma kan jag alltid prata med och göra roliga saker hon är alltid så snäll och hon hjälper alltid  till. \nPappa hänger alltid  med mig till stallet och hjälper mig när det går dåligt och bra. Han är oftast på mina matcher och kollar när vi spelar. Pappa är världens snällaste och roligaste.",
+        "modified": "Mon, 19 Dec 2022 09:19:29 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "9dac0fd0-78c1-4b45-9fab-01aadf111ae7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00691",
+    "contributor": {
+      "display_name": "Timea "
+    },
+    "created": "Mon, 19 Dec 2022 09:19:54 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 09:19:54 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20261",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "ff499d91-c710-4d0d-aec0-8754a3238a19",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 09:19:54 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 09:19:54 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "4ee78e2d-7256-4715-ad7e-e96e52f54adf"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 09:19:54 GMT",
+        "display_value": "mamma, pappa, morfar.\nDom betyder jätte jätte mycket för mig och dom är jätte viktiga i mitt liv.. Min morfar bor i dalarna så honom träffar jag inte jätte jätte ofta men vi låter det inte gå för långt mellan vi ses. Han är jätte snäll och jätte rolig. Han hjälper mig alltid med allt jag behöver hjälp med så jag är väldigt nära min morfar. Mina föräldrar älskar jag jätte mycker och dom betyder allt för mig. Dom är som mina bästa vänner.",
+        "modified": "Mon, 19 Dec 2022 09:19:54 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "bb402d33-9cb7-46bc-bc10-68dece569e45"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00693",
+    "contributor": {
+      "display_name": "Emelie "
+    },
+    "created": "Mon, 19 Dec 2022 09:21:53 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 09:21:53 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20264",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "987e57c0-4c7e-44d2-a61b-e7ca3205d32e",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 09:21:53 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 09:21:53 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "0182881e-31b5-45af-9ce2-01bcfe197673"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 09:21:53 GMT",
+        "display_value": "Elly\nJag och Elly träffade varandra i skolan år 2021. Vi var båda väldigt ensamma i början. Vi träffades en gång på en horseshow och efter det går det inte att sära på oss. Båda vi rider och spelar fotboll och hänger ofta i djurhuset på vår skola. Elly betyder jättemycket för mig och hoppas att vi inte tappar kontakten. Hon hjälper mig när jag mår dåligt och när jag behöver hjälp. Vi är oftast i stallet men annars hemma hos mig eller henne. \n\nMilkshake och Smoke\nDom är mina kaniner som jag fick i slutet av september 2022. Milkshake är väldigt busig och bitter på våra sladdar men är mest social. Hon älskar närhet och mår väldigt bra runt Smoke. Smoke är väldigt skygg. Men när man väl håller i Smoke så blir hon väldigt lugn. Vi brukar ofta mysa och leka men jag brukar också hoppa med dom ute. Dom betyder väldigt mycket för mig för när jag är ledsen eller behöver en kram så kan jag bara gå till dom eller när jag vill plugga så kan dom sitta i mitt knä och jag fokuserar bättre. \n\nMamma\nMamma hjälper mig när jag behöver hjälp. Hon finns alltid där för mig och hjälper mig när jag har problem. Vi gör väldigt mycket tillsammans men vi båda älskar att rida så ibland på somrarna så rider vi två mycket. Men shopping är också en stor favorit. Vi kollar också mycket serier tillsammans. Mamma betyder verkligen allt för mig och älskar henne så himla mycket.",
+        "modified": "Mon, 19 Dec 2022 09:21:53 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "b8757d5b-63da-41cb-8c9e-e3bad0e650c1"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00695",
+    "contributor": {
+      "display_name": "Arvid "
+    },
+    "created": "Mon, 19 Dec 2022 09:23:07 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 09:23:07 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20267",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "7e6c0de7-72ff-4b3a-b9f6-fd00fda8628b",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 09:23:07 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 09:23:07 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "73c3bebd-2fba-40e0-88b3-2aba91034eb7"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 09:23:07 GMT",
+        "display_value": "Människorna i mitt liv:\n\nEftersom att jag fick ett totalt hjärnsläpp på förra skrivuppgiften, så kommer jag antagligen få det igen, men jag ska försöka iallafall.\nSå, det vi ska göra är alltså att skriva om tre betydelsefulla personer i sitt liv, och som den stela, tråkiga introvert jag är, så kommer den är texten garanterat vara extremt tråkig, med lite tur så blir den också extremt intetsägande. Så, om vi tar person nummer 1, min pappa, Jag antar att han egentligen har betytt och betyder min överlevnad, eller kanske inte… Men kombinationen min pappa och person två har nog garanterat betytt min överlevnad. Så, person två är, till ingens förvåning, min mamma. Hon, i kombination med min pappa, har nog betytt min överlevnad, nu när jag tänker på det så skulle jag typ ha levt hela mitt liv på ett sis-hem… Men vi säger att de har betytt min överlevnad för enkelheten skull. Man skulle tydligen reflektera över vad man gör med personerna, så jag får väl säga att jag gör ungefär allt man kan tänka sig, förutom är skolan bevisligen. Person tre då… Det finns väl inga egentliga restriktioner om vilka man får respektive inte får skriva om… Så jag tar och skriver om mig själv som en tredje person.\nOkej, vi tar och infogar frågorna som man skulle svara på.\n\n • Vilka är de?\nJag är mig själv\n • Vad betyder de för dig?\nUtan mig själv så hade jag inte existerat eller hade jag? Nu blir det filosofi på hög nivå.\n • Vad gör du tillsammans med dem? \nExakt allt i mitt liv. det har jag redan gått igenom.",
+        "modified": "Mon, 19 Dec 2022 09:23:07 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "a79a21e4-9518-484c-9dd0-e5b55efd1c6e"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00699",
+    "contributor": {
+      "display_name": "Sara "
+    },
+    "created": "Mon, 19 Dec 2022 09:24:20 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 09:24:20 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20273",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "ceaa9eae-157f-49fb-9663-4fcf322bf732",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 09:24:20 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 09:24:20 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "d031b19c-5fcc-4e98-a955-235fe3df51e0"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 09:24:20 GMT",
+        "display_value": "Jag har många viktiga människor i mitt liv.Speciellt viktiga är mamma,pappa,mormor och Nora.\n\n Mamma är den bästa mamman man kan ha. Hon är bra på att hjälpa mig och andra. Hon är snäll och bra på att laga mat. När jag har det tufft stöttar hon alltid mig, men har jag gjort nått fel så får jag stå till svars och prata igenom allt med henne.\n\n Pappa är den bästa pappan man kan ha. Han är rolig och jättesnäll. Han skojar ofta om saker han tycker är jobbigt. Detsamma om mig, t.ex när farmor gick bort så skojar han bort det. Pappa har en sån fin syn på djur, dessutom lagar han jättegod mat. Bäst är han på att koka korv och makaroner. \n\nMormor lagar den absolut bästa maten i hela vida världen. Det kanske inte alla tycker men jag älskar den. Hon ser alltid till att jag har det bra och att jag tycker hon är bäst. Skämt och sido hon är dessutom den bästa mormorn man kan ha. Vilket jag har sagt om alla hittills. Men jag menar det verkligen.\n\n Nora är en av mina närmaste vänner. Vi lärde känna varandra genom att vi hamna i samma klass dessutom rider vi båda på Gladö ridsällskap. Jag visste redan vem Nora var innan vi hamna i samma klass och jag tyckte att hon var läskig. Nora är snäll och bra på att retas. Innerst inne älskar jag henne. \n\nJag är jättetacksam för alla människor nära i mitt liv.",
+        "modified": "Mon, 19 Dec 2022 09:24:20 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "ec9e21ef-98b8-4511-aac8-e4999dc3d811"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00701",
+    "contributor": {
+      "display_name": "Elin"
+    },
+    "created": "Mon, 19 Dec 2022 09:25:22 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 09:25:22 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20279",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a30c0585-55c7-4f48-baca-5872cfaff8a3",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 09:25:22 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 09:25:22 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "63cfd4af-0b98-4c40-9e52-d242ef391e24"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 09:25:22 GMT",
+        "display_value": "Viktiga personer i mitt liv: \nMin pappa: Min pappa heter Christopher. Han är 46 år och fyller år den 29 augusti. Han älskar att bygga lego. Varje år köper han dyra lego hus så han kan göra en stad eller som i år ett flygplan som är likadant som när han var liten. Vi har en båt också och den fixar han mycket med. På båten brukar han använda massa svåra ord som ingen annan har någon aning om vad det betyder, men det hör till.  \nJag brukar spela fotboll med min pappa, han är tränare till mitt lag. På vintern åker vi skidor och det är han jättebra på. Vi brukar alltid hyra någon stuga någonstans och åka på loven. Han åker både vanliga skidor och telemark skidor. Det är alltid lika kul att hänga med honom. Jag älskar min pappa. \n\nMin mamma: Min mamma heter Ulrika. Hon har brunt hår och blåa ögon. Hon fyller år dagen före julafton. Min mamma gillar att odla massa saker. Hon brukar odla massa tomater, gurkor och massa blommor på somrarna. Det är alltid lika mysigt med hemodlade grönsaker. Jag älskar hennes kramar från ingenstans och hennes nybakade bröd på morgonen. Det går alltid att prata med henne om något är fel. Jag brukar umgås med henne och kolla på film och pyssla. Hon brukar alltid hitta på grejer att göra, som att virka eller baka. Min mamma går på handboll också. Dom brukar inte vinna så mycket matcher med hennes lag, men jag tror att hon tycker det är kul ändå. Jag älskar min mamma. \n\nEmilia: Emilia heter Anny Maria Nordqvist i efternamn. Hon fyller år den 6 augusti, exakt 20 dagar efter mig. Vi blev kompisar när vi var 0 år för att våra syskon var vänner och våra föräldrar. Vi va bästisar från dagis till 1an ungefär men sen blev hon cool och jag töntig så vi hängde inte med varann men sen i 4an började vi i samma klass igen och blev kompisar igen i slutet av 5an. Emilia har värsta temperamentet ibland när hon tycker att någon annan är jobbig eller har fel. Då slåss hon jättehårt, men annars är hon snäll. När vi argumenterar har jag alltid rätt.",
+        "modified": "Mon, 19 Dec 2022 09:25:22 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "a25fac98-7743-44cf-bd85-0de0a25877c9"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
