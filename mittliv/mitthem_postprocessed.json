@@ -93911,5 +93911,432 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00899",
+    "contributor": {
+      "display_name": "Enya"
+    },
+    "created": "Mon, 19 Dec 2022 14:15:40 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:15:40 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20315",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "e82e1dc1-bbf6-4497-873f-7697438b489e",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:15:40 GMT",
+        "display_value": "Mitt hem\n\nI mitt hus bor jag, mamma, pappa, min storasyster Elise, min hund Astro och mina kaniner, fiskar och min fågel. Vi har bott här i 9 år. Mamma och pappa har ganska modern smak och gillar grönt och grått så vi har mycket sånt i huset. Vi har mycket öppet i vårt hus så vi har tio rum och sen så sitter vår hall, vardagsrum och kök ihop. I mitt kök har vi två varmluftsugnar och ett glasskåp med censorer så om man håller handen under skåpet så öppnas det, vi har också en fläkt som kommer upp ur vår köksö. Jag sover i mitt egna sovrum längst upp i huset. Mitt rum har grått och beige tema med lite vitt och rosa också. Jag tycker att jag har det bästa rummet eftersom jag ser sjön, uppfarten, solnedgång och soluppgång. I mitt hus sjunger och spelar jag instrument ( oftast piano eller elgitarr) Min favoritplats i vårt hus är min hunds säng för den är jättemjuk att sitta i. Vi har inte så många regler men det finns ju lite normer här och där som att man inte får svära, skrika och säga olämpliga saker. Hemma diskar jag mest men jag lagar mat, städar och tar hand om min hund.",
+        "modified": "Mon, 19 Dec 2022 14:15:40 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "70776164-2ac2-49f8-b2ea-0c643436eaee"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:15:40 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:15:40 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "3f797d46-9bcd-411b-af83-19540c32658d"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00903",
+    "contributor": {
+      "display_name": "Elis"
+    },
+    "created": "Mon, 19 Dec 2022 14:21:35 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:21:35 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20322",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "d583324c-cf19-452b-bba7-de46eac73c23",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:21:35 GMT",
+        "display_value": "122",
+        "modified": "Mon, 19 Dec 2022 14:21:35 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "d56c743e-cdda-406e-8053-c6ec775b2f2a"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:21:35 GMT",
+        "display_value": "Min familj består mig själv, min pappa Stefan som är 42 år, min mamma Frida som är 41 och min lillasyster Lia som är 10 år gammal. Vi bor i två lägenheter som är på samma våningsplan i samma lägenhetshus. Vi köpte vår stora trea för tio år sedan men för två år sedan fick vi en vild ide att vi kunde köpa lägenheten mittemot. Det är en etta. Vi sover och äter fortfarande i trean men vi har gjort om ettan till en hobbylägenhet. Vardagsrummet är ett träningsrum som jag tränar min innebandy i och köket förvarar vi i massa pyssel och lego. Sammanlagt med ettan blir det 9 rum.\n\nMitt rum är i trean mittemot köket. Där står det en säng, en bokhylla, ett skrivbord och ett piano. Utanför fönstret i mitt rum, i vardagsrummet i trean och i vardagsrummet i ettan är det en lekpark som jag och lia lekt på mycket! Fönstret i Lias rum och de båda köken leder ut till en parkering som våran bil står på. \n\nJag hjälper inte till så mycket hemma utan nästan det enda jag gör är att städa mitt rum men då är det på mina föräldrars order.",
+        "modified": "Mon, 19 Dec 2022 14:21:35 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "e55d3d26-a0e1-4916-96fd-af19ba61ef62"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:21:35 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:21:35 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "0ebc0c9f-b922-479c-9083-d4b1d78c80f7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00907",
+    "contributor": {
+      "display_name": "Viktoria"
+    },
+    "created": "Mon, 19 Dec 2022 14:22:58 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:22:58 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20329",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "bd5bb0d0-6030-4360-99e7-06cd85e3e6e9",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:22:58 GMT",
+        "display_value": "120",
+        "modified": "Mon, 19 Dec 2022 14:22:58 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "55d74ce7-ed23-4930-b900-366b39bd5879"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:22:58 GMT",
+        "display_value": "Jag bor i ett rött hus med vita knutar i Glömsta byggt 1939. Min pappa hittade faktiskt en tidning på vinden från 1939 från dagen efter Kristallnatten. Jag har en tomt på 3170 kvadratmeter och på den har vi 4 äppelträd och ett päronträd. Mitt hus är 127 kvadratmeter med 4 sovrum, ett badrum, ett kök, ett vardagsrum, en hall, en tvättstuga, ett gästrum, ett pannrum och en matkällare. Jag, mina föräldrar och mina två storasyskon delar på dessa 127 kvadratmeter. Jag och mina syskon har egna rum vilket är superskönt så att man får ett privat utrymme. Jag har bott här hela mitt liv och jag kommer nog bo här tills jag flyttar hemifrån själv. Mitt rum är till vänster när man kommer in, men om man går till höger kommer man till vardagsrummet. Jag har ett eget rum med vita väggar, en inbyggd bokhylla, en 120 säng i beige sammet, ett vitt nattduksbord och skrivbord från IKEA. Min garderob är utanför mitt rum, vilket gör att jag får mer plats i själva rummet. \n\n\nNär jag går in i mitt rum känner jag mig inte hemma eftersom att det inte speglar mig själv, det ser för minimalistiskt och tråkigt ut. Jag vill införskaffa posters och en trevlig fåtölj, men jag hittar aldrig något jag gillar. Jag har tre fönster i mitt rum och ett av dem är bredvid min säng så det första jag ser nät jag drar upp persiernernna är min mormor och morfars hus.\n Alla väggar i huset är vita och alla golv är i trä förutom i de två badrummen där där är vitt och rött kakel golv. Mitt kök är väldigt litet, men det är rätt så mysigt ändå. Mitt vardagsrum är min favoritplats eftersom att man kan kolla på tv med hela familjen. Jag bor i ett villaområde nära sjön Gömmaren vilket gör att jag brukar gå dit med mina kompisar på sommaren, men när det är mörkt ute får jag inte gå dit för det kan finnas älgar ute. Vi har massa regler i huset t.ex den första som kommer hem måste städa i ordning köket diska, tömma diskmaskinen etc. Vi får även inte ha mobiler vid matbordet och varje fredag äter vi fisk eller vegetariskt. På söndagar går i till kyrkan vilket gör att lördag är vår städdag där alla hjälper till att städa. Jag hjälper till med i princip allt hemma t.ex hänga upp tvätt och laga mat.",
+        "modified": "Mon, 19 Dec 2022 14:22:58 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "8b5da9bb-70e3-459e-b7f3-ddb35e327ca7"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:22:58 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:22:58 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "8d57c7c6-21cc-4004-abe0-08ad5aefb92c"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00909",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Mon, 19 Dec 2022 14:23:54 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:23:54 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20332",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "7d63ef3c-3125-48ea-8c82-7cb93c64ea78",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:23:54 GMT",
+        "display_value": "123",
+        "modified": "Mon, 19 Dec 2022 14:23:54 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "6c91e910-982d-4153-b120-af4d313e2bcf"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:23:54 GMT",
+        "display_value": "Mitt hem \nI mitt hem bor jag, min mamma, min pappa, min lillebror och min lillasyster. Vi har bott där i 9 år. Vårat hus är modernt men har ändå inte jätte avancerade saker som robotdammsugare. På utsidan är huset gult och på insidan för det mesta vitt. Vi har 12 rum i vårt hus, ett vardagsrum, två badrum, fyra sovrum, två hallar, en tvättstuga, ett kök och ett förråd. Vi har en korridor längs nedervåningen och förråd och garage utomhus. \n\nJag sover i min säng i ett eget rum på övervåningen. När jag kollar ut genom mina fönster på mitt rum ser jag en bilväg, grannområdet, min tomt och en skog. I mitt hem så äter jag, sover, chillar går på toa och leker. Jag har mina saker i mitt hus. Mina favoritplatser i mitt hus är mitt rum, vardagsrummet, toan och köket. Annars är det vår trädgård. \n\nVi har inga nedskrivna regler hemma men saker man borde/inte borde göra. Exempel som att duka av och ställa in i diskmaskinen, att ta hand om mitt rum och att inte skärma för mycket. Hemma hjälper jag till genom att ibland hämta min lillasyster på förskolan. Jag ställer in i diskmaskinen, viker ibland tvätt och hjälper till att laga mat.",
+        "modified": "Mon, 19 Dec 2022 14:23:54 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "aada19c5-e682-4aeb-b3b7-59b5b12a086a"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:23:54 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:23:54 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "9b12bdae-9228-443b-8c4e-2327a4ae05dd"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00911",
+    "contributor": {
+      "display_name": "Märta "
+    },
+    "created": "Mon, 19 Dec 2022 14:24:20 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:24:20 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20335",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "61aa71f9-7760-4756-afe2-4d9c86e81479",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:24:20 GMT",
+        "display_value": "Mitt hem\nJag bor i en villa med två våningar och ingen källare. Det bor fyra personer i huset. Det är jag, mamma Julia, pappa Martin och min syster, Tove. \n\nMitt rum ligger på nedre våningen. Det är ett ganska stort rum, och det var förut ett lekrum för mig och min storasyster när vi var små. I mitt rum finns det en säng, en garderob, ett skrivbord, två stolar, en spegel, min fiol, ett notställ, ett par dåliga lampor, två saccosäckar, en bokhylla, två nattygsbord (ja, du hörde/läste rätt,  två nattygsbord), en liten byrå och ett stort, vitt, gammalt skåp där det finns en massa pysselgrejer i. Bredvid min dörr så finns det ett avlångt fönster som jag stör mig på. På andra sidan rummet finns det två fönster bredvid varandra. \n\nUtanför mitt sovrum går det som en liten korridor. Om man tar den till vänster så kommer man till hallen. Står man nu vänd mot den vita ytterdörren så har man min pappas arbetsrum (som också är ett gästrum)till vänster om sig, och till höger om hallen så finns det ett badrum. Bortom det så finns det en liten toalett. Precis utanför dörren till badrummet så finns det klädhängare och skohyllor. Snett bakom klädhängarna så står det ett vitt skoskåp. \n\nOm man nu skulle vända sig om och gå andra hållet i korridoren så skulle man komma till vardagsrummet. Där finns det ett brunt piano rakt framför en, till vänster om en så finns det en mörkbrun byrå med ett tomt akvarium. Där har det en gång varit tammöss, men de dog för flera år sedan. Bortom akvariet så finns det en trappa som leder till övervåningen, och under trappan står det ett till akvarium eftersom vi har funderat på att skaffa tamråttor, men vi har ångrat oss och inte har hunnit sälja akvariet. Bortom pianot så står det en större ljusbrun byrå där vi förvarar finbestick, lakan, bordsdukar och lite andra saker. \n\nOm man vill komma till köket så går man bara till andra sidan rummet och svänger vänster. Då ser man ett träfärgat bord med några vita stolar och bortom det så finns det en dörr som leder till tvättrummet. Till vänster om bordet så finns det ett korridor-liknande kök. Det finns en spis, en ugn, ett kylskåp, en frys, två skåp ovanför kylen och frysen i samma färg, och så några lådor. Vi går tillbaka till vardagsrummet och ställer oss bredvid pianot vända mot hallen. Snett till vänster framför oss så kan man se en dörr gjord av trä. Den dörren leder till min mammas och pappas sovrum. \n\nNu till övervåningen. \nOm man skulle gå upp för trappan så skulle man först se en vit knarrig gammal dörr. Den dörren går till min systers sovrum. Till höger om denna dörr så finns det en till knarrig vit gammal dörr, som leder till det tredje badrummet. Detta badrum har dusch, bastu som inte funkar, toalett, handfat och ett svart torkställ. Dörren som leder till bastun är på vänster sida om den vita dörren, och den är rödbrun och ganska grov. \n\nTill vänster sida om Toves rum så kan man gå i en väldigt kort korridor som leder till ett slags stort arbetsrum. Detta rum har inte direkt någon dörr och inga avskärmande väggar. Där finns det två skrivbord, varav ett av dem är vitt och det andra är mörkbrunt, det finns även en väldigt hög byrå, en grön soffa, ett brunt sminkbord, en brun bokhylla och ett väldigt lågt men avlångt brunt skrivbord. \nMellan de två arbetsborden så sitter det ett fönster som blickar ut mot våran baksida. Där finns det en ganska liten gräsmatta som slutar med en häck. I vänstra hörnet av gräsmattan finns det ett väldigt litet kastanjeträd, och i högra hörnet så finns det ett lite större plommonträd. Till höger om plommonträdet så växer gräset lite vildare än på gräsmattan, och hela detta område slutar med ett stort, högt, brunt staket. Framsidan består av minst fem ganska stora buskar, en jättestor buske, och ett stort träd med röda löv. \n\nOmrådet som jag bor i består mest av sådana här villor som det jag bor i, och lite radhus. Det finns även några lekplatser här och var. Jag gillar mitt hus. \nMärta :)",
+        "modified": "Mon, 19 Dec 2022 14:24:20 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "c7113695-bcc4-4a7e-b63d-07a93a168a87"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00913",
+    "contributor": {
+      "display_name": "Ludvig"
+    },
+    "created": "Mon, 19 Dec 2022 14:25:36 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:25:36 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20338",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "421bb29b-0465-476d-8cc8-b9c4b20f64cf",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:25:36 GMT",
+        "display_value": "120",
+        "modified": "Mon, 19 Dec 2022 14:25:36 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "aa3621cd-1646-438d-9f4e-fc971ae5db4a"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:25:36 GMT",
+        "display_value": "I mitt hem finns två våningar i huset, en altan, ett garage och en trädgård. I trädgården finns ett äppelträd och ett körsbärsträd samt en studsmatta. Det finns också en “rondell” full av blommor på sommaren. I vårt garage har vi till åttio procent förvaring men också ett pingisbord och familjens cyklar. Bredvid vårt garage är vår bil med ett högt heltäckt staket bredvid i trä. Vid vägen är en typ en meter hög häck som ramar in huset från de utifrån. \n\nHusets ingång är rak trappa med (på sommaren) rosor på sidorna som leder upp till ytterdörren. Hallen består av kläder hakar och ett skoställ på höger sida en vit byrå till vänster sida och en bred trattformad lampa i taket. På golvet finns en ljusbrun dörrmatta och en större grå matta som drar sig ut till nästan hela hallgolvet. Till vänster om hallen finns en dörr som leder till föräldrarnas rum där deras säng, en garderob med speglar som dragdörrar och en brun ljusbrun byrå som innehåller t.ex familjens pass. Ett parkettgolv och en mörkgrön vägg. Det finns också två fönster med gardiner med flera blommor som tillsammans bildar flera mönster. \n\nHallen leder till höger in till vardagsrummet där vi har två stora bokhyllor fulla av böcker, ett högtalarsystem som också leder ut till köket, en skiv och cd-spelare, två soffor, en i läder och en lite mjukare i tyg. En matta under sofforna och de avlånga soffbordet. De finns en lampa och fyra stora fönster som man ser ut mot gatan ur, vi använder inte vardagsrummet så mycket utan mest när vi har gäster eller på kvällen med familjen. \n\nLite längre in i huset har vi köket med svarta köksbänkar, ett matbord av trä, en frys och en kyl som båda är grå. En sak som är värt att anmärka när de gäller vårt kök är att de finns väldigt många lampor. Små lampor över köksbänkarna (under skåpen), En lampa över spisen, en hängande över matbordet, lampor över alla fönster, en på väggen och typ fem i taket. \n\nI mitt rum har jag alla mina pokaler från tennisen på hyllor, en fåtölj, mitt skrivbord med en grön otroligt ful stol till, en vit rund matta, en garderob, en spegel och ett fönster som leder ut synen på en bambubuske och vår altan. Jag sover dock nere i nedre våningens tv-rum.\nI min brors rum har han typ exakt samma saker som jag bara en säng i sitt rum och utsikt över trädgården och vårt körsbärsträd. Vi har också en toalett här uppe på övervåningen. \n\nOm vi rör oss ner till undervåningen så ser vi ett annat badrum med dusch som inte finns där uppe, tvättstugan, pappas “trumrum”, tv-rummet där min säng är också också vårt elskåp där vi har typ förvaring. \n\nMitt hem skulle jag säga är rätt så avslappnat, vi har många platser man kan plugga på vilket är väldigt bra och så finns de mycket plats att vila på. Vi har blandat i vårt hus med blommiga tapeter och vita målade väggar. Mitt favoritrum i huset är absolut pappas trumrum, inte för att jag spelar jättemycket instrument utan för att jag älskar träväggarna, alla mysiga lampor och konsten av alla instrument. I detta rum finns de två pianon och pappas kanske sex trumset även fast bara ett är uppställt. Det sista märkvärdiga i rummet är två roliga bokhyllor och två röda typ som stora ljuddämpare. De roliga bakom dessa röda flyttbara “väggarna” är att vi fick dem av de dagis jag och min bror gick på när inte det dagiset behövde dem mer. \n\nI min familjs hus är de vanligaste reglerna dessa.\n\nJag och min bror ska plocka undan våra tallrikar och bestick in i diskmaskinen efter vi ätit.\nVi får bara använda våra mobiler en timme om dagen vilket inte följs jättebra.\nDe sista är väl typ att vi ska ta upp våra kläder från tvättstugan när de är rena och torra. \n\nDetta är mitt hem.",
+        "modified": "Mon, 19 Dec 2022 14:25:36 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "92be45a8-153f-43c3-abdf-a5ff070ca181"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:25:36 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:25:36 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "14158dd6-d24b-4ea8-b9cf-9e1bc9b99977"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00915",
+    "contributor": {
+      "display_name": "Ludvig"
+    },
+    "created": "Mon, 19 Dec 2022 14:25:43 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:25:43 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20339",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "c16633cb-5291-487a-85c4-cd7a31cb0475",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:25:43 GMT",
+        "display_value": "120",
+        "modified": "Mon, 19 Dec 2022 14:25:43 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "f041dc9f-886b-4a06-9537-7624822d2dff"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:25:43 GMT",
+        "display_value": "I mitt hem finns två våningar i huset, en altan, ett garage och en trädgård. I trädgården finns ett äppelträd och ett körsbärsträd samt en studsmatta. Det finns också en “rondell” full av blommor på sommaren. I vårt garage har vi till åttio procent förvaring men också ett pingisbord och familjens cyklar. Bredvid vårt garage är vår bil med ett högt heltäckt staket bredvid i trä. Vid vägen är en typ en meter hög häck som ramar in huset från de utifrån. \n\nHusets ingång är rak trappa med (på sommaren) rosor på sidorna som leder upp till ytterdörren. Hallen består av kläder hakar och ett skoställ på höger sida en vit byrå till vänster sida och en bred trattformad lampa i taket. På golvet finns en ljusbrun dörrmatta och en större grå matta som drar sig ut till nästan hela hallgolvet. Till vänster om hallen finns en dörr som leder till föräldrarnas rum där deras säng, en garderob med speglar som dragdörrar och en brun ljusbrun byrå som innehåller t.ex familjens pass. Ett parkettgolv och en mörkgrön vägg. Det finns också två fönster med gardiner med flera blommor som tillsammans bildar flera mönster. \n\nHallen leder till höger in till vardagsrummet där vi har två stora bokhyllor fulla av böcker, ett högtalarsystem som också leder ut till köket, en skiv och cd-spelare, två soffor, en i läder och en lite mjukare i tyg. En matta under sofforna och de avlånga soffbordet. De finns en lampa och fyra stora fönster som man ser ut mot gatan ur, vi använder inte vardagsrummet så mycket utan mest när vi har gäster eller på kvällen med familjen. \n\nLite längre in i huset har vi köket med svarta köksbänkar, ett matbord av trä, en frys och en kyl som båda är grå. En sak som är värt att anmärka när de gäller vårt kök är att de finns väldigt många lampor. Små lampor över köksbänkarna (under skåpen), En lampa över spisen, en hängande över matbordet, lampor över alla fönster, en på väggen och typ fem i taket. \n\nI mitt rum har jag alla mina pokaler från tennisen på hyllor, en fåtölj, mitt skrivbord med en grön otroligt ful stol till, en vit rund matta, en garderob, en spegel och ett fönster som leder ut synen på en bambubuske och vår altan. Jag sover dock nere i nedre våningens tv-rum.\nI min brors rum har han typ exakt samma saker som jag bara en säng i sitt rum och utsikt över trädgården och vårt körsbärsträd. Vi har också en toalett här uppe på övervåningen. \n\nOm vi rör oss ner till undervåningen så ser vi ett annat badrum med dusch som inte finns där uppe, tvättstugan, pappas “trumrum”, tv-rummet där min säng är också också vårt elskåp där vi har typ förvaring. \n\nMitt hem skulle jag säga är rätt så avslappnat, vi har många platser man kan plugga på vilket är väldigt bra och så finns de mycket plats att vila på. Vi har blandat i vårt hus med blommiga tapeter och vita målade väggar. Mitt favoritrum i huset är absolut pappas trumrum, inte för att jag spelar jättemycket instrument utan för att jag älskar träväggarna, alla mysiga lampor och konsten av alla instrument. I detta rum finns de två pianon och pappas kanske sex trumset även fast bara ett är uppställt. Det sista märkvärdiga i rummet är två roliga bokhyllor och två röda typ som stora ljuddämpare. De roliga bakom dessa röda flyttbara “väggarna” är att vi fick dem av de dagis jag och min bror gick på när inte det dagiset behövde dem mer. \n\nI min familjs hus är de vanligaste reglerna dessa.\n\nJag och min bror ska plocka undan våra tallrikar och bestick in i diskmaskinen efter vi ätit.\nVi får bara använda våra mobiler en timme om dagen vilket inte följs jättebra.\nDe sista är väl typ att vi ska ta upp våra kläder från tvättstugan när de är rena och torra. \n\nDetta är mitt hem.",
+        "modified": "Mon, 19 Dec 2022 14:25:43 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "147318a0-9f53-43c5-9116-850a5dde4270"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:25:43 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:25:43 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "57732766-1b18-470f-a77d-965a31bcd9a3"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

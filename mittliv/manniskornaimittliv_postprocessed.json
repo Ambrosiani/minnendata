@@ -24584,5 +24584,164 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00719",
+    "contributor": {
+      "display_name": "Enya"
+    },
+    "created": "Mon, 19 Dec 2022 14:15:16 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:15:16 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20312",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "acfd5695-5f6d-4b72-afdb-42d68cc0be0e",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:15:16 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:15:16 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "aa239166-e468-4b97-bc4a-f6b133405d37"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:15:16 GMT",
+        "display_value": "Tre personer i mitt liv\n\nMina tre personer valda är Astro, Mitt cheerleadinglag och Maja så nu ska jag förklara varför. \n\nAstro är en av mina bästa vänner och min hund, Han är en bichon Havanais och är ett och ett halvt år, han är vit och fluffig och älskar snö men Astro är ganska svår att beskriva eftersom han är en hund. Han har massa hundsängar och leksaker som ligger utspridda i mitt hus, han brukar alltid sova bredvid mig under mitt täcke.\n\nMin cheerleading är det bästa jag vet, om jag hade fått så hade jag tränat mycket oftare men jag har mycket att plugga till. Alla i mitt lag är som bästa kompisar och då har jag tur eftersom det är 10 stycken. Alla i mitt lag är alltid glada och peppande till och med när man ligger död på golvet efter vi har tränat kondition och styrka. Det jag tycker bäst med dom är gemenskapen och att äta fika tillsammans.\n\nMaja är min bästa kompis och min kusin. Jag har känt Maja sen hon var född( 2010) Och sedan 2010 har vi alltid sprungit och tagit vår släkting Carolas berömda julkolor. Jag och Maja sover över efter nästan varje släkt träff dessutom så säger aldrig mamma eller Ola nej eftersom dom känner mig och Maja så bra. Det är också kul att fira jul, påsk och mera med sin bästa vän.\n\n Alla dessa människor och djur betyder massa för mig mer än hela galaxen. <3",
+        "modified": "Mon, 19 Dec 2022 14:15:16 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "bf9b7a07-fc31-457e-b290-b784d2e8ef9c"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00723",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Mon, 19 Dec 2022 14:23:49 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:23:49 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20331",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "5d135f1b-5d42-480b-8a8c-0a62437331bf",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:23:49 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:23:49 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "5a18ced1-67ad-4e75-b7f8-84144cf6acb6"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:23:49 GMT",
+        "display_value": "Tre personer i mitt liv \nFreja:  \nFreja är min bästa vän. Vi har kännt varandra sen vi var tre år. Vi blev kompisar via gemensamma kompisar på förskolan. Vi bodde och bor fortfarande väldigt nära varandra. Vi började skolan tillsammans och började i samma klass. Vi gick i lågstadiet och mellanstadiet i samma skola och i slutet av femma bytte jag skola. Vi träffar inte varandra lika ofta men på fotbollsträningarna och ibland på helgerna eller efter skolan.Freja betyder väldigt mycket för mig och jag litar på henne. När jag och Freja är med varandra så brukar vi spela spel, hitta på danser, kolla på program eller spela in egna program. Freja är jätte rolig och snäll. \n\n\nEllen:\nEllen är min bästa kompis i skolan. Vi är med varandra hela tiden i skolan och har mycket gemensamt. På rasterna stretchar vi och vi har ett gemensamt mål att kunna gå ner i splitt och spagat efter jullovet. Vi träffar varandra efter skolan väldigt sällan eftersom vi bor väldigt långt ifrån varandra. Jag och Ellen började i samma skola i sexan, nu går vi i sjuan. Ellen betyder mycket för mig, hon var den första kompisen som jag fortfarande är med sen vi började i samma skola. När vi är med varandra utanför skolan så badar vi eller kör gymnastik exempel på yoump. Ellen är världens snällaste person och väldigt rolig.                                                                                             \n\n\nEnya: \nEnya går i min klass och är en av mina bästa kompisar i skolan. Hon betyder ganska mycket för mig och är en bra vän i skolan. Jag och Enya har på fritiden åkt till yump yard och det är väldigt kul. Annars har vi bara varit med varandra i skolan och firat våra gemensamma kompisars födelsedagar. Vi träffades första gången i sexan när vi började i samma klass och i sjuan blev vi bättre kompisar. Vi har många gemensamma vänner i skolan.",
+        "modified": "Mon, 19 Dec 2022 14:23:49 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "a88c8f2a-35a5-4fe0-9a68-d88711a5d303"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00725",
+    "contributor": {
+      "display_name": "Märta "
+    },
+    "created": "Mon, 19 Dec 2022 14:24:15 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:24:15 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20334",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "3275b97f-766b-44a2-9991-fcad269309a3",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:24:15 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:24:15 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "17dfab5c-c0c5-48cb-b898-c7af7a081ce6"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:24:15 GMT",
+        "display_value": "Tre personer i mitt liv\nJag har ganska många personer i mitt liv, så det är lite svårt att välja, men den första personen i mitt liv är i alla fall Tove.\n\nTove är min syster, och ibland min kompis, det beror på hur glad hon och jag är. Tove är två år äldre än mig och har blåa ögon och blåa glasögon, ljusblont hår, och är smart och glad. Dock så är jag fortfarande längre och har större fötter än henne… \nMen tillbaka till ämnet!!  Tove betyder väldigt mycket för mig, hon är trots allt min syster och har varit med mig hela livet ända sedan jag föddes, men hon är dessutom ganska stöttande och rolig, så det är ju självklart att hon betyder mycket. Ibland så bråkar vi ju förstås, och för det mesta så har vi kanske inte den bästa attityden mot varandra, men när vi väl är kompisar så har vi oftast massor av kul. Eftersom att Tove är min syster så brukar jag vara med henne ganska ofta, till exempel ungefär hela sommarlovet. Jag brukar gå på läger med henne, vandra i fjällen, åka båt, ni fattar. Allt. Så jag känner henne väldigt bra. \nJag tycker mycket om min syster.\n\nNästa person i mitt liv är min farmor. Min farmor är snäll, rolig, fin och ibland lite klumpig eftersom hon inte kan se så bra. Hon heter egentligen Margareta men alla kallar henne för Meta eller bara Farmor. Jag umgås lagom mycket med min farmor och jag älskar henne. Meta är ganska kort, har kort grått hår och väldigt tjocka mörkblåa (Det är något med blått) glasögon, hon ser nämligen superdåligt. För inte så länge sedan så skaffade hon hörapparater också, för hon har börjat höra dåligt också. Hon har många funktionshinder, men det går bra ändå. När jag umgås med Meta så brukar det oftast vara på konserter, eller att vi möts på fester. Det kan också vara så att hon går och kollar på de konserter som jag är med och spelar, och då blir hon glad och ibland lite rörd. \nJag tycker väldigt mycket om min farmor. \n\nDen tredje och sista personen i mitt liv är Anna. Egentligen känner jag två stycken Anna i mitt liv, men jag tänker berätta om den jag möter oftare. Denna Anna heter Anna Östberg och är min fiollärare. Hon har varit min fiollärare i ungefär sju år nu. Anna har blåa glasögon och långt ljusbrunt hår. Hon är lång och ser ganska alldaglig ut. Hon är bra som lärare och väldigt bra på fiol. Anna spelar även cello. Dessutom har hon bra humor och vi brukar ha roligt på lektionerna. Hon är en viktig del i mitt liv eftersom hon har lärt mig det jag kan om fiol idag, och fiol är en del av mig, så då är även hon en del av mig.  \nJag tycker om min fiollärare. \n\nMärta :)",
+        "modified": "Mon, 19 Dec 2022 14:24:15 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "57e96848-8d40-472b-baf9-7e35fa613f57"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
