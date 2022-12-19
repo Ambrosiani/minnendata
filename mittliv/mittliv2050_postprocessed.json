@@ -21893,5 +21893,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00674",
+    "contributor": {
+      "display_name": "Ellen"
+    },
+    "created": "Mon, 19 Dec 2022 14:05:03 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:05:03 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20308",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "2de0687a-b841-4b2b-8e7e-114abf5c4e6e",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:05:03 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:05:03 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "6996d1ec-4382-4d07-9502-c921154a340f"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:05:03 GMT",
+        "display_value": "Mitt liv år 2050\nÅr 2050 vill jag ha gått ut högskola och jag vill ha varit med i en engelsktalande  film eller serie. Jag ska vara gift och ha barn, och jag ska bo på en gård på den svenska landsbygden eller på en ö som har hästar och andra olika djur jag ska också ha hundar. Jag ska vara en arkitekt, inredningsarkitekt och designer och jag ska jobba hemifrån så att jag kan spendera så mycket tid som möjligt med mina barn. Jag ska ha ritat och byggt en unik gård som ändå känd lantlig. Min familj ska ha en husbil som jag har designar själv och i den ska vi åka på semester i på somrarna. Jag ska antagligen hemskola mina barn två gånger i veckan men de kommer också gå till skolan för att få det sociala och för att få kompisar och om de vill gå till skolan oftare så kommer de att få det. Jag kommer att ha några regler men det kommer inte vara så strikt hemma hos mig och jag kommer försöka få så att min familj är öppna med varandra. Ungefär så kommer mitt liv att se ut år 2050.",
+        "modified": "Mon, 19 Dec 2022 14:05:03 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "6ccfa762-cde3-4790-9576-340c7c149fe5"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

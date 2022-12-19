@@ -93844,5 +93844,72 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:2/00897",
+    "contributor": {
+      "display_name": "Ellen"
+    },
+    "created": "Mon, 19 Dec 2022 14:05:16 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:05:16 GMT",
+    "presentation_url": "https://minnen.se/tema/mitthem/20310",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – mitt hem",
+      "name_i18n": {
+        "en": "Mitt liv – mitt hem",
+        "sv": "Mitt liv – mitt hem"
+      },
+      "uuid": "8f121bdb-1540-4997-b32d-3523a441de42"
+    },
+    "uuid": "5295a9db-69cf-4057-8dbb-83ab912762ac",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:05:16 GMT",
+        "display_value": "120",
+        "modified": "Mon, 19 Dec 2022 14:05:16 GMT",
+        "topic_item": {
+          "label": "🏠 Hur bor du?",
+          "label_i18n": {
+            "sv": "🏠 Hur bor du?"
+          },
+          "type": "Select",
+          "uuid": "1d2fbc28-8284-475f-ab49-db1187909b05"
+        },
+        "uuid": "148b0daa-fa07-4e58-bc18-86f35d597b9b"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:05:16 GMT",
+        "display_value": "Mitt hem\n\nJag bor med mina föräldrar och två av mina storebröder (den tredje har halft flyttat). Vi byggde vårat hus för 12 år sedan så jag har i princip bott där i hela mitt liv. \n\nJag bor i ett svart hus som är rätt så stort, min tomt är 2517 kvadratmeter stor. Mitt hus står på en liten kulle men min tomt fortsätter ner. Det ligger en skog framför mitt hus. I mitt hus har vi 16 rum och och det är 275 kvadratmeter stort. \n\nJag sover i mitt eget rum som ligger på övervåningen bredvid mina bröders rum. Mitt fönster i mitt rum ligger mot skogen så när jag tittar ut ser jag min altan och skogen. Hemma så brukar jag baka, stretcha, titta på min telefon eller tv. Min favoritplats hemma är mitt rum eller i allrumer på nedervåningen.\n\nHemma har vi inte så mycket regler och jag hjälper inte till så mycket om mina föräldrar inte ber mig.",
+        "modified": "Mon, 19 Dec 2022 14:05:16 GMT",
+        "topic_item": {
+          "label": "✏️ Beskriv hur livet är i ditt hem",
+          "label_i18n": {
+            "sv": "✏️ Beskriv hur livet är i ditt hem"
+          },
+          "type": "Textarea",
+          "uuid": "89e7e698-0562-4027-959e-6806be44cadc"
+        },
+        "uuid": "816af1d9-2dbc-435f-b8f2-525eb66d5302"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:05:16 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:05:16 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "81e4ab77-1bda-4cc7-831b-3a2cfea6f5e1"
+        },
+        "uuid": "65cc185e-382e-4b5d-b03f-45083e399799"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

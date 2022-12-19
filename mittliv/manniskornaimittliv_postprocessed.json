@@ -24531,5 +24531,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00717",
+    "contributor": {
+      "display_name": "Ellen"
+    },
+    "created": "Mon, 19 Dec 2022 14:05:08 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:05:08 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20309",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "ae45de99-5f57-46df-a854-c3fe5447d683",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:05:08 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:05:08 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "7efdeb63-9730-4892-aca3-957b2ad979ca"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:05:08 GMT",
+        "display_value": "Tre personer i mitt liv\nEllinor:                                                                                                        Ellinor är min bästa vän och vi har känt varandra i 11 år. Hon betyder väldigt mycket för mig eftersom vi har känt varandra så länge och hon är som en syster till mig. Våra mammor är också bästa kompisar, det gör så att hela våra familjer är kompisar. När vi är tillsammans så pratar vi, hoppar studsmatta, barkar och en massa andra saker som jag inte kan komma på nu.\n\n\nVera: \nVera är en av min bästa kompisar och vi är med varandra varje dag om ingen är sjuk. Hon betyder väldigt mycket för mig för att jag känner att jag verkligen kan vara mig själv när jag är med Vera och jag kan berätta nästan allt för henne.\n\nPå rasterna i skolan brukar vi stretcha och stå på händer. Jag har väldigt roligt nät jag är mer Vera. Båda vi gillar att göra nästan samma saker framför allt  mycker akrobatiska saker så vi har varit på jamp yard flera gånger.\n\n\nElias: \nElias är en av mina tre storebröder och det är Elias som jag är mest med. för mina andra storebröder är äldre och en har flyttar hemifrå och en är 18 och är mycket med sina kompisar.\n\nElias betyder mycket för mig för att jag känner mig väldigt trygg med honom och vi brukar ha väldigt roligt tillsammans. \n\nNär vi är tillsammans gör vi väldigt mycket, vi hoppar studsmatta, vi tittar på film och mycket annat vi gör lite vad vi känner för. Vi är med varandra väldigt ofta och har väldigt mycket.",
+        "modified": "Mon, 19 Dec 2022 14:05:08 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "7a1a76ce-b6e8-4ebf-a0ae-70c2a6af05ec"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
