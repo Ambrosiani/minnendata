@@ -22052,5 +22052,234 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00680",
+    "contributor": {
+      "display_name": "Carola"
+    },
+    "created": "Mon, 19 Dec 2022 14:31:06 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:31:06 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20351",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "206cacd9-eee4-4dd8-a554-8d9b7488d006",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:31:06 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:31:06 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "7c1da22c-ddd4-4969-a1a1-924ef635c771"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:31:06 GMT",
+        "display_value": "Mitt liv 2050\n2050 låter som ett sjukt år. Kanske det är världskrig nu, kanske en asteroid slog eller klimat värme blev värre. Massor med saker kan hända, men jag kan berätta vad jag vill jobba med, hur jag vill ha mitt liv, och vart jag vill leva.\n\nJust nu så vet jag inte med vad jag vill göra i framtiden men jag har 2 jobb jag tänkte fokusera just nu på. Det första är att jobba som tandläkare, eftersom jag tycker att det skulle faktiskt vara roligt jobba som en tandläkare. Jag gillar gå till tandläkare som är konstigt eftersom många är rädda från de. Men det andra är något med ekonomi men jag är osäker på denna jobb. \n\nMen om allting går bra med skolan och har pengar så vet jag inte vart jag vill bo (vilket land jag vill bo). Jag menar att jag vill BORT från Sverige så snabbt jag har mycket pengar. Det låter underligt att jag vill bort här eftersom jag var född här och har levt här hela min ungdom. Men jag tycker att Sverige är jätte deprimerad land, Vet inte vad det gör så att för mig det ser ut så deppigt, kanske för att jag har här ingen. \nJust nu så vet jag inte vilket land vill jag bo men min första val är typ Sydkorea eller Polen, i Polen så lever min hela familj och jag är redan van med att vara i Polen, och i Sydkorea så vill jag bo där för att jag tycker att där är det mer tryggare än Sverige och Polen. Men också för att jag skulle vilja gå någonstans jag har aldrig varit. \n\nMen hur vill jag ha mitt liv?\nJag vill ha ganska rikt men också inte jättemycket som typ Kylie jenner eller Elon musk. Jag vill vara lagom rik, så att jag kan ha ett fint/ mysigt hus och pengar för mig själv. Men annars så tänker jag inte på någon en relation med någon. Jag kan leva ensam med mina djur. Som Tex. katt och en hund.\n\nDet va allt jag har tänkt om mitt framtid. Jag kanske har något mer jag vill vara men det kommer vara bara till mig själv. ;)",
+        "modified": "Mon, 19 Dec 2022 14:31:06 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "ff0dd43c-9934-4797-ae90-edcc93281a91"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00682",
+    "contributor": {
+      "display_name": "Ester"
+    },
+    "created": "Mon, 19 Dec 2022 14:37:15 GMT",
+    "image_dms_id": "019EBskTW4JVt",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Tue, 04 Oct 2022 13:26:03 GMT",
+        "description": "Det här är ett av husen som jag skulle vilja bo i 2050.",
+        "dms_id": "019EBskTW4JVt",
+        "image_height": 707,
+        "image_ratio": 1.900990099009901,
+        "image_width": 1344,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 04 Oct 2022 13:26:03 GMT",
+        "name": "kronas-1344x707.jpg",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "📱 Här kan du lägga upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "2f666271-2898-4e45-aba2-98d96edde482"
+        },
+        "type": "image",
+        "uuid": "0a1438c4-ad5b-472e-ade6-c850ad85d2a7",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 04 Oct 2022 13:27:59 GMT",
+        "description": "Såhär skulle jag vilja ha min ridbana",
+        "dms_id": "019EBskTW4JaB",
+        "image_height": 460,
+        "image_ratio": 1.5,
+        "image_width": 690,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 04 Oct 2022 13:27:59 GMT",
+        "name": "52894580a79132322e6990fbffaf4327.jpg",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "📱 Här kan du lägga upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "2f666271-2898-4e45-aba2-98d96edde482"
+        },
+        "type": "image",
+        "uuid": "3f1643ef-db50-42d8-aae0-8cc5c3cc3c29",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 04 Oct 2022 13:27:06 GMT",
+        "description": "Såhär skulle jag också vilja ha mitt hus, det ser lite lyxigare ut än det andra men det andra ser mysigare ut.",
+        "dms_id": "019EBskTW4JVu",
+        "image_height": 786,
+        "image_ratio": 2.035623409669211,
+        "image_width": 1600,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 04 Oct 2022 13:27:06 GMT",
+        "name": "lyxigt-trähus-med-simbassängen-den-stora-141569985.jpg",
+        "order_by_number": 2,
+        "topic_item": {
+          "label": "📱 Här kan du lägga upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "2f666271-2898-4e45-aba2-98d96edde482"
+        },
+        "type": "image",
+        "uuid": "8e7e23c5-1b58-44bf-b1a3-2f29cf617134",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 04 Oct 2022 13:27:37 GMT",
+        "description": "Såhär skulle jag ungefär vilja ha min sadelkammare",
+        "dms_id": "019EBskTW4JVv",
+        "image_height": 350,
+        "image_ratio": 1.2571428571428571,
+        "image_width": 440,
+        "license": "CC0",
+        "mime_type": "image/jpeg",
+        "modified": "Tue, 04 Oct 2022 13:27:37 GMT",
+        "name": "sadelkammare.jpg",
+        "order_by_number": 3,
+        "topic_item": {
+          "label": "📱 Här kan du lägga upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "2f666271-2898-4e45-aba2-98d96edde482"
+        },
+        "type": "image",
+        "uuid": "8871c418-6ce6-46dc-9eb5-518d9cf2d3bc",
+        "owner": "Okänd"
+      },
+      {
+        "created": "Tue, 04 Oct 2022 13:29:28 GMT",
+        "description": "Såhär vill jag ha mitt stall, det ser ut som en dröm ju.",
+        "dms_id": "019EBskTW4JaC",
+        "image_height": 383,
+        "image_ratio": 1.5300261096605745,
+        "image_width": 586,
+        "license": "CC0",
+        "mime_type": "image/png",
+        "modified": "Tue, 04 Oct 2022 13:29:28 GMT",
+        "name": "120010.png",
+        "order_by_number": 5,
+        "topic_item": {
+          "label": "📱 Här kan du lägga upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "2f666271-2898-4e45-aba2-98d96edde482"
+        },
+        "type": "image",
+        "uuid": "aa26e6ff-3eeb-4ff9-a325-63578dbe51f1",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 19 Dec 2022 14:37:15 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20375",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "5a735f33-575d-4445-89e5-a24885d85d4b",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:37:15 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:37:15 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "5296f992-1073-4caf-80b6-0e1d8ab75b53"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:37:15 GMT",
+        "display_value": "Mitt liv 2050\nJag kommer ju ha flyttat hemifrån för länge sedan, just idag så skulle jag vilja bo på landet med ett hus och en trädgård där jag odlar saker. Sen en hästhage, ridbana, ridhus och ett stall lite bredvid mitt hus. Jag vet ju som sagt inte ifall jag skulle vilja det när jag är 41 år men det är iallafall vad jag vill ha nu, sen så skulle jag vilja ha ett jobb där jag tjänar mycket pengar. \n\nJag kommer ha adopterat en dotter och kanske leva ensam, det kommer att finnas hund, katt, höns och hästar på gården. Jag skulle nog vilja jobba med att designa kläder/hästutrustning och skapa ett företag men det tror jag inte kommer hända så jag får väll bara ha något jobb där jag får bra lön. Huset kommer inte se fult ut, det kommer vara trä men ändå se lite “lyxigt” ut, världen vet jag inte riktigt hur det kommer se ut. \n\nJag tror att många djurarter kommer ha dött ut, vet inte riktigt hur miljön kommer vara. Antingen så kommer det ha blivit mycket värre än idag eller så är det samma som idag. Klimatet kommer nog bli lite varmare eftersom man använder så mycket bilar och sånna liknande saker.  Folk har ju skapat elbilar för att det ska bli bättre för miljön men jag tror inte det är så mycket bättre eftersom man behöver väldigt mycket saker för att göra ett batteri. \n\nJag ska ha en häst som jag rider och tränar på och en liten ponny som min dotter ska få och kan lära sig rida. Jag kommer att ha hyrt ut stallplatser så jag får lite pengar av det och så att ingen häst står ensam. \n\n Jag tycker att det ändå är bra att ha ett ganska stort stall för då kan man hyra ut och tjäna pengar. Det kostar ju dock ganska mycket med el och det, men det är ändå min dröm.  Man vet inte hur sin framtid riktigt kommer att se ut men det mesta är hur jag vill ha det, jag kanske kommer bli jätte fattig och bo på gatan. Det vet man aldrig, men det tror jag inte jag kommer vara. Jag är ju trotts allt 41 år gammal.",
+        "modified": "Mon, 19 Dec 2022 14:37:15 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "ad7bdd08-4c65-4c28-b8f2-ef698056ddf2"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

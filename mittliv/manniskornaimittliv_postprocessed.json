@@ -24743,5 +24743,323 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00729",
+    "contributor": {
+      "display_name": "Lisen"
+    },
+    "created": "Mon, 19 Dec 2022 14:30:42 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:30:42 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20348",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a676c4c9-d431-4651-8f30-196f0f5cb7b6",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:30:42 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:30:42 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "7f1fe3d7-cfdf-437d-b613-399945336251"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:30:42 GMT",
+        "display_value": "Tre personer som är viktiga för mig\n\nTre personer som är väldigt viktiga för mig är min syster, pappa och mamma. Mina kompisar betyder också mycket för mig men nu valde jag att skriva om min familj.\n\nMin syster:\n\nJag har en storasyster som är 2 år äldre än mig, 15 år, hon betyder jättemycket för mig. \nVarken jag eller min familj/kompisar tycker att vi är lika men det finns vissa som tycker det, jag tycker att min syster är superlik min pappa. Vi brukar inte hitta på så mycket med varandra men på helger kan vi ibland vara med varandra om ingen av oss har något att göra. \nNär vi är på vårat landställe eller är någonstans med familjen är vi med varandra.\nVi bråkar inte så ofta men vi blir irriterade på varandra ofta. Jag har en väldigt nära relation med min syster.\n\nMin mamma:\n\nMin mamma är 47 år och hon jobbar på securitas. Jag och mamma är inte alls lika på utseende men vi är väldigt lika till sättet. Hon “jobbar” också på friskis.\n\nJag brukar alltid vilja att mamma följer med mig till tandläkare och liknande eftersom hon alltid har koll på allt, iallafall bättre koll än min pappa.\nJag brukar ibland åka in till stan med bara mamma och fika ha det mysigt. \n\n\n\n\nMin pappa:\n\nMin pappa är också 47 år och jobbar på scania. Jag tycker inte heller att jag är lik min pappa. Jag tycker inte att jag är inte lik någon i min familj. Min pappa är väldigt rolig och oseriös. Vi brukar göra små saker med varandra som att handla, laga mat osv.\n\nDem här personerna betyder mycket för mig.",
+        "modified": "Mon, 19 Dec 2022 14:30:42 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "52e0b431-00ad-46b5-843d-f0e1e163e76a"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00731",
+    "contributor": {
+      "display_name": "Carola"
+    },
+    "created": "Mon, 19 Dec 2022 14:31:10 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:31:10 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20352",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "c48c6633-9851-4454-aade-79cccbde9a78",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:31:10 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:31:10 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "6dcdaf3f-40ac-4f35-b4d9-6352341b03f1"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:31:10 GMT",
+        "display_value": "Människorna i mitt liv\nDe viktigaste i mitt liv är familjen, men inte bara mamma, pappa syster och bror. Bara alla i min familj. Vi åker alltid till polen på sommaren och då träffar vi dem. Vi har alltid roligt men, det bästa är när vi gör en grill hos min mormor. Då är nästan alla där och det blir svin roligt.\n\nJag har märkt att min kusin (Wiktoria) tycker att jag är hennes favorit kusin och hon är min. Bara att jag har en till favo kusin. Han heter Fabian och är 4 år äldre än mig,\nmen vi har mycket gemensamt. Till exempel på sommaren vi båda hade tråkigt så vi bara satt och kollade på tiktok, Fabian såg att vi båda har tråkigt så han proponerade att vi båda kollar tillsammans. Det kanske låter tråkigt men för oss var det roligt. Medans vi kollade på tiktok så var alla ute och fikade. Min syrra såg oss och kollade vad vi gjorde. Senare så skrattade hon och sa att vi båda är riktiga introverta. \n\nDäremot jag har också två till personer som är ganska viktiga, och det är min bästa vän och min närmaste kompis. \nMin bästa vän heter Farhana och vi har känt varandra 8 år nu. Vi blev bästisar i 2an och gick tillsammans i samma skolan tills 6an. Vi båda bytte till andra skolor i 7an (Just nu) p.g.a att i vår gamla skola så fanns det inte högstadiet (7-9). Men vi fortfarande snackar med varandra och möts. \nMin närmaste kompis heter Menessa och vi har känt varandra från 3an så i 4 år har vi känt varandra, men vi har fortfarande roligt. Vi skriver inte mycket men vi har en bra kontakt med varandra och jag tänkte att bara vi två ska gå någonstans eftersom vi har aldrig gjort det och de kommer bli roligt. Jag skulle gå i samma skola som henne men fick plats i en annan så jag gick till denna som jag fick plats i eftersom den är bättre. Men när jag berättade för henne om det så blev hon ledsen. Men vi är fortfarande bra vänner.",
+        "modified": "Mon, 19 Dec 2022 14:31:10 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "8da58196-a773-4fd4-99cd-fa343cadbc52"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00733",
+    "contributor": {
+      "display_name": "Olivia "
+    },
+    "created": "Mon, 19 Dec 2022 14:31:47 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:31:47 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20356",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "955ef812-7766-4887-818a-6b61da07e292",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:31:47 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:31:47 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "229668ca-9eb4-4d15-9b84-0dbb58be7076"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:31:47 GMT",
+        "display_value": "Jag har jättemånga viktiga personer i mitt liv så jag kan inte välja. Men om jag absolut måste är det nog mamma, pappa. min farmor och min bästis Alice. \nMin mamma heter Anna, min pappa heter Daniel och min farmor heter Britta.  \nJag skulle nog inte kunna leva utan någon av dom. Så mycket betyder alla för mig. \n\nJag valde min mamma för att hon är alltid där för mig. Varje dag när jag kommer hem från skolan frågar hon hur min dag var och hur jag mår. \nIbland bråkar vi men det är såna saker som man gör i familjen. Min mamma får mig att känna mig trygg hemma och gör mig glad. Vi gör väldigt mycket tillsammans. Men mamma brukar följa med mig när jag har tennismatch och titta på. \n\nJag valde även min pappa för att han bryr sig också jättemycket om mig. Han skämtar ganska mycket så han får en att skratta mycket. Även om han skämtar bryr han sig mycket och man fattar att han skämtar. Jag och pappa gör också lite allt möjligt tillsammans. Men vi brukar träna tillsammans. \n\n Jag valde Alice för att hon är min bästa vän. Hon bryr sig om alla och är jättesnäll. Det är alltid kul att hänga med henne. Vi brukar göra lite blandat när vi hänger men ibland åker vi elscooter. Vi gör också tiktoks ibland. \n\nJag valde min farmor för att hon bryr sig jättemycket om alla. Vi träffas inte så ofta för att vi bor så långt ifrån varandra men när vi gör det brukar det så brukar vi vara med våra kusiner också. Vi träffas mest när det är en högtid som jul. Vi brukar äta middag eller lunch tillsammans eller fika. Men det är alltid kul att vara där. \n\nDet var mina personer som jag valde men det finns såklart mer.",
+        "modified": "Mon, 19 Dec 2022 14:31:47 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "ac863e37-b212-4384-b050-499c790f5839"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00735",
+    "contributor": {
+      "display_name": "Embla"
+    },
+    "created": "Mon, 19 Dec 2022 14:33:22 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:33:22 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20361",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "90f8ec37-23a7-4c67-8e65-015fb3f8809a",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:33:22 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:33:22 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "b7690cee-8aa5-48cb-b4f2-b7b2ec606a89"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:33:22 GMT",
+        "display_value": "Tre personer som är viktiga för mig\nJag har väldigt många som är viktiga för mig i mitt liv, men några av de är: Min mamma, min pappa och min kompis Alma. \n\n Alma är supersnygg, jättesnäll och har en jättebra klädstil. Det är tråkigt att vara i skolan utan henne, vi går i samma klass. Alma har två marsvin och en katt. Hon bor i en stor gul tegelvilla med en gigantisk trädgård. Alma går på ridning två gånger i veckan, jag har följt med henne några gånger. Hon är superduktig. Det går inte att inte skratta när man är med Alma.\n\nPappa älskar kajaker. Han tar varje tillfälle han får för att åka ut och paddla. Hans kajak heter Stefan, det var jag som döpte honom till det. Pappa gillar att spela trummor, det har han gjort sen han var lika gammal som jag är nu. Han och hans kompisar har ett band tillsammans, det heter “Din vän skuggan”. Pappa är jätterolig och får mig att skratta. \n\nMamma älskar kajaker nästan lika mycket som pappa, hennes kajak är vit med svarta och röda detaljer. Hon gillar att gå ut i skogen och plocka svamp. Mamma är jättebra på att rita,  men hon gör inte det så ofta. Mamma är duktig på att hjälpa mig med läxor, jag tycker att hon är bra på att förklara saker jag inte förstår.",
+        "modified": "Mon, 19 Dec 2022 14:33:22 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "4d22a74f-c17b-48f5-9267-d1f91f4dc5c2"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00739",
+    "contributor": {
+      "display_name": "Nora"
+    },
+    "created": "Mon, 19 Dec 2022 14:34:10 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:34:10 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20367",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "aa67edbd-6d8f-4707-87e3-a1d8fe043d12",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:34:10 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:34:10 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "4c43165a-043e-4ecd-8e14-fd26ccbda948"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:34:10 GMT",
+        "display_value": "Tre personer som är viktiga för mig är min tvilling syster, min mamma och min pappa. Min syster betyder väldigt mycket för mig eftersom att det är min bästa kompis som man alltid kan hänga med, vi båda rider och vi brukar gå ner till stallet tillsammans. Vi båda går också på friidrott och då brukar vi göra övningar tillsammans. Sen så är vi ju också med varandra varje dag. Min mamma betyder väldigt mycket efter som att hon är min mamma och för att hon är alltid där och förstår, och går att prata med. Hon gillar hästar och att vara i stallet så när hon kan brukar hon kolla när vi rider. Jag rider på tisdagar, torsdagar och lördagar. På tisdagar hoppar jag och då är mamma nere och kollar. På torsdagar brukar hon inte kolla för då är hon hos sin medryttarhäst. Och på lördagar jobbar hon i stallet så då hinner hon inte kolla när jag rider. Hon har ett riktigt jobb med men på lördagar jobbar hon också i stallet. Vi umgås ju också varje dag och helg. Hon är också tränare för min friidrott. Min pappa betyder också väldigt mycket eftersom att han är min pappa och finns också alltid där. Vi träffas varje dag och helg men han brukar inte komma ned till stallet om det inte är tävling, för han gillar inte hästar så mycket.",
+        "modified": "Mon, 19 Dec 2022 14:34:10 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "6a1fdffd-ddb2-446e-a59f-fede867b32f6"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00743",
+    "contributor": {
+      "display_name": "Ester"
+    },
+    "created": "Mon, 19 Dec 2022 14:37:21 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 14:37:21 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20376",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "58fcec4d-5fd0-46aa-91d0-224bf2b55ef5",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 14:37:21 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 14:37:21 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "10406a08-a25a-440f-a781-2c5422628f69"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 14:37:21 GMT",
+        "display_value": "Tre viktiga personer\n\nJag har inga tre viktiga personer om man ska räkna människor, men den enda viktiga personen är nog min mamma. Hon är den som alltid har hjälpt mig med allt så hon betyder väldigt mycket för mig, hon kan vara rätt så jobbigt ibland men det är bara när hon är trött eller inte har ätit någonting. Hon är oftast alltid snäll men som sagt kan hon  vara lite sur ibland, vi brukar vara i stallet tillsammans hon brukar gå medans jag rider ut. Sen så brukar vi gå till cafeer tillsammans och ta någon fika. Alltid på kvällarna så brukar vi titta på idol eller något program. \n\nJag har flera viktiga personer men det är inte riktigt människor, jag har min kanin och “mina” två hästar. De är inte riktigt mina men jag brukar rida dem rätt så ofta. De betyder väldigt mycket för mig.",
+        "modified": "Mon, 19 Dec 2022 14:37:21 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "dd27ed26-934e-4b28-9e30-4655620d2f1c"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
