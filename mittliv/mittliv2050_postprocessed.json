@@ -21840,5 +21840,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00672",
+    "contributor": {
+      "display_name": "Jacob"
+    },
+    "created": "Mon, 19 Dec 2022 09:30:32 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 09:30:32 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20305",
+    "published": true,
+    "school_uuid": "ed1db3fd-7d48-4d70-a534-17103db9f6ee",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "943cc472-3a50-4012-a228-914395830fa4",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 09:30:32 GMT",
+        "display_value": "2009",
+        "modified": "Mon, 19 Dec 2022 09:30:32 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "88f37ab2-431a-4373-9377-68917dcbab41"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 09:30:32 GMT",
+        "display_value": "År 2050 är jag 41 år gammal. 2050 tror jag att alla bilar kommer vara eldrivna och det kommer finnas flera kärnkraftverk så att det blir bättre för miljön. För att miljön är dålig just nu och jag tror att det kommer vara bättre år 2050. Jag hoppas att jag jobbar med fotboll på något sätt som t.e.x fotbollsspelare eller fotbollstränare. Jag vill bo i en villa med en sambo och två barn. Jag tror att det kommer finnas nya maträtter 2050 men jag kommer fortfarande äta det som finns idag som t.e.x hamburgare. \nEn vanlig dag i mitt liv 2050 är att jag vaknar av min telefon som ringer och sedan så äter jag frukost och då har jag en maskin som gör frukosten av sig själv.\nSen går jag till jobbet och jobbar till klockan är 16.00 sedan hämtar jag mina barn från skolan. Efter det åker vi till free food som ger gratis mat och hämtar mat som vi sedan äter när vi kommer hem. Därefter kollar vi på tv tills klockan är 21.00 och då ska barnen sova. Sedan går jag och sover 22.30. Det skulle jag tro är en vanlig dag i mitt liv 2050.",
+        "modified": "Mon, 19 Dec 2022 09:30:32 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "2122f13d-85ad-4bc2-9d73-b21f5f0d41a1"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
