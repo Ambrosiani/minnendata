@@ -22281,5 +22281,164 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00686",
+    "contributor": {
+      "display_name": "Selma"
+    },
+    "created": "Mon, 19 Dec 2022 15:47:02 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 15:47:02 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20420",
+    "published": true,
+    "school_uuid": "5407422d-a230-43d5-894e-4867f225454a",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "b5e1eb9a-8fd2-4959-a6b8-65ea85fd485a",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 15:47:02 GMT",
+        "display_value": "gissa! nej jag skoja 2010",
+        "modified": "Mon, 19 Dec 2022 15:47:02 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "1c093a9c-1938-4829-bdc5-1dde6c9fa4d7"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 15:47:02 GMT",
+        "display_value": "jag tror att jag kommer bo i en liten fin by med inte så mycket människor och att alla känner alla. jag kommer ha en familj, typ en man och tre barn. jag vet inte riktigt vad jag kommer jobba som, men något kul som är jätteroligt. jag vill få vara med i bäst i test när jag blir stor och vill vara känd. men inte så att jag behöver livvakter , utan bara lite känd. kanske sångare.",
+        "modified": "Mon, 19 Dec 2022 15:47:02 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "94f22704-2db1-49f0-8040-67162dd29b75"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00688",
+    "contributor": {
+      "display_name": "Edvard"
+    },
+    "created": "Mon, 19 Dec 2022 15:51:18 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 15:51:18 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20426",
+    "published": true,
+    "school_uuid": "5407422d-a230-43d5-894e-4867f225454a",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "e4c2e778-8aa0-45a1-9c81-9e606d1deb04",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 15:51:18 GMT",
+        "display_value": "2010",
+        "modified": "Mon, 19 Dec 2022 15:51:18 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "c83018a1-c7f5-4eff-b9fe-4f157867c8a2"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 15:51:18 GMT",
+        "display_value": "Jag tror att jag kommer vara död. Jag blev hemlös och tog droger.",
+        "modified": "Mon, 19 Dec 2022 15:51:18 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "fbb20e51-42d7-42ad-b264-eadbb0ad385f"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00690",
+    "contributor": {
+      "display_name": "Arvid"
+    },
+    "created": "Mon, 19 Dec 2022 15:53:55 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 15:53:55 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20435",
+    "published": true,
+    "school_uuid": "5407422d-a230-43d5-894e-4867f225454a",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "58c23df8-56c2-43a4-8aa3-770f2bf48b97",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 15:53:55 GMT",
+        "display_value": "2010",
+        "modified": "Mon, 19 Dec 2022 15:53:55 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "499727ab-b843-4fe1-bb33-53510d28191a"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 15:53:55 GMT",
+        "display_value": "Jag tror att jag kommer leva med någon typ av en familj i ett hus och jobba med något tråkigt.",
+        "modified": "Mon, 19 Dec 2022 15:53:55 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "556f52a2-294c-464f-99c6-d7b8c79cf102"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
