@@ -25061,5 +25061,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00749",
+    "contributor": {
+      "display_name": "Carl"
+    },
+    "created": "Mon, 19 Dec 2022 15:38:19 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 19 Dec 2022 15:38:19 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20402",
+    "published": true,
+    "school_uuid": "5407422d-a230-43d5-894e-4867f225454a",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "123450dc-b9a0-444e-a3ac-2328c5b3a147",
+    "values": [
+      {
+        "created": "Mon, 19 Dec 2022 15:38:19 GMT",
+        "display_value": "2010",
+        "modified": "Mon, 19 Dec 2022 15:38:19 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "f2535fdf-4300-407f-ad12-137240673495"
+      },
+      {
+        "created": "Mon, 19 Dec 2022 15:38:19 GMT",
+        "display_value": "Min Mamma för de var hon som födde mig och hon är en viktig del av mitt liv och hon är väldigt viktig för mig. Min Pappa är också en viktig del av mitt liv. Sedan tog jag min morfar för han har alltid vara med mig och varit snäll och han är jätte-trevlig.",
+        "modified": "Mon, 19 Dec 2022 15:38:19 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "1922c27d-8e80-417f-8efd-87abb2d3462c"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
