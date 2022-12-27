@@ -25512,5 +25512,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00767",
+    "contributor": {
+      "display_name": "Benjamin"
+    },
+    "created": "Tue, 27 Dec 2022 09:11:10 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 27 Dec 2022 09:11:10 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20454",
+    "published": true,
+    "school_uuid": "946d3e5b-6f82-4c0d-aef9-0a1c8fa5f942",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "534842da-156a-4a09-b42b-13b6ada0cd91",
+    "values": [
+      {
+        "created": "Tue, 27 Dec 2022 09:11:10 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 27 Dec 2022 09:11:10 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "08dada05-5fc5-4378-b497-e87316244209"
+      },
+      {
+        "created": "Tue, 27 Dec 2022 09:11:10 GMT",
+        "display_value": "Min mamma, pappa och min storebror betyder väldigt mycket för mig för att min mamma och pappa tar hand om mig och min storebror brukar hjälpa mig när jag inte kan sova.",
+        "modified": "Tue, 27 Dec 2022 09:11:10 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "94fd9c64-c363-4a1d-8d2c-430c9ed1128c"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

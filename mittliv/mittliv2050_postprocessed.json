@@ -22440,5 +22440,58 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00692",
+    "contributor": {
+      "display_name": "Benjamin"
+    },
+    "created": "Tue, 27 Dec 2022 09:11:19 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 27 Dec 2022 09:11:19 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20455",
+    "published": true,
+    "school_uuid": "946d3e5b-6f82-4c0d-aef9-0a1c8fa5f942",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "9e48ac86-942d-4540-be15-0d7b302b97a8",
+    "values": [
+      {
+        "created": "Tue, 27 Dec 2022 09:11:19 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 27 Dec 2022 09:11:19 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "d35e0e4d-0394-40ce-a73b-075f94df1646"
+      },
+      {
+        "created": "Tue, 27 Dec 2022 09:11:19 GMT",
+        "display_value": "Jag har ett jobb, två barn, ett hus och en hund, det är fred, alla avgaser är borta och alla varor är billiga och bra.",
+        "modified": "Tue, 27 Dec 2022 09:11:19 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "43a909c7-b01f-4511-83d7-2f1f643fcc0a"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
