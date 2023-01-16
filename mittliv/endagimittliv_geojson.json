@@ -26960,6 +26960,70 @@
           58.375799
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "EN DAG I MITT LIV  \n\nAv Caspian SN \n\nJag vaknar vid 07:00 och då klär jag på mig kläder brukar oftas…",
+        "date": "16 januari 2023",
+        "author": "Caspian",
+        "url": "https://minnen.se/tema/endagimittliv/20506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.141899,
+          59.274198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv \n\nJag heter Vanja och jag är 11 år gammal jag bor i Bagarmossen på Ätravägen 15 oc…",
+        "date": "16 januari 2023",
+        "author": "Vanja ",
+        "url": "https://minnen.se/tema/endagimittliv/20507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.141899,
+          59.274198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Min dag \n\nAv Theodor Grunditz 5A \n\nEn vanlig dag mitt liv ser ut ungefär såhär. Först så vaknar jag,…",
+        "date": "16 januari 2023",
+        "author": "Theodor",
+        "url": "https://minnen.se/tema/endagimittliv/20508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.141899,
+          59.274198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är en normal tioåring som snart ska fylla elva.  \n\nJag bor i ett radhus i Stockholm kring en går…",
+        "date": "16 januari 2023",
+        "author": "Vera ",
+        "url": "https://minnen.se/tema/endagimittliv/20509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.141899,
+          59.274198
+        ]
+      }
     }
   ]
 }
