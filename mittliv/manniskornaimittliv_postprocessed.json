@@ -25835,5 +25835,113 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00779",
+    "contributor": {
+      "display_name": "Milton"
+    },
+    "created": "Tue, 17 Jan 2023 10:27:19 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 10:27:19 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20559",
+    "published": true,
+    "school_uuid": "946d3e5b-6f82-4c0d-aef9-0a1c8fa5f942",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "b97f72a2-6420-4f5a-8d17-52f14fc10e3a",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 10:27:19 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 17 Jan 2023 10:27:19 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "8ed317ab-9ca0-458d-bc39-3991b43ded50"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 10:27:19 GMT",
+        "display_value": "dad mom bro",
+        "modified": "Tue, 17 Jan 2023 10:27:19 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "566d5d8d-0a6f-4620-8ecd-37f6303f53df"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00781",
+    "contributor": {
+      "display_name": "Noah"
+    },
+    "created": "Tue, 17 Jan 2023 10:29:14 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 10:29:14 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20563",
+    "published": true,
+    "school_uuid": "946d3e5b-6f82-4c0d-aef9-0a1c8fa5f942",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a1a27828-8563-4e59-82dd-7004deb8986d",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 10:29:14 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 17 Jan 2023 10:29:14 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "e07a841d-c43b-435f-bd73-1aa44b2d905a"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 10:29:14 GMT",
+        "display_value": "Min första person är min Mamma hon betyder allt för mig, hon lagar alltid jätte god mat och tar hand om vår familj på det bästa sättet. När jag är med min Mamma brukar vi gå ut eller kolla på en film.\n\nMin andra person son jag har valt är min Pappa, han är en jätte fin person och försöker alltid göra vår familj glada genom alla sätt. När vi är tillsammans brukar vi kolla på fotbollsmatcher eller som med min mamma gå ut någonstans.\n\nMin nästa person var väldigt svår att välja för jag vill skriva om Min storebror Joel och min storasyster Delina. Men jag har valt min syster, jag har valt henne för hon är alltid snäll och bryr sig om hela familjen. Med Delina tycker jag om att baka, spela både tv-spel och brädspel men jag tycker också om att kolla på film med henne.",
+        "modified": "Tue, 17 Jan 2023 10:29:14 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "db8ef5ee-6cb1-4dcd-8283-e03207136718"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
