@@ -25727,5 +25727,113 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00775",
+    "contributor": {
+      "display_name": "Algot "
+    },
+    "created": "Tue, 17 Jan 2023 08:09:14 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 08:09:14 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20551",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "06e99b9c-37a8-4a29-a4a9-5ee85c42b8aa",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 08:09:14 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 17 Jan 2023 08:09:14 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "bff1a433-7619-4caf-a12d-d48418e75bca"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 08:09:14 GMT",
+        "display_value": "Jag har många kompisar och i släkten men dom allra viktigaste är mamma och pappa som finns där hela tiden. Till exempel när jag ska börja med en ny sport så försöker pappa att bli tränare på varje sport så han ska kunna se mig. Han hjälper mig att komma ett steg fram mot min dröm. Och mamma finns alltid med mig och hjälper mig med allt. Jag och mamma umgås inte så mycket eftersom att mamma jobbar när jag är på skolan och när mamma inte jobbar så tränar jag. Men jag och pappa umgås nästan varje dag eftersom att han är tränare och kör mig till träningar.  Dom betyder jättemycket för mig.  Och min tredje människa är Oscar. Oscar är min bäst kompis. Jag och han brukar umgås på skolan och ibland på fritiden. Men oftast kan ingen vara med varandra eftersom att båda två tränar mycket. Oscar betyder också mycket för mig!",
+        "modified": "Tue, 17 Jan 2023 08:09:14 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "c5c46117-57d2-45a0-b717-e901c7460466"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00777",
+    "contributor": {
+      "display_name": "Lukas"
+    },
+    "created": "Tue, 17 Jan 2023 08:19:01 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 08:19:01 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20556",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "e0740915-b3fa-4f13-8ed6-4834052a3aac",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 08:19:01 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 17 Jan 2023 08:19:01 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "2be429cb-c482-41aa-bcb7-cc84ae9c8ad7"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 08:19:01 GMT",
+        "display_value": "mamma är viktig för hon har tagit hand om mig hela mitt liv och hjälp mig med läxor och sånt när jag var liten.\npappa är viktig för han har också tagit hand om mig hela mitt liv.\nElliot är inte lika viktig men annars hade jag haft de tråkigt när jag va liten.",
+        "modified": "Tue, 17 Jan 2023 08:19:01 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "6b4cf2fc-888b-4128-9a5c-d368225e2980"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
