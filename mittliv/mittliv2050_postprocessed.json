@@ -22493,5 +22493,167 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00694",
+    "contributor": {
+      "display_name": "Oscar"
+    },
+    "created": "Tue, 17 Jan 2023 07:53:53 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 07:53:53 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20538",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6263a70d-544b-4763-b36a-fae80fc23741",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 07:53:53 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 17 Jan 2023 07:53:53 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "05737b94-857c-45be-8cb1-6bf6d3751d49"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 07:53:53 GMT",
+        "display_value": "Jag tror att jag kommer ha okej med pengar och ha en tjej och två barn. Jag kommer ha ett väldigt bra liv också.",
+        "modified": "Tue, 17 Jan 2023 07:53:53 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "8f839228-37fa-4f94-b743-5d44a71a5cbc"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00696",
+    "contributor": {
+      "display_name": "Elias "
+    },
+    "created": "Tue, 17 Jan 2023 08:02:23 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 08:02:23 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20542",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "5f0b4d0e-0f9e-413c-8b42-e7d822f3e789",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 08:02:23 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 17 Jan 2023 08:02:23 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "8b981dad-93f6-457a-8ad4-5d220bc500d9"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 08:02:23 GMT",
+        "display_value": "Att jag är en framgångsrik man. då tror jag att det finns flygande bilar. att alla bensin och disel bilar inte finns kvar. att jag bor i ett stort hus och att jag har fått 1 eller flera barn.",
+        "modified": "Tue, 17 Jan 2023 08:02:23 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "4aa07ea9-ed12-437b-91e8-6f40aa4db185"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00698",
+    "contributor": {
+      "display_name": "Jon "
+    },
+    "created": "Tue, 17 Jan 2023 08:03:56 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 08:03:56 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20545",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "e5e6779f-4432-4069-830e-a69c20dbdaa4",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 08:03:56 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 17 Jan 2023 08:03:56 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "06ab27e2-b5b2-4aed-9485-316f974c6e55"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 08:03:56 GMT",
+        "display_value": "Jag förväntar mig att jag bor i ett eget hus men egen bil och allt som man behöver . Jag hoppas att gamla bilar inte blir för sällsynta och att dom inte blir dyra och jag hoppas att drivmedelspriser och elpriser går ner i pris annars kommer inte folk ha råd.",
+        "modified": "Tue, 17 Jan 2023 08:03:56 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "312804c3-f3b0-42be-9d91-c93a06959125"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

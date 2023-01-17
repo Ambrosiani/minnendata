@@ -25565,5 +25565,167 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00769",
+    "contributor": {
+      "display_name": "Oscar"
+    },
+    "created": "Tue, 17 Jan 2023 07:54:08 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 07:54:08 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20540",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "09ca29ff-ee70-4a31-be7d-b45f6804414e",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 07:54:08 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 17 Jan 2023 07:54:08 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "bedc7302-5d56-469d-b185-05231a4310cc"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 07:54:08 GMT",
+        "display_value": "Pappa och mamma och my\npappa hjälper mig med att fixa minna saker när dom går sönder. Mamma är snäll. My är helt dum i huvudet så de blir kul.",
+        "modified": "Tue, 17 Jan 2023 07:54:08 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "b006a041-6134-4a46-a4e0-61ad43740bdf"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00771",
+    "contributor": {
+      "display_name": "Elias "
+    },
+    "created": "Tue, 17 Jan 2023 08:02:27 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 08:02:27 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20543",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "2c484ed3-adaf-4103-87cc-d3ba26a0a23d",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 08:02:27 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 17 Jan 2023 08:02:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "36e0f366-462d-4698-a2ed-96bdc091fc52"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 08:02:27 GMT",
+        "display_value": "mamma: Mamma tar hand om mig, hon lagar mat åt mig, hon kör mig till träningar och till matcher igen. \n\nPappa: Pappa har hjälpt med med mina sporter genom alla tider. Pappa vill alltid att jag ska ha det så bra som möjligt.\n\nFarmor:  Farmor hjälper mig om båda mina föräldrar jobbar så kan hon hämta mig ifrån skola och fixa mat, hon kör mig också till träningar.",
+        "modified": "Tue, 17 Jan 2023 08:02:27 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "c73c6231-8fc8-439a-84df-9343554e48b0"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00773",
+    "contributor": {
+      "display_name": "Jon "
+    },
+    "created": "Tue, 17 Jan 2023 08:03:59 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 17 Jan 2023 08:03:59 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20546",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "242c64b6-d8b1-40a4-9acd-188b9806ee9b",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 17 Jan 2023 08:03:59 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 17 Jan 2023 08:03:59 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "be57e5a4-d8aa-4858-8335-754e7f79440b"
+      },
+      {
+        "created": "Tue, 17 Jan 2023 08:03:59 GMT",
+        "display_value": "Mamma är viktig för mig för hon hjälper mig med allt och det är allt jag har och får är av henne. Pappa ät jätteviktig för mig för han hjälper och finns alltid om jag behöver hjälp.\nMarkus är min morbror och är viktig för mig för vi är väldigt bra kompisar och vi umgås mycket.",
+        "modified": "Tue, 17 Jan 2023 08:03:59 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "37aa4589-0630-47b9-a2f9-da776de8094b"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
