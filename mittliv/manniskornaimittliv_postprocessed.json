@@ -25943,5 +25943,167 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00783",
+    "contributor": {
+      "display_name": "Ella "
+    },
+    "created": "Wed, 18 Jan 2023 07:53:10 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 18 Jan 2023 07:53:10 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20569",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "09cfa9e0-2a68-48d6-b95d-dcde0f1eb332",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 18 Jan 2023 07:53:10 GMT",
+        "display_value": "2008",
+        "modified": "Wed, 18 Jan 2023 07:53:10 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "cdbb737e-fea0-4795-ada8-a0b840cb2d8d"
+      },
+      {
+        "created": "Wed, 18 Jan 2023 07:53:10 GMT",
+        "display_value": "Clara - Clara är min bästa vän och min klasskompis. Jag tycker om Clara för att hon är snäll och rolig, vi skrattar jääääättemycket med varandra. Ibland skrattar vi för att något roligt hänt men ibland skrattar vi även för typ ingenting. Jag älskar att vara med Clara. Ibland så blir hon lite sur på mig och det är lite blandat varför. Det är oftast för att hon tycker att jag är jobbig när jag petar på henne och behöver hjälp, då brukar hon knuffa till mig men vi kan bara skratta åt det efteråt. Det är det som är så bra med Clara, man blir glad av henne och glad av sakerna hon gör. Clara betyder jättemycket för mig. Hon gör att det är kul att gå till skolan för jag vet redan innan att vi kommer ha kul och det är det som är så bra med henne. Vi brukar inte direkt hänga så jättemycket på fritiden då vi båda har mycket att göra. Ibland så får vi dock till det och har jättekul tillsammans. Även om dagen kanske börjar dåligt så blir det bra och vi skrattar och jag blir bara glad när jag är med Clara. \n\nMamma - Mamma är också en viktig människa i mitt liv. Jag älskar min mamma massor och det hade varit svårt att leva utan henne. Mamma och jag brukar göra massa olika saker tillsammans. Vi har rest lite i Sverige till olika platser och varit med varandra men vi brukar även försöka få till lite olika shoppingdater då och då. Jag vet att hon skulle göra allt för ,mig och jag skulle göra allt för mamma. Hon hjälper mig genom massa saker och vi har så kul tillsammans. Vi har inte så många bråk som andra mamma - döttrar runt omkring mig utan vi håller oftast sams. Hon är som min bästa kompis och jag älskar henne så så så mycket. \n\nFarmor - En tredje person som betyder mycket för mig är min farmor. Jag älskar min farmor jättemycket. Jag vet att hon alltid finns där för mig. Hon älskar att curla mig och skämma bort mig lite ibland och jag tycker verkligen om att vara med henne. Vi brukar göra massa olika saker tillsammans. Det kan vara allt ifrån att städa, laga mat till att shoppa och skratta åt saker. Farmor är jätteviktig för mig och jag blev ledsen av att bara tänka på det. Jag är det yngsta barnbarnet och farmor har upplevt så mycket med de andra men det är ändå mig hon älskar mest, det vet jag. Jag älskar min farmor och hon älskar mig. Kärleken till henne är obeskrivligt stor och tanken av att förlora henne skrämmer mig jättemycket.",
+        "modified": "Wed, 18 Jan 2023 07:53:10 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "af34ddc4-bdf2-43ab-a369-ef872ea9b1f9"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00785",
+    "contributor": {
+      "display_name": "Clara"
+    },
+    "created": "Wed, 18 Jan 2023 07:54:28 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 18 Jan 2023 07:54:28 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20573",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "5d72c396-68d4-4277-9522-b76461021d14",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 18 Jan 2023 07:54:28 GMT",
+        "display_value": "2008",
+        "modified": "Wed, 18 Jan 2023 07:54:28 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "a7770cc4-59d0-407d-b744-6d5bf7786a0e"
+      },
+      {
+        "created": "Wed, 18 Jan 2023 07:54:28 GMT",
+        "display_value": "Dom tre viktigaste personerna i mitt liv är min pappa, mamma och min kompis Ella. \n\nElla får mig alltid på bra humör och hon är en riktig glädjespridare, oavsett vilket humör du är på så får hon dig alltid glad.  Jag kan ha en piss dag rent sagt å hon får den bra och rolig, därför är hon min bästa vän. En av dom mest positiva människor jag nånsin träffat och alla borde ha en vän som betyder så mycket för en som Ella betyder för mig då hon verkligen är bäst. \nSedan har vi min andra bästa vän, min pappa. Det märks verkligen att jag är hans dotter på det sättet vi skrattar med varandra och har samma humör.  Vi är nästan som tonårskompisar när vi ger varandra blickar och förstår exakt vad den andra menar.  Han har också en egenskap som jag har en enorm hatkärlek till och det är att han är svår att bli arg på för att  när man väl är arg på han så försöker han få en och skratta. Man mår såklart bättre men det är lite irriterande när man försöker vara arg på han och man börjar skratta istället men han är trots allt min bästa vän.\nTill sist så har vi min största supporter och stöttare, min mamma. Vi spenderar otroligt mycket tid tillsammans i stallet och inom ridningen. Hon är alltid vid min sida när jag tex tävlar och är enormt engagerad genom att hon kör mig vart jag än vill tävla och stöttar mig oavsett hur det går. Hon ser alltid det positiva och bir inte sur på hästen utan berättar vad jag hade kunnat gjort annorlunda. Hon finns alltid där för mig och därför är hon en viktig och stor del av mitt liv.",
+        "modified": "Wed, 18 Jan 2023 07:54:28 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "f5be36fe-cb37-450f-9259-b8aef517ab59"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00787",
+    "contributor": {
+      "display_name": "Emil"
+    },
+    "created": "Wed, 18 Jan 2023 07:56:17 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 18 Jan 2023 07:56:17 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20577",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "fe72dc24-023c-4817-b776-4f2fdc8709f6",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 18 Jan 2023 07:56:17 GMT",
+        "display_value": "2008",
+        "modified": "Wed, 18 Jan 2023 07:56:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "464b2ed9-a3f8-4b7e-817f-ad930227ec16"
+      },
+      {
+        "created": "Wed, 18 Jan 2023 07:56:17 GMT",
+        "display_value": "De personer som är viktiga för mig det Mamma, Pappa och My de för de betyder mycket för mig och jag gillar dom skit mycket. Mamma och pappa har alltid funnits för mej och de har hjälp mej om jag har haft problem med något.",
+        "modified": "Wed, 18 Jan 2023 07:56:17 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "2f934042-dcf9-42c6-9eac-190e6893ffce"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

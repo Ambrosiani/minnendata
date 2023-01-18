@@ -22763,5 +22763,167 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00704",
+    "contributor": {
+      "display_name": "Ella "
+    },
+    "created": "Wed, 18 Jan 2023 07:53:06 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 18 Jan 2023 07:53:06 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20568",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "3a8d2b40-5c8c-46d4-8eb8-dd1a8e878f62",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 18 Jan 2023 07:53:06 GMT",
+        "display_value": "2008",
+        "modified": "Wed, 18 Jan 2023 07:53:06 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "445ca420-c399-4a6e-ab73-58c27eb5c83b"
+      },
+      {
+        "created": "Wed, 18 Jan 2023 07:53:06 GMT",
+        "display_value": "Jag föreställer mig att jag år 2050 bor jag i ett stort hus. Min dröm är att bo i ett stort hus med stort kök, stora fönster, jättefin badrum med lyxigt badkar och dusch och det viktigaste av allt, en STOR walk in closet. Jag har även två visioner om hur jag vill bo i själva huset. Antingen så har jag en till  två hundar och en man. Helst hade jag även varit rik och haft ett rolig jobb. Om inte det så skulle jag vilja resa runt. Att vara rik och kunna resa och upptäcka tycker jag låter så otroligt kul och det är något som jag verkligen skulle vilja uppleva. Jag skulle även i mitt hus vilja ha ett walk in skafferi, ett rum med massa matvaror och liknande. Jag hoppas även att jag blir lite av en \"gumma\" som står och bakar kakor som jag kan bjuda gäster som kommer. Det tycker jag skulle ha varit jättemysigt.\nJag hoppas att världen ser bättre ut år 2050 än den gör nu, 2023. Klimatet är jättedåligt. Vintern har knappt än snö och det växlar mellan plus och minusgrader varje dag. Ena dagen snöar det jättemycket men andra dagen regnar det bort. Jag hoppas verkligen att det år 2050 är ett bra klimat med tydliga årstider. Den globala uppvärmningen hoppas jag har stoppats så gott det går i alla fall. Just nu pratas det mycket om klimatet och vi människor får massa varningar och råd men jag hoppas att vår generation inte förstört alldeles för mycket för framtiden. Det var det som jag tror om 2050.",
+        "modified": "Wed, 18 Jan 2023 07:53:06 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "5917507e-7c23-42d8-81d0-a1ba8d8a2511"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00706",
+    "contributor": {
+      "display_name": "Clara"
+    },
+    "created": "Wed, 18 Jan 2023 07:54:23 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 18 Jan 2023 07:54:23 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20572",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "445195f6-749b-42ca-a235-2cb17caa1638",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 18 Jan 2023 07:54:23 GMT",
+        "display_value": "2008",
+        "modified": "Wed, 18 Jan 2023 07:54:23 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "49216866-a902-4ed1-99b4-90a80a6524ad"
+      },
+      {
+        "created": "Wed, 18 Jan 2023 07:54:23 GMT",
+        "display_value": "När 2050 kommer är jag 42 år och föreställer mig att jag har utbildat mig till en färdig kirurg och att jag har skaffat familj. Mitt mål är att bli kirurg eller i alla fall läkare och rädda liv och ta hand om människor.  En stabil inkomst är viktig om jag ska ha barn och jag hoppas att även när jag är 42 år så bor jag på en gård och håller på med hästar. Kanske tillsammans med mina barn som min mamma gör nu eller i alla fall nått liknande. Bara jag är lycklig spelar det ingen roll hur det ser ut men det är såhär jag föreställer mig mitt liv om 27 år.",
+        "modified": "Wed, 18 Jan 2023 07:54:23 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "1d841d92-ba95-4774-93f3-1da3dff97d66"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00708",
+    "contributor": {
+      "display_name": "Emil"
+    },
+    "created": "Wed, 18 Jan 2023 07:55:58 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 18 Jan 2023 07:55:58 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20576",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "14943c56-0164-4faa-a163-8442a4690727",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 18 Jan 2023 07:55:58 GMT",
+        "display_value": "2008",
+        "modified": "Wed, 18 Jan 2023 07:55:58 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "8dc74031-723b-4dc4-9855-d024c64458a4"
+      },
+      {
+        "created": "Wed, 18 Jan 2023 07:55:58 GMT",
+        "display_value": "Jag tror att jag har 2 barn och är gift och jag kommer bo i ett stort hus i skogen och jag har 6 hundar 2 drevrar och 2 jämthundar och en stövare och 1 terier. Jag har 1 volvo 945 turbo och en nissan navara.",
+        "modified": "Wed, 18 Jan 2023 07:55:58 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "32bb3fff-49bd-4da1-9b95-a5cadac449b4"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
