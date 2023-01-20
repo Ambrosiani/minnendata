@@ -22925,5 +22925,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00710",
+    "contributor": {
+      "display_name": "Edvin"
+    },
+    "created": "Fri, 20 Jan 2023 20:26:00 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 20 Jan 2023 20:26:00 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20593",
+    "published": true,
+    "school_uuid": "4ab927bc-c0ba-4076-9279-7c45d289ca7e",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "fea0b184-a77b-4184-83dc-717a46e40e68",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 20 Jan 2023 20:26:00 GMT",
+        "display_value": "2010",
+        "modified": "Fri, 20 Jan 2023 20:26:00 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "5b8fa129-2351-4103-ae09-ee36090d102b"
+      },
+      {
+        "created": "Fri, 20 Jan 2023 20:26:00 GMT",
+        "display_value": "Jag tror att jag bor själv i ett riktigt stort hus och jag har massor av sport bilar som Bugattis och Porsches. Jag är en av de rikaste människorna i världen antingen för att jag är en bra handboll spelare eller så äger jag ett stort företag som jag startat jag kan också uppfunnit något smart. Jag har inget barn min bror bor tillsammans med mig. Min bror och om jag har ett företag så äger han det med mig. Vi har alla de bästa sakerna som en iPhone 69 och ps 18.\n\nNästan allt i världen är automatiskt det är vanligt med flygande bilar och tåg. Robotar går på gatorna och lever som vi människor. Vissa människor har robot delar som armar. Jag tror också  att slaveri kommer tillbaka för att all demokrati och diktatur faller sönder så en person bestämmer över hela världen och han inskaffade slaveri igen. Sa man i mot honom blev man dödad eller torterad. Han hade militär som gick överallt på gatorna så alla var väldigt rädda för att gå ut ur sitt hem.",
+        "modified": "Fri, 20 Jan 2023 20:26:00 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d2e3ea08-58cb-4240-8fc6-82efdde52c16"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
