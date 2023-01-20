@@ -26105,5 +26105,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00789",
+    "contributor": {
+      "display_name": "Theo"
+    },
+    "created": "Fri, 20 Jan 2023 20:28:47 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 20 Jan 2023 20:28:47 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20605",
+    "published": true,
+    "school_uuid": "4ab927bc-c0ba-4076-9279-7c45d289ca7e",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "887a994a-cd16-4de1-9f5a-5ca586e326ac",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 20 Jan 2023 20:28:47 GMT",
+        "display_value": "2010",
+        "modified": "Fri, 20 Jan 2023 20:28:47 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "19328c72-bf06-4977-a706-1c1b489a8a1a"
+      },
+      {
+        "created": "Fri, 20 Jan 2023 20:28:47 GMT",
+        "display_value": "De jag tycker är viktiga är mina föräldrar och min bror. De är viktiga för mina föräldrar har hjälpt mig hela livet med massa olika saker och kan alltid hjälpa mig om jag behöver och min bror har jag växt upp me i 8 år och har haft kul med hela mitt liv. Jag och han har gjort många saker med varandra och hjälpt varan hela livet.",
+        "modified": "Fri, 20 Jan 2023 20:28:47 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "9ac854de-bc9b-4308-b51e-a4fd2b39d706"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

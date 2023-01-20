@@ -22979,5 +22979,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00712",
+    "contributor": {
+      "display_name": "Theo"
+    },
+    "created": "Fri, 20 Jan 2023 20:28:43 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 20 Jan 2023 20:28:43 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20604",
+    "published": true,
+    "school_uuid": "4ab927bc-c0ba-4076-9279-7c45d289ca7e",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "a77209ed-71d4-4f17-8965-9fa37a6f7e5c",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 20 Jan 2023 20:28:43 GMT",
+        "display_value": "2010",
+        "modified": "Fri, 20 Jan 2023 20:28:43 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "e8fa9b96-ffe5-45ac-9c2b-4d40d4462b13"
+      },
+      {
+        "created": "Fri, 20 Jan 2023 20:28:43 GMT",
+        "display_value": "Jag tror det kommer vara väldigt coolt massa nya coola byggnader och massa nya saker som kan hjälpa folk med olika saker hela tid och människor kommer vara väldigt lata för det kommer vara massa robotar som gör saker åt en och människor kommer inte jobba alls lika mycket och det kommer vara typ 11 miljarder människor på jorden. Alla kommer ha massa moderna saker och naturen kommer vara helt fylld med skräp och helt förstörd. De kommer vara masssa gaser i luften som förstör jorden",
+        "modified": "Fri, 20 Jan 2023 20:28:43 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "1a2f2e34-b2d5-4008-9212-882f883ff7d6"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
