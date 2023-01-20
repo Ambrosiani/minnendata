@@ -911,6 +911,45 @@
     ]
   },
   {
+    "archive_code": "M4/00007",
+    "contributor": {
+      "display_name": "Marianne",
+      "gender": "woman",
+      "uuid": "718ad0e7-f576-42d3-b655-931030d1c8d7"
+    },
+    "created": "Mon, 13 Sep 2021 12:11:28 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17271",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "0c4825a9-2013-4a9b-959e-b45cfdbea818",
+    "values": [
+      {
+        "created": "Mon, 13 Sep 2021 12:11:28 GMT",
+        "display_value": "1957 var Christian Dior på besök i Stockholm, där han bland annat besökte NKs franska. Min pappa var anställd på NK och fick i uppdrag att anordna en tillställning för Dior. Därför kom Christian Dior att vara hedersgäst i mitt föräldrahem till en middag. Mamma var ytterst nervös, hade anlitat en kokfru, som vi väl kände, och vi var noga med att inte berätta vem den celebra gästen var. Till middagen serverades ripa till huvudrätt och hjortron till dessert. Efter middagen var det en glad man i Diors entourage som satte på en skiva med lite dansant musik. Dior bjöd upp mamma, därefter min syster ca 18 år och sist mig, 13 år, iklädd en hemsydd skotskrutig klänning och ballerinaskor. Oförglömligt och beskrivet i en modetidning,   ” Eva” 1957.",
+        "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "e56a99f0-8075-47d3-8b78-d087c97bee99"
+      }
+    ]
+  },
+  {
     "archive_code": "M4/00002",
     "contributor": {
       "display_name": "Anonym"
@@ -978,45 +1017,6 @@
     ]
   },
   {
-    "archive_code": "M4/00007",
-    "contributor": {
-      "display_name": "Marianne",
-      "gender": "woman",
-      "uuid": "718ad0e7-f576-42d3-b655-931030d1c8d7"
-    },
-    "created": "Mon, 13 Sep 2021 12:11:28 GMT",
-    "license": "CC BY",
-    "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17271",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "0c4825a9-2013-4a9b-959e-b45cfdbea818",
-    "values": [
-      {
-        "created": "Mon, 13 Sep 2021 12:11:28 GMT",
-        "display_value": "1957 var Christian Dior på besök i Stockholm, där han bland annat besökte NKs franska. Min pappa var anställd på NK och fick i uppdrag att anordna en tillställning för Dior. Därför kom Christian Dior att vara hedersgäst i mitt föräldrahem till en middag. Mamma var ytterst nervös, hade anlitat en kokfru, som vi väl kände, och vi var noga med att inte berätta vem den celebra gästen var. Till middagen serverades ripa till huvudrätt och hjortron till dessert. Efter middagen var det en glad man i Diors entourage som satte på en skiva med lite dansant musik. Dior bjöd upp mamma, därefter min syster ca 18 år och sist mig, 13 år, iklädd en hemsydd skotskrutig klänning och ballerinaskor. Oförglömligt och beskrivet i en modetidning,   ” Eva” 1957.",
-        "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "e56a99f0-8075-47d3-8b78-d087c97bee99"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00015",
     "contributor": {
       "display_name": "Lolita Ray"
@@ -1050,6 +1050,43 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "6017cdc5-1998-41e4-b23c-ea6717408669"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00004",
+    "contributor": {
+      "display_name": "Marika Norling"
+    },
+    "created": "Sat, 11 Sep 2021 02:26:25 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17265",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "9acea489-409f-40e9-a0e9-1db72e9b97bc",
+    "values": [
+      {
+        "created": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "display_value": "Om Pelle Lundgrens karriär:\nVår farmor Ingrid Norling, storasyster till Pelle Lundgren, berättade för många år sedan att Pelle hade lungproblem som barn. Han kunde inte springa omkring och leka utomhus som andra barn, så han blev inomhus och började sy dock kläder!\n\nMarika Norling, Peder Norling, Anki Larsdotter",
+        "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "825b785c-4279-4f6f-9dc3-ecd46f06a5d4"
       }
     ]
   },
@@ -1123,43 +1160,6 @@
       "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
     },
     "uuid": "97236744-1f29-4476-b735-2439df159fe9"
-  },
-  {
-    "archive_code": "M4/00004",
-    "contributor": {
-      "display_name": "Marika Norling"
-    },
-    "created": "Sat, 11 Sep 2021 02:26:25 GMT",
-    "license": "CC BY",
-    "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17265",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "9acea489-409f-40e9-a0e9-1db72e9b97bc",
-    "values": [
-      {
-        "created": "Sat, 11 Sep 2021 02:26:25 GMT",
-        "display_value": "Om Pelle Lundgrens karriär:\nVår farmor Ingrid Norling, storasyster till Pelle Lundgren, berättade för många år sedan att Pelle hade lungproblem som barn. Han kunde inte springa omkring och leka utomhus som andra barn, så han blev inomhus och började sy dock kläder!\n\nMarika Norling, Peder Norling, Anki Larsdotter",
-        "modified": "Sat, 11 Sep 2021 02:26:25 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "825b785c-4279-4f6f-9dc3-ecd46f06a5d4"
-      }
-    ]
   },
   {
     "archive_code": "M4/00021",
