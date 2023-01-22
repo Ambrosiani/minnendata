@@ -1,93 +1,5 @@
 [
   {
-    "archive_code": "M4/00017",
-    "contributor": {
-      "display_name": "Jane Wikström"
-    },
-    "created": "Sun, 17 Oct 2021 16:08:18 GMT",
-    "image_dms_id": "013AitqX7q2k",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Sun, 17 Oct 2021 12:02:42 GMT",
-        "description": "Affisch från utställning 2014",
-        "dms_id": "013AitqX7q2k",
-        "image_height": 2149,
-        "image_ratio": 0.8129362494183341,
-        "image_width": 1747,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Sun, 17 Oct 2021 12:02:42 GMT",
-        "name": "F5CD91F9-01C8-41AE-9915-428EB9225A06.jpeg",
-        "order_by_number": 1,
-        "owner": "Blandat",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "3655848b-a4f5-415e-954c-eddb048e64a7"
-      },
-      {
-        "created": "Sun, 17 Oct 2021 12:02:44 GMT",
-        "description": "Betyg från mitt första jobb.",
-        "dms_id": "013AitqX7q2m",
-        "image_height": 4032,
-        "image_ratio": 0.75,
-        "image_width": 3024,
-        "license": "CC BY",
-        "mime_type": "image/jpeg",
-        "modified": "Sun, 17 Oct 2021 12:02:44 GMT",
-        "name": "EDC622F1-1F19-4248-8644-E7F1D270A786.jpeg",
-        "order_by_number": 2,
-        "owner": "Eget foto",
-        "topic_item": {
-          "label": "",
-          "label_i18n": {
-            "sv": ""
-          },
-          "type": "Media",
-          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
-        },
-        "type": "image",
-        "uuid": "046749d2-e0bc-43de-abef-e960e865568e"
-      }
-    ],
-    "modified": "Sun, 17 Oct 2021 16:08:18 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17361",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "272bc367-210a-4f67-b1f0-1d9ac8c2f5d3",
-    "values": [
-      {
-        "created": "Sun, 17 Oct 2021 16:08:18 GMT",
-        "display_value": "Hej.\nJag har ett lite udda minne från ”Franskan”:\nNär jag som 15-åring slutade skolan fick jag via platsannons i DN anställning som springflicka hos Astrid Sampe på NKs Textilkammare.\nGanska ofta fick jag ”springa” upp till ”Franskan” och överlämna Astrids Chanel, el. något annat av hennes unika plagg som behövde tillsyn, till Palle Wikström som då var chef där.\nMinns att jag då tyckte det var så kul att vi hade samma efternamn och har många gånger sen dess fått frågan om vi var släkt. \nMin titel förvandlades så småningom till assistent och detta var början på min karriär som modedesigner…\nVänliga hälsningar \nJane Wikström",
-        "modified": "Sun, 17 Oct 2021 16:08:18 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "7b5ff3ac-0a92-4b18-a488-46c95f3c14f1"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00028",
     "contributor": {
       "display_name": "Angelica Tibblin Chen",
@@ -292,6 +204,94 @@
           "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
         },
         "uuid": "4b07fc2d-616a-49aa-ba72-9ba3d1401c68"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00017",
+    "contributor": {
+      "display_name": "Jane Wikström"
+    },
+    "created": "Sun, 17 Oct 2021 16:08:18 GMT",
+    "image_dms_id": "013AitqX7q2k",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 17 Oct 2021 12:02:42 GMT",
+        "description": "Affisch från utställning 2014",
+        "dms_id": "013AitqX7q2k",
+        "image_height": 2149,
+        "image_ratio": 0.8129362494183341,
+        "image_width": 1747,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 17 Oct 2021 12:02:42 GMT",
+        "name": "F5CD91F9-01C8-41AE-9915-428EB9225A06.jpeg",
+        "order_by_number": 1,
+        "owner": "Blandat",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "3655848b-a4f5-415e-954c-eddb048e64a7"
+      },
+      {
+        "created": "Sun, 17 Oct 2021 12:02:44 GMT",
+        "description": "Betyg från mitt första jobb.",
+        "dms_id": "013AitqX7q2m",
+        "image_height": 4032,
+        "image_ratio": 0.75,
+        "image_width": 3024,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Sun, 17 Oct 2021 12:02:44 GMT",
+        "name": "EDC622F1-1F19-4248-8644-E7F1D270A786.jpeg",
+        "order_by_number": 2,
+        "owner": "Eget foto",
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "8243916a-203b-443c-879b-e09a58eabddc"
+        },
+        "type": "image",
+        "uuid": "046749d2-e0bc-43de-abef-e960e865568e"
+      }
+    ],
+    "modified": "Sun, 17 Oct 2021 16:08:18 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17361",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "272bc367-210a-4f67-b1f0-1d9ac8c2f5d3",
+    "values": [
+      {
+        "created": "Sun, 17 Oct 2021 16:08:18 GMT",
+        "display_value": "Hej.\nJag har ett lite udda minne från ”Franskan”:\nNär jag som 15-åring slutade skolan fick jag via platsannons i DN anställning som springflicka hos Astrid Sampe på NKs Textilkammare.\nGanska ofta fick jag ”springa” upp till ”Franskan” och överlämna Astrids Chanel, el. något annat av hennes unika plagg som behövde tillsyn, till Palle Wikström som då var chef där.\nMinns att jag då tyckte det var så kul att vi hade samma efternamn och har många gånger sen dess fått frågan om vi var släkt. \nMin titel förvandlades så småningom till assistent och detta var början på min karriär som modedesigner…\nVänliga hälsningar \nJane Wikström",
+        "modified": "Sun, 17 Oct 2021 16:08:18 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "7b5ff3ac-0a92-4b18-a488-46c95f3c14f1"
       }
     ]
   },
