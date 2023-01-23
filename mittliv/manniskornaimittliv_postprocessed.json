@@ -26159,5 +26159,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00791",
+    "contributor": {
+      "display_name": "Lytoria"
+    },
+    "created": "Mon, 23 Jan 2023 13:02:50 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 23 Jan 2023 13:02:50 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20622",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "7d8a1cfc-bf8b-4731-9a36-85f2256a49bb",
+    "v2": false,
+    "values": [
+      {
+        "created": "Mon, 23 Jan 2023 13:02:50 GMT",
+        "display_value": "2011",
+        "modified": "Mon, 23 Jan 2023 13:02:50 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "dd1b0e9b-35b5-4a99-a405-a99b7aed9bdf"
+      },
+      {
+        "created": "Mon, 23 Jan 2023 13:02:50 GMT",
+        "display_value": "Min mamma och mina syskon är dom mest mest viktigast. \nMen sen är det också mina kompisar som är viktiga. \nIbland kan jag ju bråka lite med min mamma och så men hon är fortfarande bäst och jag älskar henne så himla mkt. \nMin kompisar är rätt så snälla mot mig och oftast väldigt kul med dom.",
+        "modified": "Mon, 23 Jan 2023 13:02:50 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "2fabb339-90eb-41d7-a6ed-ec407ebfc422"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

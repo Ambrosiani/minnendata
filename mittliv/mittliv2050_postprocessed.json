@@ -23033,5 +23033,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00714",
+    "contributor": {
+      "display_name": "Lytoria"
+    },
+    "created": "Mon, 23 Jan 2023 13:04:23 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 23 Jan 2023 13:04:23 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20624",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "fda5979a-ebb9-4c4c-9089-864d64c82445",
+    "v2": false,
+    "values": [
+      {
+        "created": "Mon, 23 Jan 2023 13:04:23 GMT",
+        "display_value": "2011",
+        "modified": "Mon, 23 Jan 2023 13:04:23 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "a36b0a5c-6a38-4b49-b611-0915e1a9b771"
+      },
+      {
+        "created": "Mon, 23 Jan 2023 13:04:23 GMT",
+        "display_value": "Hej , mitt namn är Lytoria!\n När jag skriver degar då är det 2023 och jag är 11 år. \n2050 så kommer jag vara ungefär 39 år.\nIdag bor jag med min mamma lillebror och min syster men jag har även två till systrars men dom bor inte hemma.\n2050 så tror jag att jag självklart inte kommer bo hemma. \nKanske ha något hus djur. \nSen vill jag just nu antingen sjunga eller bli ” influenser”\nDet är något jag vill jobba med men det tror jag inte jag kommer göra. \nSå jag kanske jobbar på nån skola. \nJag tror inte jag kommer ha barn men jag skulle vilja ha det. \nJag tror inte jag kommer gå i skolan eller något. \nJag tror att jag kommer ha en bil om det nu kommer finnas då. \nEller så kanske jag har någon kille att bo med. \nJag kommer inte på något mer att skriva om så BYE 😘",
+        "modified": "Mon, 23 Jan 2023 13:04:23 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "7cbc07e3-7806-4177-a8eb-45630198a19b"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
