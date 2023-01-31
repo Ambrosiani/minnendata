@@ -26213,5 +26213,113 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00793",
+    "contributor": {
+      "display_name": "Felicia"
+    },
+    "created": "Tue, 31 Jan 2023 07:32:58 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 31 Jan 2023 07:32:58 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20719",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "cdc77346-5938-4cf1-8fce-d89328a9be3e",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 31 Jan 2023 07:32:58 GMT",
+        "display_value": "En person som är otroligt viktig för mig är min mormor.  Hon är så oerhört snäll och underbar och hjälper mig när jag mår som sämst. Hon har den vackraste själen någon kan ha och strålar varje dag. En annan person som också är väldigt viktig för mig är min storebror även om han själv inte tror det så betyder han så sjukt mycket för mig men jag önskade bara att vi pratade mer. Den tredje personen som är viktig för mig är nog min moster plus hennes barn som då är min kusin, de betyder också mycket för mig och jag älskar dem oerhört mycket. Jag är så glad att ha dem i mitt liv för de får mig att må bra. \nSedan har jag även mina vänner Tilda och Maja. Men även Dennis som jag tycker om jätte mycket.",
+        "modified": "Tue, 31 Jan 2023 07:32:58 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "34216474-4ca3-49e1-8443-39c298022b54"
+      },
+      {
+        "created": "Tue, 31 Jan 2023 07:32:58 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 31 Jan 2023 07:32:58 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "e3ff4c4b-77df-422b-af24-f15c8e255a45"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00795",
+    "contributor": {
+      "display_name": "My"
+    },
+    "created": "Tue, 31 Jan 2023 07:33:34 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 31 Jan 2023 07:33:34 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20722",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "60ed192e-8191-4696-90f1-c4513260fe89",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 31 Jan 2023 07:33:34 GMT",
+        "display_value": "Morfar, Emil och Mamma.\nMorfar- kan nog vara det jämt viktigaste jag har i mitt liv just nu efter mormors bortgång, han finns alltid där för mig hur ja än mår eller vad det än är. han får mig alltid på gott humör och mycket mer.\nEmil- han får mig alltid att le även vad han än gör och han finns också för mig när jag än behöver honom, han får mig att känna mig trygg runt honom. Han ger alltid mig och fler ett gott skratt vad han än gör. \nOscar- kan vara värdens jämt dummaste människa men även värdens bästa vän för att han e just så dum men så rolig samtidigt.",
+        "modified": "Tue, 31 Jan 2023 07:33:34 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "929b0b62-a32d-4fe0-adfb-fd0338da4282"
+      },
+      {
+        "created": "Tue, 31 Jan 2023 07:33:34 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 31 Jan 2023 07:33:34 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "5048f9ad-bb08-4561-bd5b-a82772e93a43"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
