@@ -23249,5 +23249,316 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00724",
+    "contributor": {
+      "display_name": "Alma"
+    },
+    "created": "Tue, 07 Feb 2023 09:53:46 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Feb 2023 09:53:46 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20820",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "8db4bd44-d9c4-4c3a-a586-7560933ef919",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 07 Feb 2023 09:53:46 GMT",
+        "display_value": "Jag vaknar i min lägenhet en helt vanlig vardag. Jag plockar fram frukost. Då ringer Liv och undrar om vi kan träffas senare idag. Jag svarar att efter att jag jobbat klart kan vi mötas. Jag upptäcker att jag blir sen till jobbet och får skynda mig på. Det är soligt ute så jag behöver inte ta min flygande bil. Jag tar på mig shorts och en T-shirt. Sen packar jag min ryggsäck. Min dator, mina hörlurar, penna och block. Min telefon tar jag i fickan. Sen springer jag mot tidningsredaktionen. Där träffar jag mina kollegor. Jag gör flera artiklar och ritar några serier. När det blir lunch går jag till en kiosk i närheten och köper lunch. Jag köper hamburgare.   Efter några timmar på jobbet är arbetsdagen slut och jag ringer liv. Vi träffas vid en restaurang och pratar om har det var när vi gick i femman. Det blir sent och det är dags att gå hem. Jag tar tunnelbanan. Numera kan den köra sig själv. Det kunde den inte 2023. Kl 10:00 går jag och lägger mig och jag somnar nästan direkt.",
+        "modified": "Tue, 07 Feb 2023 09:53:46 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "e7293a26-e04d-4e01-8227-ee95b1b63076"
+      },
+      {
+        "created": "Tue, 07 Feb 2023 09:53:46 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 07 Feb 2023 09:53:46 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "566ec038-e003-4316-974f-1ca8e5b46abf"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00726",
+    "contributor": {
+      "display_name": "Liv"
+    },
+    "created": "Tue, 07 Feb 2023 09:55:17 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Feb 2023 09:55:17 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20825",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "4122d4b1-2062-42b9-a3d4-4d69ea0ea5e6",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 07 Feb 2023 09:55:17 GMT",
+        "display_value": "År 2050 kommer jag va ungefär 30 år gammal. \nJag tror att jag kommer bo i en färgglad lägenhet mitt i stan. \nJag tror att jag kommer bo med min vän Alma eller med min partner om jag kommer ha en. \nOm jag skulle ha en partner så skulle det helst va en tjej. \nJag skulle ha ett eget bageri, bageriet skulle inte vara fast i något hus utan en foodtrack. \nMen jag ska inte servera mar utan bakelser. \nJag tror också att jag kommer jobba på IKEA.\n IKEA är ett stort varuhus som  man kan köpa saker till sitt hus. \nDet jobbet jag vill jobba på IKEA är inredningsarkitekt. \nEn inredningsarkitekt kan man gå till och fråga om hen kan inreda ett sovrum eller ett kök, men det är faktiskt ett viktigt jobb för dom inreder sjukhus och skolor också.",
+        "modified": "Tue, 07 Feb 2023 09:55:17 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "33d67b1c-395a-4b98-8bbe-b1073dcd1329"
+      },
+      {
+        "created": "Tue, 07 Feb 2023 09:55:17 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 07 Feb 2023 09:55:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "395d9b7b-48c9-4a48-9ec1-e98c47b615d7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00728",
+    "contributor": {
+      "display_name": "Axel "
+    },
+    "created": "Tue, 07 Feb 2023 09:56:29 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Feb 2023 09:56:29 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20833",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "fbdd3a36-16e9-406b-b915-62ffcb6a8967",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 07 Feb 2023 09:56:29 GMT",
+        "display_value": "Jag har en Samsung galaxy a51 men ni kommer säkert ha en Samsung galaxy a367 422.\nMin familj har en BMW X3 men ni kommer säkert ha en BMW  X343 443. \nVi läser i böcker men ni kommer säkert lyssna på böcker i din iPad.\n\n\nNär vi kör bil så är hjulen på marken men ni kommer säkert ha bilar som svävar.",
+        "modified": "Tue, 07 Feb 2023 09:56:29 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "552badea-084e-44b9-9433-04eff788d0cb"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00730",
+    "contributor": {
+      "display_name": "Ilias "
+    },
+    "created": "Tue, 07 Feb 2023 09:57:04 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Feb 2023 09:57:04 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20837",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6955ed18-5cc4-45f1-b4e9-9a6cf09f3337",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 07 Feb 2023 09:57:04 GMT",
+        "display_value": "Hej mitt namn är Ilias jag är 11 år jag tror att värden kommer vara väldigt annorlunda jag tror att det kommer finnas mycket mer fakta och kolare saker varden kommer hundra procent ha utvecklats.",
+        "modified": "Tue, 07 Feb 2023 09:57:04 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "4e9c5d38-3dd4-4995-999a-2ee771006cfd"
+      },
+      {
+        "created": "Tue, 07 Feb 2023 09:57:04 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 07 Feb 2023 09:57:04 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "713a7e3b-dd55-4c65-b9fb-b68f53ffb670"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00732",
+    "contributor": {
+      "display_name": "Denise"
+    },
+    "created": "Tue, 07 Feb 2023 09:58:39 GMT",
+    "image_dms_id": "019EBwFCbBAg8",
+    "license": "CC BY",
+    "modified": "Tue, 07 Feb 2023 09:58:39 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20844",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "65595d87-3361-4684-926c-27655d3f5e9f",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 07 Feb 2023 09:58:39 GMT",
+        "display_value": "Jag heter Denise och när jag blir stor så vill jag helst ha 2 barn, ett hus( helst ett lyxigt) och en man som är snäll, lojal och bryr sig om en.Jag vill också jobba som veterinär eller forskare. Jag hoppas att det finns nya modeller av bilar och mobiler.\n\n Jag vill också ha en hund, helst en fransk bulldog med blåa ögon. Jag hoppas också att klimatet blir bättre och att man inte ska skräpa ner lika mycket som vi gör idag. Jag hoppas att det är fred i världen för just nu 2023 är det krig mellan Ryssland och Ukraina, Ukraina är attackerade. Jag hoppas att mobbning kommer inte vara kvar för att barn/ ungdom blir så ledsna så dom tar självmord bl.a. hoppas också att skolmaten blir bättre för att ibland så blir det typ sej rygg med ägg och det är inte så gott, då måste man ändå äta så jag hoppas att det blir mycket godare.",
+        "modified": "Tue, 07 Feb 2023 09:58:39 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d3fa47ff-074f-4b0b-a59a-eaa6aa003683"
+      },
+      {
+        "created": "Tue, 07 Feb 2023 09:58:39 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 07 Feb 2023 09:58:39 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "294878ef-d2bd-4896-8c00-fd5a4ac6340b"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00734",
+    "contributor": {
+      "display_name": "Isabel"
+    },
+    "created": "Tue, 07 Feb 2023 09:59:40 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Feb 2023 09:59:40 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20850",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "24b19362-f809-4d8c-bb5f-0d966fe6107e",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 07 Feb 2023 09:59:40 GMT",
+        "display_value": "Jag jobbar på en resturang och bor i en lägenhet i Stockholm \n3 barn\nInte så mycket pengar\n5 vänner \nKommer vara i stan ofta\nkommer bo i en 3a\nJag kommer vakna 10/9 \nMina barn kommer inte behöva plugga lika mycket \nDom kommer få äta på sitt rum när dom vill\nMin lägenhet kommer ligga i Östermalm eller Södermalm",
+        "modified": "Tue, 07 Feb 2023 09:59:40 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "37a88375-2ee4-41ac-876c-46e30fd543be"
+      },
+      {
+        "created": "Tue, 07 Feb 2023 09:59:40 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 07 Feb 2023 09:59:40 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "32c3a648-02b6-474a-8d44-86e6fed338e6"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
