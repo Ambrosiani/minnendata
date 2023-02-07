@@ -26699,5 +26699,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00811",
+    "contributor": {
+      "display_name": "Walter"
+    },
+    "created": "Tue, 07 Feb 2023 12:01:36 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Feb 2023 12:01:36 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20858",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "bed2f140-859f-49e4-96f0-e9050d4d373e",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 07 Feb 2023 12:01:36 GMT",
+        "display_value": "Jag kommer skriva om min mamma, pappa och min syster. Min mamma är 46 år och min pappa är 44 år och min syster är 9 år. Dom är viktigast för mig för att dom ger mig mat och 200 kronor varje månad. Men ibland så bråkar vi men sen så blir vi sams.",
+        "modified": "Tue, 07 Feb 2023 12:01:36 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "24c0e79e-761a-4bbb-85ef-37f6c88f8a53"
+      },
+      {
+        "created": "Tue, 07 Feb 2023 12:01:36 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 07 Feb 2023 12:01:36 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "fcd6789a-40c3-48d5-8a6a-c908a275e546"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
