@@ -26321,5 +26321,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00797",
+    "contributor": {
+      "display_name": "Gabriela"
+    },
+    "created": "Tue, 07 Feb 2023 07:43:34 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Feb 2023 07:43:34 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20805",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "8f81c987-7e21-4306-ba1e-dded0755ae53",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 07 Feb 2023 07:43:34 GMT",
+        "display_value": "Personer som är viktiga för mig är mina föräldrar och min bror. Dom hjälper mig alltid när jag behöver och är alltid på min sida. Dom är snälla och förstår mig och är bara bäst! Min mamma är 44 år och har inget jobb, men det betyder att hon har mer tid att vara med oss! Hon brukar hämta och lämna mig från skolan. Det är inget stort problem att hon inte jobbar för min pappa jobbar och har för bra med pengar. Min bror är också super snäll och rolig! Han är alltid snäll mot mig. Han är 15 år.",
+        "modified": "Tue, 07 Feb 2023 07:43:34 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "0c35434f-bf8e-403d-a494-4d19b1e0c2f6"
+      },
+      {
+        "created": "Tue, 07 Feb 2023 07:43:34 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 07 Feb 2023 07:43:34 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "6701be79-9380-405d-8940-893a7dfdd25c"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
