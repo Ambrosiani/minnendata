@@ -26753,5 +26753,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00815",
+    "contributor": {
+      "display_name": "Maja"
+    },
+    "created": "Wed, 08 Feb 2023 12:51:26 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 08 Feb 2023 12:51:26 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20877",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "9e94ea43-8f6d-4d02-b23c-dd080d9c2666",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 08 Feb 2023 12:51:26 GMT",
+        "display_value": "Den viktigaste personen för mig är nog Felicia, mamma och pappa. \nFelicia är en av dem viktigaste personerna i mitt liv eftersom hon alltid finns där för mig oavsett vad det är och hur jag mår så stället hon alltid upp.  Även om det inte alltid känns som att hon vill vara med mig så vet jag ändå att det är Felicia som är min allra bästa vän. Med Felicia så kan man prata om allting då hon alltid vill mig och dem flesta andra väl. Hon döljer oftast inte så mycket för mig och det gör inte jag för henne eller så det känns som en riktig vän\n\nMamma är en viktig person i mitt liv eftersom hon älskar en oavsett vad man gör eller vad man säger. Hon finns alltid där för mig om jag behöver henne. Hon ställer också ofta upp och kör mig dit jag vill. Det kanske hon inte gör om jag frågar samma dag eftersom vi behöver planera och lägga upp dagen på ett annat sätt om mamma och Moa ska köra mig på något ställe. På det sättet så känns det bra om jag tar am kortet för då kan jag ta mig på många ställen utan att jag ska behöva be mamma att hon ska köra mig. \n\nPappa är viktig i mitt lv eftersom han alltid stöttar mig i mina beslut som jag tar. Om han inte hade funnits så hade inte jag fått tävla i slalom eftersom det inte är mammas intresse utan pappas. Det är klart mamma tycket om att åka skidor men hon är inte en lika mycket tävlingsmänniska som jag är. Jag vill tävla i allt och om allt. Och det vill pappa också. Så i det så stöttar han mig i. Han finns också där för mig om jag vill prata om något. Han är också en god lyssnare, för om jag säger något så lyssnar han alltid på vad jag vill säga innan han börjar prata.",
+        "modified": "Wed, 08 Feb 2023 12:51:26 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "236fa57d-297e-4ad8-a59d-8368d77e68f7"
+      },
+      {
+        "created": "Wed, 08 Feb 2023 12:51:26 GMT",
+        "display_value": "2008",
+        "modified": "Wed, 08 Feb 2023 12:51:26 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "70b648a1-ce73-4df1-99de-b2ad53183dd9"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]

@@ -23560,5 +23560,59 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00736",
+    "contributor": {
+      "display_name": "Maja"
+    },
+    "created": "Wed, 08 Feb 2023 12:51:18 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 08 Feb 2023 12:51:18 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/20876",
+    "published": true,
+    "school_uuid": "db4e2698-f34f-407d-9f0c-7cb3aac8b8e6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "f68b4959-34b7-4f6a-bf49-a2ae135c80e4",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 08 Feb 2023 12:51:18 GMT",
+        "display_value": "Jag tror att det kommer att vara mycket mer tekniska saker. Alltså att det kommer att vara typ självstyrande bilar som är väldigt inne då. Alla vill ha det. Många kommer där för att tro att det inte kommer att ske så många olyckor i framtiden. Jag själv tror kanske inte så mycket på det(Att det kommer bli mindre trafikolyckor). Jag tror kanske tvärt om. Det kommer att ske fler ett tag eftersom det alltid kommer vara något som inte kommer att funka helt ut. Något kommer att ligga och störa så att något kommer att gå snett. Eller så tror jag att det är någon slags magnet i bilen så att när man möter någon annan bil så kommer \"min\"  bil att dra den mötande bilen emot oss.  Detta är därför min fasa och jag tycker att det känns säkrare att styra bilen själv. Säkert och säkert vet jag inte om jag tycker det är, men det känns i alla fall mycket bättre än en självstyrande bil. Det känns som at det inte kommer att vara så mycket mer olyckor om man får bort dem som inte är nyktra och dem som kör olagligt i trafiken. Finns inte dem så tror jag att olyckorna kommer att minska. Det är klart att olycksfall och andra saker kan ske eftersom det kan inträffa när som helst. Det finns ingen garanti på det. Man får vara glad om det inte sker något. \nJag tror också att det kommer vara mycket varmare i världen eftersom vi redan nu kör mycket bil och det blir allt varmare och varmare nu. Det börjar till och med redan nu bli kris eftersom den globala uppvärmningen ökar allt mycket fortare än vad den har gjort innan. Det känns lite \"läskigt\" att tänka på ibland. Jag tror att det kommer att bli så att årstiderna inte kommer att vara lika tydliga då om det fortsätter att värma upp så detta sätt som det gör nu. Det känns som att det kommer vara svårt för skidbackar och andra vinter aktiviteter att vara öppna eftersom det måste vara -grader för att man ska kunna göra exempelvis snö. En annan sak som jag tycker kan kännas läskig att tänka på om den globala uppvärmningen fortsätter såhär är att den del av vattnet kommer att avdunsta mer och mer. och tillslut kanske det inte kommer att finnas något vatten kvar som är godkänt för att dricka.",
+        "modified": "Wed, 08 Feb 2023 12:51:18 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "26be9cde-7b93-467f-9544-c88dc3e2285c"
+      },
+      {
+        "created": "Wed, 08 Feb 2023 12:51:18 GMT",
+        "display_value": "2008",
+        "modified": "Wed, 08 Feb 2023 12:51:18 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "e5cb6382-d301-4674-8a94-d519638fce36"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
