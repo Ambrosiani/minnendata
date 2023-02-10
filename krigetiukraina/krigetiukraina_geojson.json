@@ -5296,6 +5296,22 @@
           61.115
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är en katastrof. Det är Tredje Riket i repris, en lustlögnare till president/härskare, som tydli…",
+        "date": "10 februari 2023",
+        "author": "Matz Lonnedal Risberg",
+        "url": "https://minnen.se/tema/krigetiukraina/20913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.368,
+          55.25
+        ]
+      }
     }
   ]
 }

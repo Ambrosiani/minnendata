@@ -41568,5 +41568,117 @@
     },
     "uuid": "2ddca594-9fe6-4f87-a115-2221f465d01a",
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M16/00582",
+    "contributor": {
+      "display_name": "Matz Lonnedal Risberg"
+    },
+    "created": "Fri, 10 Feb 2023 16:16:57 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 10 Feb 2023 16:16:57 GMT",
+    "position": {
+      "latitude": 55.250418286947856,
+      "longitude": 13.36821779785156
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/20913",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "eef7019f-20db-46b1-932f-7fabc7d88d3f",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "display_value": "På radio. Det förändrade fullständigt min tro på framtiden och på Ryssland. Jag har rest mycket i Ryssland, 1978/79, 1981/82, 1982/83, 1990, 1991, 1992, 1994, 1995, 1996, 1998, 2005, 2009, 2010, 2011, 2016 och 2017, tio gånger på Transsibiriska/mongoliska/manchuriska järnvägen, på Bajkal-Amur-Magistral, till Vorkuta och Novgorod, på Saimaa kanal och på flodbåt på Jenisej från Krasnokarsk till Dudinka och tillbaka. Jag trodde på ett Ryssland, som avskaffade dödsstraffet, för att kunna bli medlemmar i Europarådet. Jag har rest i Ukraina 2005 och 2006.",
+        "modified": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "4aacb4f5-a1b5-43a2-abf5-7e51a892ee4e"
+      },
+      {
+        "created": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "display_value": "Mina möjligheter att resa runt i Världen österut är borta, eftersom jag inte flyger. Transsibiriska/mongoliska/manchuriska och Turksibiriska järnvägen var mitt sätt att komma till Kina och Sydostasien på.",
+        "modified": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "b8fb23b4-725b-48d1-92fe-52499b077363"
+      },
+      {
+        "created": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "display_value": "Jag är rädd för att NATO tvingas bomba Ryssland till den grushög Tredje Riket bombades till.\nAlternativet är att Ryssland tillerkännes Donbas, Luchansk och Krim, och aldrig tvingas stå till rätta för sina krigsförbrytelser. Så går det några år tills Ryssland har rustat upp och slickat såren, så är det dags för Georgien, Kazakstan och Baltikum i ett nytt Trettioåriga kriget.",
+        "modified": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "bccb208b-cc0c-4a2f-b324-e7c0d42de9c1"
+      },
+      {
+        "created": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "display_value": "Det är en katastrof. Det är Tredje Riket i repris, en lustlögnare till president/härskare, som tydligen är allergisk mot demokrati. Det kommer att sluta i tredje världskriget. Det finns inget att förhandla om. Det går inte att sluta avtal med en lustlögnare, som har ett långsiktigt mål om att återupprätta ett mäktigt tsarvälde, kanske till och med inkluderande gamla Warszawapakten. Hoppet om fredlig, demokratisk framtid i Europa är för alltid borta.",
+        "modified": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "035d6d11-19fe-4710-a06c-6be805783f66"
+      },
+      {
+        "created": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "display_value": "Sverige: Ett raserat välfärdssamhälle, med brist på sjukvårdspersonal, för att de inte betalas gott nog, en arrogant regering som styr efter dogmer och inte kunskap. En barnslig regering, för hvilken det viktigaste tycks vara att inte göra som Miljöpartiet, inte innehållet i besluten. Ett Trafikverk, som är totalt inkompetent, efter att Vägverket fick ta över och lägga ner Banverket. Har aldrig förstått hvarför Vägverket bytte namn. Obegripliga priszoner för el. Hvarför inte detsamma för mat. Den produceras här i söder. Låt norrlänningarna betala fyra ggr så mycket för maten som vi. Alltför långsamt vindkraftsutbyggande.\nNorden: Ett skånefientligt Sverige som upprätthåller olaglig gränskontroll mitt i Öresund, inte bara ett brott mot Schengen-avtalet utan upphävande av 60 års passunion. Generellt pajade hela det nordiska samarbetet under covid19. Ett av jysk majoritet styrt Danmark, som inte är mycket vänligare inställt till København än hvad Sverige är mot Skåne.\nEuropa: Ett EU som börjar falla sönder - Storbritannien har redan lämnat, Ungern och Polen erkänner inte grundpilaren i EU och Sverige stänger gränser inom Schengen-området.\nVärlden: En despot och en senil gamling skall tävla mot hvarandra i nästa USamerikanska presidentval - ett USA, där halva befolkningen röstar på ett anarkistiskt, odemokratiskt parti. Ett totalitärt Kina med stormaktsambitioner, som de historiskt aldrig haft. (Däremot är konflikten med Taiwan ett inbördeskrig - även Taiwan kallar sig officiellt \"Republiken Kina\" och anser att det bara finns ett Kina - hade USA insett det, hade vi kanske fått Kina att ta Ukrainas sida i Rysslands vedervärdiga anfallskrig). En turkisk islamist som uppträder som Loke i den nordiska sagan, opålitligheten och ondskan själv.",
+        "modified": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "2b921899-b9ca-464f-b02a-ded5a5a13c67"
+      },
+      {
+        "created": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "display_value": "1953",
+        "modified": "Fri, 10 Feb 2023 16:16:57 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "9fed0096-ff14-4104-b0e2-05d8bccb97cc"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
