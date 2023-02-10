@@ -26807,5 +26807,113 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00819",
+    "contributor": {
+      "display_name": "Benjamin"
+    },
+    "created": "Fri, 10 Feb 2023 12:40:52 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 10 Feb 2023 12:40:52 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20909",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "a95e02f6-1f09-4d17-af65-d210ebf43d35",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 10 Feb 2023 12:40:52 GMT",
+        "display_value": "Min mamma är den första hon är alltid snäll och hon ger mig tak under huvudet och mat. Den andra är min kusin rayan han är rolig och alltid glad och även om vi bara träffats några gånger om året så har vi alltid kontakt. Den tredje är min morfar eller min pappa eller min moster jag kan inte välja nån av dom. Min morfar är den snällaste personen ja vet och han gör alltid allt han kan så alla är glada. Min pappa kör mig alltid hem från mina träningar och betalar för allt ja behöver. Min moster är också lika snäll som min morfar och alltid jätte snäll även om jag inte träffar nån av dom ofta för att dom inte bor i Sverige. Den sista är mina morbröder adnan och houssam. Båda är snälla även om houssam oftast är i Dubai eller nån annanstans i världen för sitt jobb och inte har mycket tid för familj så är han snäll och min familj. Adnan är också på olika ställen för sitt jobb även om ingen vet vad de är för jobb men han bryr sig ändå om sin familj.",
+        "modified": "Fri, 10 Feb 2023 12:40:52 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "eda74ff5-8dfc-463b-a17b-2e7aa81bcd80"
+      },
+      {
+        "created": "Fri, 10 Feb 2023 12:40:52 GMT",
+        "display_value": "2011",
+        "modified": "Fri, 10 Feb 2023 12:40:52 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "3dde53ab-d066-4ad7-9b45-413c749ae34e"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00821",
+    "contributor": {
+      "display_name": "Saga"
+    },
+    "created": "Fri, 10 Feb 2023 12:43:32 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 10 Feb 2023 12:43:32 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20911",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "7d4221c1-5906-405f-a13b-f7b389ea2261",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 10 Feb 2023 12:43:32 GMT",
+        "display_value": "De Som är viktigast i mitt liv är mina föräldrar och min storebror. Min mamma heter Cecilia och är 46 åt hon har brunt hår med bruna ögon. Hon är jättesnäll och omtänksam, hon är väldigt duktig på att laga mat och att vara snäll. Min pappa heter Per men kallas Pelle han är 49 år och har blont hår med blåa ögon. Han är bra på att laga mat och att kittlas. Min storebror heter Melvin och är 13 år han älskar att spela med sina kompisar och att simma har är bra på att sitta i sitt rum hela dagarna när han inte är i skolan. Han har brunt hår med brun gröna ögon.",
+        "modified": "Fri, 10 Feb 2023 12:43:32 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "f13e550f-53d8-45c4-9403-d37f47d783d9"
+      },
+      {
+        "created": "Fri, 10 Feb 2023 12:43:32 GMT",
+        "display_value": "2011",
+        "modified": "Fri, 10 Feb 2023 12:43:32 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "86ff3027-99bb-46cb-b5d8-25aad7d8d65c"
+        },
+        "uuid": "e52e9825-02ce-4314-9ccc-352cbe82be2e"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
