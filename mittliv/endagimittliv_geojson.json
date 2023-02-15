@@ -27440,6 +27440,22 @@
           59.274198
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "En dag i mitt liv-2022 \n\nJag vaknar ungefär klockan 07:00 av att mina föräldrar väcker mig. \n\nJag gå…",
+        "date": "14 februari 2023",
+        "author": "Stina",
+        "url": "https://minnen.se/tema/endagimittliv/20964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.141899,
+          59.274198
+        ]
+      }
     }
   ]
 }
