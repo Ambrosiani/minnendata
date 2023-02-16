@@ -26915,5 +26915,45 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:3/00823",
+    "contributor": {
+      "display_name": "Konrad "
+    },
+    "created": "Wed, 15 Feb 2023 08:05:40 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 15 Feb 2023 08:05:40 GMT",
+    "presentation_url": "https://minnen.se/tema/manniskornaimittliv/20969",
+    "published": true,
+    "school_uuid": "8bcfbcde-1368-4906-b320-9a7361e08f93",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv – människorna i mitt liv",
+      "name_i18n": {
+        "en": "Mitt liv – människorna i mitt liv",
+        "sv": "Mitt liv – människorna i mitt liv"
+      },
+      "uuid": "04311a8f-0dc2-4f02-8435-7eea3e385834"
+    },
+    "uuid": "dba0c805-f9ed-4f6a-a4fb-b8d56f7f8a81",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 15 Feb 2023 08:05:40 GMT",
+        "display_value": "Dem tre personerna jag ska berätta om är, Petter (min bästa kompis) min mamma och min pappa.\n\nMin mamma är en person som kan vara sträng ibland men oftast är hon snäll och om det är något som jag behöver till fäktningen så kollar hon om vi kan köpa det. Min mamma kan också ge mig ett gott litet mellis innan jag går på träning.\n\nPetter är min bästa kompis för att han är snäll, rolig och vet hur han ska göra mig glad när jag är ledsen. Han är också en vinnarskalle och väldigt snabb men han är inte en sån där vinnarskalle som blir arg när han förlorar utan han tackar för matchen och fortsätter bara.\n\nMin pappa är en person som gillar sport och kan hjälpa och peppa mig. Min pappa kan berätta om det har hänt någonting i fotbollsvärlden och han brukar följa med mig och min storebror om vi vill köra fotboll.",
+        "modified": "Wed, 15 Feb 2023 08:05:40 GMT",
+        "topic_item": {
+          "label": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv",
+          "label_i18n": {
+            "sv": "👩‍💻 Berätta om tre personer som är viktiga i ditt liv"
+          },
+          "type": "Textarea",
+          "uuid": "7623a11e-dd3b-4fea-b300-569c907ffe9f"
+        },
+        "uuid": "78bfe3cf-4c86-4d59-95a0-2dba8e85d4c5"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
