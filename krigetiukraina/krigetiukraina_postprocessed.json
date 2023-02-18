@@ -41680,5 +41680,117 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00583",
+    "contributor": {
+      "display_name": "Ett vittne"
+    },
+    "created": "Fri, 17 Feb 2023 19:35:01 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 17 Feb 2023 19:35:01 GMT",
+    "position": {
+      "latitude": 57.91840010000001,
+      "longitude": 12.0661766
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/20994",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "0b65f6fb-67ea-43ef-a322-3842759eca5b",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "display_value": "Vi satt och såg på teve sent den 23 februari 2022, min sambo och jag. Då fick vi ett meddelande på Airbnb. Det var en ukrainsk kvinna boende i USA som undrade om en lägenhet vi har till uthyrning var ledig. Hon förklarade att hon frågade å en väninnas vägnar. Denna väninna och hennes familj bestående av man och en som i tioårsåldern var på väg från Ukraina som vi pratade. Det var så vi fick veta om kriget.\n\nVi accepterade deras förfrågan och trots att vi välkomnat dem, ordnat med mat och annat för dem, som vi annars inte brukar göra för våra gäster, så ändrade de sig och och ville dra vidare. De förklarade aldrig varför, men det enda vi kunde komma på var att när de ändå hade åkt så långt kunde de lika gärna fortsätta till ett land som är med i Nato och som därmed skulle kännas tryggare än Sverige. Vi hördes av senare pappan Dennis och jag. Då hade det tagits emot i Hamburg.\n\nVi blev väldigt berörda av familjen. Mannen, som hette Dennis, var samlad och korrekt. Kvinnan sa däremot knappt någonting, men berättade för min sambo att hon var väldigt orolig för sin mamma, som var kvar i Ukraina. Vi kände att vi ville göra mer för dem. Med anledning av covid-19 hade vi lite kontakter hemma. Vi erbjöd dem pengar, men de vägrade ta emot. När jag en stund senare satt vid min dator, såg jag i dokumentationen om dem, som väninnan som fört deras talan skickat, att deras son Danni strax skulle fylla år. Då gick jag till dem igen och sa att då våra barn hört att deras son strax skulle fylla år och att de så gärna ville ge honom en present. Jag ljög alltså lite. Då accepterade Dennis pengarna. När han förstod att vi verkligen ville dem väl brast det för honom, han grät, kramade om mig och välsignade vår familj. Jag kan säga att jag sällan varit med om något liknande. Både min sambo och jag blev djupt påverkade av händelsen. Det var som att krigets verklighet kommit hem till oss och vi var så berörda av hur de istället för att vara avundsjuka på oss kunde vara så tacksamma för det lilla vi gjort för dem.",
+        "modified": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "6b2b4073-4f14-4e7c-8ab9-320773dd3e45"
+      },
+      {
+        "created": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "display_value": "Kriget har ger mig perspektiv på livet. Jag värderar vår fred mer än tidigare, känner större tacksamhet till livet och låter kanske inte svårigheter i mitt ta lika mycket utrymme i mina tankar längre.",
+        "modified": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "be00115d-aec2-4905-8e00-2346ec609e0a"
+      },
+      {
+        "created": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "display_value": "Jag tror nog att det blir bra till slut, att Ukraina och dess allierade vinner kriget, men att det kommer ta ett tag. I skrivande stund är det februari 2023. Jag är orolig för vad som kan hända när våren kommer och det blir bättre förutsättningar för exempelvis stridsvagnar.",
+        "modified": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "20d12d48-68d6-4655-b067-3ee02dc974aa"
+      },
+      {
+        "created": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "display_value": "Jag följer utvecklingen i kriget nästan varje dag.",
+        "modified": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "81aa8544-1aae-42fa-be73-fa75f7d0af01"
+      },
+      {
+        "created": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "display_value": "Läget är allvarligt. Jag tänker på vad en kvinna i en affär sa till mig våren 2022, hon sa att det tredje världskriget kanske redan har kommit, att det är det vi ser början på nu.",
+        "modified": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "2f94b245-e8e1-4aaf-9d22-73d0067094e6"
+      },
+      {
+        "created": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "display_value": "1969",
+        "modified": "Fri, 17 Feb 2023 19:35:01 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "ebf766d5-d0a1-4cf1-ad81-6dfa879347e6"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
