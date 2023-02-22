@@ -23884,5 +23884,1201 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00748",
+    "contributor": {
+      "display_name": "Ivan"
+    },
+    "created": "Tue, 21 Feb 2023 07:12:02 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:12:02 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21009",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "9a15a320-f2d0-43dd-a6af-350f22cb8987",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:12:02 GMT",
+        "display_value": "Rik, snygg, många vänner, inte deprimerad. Jag vill jobba när jag blir stor som en elektriker för jag lärde mig att man kunde göra 800 kr /h av det. När jag har mycket pengar så kommer jag att ge mycket av det till min familj. Familj före allting.",
+        "modified": "Tue, 21 Feb 2023 07:12:02 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d892186e-7dbc-40a4-9a8d-c82a488d6c0d"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:12:02 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:12:02 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "2659f3dc-76ec-4755-88f5-46dfc8b550cf"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00750",
+    "contributor": {
+      "display_name": "Bodil"
+    },
+    "created": "Tue, 21 Feb 2023 07:12:43 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:12:43 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21014",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "b202f76e-4067-4f34-b77c-826299bf6fbc",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:12:43 GMT",
+        "display_value": "Jag Tor att Ukraina har tagit över Ryssland. Antagligen är Putin i fängelse eller död. Jag tror också att det finns bilar som blir till båtar om man kommer i vatten. Jag tror att skolan börjar när kan är 3 år.  Jag tror också att alla hus kommer va mycket finare husen kommer vara vita och gråa. Men jag tror också att planeten kommer vara mer grön och att folk börjat ta hand om planeten. Sverige kanske har hamnat i Nato.",
+        "modified": "Tue, 21 Feb 2023 07:12:43 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "31029cc3-09fb-45d1-99cd-a16e1d0fddfc"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:12:43 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:12:43 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "100f73b2-10c7-4ced-a20d-280d3d293989"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00752",
+    "contributor": {
+      "display_name": "Hilda"
+    },
+    "created": "Tue, 21 Feb 2023 07:13:31 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:13:31 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21020",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "097b6ddc-ae07-495d-af06-e5dd7c4f3888",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:13:31 GMT",
+        "display_value": "Jag föreställer mig att Sverige är en diktatur en massa stränga lagar.\nAffärerna kommer ha stängt ner och det går bara att beställa från nätet.\nJag tror att allting kommer att vara mycket dyrare och att det kommer vara mycket mera miljöförstöringar och sånt.\nJag tror att tunnelbanor kommer kunna köras på ett helt annat sätt.  \nJag tror att man kommer hämta tillbaka stilar från jätte länge sen och klä sig på ett helt annat sätt. Det kommer byggas hus överallt istället för affärer. Böcker kommer inte ens finnas längre utan man kommer läsa på mobil, iPad eller datorer.  Maten kommer nog vara helt annorlunda och man kommer typ äta pannkaks tacos. Jag kommer inte på mer saker jag tror kommer hända år 2050 men vi får se i framtiden vad som kommer hända.",
+        "modified": "Tue, 21 Feb 2023 07:13:31 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "2fdce7c0-29b7-4dbc-ac51-930c8d1249d2"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:13:31 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:13:31 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "62255b3f-3aaa-48cf-8b66-b4a0dbbf27e3"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00754",
+    "contributor": {
+      "display_name": "Junia"
+    },
+    "created": "Tue, 21 Feb 2023 07:14:27 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:14:27 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21022",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "e3455751-6d70-4d3e-8fbf-c73383bca9b8",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:14:27 GMT",
+        "display_value": "Jag bor i en lägenhet i Stockholm med min hund och mina två katter. Jag jobbar som kock på en asiatisk restaurang. Där brukar jag äta lunch och middag. Jag är vegetarian och nästan all mat är vegetarisk på den restaurangen jag jobbar på. På min fritid tittar jag på film, umgås med mina vänner och målar. På somrarna är jag på mitt landställe med min mamma. Mina katter och min hund får såklart följa med också. AI är en stor del i vardagen. Till exempel om jag inte vet var en sak är kan jag bara fråga min mobil och så berättar den var den saken är. Jag har så klart kameror i mitt hem som är kopplade till min mobil. Annars skulle det inte funka. Vi har nu lyckats bromsa och vända miljökrisen. Alla bilar och flygplan drivs på el.",
+        "modified": "Tue, 21 Feb 2023 07:14:27 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d00d7027-b6a3-4d6c-8ecb-d03f19016a32"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:14:27 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:14:27 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "8ee4795d-07f9-428e-8d2f-84b66b5e9765"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00756",
+    "contributor": {
+      "display_name": "Donna"
+    },
+    "created": "Tue, 21 Feb 2023 07:15:08 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:15:08 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21027",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "53987768-ca85-41cd-af58-41c53126f084",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:15:08 GMT",
+        "display_value": "Jag vaknar på min jätte höga säng med inställd väckarklocka på sidan av sängen och gäspar. Jag går ner från sängen och sätter på mig kläder. och går ut i köket. Godmorgon säger jag till mamma som lyssnar på tidningen på sin iPhone 1379.  Jag äter en enkel frukost som är insektsflingor med sojamjölk. Insektsflingor är som kornflakes fast med frystorkade insekter. Jag sprejar sen andedräkts sprej för att jag vill inte dofta insekter direkt. Sen åker jag flygande skejtboard och kommer till skolan. På skolan skriver vi med mikrofoner så det skriver ner vad vi säger. Sen  efter skolan åker jag hem med den flygande skejtboarden. Och spelar spel på min gigantiska tv. Det är PS 8 som gäller. Efter det går jag och äter middag det blir spaghetti insektara ( spagetti carbonara fast med insekter) sen städarnas tänderna med tandborststädaren 1.0 och går sedan och lägger mig på min höga säng med inställd väckarklocka. Ses ✌🏽.",
+        "modified": "Tue, 21 Feb 2023 07:15:08 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "94f01e77-2021-4a94-8e13-ccfc28d1884f"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:15:08 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:15:08 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "d9623cf0-4b27-4195-90d2-2cd29febda16"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00758",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Tue, 21 Feb 2023 07:16:15 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:16:15 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21029",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "f9fa8e71-ecfe-4efd-a2a3-f497cc445709",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:16:15 GMT",
+        "display_value": "Jag tror att 2050 är ingen skillnad typ kanske en ny slaks art av djur upptäckts men detta tror jag ska hända jag vaknar upp i min massage säng jag har gift mig med min dröm kille tik tok blev bort taget av allt soligt med det jag sover länge jag vakna klockan 12:00 sent. Jag äter lite frukost och många vitaminer för att bli piggare jag borstar tänderna med min extra snabb tandborste. Nu för tiden är nästan allt elektroniskt till och med om man ska ha ett pass måste man ta bild på telefon jag fick i födelsedagspresent en iPhone 30 den nya 8 kameror. Efter Sätter jag mig ner och börja jobba jag har ritat ett modern House för en kund som jag haft i flera år. Jag har vart med i ett programmet flera år jag blivit ganska rik för att jag är en arkitekt jag bygger hus eller ritar. Det är ett roligt jobb jag har velat ha det ända sedan jag var elva det är jätteroligt. Jag gillar att rita. Mitt jobb är att jag bygger drömhusen till kunder som jag har.  Men jag har också mycket pengar för att det kostar väldigt mycket. Efter lunch jag åt lite choklad pasta med köttfärssås min egna det är den bästa och fler vitaminer sen fortsätter jobba och bygga hus. Sen satte jag mig ner på soffan utan för ser jag ett tåg som åker på ett fälls högt up. Jag kollade på något tråkigt program om mat. Efter 50 minuter gick jag och la mig en ganska tråkig dag men det är måndag och 2050 dock.",
+        "modified": "Tue, 21 Feb 2023 07:16:15 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "f865258c-2120-44ae-a1a8-6108d8daa980"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:16:15 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:16:15 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "1a7bdd7c-c814-4699-8bde-4c39f2b3d593"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00760",
+    "contributor": {
+      "display_name": "Doris"
+    },
+    "created": "Tue, 21 Feb 2023 07:17:00 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:17:00 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21033",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6b8933f1-0b2d-4a58-b75d-4cffe64c794c",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:17:00 GMT",
+        "display_value": "Jag tror att jag bor i en lägenhet i Stockholm tillsammans med en kille. Jag jobbar som sångerska och artist. Vi har två barn, killen är tre år när tjejen är sju år. En vanlig dag kanske börjar med att vakna och äta frukost med familjen. Sedan lämna barnen på förskolan och skolan och gå till jobbet. Jag äter lunch, och jobbar färdigt. Sedan går antingen jag eller deras pappa och hämtar dom. Vi lagar middag som vi sedan äter och när det är läggdags för barnen så kan de lyssna på en ljudbok eller saga i deras egna rum. Jag tror att det kommer finnas många fler robotar i framtiden som kan hjälpa till med flera olika saker för idag finns det robotdammsugare och robotgräsklippare.",
+        "modified": "Tue, 21 Feb 2023 07:17:00 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d128dd92-ebc2-478e-9ecf-8c0689845dd6"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:17:00 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:17:00 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "1544f315-4ee4-431a-8f5b-b15f634f100a"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00764",
+    "contributor": {
+      "display_name": "Hjalmar"
+    },
+    "created": "Tue, 21 Feb 2023 07:19:25 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:19:25 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21041",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "2c78f15e-bab4-4b84-b8bd-de75240a4b44",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:19:25 GMT",
+        "display_value": "Jag har slutat med fotboll. Och bor i ett fint hus. Sen vet jag inte riktigt",
+        "modified": "Tue, 21 Feb 2023 07:19:25 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "a8daff2f-fc85-4d49-8ab0-0da2ced3cddd"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:19:25 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:19:25 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "13fb0d0e-b58e-4de0-9674-a19c745fd2c0"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00766",
+    "contributor": {
+      "display_name": "Jessica"
+    },
+    "created": "Tue, 21 Feb 2023 07:21:03 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:21:03 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21047",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "697bcd18-2c6c-4808-b58d-c33a0e0ee544",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:21:03 GMT",
+        "display_value": "Jag vaknar av mitt alarm på min robot och ber min den göra frukost. Alla har en egen robot. Den gör frukost samtidigt som jag klär på mig. Den kommer till min säng och jag äter frukost där. Sedan packar jag min ryggsäck. Sedan tar jag flygbussen till jobbet, jag jobbar med att fixa bilar. Det finns inte så många såna jobb kvar nu, det är för att robotar och maskiner gör nästan allt nu. Några vanliga jobb är att fixa robotar, programmera robotar eller vara redo ifall en robot skulle gå sönder, vara ur funktion, att den har fått ett virus eller det är något annat fel på den. \nDet kommer inte så många kunder till oss, det beror på att det finns andra företag som har maskiner, vilket går fortare. Jag gillar mitt jobb, det är kul att hjälpa människor och att göra de glada. Det man gör på mitt jobb är att man byter däck, byter lysen, lagar den om den är trasig och sånt. Det kom en kund!\nHan hade krockat och bilen hade blivit väldigt skadad. Jag satte igång med att laga bilen, efter det kom det inte många mer kunder. Jag åkte hem igen med flygbussen. När jag hade kommit hem sa jag till min robot att den skulle laga middag. Min robot är som mitt husdjur och min hjälpreda samtidigt. Jag åt middagen, det var gott. \nSedan myste jag med min robot, den är bäst. \nEfter middagen gick jag och borstade tänderna med min eltandborste, alla har en eltandborste. Sedan gick jag och la mig.",
+        "modified": "Tue, 21 Feb 2023 07:21:03 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "73e9500c-e1c1-4929-80ca-5481927186e8"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:21:03 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:21:03 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "04be188a-10a6-46ab-8c13-c4000c046945"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00768",
+    "contributor": {
+      "display_name": "Vivi"
+    },
+    "created": "Tue, 21 Feb 2023 07:22:34 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:22:34 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21051",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "7732d23b-0be6-43d3-bce0-bf0dd0ecb73c",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:22:34 GMT",
+        "display_value": "Jag tror att mitt liv 2050 kommer vara såhär: Jag kommer att vara 27 år gammal jag tror att jag kommer skaffa en hästgård och åka runt och tävla med mina hästar. Jag kommer kanske ha en kille och så kommer jag bo ute på landet.",
+        "modified": "Tue, 21 Feb 2023 07:22:34 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "3a0a4e71-0693-4e56-88e1-72c7fcdf9631"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:22:34 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:22:34 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "26576f48-6cea-4f77-a71f-bc33eeb27c49"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00772",
+    "contributor": {
+      "display_name": "Siri"
+    },
+    "created": "Tue, 21 Feb 2023 07:25:09 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:25:09 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21057",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "487ca266-241c-497f-bb50-30c24bf7819a",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:25:09 GMT",
+        "display_value": "Jag tror att jag kommer jobba med ett vanligt jobb (vet inte vilket) och ha en häst. Jag kommer nog bo någon stans lite utanför stan.",
+        "modified": "Tue, 21 Feb 2023 07:25:09 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "b95e73ae-23ec-43dc-ad97-38454dacf0a0"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:25:09 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:25:09 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "873fb98f-d767-4919-af45-f83196b4d1b0"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00774",
+    "contributor": {
+      "display_name": "Etta"
+    },
+    "created": "Tue, 21 Feb 2023 07:25:36 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:25:36 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21061",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "c440c710-467d-4f82-8afc-6ca0e8c0d7a2",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:25:36 GMT",
+        "display_value": "Jag kanske är ihop med någon. Jobbar på något coolt jobb som jag gillar. Jag hoppas att jag kan köra bil. Det kanske finns många robotar som jobbar på restauranger och kaféer. Om jag har tur så kan jag ha mitt drömhus. kanske också har en pool. Det kommer nog att finnas massor av nya mobiler, datorer och hörlurar. Jag tror också att det kommer finnas nya maträtter.",
+        "modified": "Tue, 21 Feb 2023 07:25:36 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "eaf2ea20-b4f0-46b2-b3c2-8921a57077ae"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:25:36 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:25:36 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "66a88994-fb53-49ce-aea4-d6f268fe2d37"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00776",
+    "contributor": {
+      "display_name": "Ebba"
+    },
+    "created": "Tue, 21 Feb 2023 07:26:19 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 07:26:19 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21065",
+    "published": true,
+    "school_uuid": "ca28b7e5-4f21-48c8-8de4-26e9b18b71ac",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "290f4107-fe96-4f7c-b7ab-8e6dd8e234f6",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 07:26:19 GMT",
+        "display_value": "När jag vaknar på morgonen är jag förstås väldigt trött, men jag vaknar ändå. Min högteknologiska säng som bäddar sig själv bäddar sig själv. Jag sätter mig på den elektroniska skateboard-brädan och åker mot garderoben. När jag är framme vid garderoben säger jag ut några kläder och en flygande robot flyger in och tar de kläder jag vill ha. Jag byter om och sätter mig på den elektroniska-skateboard brädan och  åker i raketfart mot köket. Jag säger åt mina robotar att ge mig lite macka och den där högteknologiska pillet som gör en supersmart. Efter en stund av ätande borstar jag tänder och sätter mig i den självkörande bilen och åker till jobbet. När jag är framme tar jag den elektroniska skateboard-brädan och åker in till själva kontoret. Efter en intensiv dag av jobb åker jag tillbaka hem i taxin. När jag kommit hem så tar jag brädan och åker in till huset jag bor i. När jag bytt om till myskläder så hoppar jag ner i soffan och kollar på netflix. När det blivit sent så hoppar h´jag på brädan och hoppar ner i sängen. När jag väl är i sängen så får jag lite mat av en robot. Sen borstar jag tänderna lite snabbt och sen somnar jag ganska kvickt.",
+        "modified": "Tue, 21 Feb 2023 07:26:19 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "128c7e11-2352-4a71-b9b4-93f65e2c7035"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 07:26:19 GMT",
+        "display_value": "2011",
+        "modified": "Tue, 21 Feb 2023 07:26:19 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "25f65151-354f-4748-b9c9-ff3bd13f44f7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00778",
+    "contributor": {
+      "display_name": "Victoria"
+    },
+    "created": "Tue, 21 Feb 2023 09:10:23 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Thu, 02 Feb 2023 13:41:20 GMT",
+        "dms_id": "019EBwFK5mMeY",
+        "license": "CC0",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Thu, 02 Feb 2023 13:41:20 GMT",
+        "name": "Mittliv2050.docx",
+        "order_by_number": 1,
+        "owner": "Victoria Hellander",
+        "topic_item": {
+          "label": "📱 Här kan du lägga upp bilder, filmer eller ljud",
+          "label_i18n": {
+            "sv": "📱 Här kan du lägga upp bilder, filmer eller ljud"
+          },
+          "type": "Media",
+          "uuid": "2f666271-2898-4e45-aba2-98d96edde482"
+        },
+        "type": "document",
+        "uuid": "eaa301ce-6fd7-423c-9043-6b46420d1b09"
+      }
+    ],
+    "modified": "Tue, 21 Feb 2023 09:10:23 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21070",
+    "published": true,
+    "school_uuid": "07cac773-2c00-4b45-a0cd-00c3a4ea874f",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "0eafd05c-251e-4778-8cc5-380fb923feb0",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 09:10:23 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 21 Feb 2023 09:10:23 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "cff0ef96-eb5a-403b-b4c1-1198c0ae1e93"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00780",
+    "contributor": {
+      "display_name": "Felicia"
+    },
+    "created": "Tue, 21 Feb 2023 09:12:34 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 09:12:34 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21074",
+    "published": true,
+    "school_uuid": "07cac773-2c00-4b45-a0cd-00c3a4ea874f",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "93e119e9-d169-4d9b-8f9b-793810768148",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 09:12:34 GMT",
+        "display_value": "Jag tror att kommer vara gift och ha två eller tre barn, en katt och en hund. jag kommer vara en spelutvecklare, It-tekniker eller elektriker. Men jag tror att vi kommer ha förbättrat oss och börjat slänga mindre skräp i naturen och att någon har kommit på en ny sorts motor som inte släpper ut dåliga avgaser i miljön och som funkar när det är jätte kallt och när det är jätte varmt. men jag tror att vintern kommer vara senare och vara kortare och att sommaren kommer vara längre på grund av växthuseffekten.",
+        "modified": "Tue, 21 Feb 2023 09:12:34 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "d906bcca-2507-450e-bf12-9e0979e6d280"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 09:12:34 GMT",
+        "display_value": "2008",
+        "modified": "Tue, 21 Feb 2023 09:12:34 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "69518f9d-980e-4ced-bf92-5d38874d9cf7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00782",
+    "contributor": {
+      "display_name": "Clara"
+    },
+    "created": "Tue, 21 Feb 2023 11:00:42 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 11:00:42 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21078",
+    "published": true,
+    "school_uuid": "021f330a-f806-4ec4-8666-e6c83ce529af",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "6783ce2a-e5a5-447b-a0dd-637442c84dba",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 11:00:42 GMT",
+        "display_value": "År 2050\nJag tror att världen fått mer botemedel och att vi har fått bättre sjukvård.\nSedan tror jag byggnader och andra stora saker bytt färg.\nVi har nog också fått mer saker som man kan göra i tekniken och det kanske finns mer robotar och mer knappar.\nJag tror nog att man bygger mer vägar och skyltar.\nMan kanske firar våra högtider mer än vad man gör idag.\nSedan har man hittat massor av mer fynd och det har skapats fler myter.\nDet finns nog mer bakelser också.\nTroligtvis mer människor och mer jobb.\nJag hoppas man blivit snällare mot alla djur.\nMänniskan har nog börjat äta mer vegetarisk och snällare mat.\nDet finns nog mer höga och långa byggnader.\nVi har nog också fått mindre hemlösa människor i värld\nJag tror också att fler och fler börjar jobba för fred och rättvisa.\nJag hoppas också att om man begått ett brott så ska man få ett hårdare straff.",
+        "modified": "Tue, 21 Feb 2023 11:00:42 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "afd7797e-85be-451f-835f-2e495d425cc0"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 11:00:42 GMT",
+        "display_value": "2013",
+        "modified": "Tue, 21 Feb 2023 11:00:42 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "bf611273-797e-45bd-a3a0-4fe0b2156799"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00784",
+    "contributor": {
+      "display_name": "Ella"
+    },
+    "created": "Tue, 21 Feb 2023 11:01:31 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 11:01:31 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21079",
+    "published": true,
+    "school_uuid": "021f330a-f806-4ec4-8666-e6c83ce529af",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "ca367682-d40b-45ac-a913-b9e22c74c201",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 11:01:31 GMT",
+        "display_value": "Jag tror jag kommer vara 2 barns mamma och ha en man.Jag har förmodligen ett jobb, bil och \nbor i ett hus.Jag tror jag jobbar som gymnastiklärare eller frisör. Jag tror att jag kommer se annorlunda ut. Kanske har jag bytt hårfärg eller ögonfärg.Jag tror jag kommer ha ett tjejgäng. \n\n\n\nOm jag får en tjej ska hon heta Lovisa och om det blir en kille ska han heta Love. Blir det två flickor ska dom heta Nova och Nora. Blir det två killar ska dom heta Matteo och Matteus. Jag hoppas att tjejerna/tjejen liknar mig och att killarna/killen liknar min man. 👶🏼👧🏼👶🏻👧🏻\n\n\n\nÅr 2050 är jag 37 år och när jag skriver detta är jag 9. Jag tror att det kanske finns flygande bilar. Jag tror jag blir brunett fast nu är jag blondin. Jag har nog 2 hundar och 1 kanin. Jag vet faktiskt inte så mycket mer men a. \n\n\nMVH Ella💕",
+        "modified": "Tue, 21 Feb 2023 11:01:31 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "74f3e25a-e703-4b49-8e18-e16c92357dd0"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 11:01:31 GMT",
+        "display_value": "2013",
+        "modified": "Tue, 21 Feb 2023 11:01:31 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "e761bdde-b423-469b-953f-6bbd4558b742"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00786",
+    "contributor": {
+      "display_name": "Folke "
+    },
+    "created": "Tue, 21 Feb 2023 11:03:44 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 11:03:44 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21081",
+    "published": true,
+    "school_uuid": "021f330a-f806-4ec4-8666-e6c83ce529af",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "f6f89dda-02fc-49e5-9cad-4cfdbd9a3732",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 11:03:44 GMT",
+        "display_value": "2050 hoppas jag att jag har en familj och ett hus med två barn.\nOch en fru och så hoppas jag att klimatet kan bli lite kalare.\nOch jag  jobbar med kanske skola eller med att lära upp barn som vill spela fotboll.\nDe tror jag kanske jag vill Jobba med.\nOm det blir så så blir det nog jätte roligt hoppas jag.\nOch 2050 så tror jag det bara fins el-bilar och det var min berättelse om mittliv 2050.",
+        "modified": "Tue, 21 Feb 2023 11:03:44 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "e093754b-e9d1-47d5-86cb-c594d6740958"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 11:03:44 GMT",
+        "display_value": "2013",
+        "modified": "Tue, 21 Feb 2023 11:03:44 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "aeeb9ec9-df64-480b-a5e7-f8967a32dcd7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00788",
+    "contributor": {
+      "display_name": "Ivar"
+    },
+    "created": "Tue, 21 Feb 2023 11:04:25 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 11:04:25 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21082",
+    "published": true,
+    "school_uuid": "021f330a-f806-4ec4-8666-e6c83ce529af",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "82b8ec2b-7f2e-48cc-919f-a8a1eaa29992",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 11:04:25 GMT",
+        "display_value": "Hej jag heter Ivar och år 2050 är jag 37 år och jag bor i Göteborg i ett hus och jag tror att jag ska ha barn, 3 eller 2 stycken och mina barn kommer heta Sam och Sara och om jag får tre ska den heta Oliver.\n\nOch jag tror jag kommer arbeta med att göra lastbilar.\nOch jag tror att det kommer att vara drönar bilar. \n\nOch jag tror att det kommer vara fred och kriget kommer sluta, med Ukraina och Ryssland.\n\nOch jag kommer vara duktig med spel och bli spelmästare och jag kommer gilla att spela skräckspel.\n\nOch jag tror att jag kommer vara med min mamma och pappa ibland och göra roliga saker med dem.",
+        "modified": "Tue, 21 Feb 2023 11:04:25 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "dcbc6e83-366d-4eed-879a-12d56c300199"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 11:04:25 GMT",
+        "display_value": "2013",
+        "modified": "Tue, 21 Feb 2023 11:04:25 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "8db8dc66-073a-4f73-bc6c-09a90355665a"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00790",
+    "contributor": {
+      "display_name": "Julian"
+    },
+    "created": "Tue, 21 Feb 2023 11:05:52 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 11:05:52 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21083",
+    "published": true,
+    "school_uuid": "021f330a-f806-4ec4-8666-e6c83ce529af",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "2a395507-bca5-4113-ab98-db735b9a09e6",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 11:05:52 GMT",
+        "display_value": "Hej jag heter Julian. 2050 är jag 37 år.  Jag tror att jag har en familj med 3 barn tillsammans med min fru. Barnen är 7 år, 9 år och en som är 15 år.  Jag tror att jag jobbar som sportchef för IFK Göteborg.  Jag tror att jag också kommer hålla på med youtube.  Jag bor i ett stort hus i Göteborg. Man äter ett piller med olika smaker som ger en all näring plus att det går snabbt . Man tar sig fram genom självkörande bilar, flygplan och snabbtåg som går på koldioxid som man omvandlar till bränsle som inte släpper ut några avgaser. Man betalar med fingeravtryck  med samma valuta överallt på jorden. Mina intressen är fortfarande fotboll och e-sport. Mina barn går i skolan och istället för böcker gör man allt på iPad. Mina barn går i också fotboll och e-sport. Man kommunicerar med en liten sak som man pratar i och så skickas det till den man vill. Sociala medier är typ som idag fast bättre. Miljön har blivit bättre och klimatkrisen finns inte längre. Man reser på semester som man gör idag men man har mer lov. Det är fred på jorden för att alla ledare har skrivit ett avtal om fred. Europa har blivit säkrare och alla kriminella sitter i fängelse. Alla länder i Europa har samma lagar och straff för att det ska bli enklare. Droger kommer heller inte finnas längre. Man ser upp till forskare och vetenskapsmän för att dom hejdade klimatförändringarna. Tack för mig!",
+        "modified": "Tue, 21 Feb 2023 11:05:52 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "00ef6b24-f284-4421-8caa-ab571e184575"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 11:05:52 GMT",
+        "display_value": "2013",
+        "modified": "Tue, 21 Feb 2023 11:05:52 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "5c9bd427-4392-4c65-a12b-788fcf18f207"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00792",
+    "contributor": {
+      "display_name": "Matteo"
+    },
+    "created": "Tue, 21 Feb 2023 11:07:39 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 11:07:39 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21086",
+    "published": true,
+    "school_uuid": "021f330a-f806-4ec4-8666-e6c83ce529af",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "fa5bc933-3b5a-4312-978e-9019d53cbc68",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 11:07:39 GMT",
+        "display_value": "2050 hoppas jag att jag är fotbollsproffs.\nMen det tar mycket tid men jag ska göra mitt bästa.\nOm jag blir fotbollsproffs vill jag spela i real Madrid.\nJag vill ha ett hus i Madrid som kommer att vara vitt och stort med en pol.\nMen jag kommer även ha ett hus i Paris, los angels och Portugal.\nI mitt hus tror jag att det kommer att finnas robotar som lagar maten och städar huset.\nMitt hus kommer att vara miljövänligt det kommer att få elen från vädret.\nJag tror att jag kommer att ha två barn och en fru.\nMina barn kommer att heta Matteo jr och Lena.\nJag tror att det kommer att finnas flygande bilar och bra skolor att gå i.\nJag tror inte det kommer att vara några krig alls, för att alla kommer att ha det så bra.\nJag vill även att alla ska ha ett bra liv så att ingen ska behöva bli mobbad eller något annat.",
+        "modified": "Tue, 21 Feb 2023 11:07:39 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "acbab25c-d12d-4906-abc3-10a819c1d384"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 11:07:39 GMT",
+        "display_value": "2013",
+        "modified": "Tue, 21 Feb 2023 11:07:39 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "265ef077-d0ab-4d8d-97af-29e84e1b165d"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/00794",
+    "contributor": {
+      "display_name": "Stella"
+    },
+    "created": "Tue, 21 Feb 2023 11:14:52 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 21 Feb 2023 11:14:52 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/21090",
+    "published": true,
+    "school_uuid": "021f330a-f806-4ec4-8666-e6c83ce529af",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "e11d578c-be75-42aa-b63c-67328305095f",
+    "v2": false,
+    "values": [
+      {
+        "created": "Tue, 21 Feb 2023 11:14:52 GMT",
+        "display_value": "En dag vaknade jag 05:00 för att mitt barn Molly grät, hon hade en mardröm. Så jag fick trösta henne. Sen åt vi frukost 07:00. Jag åt pannkakor och Molly åt yoghurt sen åkte vi med våran flygande bil till förskolan och jobbet, då va klockan bara 08:00. Jag jobbar som polis. Idag fick jag tag på en tjuv som hade varit dum mot andra människor i tunnelbanan, vi tog med han till polisstationen .Sen när jag hade slutat jobba och Molly hade slutat förskolan, så berättar Molly vad som hade hänt på förskolan.När min man Liam kom hem från jobbet fick jag en puss, det var sedan dags att åka till handbollen med min flygande bil. Jag är tränare för ett lag tjejs som är 9 år gamla på Torslanda HK. Det är alltid jätte roligt att spela med dom glada tjejerna. När träningen va sluta så hade  Liam redan gjort klart maten.Jag blev jätte glada.Maten som Liam hade gjort  va hemmagjorda.Fiskbullar är alltid så himla goda som vanligt .nu ska jag berätta mer om den flygande bil den är lila och är min dröm bil.på bil kan man öppna takluckan jag älskar att den kan öppnas. i bland brukar Alla i familjen ta en kvälls durs eller ett kvälls bad .sen läste jag en bok som handlade om en liten tomte som heter tomten .den är ju väldigt bra och spännande sen somnade Molly.",
+        "modified": "Tue, 21 Feb 2023 11:14:52 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "c30039f4-480a-4edd-ba90-6b8f0933705b"
+      },
+      {
+        "created": "Tue, 21 Feb 2023 11:14:52 GMT",
+        "display_value": "2013",
+        "modified": "Tue, 21 Feb 2023 11:14:52 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "05394cf3-367c-4a25-8cd0-2885d7e23045"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
