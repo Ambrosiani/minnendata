@@ -5328,6 +5328,22 @@
           57.918
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "…",
+        "date": "23 februari 2023",
+        "author": "Alina",
+        "url": "https://minnen.se/tema/krigetiukraina/21277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }
