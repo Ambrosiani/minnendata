@@ -5344,6 +5344,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Det är så hemskt det som händer nu i Ukraina. Människor dör och andra har förlorat sina hem eller si…",
+        "date": "27 februari 2023",
+        "author": "Iana Lundberg",
+        "url": "https://minnen.se/tema/krigetiukraina/21692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069,
+          59.329
+        ]
+      }
     }
   ]
 }

@@ -41848,5 +41848,130 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00589",
+    "contributor": {
+      "display_name": "Iana Lundberg"
+    },
+    "created": "Mon, 27 Feb 2023 15:26:29 GMT",
+    "image_dms_id": "019EBwjk4CCBU",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 27 Feb 2023 15:18:24 GMT",
+        "description": "Tågresenärer står i kön.",
+        "dms_id": "019EBwjk4CCBU",
+        "image_height": 2042,
+        "image_ratio": 0.5729676787463271,
+        "image_width": 1170,
+        "license": "CC BY",
+        "mime_type": "image/jpeg",
+        "modified": "Mon, 27 Feb 2023 15:18:24 GMT",
+        "name": "Image (19).jpeg",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "",
+          "label_i18n": {
+            "sv": ""
+          },
+          "type": "Media",
+          "uuid": "38552b78-5b22-49eb-b5c8-bb814fff0311"
+        },
+        "type": "image",
+        "uuid": "7df4ead7-6194-44e4-946b-26eba3a595f7",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 27 Feb 2023 15:26:29 GMT",
+    "position": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/21692",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "2f7cec2f-383d-4df5-92d0-a8e5b2d6fa9e",
+    "v2": false,
+    "values": [
+      {
+        "created": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "display_value": "2006",
+        "modified": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "e1f451b7-ae42-42ff-a31e-de9358314220"
+      },
+      {
+        "created": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "display_value": "Så klart kriget påverkade inte bara Ukraina och Ryssland. När kriget har börjat var det många andra länder som hjälpte till så som Tyskland, Frankrike, USA, Kanada, Polen, Sverige, Danmark, Norge och många andra länder. Vi är jättetacksamma och hoppas på seger.",
+        "modified": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "ef33c442-6b5d-4231-bad8-6d437cd97c70"
+      },
+      {
+        "created": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "display_value": "Det är så hemskt det som händer nu i Ukraina. Människor dör och andra har förlorat sina hem eller sina nära och kära. Det är många barn som har förlorat sina föräldrar och föräldrar som har förlorat sina barn. Jag kan inte föreställa mig hur det känns för folket som stannade kvar i Ukraina. Hoppas allt tar slut snart och vi kan fira våran seger. Ära till Ukraina och ära till Ukrainas försvarsmakt!",
+        "modified": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "4cfa4916-0e57-4f9c-b47d-fbbe093e9c4b"
+      },
+      {
+        "created": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "display_value": "Nuförtiden bor pappa och min bror i Ukraina och jag med mamma och lillasyster i Sverige i nästan ett år. Faktiskt är det många om blivit av med sitt jobb och löner. Det största problemet är att lönen inte ändrades och priserna i butiker stiger bara upp. Människor som är kvar i Ukraina har blivit vana (inte till 100%) men med situationen  upplever de ändå stress varje dag.",
+        "modified": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "707cb718-945a-47e2-bea3-7aadabaaed81"
+      },
+      {
+        "created": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "display_value": "Jag vaknade kl. 5.00 på morgonen och hörde ljud från flygplanen. För mig var det konstigt för att platsen där jag bor har ingen flygplats. Då kunde jag inte tro att kriget hade börjat så jag la mig och fortsatte att sova. Sedan vaknade jag kl. 6:00. Jag kunde inte förstå varför ingen väcker mig för att gå till skolan så jag gick till mina föräldrar. Min pappa pratade med någon på telefon och mamma gick runt i huset och visste inte vad  hon ska göra. Jag frågade mamma vad är det som händer? Så svarade hon bara med tre ord: kriget har börjat”. Jag kunde inte tro detta tills jag hörde en smäll, den andra och den tredje… Tre dagar efter kriget hade börjat kunde jag inte sova själv utan med min mamma och syster. Min pappa hade bestämt att det här kommer inte fungera längre, så den första mars bestämde vi oss för att åka till Sverige. Det var en jättelång väg. Vi var framme den sjunde mars.",
+        "modified": "Mon, 27 Feb 2023 15:26:29 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "3ad1a292-1b2e-4b49-8229-6e2e1419886b"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
