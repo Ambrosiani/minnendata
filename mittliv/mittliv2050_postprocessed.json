@@ -30422,5 +30422,167 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/01002",
+    "contributor": {
+      "display_name": "Vera"
+    },
+    "created": "Wed, 01 Mar 2023 09:01:47 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 01 Mar 2023 09:01:47 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/22046",
+    "published": true,
+    "school_uuid": "db2f3af6-2350-4fe3-808d-5abbdd546da6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "43d7b122-c1f2-477a-9f4d-d56905c97eac",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 01 Mar 2023 09:01:47 GMT",
+        "display_value": "2013",
+        "modified": "Wed, 01 Mar 2023 09:01:47 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "448539fe-eee6-46cd-9c72-a709ef956efa"
+      },
+      {
+        "created": "Wed, 01 Mar 2023 09:01:47 GMT",
+        "display_value": "Mitt liv 2050. Jag tror att världen ser annorlunda ut  än vad den gör nu. Jag tror att det kommer släppas ut mer avgas och att det kommer vara mer skräp ute i naturen. Jag går ut och plockar skräp i naturen en gång i veckan med mina kompisar. Jag och mina kompisar är mycket med varandra. Vi brukar messa om många olika saker men mycket om vi vill vara med varandra, så brukar vi prata mer om något annat sen när vi ses. Jag och mina kompisar är ganska lika, vi gillar typ samma saker. Vi äter mycket blandat som till exempel grönsakssoppa och lax med pasta. Jag bor i ett ganska litet hus, men det är lagom stort för mig och mina djur. Jag har två kaniner och en hund. Jag ska kanske jobba på zoo eller kanske på en affär eller kanske som lärare. Jag bor ganska nära mitt jobb så jag brukar cykla eller gå till jobbet.\n                              \n\n                                       Det är vad jag tror att mitt liv 2050.",
+        "modified": "Wed, 01 Mar 2023 09:01:47 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "89839d5a-ce61-4ff8-bcac-f3029086a37c"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/01004",
+    "contributor": {
+      "display_name": "Liz"
+    },
+    "created": "Wed, 01 Mar 2023 09:02:08 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 01 Mar 2023 09:02:08 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/22048",
+    "published": true,
+    "school_uuid": "db2f3af6-2350-4fe3-808d-5abbdd546da6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "986c5bc8-41b9-4974-8923-27d209925162",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 01 Mar 2023 09:02:08 GMT",
+        "display_value": "2013",
+        "modified": "Wed, 01 Mar 2023 09:02:08 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "1d345fe0-41f6-4937-a08f-e1f3b161a89e"
+      },
+      {
+        "created": "Wed, 01 Mar 2023 09:02:08 GMT",
+        "display_value": "Om 2050 tror jag att jag har något barn och att jag jobbar på Volvo och att värden mår bättre än vad det gör nu 2023 och att det inte ska vara lika mycket krig i värden. 2050 vill jag äta mer grönsaker och inte lika mycket chips eller godis. Sen att man ska äta mycket nyttigt. Och inte så mycket socker. Att det ska vara mindre skräp och att det inte ligger så mycket plast och påsar är och där. 2050 hopas jag att man tar nytta av kläder som är trasiga och inte slänger sånt som man kan göra om till nya kläder.",
+        "modified": "Wed, 01 Mar 2023 09:02:08 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "f08f55fe-5589-4485-b320-8daaa8ce8cf7"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/01006",
+    "contributor": {
+      "display_name": "Elly"
+    },
+    "created": "Wed, 01 Mar 2023 09:03:00 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 01 Mar 2023 09:03:00 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/22053",
+    "published": true,
+    "school_uuid": "db2f3af6-2350-4fe3-808d-5abbdd546da6",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "75fd3503-4116-428d-b9ff-04ec375d1d74",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 01 Mar 2023 09:03:00 GMT",
+        "display_value": "2013",
+        "modified": "Wed, 01 Mar 2023 09:03:00 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "ed2c42f9-a975-4ef4-bd3d-c06a1c960fe1"
+      },
+      {
+        "created": "Wed, 01 Mar 2023 09:03:00 GMT",
+        "display_value": "Jag tror att man vaknar 07:00 och jag tror att jag vaknar själv. Jag tror att jag väljer en svart t- shirt och ett par blåa utsvängda jeans. Jag tror att jag tar ett par svarta strumpor. Jag tror att jag kommer sminka mig då. Jag tror jag kommer att äta mannagrynsgröt och hälla i mjölk och äpplemos. Jag tror att jag kommer messa med mina vänner. Och ringa dem. Jag tror jag kommer att umgås med mina vänner och familj och släkt. Jag kommer att jobba på lindex eller kicks eller Kappahl. Jag tror jag bor i Värsås eller i Skövde. Mitt golv ska vara i marmor typ hela mitt hus ska vara i marmor. Iblan så kanske jag äter pizza och tacos på helgerna äter jag nog bara det.",
+        "modified": "Wed, 01 Mar 2023 09:03:00 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "bd386aee-facd-48c3-8f9b-0a59b0989faa"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
