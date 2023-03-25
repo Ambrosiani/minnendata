@@ -30962,5 +30962,113 @@
       }
     ],
     "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/01022",
+    "contributor": {
+      "display_name": "Sara"
+    },
+    "created": "Fri, 24 Mar 2023 09:44:17 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 24 Mar 2023 09:44:17 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/22175",
+    "published": true,
+    "school_uuid": "d98d3456-b3df-43fe-a4cb-b1435aab8e00",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "0e3005db-0e08-42df-8319-e04017873342",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 24 Mar 2023 09:44:17 GMT",
+        "display_value": "2009",
+        "modified": "Fri, 24 Mar 2023 09:44:17 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "21eb396a-938a-43c2-b86a-7114c27a2e20"
+      },
+      {
+        "created": "Fri, 24 Mar 2023 09:44:17 GMT",
+        "display_value": "Jag  heter Sara Uwiduhaye Bazire det är mitt namn och förut brydde jag mig men inte längre  nu ska jag berätta om mitt liv 2050. Jag använder allt  som jag tycker jag gillar och hur några av min drömmar kom till uppfyllelse av hårt arbete. \n\nJag har 2 barn en tjej och en kille. \nMitt äldsta barn heter Massie. mitt yngsta heter Princess hon är döpt efter vad mitt namn betyder och så.  \nJa nu tänker  du varför är inte hon gift, jo jag vill inte gifta mig jag har alltid kunnat leva  utan en man i mitt liv. \nJag bor själv med min barn i en villa och det är superfint det är en pool på baksidan och trädgården är superfin med. Jag fixar det alltid det fint i trädgården varje söndag för det är den sista dagen i veckan och jag har ett automatiskt vattensystem som vattnar blommorna när jag på jobbet. \nVi bor i ett väldigt fint område och jag är superstolt hur det är och hur jag och min barn lever. \nDet finns  fortfarande folk som behöver hjälp med pengar och så folk som inte har hem men det är inte lika många som 2023  det har minskat mycket. \n\nMin karriär ja när jag va 13 ville jag bli känd och det är jag typ jag en influenser som är med i olika  filmer och gör samarbeten med företag som säljer miljövänliga produkter som inte använder barnarbete. \nJag dansar och sjunger fortfarande och sjunger som om jag har gjort  det hela mitt liv som om ingen annan  är där när jag gör det jag har ju dansas sen jag va 2 år så det är mitt livs  roligaste sak. \nJag har ett vanligt jobb också jag jobbar som en kreatör asså jag hittar på olika slags hudvårdsprodukterna eller naturligt smink och kläder jag äger min egen affär det är en av 5 st min affär blev ganska populär efter ett tag av jobb. \nJag tycker man ska vara så naturlig som möjligt det är därför jag säljer naturligt smink och sånt det syns inte så mycket, om man vill ha smink så kan man ha det men det är naturligt jag önskar det fanns när jag va ung.  \n\nMina barn bor hos mig hela tiden för deras pappa är en som reser mycket och han stannar inte på samma plats mer än bara några veckor. \nBarnen fick  själv bestämma om de ville bo hos mig eller hos deras pappa och de valde att bo  hos mig men de träffar sin pappa och de har kontakt jag vill inte att de ska ha  samma uppväxt som jag hade med min pappa. \nJag försöker ge mina  barn det livet de borde ha så de inte ska hamna på fel väg  jag gör mitt bästa med att kunna  fira  jul påsk och allt sån där högtider som jag inte kunde fira när jag va liten. \n\nVi bor inte i Östersund jag flyttade till L.A för att kunna  uppnå min drömmar  och göra  allting enkät mina barns kan bra  engelska  jag lär de så mycket om deras kultur för att de inte ska glömma bort vart  de kommer ifrån och det är  därför min mamma kommer och ser  de ibland de älskar henne och min familj bor inte i L.A  men vi träffa ibland och har kul ihop de älskar min familj lika mycket som jag gör. Och  det va allt för mig SLUT",
+        "modified": "Fri, 24 Mar 2023 09:44:17 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "8ff5d61f-3bee-4693-ac2d-3acd615e3216"
+      }
+    ],
+    "hasCoordinates": false
+  },
+  {
+    "archive_code": "M1:4/01024",
+    "contributor": {
+      "display_name": "Rahmatullah"
+    },
+    "created": "Fri, 24 Mar 2023 09:56:22 GMT",
+    "license": "CC BY",
+    "modified": "Fri, 24 Mar 2023 09:56:22 GMT",
+    "presentation_url": "https://minnen.se/tema/mittliv2050/22178",
+    "published": true,
+    "school_uuid": "d98d3456-b3df-43fe-a4cb-b1435aab8e00",
+    "submitted": false,
+    "topic": {
+      "name": "Mitt liv 2050",
+      "name_i18n": {
+        "en": "Mitt liv 2050",
+        "sv": "Mitt liv 2050"
+      },
+      "uuid": "2207b199-bb63-4067-bdd8-259339e01907"
+    },
+    "uuid": "57b2f119-d6b3-4063-a816-c19be4ae4430",
+    "v2": false,
+    "values": [
+      {
+        "created": "Fri, 24 Mar 2023 09:56:22 GMT",
+        "display_value": "2009",
+        "modified": "Fri, 24 Mar 2023 09:56:22 GMT",
+        "topic_item": {
+          "label": "🔢 Vilket år är du född?",
+          "label_i18n": {
+            "sv": "🔢 Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "1d74d703-251e-4e89-8929-08188fcd6756"
+        },
+        "uuid": "dc85a6d3-e7c5-434c-9c85-44a2cc2a1346"
+      },
+      {
+        "created": "Fri, 24 Mar 2023 09:56:22 GMT",
+        "display_value": "Så här är mitt liv i 2050. jag vaknar kl 06:00 och tränar när jag klar med träningen dushar jag och klär på mig sen väker jag mina barn och fixar frukost åt dom.När vi har ätit frukost kör jag dom till skolan sen åker jag till mitt företag i mitt företag säljer vi kläder  kl 11 äter jag luch sen forsätter jag att jobba till kl 2 sen hämtar jag mina barn från skolan. När jag och minna barn är hemma så kommer min fru hem hon.kl 4 åker jag och mina barn till mitt eget MMA gym där jag ska ha tränigen för dom äldre och mina barn har träning medans jag tränar andra när kl blir 17:30 slutar träningen då ringer jag en privat chaufför som kör hem minna barn. För nu ska jag och mina bröder börja våran träning när vi har tränat till runt kl 7 så stänger vi gymmet och åker hem när jag är hemma har min fru lagat mat så vi äter mat. När vi har ätit klart så kollar jag på film med minna barn för att det är fredag idag. Kl 11 går vi och sover. Jag är vällkänd i världen i världen pågrunda av mitt företag och att jag är en Boxnings champion och UFC champion.",
+        "modified": "Fri, 24 Mar 2023 09:56:22 GMT",
+        "topic_item": {
+          "label": "✏️ Berätta hur du föreställer dig ditt liv 2050",
+          "label_i18n": {
+            "sv": "✏️ Berätta hur du föreställer dig ditt liv 2050"
+          },
+          "type": "Textarea",
+          "uuid": "32e65a82-b50c-4470-a377-d03831bf4856"
+        },
+        "uuid": "3b117e2f-ea10-474e-a275-4a6f8e2152b7"
+      }
+    ],
+    "hasCoordinates": false
   }
 ]
