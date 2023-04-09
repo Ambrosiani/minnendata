@@ -5360,6 +5360,22 @@
           59.329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag är en person som själv har levt under bomber och krig, så på nåt sätt förstår jag hur det känns …",
+        "date": "8 april 2023",
+        "author": "Natalia",
+        "url": "https://minnen.se/tema/krigetiukraina/22220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.975,
+          57.709
+        ]
+      }
     }
   ]
 }

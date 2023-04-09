@@ -41973,5 +41973,117 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00590",
+    "contributor": {
+      "display_name": "Natalia"
+    },
+    "created": "Sat, 08 Apr 2023 21:04:22 GMT",
+    "license": "CC BY",
+    "modified": "Sat, 08 Apr 2023 21:04:22 GMT",
+    "position": {
+      "latitude": 57.70887,
+      "longitude": 11.97456
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/22220",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "b92a94f3-2aad-45a8-8729-874c63e9f3aa",
+    "v2": false,
+    "values": [
+      {
+        "created": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "display_value": "1991",
+        "modified": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "04c1c350-1d25-4203-9633-c8f07ba6ed04"
+      },
+      {
+        "created": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "display_value": "På många sätt känns det som att tillståndet i Sverige blir sämre. Kriget är bara en av alla saker som bidrar till en känsla av kaos. Jag tänker ofta på hur lång tid det kan ta innan det är slut, men också på hur lång tid det tar innan vårt eget samhälle börjar bli lugnare och om vi här också får känna trygghet.",
+        "modified": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "00b6121e-eac4-4540-8cf2-ab5644cfc7c9"
+      },
+      {
+        "created": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "display_value": "Jag är en person som själv har levt under bomber och krig, så på nåt sätt förstår jag hur det känns för de människor som är kvar.  Jag tycker att Sverige borde göra allt i sin makt för att ge de som kommer en fristad och skydd. Jag blir också rädd för andra konflikter som kriget kan leda till. Jag blir väldigt ledsen när jag tänker på allt hemskt som händer.",
+        "modified": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "c27448fb-a0c3-4c82-bc54-da2fdba66c58"
+      },
+      {
+        "created": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "display_value": "På nåt sätt tror jag att det kan bli en ny start för Ukraina. Det finns en stor vilja att hjälpa och det är viktigt att det fortsätter så. Jag vill inte att Sverige går med i Nato, och inte heller att de ryssar som inte har med kriget att göra ska behöva utstå hat.",
+        "modified": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "5f794295-e983-437f-bd25-c37b2a04af0f"
+      },
+      {
+        "created": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "display_value": "Jag påverkas genom att jag möter ukrainare och pratar med dem. Det finns en enorm vilja att kämpa, och jag tänker ofta att de här människorna är otroligt modiga och skulle kunna bidra med sin kunskap om de bara får chansen. Samtidigt får jag dåligt samvete för att jag tror att jag kan göra mycket mer.",
+        "modified": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "99b1c7ce-0689-4cd7-9b1b-dc0ab79c39ff"
+      },
+      {
+        "created": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "display_value": "Jag läste nyheterna på vägen till jobbet, det var tidigt på morgonen. Jag mådde dåligt och blev rädd och orolig. Väl framme blev jag väldigt förvånad att ingen pratade om kriget. Det var svårt att koncentrera sig, och jag kollade nyheterna så ofta jag kunde de första dagarna, det kändes viktigt att veta allt och uppdatera sig.",
+        "modified": "Sat, 08 Apr 2023 21:04:22 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "7c1cadd4-e60f-42b9-b4d3-bf5c48c55895"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
