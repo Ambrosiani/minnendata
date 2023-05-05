@@ -578,6 +578,80 @@
     ]
   },
   {
+    "archive_code": "M5/00002",
+    "contributor": {
+      "display_name": "Leona Leah Rapoport"
+    },
+    "created": "Sun, 19 Sep 2021 13:35:29 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 19 Sep 2021 13:29:10 GMT",
+        "dms_id": "013AiPPdPXVq",
+        "license": "CC0",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Sun, 19 Sep 2021 13:29:10 GMT",
+        "name": "Levnadsberättelse reviderad.docx",
+        "order_by_number": 1,
+        "owner": "Leona Leah Rapoport",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "b00c147a-a262-448e-bb42-decebd62b3da"
+      }
+    ],
+    "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/17276",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "32d4c7d8-1bfe-478f-844b-29d5783f0682",
+    "values": [
+      {
+        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "display_value": "1970-07-22",
+        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "topic_item": {
+          "label": "Ankomstdatum till Sverige:",
+          "label_i18n": {
+            "sv": "Ankomstdatum till Sverige:"
+          },
+          "type": "Textarea",
+          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "2b7744d1-1973-4242-ac24-5206a1bff144"
+      },
+      {
+        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "display_value": "Göteborg, Täby",
+        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "topic_item": {
+          "label": "Tidigare bostadsorter:",
+          "label_i18n": {
+            "sv": "Tidigare bostadsorter:"
+          },
+          "type": "Textarea",
+          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "edb9a975-3641-4244-b6a4-406b08f7624b"
+      }
+    ]
+  },
+  {
     "archive_code": "M5/00009",
     "contributor": {
       "birth_year": 1947,
@@ -722,80 +796,6 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "76dbbfe1-7652-4660-82f3-81eca36750e6"
-      }
-    ]
-  },
-  {
-    "archive_code": "M5/00002",
-    "contributor": {
-      "display_name": "Leona Leah Rapoport"
-    },
-    "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Sun, 19 Sep 2021 13:29:10 GMT",
-        "dms_id": "013AiPPdPXVq",
-        "license": "CC0",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Sun, 19 Sep 2021 13:29:10 GMT",
-        "name": "Levnadsberättelse reviderad.docx",
-        "order_by_number": 1,
-        "owner": "Leona Leah Rapoport",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "b00c147a-a262-448e-bb42-decebd62b3da"
-      }
-    ],
-    "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/17276",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "32d4c7d8-1bfe-478f-844b-29d5783f0682",
-    "values": [
-      {
-        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "display_value": "1970-07-22",
-        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "topic_item": {
-          "label": "Ankomstdatum till Sverige:",
-          "label_i18n": {
-            "sv": "Ankomstdatum till Sverige:"
-          },
-          "type": "Textarea",
-          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "2b7744d1-1973-4242-ac24-5206a1bff144"
-      },
-      {
-        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "display_value": "Göteborg, Täby",
-        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "topic_item": {
-          "label": "Tidigare bostadsorter:",
-          "label_i18n": {
-            "sv": "Tidigare bostadsorter:"
-          },
-          "type": "Textarea",
-          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "edb9a975-3641-4244-b6a4-406b08f7624b"
       }
     ]
   },
@@ -950,6 +950,100 @@
     ]
   },
   {
+    "archive_code": "M5/00005",
+    "contributor": {
+      "birth_year": 1951,
+      "display_name": "Anna",
+      "gender": "woman",
+      "place": "Warszawa",
+      "uuid": "60d60d97-d9e4-45f8-af21-9c5ce4f84c4f"
+    },
+    "created": "Fri, 08 Oct 2021 18:14:24 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Fri, 08 Oct 2021 18:11:48 GMT",
+        "description": "Anna levnadsberättelse",
+        "dms_id": "013AitirC4zy",
+        "license": "CC BY-NC",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Fri, 08 Oct 2021 18:11:48 GMT",
+        "name": "Anna levnadsberättelse.docx",
+        "order_by_number": 1,
+        "owner": "Anna",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "ab398319-6fee-4b76-acb2-fddb424938d3"
+      }
+    ],
+    "modified": "Fri, 08 Oct 2021 18:14:24 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/17310",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "0daab488-a9df-45ac-b946-d12e22d33e22",
+    "values": [
+      {
+        "created": "Fri, 08 Oct 2021 18:14:24 GMT",
+        "display_value": "26 januari 2021. Förintelsedagen. Jag läser berättelser från det ockuperade Polen, mördandet i Ukraina, koncentrationsläger… Jag har lyssnat och läst om detta otaliga gånger tidigare. Det är lika drabbande varje gång. Jag upplever det som en del av min egen historia, en oskiljaktig del av min judiska identitet. \n\nJust idag känns min egen resa futtig och inte värd att ägna sig åt. Det må vara viktigt för var och en av oss som blev tvungna att flytta från Polen, det må vara viktigt för historieskrivningens skull men den föreställningen bleknar i relation till vittnesmålen från förr. \nBakgrund\nJag heter Anna, är född 1951 i Warszawa. Jag kom till Sverige 1969 med min bror och mina föräldrar. Sedan dess har jag bott den mesta tiden i Göteborg. Efter språkstudier och ambitioner om ett yrkesliv som översättare väcktes så småningom mitt intresse för psykologi och ett arbete som psykolog och psykoterapeut. Ett val jag aldrig har ångrat. Jag har levt i 45 år med en italiensk man och har två vuxna barn. Vi har valt att tala italienska hemma, medan mitt modersmål polska har trätt i bakgrunden. Det kan tänkas vara ett anmärkningsvärt val men kan förstås i ljuset av mitt konfliktfyllda sökande efter ”att hitta hem.”\n\nJag är uppvuxen i Warszawa men under ett år av mitt liv, mer exakt 1956, blev Israel familjens vistelseort. Det var mina föräldrars försök att skydda oss barn från antisemitismen i Polen. Ett misslyckat försök dock, då vi återvände till Warszawa. Jag har bara fragmentariska minnen men det sas i efterhand att min far inte kunde finna sig till rätta och att han saknade sitt professionella sammanhang. Han arbetade som journalist och fick komma tillbaka till sin tidigare arbetsplats efter återkomsten.\n\nJag minns mina föräldrars tillsägelser att inte yppa ett ord om vistelsen i Israel. Jag minns att jag inte förstod varför. Jag fick inte heller någon förklaring. Det är ett minne som har nog präglad min upplevelse av att vara judinna kopplad till en distinkt känsla av obehag. En upplevelse av att jag/vi var fel utan att förstå varför. \n\n22 juli 2021. Det blev en längre paus i mitt skrivande än jag hade trott. Nu när jag tar upp det igen inser jag att det ständigt verkar pågå en inre dialog om det jag har varit med om och att jag känner behov att skriva om det. \n\nDet finns ytterligare två återkommande minnen som tränger sig på; det ena utspelar sig i maj 1969 då jag hör mina föräldrar prata tyst med varandra, i tron att vi barn inte hör, om beslutet att lämna Polen. Det andra utspelar sig i oktober 1969 på tågstationen i Warszawa, då vi sätter oss på det tåg som ska ta oss till Sverige. Två upplevelser som försatte mig i känslor av maktlöshet och hopplöshet.  \n\nJag fick veta av en slump, en månad innan studenten, att vi skulle flytta. Jag var sjutton år och kunde inte acceptera att mina föräldrar ställde mig inför ett redan fattat beslut. Jag blev arg och chockad. Trots den pågående antisemitiska kampanjen fanns det inte i min föreställningsvärld att just vi skulle flytta. Jag minns att jag knappt kunde tänka mig att vi skulle kunna flytta till en annan gata. Jag kunde inte tänka mig ett liv någon annanstans och utan mina vänner. De flesta av dem var polacker och min judiska identitet var tämligen svag. Utan form och innehåll. Jag fick inte någon hjälp att knyta ihop de trådar som var nödvändiga för förståelsen av min bakgrund. Det var någonting som jag hade en vag aning och onda föraningar om men som ingen pratade om. Att vi var judar var ”en icke-fråga” i min familj tills den antisemitiska kampanjen tog fart och samtalen hemma började präglas av rädslan och utsatthet. Jag hade önskat att mina föräldrar på något sätt kunde förmedla vår judiska tillhörighet, i stället för att ”skydda mig” genom att tiga och undvika. \n\nMin mamma berättade sin överlevnadshistoria historia först i samband med budskapet om att vi skulle lämna Polen. Hon överlevde kriget mot alla odds medan hela hennes släkt blev utplånad. Hon hamnade tillsamman med sina föräldrar i Warszawas ghetto och flydde precis innan upproret medan de inte hann fly. Min mamma lyckades gömma sig först i skogen och sedan hos en polsk kvinna som tog hand om henne i krigets slutskede. Hon var sjutton år och helt ensam. Hon har fragmentariska minnen från den tiden och det är svårt för henne att prata om det som hänt. Däremot pratar hon fortfarande om den polska kvinnan som räddade hennes liv, som blev som en mamma för henne och fortsatte att vara det så länge hon levde. \n\nDen hätska antisemitiska kampanjen i Polen fick min mamma att känna sig som villebråd igen. Överväldigad av rädslan ville hon fly till en trygg plats. Och det var också under den perioden som hon började säga: ”Vi måste åka iväg, jag är rädd, vi vet inte vad de kommer att göra med oss.” Själv var jag uppfylld av ilska, desperation och maktlöshet inför beslutet om att lämna Polen och just då kunde jag inte identifiera mig med hennes känslor och rädslor.\n\nMin pappa gick motvilligt med på att emigrera. Hans historia skilde sig från min mammas. Han växte upp i östra Polen, numera Ukraina. Han var kommunist och under kriget anslöt han sig till Röda armén. Efter kriget flyttade han till Warszawa där ha så småningom fick jobb som journalist. Att bli utsatt för den antisemitiska kampanjen på hans jobb var en förnedring som han aldrig kom över. Han trodde på det nya socialistiska Polen och att behöva flytta för andra gången innebar att ge upp allt som hade varit viktigt för honom. Han sörjde sitt jobb, sin profession, sin ideologiska övertygelse och drevs snarare av känslor av uppgivenhet än rädsla och otrygghet. Under tiden före avresan utkristalliserades så två läger, ett bestående av mig och min pappa, de som ville stanna, och den andra av min yngre bror och min mamma, de som ville åka.\n\nVidden av att emigrera förstod jag först i efterhand, när den första chocken och förvirringen hade lagt sig. Det som skedde var definitivt och utan återvändo. Att vi var tvungna att avsäga oss vårt medborgarskap och bli statslösa kändes obegripligt och overkligt. \n\nNär det verkligen blev tydligt att det inte fanns någon utväg och det första motståndet lagt sig var jag nog i ett långvarigt chocktillstånd. Jag visste knappt vad jag gjorde, jag levde som i ett töcken. Räddningen blev att finna samhörighet med andra unga människor som gick igenom liknande erfarenheter, som också skulle emigrera. De sista månaderna innan avresan umgicks jag mer med judiska kompisar än vad jag hade gjort under hela mitt liv. Det var då som ett livslångt sökande tog sin början. Sökandet efter en tillhörighet.  Bortom skam och undvikande. Bortom den förnedring och kränkning som flytten från Polen innebar. \n\nDe formalia som krävdes av polska myndigheter i samband med flytten var kränkande. Många människor blev trakasserade. En del av både mina och mina föräldrars vänner vände oss ryggen. Det var outhärdligt. Samtidigt var allt jag var tvungen att skiljas från lika outhärdligt. Jag minns känslan av undergång när vi åkte till en soptipp med böcker som inte vi kunde ta med oss och som skulle slängas. Senare en likande känsla vid själva avresan med alla vänner på perrongen. Jag har ett vagt minne från just det tillfälle. Det är mycket folk, många har kommit för att vinka av, jag kan inte urskilja någon. Overklighetskänsla sköljer över mig. Sedan minns jag ingenting fram tills vi kommer till polska gränsen. Jag blir orolig och känner starkt obehag. Jag vet att man kan bli utsatt för repressalier och trakasserier från gränspolisen. Men vi får stämpel i våra statslösa dokument utan kommentar och åker vidare. Dagen efter anlände vi till Stockholm. Allt kändes främmande och fortsatte att göra det under de kommande åren. \n \nJag visste absolut ingenting om vad som skulle hända när vi kom till Sverige. Det var helt tomt. Inför avresan kände jag mig inte nyfiken på det land vi skulle flytta till. Jag var för upptagen av att hantera förlusten av ”mitt polska liv”.  I efterhand kan jag se hur den upplevelsen har präglat ”mitt svenska liv”.  Från första början har jag varit avvaktande och avståndstagande till både människor och företeelser som jag uppfattade som typiskt svenska. Jag läste polska böcker och polska tidningar. Jag var upptagen med att upprätthålla kontakten med mina polska vänner och längtan efter mitt hem vilket förstärktes av samvaron i den polsk-judiska emigrantgruppen. Den i viss mån påtvingade tillhörigheten började skapas redan i kön utanför ambassaden och fortsatte under tågresan, vistelsen på flyktingförläggningen och språkkursen. Samhörigheten gav trygghet men var också begränsande. Både jag och många andra hoppades att det skulle finnas en annan plats på jorden som skulle kännas bättre, mera hemma än Sverige. För min del tog flera år innan jag kunde börja öppna mig mot det liv och den plats jag befann mig på och börja knyta kontakter utanför den polsk-judiska gruppen. \n\nInnan dess sökte jag mig till Israel, efter två år i Sverige. Ett land där jag trodde jag kunde leva ut min judiska tillhörighet. Men även om jag nog kände mig mer hemma där än i Sverige valde jag ändå att inte flytta för gott. Kanske av rädsla att behöva bryta upp igen… kanske för att det inte kändes helt rätt…\nEfter fyra år i Sverige gjorde jag ett nytt försök och flyttade till England. Även där kände jag mig mer hemma än i Sverige men kom tillbaka efter ett år. Kanske igen av rädsla att behöva klara mig själv… Jag började tvivla att det någonsin skulle kännas ”hemma” på samma sätt som i Polen. \nEfter sju år i Sverige och som en nybliven svensk medborgare kunde jag besöka Polen för första gången. Det var viktigt att komma tillbaka, att återse gamla vänner och välkända platser men det fanns också en känsla av obehag. Jag upplevde att den utifrån påklistrade definitionen av mig som judinna, den som fick mig att känna mig avvikande i Polen väcktes till liv. Det var då jag på djupet förstod att Polen inte var mitt hem längre. \n\nDe första åren i Sverige präglades av saknaden av mitt tidigare liv, vänner, språket, platser. Självklarheten i vardagen. De präglades av osäkerhet vem jag var och vem jag ville vara. Men medan jag i Polen skamset höll tyst om min judiska tillhörighet kunde jag i Sverige känna mig fri att visa öppet vem jag var. Jag upplevde det som en befrielse och som en upprättelse. \n\nVändpunkten \n\nVändpunkten i min upplevelse av ”att känna mig hemma” kom i samband med att jag flyttade in i ett kollektiv. Jag flyttade ihop med några (svenska) studenter som blev mina vänner för livet. I samvaro med dem förändrades så småningom min upplevelse av utanförskap och avståndstagande mot allt det som från början kändes främmande. Umgänget med dem gav mig utrymme att reflektera över min erfarenhet som flykting, judinna och människa. En annan erfarenhet som blev avgörande för mig under de åren blev mötet med amerikanska judar.  I samtalen med dem upptäckte jag att det fanns olika sorters judisk tillhörighet. Nu, i efterhand, kan jag förstå att jag smittades av den självklarhet och stolthet i deras upplevelse av att vara judar som jag saknat. \n\nUnder den perioden i mitt liv började jag undan för undan fjärma mig från den polsk-judiska gruppen. Det skedde utan någon större dramatik. När jag inte längre upplevde den initiala känslan av samhörighet behövde jag söka mig vidare.  \nIdentitet\n\nUnder min uppväxt hade det alltid på ett undermedvetet sätt funnits vetskap om att jag var judinna. Att vara judinna var på ett diffust sätt en upplevelse av att vara fel, annorlunda.  I andras ögon, men också i mina egna. Jag visste att andra visste och att man kunde bli uppmärksammat som avvikande.  Jag hade ett typiskt judisk efternamn som avslöjade min tillhörighet. När närvarolistan lästes högt i klassrummet upplevde jag obehag.  Redan i första klass gjorde min lärare sig lustig över mitt ”svåra” efternamn och alla skrattade. Detta pratade jag inte med mina föräldrar om och kunde inte dela det med mina kompisar. Jag levde inte i en judisk gemenskap och mina närmaste vänner var polacker. Mina föräldrar pratade aldrig om saker som rörde det judiska. Det ordlösa, det icke-nämnda fick jag tidigt i mitt liv förhålla mig till bäst jag kunde. Det var en tung börda. Känslan av en judisk tillhörighet saknades och antisemitismen låtsades man inte om… Den upplevelsen kunde jag sätts ord på först när jag blev tvungen att flytta från Polen. \n\nJag läser Salomon Schulmans recension av Flykten till Marstrand där han beskriver sin erfarenhet av en resa i Polen 1967: Framför allt mötte jag polacker som direkt reagera på mitt judiska förnamn. Det hade jag aldrig upplevt som ett kastmärke, skriver han. Jag upplevde mitt efternamn som ett kastmärke, ett stigma, tänker jag medan jag läser hans minnen från resan.\n\nJag kan se idag hur jag alltid har strävat efter att hitta sammanhang där det var möjligt att dela min upplevelse av att vara judinna med andra, sammanhang där jag kunnat få hjälp att sätta ord på mina erfarenheter. För mig har det varit en livslång process att formulera och omformulera det som jag idag upplever som min judiska tillhörighet. Det känns inte längre som en börda utan som en tillgång. Det finns ingen kluvenhet eller ambivalens längre. Jag är judinna, uppvuxen i Polen och känner mig hemma både i Sverige och i Italien.",
+        "modified": "Fri, 08 Oct 2021 18:14:24 GMT",
+        "topic_item": {
+          "label": "Din levnadsberättelse",
+          "label_i18n": {
+            "sv": "Din levnadsberättelse"
+          },
+          "type": "Textarea",
+          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "ccbcdb62-bf51-4ba3-b4e1-11f3676b54d5"
+      },
+      {
+        "created": "Fri, 08 Oct 2021 18:14:24 GMT",
+        "display_value": "Oktober 1969",
+        "modified": "Fri, 08 Oct 2021 18:14:24 GMT",
+        "topic_item": {
+          "label": "Ankomstdatum till Sverige:",
+          "label_i18n": {
+            "sv": "Ankomstdatum till Sverige:"
+          },
+          "type": "Textarea",
+          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "5e6cb741-f236-42cf-a049-68e0409c49d1"
+      },
+      {
+        "created": "Fri, 08 Oct 2021 18:14:24 GMT",
+        "display_value": "Warszawa",
+        "modified": "Fri, 08 Oct 2021 18:14:24 GMT",
+        "topic_item": {
+          "label": "Tidigare bostadsorter:",
+          "label_i18n": {
+            "sv": "Tidigare bostadsorter:"
+          },
+          "type": "Textarea",
+          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "e2113cd4-7584-4584-859b-e0315c46b405"
+      }
+    ]
+  },
+  {
     "archive_code": "M5/00004",
     "contributor": {
       "birth_year": 1948,
@@ -1045,100 +1139,6 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "f2f5baac-b94b-4427-ba7c-daa3c5ae1218"
-      }
-    ]
-  },
-  {
-    "archive_code": "M5/00005",
-    "contributor": {
-      "birth_year": 1951,
-      "display_name": "Anna",
-      "gender": "woman",
-      "place": "Warszawa",
-      "uuid": "60d60d97-d9e4-45f8-af21-9c5ce4f84c4f"
-    },
-    "created": "Fri, 08 Oct 2021 18:14:24 GMT",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Fri, 08 Oct 2021 18:11:48 GMT",
-        "description": "Anna levnadsberättelse",
-        "dms_id": "013AitirC4zy",
-        "license": "CC BY-NC",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Fri, 08 Oct 2021 18:11:48 GMT",
-        "name": "Anna levnadsberättelse.docx",
-        "order_by_number": 1,
-        "owner": "Anna",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "ab398319-6fee-4b76-acb2-fddb424938d3"
-      }
-    ],
-    "modified": "Fri, 08 Oct 2021 18:14:24 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/17310",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "0daab488-a9df-45ac-b946-d12e22d33e22",
-    "values": [
-      {
-        "created": "Fri, 08 Oct 2021 18:14:24 GMT",
-        "display_value": "26 januari 2021. Förintelsedagen. Jag läser berättelser från det ockuperade Polen, mördandet i Ukraina, koncentrationsläger… Jag har lyssnat och läst om detta otaliga gånger tidigare. Det är lika drabbande varje gång. Jag upplever det som en del av min egen historia, en oskiljaktig del av min judiska identitet. \n\nJust idag känns min egen resa futtig och inte värd att ägna sig åt. Det må vara viktigt för var och en av oss som blev tvungna att flytta från Polen, det må vara viktigt för historieskrivningens skull men den föreställningen bleknar i relation till vittnesmålen från förr. \nBakgrund\nJag heter Anna, är född 1951 i Warszawa. Jag kom till Sverige 1969 med min bror och mina föräldrar. Sedan dess har jag bott den mesta tiden i Göteborg. Efter språkstudier och ambitioner om ett yrkesliv som översättare väcktes så småningom mitt intresse för psykologi och ett arbete som psykolog och psykoterapeut. Ett val jag aldrig har ångrat. Jag har levt i 45 år med en italiensk man och har två vuxna barn. Vi har valt att tala italienska hemma, medan mitt modersmål polska har trätt i bakgrunden. Det kan tänkas vara ett anmärkningsvärt val men kan förstås i ljuset av mitt konfliktfyllda sökande efter ”att hitta hem.”\n\nJag är uppvuxen i Warszawa men under ett år av mitt liv, mer exakt 1956, blev Israel familjens vistelseort. Det var mina föräldrars försök att skydda oss barn från antisemitismen i Polen. Ett misslyckat försök dock, då vi återvände till Warszawa. Jag har bara fragmentariska minnen men det sas i efterhand att min far inte kunde finna sig till rätta och att han saknade sitt professionella sammanhang. Han arbetade som journalist och fick komma tillbaka till sin tidigare arbetsplats efter återkomsten.\n\nJag minns mina föräldrars tillsägelser att inte yppa ett ord om vistelsen i Israel. Jag minns att jag inte förstod varför. Jag fick inte heller någon förklaring. Det är ett minne som har nog präglad min upplevelse av att vara judinna kopplad till en distinkt känsla av obehag. En upplevelse av att jag/vi var fel utan att förstå varför. \n\n22 juli 2021. Det blev en längre paus i mitt skrivande än jag hade trott. Nu när jag tar upp det igen inser jag att det ständigt verkar pågå en inre dialog om det jag har varit med om och att jag känner behov att skriva om det. \n\nDet finns ytterligare två återkommande minnen som tränger sig på; det ena utspelar sig i maj 1969 då jag hör mina föräldrar prata tyst med varandra, i tron att vi barn inte hör, om beslutet att lämna Polen. Det andra utspelar sig i oktober 1969 på tågstationen i Warszawa, då vi sätter oss på det tåg som ska ta oss till Sverige. Två upplevelser som försatte mig i känslor av maktlöshet och hopplöshet.  \n\nJag fick veta av en slump, en månad innan studenten, att vi skulle flytta. Jag var sjutton år och kunde inte acceptera att mina föräldrar ställde mig inför ett redan fattat beslut. Jag blev arg och chockad. Trots den pågående antisemitiska kampanjen fanns det inte i min föreställningsvärld att just vi skulle flytta. Jag minns att jag knappt kunde tänka mig att vi skulle kunna flytta till en annan gata. Jag kunde inte tänka mig ett liv någon annanstans och utan mina vänner. De flesta av dem var polacker och min judiska identitet var tämligen svag. Utan form och innehåll. Jag fick inte någon hjälp att knyta ihop de trådar som var nödvändiga för förståelsen av min bakgrund. Det var någonting som jag hade en vag aning och onda föraningar om men som ingen pratade om. Att vi var judar var ”en icke-fråga” i min familj tills den antisemitiska kampanjen tog fart och samtalen hemma började präglas av rädslan och utsatthet. Jag hade önskat att mina föräldrar på något sätt kunde förmedla vår judiska tillhörighet, i stället för att ”skydda mig” genom att tiga och undvika. \n\nMin mamma berättade sin överlevnadshistoria historia först i samband med budskapet om att vi skulle lämna Polen. Hon överlevde kriget mot alla odds medan hela hennes släkt blev utplånad. Hon hamnade tillsamman med sina föräldrar i Warszawas ghetto och flydde precis innan upproret medan de inte hann fly. Min mamma lyckades gömma sig först i skogen och sedan hos en polsk kvinna som tog hand om henne i krigets slutskede. Hon var sjutton år och helt ensam. Hon har fragmentariska minnen från den tiden och det är svårt för henne att prata om det som hänt. Däremot pratar hon fortfarande om den polska kvinnan som räddade hennes liv, som blev som en mamma för henne och fortsatte att vara det så länge hon levde. \n\nDen hätska antisemitiska kampanjen i Polen fick min mamma att känna sig som villebråd igen. Överväldigad av rädslan ville hon fly till en trygg plats. Och det var också under den perioden som hon började säga: ”Vi måste åka iväg, jag är rädd, vi vet inte vad de kommer att göra med oss.” Själv var jag uppfylld av ilska, desperation och maktlöshet inför beslutet om att lämna Polen och just då kunde jag inte identifiera mig med hennes känslor och rädslor.\n\nMin pappa gick motvilligt med på att emigrera. Hans historia skilde sig från min mammas. Han växte upp i östra Polen, numera Ukraina. Han var kommunist och under kriget anslöt han sig till Röda armén. Efter kriget flyttade han till Warszawa där ha så småningom fick jobb som journalist. Att bli utsatt för den antisemitiska kampanjen på hans jobb var en förnedring som han aldrig kom över. Han trodde på det nya socialistiska Polen och att behöva flytta för andra gången innebar att ge upp allt som hade varit viktigt för honom. Han sörjde sitt jobb, sin profession, sin ideologiska övertygelse och drevs snarare av känslor av uppgivenhet än rädsla och otrygghet. Under tiden före avresan utkristalliserades så två läger, ett bestående av mig och min pappa, de som ville stanna, och den andra av min yngre bror och min mamma, de som ville åka.\n\nVidden av att emigrera förstod jag först i efterhand, när den första chocken och förvirringen hade lagt sig. Det som skedde var definitivt och utan återvändo. Att vi var tvungna att avsäga oss vårt medborgarskap och bli statslösa kändes obegripligt och overkligt. \n\nNär det verkligen blev tydligt att det inte fanns någon utväg och det första motståndet lagt sig var jag nog i ett långvarigt chocktillstånd. Jag visste knappt vad jag gjorde, jag levde som i ett töcken. Räddningen blev att finna samhörighet med andra unga människor som gick igenom liknande erfarenheter, som också skulle emigrera. De sista månaderna innan avresan umgicks jag mer med judiska kompisar än vad jag hade gjort under hela mitt liv. Det var då som ett livslångt sökande tog sin början. Sökandet efter en tillhörighet.  Bortom skam och undvikande. Bortom den förnedring och kränkning som flytten från Polen innebar. \n\nDe formalia som krävdes av polska myndigheter i samband med flytten var kränkande. Många människor blev trakasserade. En del av både mina och mina föräldrars vänner vände oss ryggen. Det var outhärdligt. Samtidigt var allt jag var tvungen att skiljas från lika outhärdligt. Jag minns känslan av undergång när vi åkte till en soptipp med böcker som inte vi kunde ta med oss och som skulle slängas. Senare en likande känsla vid själva avresan med alla vänner på perrongen. Jag har ett vagt minne från just det tillfälle. Det är mycket folk, många har kommit för att vinka av, jag kan inte urskilja någon. Overklighetskänsla sköljer över mig. Sedan minns jag ingenting fram tills vi kommer till polska gränsen. Jag blir orolig och känner starkt obehag. Jag vet att man kan bli utsatt för repressalier och trakasserier från gränspolisen. Men vi får stämpel i våra statslösa dokument utan kommentar och åker vidare. Dagen efter anlände vi till Stockholm. Allt kändes främmande och fortsatte att göra det under de kommande åren. \n \nJag visste absolut ingenting om vad som skulle hända när vi kom till Sverige. Det var helt tomt. Inför avresan kände jag mig inte nyfiken på det land vi skulle flytta till. Jag var för upptagen av att hantera förlusten av ”mitt polska liv”.  I efterhand kan jag se hur den upplevelsen har präglat ”mitt svenska liv”.  Från första början har jag varit avvaktande och avståndstagande till både människor och företeelser som jag uppfattade som typiskt svenska. Jag läste polska böcker och polska tidningar. Jag var upptagen med att upprätthålla kontakten med mina polska vänner och längtan efter mitt hem vilket förstärktes av samvaron i den polsk-judiska emigrantgruppen. Den i viss mån påtvingade tillhörigheten började skapas redan i kön utanför ambassaden och fortsatte under tågresan, vistelsen på flyktingförläggningen och språkkursen. Samhörigheten gav trygghet men var också begränsande. Både jag och många andra hoppades att det skulle finnas en annan plats på jorden som skulle kännas bättre, mera hemma än Sverige. För min del tog flera år innan jag kunde börja öppna mig mot det liv och den plats jag befann mig på och börja knyta kontakter utanför den polsk-judiska gruppen. \n\nInnan dess sökte jag mig till Israel, efter två år i Sverige. Ett land där jag trodde jag kunde leva ut min judiska tillhörighet. Men även om jag nog kände mig mer hemma där än i Sverige valde jag ändå att inte flytta för gott. Kanske av rädsla att behöva bryta upp igen… kanske för att det inte kändes helt rätt…\nEfter fyra år i Sverige gjorde jag ett nytt försök och flyttade till England. Även där kände jag mig mer hemma än i Sverige men kom tillbaka efter ett år. Kanske igen av rädsla att behöva klara mig själv… Jag började tvivla att det någonsin skulle kännas ”hemma” på samma sätt som i Polen. \nEfter sju år i Sverige och som en nybliven svensk medborgare kunde jag besöka Polen för första gången. Det var viktigt att komma tillbaka, att återse gamla vänner och välkända platser men det fanns också en känsla av obehag. Jag upplevde att den utifrån påklistrade definitionen av mig som judinna, den som fick mig att känna mig avvikande i Polen väcktes till liv. Det var då jag på djupet förstod att Polen inte var mitt hem längre. \n\nDe första åren i Sverige präglades av saknaden av mitt tidigare liv, vänner, språket, platser. Självklarheten i vardagen. De präglades av osäkerhet vem jag var och vem jag ville vara. Men medan jag i Polen skamset höll tyst om min judiska tillhörighet kunde jag i Sverige känna mig fri att visa öppet vem jag var. Jag upplevde det som en befrielse och som en upprättelse. \n\nVändpunkten \n\nVändpunkten i min upplevelse av ”att känna mig hemma” kom i samband med att jag flyttade in i ett kollektiv. Jag flyttade ihop med några (svenska) studenter som blev mina vänner för livet. I samvaro med dem förändrades så småningom min upplevelse av utanförskap och avståndstagande mot allt det som från början kändes främmande. Umgänget med dem gav mig utrymme att reflektera över min erfarenhet som flykting, judinna och människa. En annan erfarenhet som blev avgörande för mig under de åren blev mötet med amerikanska judar.  I samtalen med dem upptäckte jag att det fanns olika sorters judisk tillhörighet. Nu, i efterhand, kan jag förstå att jag smittades av den självklarhet och stolthet i deras upplevelse av att vara judar som jag saknat. \n\nUnder den perioden i mitt liv började jag undan för undan fjärma mig från den polsk-judiska gruppen. Det skedde utan någon större dramatik. När jag inte längre upplevde den initiala känslan av samhörighet behövde jag söka mig vidare.  \nIdentitet\n\nUnder min uppväxt hade det alltid på ett undermedvetet sätt funnits vetskap om att jag var judinna. Att vara judinna var på ett diffust sätt en upplevelse av att vara fel, annorlunda.  I andras ögon, men också i mina egna. Jag visste att andra visste och att man kunde bli uppmärksammat som avvikande.  Jag hade ett typiskt judisk efternamn som avslöjade min tillhörighet. När närvarolistan lästes högt i klassrummet upplevde jag obehag.  Redan i första klass gjorde min lärare sig lustig över mitt ”svåra” efternamn och alla skrattade. Detta pratade jag inte med mina föräldrar om och kunde inte dela det med mina kompisar. Jag levde inte i en judisk gemenskap och mina närmaste vänner var polacker. Mina föräldrar pratade aldrig om saker som rörde det judiska. Det ordlösa, det icke-nämnda fick jag tidigt i mitt liv förhålla mig till bäst jag kunde. Det var en tung börda. Känslan av en judisk tillhörighet saknades och antisemitismen låtsades man inte om… Den upplevelsen kunde jag sätts ord på först när jag blev tvungen att flytta från Polen. \n\nJag läser Salomon Schulmans recension av Flykten till Marstrand där han beskriver sin erfarenhet av en resa i Polen 1967: Framför allt mötte jag polacker som direkt reagera på mitt judiska förnamn. Det hade jag aldrig upplevt som ett kastmärke, skriver han. Jag upplevde mitt efternamn som ett kastmärke, ett stigma, tänker jag medan jag läser hans minnen från resan.\n\nJag kan se idag hur jag alltid har strävat efter att hitta sammanhang där det var möjligt att dela min upplevelse av att vara judinna med andra, sammanhang där jag kunnat få hjälp att sätta ord på mina erfarenheter. För mig har det varit en livslång process att formulera och omformulera det som jag idag upplever som min judiska tillhörighet. Det känns inte längre som en börda utan som en tillgång. Det finns ingen kluvenhet eller ambivalens längre. Jag är judinna, uppvuxen i Polen och känner mig hemma både i Sverige och i Italien.",
-        "modified": "Fri, 08 Oct 2021 18:14:24 GMT",
-        "topic_item": {
-          "label": "Din levnadsberättelse",
-          "label_i18n": {
-            "sv": "Din levnadsberättelse"
-          },
-          "type": "Textarea",
-          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "ccbcdb62-bf51-4ba3-b4e1-11f3676b54d5"
-      },
-      {
-        "created": "Fri, 08 Oct 2021 18:14:24 GMT",
-        "display_value": "Oktober 1969",
-        "modified": "Fri, 08 Oct 2021 18:14:24 GMT",
-        "topic_item": {
-          "label": "Ankomstdatum till Sverige:",
-          "label_i18n": {
-            "sv": "Ankomstdatum till Sverige:"
-          },
-          "type": "Textarea",
-          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "5e6cb741-f236-42cf-a049-68e0409c49d1"
-      },
-      {
-        "created": "Fri, 08 Oct 2021 18:14:24 GMT",
-        "display_value": "Warszawa",
-        "modified": "Fri, 08 Oct 2021 18:14:24 GMT",
-        "topic_item": {
-          "label": "Tidigare bostadsorter:",
-          "label_i18n": {
-            "sv": "Tidigare bostadsorter:"
-          },
-          "type": "Textarea",
-          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "e2113cd4-7584-4584-859b-e0315c46b405"
       }
     ]
   },
