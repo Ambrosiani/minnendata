@@ -5376,6 +5376,22 @@
           57.709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ingress": "Jag känner total uppgivenhet och sorg. Men det har också blivit vardag. Det har gått mer än ett år s…",
+        "date": "3 maj 2023",
+        "author": "Luvan",
+        "url": "https://minnen.se/tema/krigetiukraina/22350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.96,
+          59.285
+        ]
+      }
     }
   ]
 }

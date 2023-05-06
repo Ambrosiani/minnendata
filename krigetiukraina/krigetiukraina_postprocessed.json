@@ -42085,5 +42085,117 @@
       }
     ],
     "hasCoordinates": true
+  },
+  {
+    "archive_code": "M16/00591",
+    "contributor": {
+      "display_name": "Luvan"
+    },
+    "created": "Wed, 03 May 2023 11:55:36 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 03 May 2023 11:55:36 GMT",
+    "position": {
+      "latitude": 59.28547404217552,
+      "longitude": 17.96004318098518
+    },
+    "presentation_url": "https://minnen.se/tema/krigetiukraina/22350",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Kriget i Ukraina – berätta för framtiden",
+      "name_i18n": {
+        "sv": "Kriget i Ukraina – berätta för framtiden"
+      },
+      "uuid": "da22e8db-6b7c-41a4-ae21-82c1217e0d34"
+    },
+    "uuid": "7b53da68-2160-44d8-bf5b-0e048ab4db05",
+    "v2": false,
+    "values": [
+      {
+        "created": "Wed, 03 May 2023 11:55:36 GMT",
+        "display_value": "1990",
+        "modified": "Wed, 03 May 2023 11:55:36 GMT",
+        "topic_item": {
+          "label": "Vilket år är du född?",
+          "label_i18n": {
+            "sv": "Vilket år är du född?"
+          },
+          "type": "Input",
+          "uuid": "7c99fd53-2a3f-48b4-980c-4f3c7cb8ac6e"
+        },
+        "uuid": "bd7765f2-a473-48a9-930c-351dcccba827"
+      },
+      {
+        "created": "Wed, 03 May 2023 11:55:36 GMT",
+        "display_value": "Jag tänker att världen just nu håller på att nå någon form av klimax i elände. Det ser onekligen dystert ut eftersom det är krig både här och där, den ena kärnvapenmakten skriker högre än den andra, även Kim Jong Un är ute och vevar igen. Han verkar känna sig lite bortglömd. Klimatsatsningar sker inte och de svenska politikerna är ju rent av sopor när det kommer till att faktiskt göra saker. De står och tjafsar i TV och skyller ifrån sig på varandra och på andra men ingen tar tag i saker. Om vi hade haft politiker (som i dagens Spanien) som faktiskt genomför nödvändiga reformer även om de kan vara något impopulära och inte bara har \"makten\" som främsta mål hade jag kanske känt mig mer hoppfull. Det här med makt är för övrigt ett märkligt koncept i dagens politiska klimat. Varför vill någon ha \"makten\" om de inte tänker utnyttja den? Eller är det de de gör nu genom att inte göra någonting vettigt över huvud taget? Makten att göra ingenting och låta allt förfalla? Det är vansinnigt provocerande i alla fall. Det har blivit något bättre i Stockholm sedan S fick ta över efter den där fruktansvärda Irene Svenonius. Att hon fortfarande har en politisk roll är för mig helt ofattbart. Sabotör!\n\nSverige är på väg åt helvete känns det som. M, L, KD + SD är en riktigt dålig politisk cocktail som jag hoppas upphör efter nästa val, bara 3 år kvar!",
+        "modified": "Wed, 03 May 2023 11:55:36 GMT",
+        "topic_item": {
+          "label": "Vad tänker du om tillståndet i samhället och världen just nu?",
+          "label_i18n": {
+            "sv": "Vad tänker du om tillståndet i samhället och världen just nu?"
+          },
+          "type": "Textarea",
+          "uuid": "baa33578-233c-49c6-ba07-3b1d2d2cee76"
+        },
+        "uuid": "4eb36adc-f095-4007-8989-a8bef0f3ee9f"
+      },
+      {
+        "created": "Wed, 03 May 2023 11:55:36 GMT",
+        "display_value": "Jag känner total uppgivenhet och sorg. Men det har också blivit vardag. Det har gått mer än ett år sedan invasionen och jag kan glömma bort det ibland. Hela livet har jag, likt många andra, känt en stor rädsla inför krig och att det ska hända där jag bor. Jag har tänkt mycket på hur det var att leva i Sverige under andra världskriget och kalla kriget och alltid tänkt att det skulle vara omöjligt att leva ett normalt liv under sådana omständigheter. Att oron liksom skulle vara konstant närvarande. Och så sitter jag här, det är krig i Europa, det är en extremt tryckt stämning i världen över lag, kärnvapenhotet är större än någonsin och jag känner mig lugn. Jag var mer orolig före kriget än vad jag är nu. Det som händer händer.\n\nTidningarna skriver en hel del om förhållandena i den ryska armén och det ger mig kalla kårar. Ukrainarna är gemene man, även jag, imponerade av. De har en sådan enorm stolthet och rättskänsla att man blir rörd. Armén verkar fungera väldigt bra och de soldater som strider gör det för att de vill. I ryska armén å andra sidan är det fullständigt vidrigt. Här om dagen läste jag att de gräver gropar där de stänger in soldater som deserterat eller vapenvägrat. Helt vansinnigt. Krigets fasor är svåra att ta in. Butja, fy fan vad hemskt. Jag vet att det finns bra människor i Ryssland och i ryska armén men jag känner ett stort hat mot dem som grupp. Hat kanske är fel ord men jag känner något i den stilen i alla fall.\n\nJag har även märkt att jag kan vara väldigt misstänksam mot män som talar, vad jag tycker låter som ryska eller ukrainska. Är det ryssar...? Varför är ni då inte hemma och starar revolutionen? Är det ukrainare? Varför har ni flytt när erat land behöver er? Hur hade jag gjort? Hur hade jag velat att min man gjorde? Jag vet inte. Det är svårt att sätta sig in i en situation innan man har befunnit sig i den.",
+        "modified": "Wed, 03 May 2023 11:55:36 GMT",
+        "topic_item": {
+          "label": "Hur känner du kring vad som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur känner du kring vad som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "4e91cc68-a426-4c24-83a9-21d505f4f2e5"
+        },
+        "uuid": "b081c81e-0869-4b1f-a943-9c92f70b8768"
+      },
+      {
+        "created": "Wed, 03 May 2023 11:55:36 GMT",
+        "display_value": "Jag tror att jag står och väger på framtidens kant. Jag kan känna mig hoppfull när jag tänker att Ukraina vinner kriget och Ryssland som federation går under. Ukraina skulle kunna bli ett föregångsland när det kommer till grön omställning om man bygger upp landet med de ambitionerna. Det hoppas jag. Om Ryssland krackelerar och splittras till en mängd mindre länder skulle troligen det vara bra också. En turbulent tid skulle följa men det är nog ett nödvändigt ont. När jag tänker att Ryssland vinner kriget, vilket jag inte tror, men om de vinner kriget så har jag ingen idé om framtiden. Jag är nog inte kapabel att tänka åt det hållet för det är för hemskt. Jag vet inte verkligen inte vad som händer då...",
+        "modified": "Wed, 03 May 2023 11:55:36 GMT",
+        "topic_item": {
+          "label": "Hur ser du på framtiden kopplat till det som händer i Ukraina?",
+          "label_i18n": {
+            "sv": "Hur ser du på framtiden kopplat till det som händer i Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "e31c3868-649f-43f4-b8b0-1b4755a3540d"
+        },
+        "uuid": "a91da33a-166b-45cb-b497-19cf76d1c4f5"
+      },
+      {
+        "created": "Wed, 03 May 2023 11:55:36 GMT",
+        "display_value": "Förutom den ekonomiska situationen med ökade räntor och skyhöga el- och matkostnader påverkas jag inte mycket. Jag har inte släkt eller vänner i vare sig Ryssland eller Ukraina. Men i mitt huvud påverkas jag. Jag tänker på Ukraina och ukrainarna dagligen och hoppas för allt i världen att Ukraina går vinnande ur det här.",
+        "modified": "Wed, 03 May 2023 11:55:36 GMT",
+        "topic_item": {
+          "label": "Hur påverkas du och dina närmaste av kriget i er vardag?",
+          "label_i18n": {
+            "sv": "Hur påverkas du och dina närmaste av kriget i er vardag?"
+          },
+          "type": "Textarea",
+          "uuid": "e60b19d3-59d8-4c35-92c5-658c87d06e42"
+        },
+        "uuid": "15929db5-db8f-4e6d-a402-bb7602513d32"
+      },
+      {
+        "created": "Wed, 03 May 2023 11:55:36 GMT",
+        "display_value": "Jag vaknade den 24/2 2022 av att min då 3 månader gamla son letade efter bröstet. Min man hade redan åkt till jobbet och vår dotter, då 2 år gammal låg fortfarande och sov. Medan jag ammade min son tog jag fram min telefon för att läsa DN, vilket jag gör varje morgon. På första sidan stod det att Ryssland invaderat Ukraina... Det var som att allt blev tyst och tiden stod still. Jag försökte smaka på känslan av att det var krig och det konstiga var att jag nästan var lättad. Till historien hör att jag hade doomscrollat under min föräldraledighet och blivit väldigt stressad över att USA bestämt menade att Ryssland planerade en invasion. Jag hade varit stressad och haft mycket ångest och katastroftankar på grund av det så när det väl hände var det som att jag kunde andas ut. Det var ett faktum. Man kan säga att jag blev hyperrationell i stunden. Jag började med ens tänka hur vi skulle gå till väga om Rysslands invasion skulle sprida sig till Sverige. Vad packar vi? I vad packar vi? Vilken väg tar vi med bilen för att komma bort från Stockholm? Om bilen blir stulen? Bra att vi har två bärselar så att vi kan ta varsitt barn på ryggen och gå till Norge om vi behöver. Om min man dör då? Tar jag barnvagnen? Nä, bättre att ta ett barn på ryggen och ett på magen. Jag klarar det. \nJag satte på Morgonstudion på SVT medan min dotter och jag åt frukost. Jag hade två känslor i mig som var i konflikt. En känsla av att inte vilja agera för sent. Kanske ska jag ringa hem min man och kräva att vi åker till hans föräldrar i Dalarna för säkerhetsskull... samtidigt kände jag att jag vägrar gå med på den här skräcken och att jag ska agera precis som vanligt, vara lugn och ta beslut när det behövs. Den senare känslan vann och jag plockade ihop mina barn och promenerade till förskolan. Det kändes dock fel. Som att jag gjorde något fel när jag lämnade min dotter på förskolan. Får man ens göra så i krigstider? Jag blev dock lättad när jag såg att alla barn som brukar vara där var där även den dagen. Och att pedagogerna var lika fina och lugna som vanligt. Men vi utbytte menande blickar. Vi log mer än vanligt. Det är för övrigt en upplevelse jag har, eller iakttagelse jag gjort sedan invasionen. Människor ler mer mot varandra och är bättre på att hjälpa varandra. Det är som att människors behov att mjukhet blir framträdande i osäkra tider.",
+        "modified": "Wed, 03 May 2023 11:55:36 GMT",
+        "topic_item": {
+          "label": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?",
+          "label_i18n": {
+            "sv": "Hur nåddes du av nyheten om att Ryssland hade invaderat Ukraina?"
+          },
+          "type": "Textarea",
+          "uuid": "7be47b47-2e9f-4080-bebb-ab30c7a7c231"
+        },
+        "uuid": "c9b7191b-6856-4f5d-8bf2-a95330283504"
+      }
+    ],
+    "hasCoordinates": true
   }
 ]
