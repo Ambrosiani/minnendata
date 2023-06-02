@@ -911,45 +911,6 @@
     ]
   },
   {
-    "archive_code": "M4/00007",
-    "contributor": {
-      "display_name": "Marianne",
-      "gender": "woman",
-      "uuid": "718ad0e7-f576-42d3-b655-931030d1c8d7"
-    },
-    "created": "Mon, 13 Sep 2021 12:11:28 GMT",
-    "license": "CC BY",
-    "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17271",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "0c4825a9-2013-4a9b-959e-b45cfdbea818",
-    "values": [
-      {
-        "created": "Mon, 13 Sep 2021 12:11:28 GMT",
-        "display_value": "1957 var Christian Dior på besök i Stockholm, där han bland annat besökte NKs franska. Min pappa var anställd på NK och fick i uppdrag att anordna en tillställning för Dior. Därför kom Christian Dior att vara hedersgäst i mitt föräldrahem till en middag. Mamma var ytterst nervös, hade anlitat en kokfru, som vi väl kände, och vi var noga med att inte berätta vem den celebra gästen var. Till middagen serverades ripa till huvudrätt och hjortron till dessert. Efter middagen var det en glad man i Diors entourage som satte på en skiva med lite dansant musik. Dior bjöd upp mamma, därefter min syster ca 18 år och sist mig, 13 år, iklädd en hemsydd skotskrutig klänning och ballerinaskor. Oförglömligt och beskrivet i en modetidning,   ” Eva” 1957.",
-        "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "e56a99f0-8075-47d3-8b78-d087c97bee99"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00002",
     "contributor": {
       "display_name": "Anonym"
@@ -1013,6 +974,45 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "b531cd0f-6fa7-46b9-a504-516651d29f11"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00007",
+    "contributor": {
+      "display_name": "Marianne",
+      "gender": "woman",
+      "uuid": "718ad0e7-f576-42d3-b655-931030d1c8d7"
+    },
+    "created": "Mon, 13 Sep 2021 12:11:28 GMT",
+    "license": "CC BY",
+    "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17271",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "0c4825a9-2013-4a9b-959e-b45cfdbea818",
+    "values": [
+      {
+        "created": "Mon, 13 Sep 2021 12:11:28 GMT",
+        "display_value": "1957 var Christian Dior på besök i Stockholm, där han bland annat besökte NKs franska. Min pappa var anställd på NK och fick i uppdrag att anordna en tillställning för Dior. Därför kom Christian Dior att vara hedersgäst i mitt föräldrahem till en middag. Mamma var ytterst nervös, hade anlitat en kokfru, som vi väl kände, och vi var noga med att inte berätta vem den celebra gästen var. Till middagen serverades ripa till huvudrätt och hjortron till dessert. Efter middagen var det en glad man i Diors entourage som satte på en skiva med lite dansant musik. Dior bjöd upp mamma, därefter min syster ca 18 år och sist mig, 13 år, iklädd en hemsydd skotskrutig klänning och ballerinaskor. Oförglömligt och beskrivet i en modetidning,   ” Eva” 1957.",
+        "modified": "Mon, 13 Sep 2021 12:11:28 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "e56a99f0-8075-47d3-8b78-d087c97bee99"
       }
     ]
   },
@@ -1225,43 +1225,6 @@
     "uuid": "97236744-1f29-4476-b735-2439df159fe9"
   },
   {
-    "archive_code": "M4/00001",
-    "contributor": {
-      "display_name": "Hélène Sommerfelt"
-    },
-    "created": "Tue, 07 Sep 2021 13:03:15 GMT",
-    "license": "CC BY",
-    "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17239",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "8882ac6d-d418-4533-8889-612f0b4cfdb4",
-    "values": [
-      {
-        "created": "Tue, 07 Sep 2021 13:03:15 GMT",
-        "display_value": "Min farmor var springflicka på NK’s Franska på 30-talet, hon har berättat mycket om alla fantastiska tyger och att hon varit på många adresser och lämnat fina klänningar. Oftast blev hon hänvisad till köksingången, så var det då.\nEn berättelse som jag tänker på varje gång jag tappar en knappnål, är att springflickorna sopade golvet och la allt damm i en hink, en gång om året, gick flickorna upp på taket och silade dammet och återvann alla knappnålar.\nEn annan tid -så gjorde man då\nMin farmor hette Gulli Rosén, var född 1922 Är osäker på hur länge hon var där och under vilken tid, vet att hon var väldigt ung Men det måste ha varit under åren 1936-1938 \n\nHélène Sommerfelt",
-        "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "05989dc2-879d-4b86-9d8b-c11978c41c64"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00014",
     "contributor": {
       "display_name": "Vintageentusiast"
@@ -1423,6 +1386,43 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "7eb645d4-7f46-4dde-9d27-46d27eae016e"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00001",
+    "contributor": {
+      "display_name": "Hélène Sommerfelt"
+    },
+    "created": "Tue, 07 Sep 2021 13:03:15 GMT",
+    "license": "CC BY",
+    "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17239",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "8882ac6d-d418-4533-8889-612f0b4cfdb4",
+    "values": [
+      {
+        "created": "Tue, 07 Sep 2021 13:03:15 GMT",
+        "display_value": "Min farmor var springflicka på NK’s Franska på 30-talet, hon har berättat mycket om alla fantastiska tyger och att hon varit på många adresser och lämnat fina klänningar. Oftast blev hon hänvisad till köksingången, så var det då.\nEn berättelse som jag tänker på varje gång jag tappar en knappnål, är att springflickorna sopade golvet och la allt damm i en hink, en gång om året, gick flickorna upp på taket och silade dammet och återvann alla knappnålar.\nEn annan tid -så gjorde man då\nMin farmor hette Gulli Rosén, var född 1922 Är osäker på hur länge hon var där och under vilken tid, vet att hon var väldigt ung Men det måste ha varit under åren 1936-1938 \n\nHélène Sommerfelt",
+        "modified": "Tue, 07 Sep 2021 13:03:15 GMT",
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "05989dc2-879d-4b86-9d8b-c11978c41c64"
       }
     ]
   },
