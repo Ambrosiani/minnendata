@@ -578,80 +578,6 @@
     ]
   },
   {
-    "archive_code": "M5/00002",
-    "contributor": {
-      "display_name": "Leona Leah Rapoport"
-    },
-    "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Sun, 19 Sep 2021 13:29:10 GMT",
-        "dms_id": "013AiPPdPXVq",
-        "license": "CC0",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Sun, 19 Sep 2021 13:29:10 GMT",
-        "name": "Levnadsberättelse reviderad.docx",
-        "order_by_number": 1,
-        "owner": "Leona Leah Rapoport",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "b00c147a-a262-448e-bb42-decebd62b3da"
-      }
-    ],
-    "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/17276",
-    "published": true,
-    "submitted": false,
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "32d4c7d8-1bfe-478f-844b-29d5783f0682",
-    "values": [
-      {
-        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "display_value": "1970-07-22",
-        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "topic_item": {
-          "label": "Ankomstdatum till Sverige:",
-          "label_i18n": {
-            "sv": "Ankomstdatum till Sverige:"
-          },
-          "type": "Textarea",
-          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "2b7744d1-1973-4242-ac24-5206a1bff144"
-      },
-      {
-        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "display_value": "Göteborg, Täby",
-        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
-        "topic_item": {
-          "label": "Tidigare bostadsorter:",
-          "label_i18n": {
-            "sv": "Tidigare bostadsorter:"
-          },
-          "type": "Textarea",
-          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "edb9a975-3641-4244-b6a4-406b08f7624b"
-      }
-    ]
-  },
-  {
     "archive_code": "M5/00009",
     "contributor": {
       "birth_year": 1947,
@@ -796,6 +722,80 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "76dbbfe1-7652-4660-82f3-81eca36750e6"
+      }
+    ]
+  },
+  {
+    "archive_code": "M5/00002",
+    "contributor": {
+      "display_name": "Leona Leah Rapoport"
+    },
+    "created": "Sun, 19 Sep 2021 13:35:29 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 19 Sep 2021 13:29:10 GMT",
+        "dms_id": "013AiPPdPXVq",
+        "license": "CC0",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Sun, 19 Sep 2021 13:29:10 GMT",
+        "name": "Levnadsberättelse reviderad.docx",
+        "order_by_number": 1,
+        "owner": "Leona Leah Rapoport",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "b00c147a-a262-448e-bb42-decebd62b3da"
+      }
+    ],
+    "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/17276",
+    "published": true,
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "32d4c7d8-1bfe-478f-844b-29d5783f0682",
+    "values": [
+      {
+        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "display_value": "1970-07-22",
+        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "topic_item": {
+          "label": "Ankomstdatum till Sverige:",
+          "label_i18n": {
+            "sv": "Ankomstdatum till Sverige:"
+          },
+          "type": "Textarea",
+          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "2b7744d1-1973-4242-ac24-5206a1bff144"
+      },
+      {
+        "created": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "display_value": "Göteborg, Täby",
+        "modified": "Sun, 19 Sep 2021 13:35:29 GMT",
+        "topic_item": {
+          "label": "Tidigare bostadsorter:",
+          "label_i18n": {
+            "sv": "Tidigare bostadsorter:"
+          },
+          "type": "Textarea",
+          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "edb9a975-3641-4244-b6a4-406b08f7624b"
       }
     ]
   },
