@@ -1492,5 +1492,291 @@
         "uuid": "302bee19-a076-414c-a92d-c2ee62c2e6a2"
       }
     ]
+  },
+  {
+    "archive_code": "M5/00016",
+    "contributor": {
+      "display_name": "Maud Edgren Schori",
+      "uuid": "7d395b2c-8dbb-4948-bd88-97a8e64a8a44"
+    },
+    "coordinates": "",
+    "created": "Mon, 07 Aug 2023 08:42:02 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 07 Aug 2023 08:40:44 GMT",
+        "dms_id": "019EE5jKkVsBP",
+        "license": "CC BY-NC",
+        "mime_type": "audio/mpeg",
+        "modified": "Mon, 07 Aug 2023 08:40:44 GMT",
+        "name": "Intervju Maud Edgren Schori.MP3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "audio",
+        "uuid": "f552e3f9-87cb-4b9c-bd40-4d390d3ff82b",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 07 Aug 2023 08:46:46 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22678",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "2b9c39c5-9c6d-4ba9-8fff-c45aa19f9035",
+    "v2": false,
+    "values": [
+      {
+        "created": "Mon, 07 Aug 2023 08:46:46 GMT",
+        "display_value": "Maude Edgren Schori arbetade på den svenska ambassaden i Warszawa medan den antisemitiska kampanjen pågick och många polska judar ansökte om att resa till Sverige. Intervjun handlar om hennes erfarenheter från den tiden,",
+        "modified": "Mon, 07 Aug 2023 08:46:46 GMT",
+        "option_labels": [],
+        "topic_item": {
+          "label": "Din levnadsberättelse",
+          "label_i18n": {
+            "sv": "Din levnadsberättelse"
+          },
+          "type": "Textarea",
+          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+        },
+        "uuid": "827d5354-058a-4109-b7b5-c50ea9e1df6d"
+      }
+    ]
+  },
+  {
+    "archive_code": "M5/00017",
+    "contributor": {
+      "birth_year": 1948,
+      "display_name": "Michael \"Misiu\" Edelman",
+      "gender": "man",
+      "uuid": "31aac4e3-68bb-41e2-a983-cc278f5c56d9"
+    },
+    "coordinates": "",
+    "created": "Mon, 07 Aug 2023 09:02:26 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 07 Aug 2023 08:57:59 GMT",
+        "dms_id": "019EE5jKkVsBU",
+        "license": "CC BY-NC",
+        "mime_type": "audio/mpeg",
+        "modified": "Mon, 07 Aug 2023 08:57:59 GMT",
+        "name": "Intervju Michael Misiu Edelman.MP3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "audio",
+        "uuid": "ec9773ed-f4b6-4be2-99dc-bdee0dc7134f",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 07 Aug 2023 09:03:14 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22679",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "7132fc80-e11b-4799-a548-5a54ae98f663",
+    "v2": false,
+    "values": [
+      {
+        "created": "Mon, 07 Aug 2023 09:02:26 GMT",
+        "display_value": "Michael Edelman, även kallad Misiu, berättar i intervjun om sitt liv och hur han tillsammans med andra kom att organisera sociala aktiviteter för denna migration av polska judar i Sverige.",
+        "modified": "Mon, 07 Aug 2023 09:02:26 GMT",
+        "option_labels": [],
+        "topic_item": {
+          "label": "Din levnadsberättelse",
+          "label_i18n": {
+            "sv": "Din levnadsberättelse"
+          },
+          "type": "Textarea",
+          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+        },
+        "uuid": "b4ebb50a-87f8-4443-b25c-e2640ef4d920"
+      }
+    ]
+  },
+  {
+    "archive_code": "M5/00020",
+    "contributor": {
+      "display_name": "Maja Orska och Wowa Klamra",
+      "uuid": "24da01e7-c208-4d53-ba45-80961ba0d7f5"
+    },
+    "created": "Mon, 07 Aug 2023 09:46:21 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 07 Aug 2023 09:45:34 GMT",
+        "dms_id": "019EE5jKkVsFo",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Mon, 07 Aug 2023 09:45:34 GMT",
+        "name": "Intervju Maja Orska och Wowa Klamra.MP3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "audio",
+        "uuid": "5b4872b2-c62d-461b-ad7a-5a1596b19f4d",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 07 Aug 2023 09:46:21 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22682",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "8a48c8bf-9fdd-4758-b4dd-6dd5acb1a0be",
+    "v2": false
+  },
+  {
+    "archive_code": "M5/00018",
+    "contributor": {
+      "display_name": "Krystyna Flato och Jurek Gold",
+      "uuid": "979c7b45-495d-4540-aeec-23c3ee0c1dd4"
+    },
+    "created": "Mon, 07 Aug 2023 09:23:21 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 07 Aug 2023 09:17:31 GMT",
+        "dms_id": "019EE5jKkVsBW",
+        "license": "CC BY-NC",
+        "mime_type": "audio/mpeg",
+        "modified": "Mon, 07 Aug 2023 09:17:31 GMT",
+        "name": "Intervju Jerzy Jurek Gold och Krystyna Flato.MP3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "audio",
+        "uuid": "f058399b-159f-4d58-b59a-60ca7db5c70d",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 07 Aug 2023 09:23:21 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22680",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "1280c458-205b-4186-b5ea-a878a3e723a6",
+    "v2": false
+  },
+  {
+    "archive_code": "M5/00019",
+    "contributor": {
+      "display_name": "Danuta Biterman, Katarina Warman och Regina Fuks",
+      "uuid": "32309b7d-52e3-4757-83c9-b3a2144924e2"
+    },
+    "created": "Mon, 07 Aug 2023 09:43:22 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 07 Aug 2023 09:28:06 GMT",
+        "dms_id": "019EE5jKkVsFn",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Mon, 07 Aug 2023 09:28:06 GMT",
+        "name": "Intervju Danuta Biterman Katarina Warman och Regina Fuks.MP3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "audio",
+        "uuid": "837069e9-d4c8-4e7a-8b4e-c61936cb44c2",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 07 Aug 2023 09:43:22 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22681",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "14dcd953-29d5-4d27-aa87-24e1c4c276b7",
+    "v2": false
   }
 ]
