@@ -1784,6 +1784,7 @@
     "contributor": {
       "display_name": "Barbara Rubinstein"
     },
+    "coordinates": "",
     "created": "Sun, 01 Oct 2023 20:55:48 GMT",
     "license": "CC BY",
     "media": [
@@ -1791,7 +1792,7 @@
         "created": "Sun, 01 Oct 2023 20:52:26 GMT",
         "description": "Intervju-översättning",
         "dms_id": "019EE6EmkAnj4",
-        "license": "CC BY-NC",
+        "license": "CC BY",
         "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
         "modified": "Sun, 01 Oct 2023 20:52:26 GMT",
         "name": "Min storebror svimmade.docx",
@@ -1809,7 +1810,7 @@
         "uuid": "5630f7d1-81f2-4e89-9e13-8104070ca889"
       }
     ],
-    "modified": "Sun, 01 Oct 2023 20:55:48 GMT",
+    "modified": "Mon, 02 Oct 2023 15:08:41 GMT",
     "presentation_url": "https://minnen.se/tema/vi/22968",
     "published": true,
     "school_class": {
@@ -1817,6 +1818,10 @@
       "name": "5A"
     },
     "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
     "topic": {
       "name": "Vi, de fördrivna",
       "name_i18n": {
