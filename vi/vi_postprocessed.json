@@ -1612,54 +1612,6 @@
     "v2": false
   },
   {
-    "archive_code": "M5/00019",
-    "contributor": {
-      "display_name": "Danuta Biterman, Katarina Warman och Regina Fuks",
-      "uuid": "32309b7d-52e3-4757-83c9-b3a2144924e2"
-    },
-    "created": "Mon, 07 Aug 2023 09:43:22 GMT",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Mon, 07 Aug 2023 09:28:06 GMT",
-        "dms_id": "019EE5jKkVsFn",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Mon, 07 Aug 2023 09:28:06 GMT",
-        "name": "Intervju Danuta Biterman Katarina Warman och Regina Fuks.MP3",
-        "order_by_number": 1,
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "audio",
-        "uuid": "837069e9-d4c8-4e7a-8b4e-c61936cb44c2",
-        "owner": "Okänd"
-      }
-    ],
-    "modified": "Mon, 07 Aug 2023 09:43:22 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/22681",
-    "published": true,
-    "school_class": {
-      "grade": "5",
-      "name": "5A"
-    },
-    "submitted": false,
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "14dcd953-29d5-4d27-aa87-24e1c4c276b7",
-    "v2": false
-  },
-  {
     "archive_code": "M5/00018",
     "contributor": {
       "display_name": "Krystyna Flato och Jurek Gold",
@@ -1705,6 +1657,54 @@
       "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
     },
     "uuid": "1280c458-205b-4186-b5ea-a878a3e723a6",
+    "v2": false
+  },
+  {
+    "archive_code": "M5/00019",
+    "contributor": {
+      "display_name": "Danuta Biterman, Katarina Warman och Regina Fuks",
+      "uuid": "32309b7d-52e3-4757-83c9-b3a2144924e2"
+    },
+    "created": "Mon, 07 Aug 2023 09:43:22 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 07 Aug 2023 09:28:06 GMT",
+        "dms_id": "019EE5jKkVsFn",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Mon, 07 Aug 2023 09:28:06 GMT",
+        "name": "Intervju Danuta Biterman Katarina Warman och Regina Fuks.MP3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "audio",
+        "uuid": "837069e9-d4c8-4e7a-8b4e-c61936cb44c2",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 07 Aug 2023 09:43:22 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22681",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "14dcd953-29d5-4d27-aa87-24e1c4c276b7",
     "v2": false
   },
   {
