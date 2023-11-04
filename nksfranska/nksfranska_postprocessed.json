@@ -666,48 +666,6 @@
     ]
   },
   {
-    "archive_code": "M4/00012",
-    "contributor": {
-      "display_name": "Vivi-Ann"
-    },
-    "created": "Wed, 29 Sep 2021 15:13:09 GMT",
-    "license": "CC BY",
-    "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
-    "presentation_url": "https://minnen.se/tema/nksfranska/17285",
-    "published": true,
-    "school_class": {
-      "grade": "5",
-      "name": "5A"
-    },
-    "submitted": false,
-    "topic": {
-      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
-      "name_i18n": {
-        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
-      },
-      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
-    },
-    "uuid": "53bf5163-0c8a-4e04-9407-fd9b51e260bd",
-    "values": [
-      {
-        "created": "Wed, 29 Sep 2021 15:13:09 GMT",
-        "display_value": "Kring 54,55 var jag elev på NK. De hade elevskola på den tiden. Jag fick ” arbeta” i Modellbutiken. Ett mellanting mellan konfektion och NK s franska. Jag ansågs lämplig att visa butikens kläder i Bobergs matsal och i varuhuset👗🧥 och när någon av mannekängerna saknades i Franska skrädderiet fick jag hoppa in även där🧍‍♀️. Hade turen att ha dåtidens stjärnmannekänger Erika Sundt, Haide Göransson mfl som läromästare😀Tyvärr har jag inga foton från den tiden. 😟. Skall bli trevligt att se utställningen🥰",
-        "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
-        "option_labels": [],
-        "topic_item": {
-          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
-          "label_i18n": {
-            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
-          },
-          "type": "Textarea",
-          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
-        },
-        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
-        "uuid": "bb00d41c-b495-446d-8779-8bdf60940e4b"
-      }
-    ]
-  },
-  {
     "archive_code": "M4/00013",
     "contributor": {
       "display_name": "Anne Winterhagen"
@@ -797,6 +755,48 @@
         },
         "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
         "uuid": "886121df-78f3-44ea-b137-21521edb1643"
+      }
+    ]
+  },
+  {
+    "archive_code": "M4/00012",
+    "contributor": {
+      "display_name": "Vivi-Ann"
+    },
+    "created": "Wed, 29 Sep 2021 15:13:09 GMT",
+    "license": "CC BY",
+    "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
+    "presentation_url": "https://minnen.se/tema/nksfranska/17285",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "topic": {
+      "name": "NK:s Franska damskrädderi – bidra med dina minnen",
+      "name_i18n": {
+        "sv": "NK:s Franska damskrädderi – bidra med dina minnen"
+      },
+      "uuid": "393bb4f9-8f9a-4700-aea9-b1faab41545a"
+    },
+    "uuid": "53bf5163-0c8a-4e04-9407-fd9b51e260bd",
+    "values": [
+      {
+        "created": "Wed, 29 Sep 2021 15:13:09 GMT",
+        "display_value": "Kring 54,55 var jag elev på NK. De hade elevskola på den tiden. Jag fick ” arbeta” i Modellbutiken. Ett mellanting mellan konfektion och NK s franska. Jag ansågs lämplig att visa butikens kläder i Bobergs matsal och i varuhuset👗🧥 och när någon av mannekängerna saknades i Franska skrädderiet fick jag hoppa in även där🧍‍♀️. Hade turen att ha dåtidens stjärnmannekänger Erika Sundt, Haide Göransson mfl som läromästare😀Tyvärr har jag inga foton från den tiden. 😟. Skall bli trevligt att se utställningen🥰",
+        "modified": "Wed, 29 Sep 2021 15:13:09 GMT",
+        "option_labels": [],
+        "topic_item": {
+          "label": "Hur minns du NK:s franska damskrädderi? Berätta!",
+          "label_i18n": {
+            "sv": "Hur minns du NK:s franska damskrädderi? Berätta!"
+          },
+          "type": "Textarea",
+          "uuid": "c101101e-33e8-49a3-943b-fb6686235aa6"
+        },
+        "topic_item_type": "dbc74838-ad1e-4ffd-9295-c4e13e7f20c6",
+        "uuid": "bb00d41c-b495-446d-8779-8bdf60940e4b"
       }
     ]
   },
