@@ -1708,78 +1708,6 @@
     "v2": false
   },
   {
-    "archive_code": "M5/00017",
-    "contributor": {
-      "birth_year": 1948,
-      "display_name": "Michael \"Misiu\" Edelman",
-      "gender": "man",
-      "uuid": "31aac4e3-68bb-41e2-a983-cc278f5c56d9"
-    },
-    "coordinates": "",
-    "created": "Mon, 07 Aug 2023 09:02:26 GMT",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Mon, 07 Aug 2023 08:57:59 GMT",
-        "dms_id": "019EE5jKkVsBU",
-        "license": "CC BY-NC",
-        "mime_type": "audio/mpeg",
-        "modified": "Mon, 07 Aug 2023 08:57:59 GMT",
-        "name": "Intervju Michael Misiu Edelman.MP3",
-        "order_by_number": 1,
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "audio",
-        "uuid": "ec9773ed-f4b6-4be2-99dc-bdee0dc7134f",
-        "owner": "Okänd"
-      }
-    ],
-    "modified": "Mon, 07 Aug 2023 09:03:14 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/22679",
-    "published": true,
-    "school_class": {
-      "grade": "5",
-      "name": "5A"
-    },
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "7132fc80-e11b-4799-a548-5a54ae98f663",
-    "v2": false,
-    "values": [
-      {
-        "created": "Mon, 07 Aug 2023 09:02:26 GMT",
-        "display_value": "Michael Edelman, även kallad Misiu, berättar i intervjun om sitt liv och hur han tillsammans med andra kom att organisera sociala aktiviteter för denna migration av polska judar i Sverige.",
-        "modified": "Mon, 07 Aug 2023 09:02:26 GMT",
-        "option_labels": [],
-        "topic_item": {
-          "label": "Din levnadsberättelse",
-          "label_i18n": {
-            "sv": "Din levnadsberättelse"
-          },
-          "type": "Textarea",
-          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
-        },
-        "uuid": "b4ebb50a-87f8-4443-b25c-e2640ef4d920"
-      }
-    ]
-  },
-  {
     "archive_code": "M5/00021",
     "contributor": {
       "display_name": "Barbara Rubinstein"
@@ -1861,6 +1789,78 @@
           "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
         },
         "uuid": "1347680c-a851-49f5-870f-8218f90dbd3c"
+      }
+    ]
+  },
+  {
+    "archive_code": "M5/00017",
+    "contributor": {
+      "birth_year": 1948,
+      "display_name": "Michael \"Misiu\" Edelman",
+      "gender": "man",
+      "uuid": "31aac4e3-68bb-41e2-a983-cc278f5c56d9"
+    },
+    "coordinates": "",
+    "created": "Mon, 07 Aug 2023 09:02:26 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 07 Aug 2023 08:57:59 GMT",
+        "dms_id": "019EE5jKkVsBU",
+        "license": "CC BY-NC",
+        "mime_type": "audio/mpeg",
+        "modified": "Mon, 07 Aug 2023 08:57:59 GMT",
+        "name": "Intervju Michael Misiu Edelman.MP3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "audio",
+        "uuid": "ec9773ed-f4b6-4be2-99dc-bdee0dc7134f",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 07 Aug 2023 09:03:14 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22679",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "7132fc80-e11b-4799-a548-5a54ae98f663",
+    "v2": false,
+    "values": [
+      {
+        "created": "Mon, 07 Aug 2023 09:02:26 GMT",
+        "display_value": "Michael Edelman, även kallad Misiu, berättar i intervjun om sitt liv och hur han tillsammans med andra kom att organisera sociala aktiviteter för denna migration av polska judar i Sverige.",
+        "modified": "Mon, 07 Aug 2023 09:02:26 GMT",
+        "option_labels": [],
+        "topic_item": {
+          "label": "Din levnadsberättelse",
+          "label_i18n": {
+            "sv": "Din levnadsberättelse"
+          },
+          "type": "Textarea",
+          "uuid": "d58e5ff5-763f-4b84-8899-6cde6498c6c7"
+        },
+        "uuid": "b4ebb50a-87f8-4443-b25c-e2640ef4d920"
       }
     ]
   }
