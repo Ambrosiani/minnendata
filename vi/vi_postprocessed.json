@@ -1612,6 +1612,91 @@
     "v2": false
   },
   {
+    "archive_code": "M5/00021",
+    "contributor": {
+      "display_name": "Barbara Rubinstein"
+    },
+    "coordinates": "",
+    "created": "Sun, 01 Oct 2023 20:55:48 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Sun, 01 Oct 2023 20:52:26 GMT",
+        "description": "Intervju-översättning",
+        "dms_id": "019EE6EmkAnj4",
+        "license": "CC BY",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "modified": "Sun, 01 Oct 2023 20:52:26 GMT",
+        "name": "Min storebror svimmade.docx",
+        "order_by_number": 1,
+        "owner": "Teresa Toranska",
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "document",
+        "uuid": "5630f7d1-81f2-4e89-9e13-8104070ca889"
+      }
+    ],
+    "modified": "Mon, 02 Oct 2023 15:08:41 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22968",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "title": "",
+    "title_i18n": {
+      "sv": ""
+    },
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "3cef8655-56ca-4399-b821-3bb3884cb4c6",
+    "v2": false,
+    "values": [
+      {
+        "created": "Sun, 01 Oct 2023 20:55:48 GMT",
+        "display_value": "1969 11 26",
+        "modified": "Sun, 01 Oct 2023 20:55:48 GMT",
+        "option_labels": [],
+        "topic_item": {
+          "label": "Ankomstdatum till Sverige:",
+          "label_i18n": {
+            "sv": "Ankomstdatum till Sverige:"
+          },
+          "type": "Textarea",
+          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
+        },
+        "uuid": "1c90ec4a-808e-4882-9999-0b5652b3e254"
+      },
+      {
+        "created": "Sun, 01 Oct 2023 20:55:48 GMT",
+        "display_value": "Warszawa",
+        "modified": "Sun, 01 Oct 2023 20:55:48 GMT",
+        "option_labels": [],
+        "topic_item": {
+          "label": "Tidigare bostadsorter:",
+          "label_i18n": {
+            "sv": "Tidigare bostadsorter:"
+          },
+          "type": "Textarea",
+          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
+        },
+        "uuid": "1347680c-a851-49f5-870f-8218f90dbd3c"
+      }
+    ]
+  },
+  {
     "archive_code": "M5/00019",
     "contributor": {
       "display_name": "Danuta Biterman, Katarina Warman och Regina Fuks",
@@ -1706,91 +1791,6 @@
     },
     "uuid": "1280c458-205b-4186-b5ea-a878a3e723a6",
     "v2": false
-  },
-  {
-    "archive_code": "M5/00021",
-    "contributor": {
-      "display_name": "Barbara Rubinstein"
-    },
-    "coordinates": "",
-    "created": "Sun, 01 Oct 2023 20:55:48 GMT",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Sun, 01 Oct 2023 20:52:26 GMT",
-        "description": "Intervju-översättning",
-        "dms_id": "019EE6EmkAnj4",
-        "license": "CC BY",
-        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "modified": "Sun, 01 Oct 2023 20:52:26 GMT",
-        "name": "Min storebror svimmade.docx",
-        "order_by_number": 1,
-        "owner": "Teresa Toranska",
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "document",
-        "uuid": "5630f7d1-81f2-4e89-9e13-8104070ca889"
-      }
-    ],
-    "modified": "Mon, 02 Oct 2023 15:08:41 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/22968",
-    "published": true,
-    "school_class": {
-      "grade": "5",
-      "name": "5A"
-    },
-    "submitted": false,
-    "title": "",
-    "title_i18n": {
-      "sv": ""
-    },
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "3cef8655-56ca-4399-b821-3bb3884cb4c6",
-    "v2": false,
-    "values": [
-      {
-        "created": "Sun, 01 Oct 2023 20:55:48 GMT",
-        "display_value": "1969 11 26",
-        "modified": "Sun, 01 Oct 2023 20:55:48 GMT",
-        "option_labels": [],
-        "topic_item": {
-          "label": "Ankomstdatum till Sverige:",
-          "label_i18n": {
-            "sv": "Ankomstdatum till Sverige:"
-          },
-          "type": "Textarea",
-          "uuid": "ab9f42d8-a2cc-4eb1-928a-8a7ff91747ab"
-        },
-        "uuid": "1c90ec4a-808e-4882-9999-0b5652b3e254"
-      },
-      {
-        "created": "Sun, 01 Oct 2023 20:55:48 GMT",
-        "display_value": "Warszawa",
-        "modified": "Sun, 01 Oct 2023 20:55:48 GMT",
-        "option_labels": [],
-        "topic_item": {
-          "label": "Tidigare bostadsorter:",
-          "label_i18n": {
-            "sv": "Tidigare bostadsorter:"
-          },
-          "type": "Textarea",
-          "uuid": "187d0728-3c06-46f4-95c3-43bf8b3c4b91"
-        },
-        "uuid": "1347680c-a851-49f5-870f-8218f90dbd3c"
-      }
-    ]
   },
   {
     "archive_code": "M5/00017",
