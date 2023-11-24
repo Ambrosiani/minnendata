@@ -1564,54 +1564,6 @@
     ]
   },
   {
-    "archive_code": "M5/00020",
-    "contributor": {
-      "display_name": "Maja Orska och Wowa Klamra",
-      "uuid": "24da01e7-c208-4d53-ba45-80961ba0d7f5"
-    },
-    "created": "Mon, 07 Aug 2023 09:46:21 GMT",
-    "license": "CC BY",
-    "media": [
-      {
-        "created": "Mon, 07 Aug 2023 09:45:34 GMT",
-        "dms_id": "019EE5jKkVsFo",
-        "license": "CC0",
-        "mime_type": "audio/mpeg",
-        "modified": "Mon, 07 Aug 2023 09:45:34 GMT",
-        "name": "Intervju Maja Orska och Wowa Klamra.MP3",
-        "order_by_number": 1,
-        "topic_item": {
-          "label": "Ladda upp filer",
-          "label_i18n": {
-            "sv": "Ladda upp filer"
-          },
-          "type": "Media",
-          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
-        },
-        "type": "audio",
-        "uuid": "5b4872b2-c62d-461b-ad7a-5a1596b19f4d",
-        "owner": "Okänd"
-      }
-    ],
-    "modified": "Mon, 07 Aug 2023 09:46:21 GMT",
-    "presentation_url": "https://minnen.se/tema/vi/22682",
-    "published": true,
-    "school_class": {
-      "grade": "5",
-      "name": "5A"
-    },
-    "submitted": false,
-    "topic": {
-      "name": "Vi, de fördrivna",
-      "name_i18n": {
-        "sv": "Vi, de fördrivna"
-      },
-      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
-    },
-    "uuid": "8a48c8bf-9fdd-4758-b4dd-6dd5acb1a0be",
-    "v2": false
-  },
-  {
     "archive_code": "M5/00021",
     "contributor": {
       "display_name": "Barbara Rubinstein"
@@ -1695,6 +1647,54 @@
         "uuid": "1347680c-a851-49f5-870f-8218f90dbd3c"
       }
     ]
+  },
+  {
+    "archive_code": "M5/00020",
+    "contributor": {
+      "display_name": "Maja Orska och Wowa Klamra",
+      "uuid": "24da01e7-c208-4d53-ba45-80961ba0d7f5"
+    },
+    "created": "Mon, 07 Aug 2023 09:46:21 GMT",
+    "license": "CC BY",
+    "media": [
+      {
+        "created": "Mon, 07 Aug 2023 09:45:34 GMT",
+        "dms_id": "019EE5jKkVsFo",
+        "license": "CC0",
+        "mime_type": "audio/mpeg",
+        "modified": "Mon, 07 Aug 2023 09:45:34 GMT",
+        "name": "Intervju Maja Orska och Wowa Klamra.MP3",
+        "order_by_number": 1,
+        "topic_item": {
+          "label": "Ladda upp filer",
+          "label_i18n": {
+            "sv": "Ladda upp filer"
+          },
+          "type": "Media",
+          "uuid": "e58ae7fd-30f9-4443-883a-e91dcd26770a"
+        },
+        "type": "audio",
+        "uuid": "5b4872b2-c62d-461b-ad7a-5a1596b19f4d",
+        "owner": "Okänd"
+      }
+    ],
+    "modified": "Mon, 07 Aug 2023 09:46:21 GMT",
+    "presentation_url": "https://minnen.se/tema/vi/22682",
+    "published": true,
+    "school_class": {
+      "grade": "5",
+      "name": "5A"
+    },
+    "submitted": false,
+    "topic": {
+      "name": "Vi, de fördrivna",
+      "name_i18n": {
+        "sv": "Vi, de fördrivna"
+      },
+      "uuid": "0f976fb0-b14b-4ef8-8bf9-84f3f07e1736"
+    },
+    "uuid": "8a48c8bf-9fdd-4758-b4dd-6dd5acb1a0be",
+    "v2": false
   },
   {
     "archive_code": "M5/00019",
